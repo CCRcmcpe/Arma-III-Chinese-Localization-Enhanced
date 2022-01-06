@@ -217,7 +217,7 @@
             <Key ID="str_a3_faction_independent_05_i_ground_exi_1">
               <Original>The AFV-4 Gorgon is an 8x8 APC armed with a 30mm cannon.</Original>
               <Chinese>AFV-4"蛇髮女妖"是一臺8輪驅動的裝甲運兵車，配備著30公厘加農砲。</Chinese>
-              <Chinesesimp>AFV-4"蛇发女妖"是一种8轮驱动的装甲运兵车，配备着30mm 加农炮。</Chinesesimp>
+              <Chinesesimp>AFV-4"蛇发女妖"是一种8轮驱动的装甲运兵车，配备着30mm 机炮。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_05_i_ground_exi_2">
               <Original>The quad bike is an all-terrain vehicle used for recon and to access terrain heavier vehicles cannot traverse.</Original>
@@ -385,7 +385,7 @@
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_1">
               <Original>The M2A1 Slammer is a main battle tank armed with a 120mm cannon.</Original>
               <Chinese>M2A1"重擊者"是一臺配備120公厘加農砲的主戰坦克。</Chinese>
-              <Chinesesimp>M2A1"重击者"是一种配备120mm 加农炮的主战坦克。</Chinesesimp>
+              <Chinesesimp>M2A1"重击者"是一种配备120mm 坦克炮的主战坦克。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_2">
               <Original>The Panther is an armored personnel carrier armed with a 12.7mm machine gun, 40mm grenade launcher, and a cargo capacity for up to eight soldiers.</Original>
@@ -551,7 +551,7 @@
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_2">
               <Original>The T100 Varsuk main battle tank is equipped with a standard 125mm canon.</Original>
               <Chinese>T100"獾"是一臺配備125公厘加農砲的主戰坦克。</Chinese>
-              <Chinesesimp>T100"獾"是一辆配备125mm 加农炮的主战坦克。</Chinesesimp>
+              <Chinesesimp>T100"獾"是一辆配备125mm 坦克炮的主战坦克。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_3">
               <Original>The Qilin is a Light Strike Vehicle used by special operation groups. Its advantage lies in its small profile and high mobility.</Original>

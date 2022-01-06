@@ -214,7 +214,7 @@
       <Key ID="str_a3_cfgvehicles_i_lt_01_cannon_f0">
         <Original>AWC 304 Nyx (Autocannon)</Original>
         <Chinese>AWC304"夜神"(自動炮型)</Chinese>
-        <Chinesesimp>AWC304"夜神"(自动炮型)</Chinesesimp>
+        <Chinesesimp>AWC304"夜神"(机炮型)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_lt_01_at_f0">
         <Original>AWC 301 Nyx (AT)</Original>
@@ -366,7 +366,7 @@
       <Key ID="str_a3_cannon_20mm0">
         <Original>Cannon 20mm</Original>
         <Chinese>20公厘自動炮</Chinese>
-        <Chinesesimp>20mm 自动炮</Chinesesimp>
+        <Chinesesimp>20mm 机炮</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_2rnd_127mm_firefist_missiles0">
         <Original>FireFIST ATGM Missile</Original>
@@ -726,7 +726,7 @@
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list2">
         <Original>flexibly deploy any of these smaller and nimbler armored vehicles as Anti-Tank, Anti-Air, Recon, and Autocannon variants.</Original>
         <Chinese>靈活地部署這些較小且較為靈活的裝甲車輛的反坦克、防空、偵察和自動炮型號。</Chinese>
-        <Chinesesimp>灵活地部署这些较小且较为灵活的装甲车辆的反坦克、防空、侦察和自动炮型号。</Chinesesimp>
+        <Chinesesimp>灵活地部署这些较小且较为灵活的装甲车辆的反坦克、防空、侦察和机炮型号。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list1_title">
         <Original>T-140 Angara</Original>
@@ -993,7 +993,7 @@
       <Key ID="str_a3_angara_library1">
         <Original>A licensed variant of the original Russian design operated by the elite of CSAT armored forces. The tank is equipped with a high velocity, high-accuracy 125mm cannon, a 7.62mm coaxial machinegun, and a 12.7mm HMG in a remote turret. The crew is located in an armored capsule in the hull, improving survivability and eliminating one of the weaknesses of older tank designs. The disadvantage is its technical complexity and cost, resulting in low production numbers. Two main variants are currently in use - the standard T-140 and the T-140K, a 'commander' variant which exchanges the HMG for a 30mm autocannon. In addition, it also provides additional radios and sensors for platoon and company leaders.</Original>
         <Chinese>一種原屬俄羅斯設計、由廣協同盟許可證生產並由其最精銳裝甲部隊裝備的型號。這種坦克安裝一門高速、高精度125mm 主炮，一挺7.62mm 並列機槍，以及一挺12.7mm 遙控機槍。塵緣被配置在車體內的裝甲艙內，提高了乘員生存率，並消滅了舊的坦克設計中的一項弱點。缺點在於其技術複雜性和成本，導致其產量較低。目前在使用的有兩種型號-標準的T-140型和T-140K"指揮型"，該型號用30mm 自動炮替代了重機槍。除此之外，指揮型還安裝了更多的無線電和傳感器，用於排、連級指揮。</Chinese>
-        <Chinesesimp>一种原属俄罗斯设计、由广协同盟许可证生产并由其最精锐装甲部队装备的型号。这种坦克安装一门高速、高精度125mm 主炮，一挺7.62mm 并列机枪，以及一挺12.7mm 遥控机枪。尘缘被配置在车体内的装甲舱内，提高了乘员生存率，并消灭了旧的坦克设计中的一项弱点。缺点在于其技术复杂性和成本，导致其产量较低。目前在使用的有两种型号-标准的T-140型和T-140K"指挥型"，该型号用30mm 自动炮替代了重机枪。除此之外，指挥型还安装了更多的无线电和传感器，用于排、连级指挥。</Chinesesimp>
+        <Chinesesimp>一种原属俄罗斯设计、由广协同盟许可证生产并由其最精锐装甲部队装备的型号。这种坦克安装一门高速、高精度125mm 主炮，一挺7.62mm 并列机枪，以及一挺12.7mm 遥控机枪。尘缘被配置在车体内的装甲舱内，提高了乘员生存率，并消灭了旧的坦克设计中的一项弱点。缺点在于其技术复杂性和成本，导致其产量较低。目前在使用的有两种型号-标准的T-140型和T-140K"指挥型"，该型号用30mm 机炮替代了重机枪。除此之外，指挥型还安装了更多的无线电和传感器，用于排、连级指挥。</Chinesesimp>
       </Key>
       <Key ID="str_a3_angara_library0">
         <Original>T-140 Angara</Original>

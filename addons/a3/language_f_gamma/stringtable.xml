@@ -701,12 +701,12 @@
         <Key ID="str_a3_cannon_120mm0">
           <Original>Cannon 120 mm</Original>
           <Chinese>120公厘加農砲</Chinese>
-          <Chinesesimp>120mm 加农炮</Chinesesimp>
+          <Chinesesimp>120mm 坦克炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_autocannon_35mm0">
           <Original>Autocannon 35 mm</Original>
           <Chinese>35公厘自動加農炮</Chinese>
-          <Chinesesimp>35mm 自动炮</Chinesesimp>
+          <Chinesesimp>35mm 机炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_autocannon_35mm_manual0">
           <Original>Manual</Original>
@@ -1591,7 +1591,7 @@
         <Key ID="str_a3_cfgvehicles_mbt_01_cannon_base_f_library0">
           <Original>A licensed copy of an Israeli tank built in Central Europe. This tank is built for versatile use on the battlefield and maximal crew protection, which gained significant appreciation from western Europe armies in the 21st century. The M2A1 is armed with 120 mm cannon and a coaxial machinegun and can also be used as mobile artillery. This tank has proven itself in battle and thanks to heavy manufacture, it became the second most wide spread main battle tank of many countries in the world.</Original>
           <Chinese>一種產自中歐並獲得授權的以色列坦克復製品。這種坦克因功能全面且可對組員提供最大化的保護，在21世紀時備受西歐國家的青睞。M2A1裝備有120公厘加農炮和同軸機槍，使它可以變為移動砲臺。這種經濟實惠的主戰坦克，目前已經成為世界第二大主流坦克。</Chinese>
-          <Chinesesimp>一种在中欧许可证生产的以色列坦克。这种坦克因功能全面且可对组员提供最大化的保护，在21世纪时备受西欧国家的青睐。M2A1装备有120mm 加农炮和同轴机枪，使它可以变为移动炮台。这种经济实惠的主战坦克，目前已经成为世界第二大主流坦克。</Chinesesimp>
+          <Chinesesimp>一种在中欧许可证生产的以色列坦克。这种坦克因功能全面且可对组员提供最大化的保护，在21世纪时备受西欧国家的青睐。M2A1装备有120mm 坦克炮和同轴机枪，使它可以变为移动炮台。这种经济实惠的主战坦克，目前已经成为世界第二大主流坦克。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_apc_wheeled_01_medical_library0">
           <Original>APC (Armored Personnel Carrier) vehicles are used to deploy soldiers and to exfiltrate them away from a battlezone. The vehicle is designed to sustain damage from mines and to quickly get to a designated position even in rough terrain.</Original>
@@ -1606,7 +1606,7 @@
         <Key ID="str_a3_cfgvehicles_b_mbt_01_base_library0">
           <Original>A licensed copy of an Israeli tank built in Central Europe. This tank is built for versatile use on the battlefield and maximal crew protection, which gained significant appreciation from western Europe armies in the 21st century. The M2A4 is armed with 120mm cannon and two machine-guns and can also be used as mobile artillery. This tank has proven itself in battle and thanks to heavy licensed manufacture, became the second most wide spread main battle tank of many countries in the world.</Original>
           <Chinese>一種產自中歐並獲得授權的以色列坦克復製品。這種坦克因功能全面且可對組員提供最大化的保護，在21世紀時備受西歐國家的青睞。M2A4裝備有120mm加農炮和兩挺機槍，使它可以變為移動砲臺。這種經濟實惠的主戰坦克，目前已經成為世界第二大主流坦克。</Chinese>
-          <Chinesesimp>一种在中欧许可证生产的以色列坦克。这种坦克因功能全面且可对组员提供最大化的保护，在21世纪时备受西欧国家的青睐。M2A1装备有120mm 加农炮和同轴机枪，使它可以变为移动炮台。这种经济实惠的主战坦克，目前已经成为世界第二大主流坦克。</Chinesesimp>
+          <Chinesesimp>一种在中欧许可证生产的以色列坦克。这种坦克因功能全面且可对组员提供最大化的保护，在21世纪时备受西欧国家的青睐。M2A1装备有120mm 坦克炮和同轴机枪，使它可以变为移动炮台。这种经济实惠的主战坦克，目前已经成为世界第二大主流坦克。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_apc_wheeled_03_wapc_library0">
           <Original>The AFV-4 Gorgon is an amphibious 8x8 all-wheel-drive armored person carrier vehicle, used to carry soldiers to the battlefield and provide fire support. Its remote controlled CTWS turret is usually mounted with a 30 mm cannon, coaxial machinegun and 2 AT guided missiles. Crew consists of 11 soldiers including driver, gunner/commander.</Original>
@@ -1616,7 +1616,7 @@
         <Key ID="str_a3_cfgvehicles_mbt_02_base_library0">
           <Original>A modernized version of the Russian T-95 MBT. The ongoing development of the new generation battle tank was restarted in 2016 thanks to revenues from the oil crisis. The new concept of battle tank is lower and lighter, with increased maneuverability. The T-100 Varsuk comes with a standard 125 mm cannon, 7.62 mm coaxial machine gun and a commander-controlled NSVT-M 12.7 mm HMG.</Original>
           <Chinese>一種俄羅斯T-95主戰坦克的現代版本。新一代主戰坦克的發展得益於2016年石油危機所帶來的收益。這種新坦克更輕更低，為的是讓機動性更好。T-100"獾"式主戰坦克使用標準125公厘加農炮，7.62公厘同軸機槍，指揮官座位還配有遙控版NSVT-M 12.7公厘重機槍。</Chinese>
-          <Chinesesimp>一种俄罗斯T-95主战坦克的现代版本。新一代主战坦克的发展得益于2016年石油危机所带来的收益。这种新坦克更轻更低，为的是让机动性更好。T-100"獾"式主战坦克使用标准125mm 加农炮，7.62mm 同轴机枪，车长座位还配有遥控版NSVT-M 12.7mm 重机枪。</Chinesesimp>
+          <Chinesesimp>一种俄罗斯T-95主战坦克的现代版本。新一代主战坦克的发展得益于2016年石油危机所带来的收益。这种新坦克更轻更低，为的是让机动性更好。T-100"獾"式主战坦克使用标准125mm 坦克炮，7.62mm 同轴机枪，车长座位还配有遥控版NSVT-M 12.7mm 重机枪。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_van_01_base_library0">
           <Original>The civilian 4x4 truck is a highly customizable truck with off-road capabilities preferred by the civilian population. It builds on retro design, but utilizes a modern engine and electronics. Most common truck setups are boxed, cistern and pick-up set.</Original>

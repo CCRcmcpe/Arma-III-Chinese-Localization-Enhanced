@@ -169,7 +169,7 @@
       <Key ID="str_a3_cannon_125mm0">
         <Original>Cannon 125mm </Original>
         <Chinese>125公厘加農砲</Chinese>
-        <Chinesesimp>125mm 加农炮</Chinesesimp>
+        <Chinesesimp>125mm 坦克炮</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CFGMAGAZINES_IR_GRENADE_DNS">
         <Original>IR Grenade</Original>
@@ -191,7 +191,7 @@
       <Key ID="str_a3_cfgvehicles_mbt_03_base_f_library0">
         <Original>The MBT-52 Kuma is the main battle tank used by Altian Armed Forces. A batch of a few dozen tanks and spare turrets were bought underprice from a south-European country facing an economic collapse. Like similar MBTs of the era, the Kuma is armed with a 120 mm cannon, a 7.62 mm coaxial machinegun and a remotely controlled 12.7 mm HMG. The level of protection for the crew is also remarkable, thanks to additional armor layers. </Original>
         <Chinese>MBT-52"庫瑪"是阿爾蒂斯武裝力量的主戰坦克。他們從一個面臨經濟困境的南歐國家手中，以劃算的價格購買了一批坦克與相關備用零件。就像其他同期的主戰坦克，"庫瑪"配備著120公厘加農砲，一挺7.62公厘同軸機槍和一個裝有12.7公厘重機槍的遙控砲塔。它對組員的保護也有相應的提升，這得歸功於它外面的那層裝甲。</Chinese>
-        <Chinesesimp>MBT-52"库玛"是阿尔蒂斯武装力量的主战坦克。他们从一个面临经济崩溃的南欧国家手中以划算的价格购买了一批坦克与相关备用零件。就像其他同时代的主战坦克一样，"库玛"装备一门120mm 加农炮，一挺7.62mm 同轴机枪和一个装有12.7mm 重机枪的遥控炮塔。借由附加装甲，它对乘员的保护也有相应的提升。</Chinesesimp>
+        <Chinesesimp>MBT-52"库玛"是阿尔蒂斯武装力量的主战坦克。他们从一个面临经济崩溃的南欧国家手中以划算的价格购买了一批坦克与相关备用零件。就像其他同时代的主战坦克一样，"库玛"装备一门120mm 坦克炮，一挺7.62mm 同轴机枪和一个装有12.7mm 重机枪的遥控炮塔。借由附加装甲，它对乘员的保护也有相应的提升。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_mbt_03_cannon_f0">
         <Original>MBT-52 Kuma</Original>
