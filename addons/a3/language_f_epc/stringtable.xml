@@ -182,17 +182,17 @@
       <Key ID="str_a3_gatling_30mm_plane_cas_01_f0">
         <Original>Minigun 30 mm</Original>
         <Chinese>30公厘"米尼岡"機槍</Chinese>
-        <Chinesesimp>30毫米"米尼岗"机炮</Chinesesimp>
+        <Chinesesimp>30mm 转管机炮</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_20rnd_105mm_heat0">
         <Original>105mm HEAT-MP</Original>
         <Chinese>105公厘高爆穿甲多用途彈</Chinese>
-        <Chinesesimp>105毫米高爆破甲多用途弹</Chinesesimp>
+        <Chinesesimp>105mm 高爆破甲多用途弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_40rnd_105mm_apfsds_t0">
         <Original>105mm APFSDS-T</Original>
         <Chinese>105公厘尾翼穩定脫殼穿甲曳光彈</Chinese>
-        <Chinesesimp>105毫米尾翼稳定脱壳穿甲曳光弹</Chinesesimp>
+        <Chinesesimp>105mm 尾翼稳定脱壳穿甲曳光弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_bomb_03_f0">
         <Original>LOM-250G</Original>
@@ -202,27 +202,27 @@
       <Key ID="str_a3_cfgmagazines_40rnd_105mm_apfsds0">
         <Original>105mm APFSDS</Original>
         <Chinese>105公厘尾翼穩定脫殼穿甲彈</Chinese>
-        <Chinesesimp>105毫米尾翼稳定脱壳穿甲弹</Chinesesimp>
+        <Chinesesimp>105mm 尾翼稳定脱壳穿甲弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cannon_105mm0">
         <Original>Cannon 105 mm</Original>
         <Chinese>105公厘加農砲</Chinese>
-        <Chinesesimp>105毫米加农炮</Chinesesimp>
+        <Chinesesimp>105mm 加农炮</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMagazines_12Rnd_125mm_HEAT_T0">
         <Original>125mm HEAT-T</Original>
         <Chinese>125公厘高爆穿甲曳光彈</Chinese>
-        <Chinesesimp>125毫米高爆破甲曳光弹</Chinesesimp>
+        <Chinesesimp>125mm 高爆破甲曳光弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMagazines_12Rnd_125mm_HE_T0">
         <Original>125mm HE-T</Original>
         <Chinese>125公厘高爆曳光彈</Chinese>
-        <Chinesesimp>125毫米高爆曳光弹</Chinesesimp>
+        <Chinesesimp>125mm 高爆曳光弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMagazines_24nd_125mm_APFSDS_T0">
         <Original>125mm APFSDS-T</Original>
         <Chinese>125公厘尾翼穩定脫殼穿甲曳光彈</Chinese>
-        <Chinesesimp>125毫米尾翼稳定脱壳穿甲曳光弹</Chinesesimp>
+        <Chinesesimp>125mm 尾翼稳定脱壳穿甲曳光弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgmagazines_heat_mp0">
         <Original>HEAT-MP</Original>
@@ -239,7 +239,7 @@
       <Key ID="str_a3_cfgvehicles_o_plane_cas_02_f_library0">
         <Original>The To-199 Neophron is a new addition to CSAT air forces. An agile single-seat aircraft is used for close air support but can also take down air threats. It cannot carry as much payload as NATO's A-164 and has to rearm more often, but it can take-off from even the roughest terrain, not being so dependent on air bases or aircraft carriers. Neophron in CAS variant is fitted with 30 mm Cannon, Sahr-3 short range air-to-air missiles, Sharur air-to-ground missiles, Tratnyr rockets (HE and AP variants) and LOM-250G bombs.</Original>
         <Chinese>To-199"兀鷲"是一臺最近才開始在廣協同盟空軍中服役的攻擊機。它是一臺靈敏的單座攻擊機，主要用於密接空中支援與空中攔截。它的負載量並不像北約的A-164那樣多，所以它必須更常進行補給，不過它的優點是能在最惡劣的地形中進行起降，並不需要特別依賴空軍基地或航空母艦。"兀鷲"的密接空中支援版本配備有30公厘機炮，"沙爾"-3短程空對空飛彈，"神杖"空對地飛彈，"矛叉"火箭彈(有高爆或穿甲的彈藥)以及LOM-250G炸彈。</Chinese>
-        <Chinesesimp>To-199"兀鹫"是最近才开始在广协同盟空军中服役的攻击机。它是一种灵活的单座攻击机，主要用于近距离空中支援，但也能对付空中威胁。它的负载量并没有北约的A-164那样多，所以它必须经常进行补给，不过它的优点是能在最恶劣的地形中进行起降，并不需要特别依赖空军基地或航空母舰。"兀鹫"的近距离空中支援版本配备有30毫米机炮，"沙尔"-3短程空对空导弹，"神杖"空对地导弹，"矛叉"火箭弹(有高爆和穿甲两型)以及LOM-250G炸弹。</Chinesesimp>
+        <Chinesesimp>To-199"兀鹫"是最近才开始在广协同盟空军中服役的攻击机。它是一种灵活的单座攻击机，主要用于近距离空中支援，但也能对付空中威胁。它的负载量并没有北约的A-164那样多，所以它必须经常进行补给，不过它的优点是能在最恶劣的地形中进行起降，并不需要特别依赖空军基地或航空母舰。"兀鹫"的近距离空中支援版本配备有30mm 机炮，"沙尔"-3短程空对空导弹，"神杖"空对地导弹，"矛叉"火箭弹(有高爆和穿甲两型)以及LOM-250G炸弹。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_plane_cas_02_f0">
         <Original>To-199 Neophron (CAS)</Original>
@@ -249,7 +249,7 @@
       <Key ID="str_a3_cfgvehicles_b_plane_cas_01_f_library0">
         <Original>The A-164 Wipeout is a single-seat aircraft used for close air support and air interdiction. The life-cycle of its predecessor, the A-10, ended in 2030 and the need for replacement grew more important with the rising tension in the Pacific. A limited development budget did not allow for a fresh start, instead the concept of the A-10 was improved with better shape, engines and armaments. Wipeout is armed with a 30 mm seven-barrel Minigun, Falchion-22 short range air-to-air missiles, Macer air-to-ground missiles, unguided Shrieker rockets (HE and AP variants) and GBU-12 laser guided bombs.</Original>
         <Chinese>A-164"抹殺者"是一臺單座攻擊機，主要的任務是密接空中支援與空中遮斷。他的前身是A-10，A-10於2030服役完後，軍方急需一臺代替品來因應太平洋區的緊張情勢。在有限的資源與不能重頭開發的壓力之下，他們直接把A-10的機身做改進，並加強了引擎與武裝來製作成A-164。"抹殺者"配備有30公厘七管"米尼岡"机炮，"大刀"-22短程空對空飛彈，"梅瑟"空地飛彈，無導引"尖叫者"火箭彈(有高爆或穿甲的彈藥)以及GBU-12雷射導引炸彈。</Chinese>
-        <Chinesesimp>A-164"抹杀者"是一种单座攻击机，主要用于近距离空中支援与空中遮断。在其前身A-10于2030年退役后，军方急需一种代替品来应对太平洋地区的紧张情势。资源的紧缺不允许开展全新设计，于是设计方直接在A-10的基础上改进外形，发动机和武器，成果便是A-164。"抹杀者"配备有30毫米七管"米尼岗"机炮，"大刀"-22短程空对空导弹，"梅瑟"空地导弹，无引导"尖叫者"火箭弹(有高爆或穿甲的弹药)以及GBU-12激光制导炸弹。</Chinesesimp>
+        <Chinesesimp>A-164"抹杀者"是一种单座攻击机，主要用于近距离空中支援与空中遮断。在其前身A-10于2030年退役后，军方急需一种代替品来应对太平洋地区的紧张情势。资源的紧缺不允许开展全新设计，于是设计方直接在A-10的基础上改进外形，发动机和武器，成果便是A-164。"抹杀者"配备有30mm 七管转管机炮，"大刀"-22短程空对空导弹，"梅瑟"空地导弹，无引导"尖叫者"火箭弹(有高爆或穿甲的弹药)以及GBU-12激光制导炸弹。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_plane_cas_01_f0">
         <Original>A-164 Wipeout (CAS)</Original>
@@ -766,7 +766,7 @@
       <Key ID="STR_A3_sfgvehicles_b_mbt_01_tusk_f_library">
         <Original>The M2A4 Slammer UP is the urban purpose variant of the M2A1 Slammer. Compared to the basic version, it features heavier armor with reinforced rear of the tank and a remote-controlled turret fitted with 12.7 mm heavy machine gun.</Original>
         <Chinese>M2A4"重擊者"主戰坦克城市戰版是M2A1"重擊者"主戰坦克的衍生型號。跟原版相比它的裝甲更為厚重，並且為車長增設了一個裝備有12.7公厘重機槍的遙控武器站。</Chinese>
-        <Chinesesimp>M2A4"重击者"主战坦克城市战版是M2A1"重击者"主战坦克的衍生型号。跟原版相比它的装甲更为厚重，并且为车长增设了一个装备有12.7毫米重机枪的遥控武器站。</Chinesesimp>
+        <Chinesesimp>M2A4"重击者"主战坦克城市战版是M2A1"重击者"主战坦克的衍生型号。跟原版相比它的装甲更为厚重，并且为车长增设了一个装备有12.7mm 重机枪的遥控武器站。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Sounds_F">
@@ -992,17 +992,17 @@
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsShells_F_Arguments_Type_Values_Ammo556_0">
         <Original>5.56 mm</Original>
         <Chinese>5.56公厘</Chinese>
-        <Chinesesimp>5.56毫米</Chinesesimp>
+        <Chinesesimp>5.56mm </Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsShells_F_Arguments_Type_Values_Ammo65_0">
         <Original>6.5 mm</Original>
         <Chinese>6.5公厘</Chinese>
-        <Chinesesimp>6.5毫米</Chinesesimp>
+        <Chinesesimp>6.5mm </Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsShells_F_Arguments_Type_Values_Ammo762_0">
         <Original>7.62 mm</Original>
         <Chinese>7.62公厘</Chinese>
-        <Chinesesimp>7.62毫米</Chinesesimp>
+        <Chinesesimp>7.62mm </Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsFire_F_0">
         <Original>Fire</Original>
@@ -1032,7 +1032,7 @@
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsShells_F_Arguments_Type_Values_Ammo127_0">
         <Original>12.7 mm</Original>
         <Chinese>12.7公厘</Chinese>
-        <Chinesesimp>12.7毫米</Chinesesimp>
+        <Chinesesimp>12.7mm </Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsFire_F_Arguments_ColorGreen_0">
         <Original>Color - Green</Original>

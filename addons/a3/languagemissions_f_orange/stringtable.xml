@@ -284,12 +284,12 @@
           <Key ID="str_a3_orange_aan_text_leaflets_1">
             <Original>He goes on to describe how one defender barricaded a road with stolen civilian vehicles and placed anti-personnel mines near anti-tank ones to complicate clearance; both acts that are strictly prohibited by the laws of war.</Original>
             <Chinese>他繼續描述一名防禦者是如何用偷來的民用車輛製造街壘，並在反坦克地雷周邊敷設反人員地雷使清理更加困難;這兩種行為都被戰爭法嚴格禁止。</Chinese>
-            <Chinesesimp>他继续描述一名防御者是如何用偷来的民用车辆制造街垒，并在反坦克地雷周边敷设反人员地雷使清理更加困难;这两种行为都被战争法严格禁止。</Chinesesimp>
+            <Chinesesimp>他继续描述一名防御者是如何用偷来的民用车辆制造街垒，并在反坦克地雷周边设置反人员地雷使清理更加困难;这两种行为都被战争法严格禁止。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_leaflets_0">
             <Original>He goes on to describe how one defender contravened the laws of war by stealing civilian vehicles (including an ambulance belonging to IDAP) to build a barricade. This same culprit then committed another violation by placing lethal bounding anti-personnel mines near anti-tank ones to complicate clearance.</Original>
             <Chinese>他繼續描述一名防禦者是如何用偷來的民用車輛製造街壘(包括一輛屬於國發援的救護車)，同案犯又在反坦克地雷周邊敷設反人員地雷使清理更加困難。</Chinese>
-            <Chinesesimp>他继续描述一名防御者是如何用偷来的民用车辆制造街垒(包括一辆属于国发援的救护车)，同案犯又在反坦克地雷周边敷设反人员地雷使清理更加困难。</Chinesesimp>
+            <Chinesesimp>他继续描述一名防御者是如何用偷来的民用车辆制造街垒(包括一辆属于国发援的救护车)，同案犯又在反坦克地雷周边设置反人员地雷使清理更加困难。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_escape_1">
             <Original>Due to government soldiers receiving NATO training in the Laws of Armed Conflict, he was able to depend upon the Geneva Conventions and use his civilian status to reach IDAP workers at a nearby church - despite being badly wounded in the bombing.</Original>
@@ -967,7 +967,7 @@
         <Key ID="str_a3_orange_showcase_lawsofwar_task_sim2_mine_short">
           <Original>Place Mines</Original>
           <Chinese>敷設地雷</Chinese>
-          <Chinesesimp>敷设地雷</Chinesesimp>
+          <Chinesesimp>设置地雷</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_showcase_lawsofwar_task_sim2_mine_full">
           <Original>Mine the marked area using at least 4 explosive devices.</Original>

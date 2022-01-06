@@ -166,7 +166,7 @@
             <Key ID="str_a3_faction_independent_20_i_weapons_exi_0">
               <Original>The Mk32 GMG is a static grenade launcher that fires 20mm grenades.</Original>
               <Chinese>Mk32 GMG是一臺固定式的榴彈發射器，發射20公厘榴彈。</Chinese>
-              <Chinesesimp>Mk32 GMG是一种固定式榴弹发射器，发射20毫米榴弹。</Chinesesimp>
+              <Chinesesimp>Mk32 GMG是一种固定式榴弹发射器，发射20mm 榴弹。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_20_i_weapons_exi_1">
               <Original>The Mk20 is a gas-operated, rotating-bolt, selective-fire weapon designed to be highly moddable.</Original>
@@ -193,7 +193,7 @@
             <Key ID="str_a3_faction_independent_15_i_water_exi_2">
               <Original>The speed boat has a front-facing, remote controlled GMG turret, often sporting a rear-mounted minigun or HMG as well.</Original>
               <Chinese>快艇在前面有裝設一座搖控榴彈發射砲塔，在後面會設置"米尼岡"機槍或重機槍。</Chinese>
-              <Chinesesimp>快艇有前向的榴弹机枪塔，在后面会设置"米尼岗"机枪或重机枪。</Chinesesimp>
+              <Chinesesimp>快艇有前向的榴弹机枪塔，在后面会设置转管机枪或重机枪。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_I_Air" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="10_I_Air" dubbingLanguage="english" namePrefix="faction_independent_10_i_air" note="" participants="RC I Expo;" situation="player visits the aerial area of the expo">
@@ -217,7 +217,7 @@
             <Key ID="str_a3_faction_independent_05_i_ground_exi_1">
               <Original>The AFV-4 Gorgon is an 8x8 APC armed with a 30mm cannon.</Original>
               <Chinese>AFV-4"蛇髮女妖"是一臺8輪驅動的裝甲運兵車，配備著30公厘加農砲。</Chinese>
-              <Chinesesimp>AFV-4"蛇发女妖"是一种8轮驱动的装甲运兵车，配备着30毫米加农炮。</Chinesesimp>
+              <Chinesesimp>AFV-4"蛇发女妖"是一种8轮驱动的装甲运兵车，配备着30mm 加农炮。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_05_i_ground_exi_2">
               <Original>The quad bike is an all-terrain vehicle used for recon and to access terrain heavier vehicles cannot traverse.</Original>
@@ -319,12 +319,12 @@
             <Key ID="str_a3_faction_blufor_20_b_weapons_exb_1">
               <Original>The MX is a 6.5mm assault rifle, standard issue for NATO forces.</Original>
               <Chinese>MX突擊步槍配備著6.5公厘子彈，是北約部隊的標準配備。</Chinese>
-              <Chinesesimp>MX突击步枪配备着6.5毫米子弹，是北约部队的标准配备。</Chinesesimp>
+              <Chinesesimp>MX突击步枪配备着6.5mm 子弹，是北约部队的标准配备。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_20_b_weapons_exb_2">
               <Original>The Special Purpose Assault Rifle series, NATO's newest, high-tech primary weapon system. 7.62mm and 5.56mm caliber variants, combined with an optional grenade launcher, make the series a fan favorite among special operations groups.</Original>
               <Chinese>北約的新型高科技特殊用途突擊步槍系列，有著7.62公厘與5.56公厘兩種口徑，可以再選配榴彈發射器來配合不同的任務，使這把武器深獲特種部隊的青睞。</Chinese>
-              <Chinesesimp>北约新式的高科技特殊用途突击步枪系列，有着7.62毫米与5.56毫米两种口径，可以再选配榴弹发射器来配合不同的任务，使这把武器深获特种部队的青睐。</Chinesesimp>
+              <Chinesesimp>北约新式的高科技特殊用途突击步枪系列，有着7.62mm 与5.56mm 两种口径，可以再选配榴弹发射器来配合不同的任务，使这把武器深获特种部队的青睐。</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_B_Water" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="15_B_Water" dubbingLanguage="english" namePrefix="faction_blufor_15_b_water" note="" participants="RC B Expo;" situation="player visits the naval area of the expo">
@@ -341,7 +341,7 @@
             <Key ID="str_a3_faction_blufor_15_b_water_exb_2">
               <Original>The speed boat has a front-facing, remote controlled GMG turret, often sporting a rear-mounted minigun or HMG as well.</Original>
               <Chinese>快艇在前面有裝設一座搖控榴彈發射砲塔，在後面會設置"米尼岡"機槍或重機槍。</Chinese>
-              <Chinesesimp>快艇有前向的榴弹机枪塔，在后面会设置"米尼岗"机枪或重机枪。</Chinesesimp>
+              <Chinesesimp>快艇有前向的榴弹机枪塔，在后面会设置转管机枪或重机枪。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_B_Air" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="10_B_Air" dubbingLanguage="english" namePrefix="faction_blufor_10_b_air" note="" participants="RC B Expo;" situation="player visits the aerial area of the expo">
@@ -358,7 +358,7 @@
             <Key ID="str_a3_faction_blufor_10_b_air_exb_2">
               <Original>The AH-9 Pawnee is an armed variant of the MH-9 Hummingbird, with DAR unguided rocket pods and two 7.62mm miniguns.</Original>
               <Chinese>AH-9"波尼"是MH-9"蜂鳥"武裝過後的版本，配備有DAR非制導火箭莢艙與兩個7.62公厘"米尼岡"機槍。</Chinese>
-              <Chinesesimp>AH-9"波尼"是MH-9"蜂鸟"的武装版本，配备有DAR非制导火箭巢与两挺7.62毫米"米尼岗"机枪。</Chinesesimp>
+              <Chinesesimp>AH-9"波尼"是MH-9"蜂鸟"的武装版本，配备有DAR非制导火箭巢与两挺7.62mm 转管机枪。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_10_b_air_exb_3">
               <Original>The V-44 X Blackfish is a rotor-based, Vertical Take-off and Landing capable airframe that comes in 3 standard-issue configurations.</Original>
@@ -373,24 +373,24 @@
             <Key ID="str_a3_faction_blufor_10_b_air_exb_5">
               <Original>The V-44 X Blackfish, the armed variant, is capable of serving in both offensive and defensive roles, sporting a 40mm cannon, 105mm cannon and 20mm Minigun equipped with high explosive ammunition.</Original>
               <Chinese>武裝版本的V-44X"黑魚"配備著40公厘，105公厘火炮以及使用高爆彈藥的20公厘"米尼岡"機槍，使其能有效擔任進攻或是防禦的角色。</Chinese>
-              <Chinesesimp>武装版本的V-44X"黑鱼"配备着40毫米，105毫米火炮以及使用高爆弹药的20毫米"米尼岗"机枪，使其能有效担任进攻或是防御的角色。</Chinesesimp>
+              <Chinesesimp>武装版本的V-44X"黑鱼"配备着40mm、105mm 火炮以及使用高爆弹药的20mm 转管机炮，使其能有效担任进攻或是防御的角色。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_B_Ground" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="05_B_Ground" dubbingLanguage="english" namePrefix="faction_blufor_05_b_ground" note="" participants="RC B Expo;" situation="player visits the ground vehicles area of the expo">
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_0">
               <Original>The Scorcher M4 is a 155mm self-propelled gun with an advanced artillery computer.</Original>
               <Chinese>"炙烤者"M4是一臺配備有155公厘口徑大砲與先進射控電腦的自走砲。</Chinese>
-              <Chinesesimp>"炙烤者"M4是一台配备先进火控计算机的155毫米自行火炮。</Chinesesimp>
+              <Chinesesimp>"炙烤者"M4是一台配备先进火控计算机的155mm 自行火炮。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_1">
               <Original>The M2A1 Slammer is a main battle tank armed with a 120mm cannon.</Original>
               <Chinese>M2A1"重擊者"是一臺配備120公厘加農砲的主戰坦克。</Chinese>
-              <Chinesesimp>M2A1"重击者"是一种配备120毫米加农炮的主战坦克。</Chinesesimp>
+              <Chinesesimp>M2A1"重击者"是一种配备120mm 加农炮的主战坦克。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_2">
               <Original>The Panther is an armored personnel carrier armed with a 12.7mm machine gun, 40mm grenade launcher, and a cargo capacity for up to eight soldiers.</Original>
               <Chinese>"黑豹"是一臺裝甲運兵車，配備有12.7公厘機槍，40公厘榴彈發射器，可以乘載8名人員的空間。</Chinese>
-              <Chinesesimp>"黑豹"是一种装甲运兵车，配备有12.7毫米机枪，40毫米榴弹发射器，可容纳8名载员。</Chinesesimp>
+              <Chinesesimp>"黑豹"是一种装甲运兵车，配备有12.7mm 机枪，40mm 榴弹发射器，可容纳8名载员。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_3">
               <Original>The Prowler is NATO's standard-issue Light Strike Vehicle used by special operation groups, with its advantages over other vehicles being its small profile and high mobility.</Original>
@@ -480,7 +480,7 @@
             <Key ID="str_a3_faction_opfor_20_o_weapons_exo_1">
               <Original>The Katiba is a 6.5mm bullpup assault rifle known for its reliability and low recoil.</Original>
               <Chinese>"卡提巴"是一把有著6.5公厘子彈的無托突擊步槍，它因它的可靠性與低後座力而聞名。</Chinese>
-              <Chinesesimp>"卡提巴"是一把装填6.5毫米子弹的无托突击步枪，因其可靠性与低后座力而闻名。</Chinesesimp>
+              <Chinesesimp>"卡提巴"是一把装填6.5mm 子弹的无托突击步枪，因其可靠性与低后座力而闻名。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_20_o_weapons_exo_2">
               <Original>The CAR rifle series. Capable of a firerate of 800 rounds per minute, the CAR has recently seen deployment among CSAT forces in the Pacific.</Original>
@@ -507,7 +507,7 @@
             <Key ID="str_a3_faction_opfor_15_o_water_exo_2">
               <Original>The speed boat has a front-facing, remote controlled GMG turret, often sporting a rear-mounted minigun or HMG as well.</Original>
               <Chinese>快艇在前面有裝設一座搖控榴彈發射砲塔，在後面會設置"米尼岡"機槍或重機槍。</Chinese>
-              <Chinesesimp>快艇有前向的榴弹机枪塔，在后面会设置"米尼岗"机枪或重机枪。</Chinesesimp>
+              <Chinesesimp>快艇有前向的榴弹机枪塔，在后面会设置转管机枪或重机枪。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_O_Air" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="10_O_Air" dubbingLanguage="english" namePrefix="faction_opfor_10_o_air" note="" participants="RC O Expo;" situation="player visits the aerial area of the expo">
@@ -534,7 +534,7 @@
             <Key ID="str_a3_faction_opfor_10_o_air_exo_4">
               <Original>Both configurations of the Y-32 Xi'an are equipped with a 30mm cannon, Skyfire rockets, and Skalpel missiles.</Original>
               <Chinese>兩種版本的Y-32"西安"均配備著30公厘機砲，"天火"火箭彈與"手術刀"反坦克飛彈。</Chinese>
-              <Chinesesimp>两种版本的Y-32"西安"均配备着30毫米机炮，"天火"火箭弹与"手术刀"反坦克导弹。</Chinesesimp>
+              <Chinesesimp>两种版本的Y-32"西安"均配备着30mm 机炮，"天火"火箭弹与"手术刀"反坦克导弹。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_O_Ground" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="05_O_Ground" dubbingLanguage="english" namePrefix="faction_opfor_05_o_ground" note="" participants="RC O Expo;" situation="player visits the ground vehicles area of the expo">
@@ -551,7 +551,7 @@
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_2">
               <Original>The T100 Varsuk main battle tank is equipped with a standard 125mm canon.</Original>
               <Chinese>T100"獾"是一臺配備125公厘加農砲的主戰坦克。</Chinese>
-              <Chinesesimp>T100"獾"是一辆配备125毫米加农炮的主战坦克。</Chinesesimp>
+              <Chinesesimp>T100"獾"是一辆配备125mm 加农炮的主战坦克。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_3">
               <Original>The Qilin is a Light Strike Vehicle used by special operation groups. Its advantage lies in its small profile and high mobility.</Original>
@@ -561,7 +561,7 @@
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_4">
               <Original>The armed variant of Qilin LSV provides space for 7 soldiers and comes equipped with a 6.5mm Minigun.</Original>
               <Chinese>武裝版本的"麒麟"可以運送7名士兵，並配有一挺6.5公厘"米尼岡"機槍。</Chinese>
-              <Chinesesimp>武装版本的"麒麟"可以运送7名士兵，并配有一挺6.5毫米"米尼岗"机枪。</Chinesesimp>
+              <Chinesesimp>武装版本的"麒麟"可以运送7名士兵，并配有一挺6.5mm 转管机枪。</Chinesesimp>
             </Key>
           </Container>
           <Container name="01_O_ExpoWelcome" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="01_O_ExpoWelcome" dubbingLanguage="english" namePrefix="faction_opfor_01_o_expowelcome" note="" participants="RC O Expo;" situation="player starts the expo, offered introduction">

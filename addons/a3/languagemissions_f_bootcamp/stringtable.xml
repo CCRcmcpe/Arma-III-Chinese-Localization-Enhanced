@@ -4037,22 +4037,22 @@
             <Key ID="str_a3_vr_ballistics_stage4_title">
               <Original>12.7 mm</Original>
               <Chinese>12.7公厘</Chinese>
-              <Chinesesimp>12.7毫米</Chinesesimp>
+              <Chinesesimp>12.7mm </Chinesesimp>
             </Key>
             <Key ID="str_a3_vr_ballistics_stage3_title">
               <Original>7.62 mm</Original>
               <Chinese>7.62公厘</Chinese>
-              <Chinesesimp>7.62毫米</Chinesesimp>
+              <Chinesesimp>7.62mm </Chinesesimp>
             </Key>
             <Key ID="str_a3_vr_ballistics_stage2_title">
               <Original>5.56 mm</Original>
               <Chinese>5.56公厘</Chinese>
-              <Chinesesimp>5.56毫米</Chinesesimp>
+              <Chinesesimp>5.56mm </Chinesesimp>
             </Key>
             <Key ID="str_a3_vr_ballistics_stage1_title">
               <Original>9 mm</Original>
               <Chinese>9公厘</Chinese>
-              <Chinesesimp>9毫米</Chinesesimp>
+              <Chinesesimp>9mm </Chinesesimp>
             </Key>
           </Container>
           <Container name="Launchers">

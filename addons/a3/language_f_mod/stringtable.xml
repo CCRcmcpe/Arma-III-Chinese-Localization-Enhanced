@@ -4,22 +4,22 @@
     <Key ID="str_a3_cfgweapons_smg_03_tr_khaki0">
       <Original>ADR-97 TR 5.7 mm (Khaki)</Original>
       <Chinese>ADR-97 TR 5.7公厘（卡其色）</Chinese>
-      <Chinesesimp>ADR-97 TR 5.7毫米（卡其色）</Chinesesimp>
+      <Chinesesimp>ADR-97 TR 5.7mm （卡其色）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_tr_hex0">
       <Original>ADR-97 TR 5.7 mm (Hex)</Original>
       <Chinese>ADR-97 TR 5.7公厘（數位蜂巢迷彩）</Chinese>
-      <Chinesesimp>ADR-97 TR 5.7毫米（蜂巢迷彩）</Chinesesimp>
+      <Chinesesimp>ADR-97 TR 5.7mm （蜂巢迷彩）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_tr_camo0">
       <Original>ADR-97 TR 5.7 mm (Camo)</Original>
       <Chinese>ADR-97 TR 5.7公厘（迷彩）</Chinese>
-      <Chinesesimp>ADR-97 TR 5.7毫米（迷彩）</Chinesesimp>
+      <Chinesesimp>ADR-97 TR 5.7mm （迷彩）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_tr_black0">
       <Original>ADR-97 TR 5.7 mm (Black)</Original>
       <Chinese>ADR-97 TR 5.7公厘（黑色）</Chinese>
-      <Chinesesimp>ADR-97 TR 5.7毫米（黑色）</Chinesesimp>
+      <Chinesesimp>ADR-97 TR 5.7mm （黑色）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_tr_base_library0">
       <Original>The ADR-97 is a lightweight, highly maneuverable firearm with a high rate of fire, which stands out due to the 50-round magazine positioned on top of the weapon. The basic weapon comes with inbuilt collimator sights, but some variants can also be fitted with custom optics.</Original>
@@ -34,72 +34,72 @@
     <Key ID="str_a3_cfgweapons_smg_03_tr_base0">
       <Original>ADR-97 5.7 mm</Original>
       <Chinese>ADR-97 5.7公厘</Chinese>
-      <Chinesesimp>ADR-97 5.7毫米</Chinesesimp>
+      <Chinesesimp>ADR-97 5.7mm </Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_khaki0">
       <Original>ADR-97 5.7 mm (Khaki)</Original>
       <Chinese>ADR-97 5.7公厘（卡其色）</Chinese>
-      <Chinesesimp>ADR-97 5.7毫米（卡其色）</Chinesesimp>
+      <Chinesesimp>ADR-97 5.7mm （卡其色）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_hex0">
       <Original>ADR-97 5.7 mm (Hex)</Original>
       <Chinese>ADR-97 5.7公厘（數位蜂巢迷彩）</Chinese>
-      <Chinesesimp>ADR-97 5.7毫米（蜂巢迷彩）</Chinesesimp>
+      <Chinesesimp>ADR-97 5.7mm （蜂巢迷彩）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03c_tr_khaki0">
       <Original>ADR-97C TR 5.7 mm (Khaki)</Original>
       <Chinese>ADR-97C TR 5.7公厘（卡其色）</Chinese>
-      <Chinesesimp>ADR-97C TR 5.7毫米（卡其色）</Chinesesimp>
+      <Chinesesimp>ADR-97C TR 5.7mm （卡其色）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03c_tr_hex0">
       <Original>ADR-97C TR 5.7 mm (Hex)</Original>
       <Chinese>ADR-97C TR 5.7公厘（數位蜂巢迷彩）</Chinese>
-      <Chinesesimp>ADR-97C TR 5.7毫米（蜂巢迷彩）</Chinesesimp>
+      <Chinesesimp>ADR-97C TR 5.7mm （蜂巢迷彩）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03c_tr_camo0">
       <Original>ADR-97C TR 5.7 mm (Camo)</Original>
       <Chinese>ADR-97C TR 5.7公厘（迷彩）</Chinese>
-      <Chinesesimp>ADR-97C TR 5.7毫米（迷彩）</Chinesesimp>
+      <Chinesesimp>ADR-97C TR 5.7mm （迷彩）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03c_tr_black0">
       <Original>ADR-97C TR 5.7 mm (Black)</Original>
       <Chinese>ADR-97C TR 5.7公厘 （黑色）</Chinese>
-      <Chinesesimp>ADR-97C TR 5.7毫米 （黑色）</Chinesesimp>
+      <Chinesesimp>ADR-97C TR 5.7mm  （黑色）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03c_khaki0">
       <Original>ADR-97C 5.7 mm (Khaki)</Original>
       <Chinese>ADR-97C 5.7公厘（卡其色）</Chinese>
-      <Chinesesimp>ADR-97C 5.7毫米（卡其色）</Chinesesimp>
+      <Chinesesimp>ADR-97C 5.7mm （卡其色）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03c_hex0">
       <Original>ADR-97C 5.7 mm (Hex)</Original>
       <Chinese>ADR-97C 5.7公厘（數位蜂巢迷彩）</Chinese>
-      <Chinesesimp>ADR-97C 5.7毫米（蜂巢迷彩）</Chinesesimp>
+      <Chinesesimp>ADR-97C 5.7mm （蜂巢迷彩）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03c_camo0">
       <Original>ADR-97C 5.7 mm (Camo)</Original>
       <Chinese>ADR-97C 5.7公厘（迷彩）</Chinese>
-      <Chinesesimp>ADR-97C 5.7毫米（迷彩）</Chinesesimp>
+      <Chinesesimp>ADR-97C 5.7mm （迷彩）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03c_black0">
       <Original>ADR-97C 5.7 mm (Black)</Original>
       <Chinese>ADR-97C 5.7公厘（黑色）</Chinese>
-      <Chinesesimp>ADR-97C 5.7毫米（黑色）</Chinesesimp>
+      <Chinesesimp>ADR-97C 5.7mm （黑色）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_camo0">
       <Original>ADR-97 5.7 mm (Camo)</Original>
       <Chinese>ADR-97 5.7公厘（迷彩）</Chinese>
-      <Chinesesimp>ADR-97 5.7毫米（迷彩）</Chinesesimp>
+      <Chinesesimp>ADR-97 5.7mm （迷彩）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_black0">
       <Original>ADR-97 5.7 mm (Black)</Original>
       <Chinese>ADR-97 5.7公厘（黑色）</Chinese>
-      <Chinesesimp>ADR-97 5.7毫米（黑色）</Chinesesimp>
+      <Chinesesimp>ADR-97 5.7mm （黑色）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgmagazines_50rnd_570x28_smg_031">
       <Original>5.7 mm 50Rnd ADR-97 Mag</Original>
       <Chinese>5.7公厘50發ADR-97彈匣</Chinese>
-      <Chinesesimp>5.7毫米50发ADR-97弹匣</Chinesesimp>
+      <Chinesesimp>5.7mm 50发ADR-97弹匣</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgmagazines_50rnd_570x28_smg_030">
       <Original>ADR-97 Mag</Original>
@@ -109,7 +109,7 @@
     <Key ID="str_a3_cfgmagazines_50rnd_570x28_smg_032">
       <Original>Caliber: 5.7x28 mm&lt;br /&gt;Rounds: 50&lt;br /&gt;Used in: ADR-97, ADR-97C, ADR-97C TR</Original>
       <Chinese>口徑：5.7x28公厘&lt;br /&gt;個數：50&lt;br /&gt;用於：ADR-97、ADR-97C、ADR-97C TR</Chinese>
-      <Chinesesimp>口径：5.7x28毫米&lt;br /&gt;容弹量：50&lt;br /&gt;用于：ADR-97、ADR-97C、ADR-97C TR</Chinesesimp>
+      <Chinesesimp>口径：5.7x28mm &lt;br /&gt;容弹量：50&lt;br /&gt;用于：ADR-97、ADR-97C、ADR-97C TR</Chinesesimp>
     </Key>
     <Key ID="STR_A3_cfgMods_OfficialMod_name0">
       <Original>ADR-97 Weapon Pack</Original>
@@ -124,7 +124,7 @@
     <Key ID="STR_A3_cfgWeapons_muzzle_snds_570">
       <Original>Sound Suppressor (5.7 mm)</Original>
       <Chinese>消聲器（5.7公厘）</Chinese>
-      <Chinesesimp>消声器（5.7毫米）</Chinesesimp>
+      <Chinesesimp>消声器（5.7mm ）</Chinesesimp>
     </Key>
   </Package>
 </Project>

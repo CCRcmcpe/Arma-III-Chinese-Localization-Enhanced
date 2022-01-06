@@ -303,8 +303,8 @@
           </Key>
           <Key ID="str_a3_b_carryall_oli0">
             <Original>Carryall Backpack (Olive)</Original>
-            <Chinese>旅行背包(橄欖色)</Chinese>
-            <Chinesesimp>旅行背包(橄榄色)</Chinesesimp>
+            <Chinese>行军包(橄欖色)</Chinese>
+            <Chinesesimp>行军包(橄榄色)</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_tacticalpack_blk0">
             <Original>Tactical Backpack (Black)</Original>
@@ -338,8 +338,8 @@
           </Key>
           <Key ID="str_a3_b_carryall_cbr0">
             <Original>Carryall Backpack (Coyote)</Original>
-            <Chinese>旅行背包(土狼棕色)</Chinese>
-            <Chinesesimp>旅行背包(土狼棕色)</Chinesesimp>
+            <Chinese>行军包(土狼棕色)</Chinese>
+            <Chinesesimp>行军包(土狼棕色)</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_huntingbackpack0">
             <Original>Hunting Backpack</Original>
@@ -368,8 +368,8 @@
           </Key>
           <Key ID="str_a3_b_carryall_khk0">
             <Original>Carryall Backpack (Khaki)</Original>
-            <Chinese>旅行背包(卡其色)</Chinese>
-            <Chinesesimp>旅行背包(卡其色)</Chinesesimp>
+            <Chinese>行军包(卡其色)</Chinese>
+            <Chinesesimp>行军包(卡其色)</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_bergeng0">
             <Original>Bergen</Original>
@@ -476,7 +476,7 @@
           <Key ID="str_a3_cfgmagazines_250rnd_30mm_he_shells_tracer_green0">
             <Original>30 mm HE Tracer (Green) Shells </Original>
             <Chinese>30公厘高爆曳光彈(綠色)砲彈</Chinese>
-            <Chinesesimp>30毫米高爆曳光弹(绿色)炮弹</Chinesesimp>
+            <Chinesesimp>30mm 高爆曳光弹(绿色)炮弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_titan_aa0">
             <Original>Titan AA Missile</Original>
@@ -486,52 +486,52 @@
           <Key ID="str_a3_cfgmagazines_250rnd_30mm_he_shells_tracer_red0">
             <Original>30 mm HE Tracer (Red) Shells </Original>
             <Chinese>30公厘高爆曳光彈(紅色)砲彈</Chinese>
-            <Chinesesimp>30毫米高爆曳光弹(红色)炮弹</Chinesesimp>
+            <Chinesesimp>30mm 高爆曳光弹(红色)炮弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_40rnd_40mm_apfsds_tracer_red_shells0">
             <Original>40 mm APFSDS-T</Original>
             <Chinese>40公厘尾翼穩定脫殼穿甲曳光彈</Chinese>
-            <Chinesesimp>40毫米尾翼稳定脱壳穿甲曳光弹</Chinesesimp>
+            <Chinesesimp>40mm 尾翼稳定脱壳穿甲曳光弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_150rnd_762x51_box0">
             <Original>7.62 mm 150Rnd Box</Original>
             <Chinese>7.62公厘150發彈盒</Chinese>
-            <Chinesesimp>7.62毫米150发弹链盒</Chinesesimp>
+            <Chinesesimp>7.62mm 150发弹链盒</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_150rnd_762x51_box_tracer0">
             <Original>7.62 mm 150Rnd Tracer (Green) Box</Original>
             <Chinese>7.62公厘150發曳光彈(綠色)彈盒</Chinese>
-            <Chinesesimp>7.62毫米150发曳光弹(绿色)弹链盒</Chinesesimp>
+            <Chinesesimp>7.62mm 150发曳光弹(绿色)弹链盒</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_140rnd_30mm_mp_shells_tracer_red0">
             <Original>30 mm MP-T</Original>
             <Chinese>30公厘多用途曳光彈</Chinese>
-            <Chinesesimp>30毫米多用途曳光弹</Chinesesimp>
+            <Chinesesimp>30mm 多用途曳光弹</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgmagazines_140Rnd_30mm_MP_shells_0">
             <Original>30 mm Multi-purpose</Original>
             <Chinese>30公厘多用途彈</Chinese>
-            <Chinesesimp>30毫米多用途弹</Chinesesimp>
+            <Chinesesimp>30mm 多用途弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30mm_apfsd">
             <Original>30 mm APFSDS</Original>
             <Chinese>30公厘尾翼穩定脫殼穿甲彈</Chinese>
-            <Chinesesimp>30毫米尾翼稳定脱壳穿甲弹</Chinesesimp>
+            <Chinesesimp>30mm 尾翼稳定脱壳穿甲弹</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgmagazines_40mm_apfsd">
             <Original>40 mm APFSDS</Original>
             <Chinese>40公厘尾翼穩定脫殼穿甲彈</Chinese>
-            <Chinesesimp>40毫米尾翼稳定脱壳穿甲弹</Chinesesimp>
+            <Chinesesimp>40mm 尾翼稳定脱壳穿甲弹</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_40mmGPR">
             <Original>40 mm GPR</Original>
             <Chinese>40公厘通用圓形榴彈</Chinese>
-            <Chinesesimp>40毫米通用圆形榴弹</Chinesesimp>
+            <Chinesesimp>40mm 通用圆形榴弹</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_40mmGPRT">
             <Original>40 mm GPR-T</Original>
             <Chinese>40公厘通用圓形曳光榴彈</Chinese>
-            <Chinesesimp>40毫米通用圆形曳光榴弹</Chinesesimp>
+            <Chinesesimp>40mm 通用圆形曳光榴弹</Chinesesimp>
           </Key>
         </Container>
         <Container name="DescriptionShort">
@@ -558,12 +558,12 @@
           <Key ID="str_a3_cfgmagazines_150rnd_762x51_box_tracer1">
             <Original>Caliber: 7.62x54 mm Tracer - Green&lt;br/&gt;Rounds: 150&lt;br /&gt;Used in: Zafir</Original>
             <Chinese>口徑:7.62x54公厘曳光彈-綠色&lt;br/&gt;發數:150&lt;br/&gt;使用於:"扎菲爾"</Chinese>
-            <Chinesesimp>口径:7.62x54毫米曳光弹-绿色&lt;br/&gt;发数:150&lt;br/&gt;使用于:"扎菲尔"</Chinesesimp>
+            <Chinesesimp>口径:7.62x54mm 曳光弹-绿色&lt;br/&gt;发数:150&lt;br/&gt;使用于:"扎菲尔"</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_150rnd_762x51_box1">
             <Original>Caliber: 7.62x54 mm&lt;br/&gt;Rounds: 150&lt;br /&gt;Used in: Zafir</Original>
             <Chinese>口徑:7.62x54公厘&lt;br/&gt;發數:150&lt;br/&gt;使用於:"扎菲爾"</Chinese>
-            <Chinesesimp>口径:7.62x54毫米&lt;br/&gt;发数:150&lt;br/&gt;使用于:"扎菲尔"</Chinesesimp>
+            <Chinesesimp>口径:7.62x54mm &lt;br/&gt;发数:150&lt;br/&gt;使用于:"扎菲尔"</Chinesesimp>
           </Key>
         </Container>
         <Container name="DisplayNameShort">
@@ -669,17 +669,17 @@
           <Key ID="str_cfgweapons_launch_mprl_short_f1">
             <Original>Rocket Launcher&lt;br /&gt;Ammo: 127 mm Titan Rocket</Original>
             <Chinese>火箭發射器&lt;br/&gt;彈藥:127公厘"泰坦"火箭彈</Chinese>
-            <Chinesesimp>火箭发射器&lt;br/&gt;弹药:127毫米"泰坦"火箭弹</Chinesesimp>
+            <Chinesesimp>火箭发射器&lt;br/&gt;弹药:127mm "泰坦"火箭弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_lmg_zafir_f1">
             <Original>Light Machine Gun&lt;br /&gt;Caliber: 7.62x54 mm</Original>
             <Chinese>輕機槍&lt;br/&gt;口徑:7.62x54公厘</Chinese>
-            <Chinesesimp>轻机枪&lt;br/&gt;口径:7.62x54毫米</Chinesesimp>
+            <Chinesesimp>轻机枪&lt;br/&gt;口径:7.62x54mm </Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk201">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45公厘</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45毫米</Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45mm </Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_01_base_f0">
             <Original>Submachine Gun&lt;br /&gt;Caliber: .45 ACP</Original>
@@ -689,17 +689,17 @@
           <Key ID="str_a3_cfgweapons_arifle_mk20c1">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45公厘</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45毫米</Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45mm </Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_021">
             <Original>Submachine Gun&lt;br /&gt;Caliber: 9x21 mm</Original>
             <Chinese>衝鋒槍&lt;br/&gt;口徑:9x21公厘</Chinese>
-            <Chinesesimp>冲锋枪&lt;br/&gt;口径:9x21毫米</Chinesesimp>
+            <Chinesesimp>冲锋枪&lt;br/&gt;口径:9x21mm </Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20_gl1">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45公厘</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45毫米</Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45mm </Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_011">
             <Original>Submachine Gun&lt;br /&gt;Caliber: .45 ACP</Original>
@@ -714,17 +714,17 @@
           <Key ID="str_a3_cfgweapons_smg_02_base_f0">
             <Original>Submachine Gun&lt;br /&gt;Caliber: 9x21 mm</Original>
             <Chinese>衝鋒槍&lt;br/&gt;口徑:9x21公厘</Chinese>
-            <Chinesesimp>冲锋枪&lt;br/&gt;口径:9x21毫米</Chinesesimp>
+            <Chinesesimp>冲锋枪&lt;br/&gt;口径:9x21mm </Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_mk20_base_f0">
             <Original>Assault rifle  &lt;br/&gt;Caliber: 5.56x45 mm NATO</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45公厘北約彈</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45毫米北约弹</Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45mm 北约弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_mprl1">
             <Original>Rocket Launcher&lt;br /&gt;Ammo: 127 mm Titan Rocket</Original>
             <Chinese>火箭發射器&lt;br/&gt;彈藥:127公厘"泰坦"火箭彈</Chinese>
-            <Chinesesimp>火箭发射器&lt;br/&gt;弹药:127毫米"泰坦"火箭弹</Chinesesimp>
+            <Chinesesimp>火箭发射器&lt;br/&gt;弹药:127mm "泰坦"火箭弹</Chinesesimp>
           </Key>
         </Container>
         <Container name="DisplayName">
@@ -736,7 +736,7 @@
           <Key ID="str_a3_cfgweapons_lmg_zafir_f0">
             <Original>Zafir 7.62 mm</Original>
             <Chinese>"扎菲爾"7.62公厘</Chinese>
-            <Chinesesimp>"扎菲尔"7.62毫米</Chinesesimp>
+            <Chinesesimp>"扎菲尔"7.62mm </Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_test_mk200">
             <Original>TEST</Original>
@@ -746,7 +746,7 @@
           <Key ID="STR_A3_cfgweapons_afrile_mk20_gl_camo">
             <Original>Mk20 EGLM 5.56 mm (Camo)</Original>
             <Chinese>Mk20 EGLM 5.56公厘(迷彩)</Chinese>
-            <Chinesesimp>Mk20 EGLM 5.56毫米(迷彩)</Chinesesimp>
+            <Chinesesimp>Mk20 EGLM 5.56mm (迷彩)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_hgun_acpc2_f0">
             <Original>ACP-C2 .45 ACP</Original>
@@ -756,12 +756,12 @@
           <Key ID="str_a3_cfgweapons_arifle_mk200">
             <Original>Mk20 5.56 mm</Original>
             <Chinese>Mk20 5.56公厘</Chinese>
-            <Chinesesimp>Mk20 5.56毫米</Chinesesimp>
+            <Chinesesimp>Mk20 5.56mm </Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20c0">
             <Original>Mk20C 5.56 mm</Original>
             <Chinese>Mk20C 5.56公厘</Chinese>
-            <Chinesesimp>Mk20C 5.56毫米</Chinesesimp>
+            <Chinesesimp>Mk20C 5.56mm </Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_010">
             <Original>Vermin SMG .45 ACP</Original>
@@ -771,7 +771,7 @@
           <Key ID="str_a3_cfgweapons_smg_020">
             <Original>Sting 9 mm</Original>
             <Chinese>"斯丁"9公厘衝鋒槍</Chinese>
-            <Chinesesimp>"斯丁"9毫米冲锋枪</Chinesesimp>
+            <Chinesesimp>"斯丁"9mm 冲锋枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_mprl0">
             <Original>Titan MPRL</Original>
@@ -781,17 +781,17 @@
           <Key ID="str_a3_cfgweapons_arifle_mk20_camo">
             <Original>Mk20 5.56 mm (Camo)</Original>
             <Chinese>Mk20 5.56公厘(迷彩)</Chinese>
-            <Chinesesimp>Mk20 5.56毫米(迷彩)</Chinesesimp>
+            <Chinesesimp>Mk20 5.56mm (迷彩)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20c_camo">
             <Original>Mk20C 5.56 mm (Camo)</Original>
             <Chinese>Mk20C 5.56公厘(迷彩)</Chinese>
-            <Chinesesimp>Mk20C 5.56毫米(迷彩)</Chinesesimp>
+            <Chinesesimp>Mk20C 5.56mm (迷彩)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20_gl0">
             <Original>Mk20 EGLM 5.56 mm</Original>
             <Chinese>Mk20 EGLM 5.56公厘</Chinese>
-            <Chinesesimp>Mk20 EGLM 5.56毫米</Chinesesimp>
+            <Chinesesimp>Mk20 EGLM 5.56mm </Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_mprl_f1">
             <Original>Titan MPRL (Sand)</Original>
@@ -828,12 +828,12 @@
           <Key ID="str_a3_cfgweapons_lmg_zafir_f_library0">
             <Original>The Zafir 7.62 mm is a light machine gun mass-produced by China. It is said to be based on a copied Israeli design, which spawned a lengthy legal conflict that still remains unresolved. The Zafir is a gas-powered automatic firearm, that uses easily replaceable ammo boxes carrying up to 150 rounds. 7.62 mm caliber ammunition gives the Zafir an advantage over BLUFOR MX SW weapons when compared in power and range, but the weapon itself is heavier and less maneuverable. </Original>
             <Chinese>"扎菲爾"7.62公厘是一把由中國量產的輕機槍。據說是抄襲了以色列的設計，這個設計引出了一個漫長的法律糾紛，且至今仍未解決。"扎菲爾"是一個使用瓦斯動力的自動武器，使用了可以輕易替換的彈盒，彈盒內可容納150發子彈。7.62公厘口徑彈藥與藍方的MX SW相比，在火力和射程上具有優勢，但缺點是重量過重而不便攜帶。</Chinese>
-            <Chinesesimp>"扎菲尔"7.62毫米是一把中国大规模生产的轻机枪。据说是抄袭了以色列的设计，这引出了一场漫长的法律纠纷，且至今仍未解决。"扎菲尔"是一种导气式自动武器，使用了可以轻易替换的弹盒，弹盒内可容纳150发子弹。7.62毫米口径弹药与蓝方的MX SW相比在火力和射程上具有优势，但缺点是重量过重而不便携带。</Chinesesimp>
+            <Chinesesimp>"扎菲尔"7.62mm 是一把中国大规模生产的轻机枪。据说是抄袭了以色列的设计，这引出了一场漫长的法律纠纷，且至今仍未解决。"扎菲尔"是一种导气式自动武器，使用了可以轻易替换的弹盒，弹盒内可容纳150发子弹。7.62mm 口径弹药与蓝方的MX SW相比在火力和射程上具有优势，但缺点是重量过重而不便携带。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_02_library0">
             <Original>The Sting is a 9x21 mm submachine gun. The weapon is designed to be used by security forces, vehicle crews and special forces. Due to its small size, accuracy, ambidextrous use and rate of fire, it became a popular SMG around the world.</Original>
             <Chinese>"斯丁"是一把9x21公厘衝鋒槍。此武器被設計用於保安部隊，載具機組員和特種部隊。由於其體積小，高精準度，靈活和高射速，使其成為一把在世界各地都受歡迎的衝鋒槍。</Chinese>
-            <Chinesesimp>"斯丁"是一把9x21毫米冲锋枪。此武器被设计用于保安部队，载具机组员和特种部队。由于其体积小，高精准度，灵活和高射速，使其成为一把在世界各地都受欢迎的冲锋枪。</Chinesesimp>
+            <Chinesesimp>"斯丁"是一把9x21mm 冲锋枪。此武器被设计用于保安部队，载具机组员和特种部队。由于其体积小，高精准度，灵活和高射速，使其成为一把在世界各地都受欢迎的冲锋枪。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CfgWeapons_hgun_ACPC2_Library0">
             <Original>The ACP-C2 is a custom version of the classic C-1911. A single-action self-loading pistol design remained and new materials allowed even better speed, precision and increased durability. The ACP-C2 is equipped with self-illuminating sights that provide a tactical advantage in low light conditions. </Original>
@@ -1636,7 +1636,7 @@
         <Key ID="str_a3_mortar_120mm_amos0">
           <Original>Howitzer 155 mm </Original>
           <Chinese>155公厘榴彈砲</Chinese>
-          <Chinesesimp>155毫米榴弹炮</Chinesesimp>
+          <Chinesesimp>155mm 榴弹炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_rockets_230mm_gat_close0">
           <Original>Close</Original>
@@ -1686,27 +1686,27 @@
         <Key ID="str_a3_gatling_30mm_ctws0">
           <Original>CTWS Cannon 30 mm</Original>
           <Chinese>埋頭彈武器系統30公厘機砲</Chinese>
-          <Chinesesimp>埋头弹武器系统30毫米机炮</Chinesesimp>
+          <Chinesesimp>埋头弹武器系统30mm 机炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_autocannon_40mm_ctws0">
           <Original>Cannon 40 mm</Original>
           <Chinese>40公厘機砲</Chinese>
-          <Chinesesimp>40毫米机炮</Chinesesimp>
+          <Chinesesimp>40mm 机炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_gatling_30mm0">
           <Original>Cannon Caseless 30 mm</Original>
           <Chinese>無殼30公厘機砲</Chinese>
-          <Chinesesimp>无壳30毫米机炮</Chinesesimp>
+          <Chinesesimp>无壳30mm 机炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_gatling_20mm0">
           <Original>Minigun 20 mm</Original>
           <Chinese>20公厘"米尼岡"機槍</Chinese>
-          <Chinesesimp>20毫米"米尼岗"机枪</Chinesesimp>
+          <Chinesesimp>20mm 转管机炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_autocannon_30mm_rcws0">
           <Original>CTWS Cannon 30 mm</Original>
           <Chinese>埋頭彈武器系統30公厘機砲</Chinese>
-          <Chinesesimp>埋头弹武器系统30毫米机炮</Chinesesimp>
+          <Chinesesimp>埋头弹武器系统30mm 机炮</Chinesesimp>
         </Key>
       </Container>
       <Container name="Weapon_accessories">
@@ -2113,7 +2113,7 @@
         <Key ID="str_a3_heli_attack_01_lib">
           <Original>A two-seat attack helicopter armed with 20 mm Minigun, ASRAAM and DAGR missiles. Even though the construction dates back some time and the program faced cancelation in the first years of the 21st century, the project was finished successfully and the Blackfoot became the first attack helicopter with stealth technology applied even to the main rotor. The Blackfoot is extremely fast, agile and hard to detect even by contemporary sensors, but it's slowly becoming outdated.</Original>
           <Chinese>一種雙人攻擊直升機，配備20公厘"米尼岡"機槍，先進近程空空飛彈和直接攻擊引導火箭彈。儘管在21世紀初，這個直升機開發計劃因其機體結構老舊等問題而面臨取消開發的風險，"黑足"最終還是得以順利研發完成，這是世界上首架應用了隱形技術的攻擊直升機。"黑足"以快速靈活，且其隱形效果好到連現代的傳感器都很難偵測到而聞名，但它現在正逐漸退出歷史的舞臺。</Chinese>
-          <Chinesesimp>一种双人攻击直升机，配备20毫米"米尼岗"机炮，先进近程空空导弹和直接攻击制导火箭弹。尽管在21世纪初这一直升机开发计划因其机体结构老旧等问题而面临取消开发的风险，"黑足"最终还是得以顺利研发完成，这是世界上首架应用隐形技术的攻击直升机。"黑足"以快速灵活，且其隐形效果好到连现代的传感器都很难侦测到而闻名，但它现在正逐渐落后。</Chinesesimp>
+          <Chinesesimp>一种双人攻击直升机，配备20mm 转管机炮，先进近程空空导弹和直接攻击制导火箭弹。尽管在21世纪初这一直升机开发计划因其机体结构老旧等问题而面临取消开发的风险，"黑足"最终还是得以顺利研发完成，这是世界上首架应用隐形技术的攻击直升机。"黑足"以快速灵活，且其隐形效果好到连现代的传感器都很难侦测到而闻名，但它现在正逐渐落后。</Chinesesimp>
         </Key>
         <Key ID="str_a3_heli_transport_02_lib">
           <Original>A successor to the wide-spread Merlin helicopter, the CH-49 Mohawk is a primary transport used by the AAF. It can carry up to 16 soldiers plus crew. Besides the transport version, many other versions of the Mohawk exist, serving as evac, anti-submarine warfare or armed air support. Upgrades over its predecessor consist of more powerful engines and construction changes fully utilizing modern materials. </Original>
@@ -2128,22 +2128,22 @@
         <Key ID="str_a3_cfgvehicles_apc_tracked_01_base_library0">
           <Original>While both IFV-6c Panther and IFV-6a Cheetah are based on the Israeli armored personnel carrier chassis, they serve different roles in combat. The Panther is an APC that boasts strong armor to achieve maximal protection for the transported crew. The standard Panther is armed with an RCWS HMG, 40 mm GMG and smoke grenades and it can take up to 8 soldiers in its cargo area. The Cheetah is a dedicated AA vehicle. The cargo space is taken up by ammunition storage and vehicle is armed with two 35 mm autocannons, four long range surface-to-air missiles and smoke grenades. The CRV (Combat Recovery Vehicle) variant of the IFV-6 also exists and is used by BLUFOR, designation CRV-6e Bobcat.</Original>
           <Chinese>雖然IFV-6c"黑豹"和IFV-6a"獵豹"同樣都採用以色列裝甲運兵車的底盤，但它們在戰鬥中擔當的是不同的角色。"黑豹"是一種裝甲運兵車，具有厚重的裝甲，為乘員提供最大限度的防護。標準型的"黑豹"配有一個遙控重機槍炮塔，20公厘榴彈機槍和煙霧彈，其後座最多可運載8名士兵。"獵豹"則是專門的防空系統。其後座被用於存放彈藥，並配有兩座35公厘自動炮和煙霧彈，以及四枚遠程地空飛彈。此外藍方還使用的IFV-6衍生型為CRV(戰鬥搶救車)，名為CRV-6e"公貓"。</Chinese>
-          <Chinesesimp>虽然IFV-6c"黑豹"和IFV-6a"猎豹"同样都采用以色列装甲运兵车的底盘，但它们在战斗中担当的是不同的角色。"黑豹"是一种装甲运兵车，具有厚重的装甲，为乘员提供最大限度的防护。标准型的"黑豹"配有一个遥控重机枪炮塔，20毫米榴弹机枪和烟雾弹，其后座最多可运载8名士兵。"猎豹"则是专门的防空系统。其后座被用于存放弹药，并配有两座35毫米自动炮和烟雾弹，以及四枚远程地空导弹。此外蓝方还使用的IFV-6衍生型为CRV(战斗抢救车)，名为CRV-6e"公猫"。</Chinesesimp>
+          <Chinesesimp>虽然IFV-6c"黑豹"和IFV-6a"猎豹"同样都采用以色列装甲运兵车的底盘，但它们在战斗中担当的是不同的角色。"黑豹"是一种装甲运兵车，具有厚重的装甲，为乘员提供最大限度的防护。标准型的"黑豹"配有一个遥控重机枪炮塔，20mm 榴弹机枪和烟雾弹，其后座最多可运载8名士兵。"猎豹"则是专门的防空系统。其后座被用于存放弹药，并配有两座35mm 自动炮和烟雾弹，以及四枚远程地空导弹。此外蓝方还使用的IFV-6衍生型为CRV(战斗抢救车)，名为CRV-6e"公猫"。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_APC_Tracked_02_lib0">
           <Original>The infantry fighting vehicle BTR-K Kamysh and its anti-aircraft cousin ZSU-39 Tigris share the same vehicle platform. Developed by Russia with a pinch of undeniable inspiration from Israeli IFVs, they serve in the OPFOR army as a prime example of a leveling of the technology field with the West. The Kamysh is equipped with a CTWS turret fitted with a 30 mm cannon, coaxial machinegun and 2 guided AT missiles, making the vehicle significant in the infantry support role. The Tigris is fitted with a 35 mm autocannon and 4 Titan AA missiles.</Original>
           <Chinese>BTR-K"卡米什"步兵戰車和它的ZSU-39"底格里斯"防空車兄弟，同樣都使用同一款車體。由俄羅斯研發與製造，但不可否認，其靈感多少有點取材以色列的步兵戰車。它們主要在紅方服役，同時它也代表著紅方的技術水平逐漸追上西方。"卡米什"使用埋頭彈武器系統，並裝設30公厘機砲，同軸機槍和兩顆反坦克導引飛彈，使這臺載具被定位成步兵支援的角色。"底格里斯"則是裝上35公厘自動機砲和四顆"泰坦"防空飛彈。</Chinese>
-          <Chinesesimp>BTR-K"卡米什"步兵战车和其近亲ZSU-39"底格里斯"防空系统使用同一款底盘。这一车族由俄罗斯在一些以色列灵感的基础上研发制造，它们在红方中的服役代表红方在基本硬件上已经赶上西方。"卡米什"装备30毫米埋头弹武器系统，同轴机枪和两枚反坦克制导导弹，使这台载具被定位成步兵支援的角色。"底格里斯"则装35毫米自动炮和四枚"泰坦"防空导弹。</Chinesesimp>
+          <Chinesesimp>BTR-K"卡米什"步兵战车和其近亲ZSU-39"底格里斯"防空系统使用同一款底盘。这一车族由俄罗斯在一些以色列灵感的基础上研发制造，它们在红方中的服役代表红方在基本硬件上已经赶上西方。"卡米什"装备30mm 埋头弹武器系统，同轴机枪和两枚反坦克制导导弹，使这台载具被定位成步兵支援的角色。"底格里斯"则装35mm 自动炮和四枚"泰坦"防空导弹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_apc_wheeled_01_library0">
           <Original>APC (Armored Personnel Carrier) vehicles are used to deploy soldiers and to exfiltrate them away from a battlezone. The AMV-7 Marshall has a mounted 40 mm CTWS cannon and a coaxial M200 light machine gun. The vehicle is designed to sustain damage from mines and to quickly get to a designated position even in rough terrain or over water. </Original>
           <Chinese>裝甲運兵車用於在前線部屬和撤離士兵。AMV-7"警長"使用埋頭彈武器系統，並裝設40公厘機砲和一架M200輕機槍。該載具能有效抵禦地雷的傷害，並能夠迅速通過崎嶇的地形前往指定地點。而AMV-7裝甲醫療車則是用來載運傷患與醫療器材的載具。</Chinese>
-          <Chinesesimp>装甲运兵车用于在前线部署和撤离士兵。AMV-7"警长"装备40毫米埋头弹武器系统和一挺M200轻机枪。该车能有效抵御地雷的伤害，并能够迅速通过崎岖的地形前往指定地点。而AMV-7装甲医疗车则用来载运伤患与医疗器材。</Chinesesimp>
+          <Chinesesimp>装甲运兵车用于在前线部署和撤离士兵。AMV-7"警长"装备40mm 埋头弹武器系统和一挺M200轻机枪。该车能有效抵御地雷的伤害，并能够迅速通过崎岖的地形前往指定地点。而AMV-7装甲医疗车则用来载运伤患与医疗器材。</Chinesesimp>
         </Key>
         <Key ID="str_a3_CfgVehicles_apc_wheeled_02_library0">
           <Original>The MSE-3 Marid is an amphibious 6-wheeled APC used by the OPFOR army. It's an agile and maneuverable vehicle with a low silhouette and compact size. Its reliability and maintenance costs match the western APCs. It's fitted as standard with an RCWS turret with 40 mm GMG and 6.5 mm LMG and is able to carry up to 8 soldiers in the cargo space.</Original>
           <Chinese>MSE-3"馬里德"是一臺紅方的兩棲六輪裝甲運兵車。它是一輛低底盤和小尺寸的敏捷機動車。其可靠性和維護成本比得上西方的裝甲運兵車。它的標準配備是裝設有40公厘榴彈機槍和6.5公厘輕機槍的遙控砲塔。它能夠在後座搭載8名士兵。</Chinese>
-          <Chinesesimp>MSE-3"马里德"是一台红方的两栖六轮装甲运兵车。这是一种低底盘，小尺寸的敏捷型机动车辆。其可靠性和维护成本比得上西方的装甲运兵车。它的标准配备是装有40毫米榴弹机枪和6.5毫米轻机枪的遥控炮塔。它能够在后座搭载8名士兵。</Chinesesimp>
+          <Chinesesimp>MSE-3"马里德"是一台红方的两栖六轮装甲运兵车。这是一种低底盘，小尺寸的敏捷型机动车辆。其可靠性和维护成本比得上西方的装甲运兵车。它的标准配备是装有40mm 榴弹机枪和6.5mm 轻机枪的遥控炮塔。它能够在后座搭载8名士兵。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_truck_01_base_library0">
           <Original>The Heavy Expanded Mobility Tactical Truck is an 8x8 diesel-powered off-road truck. It serves as a standard heavy transport vehicle for BLUFOR armies. There are several versions covering the basic transport functions: cargo, refuel, medical, repair, and ammo resupply. </Original>
@@ -2158,7 +2158,7 @@
         <Key ID="str_a3_cfgvehicles_heli_attack_02_base_library0">
           <Original>A multi-purpose successor to the Mi-24, the Mi-48 Kajman (BLUFOR designation "Hornet") is a large gunship and attack helicopter with troop transport capacity for 8 passengers. The front part of the helicopter is based on the Mi-28 attack helicopter, but the hull is modified for passenger transport. The Kajman has a coaxial rotor providing increased stability. It is armed with a 30mm three-barrel Minigun, unguided Skyfire rockets and guided Skalpel AT missiles.</Original>
           <Chinese>作為米-24的後繼者，米-48"鰐魚"(藍方稱它為"大黃蜂")是一種可供8人搭載的大型攻擊直升機，直升機的前部由米-28攻擊直升機改良而來，但後半段機身被改良成可供多人搭載的結構。"鰐魚"的同軸反轉雙旋翼還為其提供了更高的穩定性。他裝備有30公厘三管"米尼岡"機槍，無導引"天火"火箭彈以及導引版"手術刀"反坦克飛彈。</Chinese>
-          <Chinesesimp>作为米-24的后继者，米-48"鳄鱼"(蓝方代号"大黄蜂")是一种能搭载8人的大型攻击直升机，直升机的前部由米-28攻击直升机改良而来，但后半段机身被改良成可供多人搭载的结构。"鳄鱼"的同轴反转双旋翼还为其提供了更高的稳定性。它装备有30毫米三管"米尼岗"机炮，无制导"天火"火箭弹以及制导版"手术刀"反坦克导弹。</Chinesesimp>
+          <Chinesesimp>作为米-24的后继者，米-48"鳄鱼"(蓝方代号"大黄蜂")是一种能搭载8人的大型攻击直升机，直升机的前部由米-28攻击直升机改良而来，但后半段机身被改良成可供多人搭载的结构。"鳄鱼"的同轴反转双旋翼还为其提供了更高的稳定性。它装备有30mm 三管转管机炮，无制导"天火"火箭弹以及制导版"手术刀"反坦克导弹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_heli_transport_01_base_f_armory0">
           <Original>The UH-80 Ghost Hawk is a BLUFOR medium-lift utility helicopter with stealth design. The Ghost Hawk was developed for special operations with a focus on deployment and extraction of troops undetected by enemy radar. Some pilots say the stealth design hindered the versatility of the helicopter compared to its predecessor, the UH-60. Nevertheless, the Ghost Hawk is now used as a primary transport helicopter in the BLUFOR army. </Original>
@@ -2168,7 +2168,7 @@
         <Key ID="str_a3_cfgvehicles_mrap_03_base_library0">
           <Original>The Strider is a medium all-terrain vehicle with amphibious capability and enhanced crew protection, designed for reconnaissance and troop transport roles. It has been adopted by most of the AAF as a replacement for older medium troop transports in the past decade. The unarmed version is fitted with an observation periscope package with thermal imaging and a laser marker.&lt;br /&gt;The armed version of the basic troop transporter is equipped with a Remotely Controlled Weapons System turret fitted with the universal 12.7 mm heavy machinegun or the multi-role 40 mm Grenade Machine Gun. Armed versions share the observation periscope used for reconnaissance missions. </Original>
           <Chinese>"挺進者"是一種全地形中型載具，其擁有兩棲作戰能力和增強的人員保護，專為偵察和運輸部隊的任務而生。在過去十年裡，它已經被阿爾蒂斯武裝力量逐漸用來替換老舊的中型運輸車。它的無武裝版本配備了一個觀察潛望鏡，其上面裝有熱成像和雷射標記器。&lt;br/&gt;而武裝過的版本則是被中立方拿來運輸部隊用，其使用遙控砲塔，並在上面裝上通用12.7公厘重機槍或多用途40公厘榴彈機槍。武裝過的版本同樣也具有觀察潛望鏡好來進行偵察任務。</Chinese>
-          <Chinesesimp>"挺进者"是一种中型全地形车辆，拥有两栖能力和增强的人员保护能力，专为侦察和运输部队的任务而生。在过去十年里，它已经被阿尔蒂斯武装力量逐渐用来替换老旧的中型运输车。它的无武装版本配备了一个观察潜望镜，其上面装有热成像和激光指示器。&lt;br/&gt;而武装过的版本则是被中立方用于运输部队，其安装含12.7毫米重机枪和40毫米榴弹机枪的遥控武器站。武装过的版本同样也具有观察潜望镜，也可以用来进行侦察任务。</Chinesesimp>
+          <Chinesesimp>"挺进者"是一种中型全地形车辆，拥有两栖能力和增强的人员保护能力，专为侦察和运输部队的任务而生。在过去十年里，它已经被阿尔蒂斯武装力量逐渐用来替换老旧的中型运输车。它的无武装版本配备了一个观察潜望镜，其上面装有热成像和激光指示器。&lt;br/&gt;而武装过的版本则是被中立方用于运输部队，其安装含12.7mm 重机枪和40mm 榴弹机枪的遥控武器站。武装过的版本同样也具有观察潜望镜，也可以用来进行侦察任务。</Chinesesimp>
         </Key>
       </Container>
     </Container>

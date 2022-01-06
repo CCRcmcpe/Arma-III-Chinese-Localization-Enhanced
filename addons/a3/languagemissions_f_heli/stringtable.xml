@@ -1906,7 +1906,7 @@
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskAmmoLoad_description">
             <Original>Collect the container of 155mm shells from %2the AAC airfield%1.</Original>
             <Chinese>在%2阿爾蒂斯空中俱樂部機場%1吊掛裝有155公厘火炮彈藥的貨櫃。</Chinese>
-            <Chinesesimp>在%2阿尔蒂斯空中俱乐部机场%1吊挂装有155毫米火炮弹药的货柜。</Chinesesimp>
+            <Chinesesimp>在%2阿尔蒂斯空中俱乐部机场%1吊挂装有155mm 火炮弹药的货柜。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_FOBWhiskey">
             <Original>FOB Whiskey</Original>
