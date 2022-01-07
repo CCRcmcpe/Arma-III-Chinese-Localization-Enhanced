@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3">
+  <Package name="Languagemissions_Kart">
+    <Container name="Missions">
+      <Container name="Scenarios">
+        <Container name="Time_Trials">
+          <Key ID="str_a3_time_trials_ui_restart">
+            <Original>Quickly restart the Time Trial.</Original>
+            <Chinese>快速重啟計時賽。</Chinese>
+            <Chinesesimp>快速重启计时赛。</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_task_text">
+            <Original>Complete %1 as often as you'd like to improve your times!</Original>
+            <Chinese>完成%1，並經常練習來提升你的成績!</Chinese>
+            <Chinesesimp>完成%1，并经常练习来提升你的成绩!</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt05_overview">
+            <Original>A more traditional kart racing circuit built on the Altis airport premises. Find the ideal racing line and hit the apex of every corner to set record times.</Original>
+            <Chinese>一座設置在阿爾蒂斯機場旁的卡丁車賽道。尋找最佳路線，突破自己，創造佳績。</Chinese>
+            <Chinesesimp>一座设置在阿尔蒂斯机场旁的卡丁车赛道。寻找最佳路线，突破自己，创造佳绩。</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt05_name_short">
+            <Original>TT05</Original>
+            <Chinese>TT05</Chinese>
+            <Chinesesimp>TT05</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt05_name">
+            <Original>TT5: Terminal Velocity</Original>
+            <Chinese>TT5:終端速度</Chinese>
+            <Chinesesimp>TT5:终端速度</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt04_overview">
+            <Original>This looped trial on the open roads near Negades has you racing both uphill and downhill. Don't be distracted by the stunning views!</Original>
+            <Chinese>這座靠近内加澤斯的環形賽道，有著上坡與下坡。請注意，別被驚人的風景給分心了!</Chinese>
+            <Chinesesimp>这座靠近内加泽斯的环形赛道，有着上坡与下坡。请注意，别被惊人的风景给分心了!</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt04_name_short">
+            <Original>TT04</Original>
+            <Chinese>TT04</Chinese>
+            <Chinesesimp>TT04</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt04_name">
+            <Original>TT4: Negades Speedway</Original>
+            <Chinese>TT4:内加澤斯賽道</Chinese>
+            <Chinesesimp>TT4:内加泽斯赛道</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt03_overview">
+            <Original>An improvised circuit set up in an abandoned factory complex. Watch out for the unprotected and unmarked obstacles!</Original>
+            <Chinese>建立在一座廢棄的工廠中。請小心散落在四周的廢棄物!</Chinese>
+            <Chinesesimp>建立在一座废弃的工厂中。请小心散落在四周的废弃物!</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt03_name_short">
+            <Original>TT03</Original>
+            <Chinese>TT03</Chinese>
+            <Chinesesimp>TT03</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt03_name">
+            <Original>TT3: Industrial Loop</Original>
+            <Chinese>TT3:工廠賽道</Chinese>
+            <Chinesesimp>TT3:工厂赛道</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt02_overview">
+            <Original>Weave through the city of Kavala in an exciting and lengthy course. Frequent turns and narrow streets make this is a test of your spatial awareness.</Original>
+            <Chinese>穿梭在卡瓦拉城市中。這個賽道需要你繃緊神經，小心每個轉彎，挑戰你的駕駛技術。</Chinese>
+            <Chinesesimp>穿梭在卡瓦拉城市中。这个赛道需要你绷紧神经，小心每个转弯，挑战你的驾驶技术。</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt02_name_short">
+            <Original>TT02</Original>
+            <Chinese>TT02</Chinese>
+            <Chinesesimp>TT02</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt02_name">
+            <Original>TT2: Kavala Chase</Original>
+            <Chinese>TT2:卡瓦拉賽道</Chinese>
+            <Chinesesimp>TT2:卡瓦拉赛道</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt01_overview">
+            <Original>This tight closed circuit sits right next to the Altis main airport terminal. Racing the quick loop often is ideal for getting a grip on the kart’s handling.</Original>
+            <Chinese>一個坐落在阿爾蒂斯機場旁的卡丁車賽車場。在此場地中你可以快速掌握到卡丁車的駕駛精隨。</Chinese>
+            <Chinesesimp>一个坐落在阿尔蒂斯机场旁的卡丁车赛车场。在此场地中你可以快速掌握到卡丁车的驾驶精随。</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt01_name_short">
+            <Original>TT01</Original>
+            <Chinese>TT01</Chinese>
+            <Chinesesimp>TT01</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt01_name">
+            <Original>TT1: Circuit Training</Original>
+            <Chinese>TT1:循環訓練</Chinese>
+            <Chinesesimp>TT1:循环训练</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_overview">
+            <Original>Beat the clock in a series of Check Point races. Put your vehicle handling, split-second decision making and course memorization skills to the test!</Original>
+            <Chinese>挑戰時間，突破自我。將你的駕駛技巧，瞬間判斷與記憶力發揮到極致!</Chinese>
+            <Chinesesimp>挑战时间，突破自我。将你的驾驶技巧，瞬间判断与记忆力发挥到极致!</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_no_name">
+            <Original>Trial</Original>
+            <Chinese>比賽</Chinese>
+            <Chinesesimp>比赛</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_name">
+            <Original>Time Trials</Original>
+            <Chinese>計時賽</Chinese>
+            <Chinesesimp>计时赛</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_module">
+            <Original>Time Trial</Original>
+            <Chinese>計時賽</Chinese>
+            <Chinesesimp>计时赛</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_hint_started">
+            <Original>Trial started!</Original>
+            <Chinese>比賽開始!</Chinese>
+            <Chinesesimp>比赛开始!</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_hint_rules1">
+            <Original>Wait or turn on your engine(s) to quick-start!</Original>
+            <Chinese>等待或啟動你的引擎來快速開始比賽!</Chinese>
+            <Chinesesimp>等待或启动你的引擎来快速开始比赛!</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_hint_results_restart">
+            <Original>Restart by moving to the marked restart area, returning to the start itself, or by waiting 1 minute!</Original>
+            <Chinese>要重新開始的話，請駛往標記區域中，或自行返回起點，或原地等待1分鐘!</Chinese>
+            <Chinesesimp>要重新开始的话，请驶往标记区域中，或自行返回起点，或原地等待1分钟!</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_hint_results_penalty1">
+            <Original>Check Points missed:</Original>
+            <Chinese>錯失檢查點:</Chinese>
+            <Chinesesimp>错失检查点:</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_hint_restart">
+            <Original>Trial restarting ...</Original>
+            <Chinese>比賽重新開始中...</Chinese>
+            <Chinesesimp>比赛重新开始中...</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_hint_ready">
+            <Original>Get ready and prepare for time trial.</Original>
+            <Chinese>準備好開始計時賽。</Chinese>
+            <Chinesesimp>准备好开始计时赛。</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_hint_exit">
+            <Original>Exited area: trial restarting ...</Original>
+            <Chinese>離開區域:比賽重新開始中...</Chinese>
+            <Chinesesimp>离开区域:比赛重新开始中...</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_function7">
+            <Original>Clearing a Check Point</Original>
+            <Chinese>正在肅清一個檢查點</Chinese>
+            <Chinesesimp>正在肃清一个检查点</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_function6">
+            <Original>Detect competitors being behind Check Points</Original>
+            <Chinese>檢測到車手在檢查點之後</Chinese>
+            <Chinesesimp>检测到车手在检查点之后</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_function5">
+            <Original>Clear all profile statistics for Time Trials</Original>
+            <Chinese>清除所有計時賽個人紀錄</Chinese>
+            <Chinesesimp>清除所有计时赛个人纪录</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_function4">
+            <Original>Detect competitors passing through Check Points</Original>
+            <Chinese>檢測到車手已經過檢查點</Chinese>
+            <Chinesesimp>检测到车手已经过检查点</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_function3">
+            <Original>Exiting a Check Point</Original>
+            <Chinese>正在離開一個檢查點</Chinese>
+            <Chinesesimp>正在离开一个检查点</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_function2">
+            <Original>Entering a Check Point</Original>
+            <Chinese>正在進入一個檢查點</Chinese>
+            <Chinesesimp>正在进入一个检查点</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_function1">
+            <Original>Main Time Trial function</Original>
+            <Chinese>主要計時賽功能</Chinese>
+            <Chinesesimp>主要计时赛功能</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_end2_desc">
+            <Original>You've failed to observe safety discipline.</Original>
+            <Chinese>你沒有遵守安全紀律。</Chinese>
+            <Chinesesimp>你没有遵守安全纪律。</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_text1">
+            <Original>Welcome to %1!&lt;br /&gt;&lt;br /&gt;Compete in this Time Trial as often as you'd like and beat your best times!&lt;br /&gt;&lt;br /&gt;Find more information about Time Trials %2.</Original>
+            <Chinese>歡迎來到%1!&lt;br/&gt;&lt;br/&gt;想辦法在計時賽中突破自己，創造佳績!&lt;br/&gt;&lt;br/&gt;想要得知更多的訊息請查詢計時賽%2。</Chinese>
+            <Chinesesimp>欢迎来到%1!&lt;br/&gt;&lt;br/&gt;想办法在计时赛中突破自己，创造佳绩!&lt;br/&gt;&lt;br/&gt;想要得知更多的信息请查询计时赛%2。</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_subject_title">
+            <Original>Time Trials</Original>
+            <Chinese>計時賽</Chinese>
+            <Chinesesimp>计时赛</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_clear_stats2">
+            <Original>Removing Time Trials statistics cannot be undone!</Original>
+            <Chinese>清除計時賽紀錄將是不可逆的動作!</Chinese>
+            <Chinesesimp>清除计时赛纪录将是不可逆的动作!</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_CALLSIGN1">
+            <Original>Marshal</Original>
+            <Chinese>賽車場工作人員</Chinese>
+            <Chinesesimp>赛车场工作人员</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_rec1_text">
+            <Original>Time Trials are a series of vehicle-based races against the clock.&lt;br /&gt;&lt;br /&gt;Competitors navigate a string of Check Points in order to reach the finish line as quickly as possible.&lt;br /&gt;&lt;br /&gt;They refine their skills in the areas of vehicle handling, cornering, navigation, memorization and split-second decision-making.</Original>
+            <Chinese>計時賽必須突破時間紀錄。&lt;br/&gt;&lt;br/&gt;車手必須在最快的時間內抵達終點。&lt;br/&gt;&lt;br/&gt;車手必須使用自己的駕駛技巧，瞬間判斷與記憶力，才能創造佳績。</Chinese>
+            <Chinesesimp>计时赛必须突破时间纪录。&lt;br/&gt;&lt;br/&gt;车手必须在最快的时间内抵达终点。&lt;br/&gt;&lt;br/&gt;车手必须使用自己的驾驶技巧，瞬间判断与记忆力，才能创造佳绩。</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_rec1_title">
+            <Original>Introduction</Original>
+            <Chinese>介紹</Chinese>
+            <Chinesesimp>介绍</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_rec2_text">
+            <Original>A competitor's raw time is the amount of time it takes to reach the final Check Point.&lt;br /&gt;&lt;br /&gt;Time may be added when you are penalized, for missing a Check Point for example.&lt;br /&gt;&lt;br /&gt;Competitors compete for medals: beat the bronze, silver and gold times. Sometimes a special time is available.</Original>
+            <Chinese>最終成績來自於你能多快抵達終點。&lt;br/&gt;&lt;br/&gt;假如你做出犯規動作，像是錯失檢查點，最終時間有可能會增加。&lt;br/&gt;&lt;br/&gt;依據最終成績，將頒發給你不同的獎牌以玆鼓勵。</Chinese>
+            <Chinesesimp>最终成绩来自于你能多快抵达终点。&lt;br/&gt;&lt;br/&gt;假如你做出犯规动作，像是错失检查点，最终时间有可能会增加。&lt;br/&gt;&lt;br/&gt;依据最终成绩，将颁发给你不同的奖牌以兹鼓励。</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_rec2_title">
+            <Original>Timing</Original>
+            <Chinese>時間</Chinese>
+            <Chinesesimp>时间</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_rec3_text">
+            <Original>You will need to move through all Check Points in a trial for the best possible time.&lt;br /&gt;&lt;br /&gt;However, you are allowed to miss Check Points at the cost of a time penalty.&lt;br /&gt;&lt;br /&gt;Memorize the trial by training often. Some trials support immediate looping when you cross the start right after the final Check Point.</Original>
+            <Chinese>你必須盡快通過所有的檢查點。&lt;br/&gt;&lt;br/&gt;不過你是可繞過檢查點，但是會伴隨著些許懲罰。&lt;br/&gt;&lt;br/&gt;不斷挑戰賽道，才能從中創造突破口，創造佳績。</Chinese>
+            <Chinesesimp>你必须尽快通过所有的检查点。&lt;br/&gt;&lt;br/&gt;不过你是可绕过检查点，但是会伴随着些许惩罚。&lt;br/&gt;&lt;br/&gt;不断挑战赛道，才能从中创造突破口，创造佳绩。</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_rec3_title">
+            <Original>Check Points</Original>
+            <Chinese>檢查點</Chinese>
+            <Chinesesimp>检查点</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_rec4_text">
+            <Original>%1Time Trials are not intended to be mastered in one attempt. Study the trials, find shortcuts and repeat them often.&lt;br /&gt;&lt;br /&gt;%1Sometimes it is better to accept missing a Check Point, taking the penalty, and moving on.&lt;br /&gt;&lt;br /&gt;%1You can disable the on-screen Check Point indicators via difficulty flag 'HUD waypoints info'.</Original>
+            <Chinese>%1計時賽是一種重複的過程。研究賽道，記憶住他，並尋找最佳捷徑。&lt;br/&gt;&lt;br/&gt;%1如果你不小心錯過檢查點，建議您就直接朝下一個檢查點前進會比較好。&lt;br/&gt;&lt;br/&gt;%1你可以在'抬頭顯示器'設定中開關檢查點的顯示。</Chinese>
+            <Chinesesimp>%1计时赛是一种重复的过程。研究赛道，记忆住他，并寻找最佳捷径。&lt;br/&gt;&lt;br/&gt;%1如果你不小心错过检查点，建议您就直接朝下一个检查点前进会比较好。&lt;br/&gt;&lt;br/&gt;%1你可以在'抬头显示器'设定中开关检查点的显示。</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_rec4_title">
+            <Original>Tips</Original>
+            <Chinese>提示</Chinese>
+            <Chinesesimp>提示</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_END4_DESC">
+            <Original>You've suffered a terrible accident.</Original>
+            <Chinese>你遭遇了可怕的車禍。</Chinese>
+            <Chinesesimp>你遭遇了可怕的车祸。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_END5_DESC">
+            <Original>You've run out of fuel.</Original>
+            <Chinese>你沒油了。</Chinese>
+            <Chinesesimp>你没油了。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_HINT_RETURN">
+            <Original>Returned to start: trial restarting ...</Original>
+            <Chinese>返回起點:計時賽重新啟動中...</Chinese>
+            <Chinesesimp>返回起点:计时赛重新启动中...</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_IGUI_Quit">
+            <Original>Quit</Original>
+            <Chinese>離開</Chinese>
+            <Chinesesimp>离开</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_IGUI_Restart">
+            <Original>Restart</Original>
+            <Chinese>重新開始</Chinese>
+            <Chinesesimp>重新开始</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_KARTS_NAME">
+            <Original>Karts</Original>
+            <Chinese>卡丁車</Chinese>
+            <Chinesesimp>卡丁车</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_KARTS_OVERVIEW">
+            <Original>Steer go-karts through a set of circuit and point-to-point trials. Precise steering and optimal use of the kart's low center of mass are key here!</Original>
+            <Chinese>駕駛卡丁車通過檢查點。掌握住卡丁車低底盤以及煞車的慣性，將是你致勝的關鍵!</Chinese>
+            <Chinesesimp>驾驶卡丁车通过检查点。掌握住卡丁车低底盘以及刹车的惯性，将是你致胜的关键!</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_RESULTS">
+            <Original>Results</Original>
+            <Chinese>成績</Chinese>
+            <Chinesesimp>成绩</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_SESSION">
+            <Original>Session:</Original>
+            <Chinese>花費時間:</Chinese>
+            <Chinesesimp>花费时间:</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt00_name">
+            <Original>TT: Introductory Trial</Original>
+            <Chinese>TT:工廠賽道</Chinese>
+            <Chinesesimp>TT:工厂赛道</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt00_name_short">
+            <Original>TT</Original>
+            <Chinese>TT</Chinese>
+            <Chinesesimp>TT</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt00_overview">
+            <Original>Get up to speed with Time Trials using this simple string of Check Points.</Original>
+            <Chinese>通過檢查點來提高你在此賽道中的成績。</Chinese>
+            <Chinesesimp>通过检查点来提高你在此赛道中的成绩。</Chinesesimp>
+          </Key>
+        </Container>
+        <Container name="MP_ZR_8_Karts01">
+          <Key ID="STR_A3_MP_ZR_8_Karts01_overview">
+            <Original>Try out the new Zeus Race module in this pre-set scenario.</Original>
+            <Chinese>在預設的任務中嘗試宙斯新的賽車模塊。</Chinese>
+            <Chinesesimp>在预设的任务中尝试宙斯新的赛车模块。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_MP_ZR_8_Karts01_briefing_mission">
+            <Original>Pass all Check Points first to win the race.</Original>
+            <Chinese>經過所有的檢查點並奪得第一。</Chinese>
+            <Chinesesimp>经过所有的检查点并夺得第一。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_MP_ZR_8_Karts01_briefingName_short">
+            <Original>Race on Altis (Karts)</Original>
+            <Chinese>阿爾蒂斯賽車(卡丁車)</Chinese>
+            <Chinesesimp>阿尔蒂斯赛车(卡丁车)</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_MP_ZR_8_Karts01_briefingName">
+            <Original>Zeus 8+1 Race on Altis (Karts)</Original>
+            <Chinese>宙斯8+1阿爾蒂斯賽車(卡丁車)</Chinese>
+            <Chinesesimp>宙斯8+1阿尔蒂斯赛车(卡丁车)</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_MP_ZR_8_Karts01_obj02_text">
+            <Original>Set up the race. When you're satisfied with the Check Points, place the 'Race - Finish' Objective to start the race.</Original>
+            <Chinese>設置賽道。當你布置完賽道後，請放置'賽車-完成'來開始賽車。</Chinese>
+            <Chinesesimp>设置赛道。当你布置完赛道后，请放置'赛车-完成'来开始赛车。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_MP_ZR_8_Karts01_obj02_title">
+            <Original>Set up the Race</Original>
+            <Chinese>設置賽道</Chinese>
+            <Chinesesimp>设置赛道</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_MP_ZR_8_Karts01_debrief_title">
+            <Original>Race Over</Original>
+            <Chinese>賽車結束</Chinese>
+            <Chinesesimp>赛车结束</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_MP_ZR_8_Karts01_obj01_text">
+            <Original>Wait for Zeus to set up the race.</Original>
+            <Chinese>等待宙斯設置賽道。</Chinese>
+            <Chinesesimp>等待宙斯设置赛道。</Chinesesimp>
+          </Key>
+        </Container>
+        <Container name="MP_ZR_8_Karts02">
+          <Key ID="STR_A3_MP_ZR_8_Karts02_briefingName_short">
+            <Original>Race on Stratis (Karts)</Original>
+            <Chinese>斯特拉蒂斯賽車(卡丁車)</Chinese>
+            <Chinesesimp>斯特拉蒂斯赛车(卡丁车)</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_MP_ZR_8_Karts02_briefingName">
+            <Original>Zeus 8+1 Race on Stratis (Karts)</Original>
+            <Chinese>宙斯8+1斯特拉蒂斯賽車(卡丁車)</Chinese>
+            <Chinesesimp>宙斯8+1斯特拉蒂斯赛车(卡丁车)</Chinesesimp>
+          </Key>
+        </Container>
+      </Container>
+    </Container>
+  </Package>
+</Project>

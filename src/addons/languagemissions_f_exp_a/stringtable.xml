@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3">
+  <Package name="Languagemissions_Exp_A">
+    <Container name="Missions">
+      <Container name="Scenarios">
+        <Container name="EndGame02">
+          <Key ID="STR_A3_EndGame02_Task01">
+            <Original>An AAF unmanned ground vehicle was knocked out near the abandoned settlement in the southern hills. Find its remains and try to retrieve any intact data.</Original>
+            <Chinese>一臺阿爾蒂斯武裝力量的無人地面載具被擊毀在廢棄小鎮南方附近的丘陵上。尋找殘骸，並奪得裡面剩餘的情報資料。</Chinese>
+            <Chinesesimp>一辆阿尔蒂斯武装力量的无人车被击毁在废弃小镇南方附近的丘陵上。寻找残骸，并夺得里面剩余的情报资料。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame02_Task02">
+            <Original>An aerial recon spotted an Altis Navy attack boat anchored in a small port to the south. Try to get some data from its sensors but make sure you destroy it afterwards.</Original>
+            <Chinese>我們的空中偵察機發現到一個阿爾蒂斯武裝力量海軍攻擊艇下錨在南方的一個港口中。嘗試奪得上面的資料，並在最後摧毀它。</Chinese>
+            <Chinesesimp>我们的空中侦察机发现阿尔蒂斯武装力量的海军攻击快艇在南方的一个小港口中下锚。尝试夺得上面的资料，并在最后摧毁它。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame02_Task03">
+            <Original>A local AAN reporter managed to collect some interesting footage which might assist our ground units with advancing inland.</Original>
+            <Chinese>一個當地的AAN記者設法獲得了一些有趣的影片，這可能可以幫助我們地面部隊推進到內陸。</Chinese>
+            <Chinesesimp>一名当地的AAN记者设法获得了一些有趣的影片，这可能可以帮助我们地面部队推进到内陆。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame02_Task04">
+            <Original>A western PMC group was active in the Selakano area. Try to find their operatives and convince them to cooperate.</Original>
+            <Chinese>一組西方的傭兵小隊曾在塞拉卡諾區域活動。設法找到他們並說服他們與我方合作。</Chinese>
+            <Chinesesimp>一组西方的私营军事公司小队曾在塞拉卡诺区域活动。设法找到他们并说服他们与我方合作。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame02_Task05">
+            <Original>The seaside chapel provided shelter to AAF units fleeing airstrikes. Search the area for any relevant intel.</Original>
+            <Chinese>在海邊的禮拜堂曾經提供阿爾蒂斯武裝力量躲避空襲。搜索該區是否有任何殘留的情報。</Chinese>
+            <Chinesesimp>在海边的礼拜堂被阿尔蒂斯武装力量用来躲避空袭。搜索该区是否有任何残留的情报。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame02_Task06">
+            <Original>An AAF convoy was hit on the road between Feres and Selakano. Search the area and try to recover any useful info.</Original>
+            <Chinese>阿爾蒂斯武裝力量的車隊曾經在費雷斯與塞拉卡諾之間遇襲。搜索該區並回收任何有用的情報。</Chinese>
+            <Chinesesimp>阿尔蒂斯武装力量的车队曾经在费雷斯与塞拉卡诺间遇袭。搜索该区并回收任何有用的情报。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame02_Task07">
+            <Original>The AAF airbase to the south was recently abandoned and may hold some information of use to us. Search the area for any usable information.</Original>
+            <Chinese>阿爾蒂斯武裝力量空軍基地的南面最近被廢棄了，那裡可能有些有趣的情報。搜索該區並取回有用的資訊。</Chinese>
+            <Chinesesimp>南部的阿尔蒂斯武装力量空军基地最近被废弃了，那里可能有些有趣的情报。搜索该区并取回有用的信息。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame02_Task08">
+            <Original>According to a wounded guerrilla fighter, some valuable data is hidden in a grave marked 'Unknown' inside Feres military cemetery.</Original>
+            <Chinese>根據一名受傷游擊隊員的說詞，一些有用的資料被藏在費雷斯軍人公墓中標示'未知'點的地方。</Chinese>
+            <Chinesesimp>根据一名受伤游击队员的说词，一些有用的资料被藏在费雷斯军人公墓中标示'未知'点的地方。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame02_Task09">
+            <Original>According to a UAV recon, a small guerrilla force is located near the windmills in the hills. Find them and convince them to support your operation.</Original>
+            <Chinese>根據無人機的偵察，一組游擊隊被發現出沒在風車附近的山坡上。找到他們並說服他們與我方合作。</Chinese>
+            <Chinesesimp>根据无人机的侦察，一组游击队被发现出没在风车附近的山坡上。找到他们并说服他们与我方合作。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame02_missionName">
+            <Original>Feres</Original>
+            <Chinese>費雷斯</Chinese>
+            <Chinesesimp>费雷斯</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame02_missionNameLobby">
+            <Original>End Game 32 Feres</Original>
+            <Chinese>終戰32費雷斯</Chinese>
+            <Chinesesimp>终战32费雷斯</Chinesesimp>
+          </Key>
+        </Container>
+        <Container name="EndGame03">
+          <Key ID="STR_A3_EndGame03_missionName">
+            <Original>Zaros</Original>
+            <Chinese>扎羅斯</Chinese>
+            <Chinesesimp>扎罗斯</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame03_missionNameLobby">
+            <Original>End Game 16 Zaros</Original>
+            <Chinese>終戰16扎羅斯</Chinese>
+            <Chinesesimp>终战16扎罗斯</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame03_Task01a">
+            <Original>According to our intelligence, one source of intel is located in a small park in the center of Zaros.</Original>
+            <Chinese>根據我們的情報，我們相信其中一條情報來源就在扎羅斯中間的小公園當中。</Chinese>
+            <Chinesesimp>根据我们的情报，我们相信其中一条情报来源就在扎罗斯中心的小公园当中。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame03_Task02a">
+            <Original>We're receiving a signal from one of the gardens north of the local cemetery. Search the area and locate the intel.</Original>
+            <Chinese>我們接收到一條訊號，它來自花園北方的墓地中。搜索該區並取回任何情報。</Chinese>
+            <Chinesesimp>我们接收到一条信号，它来自花园北方的墓地中。搜索该区并取回任何情报。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame03_Task03a">
+            <Original>We received a report of a possible intel source located near houses close to the eastern slope of Riga hill.</Original>
+            <Chinese>我們得到了線報，一條情報來源被定位在里加山東邊的小屋附近。</Chinese>
+            <Chinesesimp>我们得到了线报，一条情报来源被定位在里加山东边的小屋附近。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame03_Task01b">
+            <Original>According to our intelligence, one source of intel is located in the church in the center of the city.</Original>
+            <Chinese>根據我們的情報，我們相信其中一條情報來源就在市中的教堂中。</Chinese>
+            <Chinesesimp>根据我们的情报，我们相信其中一条情报来源就在市中的教堂中。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame03_Task02b">
+            <Original>We're receiving a signal from one of the houses east of the local cemetery. Search the area and locate the intel.</Original>
+            <Chinese>我們收到一條訊號來自當地墓地東面的一座房屋中。搜索並定位情報來源。</Chinese>
+            <Chinesesimp>我们收到一条信号来自当地墓地东面的一座房屋中。搜索并定位情报来源。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_EndGame03_Task03b">
+            <Original>We received a report of a possible intel source located within a construction site north-east of Riga hill.</Original>
+            <Chinese>我們收到回報，據說里加山東北方的工地可能是一條情報來源。</Chinese>
+            <Chinesesimp>我们收到回报，据说里加山东北面的工地可能是一条情报来源。</Chinesesimp>
+          </Key>
+        </Container>
+        <Container name="VR">
+          <Key ID="STR_A3_VR_Stamina">
+            <Original>Stamina</Original>
+            <Chinese>體力</Chinese>
+            <Chinesesimp>体力</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_Loadout">
+            <Original>Loadout</Original>
+            <Chinese>裝備</Chinese>
+            <Chinesesimp>装备</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_02_Injury">
+            <Original>Injury</Original>
+            <Chinese>受傷</Chinese>
+            <Chinesesimp>受伤</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_03_OverEncumbrance">
+            <Original>Over-encumbrance</Original>
+            <Chinese>過度沉重</Chinese>
+            <Chinesesimp>过度沉重</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_FieldTest">
+            <Original>Field Test</Original>
+            <Chinese>實地測試</Chinese>
+            <Chinesesimp>实地测试</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_FinishHeavy">
+            <Original>Heavy loadout: %1 seconds</Original>
+            <Chinese>重裝備:%1秒</Chinese>
+            <Chinesesimp>重装备:%1秒</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_FinishLight">
+            <Original>Light loadout: %1 seconds</Original>
+            <Chinese>輕裝備:%1秒</Chinese>
+            <Chinesesimp>轻装备:%1秒</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_LoadoutHeavy">
+            <Original>Loadout: Heavy</Original>
+            <Chinese>裝備:重</Chinese>
+            <Chinesesimp>装备:重</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_Task_01_desc">
+            <Original>Take all the equipment from the ammo crates.</Original>
+            <Chinese>拿取彈藥箱中的所有裝備。</Chinese>
+            <Chinesesimp>拿取弹药箱中的所有装备。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_Task_01_title">
+            <Original>Equip Yourself</Original>
+            <Chinese>裝備自己</Chinese>
+            <Chinesesimp>装备自己</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_Task_02_desc">
+            <Original>Get into position and prepare to begin.</Original>
+            <Chinese>就位並準備開始。</Chinese>
+            <Chinesesimp>就位并准备开始。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_Task_02_title">
+            <Original>Get Into Position</Original>
+            <Chinese>就位</Chinese>
+            <Chinesesimp>就位</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_Task_03_desc">
+            <Original>Sprint through the course and board the waiting IFV.</Original>
+            <Chinese>使用衝刺通過路線並搭乘等待中的步兵戰車。</Chinese>
+            <Chinesesimp>使用冲刺通过路线并搭乘等待中的步兵战车。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_02_Task_01_desc">
+            <Original>Disable the timed charge before it harms the hostages.</Original>
+            <Chinese>在炸彈危害到人質前解除它。</Chinese>
+            <Chinesesimp>在炸弹危害到人质前解除它。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_03_Task_01_desc">
+            <Original>Take all equipment from the fallen comrade.</Original>
+            <Chinese>拿取陣亡同胞身上的所有裝備。</Chinese>
+            <Chinesesimp>拿取阵亡同胞身上的所有装备。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_03_Task_01_title">
+            <Original>Take All Equipment</Original>
+            <Chinese>取得所有裝備</Chinese>
+            <Chinesesimp>取得所有装备</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_03_Task_02_desc">
+            <Original>Return to the UGV, do not drop any of your equipment.</Original>
+            <Chinese>返回地面無人載具，不要在途中漏掉任何一件裝備。</Chinese>
+            <Chinesesimp>返回地面无人载具，不要在途中漏掉任何一件装备。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Task_01_desc">
+            <Original>Take the backpack and all the satchel charges from the ammo crates.</Original>
+            <Chinese>拿取彈藥箱中的所有炸藥包。</Chinese>
+            <Chinesesimp>拿取弹药箱中的所有炸药包。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Task_01_title">
+            <Original>Take All Explosives</Original>
+            <Chinese>取得所有炸藥</Chinese>
+            <Chinesesimp>取得所有炸药</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Task_02_desc">
+            <Original>Get past the outer gate before it closes.</Original>
+            <Chinese>在大門關閉前通過。</Chinese>
+            <Chinesesimp>在大门关闭前通过。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Task_02_title">
+            <Original>Run Through the Gate</Original>
+            <Chinese>衝過大門</Chinese>
+            <Chinesesimp>冲过大门</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Task_03_desc">
+            <Original>Place the charges near each armored vehicle, get behind cover and detonate them.</Original>
+            <Chinese>對每一臺敵軍裝甲載具設置炸藥，並躲在掩體後面進行引爆。</Chinese>
+            <Chinesesimp>对每一台敌军装甲载具设置炸药，并躲在掩体后面进行引爆。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Task_03_title">
+            <Original>Destroy Enemy Armor</Original>
+            <Chinese>摧毀敵軍裝甲載具</Chinese>
+            <Chinesesimp>摧毁敌军装甲载具</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_03_Task_02_title">
+            <Original>Get in the UGV</Original>
+            <Chinese>登上地面無人載具</Chinese>
+            <Chinesesimp>登上地面无人载具</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_02_Task_01_title">
+            <Original>Disable the Charge</Original>
+            <Chinese>解除炸藥</Chinese>
+            <Chinesesimp>解除炸药</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_Task_03_title">
+            <Original>Get in the IFV</Original>
+            <Chinese>登上步兵戰車</Chinese>
+            <Chinesesimp>登上步兵战车</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_LoadoutLight">
+            <Original>Loadout: Light</Original>
+            <Chinese>裝備:輕</Chinese>
+            <Chinesesimp>装备:轻</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_TimeLimit">
+            <Original>Time limit: %1 seconds</Original>
+            <Chinese>時間限制:%1秒</Chinese>
+            <Chinesesimp>时间限制:%1秒</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_TrackLength">
+            <Original>Track length: %1 meters</Original>
+            <Chinese>路線全長:%1公尺</Chinese>
+            <Chinesesimp>路线全长:%1米</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_02_SimulatingInjury">
+            <Original>Simulating severe injury, jog and sprint are disabled.</Original>
+            <Chinese>模擬受到嚴重傷害，慢跑與衝刺都將不能使用。</Chinese>
+            <Chinesesimp>模拟受到严重伤害，慢跑与冲刺都将不能使用。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Fail">
+            <Original>Try to drop any unnecessary equipment for this mission and you should be successful next time.</Original>
+            <Chinese>嘗試丟掉任何不必要的裝備，這樣你應該就能成功達成任務。</Chinese>
+            <Chinesesimp>尝试丢掉任何不必要的装备，这样你应该就能成功达成任务。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Situation_01">
+            <Original>SITUATION:</Original>
+            <Chinese>狀況:</Chinese>
+            <Chinesesimp>状况:</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Situation_02">
+            <Original>You have a chance to destroy enemy armor, but you have to get in the area before the gate is closed.</Original>
+            <Chinese>你將有機會摧毀敵軍的裝甲載具，但你必須在大門關閉前進入該區。</Chinese>
+            <Chinesesimp>你将有机会摧毁敌军的装甲车辆，但你必须在大门关闭前进入该区。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Situation_03">
+            <Original>1. Take the backpack and satchels from the ammo crate.</Original>
+            <Chinese>1. 從彈藥箱中拿取背包與炸藥。</Chinese>
+            <Chinesesimp>1. 从弹药箱中拿取背包与炸药。</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Situation_04">
+            <Original>2. Rush through the outer gate before it closes.</Original>
+            <Chinese>2. 在大門關閉之前衝過去。</Chinese>
+            <Chinesesimp>2. 在大门关闭之前冲过去。</Chinesesimp>
+          </Key>
+        </Container>
+      </Container>
+    </Container>
+  </Package>
+</Project>

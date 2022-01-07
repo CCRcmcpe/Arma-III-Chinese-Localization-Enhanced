@@ -1,0 +1,877 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3">
+  <Package name="Language_Exp_B">
+    <Container name="Leaderboards">
+      <Key ID="STR_A3_Leaderboards_Header">
+        <Original>Leaderboard</Original>
+        <Chinese>排行榜</Chinese>
+        <Chinesesimp>排行榜</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Leaderboards_Status1">
+        <Original>Retrieving results ...</Original>
+        <Chinese>接收成績中...</Chinese>
+        <Chinesesimp>接收成绩中...</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Leaderboards_Status2">
+        <Original>Unable to retrieve the results at this time</Original>
+        <Chinese>無法取得成績</Chinese>
+        <Chinesesimp>无法取得成绩</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Leaderboards_Header_Friends">
+        <Original>Friends</Original>
+        <Chinese>朋友</Chinese>
+        <Chinesesimp>朋友</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Leaderboards_Header_Global">
+        <Original>Global</Original>
+        <Chinese>世界</Chinese>
+        <Chinesesimp>世界</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Leaderboards_Header_Player">
+        <Original>Player</Original>
+        <Chinese>玩家</Chinese>
+        <Chinesesimp>玩家</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Leaderboards_Status3">
+        <Original>No results for this challenge yet</Original>
+        <Chinese>此挑戰還沒有成績</Chinese>
+        <Chinesesimp>此挑战还没有成绩</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Leaderboards_Status4">
+        <Original>Publishing results ...</Original>
+        <Chinese>上傳成績中...</Chinese>
+        <Chinesesimp>上传成绩中...</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Leaderboards_Status5">
+        <Original>Unable to publish the results at this time</Original>
+        <Chinese>無法上傳成績</Chinese>
+        <Chinesesimp>无法上传成绩</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Leaderboards_Status6">
+        <Original>Results successfully published</Original>
+        <Chinese>成績上傳成功</Chinese>
+        <Chinesesimp>成绩上传成功</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Welcome">
+      <Key ID="str_a3_rscdisplaywelcome_expb_pard_list6">
+        <Original>enjoy new lowered weapon animations, support for amphibious tracked PhysX vehicles, more &lt;a href='%2' color='%1'&gt;scripted control over animals&lt;/a&gt;, &lt;a href='%3' color='%1'&gt;geometric occluders&lt;/a&gt;, and HBAO+.</Original>
+        <Chinese>享受新武器低姿態的動作，PhysX所帶來的載具履帶體驗，以及更多&lt;ahref='%2'color='%1'&gt;腳本生成控制的動物&lt;/a&gt;，&lt;ahref='%3'color='%1'&gt;新的渲染技術&lt;/a&gt;，以及HBAO+。</Chinese>
+        <Chinesesimp>享受新武器与低姿态的动作，PhysX所带来的履带载具体验，以及更多&lt;ahref='%2'color='%1'&gt;脚本生成控制的动物&lt;/a&gt;，&lt;ahref='%3'color='%1'&gt;新的渲染技术&lt;/a&gt;，以及HBAO+。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_pard_list5_title">
+        <Original>Parallax Ground Surfaces</Original>
+        <Chinese>地表視差</Chinese>
+        <Chinesesimp>地表视差</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_pard_list5">
+        <Original>&lt;a href='%2' color='%1'&gt;observe&lt;/a&gt; a better illusion of depth with fewer artifacts.</Original>
+        <Chinese>&lt;ahref='%2'color='%1'&gt;觀察&lt;/a&gt;視差的體驗有所改進。</Chinese>
+        <Chinesesimp>&lt;ahref='%2'color='%1'&gt;观察&lt;/a&gt;视差的体验有所改进。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_pard_list4_title">
+        <Original>Scripted System Optimizations</Original>
+        <Chinese>腳本系統優化</Chinese>
+        <Chinesesimp>脚本系统优化</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_pard_list4">
+        <Original>experience modest performance benefits due to improvements to the common functions library and the Revive feature.</Original>
+        <Chinese>改進了腳本系統的運行，以及增加了常用的功能到資料庫與復甦等功能。</Chinese>
+        <Chinesesimp>改进了脚本系统的运行，以及增加了常用的功能到资料库与复苏等功能。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_pard_list3_title">
+        <Original>Weapon Switching</Original>
+        <Chinese>武器切換</Chinese>
+        <Chinesesimp>武器切换</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_pard_list3">
+        <Original>use new control bindings to switch weapons as a character or in vehicles.</Original>
+        <Chinese>使用新定義的按鍵來切換角色或載具的武器。</Chinese>
+        <Chinesesimp>使用新定义的按键来切换角色或载具的武器。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_pard_list2_title">
+        <Original>Steam Leaderboards</Original>
+        <Chinese>Steam排行榜</Chinese>
+        <Chinesesimp>Steam排行榜</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_pard_list2">
+        <Original>&lt;a href='%2' color='%1'&gt;challenge&lt;/a&gt; your friends to beat your best Firing Drill and Time Trial times.</Original>
+        <Chinese>在射擊訓練與計時賽中&lt;ahref='%2'color='%1'&gt;挑戰&lt;/a&gt;你的朋友們，角逐排行榜冠軍。</Chinese>
+        <Chinesesimp>在射击训练与计时赛中&lt;ahref='%2'color='%1'&gt;挑战&lt;/a&gt;你的朋友们，角逐排行榜冠军。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_pard_list1_title">
+        <Original>Analytics</Original>
+        <Chinese>分析</Chinese>
+        <Chinesesimp>分析</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_pard_list1">
+        <Original>help us to have a &lt;a href='%2' color='%1'&gt;better understanding&lt;/a&gt; of how the game is used and how we may improve it further, simply by playing.</Original>
+        <Chinese>簡單透過遊玩遊戲，你便能幫助我們&lt;ahref='%2'color='%1'&gt;更了解&lt;/a&gt;遊戲有那些缺失，以及需要改進和增加的地方。</Chinese>
+        <Chinesesimp>简单通过游玩游戏，你便能帮助我们&lt;ahref='%2'color='%1'&gt;更了解&lt;/a&gt;游戏有哪些缺失，以及需要改进和增加的地方。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_pard_footer2">
+        <Original>Regardless of how you play Arma 3, we hope you will enjoy this update and that you will join us on the road to the &lt;a href='%2' color='%1'&gt;Apex expansion&lt;/a&gt;!</Original>
+        <Chinese>無論你怎樣遊玩武裝突襲3，我們都希望你能一起加入我們前往&lt;ahref='%2'color='%1'&gt;頂尖資料片&lt;/a&gt;的旅程!</Chinese>
+        <Chinesesimp>无论你怎样游玩武装突袭3，我们都希望你能一起加入我们前往&lt;ahref='%2'color='%1'&gt;顶尖资料片&lt;/a&gt;的旅程!</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_pard">
+        <Original>More improvements aim to make the platform more solid and future-proof:</Original>
+        <Chinese>更多的調整，使遊戲日益完整強大:</Chinese>
+        <Chinesesimp>更多的调整，使游戏日益完整强大:</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_title">
+        <Original>EDEN EDITOR_</Original>
+        <Chinese>伊甸編輯器_</Chinese>
+        <Chinesesimp>伊甸编辑器_</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_list8_title">
+        <Original>Modding</Original>
+        <Chinese>改裝編輯器</Chinese>
+        <Chinesesimp>改装编辑器</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_list8">
+        <Original>enhance the editor itself via custom plug-ins.</Original>
+        <Chinese>可簡單的透過插件來增加編輯器的功能。</Chinese>
+        <Chinesesimp>可简单的通过插件来增加编辑器的功能。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_list7_title">
+        <Original>Vehicle Crews</Original>
+        <Chinese>載具組員</Chinese>
+        <Chinesesimp>载具组员</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_list7">
+        <Original>enjoy direct manipulation of characters in vehicles.</Original>
+        <Chinese>可以直接設置載具組員屬性，或直觀的拖曳單位進入載具。</Chinese>
+        <Chinesesimp>可以直接设置载具组员属性，或直观的拖拽单位进入载具。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_list6_title">
+        <Original>Scenario Configuration</Original>
+        <Chinese>任務配置</Chinese>
+        <Chinesesimp>任务配置</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_list6">
+        <Original>&lt;a href='%2' color='%1'&gt;description.ext&lt;/a&gt; integration has arrived to the editor itself.</Original>
+        <Chinese>&lt;ahref='%2'color='%1'&gt;description。ext&lt;/a&gt;現在可以直接透過編輯器來編輯。</Chinese>
+        <Chinesesimp>&lt;ahref='%2'color='%1'&gt;description。ext&lt;/a&gt;现在可以直接通过编辑器来编辑。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_list5_title">
+        <Original>Character Load-Outs</Original>
+        <Chinese>角色裝備</Chinese>
+        <Chinesesimp>角色装备</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_list5">
+        <Original>use &lt;a href='%2' color='%1'&gt;Arsenal&lt;/a&gt; integration to edit available weapons and other gear.</Original>
+        <Chinese>使用&lt;ahref='%2'color='%1'&gt;軍火庫&lt;/a&gt;來簡單編輯該角色所需要的裝備。</Chinese>
+        <Chinesesimp>使用&lt;ahref='%2'color='%1'&gt;军火库&lt;/a&gt;来简单编辑该角色所需要的装备。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_list4_title">
+        <Original>Asset Filtering / Searching</Original>
+        <Chinese>素材過濾/搜尋</Chinese>
+        <Chinesesimp>素材过滤/搜寻</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_list4">
+        <Original>quickly find specific assets in the massive library.</Original>
+        <Chinese>迅速在素材庫中找到所需要的素材。</Chinese>
+        <Chinesesimp>迅速在素材库中找到所需要的素材。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_list3_title">
+        <Original>Layers</Original>
+        <Chinese>圖層</Chinese>
+        <Chinesesimp>图层</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_list3">
+        <Original>define custom and nested collections of entities to manipulate as a set.</Original>
+        <Chinese>拖曳單位到自定義的圖層中，藉此方便管控整個任務。</Chinese>
+        <Chinesesimp>拖拽单位到自定义的图层中，藉此方便管控整个任务。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_list2_title">
+        <Original>Undo / Redo</Original>
+        <Chinese>復原/重作</Chinese>
+        <Chinesesimp>复原/重做</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_list2">
+        <Original>use the history list of operations to experiment and recover from mistakes.</Original>
+        <Chinese>使用歷史紀錄來隨時復原或重作。</Chinese>
+        <Chinesesimp>使用历史记录来随时复原或重做。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_list1_title">
+        <Original>3D</Original>
+        <Chinese>3D</Chinese>
+        <Chinesesimp>3D</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_list1">
+        <Original>build detailed object compositions and preserve situational awareness within the game world.</Original>
+        <Chinese>可以更簡單建構複雜的場景，並隨時檢視編輯成果。</Chinese>
+        <Chinesesimp>可以更简单建构复杂的场景，并随时检视编辑成果。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc_footer">
+        <Original>More about Eden Editor</Original>
+        <Chinese>更多關於伊甸編輯器</Chinese>
+        <Chinesesimp>更多关于伊甸编辑器</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parc">
+        <Original>The old scenario editor excelled in its game integration and ease-of-use, yet it allowed designers to create complex modes as well. Eden Editor represents a massive leap forward. Both editors will be available until the platform update coinciding with the Apex expansion is released. We recommend you try the in-editor tutorials for a quick look at the basics.</Original>
+        <Chinese>舊的編輯器其簡單好用的特性，為社群創造了不少的任務，但仍然有些功能上的不足。而伊甸編輯器正是為了補齊這些功能而來，它將編輯功能帶到了一個新的境界。直到頂尖資料片上市前，兩個新舊編輯器都將同時保留。我們建議你盡快透過新編輯器中的教學文件來學習新編輯器的用法。</Chinese>
+        <Chinesesimp>旧的编辑器其简单好用的特性，为社区创造了不少的任务，但仍然有些功能上的不足。而伊甸编辑器正是为了补齐这些功能而来，它将编辑功能带到了一个新的境界。直到顶尖资料片上市前，两个新旧编辑器都将同时保留。我们建议你尽快通过新编辑器中的教学文件来学习新编辑器的用法。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parb_title">
+        <Original>EDEN UPDATE</Original>
+        <Chinese>伊甸更新</Chinese>
+        <Chinesesimp>伊甸更新</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parb_list4_title">
+        <Original>Font</Original>
+        <Chinese>字體</Chinese>
+        <Chinesesimp>字体</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parb_list4">
+        <Original>we hope you are reading this more comfortably in the game's new font!</Original>
+        <Chinese>希望新的字體讓你閱讀起來更舒適!</Chinese>
+        <Chinesesimp>希望新的字体让你阅读起来更舒适!</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parb_list3_title">
+        <Original>Launcher-Based Server Browser</Original>
+        <Chinese>伺服器瀏覽功能登上啟動器</Chinese>
+        <Chinesesimp>服务器浏览功能加入启动器</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parb_list3">
+        <Original>get into multiplayer sessions more easily via better filtering options and &lt;a href='%2' color='%1'&gt;Workshop mod&lt;/a&gt; support.</Original>
+        <Chinese>更簡單的透過&lt;ahref='%2'color='%1'&gt;工作坊模組&lt;/a&gt;來搜尋與進入伺服器。</Chinese>
+        <Chinesesimp>更简单的通过&lt;ahref='%2'color='%1'&gt;创意工坊模组&lt;/a&gt;来搜寻与进入服务器。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parb_list2_title">
+        <Original>Audio</Original>
+        <Chinese>音效</Chinese>
+        <Chinesesimp>音效</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parb_list2">
+        <Original>a multi-channel amplitude panner and distance-based samples for weapons and explosions add more immersion and fidelity to combat sounds.</Original>
+        <Chinese>使用多聲道與距離感來為爆破與交戰產生真實感。</Chinese>
+        <Chinesesimp>使用多声道设备获得距离感来为爆破与交战提供真实感。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parb_list1_title">
+        <Original>Eden Editor</Original>
+        <Chinese>伊甸編輯器</Chinese>
+        <Chinesesimp>伊甸编辑器</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parb_list1">
+        <Original>retaining the beloved simplicity of creating scenarios, the new editor finally adds the third dimension and a great deal of desired functionality.</Original>
+        <Chinese>保留住任務編輯的精華與簡單性，並加入3D編輯與大量的功能。</Chinese>
+        <Chinesesimp>保留任务编辑的精华与简单性，并加入3D编辑与大量的功能。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parb_footer">
+        <Original>More about Arma 3 Eden Update</Original>
+        <Chinese>更多關於武裝突襲3伊甸更新</Chinese>
+        <Chinesesimp>更多关于武装突袭3伊甸更新</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_parb">
+        <Original>Our goals for this update were to enhance the core usability of the game and cater to custom content creators in meaningful ways:</Original>
+        <Chinese>我們這次的核心目標設定在實用性上，並以有用的工具來迎合創作者的胃口:</Chinese>
+        <Chinesesimp>我们这次的核心目标设定在实用性上，并以有用的工具来迎合创作者的胃口:</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_expb_para">
+        <Original>Thanks to the continued support from its growing player and modder community, Arma 3 now receives this major &lt;t color='%1'&gt;free platform update&lt;/t&gt;. Our central focus has been on bringing &lt;t color='%1'&gt;scenario editing&lt;/t&gt; forward in a major way, but there are many additional improvements to enjoy as well!</Original>
+        <Chinese>感謝你繼續支持本作，武裝突襲3現在已獲得主要的&lt;tcolor='%1'&gt;免費更新&lt;/t&gt;。我們這次將專注在&lt;tcolor='%1'&gt;任務編輯&lt;/t&gt;上的改進，也帶來了其他的改變!</Chinese>
+        <Chinesesimp>感谢你继续支持本作，武装突袭3现在已获得主要的&lt;tcolor='%1'&gt;免费更新&lt;/t&gt;。我们这次将专注在&lt;tcolor='%1'&gt;任务编辑&lt;/t&gt;上的改进，也带来了其他的改变!</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="TasksOverhaul">
+      <Key ID="STR_A3_Locate">
+        <Original>Locate</Original>
+        <Chinese>位置</Chinese>
+        <Chinesesimp>位置</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_ASSIGNED_TASK">
+        <Original>ASSIGNED TASK</Original>
+        <Chinese>指派任務目標</Chinese>
+        <Chinesesimp>指派任务目标</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_NO_TASK_ASSIGNED">
+        <Original>NO TASK ASSIGNED</Original>
+        <Chinese>沒有指派任務目標</Chinese>
+        <Chinesesimp>没有指派任务目标</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Ruins">
+      <Key ID="str_a3_land_wip_ruins_f0">
+        <Original>Unfinished Complex (Ruin)</Original>
+        <Chinese>未完工的大樓(廢墟)</Chinese>
+        <Chinesesimp>未完工的大楼(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_windmill01_ruins_f0">
+        <Original>Windmill (Ruin)</Original>
+        <Chinese>風車(廢墟)</Chinese>
+        <Chinesesimp>风车(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_unfinished_building_02_ruins_f0">
+        <Original>Unfinished Building (Large, Ruin)</Original>
+        <Chinese>未完成的建築(特大，廢墟)</Chinese>
+        <Chinesesimp>未完成的建筑(特大，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_unfinished_building_01_ruins_f0">
+        <Original>Unfinished Building (Big, Ruin)</Original>
+        <Chinese>未完成的建築(大，廢墟)</Chinese>
+        <Chinesesimp>未完成的建筑(大，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_ttowerbig_2_ruins_f0">
+        <Original>Transmitter Tower (Tall, Ruin)</Original>
+        <Chinese>電波塔(高，廢墟)</Chinese>
+        <Chinesesimp>信号塔(高，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_ttowerbig_1_ruins_f0">
+        <Original>Transmitter Tower (Ruin)</Original>
+        <Chinese>電波塔(廢墟)</Chinese>
+        <Chinesesimp>信号塔(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_tenthangar_v1_ruins_f0">
+        <Original>Tent Hangar (Ruin)</Original>
+        <Chinese>帳篷停機庫(廢墟)</Chinese>
+        <Chinesesimp>帐篷停机库(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_tbox_ruins_f0">
+        <Original>Transmitter Box (Ruin)</Original>
+        <Chinese>電訊機房(廢墟)</Chinese>
+        <Chinesesimp>电信机房(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_stone_shed_v1_ruins_f0">
+        <Original>Stone House (Small, Ruin)</Original>
+        <Chinese>石造房屋(小，廢墟)</Chinese>
+        <Chinesesimp>石造房屋(小，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_stone_housesmall_v1_ruins_f0">
+        <Original>Stone House (Ruin)</Original>
+        <Chinese>石造房屋(廢墟)</Chinese>
+        <Chinesesimp>石造房屋(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_stone_housebig_v1_ruins_f0">
+        <Original>Stone House (Big, Ruin)</Original>
+        <Chinese>石造房屋(大，廢墟)</Chinese>
+        <Chinesesimp>石造房屋(大，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_spp_transformer_ruins_f0">
+        <Original>Solar Transformer (Ruin)</Original>
+        <Chinese>太陽能變電箱(廢墟)</Chinese>
+        <Chinesesimp>太阳能变电箱(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_spp_tower_ruins_f0">
+        <Original>Solar Tower (Ruin)</Original>
+        <Chinese>太陽能電塔(廢墟)</Chinese>
+        <Chinesesimp>太阳能电塔(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_spp_mirror_ruins_f0">
+        <Original>Solar Mirrors (Ruin)</Original>
+        <Chinese>太陽能反射鏡(廢墟)</Chinese>
+        <Chinesesimp>太阳能反射镜(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_slum_house03_ruins_f0">
+        <Original>Slum House (Big, Ruin)</Original>
+        <Chinese>貧民窟屋子(大，廢墟)</Chinese>
+        <Chinesesimp>贫民窟屋子(大，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_slum_house02_ruins_f0">
+        <Original>Slum House (Ruin)</Original>
+        <Chinese>貧民窟屋子(廢墟)</Chinese>
+        <Chinesesimp>贫民窟屋子(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_slum_house01_ruins_f0">
+        <Original>Slum House (Small, Ruin)</Original>
+        <Chinese>貧民窟屋子(小，廢墟)</Chinese>
+        <Chinesesimp>贫民窟屋子(小，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_slidecastle_ruins_f0">
+        <Original>Slide (Castle, Ruin)</Original>
+        <Chinese>溜滑梯(古堡，廢墟)</Chinese>
+        <Chinesesimp>滑滑梯(古堡，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_shop_02_v1_ruins_f0">
+        <Original>Shop (Ruin)</Original>
+        <Chinese>商店(廢墟)</Chinese>
+        <Chinesesimp>商店(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_shop_01_v1_ruins_f0">
+        <Original>Shop House (Ruin)</Original>
+        <Chinese>店鋪(廢墟)</Chinese>
+        <Chinesesimp>店铺(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_shed_small_ruins_f0">
+        <Original>Industrial Shed (Small, Ruin)</Original>
+        <Chinese>工業鐵皮屋(小，廢墟)</Chinese>
+        <Chinesesimp>工业铁皮屋(小，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_shed_ind_ruins_f0">
+        <Original>Industrial Shed (Ruin)</Original>
+        <Chinese>工業鐵皮屋(廢墟)</Chinese>
+        <Chinesesimp>工业铁皮屋(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_shed_big_ruins_f0">
+        <Original>Industrial Shed (Big, Ruin)</Original>
+        <Chinese>工業鐵皮屋(大，廢墟)</Chinese>
+        <Chinesesimp>工业铁皮屋(大，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_reservoirtower_ruins_f0">
+        <Original>Reservoir Tower (Ruin)</Original>
+        <Chinese>蓄水塔(廢墟)</Chinese>
+        <Chinesesimp>蓄水塔(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_reservoirtank_v1_ruins_f0">
+        <Original>Reservoir Tank (Ruin)</Original>
+        <Chinese>蓄水槽(廢墟)</Chinese>
+        <Chinesesimp>蓄水槽(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_reservoirtank_rust_ruins_f0">
+        <Original>Reservoir Tank (Rust, Ruin)</Original>
+        <Chinese>蓄水槽(生鏽，廢墟)</Chinese>
+        <Chinesesimp>蓄水槽(生锈，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_reservoirtank_airport_ruins_f0">
+        <Original>Reservoir Tank (Airport, Ruin)</Original>
+        <Chinese>蓄水槽(機場，廢墟)</Chinese>
+        <Chinesesimp>蓄水槽(机场，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_research_hq_ruins_f0">
+        <Original>Research HQ (Ruin)</Original>
+        <Chinese>研究總部(廢墟)</Chinese>
+        <Chinesesimp>研究总部(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_research_house_v1_ruins_f0">
+        <Original>Research House (Ruin)</Original>
+        <Chinese>研究大廈(廢墟)</Chinese>
+        <Chinesesimp>研究大厦(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_radar_small_ruins_f0">
+        <Original>Radar (Small, Ruin)</Original>
+        <Chinese>雷達(小，廢墟)</Chinese>
+        <Chinesesimp>雷达(小，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_radar_ruins_f0">
+        <Original>Radar (Ruin)</Original>
+        <Chinese>雷達(廢墟)</Chinese>
+        <Chinesesimp>雷达(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_metal_shed_ruins_f0">
+        <Original>Metal Shed (Ruin)</Original>
+        <Chinese>鐵皮屋(廢墟)</Chinese>
+        <Chinesesimp>铁皮屋(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_medevac_hq_v1_ruins_f0">
+        <Original>Military Cargo HQ (Medical, Ruin)</Original>
+        <Chinese>軍用貨櫃總部(醫療，廢墟)</Chinese>
+        <Chinesesimp>军用货柜总部(医疗，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_medevac_house_v1_ruins_f0">
+        <Original>Military Cargo House (Medical, Ruin)</Original>
+        <Chinese>軍用貨櫃屋(醫療，廢墟)</Chinese>
+        <Chinesesimp>军用货柜屋(医疗，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_lighthouse_small_ruins_f0">
+        <Original>Lighthouse (Small, Ruin)</Original>
+        <Chinese>燈塔(小型，廢墟)</Chinese>
+        <Chinesesimp>灯塔(小型，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_lighthouse_ruins_f0">
+        <Original>Lighthouse (Ruin)</Original>
+        <Chinese>燈塔(廢墟)</Chinese>
+        <Chinesesimp>灯塔(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_kiosk_blueking_ruins_f0">
+        <Original>Kiosk (Ruin)</Original>
+        <Chinese>售貨亭(廢墟)</Chinese>
+        <Chinesesimp>售货亭(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_house_small_03_v1_ruins_f0">
+        <Original>Bungalow (Ruin)</Original>
+        <Chinese>平房(廢墟)</Chinese>
+        <Chinesesimp>平房(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_house_small_02_v1_ruins_f0">
+        <Original>House (Small, Ruin)</Original>
+        <Chinese>屋子(小，廢墟)</Chinese>
+        <Chinesesimp>屋子(小，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_house_small_01_v1_ruins_f0">
+        <Original>House (Ruin)</Original>
+        <Chinese>屋子(廢墟)</Chinese>
+        <Chinesesimp>屋子(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_house_big_02_v1_ruins_f0">
+        <Original>House (Big, Ruin)</Original>
+        <Chinese>屋子(大，廢墟)</Chinese>
+        <Chinesesimp>屋子(大，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_house_big_01_v1_ruins_f0">
+        <Original>House (Large, Ruin)</Original>
+        <Chinese>屋子(特大型，廢墟)</Chinese>
+        <Chinesesimp>屋子(特大型，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_gh_house_ruins_f0">
+        <Original>Ghost Hotel (House, Ruin)</Original>
+        <Chinese>幽靈飯店(大廈，廢墟)</Chinese>
+        <Chinesesimp>幽灵饭店(大厦，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_gh_gazebo_ruins_f0">
+        <Original>Ghost Hotel (Gazebo, Ruin)</Original>
+        <Chinese>幽靈飯店(涼亭，廢墟)</Chinese>
+        <Chinesesimp>幽灵饭店(凉亭，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_garage_v1_ruins_f0">
+        <Original>Garage (Ruin)</Original>
+        <Chinese>車庫(廢墟)</Chinese>
+        <Chinesesimp>车库(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_fuelstation_shed_ruins_f0">
+        <Original>Fuel Station (Shed, Ruin)</Original>
+        <Chinese>加油站(鐵皮屋，廢墟)</Chinese>
+        <Chinesesimp>加油站(铁皮屋，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_fuelstation_build_ruins_f0">
+        <Original>Fuel Station (Building, Ruin)</Original>
+        <Chinese>加油站(建築，廢墟)</Chinese>
+        <Chinesesimp>加油站(建筑，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_factory_main_ruins_f0">
+        <Original>Factory (Ruin)</Original>
+        <Chinese>工廠(廢墟)</Chinese>
+        <Chinesesimp>工厂(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_factory_hopper_ruins_f0">
+        <Original>Factory Hopper (Ruin)</Original>
+        <Chinese>工廠漏斗(廢墟)</Chinese>
+        <Chinesesimp>工厂漏斗(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_factory_conv2_ruins_f0">
+        <Original>Factory Conveyor Belt (Slope, Ruin)</Original>
+        <Chinese>工廠輸送帶(斜坡，廢墟)</Chinese>
+        <Chinesesimp>工厂输送带(斜坡，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_factory_conv1_main_ruins_f0">
+        <Original>Factory Conveyor Belt (Main, Ruin)</Original>
+        <Chinese>工廠輸送帶(主幹，廢墟)</Chinese>
+        <Chinesesimp>工厂输送带(主干，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_factory_conv1_10_ruins_f0">
+        <Original>Factory Conveyor Belt (Ground, Ruin)</Original>
+        <Chinese>工廠輸送帶(地面，廢墟)</Chinese>
+        <Chinesesimp>工厂输送带(地面，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_dp_smalltank_ruins_f0">
+        <Original>Diesel Storage Tank (Small, Ruin)</Original>
+        <Chinese>柴油儲存槽(小，廢墟)</Chinese>
+        <Chinesesimp>柴油储存槽(小，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_dp_bigtank_ruins_f0">
+        <Original>Diesel Storage Tank (Big, Ruin)</Original>
+        <Chinese>柴油儲存槽(大，廢墟)</Chinese>
+        <Chinesesimp>柴油储存槽(大，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cmp_tower_ruins_f0">
+        <Original>Concrete Mixing Tower (Ruin)</Original>
+        <Chinese>混凝土攪拌塔(廢墟)</Chinese>
+        <Chinesesimp>混凝土搅拌塔(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cmp_shed_ruins_f0">
+        <Original>Concrete Mixing Shed (Ruin)</Original>
+        <Chinese>混凝土攪拌機鐵皮屋(廢墟)</Chinese>
+        <Chinesesimp>混凝土搅拌机铁皮屋(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cmp_hopper_ruins_f0">
+        <Original>Concrete Mixing Hopper (Ruin)</Original>
+        <Chinese>混凝土攪拌漏斗(廢墟)</Chinese>
+        <Chinesesimp>混凝土搅拌漏斗(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_chapel_v2_ruins_f0">
+        <Original>Chapel (Big, Old, Ruin)</Original>
+        <Chinese>禮拜堂(大，破舊，廢墟)</Chinese>
+        <Chinesesimp>礼拜堂(大，破旧，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_chapel_v1_ruins_f0">
+        <Original>Chapel (Big, New, Ruin)</Original>
+        <Chinese>禮拜堂(大，新，廢墟)</Chinese>
+        <Chinesesimp>礼拜堂(大，新，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_chapel_small_v2_ruins_f0">
+        <Original>Chapel (Small, Old, Ruin)</Original>
+        <Chinese>禮拜堂(小，破舊，廢墟)</Chinese>
+        <Chinesesimp>礼拜堂(小，破旧，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_chapel_small_v1_ruins_f0">
+        <Original>Chapel (Small, New, Ruin)</Original>
+        <Chinese>禮拜堂(小，新，廢墟)</Chinese>
+        <Chinesesimp>礼拜堂(小，新，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_castle_01_tower_ruins_f0">
+        <Original>Castle Tower (Ruin)</Original>
+        <Chinese>城堡塔樓(廢墟)</Chinese>
+        <Chinesesimp>城堡塔楼(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo_tower_v3_ruins_f0">
+        <Original>Military Cargo Tower (Brown, Ruin)</Original>
+        <Chinese>軍用貨櫃哨塔(棕色，廢墟)</Chinese>
+        <Chinesesimp>军用货柜哨塔(棕色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo_tower_v2_ruins_f0">
+        <Original>Military Cargo Tower (Rusty, Ruin)</Original>
+        <Chinese>軍用貨櫃哨塔(生鏽，廢墟)</Chinese>
+        <Chinesesimp>军用货柜哨塔(生锈，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo_tower_v1_ruins_f0">
+        <Original>Military Cargo Tower (Green, Ruin)</Original>
+        <Chinese>軍用貨櫃哨塔(綠色，廢墟)</Chinese>
+        <Chinesesimp>军用货柜哨塔(绿色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo_patrol_v3_ruins_f0">
+        <Original>Military Cargo Post (Brown, Ruin)</Original>
+        <Chinese>軍用貨櫃警戒哨(棕色，廢墟)</Chinese>
+        <Chinesesimp>军用货柜警戒哨(棕色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo_patrol_v2_ruins_f0">
+        <Original>Military Cargo Post (Rusty, Ruin)</Original>
+        <Chinese>軍用貨櫃警戒哨(生鏽，廢墟)</Chinese>
+        <Chinesesimp>军用货柜警戒哨(生锈，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo_patrol_v1_ruins_f0">
+        <Original>Military Cargo Post (Green, Ruin)</Original>
+        <Chinese>軍用貨櫃警戒哨(綠色，廢墟)</Chinese>
+        <Chinesesimp>军用货柜警戒哨(绿色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo_hq_v3_ruins_f0">
+        <Original>Military Cargo HQ (Brown, Ruin)</Original>
+        <Chinese>軍用貨櫃總部(棕色，廢墟)</Chinese>
+        <Chinesesimp>军用货柜总部(棕色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo_hq_v2_ruins_f0">
+        <Original>Military Cargo HQ (Rusty, Ruin)</Original>
+        <Chinese>軍用貨櫃總部(生鏽，廢墟)</Chinese>
+        <Chinesesimp>军用货柜总部(生锈，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo_hq_v1_ruins_f0">
+        <Original>Military Cargo HQ (Green, Ruin)</Original>
+        <Chinese>軍用貨櫃總部(綠色，廢墟)</Chinese>
+        <Chinesesimp>军用货柜总部(绿色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo_house_v3_ruins_f0">
+        <Original>Military Cargo House (Brown, Ruin)</Original>
+        <Chinese>軍用貨櫃屋(棕色，廢墟)</Chinese>
+        <Chinesesimp>军用货柜屋(棕色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo_house_v2_ruins_f0">
+        <Original>Military Cargo House (Rusty, Ruin)</Original>
+        <Chinese>軍用貨櫃屋(生鏽，廢墟)</Chinese>
+        <Chinesesimp>军用货柜屋(生锈，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo_house_v1_ruins_f0">
+        <Original>Military Cargo House (Green, Ruin)</Original>
+        <Chinese>軍用貨櫃屋(綠色，廢墟)</Chinese>
+        <Chinesesimp>军用货柜屋(绿色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo_house_slum_ruins_f0">
+        <Original>Slum House Container (Ruin)</Original>
+        <Chinese>貧民窟的容器(廢墟)</Chinese>
+        <Chinesesimp>贫民窟的容器(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo40_military_ruins_f0">
+        <Original>Cargo Container (Long, Military Green, Ruin)</Original>
+        <Chinese>貨櫃(長，軍綠色，廢墟)</Chinese>
+        <Chinesesimp>货柜(长，军绿色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo40_color_v3_ruins_f0">
+        <Original>Cargo Container (Long, Blue, Ruin)</Original>
+        <Chinese>貨櫃(長，藍色，廢墟)</Chinese>
+        <Chinesesimp>货柜(长，蓝色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo40_color_v2_ruins_f0">
+        <Original>Cargo Container (Long, Light Blue, Ruin)</Original>
+        <Chinese>貨櫃(長，淺藍色，廢墟)</Chinese>
+        <Chinesesimp>货柜(长，浅蓝色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo40_color_v1_ruins_f0">
+        <Original>Cargo Container (Long, Brick Red, Ruin)</Original>
+        <Chinese>貨櫃(長，磚紅色，廢墟)</Chinese>
+        <Chinesesimp>货柜(长，砖红色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo40_china_color_v2_ruins_f0">
+        <Original>Cargo Container (Long, White, Ruin)</Original>
+        <Chinese>貨櫃(長，白色，廢墟)</Chinese>
+        <Chinesesimp>货柜(长，白色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo40_china_color_v1_ruins_f0">
+        <Original>Cargo Container (Long, Grey, Ruin)</Original>
+        <Chinese>貨櫃(長，灰色，廢墟)</Chinese>
+        <Chinesesimp>货柜(长，灰色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo20_military_ruins_f0">
+        <Original>Cargo Container (Medium, Military Green, Ruin)</Original>
+        <Chinese>貨櫃(中，軍綠色，廢墟)</Chinese>
+        <Chinesesimp>货柜(中，军绿色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo20_color_v3_ruins_f0">
+        <Original>Cargo Container (Medium, Blue, Ruin)</Original>
+        <Chinese>貨櫃(中，藍色，廢墟)</Chinese>
+        <Chinesesimp>货柜(中，蓝色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo20_color_v2_ruins_f0">
+        <Original>Cargo Container (Medium, Light Blue, Ruin)</Original>
+        <Chinese>貨櫃(中，淺藍色，廢墟)</Chinese>
+        <Chinesesimp>货柜(中，浅蓝色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo20_color_v1_ruins_f0">
+        <Original>Cargo Container (Medium, Brick Red, Ruin)</Original>
+        <Chinese>貨櫃(中，磚紅色，廢墟)</Chinese>
+        <Chinesesimp>货柜(中，砖红色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo20_china_color_v2_ruins_f0">
+        <Original>Cargo Container (Medium, White, Ruin)</Original>
+        <Chinese>貨櫃(中，白色，廢墟)</Chinese>
+        <Chinesesimp>货柜(中，白色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_cargo20_china_color_v1_ruins_f0">
+        <Original>Cargo Container (Medium, Grey, Ruin)</Original>
+        <Chinese>貨櫃(中，灰色，廢墟)</Chinese>
+        <Chinesesimp>货柜(中，灰色，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_belltower_02_v2_ruins_f0">
+        <Original>Bell Tower (Big, Old, Ruin)</Original>
+        <Chinese>鐘塔(大，破舊，廢墟)</Chinese>
+        <Chinesesimp>钟塔(大，破旧，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_belltower_02_v1_ruins_f0">
+        <Original>Bell Tower (Big, New, Ruin)</Original>
+        <Chinese>鐘塔(大，新，廢墟)</Chinese>
+        <Chinesesimp>钟塔(大，新，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_barracks_ruins_f0">
+        <Original>Barracks (Ruin)</Original>
+        <Chinese>軍營(廢墟)</Chinese>
+        <Chinesesimp>军营(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_airport_tower_ruins_f0">
+        <Original>Airport Control Tower (Ruin)</Original>
+        <Chinese>機場塔臺(廢墟)</Chinese>
+        <Chinesesimp>机场塔台(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_addon_04_v1_ruins_f0">
+        <Original>Inn Garden (No Roof, Ruin)</Original>
+        <Chinese>花園(無屋頂，廢墟)</Chinese>
+        <Chinesesimp>花园(无屋顶，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_addon_03_v1_ruins_f0">
+        <Original>Inn Garden (Ruin)</Original>
+        <Chinese>花園(廢墟)</Chinese>
+        <Chinesesimp>花园(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_addon_03mid_v1_ruins_f0">
+        <Original>Inn Garden (Middle, Ruin)</Original>
+        <Chinese>花園(中央，廢墟)</Chinese>
+        <Chinesesimp>花园(中央，废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_addon_02_v1_ruins_f0">
+        <Original>House Addon (Ruin)</Original>
+        <Chinese>房屋組件(廢墟)</Chinese>
+        <Chinesesimp>房屋组件(废墟)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_land_addon_01_v1_ruins_f0">
+        <Original>Pergola (Ruin)</Original>
+        <Chinese>涼亭(廢墟)</Chinese>
+        <Chinesesimp>凉亭(废墟)</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="FieldManual">
+      <Key ID="str_a3_cfghints_edenupdate_analytics_description">
+        <Original>We're very interested in finding out %3how Arma 3 is played%4, so that we can learn from it and improve the game further. Analytics integration provides us with %3anonymous data%4 about the modes being played, the most popular mods, applied difficulty options, configured video settings, and more. We intend to use such data in addition to our valuable existing methods for gathering feedback. All you need to do is %3play the game%4.%1%1&lt;a href='https://community.bistudio.com/wiki/Arma_3_Analytics'&gt;More about analytics&lt;/a&gt;</Original>
+        <Chinese>我們對於玩家%3怎樣遊玩武裝突襲3%4非常有興趣，因為這能讓我們知道該如何使遊戲更加完整。分析工具將會將玩家的資訊包裝成%3匿名資料%4，告訴我們玩家掛載什麼模組，那些模組最受歡迎，難度選項設定，畫面設定等等資料。有了這些回饋資料，我們就能更快更好的改善遊戲。而你要做的事就只有%3玩遊戲%4而已。%1%1&lt;ahref='https://community.bistudio.com/wiki/Arma_3_Analytics'&gt;欲知道更多分析的事，請上我們官方維基查詢&lt;/a&gt;</Chinese>
+        <Chinesesimp>我们对于玩家%3怎样游玩武装突袭3%4非常有兴趣，因为这能让我们知道该如何使游戏更加完整。分析工具将会将玩家的信息打包成%3匿名资料%4，告诉我们玩家挂载什么模组，哪些模组最受欢迎，难度选项设定，画面设定等等资料。有了这些回馈资料，我们就能更快更好的改善游戏。而你要做的事就只有%3玩游戏%4而已。%1%1&lt;ahref='https://community.bistudio.com/wiki/Arma_3_Analytics'&gt;欲知道更多分析的事，请上我们官方维基查询&lt;/a&gt;</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfghints_edenupdate_steamleaderboards_displayName">
+        <Original>Steam Leaderboards</Original>
+        <Chinese>Steam排行榜</Chinese>
+        <Chinesesimp>Steam排行榜</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfghints_edenupdate_analytics_displayName">
+        <Original>Analytics</Original>
+        <Chinese>分析</Chinese>
+        <Chinesesimp>分析</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfghints_edenupdate_launcherserverbrowser_displayName">
+        <Original>Launcher Server Browser</Original>
+        <Chinese>遊戲啟動器-伺服器瀏覽器</Chinese>
+        <Chinesesimp>游戏启动器-服务器浏览器</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfghints_edenupdate_combataudio_description">
+        <Original>&lt;img size='9' shadow='0' image='\a3\Data_F_Exp_B\Data\FM_LEARN_CombatAudio_ca.paa' /&gt;%1By utilizing a new %3mutli-channel amplitude panner%4 and %3distance-based samples%4 for weapons and explosives, the combat soundscape reaches a much higher level of fidelity. Players will find themselves more deeply immersed and they will be able to achieve greater situational awareness under fire. Modders will have the opportunity to achieve amazing sound effects by using the new configuration.</Original>
+        <Chinese>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_CombatAudio_ca.paa'/&gt;%1藉由使用嶄新的%3多聲道技術%4與%3距離音效效果%4，使武器，炸藥與交戰的音效更加真實。玩家將會不由自主的陶醉在此環境下，並更能在激烈交火中辨別槍聲來源，幫助了解戰場局勢。模組作者也可藉此機會，使用新的定義檔來讓模組提升到一個新的境界。</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_CombatAudio_ca.paa'/&gt;%1藉由使用崭新的%3多声道技术%4与%3距离音效效果%4，使枪声，爆炸与交战的音效更加真实。玩家将会不由自主的陶醉在此环境下，并更能在激烈交火中辨别枪声来源，帮助了解战场局势。模组作者也可藉此机会，使用新的定义档来让模组提升到一个新的境界。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfghints_edenupdate_font_displayName">
+        <Original>Font</Original>
+        <Chinese>字型</Chinese>
+        <Chinesesimp>字体</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfghints_edenupdate_combataudio_displayName">
+        <Original>Combat Audio</Original>
+        <Chinese>交戰音效</Chinese>
+        <Chinesesimp>交战音效</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfghints_edenupdate_edenupdate_displayName">
+        <Original>Eden Update</Original>
+        <Chinese>伊甸更新</Chinese>
+        <Chinesesimp>伊甸更新</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfghints_edenupdate_edeneditor_description">
+        <Original>&lt;img size='9' shadow='0' image='\a3\Data_F_Exp_B\Data\FM_LEARN_EdenEditor_ca.paa' /&gt;%1The new Eden Editor for%3 3D scenario%4 design retains the %3ease-of-use%4 of its predecessor while %3enhancing%4 the editing experience many-fold. Please refer to the %3in-editor tutorials%4 for detailed user guides.%1%1Highlighted features include:%1%2 3D Interaction%1%2 Undo / Redo%1%2 Layers%1%2 Asset Filtering / Searching%1%2 Character Load-Outs%1%2 Custom Compositions%1%2 Scenario Configuration%1%2 Vehicle Crews%1%2 Modding%1%1&lt;a href='https://community.bistudio.com/wiki/Eden_Editor'&gt;More about Eden Editor&lt;/a&gt;</Original>
+        <Chinese>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_EdenEditor_ca.paa'/&gt;%1新的伊甸編輯器被設計用來進行%33D任務編輯%4，其保留著老編輯器%3易用%4的特色，並%3加強%4了許多功能，使編輯任務更加容易有趣。欲更了解編輯器的使用方法，請參閱%3編輯器內建教學%4。%1%1主要的特色:%1%23D編輯%1%2復原/重作%1%2圖層%1%2素材篩選/搜尋%1%2角色裝備%1%2自訂組件%1%2任務屬性%1%2載具組員%1%2改裝%1%1&lt;ahref='https://community.bistudio.com/wiki/Eden_Editor'&gt;更多資訊請見官方維基&lt;/a&gt;</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_EdenEditor_ca.paa'/&gt;%1新的伊甸编辑器被设计用来进行%33D任务编辑%4，其保留着老编辑器%3易用%4的特色，并%3加强%4了许多功能，使编辑任务更加容易有趣。欲更了解编辑器的使用方法，请参阅%3编辑器内置教学%4。%1%1主要的特色:%1%23D编辑%1%2复原/重作%1%2图层%1%2素材筛选/搜寻%1%2角色装备%1%2自定义组件%1%2任务属性%1%2载具组员%1%2改装%1%1&lt;ahref='https://community.bistudio.com/wiki/Eden_Editor'&gt;更多资信请见官方维基&lt;/a&gt;</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfghints_edenupdate_edeneditor_displayName">
+        <Original>Eden Editor</Original>
+        <Chinese>伊甸編輯器</Chinese>
+        <Chinesesimp>伊甸编辑器</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfghints_edenupdate_edenupdate_description">
+        <Original>Our focus for Eden Update was on bringing %3scenario editing%4 forward in a big way. Many other exciting improvements to the core user experience were included as well:%1%2Combat Audio%1%2Launcher-Based Server Browser%1%2Font%1%2Analytics%1%2Steam Leaderboards%1%2Scripted System Optimizations%1%2Parallax Ground Surfaces%1%1&lt;a href='http://www.arma3.com/eden'&gt;More about Eden Update&lt;/a&gt;</Original>
+        <Chinese>在此次伊甸更新中，我們為%3任務編輯%4帶來了重大改變。也包括許多令人興奮的特色:%1%2交戰音效%1%2遊戲啟動器上的伺服器瀏覽器%1%2字型%1%2分析%1%2Steam排行榜%1%2腳本系統優化%1%2表面凹凸優化%1%1&lt;ahref='https://www.arma3.com/eden'&gt;更多資訊請見官方網站&lt;/a&gt;</Chinese>
+        <Chinesesimp>在此次伊甸更新中，我们为%3任务编辑%4带来了重大改变。也包括许多令人兴奋的特色:%1%2交战音效%1%2游戏启动器上的服务器浏览器%1%2字体%1%2分析%1%2Steam排行榜%1%2脚本系统优化%1%2表面凹凸优化%1%1&lt;ahref='https://www.arma3.com/eden'&gt;更多信息请见官方网站&lt;/a&gt;</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfghints_edenupdate_font_description">
+        <Original>We've changed Arma 3's font for a more %3legible one%4 - in-game, in our Launcher and on our &lt;a href='https://arma3.com/'&gt;website&lt;/a&gt;. In addition, we've improved our font rendering technology for better %3kerning%4 of characters.</Original>
+        <Chinese>我們改變了武裝突襲3的字型，使其更加%3清晰%4，而遊戲啟動器與&lt;ahref='https://arma3.com/'&gt;官方網站&lt;/a&gt;也同步更改為相同字體。此外，我們也改進了字型的渲染技術，使%3字距%4更加舒適。</Chinese>
+        <Chinesesimp>我们改变了武装突袭3的字体，使其更加%3清晰%4，而游戏启动器与&lt;ahref='https://arma3.com/'&gt;官方网站&lt;/a&gt;也同步更改为相同字体。此外，我们也改进了字体的渲染技术，使%3字距%4更加舒适。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfghints_edenupdate_launcherserverbrowser_description">
+        <Original>&lt;img size='9' shadow='0' image='\a3\Data_F_Exp_B\Data\FM_LEARN_LauncherServerBrowser_ca.paa' /&gt;%1The game's official Launcher now contains a server browser that offers greater functionality and usability as compared to its in-game counterpart. Players can skip the main menu and jump straight into a session.%1%2%3Filtering%4 - effectively find a server matching your preferences.%1%2%3&lt;a href='http://steamcommunity.com/workshop/browse/?appid=107410'&gt;Workshop Mod Support%4&lt;/a&gt; - let the Launcher automatically resolve dependencies required by properly configured servers.%1%1&lt;a href='https://dev.arma3.com/post/oprep-the-future-of-server-browsing'&gt;More about the Launcher Server Browser&lt;/a&gt;</Original>
+        <Chinese>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_LauncherServerBrowser_ca.paa'/&gt;%1官方遊戲啟動器現在包含了內建的伺服器瀏覽器，此瀏覽器的功能與遊戲裡的一模一樣。玩家可藉由這個瀏覽器來選擇欲加入的伺服器，使遊戲開啟後直接跳過主選單並直接進入該伺服器。%1%2%3篩選器%4-讓你更快找到符合你期望的伺服器。%1%2%3&lt;ahref='http://steamcommunity.com/workshop/browse/?appid=107410'&gt;支援工作坊模組%4&lt;/a&gt;-啟動器將會自動幫你比對伺服器與你的模組掛載狀況，使您加入伺服器無負擔。%1%1&lt;ahref='https://dev.arma3.com/post/oprep-the-future-of-server-browsing'&gt;更多資訊請見官方網站&lt;/a&gt;</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_LauncherServerBrowser_ca.paa'/&gt;%1官方游戏启动器现在包含了内置的服务器浏览器，此浏览器的功能与游戏里的一模一样。玩家可藉由这个浏览器来选择欲加入的服务器，使游戏开启后直接跳过主菜单并直接进入该服务器。%1%2%3筛选器%4-让你更快找到符合你期望的服务器。%1%2%3&lt;ahref='http://steamcommunity.com/workshop/browse/?appid=107410'&gt;支援创意工坊模组%4&lt;/a&gt;-启动器将会自动帮你比对服务器与你的模组挂载状况，使您加入服务器无担忧。%1%1&lt;ahref='https://dev.arma3.com/post/oprep-the-future-of-server-browsing'&gt;更多资信请见官方网站&lt;/a&gt;</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfghints_edenupdate_steamleaderboards_description">
+        <Original>You can now %3compete%4 with your friends in the game's %3Firing Drill%4 and %3Time Trial Challenges%4. These modes will log your best competitive times onto &lt;a href='http://steamcommunity.com/stats/107410/leaderboards/'&gt;Steam Leaderboards&lt;/a&gt;. Compare your performance to your own friends or the best competitors in the world!</Original>
+        <Chinese>現在開始你可以在遊戲的%3射擊訓練%4與%3計時賽%4中與好友一較高下。這些模式將會上傳你的最佳成績至&lt;ahref='https://steamcommunity.com/stats/107410/leaderboards/'&gt;Steam排行榜&lt;/a&gt;上。你可以與朋友或是世界頂尖的玩家一同競爭!</Chinese>
+        <Chinesesimp>现在开始你可以在游戏的%3射击训练%4与%3计时赛%4中与好友一较高下。这些模式将会上传你的最佳成绩至&lt;ahref='https://steamcommunity.com/stats/107410/leaderboards/'&gt;Steam排行榜&lt;/a&gt;上。你可以与朋友或是世界顶尖的玩家一同竞争!</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Characters">
+      <Key ID="str_a3_cfgroles_unarmed0">
+        <Original>Unarmed</Original>
+        <Chinese>無武裝</Chinese>
+        <Chinesesimp>无武装</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfgroles_specialoperative0">
+        <Original>Special Operative</Original>
+        <Chinese>特種部隊</Chinese>
+        <Chinesesimp>特种部队</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfgroles_sapper0">
+        <Original>Sapper</Original>
+        <Chinese>戰鬥工兵</Chinese>
+        <Chinesesimp>战斗工兵</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfgroles_default0">
+        <Original>Default</Original>
+        <Chinese>預設</Chinese>
+        <Chinesesimp>预设</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfgroles_assistant0">
+        <Original>Assistant</Original>
+        <Chinese>助手</Chinese>
+        <Chinesesimp>助手</Chinesesimp>
+      </Key>
+    </Container>
+  </Package>
+</Project>

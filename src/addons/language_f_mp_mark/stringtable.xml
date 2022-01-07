@@ -1,0 +1,1161 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3">
+  <Package name="Language_MP_Mark">
+    <Container name="RscHvtPhase">
+      <Key ID="str_a3_rschvtphase_uploading">
+        <Original>Uploading</Original>
+        <Chinese>上傳中</Chinese>
+        <Chinesesimp>上传中</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rschvtphase_terabytes">
+        <Original>TB</Original>
+        <Chinese>TB</Chinese>
+        <Chinesesimp>TB</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rschvtphase_reestablishingconnection">
+        <Original>Re-establishing Connection</Original>
+        <Chinese>重新建立連線中</Chinese>
+        <Chinesesimp>重新建立连线中</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rschvtphase_phasetwo">
+        <Original>DOWNLOAD INTEL</Original>
+        <Chinese>下載情報</Chinese>
+        <Chinesesimp>下载情报</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rschvtphase_phasethree">
+        <Original>SECURE SCHEMATICS</Original>
+        <Chinese>取得武器藍圖</Chinese>
+        <Chinesesimp>取得武器蓝图</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rschvtphase_phaseone">
+        <Original>ESTABLISH FOB</Original>
+        <Chinese>建立前線作戰基地</Chinese>
+        <Chinesesimp>建立前进作战基地</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rschvtphase_loosingconnection">
+        <Original>Losing Connection</Original>
+        <Chinese>失去連線中</Chinese>
+        <Chinesesimp>失去连线中</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rschvtphase_downloading">
+        <Original>Downloading</Original>
+        <Chinese>下載中</Chinese>
+        <Chinesesimp>下载中</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rschvtphase_connectionlost">
+        <Original>Connection Lost</Original>
+        <Chinese>失去連線</Chinese>
+        <Chinesesimp>失去连线</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="FieldManual">
+      <Key ID="STR_A3_DynamicGroups1">
+        <Original>Dynamic Groups</Original>
+        <Chinese>動態小隊</Chinese>
+        <Chinesesimp>动态小队</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_DynamicGroups2">
+        <Original>Join or create your own group, invite other players and form your own squad.%1%2Press %11 to open/close the Dynamic Groups interface%1%1Note that this feature is only available in scenarios that support it.</Original>
+        <Chinese>加入或創建一個小隊，你可以邀請任何一名玩家進入你的小隊。%1%2按下%11來開啟/關閉動態小隊介面%1%1請注意，該功能只能在支持的任務中使用。</Chinese>
+        <Chinesesimp>加入或创建一个小队，你可以邀请任何一名玩家进入你的小队。%1%2按下%11来开启/关闭动态小队界面%1%1请注意，该功能只能在支持的任务中使用。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_DynamicGroups3">
+        <Original>****TO TRANSLATE****</Original>
+        <Chinese>****待翻譯****</Chinese>
+        <Chinesesimp>****待翻译****</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_MP_GroupMarkers1">
+        <Original>Group Markers</Original>
+        <Chinese>小隊標幟</Chinese>
+        <Chinesesimp>小队标帜</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_MP_GroupMarkers2">
+        <Original>Group Markers allow you to visualize friendly groups near your location.%1%2Press %3[L CTRL]%4 + %11 to toggle group markers on and off</Original>
+        <Chinese>小隊標幟功能可以讓你簡單的檢視附近友軍小隊的位置。%1%2按下%3[左CTRL]%4+%11來開啟或關閉小隊標幟</Chinese>
+        <Chinesesimp>小队标帜功能可以让你简单的检视附近友军小队的位置。%1%2按下%3[左CTRL]%4+%11来开启或关闭小队标帜</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_MP_GroupMarkers3">
+        <Original>****TO TRANSLATE****</Original>
+        <Chinese>****待翻譯****</Chinese>
+        <Chinesesimp>****待翻译****</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGameVA2">
+        <Original>You can access the Arsenal from the supply crates at the FOB, allowing you to change your loadout as you wish. Your chosen loadout will be saved, and will be restored upon your respawn.</Original>
+        <Chinese>你可以在前線作戰基地中的支援箱來開啟軍火庫，透過本功能來自定你的裝備。你選定的裝備將被保存，在下次重生時將會自動讀取該配置。</Chinese>
+        <Chinesesimp>你可以在前进作战基地中的支援箱来开启军火库，通过本功能来自定义你的装备。你选定的装备将被保存，在下次重生时将会自动读取该配置。</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="SharedObjectives">
+      <Key ID="STR_A3_Subtitle_Assign">
+        <Original>Assign</Original>
+        <Chinese>分配</Chinese>
+        <Chinesesimp>分配</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Subtitle_Unassign">
+        <Original>Unassign</Original>
+        <Chinese>未分配</Chinese>
+        <Chinesesimp>未分配</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_AssignedPlayers1">
+        <Original>Assigned players:</Original>
+        <Chinese>已分配的玩家:</Chinese>
+        <Chinesesimp>已分配的玩家:</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Subtitle_Unassigned">
+        <Original>Unassigned</Original>
+        <Chinese>未分配</Chinese>
+        <Chinesesimp>未分配</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Subtitle_Assigned">
+        <Original>Assigned</Original>
+        <Chinese>已分配</Chinese>
+        <Chinesesimp>已分配</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_AssignedPlayers2">
+        <Original>%1 ... and %2 more</Original>
+        <Chinese>%1...還有%2個</Chinese>
+        <Chinesesimp>%1...还有%2个</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Revive">
+      <Key ID="STR_A3_Revive_Icon_text">
+        <Original>REVIVE</Original>
+        <Chinese>復甦</Chinese>
+        <Chinesesimp>复苏</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_Status_Incapacitated">
+        <Original>INCAPACITATED</Original>
+        <Chinese>喪失行動能力</Chinese>
+        <Chinesesimp>丧失行动能力</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_Status_Respawning">
+        <Original>RESPAWNING IN...</Original>
+        <Chinese>重生於...</Chinese>
+        <Chinesesimp>重生于...</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_Status_Reviving">
+        <Original>BEING REVIVED</Original>
+        <Chinese>已被復甦</Chinese>
+        <Chinesesimp>已被复苏</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_Info_Helper">
+        <Original>%1%2%3 IS REVIVING YOU%4</Original>
+        <Chinese>%1%2%3正在復甦你%4</Chinese>
+        <Chinesesimp>%1%2%3正在复苏你%4</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_Info_Respawn">
+        <Original>%1HOLD %2%3%4 TO RESPAWN%5</Original>
+        <Chinese>%1按住%2%3%4來重生%5</Chinese>
+        <Chinesesimp>%1按住%2%3%4来重生%5</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_Info_Target">
+        <Original>%1REVIVING %2%3%4</Original>
+        <Chinese>%1%2%3%4復甦中</Chinese>
+        <Chinesesimp>%1%2%3%4复苏中</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_Status_Wait">
+        <Original>WAITING FOR REVIVE</Original>
+        <Chinese>等待復甦中</Chinese>
+        <Chinesesimp>等待复苏中</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_BLEDOUT">
+        <Original>%1 bled out</Original>
+        <Chinese>%1已出血過多死亡</Chinese>
+        <Chinesesimp>%1已出血过多死亡</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_DIED">
+        <Original>%1 died</Original>
+        <Chinese>%1已死亡</Chinese>
+        <Chinesesimp>%1已死亡</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_DROWNED">
+        <Original>%1 drowned</Original>
+        <Chinese>%1已溺斃</Chinese>
+        <Chinesesimp>%1已溺毙</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_EXECUTED">
+        <Original>%1 was executed</Original>
+        <Chinese>%1已被處決</Chinese>
+        <Chinesesimp>%1已被处决</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_INCAPACITATED">
+        <Original>%1 was incapacitated</Original>
+        <Chinese>%1已無行動能力</Chinese>
+        <Chinesesimp>%1已无行动能力</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_INCAPACITATED_BY">
+        <Original>%1 was incapacitated by %2</Original>
+        <Chinese>%2讓%1無行動能力</Chinese>
+        <Chinesesimp>%2让%1无行动能力</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_INCAPACITATED_BY_FF">
+        <Original>%1 was incapacitated by %2 (friendly fire)</Original>
+        <Chinese>%2讓%1無行動能力(友軍誤擊)</Chinese>
+        <Chinesesimp>%2让%1无行动能力(友军误击)</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_KILLED">
+        <Original>%1 was killed</Original>
+        <Chinese>%1已被擊殺</Chinese>
+        <Chinesesimp>%1已被击杀</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_KILLED_BY">
+        <Original>%1 was killed by %2</Original>
+        <Chinese>%1被%2擊殺</Chinese>
+        <Chinesesimp>%1被%2击杀</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_KILLED_BY_FF">
+        <Original>%1 was killed by %2 (friendly fire)</Original>
+        <Chinese>%1被%2擊殺(友軍誤擊)</Chinese>
+        <Chinesesimp>%1被%2击杀(友军误击)</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_EXECUTED_BY">
+        <Original>%1 was executed by %2</Original>
+        <Chinese>%1被%2處決</Chinese>
+        <Chinesesimp>%1被%2处决</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_EXECUTED_BY_FF">
+        <Original>%1 was executed by %2 (friendly fire)</Original>
+        <Chinese>%1被%2處決(友軍誤擊)</Chinese>
+        <Chinesesimp>%1被%2处决(友军误击)</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_FORCED_RESPAWN">
+        <Original>%1 forced respawn</Original>
+        <Chinese>%1已強制重生</Chinese>
+        <Chinesesimp>%1已强制重生</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_REVIVED">
+        <Original>%1 was revived</Original>
+        <Chinese>%1已被復甦</Chinese>
+        <Chinesesimp>%1已被复苏</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_REVIVED_BY">
+        <Original>%1 was revived by %2</Original>
+        <Chinese>%1已被%2復甦</Chinese>
+        <Chinesesimp>%1已被%2复苏</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_NAME_TEMPLATE_AI">
+        <Original>%1 (AI)</Original>
+        <Chinese>%1(AI)</Chinese>
+        <Chinesesimp>%1(AI)</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Revive_MSG_SUICIDED">
+        <Original>%1 suicided</Original>
+        <Chinese>%1已自殺</Chinese>
+        <Chinesesimp>%1已自杀</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="DynamicGroups">
+      <Key ID="str_a3_rscdisplaydynamicgroups_you">
+        <Original>You</Original>
+        <Chinese>你</Chinese>
+        <Chinesesimp>你</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_ungrouped">
+        <Original>Un-grouped</Original>
+        <Chinese>未分組</Chinese>
+        <Chinesesimp>未分组</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_tooltip_promoteplayer">
+        <Original>Promote the player to group leader</Original>
+        <Chinese>推薦該玩家成為小隊長</Chinese>
+        <Chinesesimp>推荐该玩家成为小队长</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_tooltip_privategroup">
+        <Original>If a group is private, only players with an invitation will be able to join it</Original>
+        <Chinese>假使小隊設為私人，只有受邀請的玩家才能加入該小隊</Chinese>
+        <Chinesesimp>假使小队设为私人，只有受邀请的玩家才能加入该小队</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_tooltip_playersingroup">
+        <Original>Numbers of players in the group</Original>
+        <Chinese>小隊玩家人數</Chinese>
+        <Chinesesimp>小队玩家人数</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_tooltip_leavegroup">
+        <Original>Leave your current group</Original>
+        <Chinese>離開當前小隊</Chinese>
+        <Chinesesimp>离开当前小队</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_tooltip_kickplayer">
+        <Original>Kick the player from your group</Original>
+        <Chinese>踢除該玩家離開小隊</Chinese>
+        <Chinesesimp>踢除该玩家离开小队</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_tooltip_kickall">
+        <Original>Kick all players and delete the group</Original>
+        <Chinese>踢除所有玩家並刪除該小隊</Chinese>
+        <Chinesesimp>踢除所有玩家并删除该小队</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_tooltip_faction">
+        <Original>Your faction</Original>
+        <Chinese>你的派別</Chinese>
+        <Chinesesimp>你的派别</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_tooltip_editgroupname">
+        <Original>Edit group name</Original>
+        <Chinese>編輯小隊名稱</Chinese>
+        <Chinesesimp>编辑小队名称</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_tooltip_customization">
+        <Original>Enter group customization menu</Original>
+        <Chinese>進入小隊自訂選單</Chinese>
+        <Chinesesimp>进入小队自定义选单</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_title">
+        <Original>GROUP MANAGEMENT</Original>
+        <Chinese>小隊管理系統</Chinese>
+        <Chinesesimp>小队管理系统</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_side">
+        <Original>Side</Original>
+        <Chinese>陣營</Chinese>
+        <Chinesesimp>阵营</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_score">
+        <Original>Score</Original>
+        <Chinese>分數</Chinese>
+        <Chinesesimp>分数</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_private">
+        <Original>Private</Original>
+        <Chinese>私人</Chinese>
+        <Chinesesimp>私人</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_players">
+        <Original>PLAYERS</Original>
+        <Chinese>玩家</Chinese>
+        <Chinesesimp>玩家</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_notifications_title_promoted">
+        <Original>Promoted</Original>
+        <Chinese>推薦</Chinese>
+        <Chinesesimp>推荐</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_notifications_title_newmember">
+        <Original>New Group Member</Original>
+        <Chinese>新小隊成員</Chinese>
+        <Chinesesimp>新小队成员</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_notifications_title_newinvite">
+        <Original>New Invite Received</Original>
+        <Chinese>已接收到新的邀請</Chinese>
+        <Chinesesimp>已接收到新的邀请</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_notifications_title_memberleft">
+        <Original>Group Member Left</Original>
+        <Chinese>小隊成員已離開</Chinese>
+        <Chinesesimp>小队成员已离开</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_notifications_title_kicked">
+        <Original>Kicked</Original>
+        <Chinese>踢除</Chinese>
+        <Chinesesimp>踢除</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_notifications_title_disbanded">
+        <Original>Group Disbanded</Original>
+        <Chinese>解散小隊</Chinese>
+        <Chinesesimp>解散小队</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_notifications_description_promoted">
+        <Original>%1 promoted you&lt;br/&gt;Press %2 for info</Original>
+        <Chinese>%1已推薦你&lt;br/&gt;按下%2來獲得更多訊息</Chinese>
+        <Chinesesimp>%1已推荐你&lt;br/&gt;按下%2来获得更多信息</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_notifications_description_newmember">
+        <Original>%1 joined your group - Press %2 for info</Original>
+        <Chinese>%1已加入你的小隊-按下%2來獲得更多訊息</Chinese>
+        <Chinesesimp>%1已加入你的小队-按下%2来获得更多信息</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_notifications_description_newinvite">
+        <Original>%1 invited you&lt;br/&gt;Press %2 for info</Original>
+        <Chinese>%1已邀請你&lt;br/&gt;按下%2來獲得更多訊息</Chinese>
+        <Chinesesimp>%1已邀请你&lt;br/&gt;按下%2来获得更多信息</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_notifications_description_memberleft">
+        <Original>%1 left your group&lt;br/&gt;Press %2 for info</Original>
+        <Chinese>%1已離開你的小隊&lt;br/&gt;按下%2來獲得更多訊息</Chinese>
+        <Chinesesimp>%1已离开你的小队&lt;br/&gt;按下%2来获得更多信息</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_notifications_description_kicked">
+        <Original>%1 kicked you&lt;br/&gt;Press %2 for info</Original>
+        <Chinese>%1已踢除你&lt;br/&gt;按下%2來獲得更多訊息</Chinese>
+        <Chinesesimp>%1已踢除你&lt;br/&gt;按下%2来获得更多信息</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_notifications_description_disbanded">
+        <Original>%1 disbanded the group&lt;br/&gt;Press %2 for info</Original>
+        <Chinese>%1已解散小隊&lt;br/&gt;按下%2來獲得更多訊息</Chinese>
+        <Chinesesimp>%1已解散小队&lt;br/&gt;按下%2来获得更多信息</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_notification">
+        <Original>would like you to join his group, double click to join</Original>
+        <Chinese>想要你加入他的小隊，雙擊來確認加入</Chinese>
+        <Chinesesimp>想要你加入他的小队，双击来确认加入</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_hint">
+        <Original>Select, join or create a group...</Original>
+        <Chinese>選擇加入或創建一個小隊...</Chinese>
+        <Chinesesimp>选择加入或创建一个小队...</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_groups">
+        <Original>GROUPS</Original>
+        <Chinese>小隊</Chinese>
+        <Chinesesimp>小队</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_button_promote">
+        <Original>PROMOTE</Original>
+        <Chinese>推薦</Chinese>
+        <Chinesesimp>推荐</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_button_leave">
+        <Original>LEAVE</Original>
+        <Chinese>離開</Chinese>
+        <Chinesesimp>离开</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_button_kickban">
+        <Original>KICK/BAN</Original>
+        <Chinese>踢除/封鎖</Chinese>
+        <Chinesesimp>踢除/封锁</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_button_join">
+        <Original>JOIN</Original>
+        <Chinese>加入</Chinese>
+        <Chinesesimp>加入</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_button_invite">
+        <Original>INVITE</Original>
+        <Chinese>邀請</Chinese>
+        <Chinesesimp>邀请</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_button_disband">
+        <Original>DISBAND</Original>
+        <Chinese>解散</Chinese>
+        <Chinesesimp>解散</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_button_create">
+        <Original>CREATE</Original>
+        <Chinese>創建</Chinese>
+        <Chinesesimp>创建</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_dynamicgroups_tooltip_createowngroup">
+        <Original>Create your own group</Original>
+        <Chinese>創建你的小隊</Chinese>
+        <Chinesesimp>创建你的小队</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_button_invited">
+        <Original>INVITED</Original>
+        <Chinese>已邀請</Chinese>
+        <Chinesesimp>已邀请</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_deadplayer">
+        <Original>Dead</Original>
+        <Chinese>死亡</Chinese>
+        <Chinesesimp>死亡</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_full">
+        <Original>FULL</Original>
+        <Chinese>滿員</Chinese>
+        <Chinesesimp>满员</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaydynamicgroups_tooltip_invited">
+        <Original>You have already sent an invitation to this player</Original>
+        <Chinese>你已發送邀請給該名玩家</Chinese>
+        <Chinesesimp>你已发送邀请给该名玩家</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="EndGame">
+      <Key ID="str_a3_endgame_tips">
+        <Original>Establish FOB&lt;br/&gt;* Establishing your FOB first will give you an advantage against the enemy forces&lt;br/&gt;* Vehicles respawn at the FOB when destroyed&lt;br/&gt;&lt;br/&gt;Download Intel&lt;br/&gt;* Plan to approach Download Intel objectives carefully but quickly, or the enemy might get there first, destroy the Intel, and you won't be able to download&lt;br/&gt;* After downloading Intel from an objective, try to destroy to prevent the opposing side from downloading it themselves&lt;br/&gt;* Use the Dynamic Groups (Press U) to split in teams, and cover multiple objectives at the same time&lt;br/&gt;&lt;br/&gt;Secure Schematics&lt;br/&gt;* If your team needs to prevent the opposing team from uploading the schematics make sure to set up good defenses at the enemy upload site&lt;br/&gt;* Hunting the carrier can be a good approach, but remember not to leave the enemy's upload site unprotected&lt;br/&gt;* If your team needs to upload the schematics, make sure to protect the Carrier at all times, the success of the operation is in his hands&lt;br/&gt;&lt;br/&gt;Carrier&lt;br/&gt;* When carrying the schematics, if you are on the open, you are visible to the enemy&lt;br/&gt;* Try to move through buildings, trees and other structures so the enemy is not able to pinpoint your current location&lt;br/&gt;* Friendly forces are always able to track the carrier's location</Original>
+        <Chinese>建立前線作戰基地&lt;br/&gt;*首先建立你的前線作戰基地，將能為你帶來戰術優勢好對付你的敵人&lt;br/&gt;*載具被摧毀時將自動重生於前線作戰基地&lt;br/&gt;&lt;br/&gt;下載情報&lt;br/&gt;*小心並迅速的前往情報地點，搶先在敵軍得到之前下載情報，如被敵軍摧毀情報的話，你將無法得到該情報&lt;br/&gt;*在下載情報完成之後，建議你摧毀該情報，避免其落入敵人之手&lt;br/&gt;*使用動態小隊(按下U)來組建小隊，藉此同時掌握複數目標&lt;br/&gt;&lt;br/&gt;奪取武器藍圖&lt;br/&gt;*假使你的小隊要阻止敵人上傳武器藍圖，建議你們前往敵軍的上傳地點並設好防守&lt;br/&gt;*獵殺情報攜帶者或許是個不錯的主意，但請不要忘記防守住敵軍的上傳地點&lt;br/&gt;*假使你的小隊要上傳武器藍圖，請確保藍圖攜帶者安全，成功的關鍵就掌握在他手上&lt;br/&gt;&lt;br/&gt;攜帶者&lt;br/&gt;*當你攜帶藍圖時，假如你身處無遮掩環境，你將容易被敵人獵殺&lt;br/&gt;*嘗試藉由建築物，樹木與其他掩體來隱藏自身的行蹤，確保敵人無法有效追蹤你&lt;br/&gt;*友軍部隊永遠都知道藍圖攜帶者的當前位置</Chinese>
+        <Chinesesimp>建立前进作战基地&lt;br/&gt;*首先建立你的前进作战基地，将能为你带来战术优势以便对付你的敌人&lt;br/&gt;*载具被摧毁时将自动重生于前进作战基地&lt;br/&gt;&lt;br/&gt;下载情报&lt;br/&gt;*小心并迅速的前往情报地点，抢先在敌军得到之前下载情报，如被敌军摧毁情报的话，你将无法得到该情报&lt;br/&gt;*在下载情报完成之后，建议你摧毁该情报，避免其落入敌人之手&lt;br/&gt;*使用动态小队(按下U)来组建小队，藉此同时掌握复数目标&lt;br/&gt;&lt;br/&gt;夺取武器蓝图&lt;br/&gt;*假使你的小队要阻止敌人上传武器蓝图，建议你们前往敌军的上传地点并设好防守&lt;br/&gt;*猎杀情报携带者或许是个不错的主意，但请不要忘记防守住敌军的上传地点&lt;br/&gt;*假使你的小队要上传武器蓝图，请确保蓝图携带者安全，成功的关键就掌握在他手上&lt;br/&gt;&lt;br/&gt;携带者&lt;br/&gt;*当你携带蓝图时，假如你身处无遮掩环境，你将容易被敌人猎杀&lt;br/&gt;*尝试藉由建筑物，树木与其他掩体来隐藏自身的行踪，确保敌人无法有效追踪你&lt;br/&gt;*友军部队永远都知道蓝图携带者的当前位置</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_waypoint_upload">
+        <Original>UPLOAD</Original>
+        <Chinese>上傳</Chinese>
+        <Chinesesimp>上传</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_waypoint_prevent">
+        <Original>SECURE</Original>
+        <Chinese>奪取</Chinese>
+        <Chinesesimp>夺取</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_waypoint_pickup">
+        <Original>PICK-UP</Original>
+        <Chinese>撿起</Chinese>
+        <Chinesesimp>捡起</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_waypoint_fob">
+        <Original>FOB</Original>
+        <Chinese>前線作戰基地</Chinese>
+        <Chinesesimp>前进作战基地</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_title_upload">
+        <Original>Upload Schematics</Original>
+        <Chinese>上傳武器藍圖</Chinese>
+        <Chinesesimp>上传武器蓝图</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_title_retrieveintel">
+        <Original>Retrieve Intel</Original>
+        <Chinese>回收情報</Chinese>
+        <Chinesesimp>回收情报</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_title_prevent">
+        <Original>Prevent Upload</Original>
+        <Chinese>阻止上傳</Chinese>
+        <Chinesesimp>阻止上传</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_title_pickup">
+        <Original>Pick-up Schematics</Original>
+        <Chinese>撿起武器藍圖</Chinese>
+        <Chinesesimp>捡起武器蓝图</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_title_fob">
+        <Original>Establish FOB</Original>
+        <Chinese>建立前線作戰基地</Chinese>
+        <Chinesesimp>建立前进作战基地</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_description_upload">
+        <Original>Move to the designated location and upload the schematics.</Original>
+        <Chinese>前往指定地點並上傳武器藍圖。</Chinese>
+        <Chinesesimp>前往指定地点并上传武器蓝图。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_description_uav">
+        <Original>Locate the downed UAV and retrieve any intel that it contains.</Original>
+        <Chinese>搜尋被擊毀的空中無人載具並回收任何存留的情報。</Chinese>
+        <Chinesesimp>搜寻被击毁的空中无人载具并回收任何存留的情报。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_description_prevent">
+        <Original>Prevent the opposing team from uploading the schematics.</Original>
+        <Chinese>阻止敵軍上傳武器藍圖。</Chinese>
+        <Chinesesimp>阻止敌军上传武器蓝图。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_description_pickup">
+        <Original>Pick-up the schematics of the unknown device.</Original>
+        <Chinese>撿起裝有武器藍圖的裝置。</Chinese>
+        <Chinesesimp>捡起装有武器蓝图的装置。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_description_officer">
+        <Original>Find enemy officer and retrieve any Intel he may have.</Original>
+        <Chinese>尋找敵軍軍官，並取回任何他掌握的情報。</Chinese>
+        <Chinesesimp>寻找敌军军官，并取回任何他掌握的情报。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_description_mrap">
+        <Original>Locate the convoy and retrieve any intel that it's carrying.</Original>
+        <Chinese>定位車隊位置，取回它們載運的情報。</Chinese>
+        <Chinesesimp>定位车队位置，取回它们载运的情报。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_description_laptop">
+        <Original>Raid the AAF outpost and retrieve any intel you find.</Original>
+        <Chinese>突襲阿爾蒂斯武裝力量的前哨，取回任何你找到的情報。</Chinese>
+        <Chinesesimp>突袭阿尔蒂斯武装力量的前哨，取回任何你找到的情报。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_tasks_description_fob">
+        <Original>Establish a Forward Operating Base (FOB) at the designated location.</Original>
+        <Chinese>在指定位置建立前線作戰基地。</Chinese>
+        <Chinesesimp>在指定位置建立前进作战基地。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_rules">
+        <Original>Both sides must complete three main phases: Establish FOB / Download Intel / Secure Schematics&lt;br/&gt;&lt;br/&gt;Establish FOB&lt;br/&gt;* Each playable side must assault and secure their FOB before being able to proceed to the next phase of the operation&lt;br/&gt;&lt;br/&gt;Download Intel&lt;br/&gt;* Each side must advance through enemy territory and retrieve useful intel&lt;br/&gt;* The team that downloads enough intel faster will have an advantage for the next phase&lt;br/&gt;&lt;br/&gt;Secure Schematics&lt;br/&gt;* There is always one leading and one losing team when the final phase starts&lt;br/&gt;* The leading team must locate and collect the schematics from an unknown location&lt;br/&gt;* The losing team must prevent the opposing team from uploading the schematics&lt;br/&gt;* The losing team can kill the schematics carrier, forcing them to be dropped, which can then be picked up by any player - at this point no team is considered to be leading nor losing&lt;br/&gt;* Taking the schematics and successfully uploading them will determine who wins&lt;br/&gt;</Original>
+        <Chinese>雙方陣營皆須完成三個階段:建立前線作戰基地/下載情報/奪取武器藍圖&lt;br/&gt;&lt;br/&gt;建立前線作戰基地&lt;br/&gt;*所有陣營皆須先肅清前線作戰基地的預定建設位置並建設之，完成此步驟才能邁入下一階段&lt;br/&gt;&lt;br/&gt;下載情報&lt;br/&gt;*所有陣營皆須向敵人發起攻擊並取回有用的情報&lt;br/&gt;*當隊伍下載越多的情報，就能越快進入最終階段&lt;br/&gt;&lt;br/&gt;奪取武器藍圖&lt;br/&gt;*最終階段開始時，總會有一隊是領先和一隊是落後的狀況&lt;br/&gt;*領先的隊伍必須從未知的地點取得武器藍圖&lt;br/&gt;*落後的隊伍必須阻止敵隊上傳武器藍圖&lt;br/&gt;*落後的隊伍可以藉由擊殺武器藍圖攜帶者，使裝有藍圖的裝置掉落，該隊伍可以撿起該裝置-從此時此刻起，將不分領先或落後了&lt;br/&gt;*最終勝利將取決於是哪隊成功上傳武器藍圖&lt;br/&gt;</Chinese>
+        <Chinesesimp>双方阵营皆须完成三个阶段:建立前进作战基地/下载情报/夺取武器蓝图&lt;br/&gt;&lt;br/&gt;建立前进作战基地&lt;br/&gt;*所有阵营皆须先肃清前进作战基地的预定建设位置并建设，完成此步骤才能迈入下一阶段&lt;br/&gt;&lt;br/&gt;下载情报&lt;br/&gt;*所有阵营皆须向敌人发起攻击并取回有用的情报&lt;br/&gt;*当队伍下载越多的情报，就能越快进入最终阶段&lt;br/&gt;&lt;br/&gt;夺取武器蓝图&lt;br/&gt;*最终阶段开始时，总会有一队是领先和一队是落后的状况&lt;br/&gt;*领先的队伍必须从未知的地点取得武器蓝图&lt;br/&gt;*落后的队伍必须阻止敌队上传武器蓝图&lt;br/&gt;*落后的队伍可以藉由击杀武器蓝图携带者，使装有蓝图的装置掉落，该队伍可以捡起该装置-从此时此刻起，将不分领先或落后了&lt;br/&gt;*最终胜利将取决于是哪队成功上传武器蓝图&lt;br/&gt;</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_notifications_title_pickup">
+        <Original>Pick-up</Original>
+        <Chinese>撿起</Chinese>
+        <Chinesesimp>捡起</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_notifications_title_drop">
+        <Original>Drop</Original>
+        <Chinese>掉落</Chinese>
+        <Chinesesimp>掉落</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_notifications_description_pickup">
+        <Original>%1 is now the carrier</Original>
+        <Chinese>%1現在是攜帶者</Chinese>
+        <Chinesesimp>%1现在是携带者</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_notifications_description_drop">
+        <Original>Schematics dropped by %1</Original>
+        <Chinese>%1已拋下武器藍圖</Chinese>
+        <Chinesesimp>%1已抛下武器蓝图</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtstartgameobjective_title">
+        <Original>End Game Start Game Objective</Original>
+        <Chinese>終戰-遊戲初始目標</Chinese>
+        <Chinesesimp>终战-游戏初始目标</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtsimpleobjective_uav">
+        <Original>UAV</Original>
+        <Chinese>空中無人載具</Chinese>
+        <Chinesesimp>无人机</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtsimpleobjective_type">
+        <Original>Objective Type</Original>
+        <Chinese>目標類型</Chinese>
+        <Chinesesimp>目标类型</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtsimpleobjective_title">
+        <Original>End Game Simple Objective</Original>
+        <Chinese>終戰-簡單目標</Chinese>
+        <Chinesesimp>终战-简单目标</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtsimpleobjective_simpleobjective">
+        <Original>A simple objective is a type of objective which requires sides to complete the same task</Original>
+        <Chinese>簡單目標是種任務類型，雙方陣營都將收到同一任務</Chinese>
+        <Chinesesimp>简单目标是种任务类型，双方阵营都将收到同一任务</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtsimpleobjective_officer">
+        <Original>Officer</Original>
+        <Chinese>軍官</Chinese>
+        <Chinesesimp>军官</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtsimpleobjective_mrap">
+        <Original>MRAP</Original>
+        <Chinese>防地雷反伏擊車</Chinese>
+        <Chinesesimp>防地雷反伏击车</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtsimpleobjective_laptop">
+        <Original>Laptop</Original>
+        <Chinese>筆記型電腦</Chinese>
+        <Chinesesimp>笔记本电脑</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_two">
+        <Original>Two</Original>
+        <Chinese>2</Chinese>
+        <Chinesesimp>2</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_title_threshold">
+        <Original>End Game Threshold</Original>
+        <Chinese>終戰任務數量</Chinese>
+        <Chinesesimp>终战任务数量</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_title">
+        <Original>EndGame Objectives Instance</Original>
+        <Chinese>終戰-任務目標門檻</Chinese>
+        <Chinesesimp>终战-任务目标门槛</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_three">
+        <Original>Three</Original>
+        <Chinese>3</Chinese>
+        <Chinesesimp>3</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_one">
+        <Original>One</Original>
+        <Chinese>一</Chinese>
+        <Chinesesimp>一</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_four">
+        <Original>Four</Original>
+        <Chinese>4</Chinese>
+        <Chinesesimp>4</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_five">
+        <Original>Five</Original>
+        <Chinese>5</Chinese>
+        <Chinesesimp>5</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_description_threshold">
+        <Original>The End Game Threshold defines how many objectives a side must complete for the End Game to start</Original>
+        <Chinese>任務目標門檻模塊定義每個陣營將須完成多少簡單任務目標後才能進入最終階段</Chinese>
+        <Chinesesimp>任务目标门槛模块定义每个阵营将须完成多少简单任务目标后才能进入最终阶段</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectiverandomiser_title">
+        <Original>End Game - Objective Randomizer</Original>
+        <Chinese>終戰-目標隨機產生器</Chinese>
+        <Chinesesimp>终战-目标随机产生器</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectiveobjectsmanager_title">
+        <Original>End Game - Objective Objects Manager</Original>
+        <Chinese>終戰-目標物件管理器</Chinese>
+        <Chinesesimp>终战-目标物件管理器</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivecluttermanager_title">
+        <Original>End Game - Objective Clutter Manager</Original>
+        <Chinese>終戰-目標混亂管理器</Chinese>
+        <Chinesesimp>终战-目标混乱管理器</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtendgameobjective_title">
+        <Original>End Game - End Game Objective</Original>
+        <Chinese>終戰-最終階段目標</Chinese>
+        <Chinesesimp>终战-最终阶段目标</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_misc_upload">
+        <Original>Upload Schematics</Original>
+        <Chinese>上傳武器藍圖</Chinese>
+        <Chinesesimp>上传武器蓝图</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_misc_retrieveintellower">
+        <Original>Retrieve Intel</Original>
+        <Chinese>取回情報</Chinese>
+        <Chinesesimp>取回情报</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_misc_retrieveintel">
+        <Original>RETRIEVE INTEL</Original>
+        <Chinese>取回情報</Chinese>
+        <Chinesesimp>取回情报</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_misc_retrieve">
+        <Original>RETRIEVE</Original>
+        <Chinese>取回</Chinese>
+        <Chinesesimp>取回</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_misc_pickup">
+        <Original>Pick-up Schematics</Original>
+        <Chinese>撿起武器藍圖</Chinese>
+        <Chinesesimp>捡起武器蓝图</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_misc_fob">
+        <Original>FOB</Original>
+        <Chinese>前線作戰基地</Chinese>
+        <Chinesesimp>前进作战基地</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_misc_downloadintel">
+        <Original>Download Intel</Original>
+        <Chinese>下載情報</Chinese>
+        <Chinesesimp>下载情报</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_misc_download">
+        <Original>Download</Original>
+        <Chinese>下載</Chinese>
+        <Chinesesimp>下载</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_misc_carrier">
+        <Original>Carrier</Original>
+        <Chinese>攜帶者</Chinese>
+        <Chinesesimp>携带者</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_debriefing_victory">
+        <Original>Victory</Original>
+        <Chinese>勝利</Chinese>
+        <Chinesesimp>胜利</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_debriefing_teamwon">
+        <Original>Your team won!</Original>
+        <Chinese>你的隊伍勝利!</Chinese>
+        <Chinesesimp>你的队伍胜利!</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_debriefing_teamlost">
+        <Original>Your team lost!</Original>
+        <Chinese>你的隊伍失敗!</Chinese>
+        <Chinesesimp>你的队伍失败!</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_debriefing_teamdraw">
+        <Original>Though it was losing, one of the teams pulled ahead in the final moments.</Original>
+        <Chinese>縱然位居劣勢，但該隊還是在最終階段完成前扳回一城。</Chinese>
+        <Chinesesimp>纵然位居劣势，但该队还是在最终阶段完成前扳回一城。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_debriefing_playersdecimated">
+        <Original>You were decimated!</Original>
+        <Chinese>你被殲滅了!</Chinese>
+        <Chinesesimp>你被歼灭了!</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_debriefing_playersdead">
+        <Original>All players are KIA!</Original>
+        <Chinese>所有玩家已陣亡!</Chinese>
+        <Chinesesimp>所有玩家已阵亡!</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_debriefing_enemydecimated">
+        <Original>You decimated the enemy!</Original>
+        <Chinese>你殲滅了敵人!</Chinese>
+        <Chinesesimp>你歼灭了敌人!</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_debriefing_enemiesdead">
+        <Original>All enemy players are dead!</Original>
+        <Chinese>所有敵隊玩家已死亡!</Chinese>
+        <Chinesesimp>所有敌队玩家已死亡!</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_debriefing_draw">
+        <Original>Draw</Original>
+        <Chinese>平手</Chinese>
+        <Chinesesimp>平手</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_debriefing_defeat">
+        <Original>Defeat</Original>
+        <Chinese>失敗</Chinese>
+        <Chinesesimp>失败</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Debriefing_CarrierLooser">
+        <Original>You left the AO with the Schematics</Original>
+        <Chinese>你將武器藍圖帶離了行動區域</Chinese>
+        <Chinesesimp>你将武器蓝图带离了行动区域</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Debriefing_CarrierWinner">
+        <Original>The enemy left the AO with the Schematics</Original>
+        <Chinese>敵軍將武器藍圖帶離了行動區域</Chinese>
+        <Chinesesimp>敌军将武器蓝图带离了行动区域</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_debriefing_schematicsDestroyed">
+        <Original>The enemy destroyed the schematics by mistake</Original>
+        <Chinese>敵軍不小心摧毀了武器藍圖</Chinese>
+        <Chinesesimp>敌军不小心摧毁了武器蓝图</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_debriefing_selfDestroyedSchematics">
+        <Original>The schematics were destroyed</Original>
+        <Chinese>武器藍圖已被摧毀</Chinese>
+        <Chinesesimp>武器蓝图已被摧毁</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_debriefing_spectator">
+        <Original>Transmission Ended</Original>
+        <Chinese>傳輸結束</Chinese>
+        <Chinesesimp>传输结束</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Download_Connecting">
+        <Original>CONNECTING</Original>
+        <Chinese>連線中</Chinese>
+        <Chinesesimp>连线中</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Download_Downloading">
+        <Original>DOWNLOADING</Original>
+        <Chinese>下載中</Chinese>
+        <Chinesesimp>下载中</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Download_Paused">
+        <Original>PAUSED</Original>
+        <Chinese>暫停</Chinese>
+        <Chinesesimp>暂停</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Download_Searching">
+        <Original>SEARCHING</Original>
+        <Chinese>搜索中</Chinese>
+        <Chinesesimp>搜索中</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Download_Uploading">
+        <Original>UPLOADING</Original>
+        <Chinese>上傳中</Chinese>
+        <Chinesesimp>上传中</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_End_Description_PickupObjects">
+        <Original>The list of possible objects to use for initial schematics pickup, for the leading side</Original>
+        <Chinese>用來定義名單中的物件成為武器藍圖載體，可被領先的隊伍使用</Chinese>
+        <Chinesesimp>用来定义名单中的物件成为武器蓝图载体，可被领先的队伍使用</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_End_Description_TimeLimit">
+        <Original>The maximum time the match can be in the last End Game objective, after timer running out the match will end as a Draw</Original>
+        <Chinese>設定最終階段的遊戲時間，當時間終了時，遊戲將以平手結束</Chinese>
+        <Chinesesimp>设定最终阶段的游戏时间，当时间为零时，游戏将以平手结束</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_End_Description_UploadObjects">
+        <Original>The list of possible objects to use for uploading schematics</Original>
+        <Chinese>清單中的物件將可被當成上傳武器藍圖用的伺服器端</Chinese>
+        <Chinesesimp>清单中的物件将可被当成上传武器蓝图用的服务器端</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_End_Title_PickupObjects">
+        <Original>Pickup Objects</Original>
+        <Chinese>撿起用物件</Chinese>
+        <Chinesesimp>捡起用物件</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_End_Title_TimeLimit">
+        <Original>Time Limit</Original>
+        <Chinese>時間限制</Chinese>
+        <Chinesesimp>时间限制</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_End_Title_UploadObjects">
+        <Original>Upload Objects</Original>
+        <Chinese>上傳用物件</Chinese>
+        <Chinesesimp>上传用物件</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_LastPhaseTimer">
+        <Original>Last Phase Timer</Original>
+        <Chinese>最終階段時間限制</Chinese>
+        <Chinesesimp>最终阶段时间限制</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_LastPhaseTimer_20">
+        <Original>20 minutes</Original>
+        <Chinese>20分鐘</Chinese>
+        <Chinesesimp>20分钟</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_LastPhaseTimer_30">
+        <Original>30 minutes</Original>
+        <Chinese>30分鐘</Chinese>
+        <Chinesesimp>30分钟</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_LastPhaseTimer_45">
+        <Original>45 minutes</Original>
+        <Chinese>45分鐘</Chinese>
+        <Chinesesimp>45分钟</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_rulestips">
+        <Original>Rules &amp; Tips</Original>
+        <Chinese>規則&amp;提示</Chinese>
+        <Chinesesimp>规则&amp;提示</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_notifications_title_fob">
+        <Original>Enemy FOB</Original>
+        <Chinese>敵軍前線作戰基地</Chinese>
+        <Chinesesimp>敌军前进作战基地</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_LastPhaseTimer_60">
+        <Original>60 minutes</Original>
+        <Chinese>60分鐘</Chinese>
+        <Chinesesimp>60分钟</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_description_endWhenSideHasNoFob">
+        <Original>Whether the scenario should end if the last phase is triggered and one of the sides has not yet established their FOB, scenario will end with the leading side as winner</Original>
+        <Chinese>設定任務是否會提早結束，當開啟時，假使有隊伍已邁入最終階段，另一隊則尚未建立前線作戰基地，該局遊戲將提早結束，由領先的隊伍獲勝</Chinese>
+        <Chinesesimp>设定任务是否会提早结束，当开启时，假使有队伍已迈入最终阶段，另一队则尚未建立前进作战基地，该局游戏将提早结束，由领先的队伍获胜</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_description_music1">
+        <Original>The music to play at the start of phase 1</Original>
+        <Chinese>階段1開始時播放的音樂</Chinese>
+        <Chinesesimp>阶段1开始时播放的音乐</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_notifications_description_fob">
+        <Original>The enemy established their FOB</Original>
+        <Chinese>敵軍已建立前線作戰基地</Chinese>
+        <Chinesesimp>敌军已建立前进作战基地</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_description_music2">
+        <Original>The music to play at the start of phase 2</Original>
+        <Chinese>階段2開始時播放的音樂</Chinese>
+        <Chinesesimp>阶段2开始时播放的音乐</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_description_music3">
+        <Original>The music to play at the start of phase 3</Original>
+        <Chinese>階段3開始時播放的音樂</Chinese>
+        <Chinesesimp>阶段3开始时播放的音乐</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_description_warmupDelay">
+        <Original>The amount of time in seconds players will be locked in the warmup phase at the start of the scenario</Original>
+        <Chinese>設定暖身階段時，玩家將會被凍結住幾秒</Chinese>
+        <Chinesesimp>设定热身阶段时，玩家将会被冻结住几秒</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_title_endWhenSideHasNoFob">
+        <Original>End when side has no FOB</Original>
+        <Chinese>當一方沒有前線作戰基地時結束</Chinese>
+        <Chinesesimp>当一方没有前进作战基地时结束</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_title_music1">
+        <Original>Phase 1 Music</Original>
+        <Chinese>階段1音樂</Chinese>
+        <Chinesesimp>阶段1音乐</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_title_music2">
+        <Original>Phase 2 Music</Original>
+        <Chinese>階段2音樂</Chinese>
+        <Chinesesimp>阶段2音乐</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_title_music3">
+        <Original>Phase 3 Music</Original>
+        <Chinese>階段3音樂</Chinese>
+        <Chinesesimp>阶段3音乐</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_endgame_modulehvtobjectivesinstance_title_warmupDelay">
+        <Original>Warmup Delay</Original>
+        <Chinese>暖身延遲</Chinese>
+        <Chinesesimp>热身延迟</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_RespawnDelay">
+        <Original>Respawn delay</Original>
+        <Chinese>重生延遲</Chinese>
+        <Chinesesimp>重生延迟</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_RespawnDelay_15">
+        <Original>15 seconds</Original>
+        <Chinese>15秒</Chinese>
+        <Chinesesimp>15秒</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_RespawnDelay_30">
+        <Original>30 seconds</Original>
+        <Chinese>30秒</Chinese>
+        <Chinesesimp>30秒</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_RespawnDelay_45">
+        <Original>45 seconds</Original>
+        <Chinese>45秒</Chinese>
+        <Chinesesimp>45秒</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_RespawnDelay_60">
+        <Original>60 seconds</Original>
+        <Chinese>60秒</Chinese>
+        <Chinesesimp>60秒</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_RespawnDelayLast">
+        <Original>Respawn delay (Last phase)</Original>
+        <Chinese>重生延遲(最終階段)</Chinese>
+        <Chinesesimp>重生延迟(最终阶段)</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_RespawnDelayLast_20">
+        <Original>20 seconds</Original>
+        <Chinese>20秒</Chinese>
+        <Chinesesimp>20秒</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_RespawnDelayLast_45">
+        <Original>45 seconds</Original>
+        <Chinese>45秒</Chinese>
+        <Chinesesimp>45秒</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_RespawnDelayLast_60">
+        <Original>60 seconds</Original>
+        <Chinese>60秒</Chinese>
+        <Chinesesimp>60秒</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_NewEquipment">
+        <Original>New equipment available at your FOB</Original>
+        <Chinese>新裝備已抵達你的前線作戰基地</Chinese>
+        <Chinesesimp>新装备已抵达你的前进作战基地</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_NewLoadout">
+        <Original>New loadout available:</Original>
+        <Chinese>可用的新裝備:</Chinese>
+        <Chinesesimp>可用的新装备:</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_NewLoadouts">
+        <Original>New loadouts available:</Original>
+        <Chinese>可用的新裝備:</Chinese>
+        <Chinesesimp>可用的新装备:</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_RespawnDelayLast_120">
+        <Original>120 seconds</Original>
+        <Chinese>120秒</Chinese>
+        <Chinesesimp>120秒</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Simple_Title_DownloadObject">
+        <Original>Downloadable Object</Original>
+        <Chinese>可下載物件</Chinese>
+        <Chinesesimp>可下载物件</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_NewVehicle">
+        <Original>New vehicle available:</Original>
+        <Chinese>可用的新載具:</Chinese>
+        <Chinesesimp>可用的新载具:</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Simple_Title_DownloadRadius">
+        <Original>Download Radius</Original>
+        <Chinese>下載半徑</Chinese>
+        <Chinesesimp>下载半径</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Simple_Description_DownloadObject">
+        <Original>The variable name of the object to use as the Downloadable object, with which players interact to complete the objective</Original>
+        <Chinese>定義可被當成下載用的物件，可使玩家完成任務目標</Chinese>
+        <Chinesesimp>定义可被当成下载用的物件，可使玩家完成任务目标</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Simple_Title_TaskDescription">
+        <Original>Task Description</Original>
+        <Chinese>目標說明</Chinese>
+        <Chinesesimp>目标说明</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_RespawnDelayLast_30">
+        <Original>30 seconds</Original>
+        <Chinese>30秒</Chinese>
+        <Chinesesimp>30秒</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Simple_Description_DownloadRadius">
+        <Original>The radius limit within which a player must be located from the Downloadable object when downloading. If the player is further than this radius, the download will interrupt.</Original>
+        <Chinese>設定當玩家下載情報時，可成功連線並下載的半徑範圍。假使玩家超出範圍，下載將被中斷。</Chinese>
+        <Chinesesimp>设定当玩家下载情报时，可成功连线并下载的半径范围。假使玩家超出范围，下载将被中断。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Simple_Title_InstantDownload">
+        <Original>Instant Download</Original>
+        <Chinese>瞬間下載</Chinese>
+        <Chinesesimp>瞬间下载</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Start_Title_AttackingSide">
+        <Original>Attacking Side</Original>
+        <Chinese>攻擊陣營</Chinese>
+        <Chinesesimp>攻击阵营</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_NewVehicles">
+        <Original>New vehicles available:</Original>
+        <Chinese>可用的新載具:</Chinese>
+        <Chinesesimp>可用的新载具:</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Start_Title_SucceedRadius">
+        <Original>Succeed Radius</Original>
+        <Chinese>成功半徑</Chinese>
+        <Chinesesimp>成功半径</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Start_Description_AttackingSide">
+        <Original>The side that will have to attack and Establish their FOB at this objective</Original>
+        <Chinese>設定的陣營將在此地點進行肅清與建立前線作戰基地的任務</Chinese>
+        <Chinesesimp>设定的阵营将在此地点进行肃清与建立前进作战基地的任务</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Simple_Description_TaskDescription">
+        <Original>The task description for this objective, usually gives a brief introduction about what this objective is about</Original>
+        <Chinese>設定此任務目標的說明，通常會給予玩家任務目標的簡介</Chinese>
+        <Chinesesimp>设定此任务目标的说明，通常会给予玩家任务目标的简介</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Start_Title_RestrictionRadius">
+        <Original>Restriction Radius</Original>
+        <Chinese>半徑範圍限制</Chinese>
+        <Chinesesimp>半径范围限制</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Start_Description_SucceedRadius">
+        <Original>The radius from the objective module that there must be no enemy for the objective to be deemed a success</Original>
+        <Chinese>設定的半徑將以模塊為中心，圈選出的範圍要沒有任何敵人，任務目標才被視為成功</Chinese>
+        <Chinesesimp>设定的半径将以模块为中心，圈选出的范围要没有任何敌人，任务目标才被视为成功</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Start_Title_Speaker">
+        <Original>Speaker</Original>
+        <Chinese>說話者</Chinese>
+        <Chinesesimp>说话者</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Simple_Description_InstantDownload">
+        <Original>Whether the download should be instant, if so, objective is complete when player uses Retrieve Intel action instead of going through the download sequence</Original>
+        <Chinese>設定下載情報時是否會瞬間完成，當啟用時，下載情報將不需要等待</Chinese>
+        <Chinesesimp>设定下载情报时是否会瞬间完成，当启用时，下载情报将不需要等待</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Simple_Description_Layer0">
+        <Original>Linked Layers</Original>
+        <Chinese>連接的圖層</Chinese>
+        <Chinesesimp>连接的图层</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Start_Description_RestrictionRadius">
+        <Original>The radius from which players must be from the FOB when trying to establish it, if players leave their radius, they are considered renegade and killed</Original>
+        <Chinese>設定玩家建立前線作戰基地時能待的半徑範圍，假使玩家跑出去，他們將被視為叛徒並遭殺害</Chinese>
+        <Chinesesimp>设定玩家建立前进作战基地时能待的半径范围，假使玩家跑出去，他们将被视为叛徒并遭杀害</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Simple_Description_Layer1">
+        <Original>Put here 3DEN layer names which are part of this objective, objects within these layers will be deleted in case layer is discarded because of randomization. Uses ARRAY format: [_layer1, _layer2].</Original>
+        <Chinese>把屬於這個任務目標的圖層名稱輸入到此處，因為任務隨機性的問題，沒有被挑選到的圖層將會被刪除，連帶裡面的物件也會不見。請使用陣列的格式來輸入:[_layer1，_layer2]。</Chinese>
+        <Chinesesimp>把属于这个任务目标的图层名称输入到此处，因为任务随机性的问题，没有被挑选到的图层将会被删除，连带里面的物件也会不见。请使用阵列的格式来输入:[_layer1，_layer2]。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Start_Description_Speaker">
+        <Original>The unit or logic that should be used HQ voice acting</Original>
+        <Chinese>設定單位或邏輯物件擔當指揮部的聲音演員</Chinese>
+        <Chinesesimp>设定单位或逻辑物件担当指挥部的声音演员</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Simple_Description_UploadRadius">
+        <Original>The radius limit within which a player must be located from the Uploadable object when uploading. If the player is further than this radius, the upload will interrupt.</Original>
+        <Chinese>設定當玩家上傳情報時，可成功連線並上傳的半徑範圍。假使玩家超出範圍，上傳將被中斷。</Chinese>
+        <Chinesesimp>设定当玩家上传情报时，可成功连线并上传的半径范围。假使玩家超出范围，上传将被中断。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_EndGame_Simple_Title_UploadRadius">
+        <Original>Upload Radius</Original>
+        <Chinese>上傳半徑</Chinese>
+        <Chinesesimp>上传半径</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="RscPhaseRules">
+      <Key ID="str_a3_rscphaserules_phasetwo">
+        <Original>Retrieve the intelligence from the designated locations.</Original>
+        <Chinese>在指定的位置尋找情報。</Chinese>
+        <Chinesesimp>在指定的位置寻找情报。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscphaserules_phasethree">
+        <Original>Prevent the enemy from acquiring the top secret schematics.</Original>
+        <Chinese>阻止敵人獲取武器藍圖。</Chinese>
+        <Chinesesimp>阻止敌人获取武器蓝图。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscphaserules_phaseone">
+        <Original>Assault the enemy position and secure the supplies.</Original>
+        <Chinese>突擊敵人位置並奪取補給物資。</Chinese>
+        <Chinesesimp>突击敌人位置并夺取补给物资。</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Modules_F_MP">
+      <Key ID="str_a3_cfgsounds_zoomout0">
+        <Original>Rules - Scroll Out</Original>
+        <Chinese>規則-滾輪向下</Chinese>
+        <Chinesesimp>规则-滚轮向下</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfgsounds_zoomin0">
+        <Original>Rules - Scroll In</Original>
+        <Chinese>規則-滾輪向上</Chinese>
+        <Chinesesimp>规则-滚轮向上</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfgsounds_beep_target0">
+        <Original>Rules - Select</Original>
+        <Chinese>規則-選擇</Chinese>
+        <Chinesesimp>规则-选择</Chinesesimp>
+      </Key>
+    </Container>
+  </Package>
+</Project>

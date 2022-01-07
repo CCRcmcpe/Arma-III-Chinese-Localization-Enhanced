@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3">
+  <Package name="Language_Mod">
+    <Key ID="str_a3_cfgweapons_smg_03_tr_khaki0">
+      <Original>ADR-97 TR 5.7 mm (Khaki)</Original>
+      <Chinese>ADR-97 TR 5.7公厘（卡其色）</Chinese>
+      <Chinesesimp>ADR-97 TR 5.7mm （卡其色）</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03_tr_hex0">
+      <Original>ADR-97 TR 5.7 mm (Hex)</Original>
+      <Chinese>ADR-97 TR 5.7公厘（數位蜂巢迷彩）</Chinese>
+      <Chinesesimp>ADR-97 TR 5.7mm （蜂巢迷彩）</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03_tr_camo0">
+      <Original>ADR-97 TR 5.7 mm (Camo)</Original>
+      <Chinese>ADR-97 TR 5.7公厘（迷彩）</Chinese>
+      <Chinesesimp>ADR-97 TR 5.7mm （迷彩）</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03_tr_black0">
+      <Original>ADR-97 TR 5.7 mm (Black)</Original>
+      <Chinese>ADR-97 TR 5.7公厘（黑色）</Chinese>
+      <Chinesesimp>ADR-97 TR 5.7mm （黑色）</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03_tr_base_library0">
+      <Original>The ADR-97 is a lightweight, highly maneuverable firearm with a high rate of fire, which stands out due to the 50-round magazine positioned on top of the weapon. The basic weapon comes with inbuilt collimator sights, but some variants can also be fitted with custom optics.</Original>
+      <Chinese>ADR-97是一種操作極其方便的高射速輕型槍支，它的突出特點是其50發的彈匣位於槍的頂部。這款基本型武器配備內置準直式瞄具，但有些變款也裝有定制的光學元件。</Chinese>
+      <Chinesesimp>ADR-97是一种可操作性强的高射速轻型枪支，其突出特点是弹匣位于枪的顶部，装弹量50发。这款基本武器配备内置准直瞄具，但有些变款也装有定制的光学器件。</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03_tr_base1">
+      <Original>Submachine Gun</Original>
+      <Chinese>衝鋒槍</Chinese>
+      <Chinesesimp>冲锋枪</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03_tr_base0">
+      <Original>ADR-97 5.7 mm</Original>
+      <Chinese>ADR-97 5.7公厘</Chinese>
+      <Chinesesimp>ADR-97 5.7mm </Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03_khaki0">
+      <Original>ADR-97 5.7 mm (Khaki)</Original>
+      <Chinese>ADR-97 5.7公厘（卡其色）</Chinese>
+      <Chinesesimp>ADR-97 5.7mm （卡其色）</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03_hex0">
+      <Original>ADR-97 5.7 mm (Hex)</Original>
+      <Chinese>ADR-97 5.7公厘（數位蜂巢迷彩）</Chinese>
+      <Chinesesimp>ADR-97 5.7mm （蜂巢迷彩）</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03c_tr_khaki0">
+      <Original>ADR-97C TR 5.7 mm (Khaki)</Original>
+      <Chinese>ADR-97C TR 5.7公厘（卡其色）</Chinese>
+      <Chinesesimp>ADR-97C TR 5.7mm （卡其色）</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03c_tr_hex0">
+      <Original>ADR-97C TR 5.7 mm (Hex)</Original>
+      <Chinese>ADR-97C TR 5.7公厘（數位蜂巢迷彩）</Chinese>
+      <Chinesesimp>ADR-97C TR 5.7mm （蜂巢迷彩）</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03c_tr_camo0">
+      <Original>ADR-97C TR 5.7 mm (Camo)</Original>
+      <Chinese>ADR-97C TR 5.7公厘（迷彩）</Chinese>
+      <Chinesesimp>ADR-97C TR 5.7mm （迷彩）</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03c_tr_black0">
+      <Original>ADR-97C TR 5.7 mm (Black)</Original>
+      <Chinese>ADR-97C TR 5.7公厘 （黑色）</Chinese>
+      <Chinesesimp>ADR-97C TR 5.7mm  （黑色）</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03c_khaki0">
+      <Original>ADR-97C 5.7 mm (Khaki)</Original>
+      <Chinese>ADR-97C 5.7公厘（卡其色）</Chinese>
+      <Chinesesimp>ADR-97C 5.7mm （卡其色）</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03c_hex0">
+      <Original>ADR-97C 5.7 mm (Hex)</Original>
+      <Chinese>ADR-97C 5.7公厘（數位蜂巢迷彩）</Chinese>
+      <Chinesesimp>ADR-97C 5.7mm （蜂巢迷彩）</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03c_camo0">
+      <Original>ADR-97C 5.7 mm (Camo)</Original>
+      <Chinese>ADR-97C 5.7公厘（迷彩）</Chinese>
+      <Chinesesimp>ADR-97C 5.7mm （迷彩）</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03c_black0">
+      <Original>ADR-97C 5.7 mm (Black)</Original>
+      <Chinese>ADR-97C 5.7公厘（黑色）</Chinese>
+      <Chinesesimp>ADR-97C 5.7mm （黑色）</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03_camo0">
+      <Original>ADR-97 5.7 mm (Camo)</Original>
+      <Chinese>ADR-97 5.7公厘（迷彩）</Chinese>
+      <Chinesesimp>ADR-97 5.7mm （迷彩）</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgweapons_smg_03_black0">
+      <Original>ADR-97 5.7 mm (Black)</Original>
+      <Chinese>ADR-97 5.7公厘（黑色）</Chinese>
+      <Chinesesimp>ADR-97 5.7mm （黑色）</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgmagazines_50rnd_570x28_smg_031">
+      <Original>5.7 mm 50Rnd ADR-97 Mag</Original>
+      <Chinese>5.7公厘50發ADR-97彈匣</Chinese>
+      <Chinesesimp>5.7mm 50发ADR-97弹匣</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgmagazines_50rnd_570x28_smg_030">
+      <Original>ADR-97 Mag</Original>
+      <Chinese>ADR-97彈匣</Chinese>
+      <Chinesesimp>ADR-97弹匣</Chinesesimp>
+    </Key>
+    <Key ID="str_a3_cfgmagazines_50rnd_570x28_smg_032">
+      <Original>Caliber: 5.7x28 mm&lt;br /&gt;Rounds: 50&lt;br /&gt;Used in: ADR-97, ADR-97C, ADR-97C TR</Original>
+      <Chinese>口徑：5.7x28公厘&lt;br /&gt;個數：50&lt;br /&gt;用於：ADR-97、ADR-97C、ADR-97C TR</Chinese>
+      <Chinesesimp>口径：5.7x28mm &lt;br /&gt;容弹量：50&lt;br /&gt;用于：ADR-97、ADR-97C、ADR-97C TR</Chinesesimp>
+    </Key>
+    <Key ID="STR_A3_cfgMods_OfficialMod_name0">
+      <Original>ADR-97 Weapon Pack</Original>
+      <Chinese>ADR-97武器包</Chinese>
+      <Chinesesimp>ADR-97武器包</Chinesesimp>
+    </Key>
+    <Key ID="STR_A3_cfgMods_OfficialMod_overview0">
+      <Original>The ADR-97 Weapon Pack consists of a collection of variants of the ADR-97 submachine gun. It was originally created by Jakub Horyna (aka BXBX), an Arma 3 Programmer, in his spare time and was released as an 'official mod' to help players discover the possibilities of custom content. Enjoy!</Original>
+      <Chinese>ADR-97武器包含有ADR-97衝鋒槍的一系列變款。它最初由武裝突襲3程式師Jakub Horyna (aka BXBX)利用業餘時間設計而成，並以"官方修改模組"的形式發佈，以便玩家探索定制內容的諸多潛能。盡情遊玩吧！</Chinese>
+      <Chinesesimp>ADR-97武器包含有ADR-97冲锋枪的一系列变款。它最初由武装突袭3程序员Jakub Horyna (aka BXBX)利用业余时间设计，并以"官方修改模块"的形式发布，以帮助玩家发掘定制内容的各种可能性。尽情享用吧！</Chinesesimp>
+    </Key>
+    <Key ID="STR_A3_cfgWeapons_muzzle_snds_570">
+      <Original>Sound Suppressor (5.7 mm)</Original>
+      <Chinese>消聲器（5.7公厘）</Chinese>
+      <Chinesesimp>消声器（5.7mm ）</Chinesesimp>
+    </Key>
+  </Package>
+</Project>
