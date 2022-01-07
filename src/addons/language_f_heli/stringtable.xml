@@ -976,7 +976,7 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnai_fia">
         <Original>FIA (BLUFOR)</Original>
         <Chinese>自由獨立同盟(藍方)</Chinese>
-        <Chinesesimp>自由独立同盟(蓝方)</Chinesesimp>
+        <Chinesesimp>FIA(蓝方)</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_factiongroups">
         <Original>The faction of groups to be spawned at this location.</Original>

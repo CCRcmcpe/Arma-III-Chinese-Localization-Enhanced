@@ -420,7 +420,7 @@
           <Key ID="str_a3_c_in2_debriefing_c_m01_1_description">
             <Original>Although we suffered heavy losses, we held the line. CSAT have pulled back to the airfield for now, but we aren't going to take this lying down. With any luck, the politicians will be able to sort something out in time. Whatever happens, we are taking the airport. You've proven yourself to be a potentially useful liaison with the FIA, and an effective force in combat.</Original>
             <Chinese>儘管我們損失慘重，但我們成功守住了防線。廣協同盟現在撤回了機場，但我們可沒有要休息。指揮部夠快的話，應該很快就有計劃會出爐。不管如何，我們要拿下那座機場。你已經證明了你是跟自由獨立同盟聯絡的一個很好的橋樑，也證明了你還能戰鬥。</Chinese>
-            <Chinesesimp>尽管我们损失惨重，但我们成功守住了防线。广协现在撤回了机场，但我们可没有要休息。走运的话，政客们应该很快就能理清现状。不管如何，我们要拿下那座机场。你已经证明了你是跟自由独立同盟联络的一个很好的桥梁，也证明了你还能战斗。</Chinesesimp>
+            <Chinesesimp>尽管我们损失惨重，但我们成功守住了防线。广协现在撤回了机场，但我们可没有要休息。走运的话，政客们应该很快就能理清现状。不管如何，我们要拿下那座机场。你已经证明了你是跟FIA联络的一个很好的桥梁，也证明了你还能战斗。</Chinesesimp>
           </Key>
           <Key ID="str_a3_c_in2_briefing_situation_text">
             <Original>Our forces on Altis were unable to secure %1the airport%2.%3As it turns out, there wasn't a chance in hell we were ready for what awaited us. CSAT got one over on us this time - and intel suggests they're going to hit back at any moment.%4Truth is, if we don't hold what we've taken over there, the whole op's a wash. So - with Stratis under our control - we're going to head back and dig in.%5Now, keep in mind - in spite of Corporal Kerry's 'debrief' - we don't know what exactly happened here. As such, keep an eye open for any suspicious activity. Until MEDCOM says otherwise, this 'Captain Miller', along with his team, are not recognized as friendly.</Original>
@@ -475,7 +475,7 @@
           <Key ID="str_a3_c_in2_bis_fia_title">
             <Original>Meet the FIA</Original>
             <Chinese>與自由獨立同盟碰面</Chinese>
-            <Chinesesimp>与自由独立同盟碰面</Chinesesimp>
+            <Chinesesimp>与FIA碰面</Chinesesimp>
           </Key>
           <Key ID="str_a3_c_in2_bis_fia_marker">
             <Original>MEET</Original>
@@ -485,7 +485,7 @@
           <Key ID="str_a3_c_in2_bis_fia_desc">
             <Original>The FIA are willing to assist NATO forces. Regroup with them %1here%2.</Original>
             <Chinese>自由獨立同盟願意協助北約部隊。請與他們在%1這裡%2碰面。</Chinese>
-            <Chinesesimp>自由独立同盟愿意协助北约部队。请与他们在%1这里%2碰面。</Chinesesimp>
+            <Chinesesimp>FIA愿意协助北约部队。请与他们在%1这里%2碰面。</Chinesesimp>
           </Key>
           <Key ID="str_a3_c_in2_bis_defenses_title">
             <Original>Secure Eastern Defenses</Original>
@@ -963,7 +963,7 @@
           <Key ID="STR_A3_C_m01_overview">
             <Original>In preparation for a major assault on the main airport, Kerry coordinates FIA forces as NATO form up near Neochori.</Original>
             <Chinese>為了準備對機場的主要突擊，克里帶著自由獨立同盟部隊與北約在内奧霍里附近待命。</Chinese>
-            <Chinesesimp>为了准备对机场的主要突击，克里在北约部队向内奥霍里附近集结的同时调度起自由独立同盟的部队。</Chinesesimp>
+            <Chinesesimp>为了准备对机场的主要突击，克里在北约部队向内奥霍里附近集结的同时调度起FIA的部队。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m01_task09_wp">
             <Original>MOVE</Original>
@@ -1093,7 +1093,7 @@
           <Key ID="str_a3_campaign_c_m01_task01_text">
             <Original>Your FIA squadmates are on their way. Wait for their truck at our %1FUP%2.</Original>
             <Chinese>你自由獨立同盟的隊友已經在來的路上了。請在我們的%1進攻出發位置%2等待他們。</Chinese>
-            <Chinesesimp>你的自由独立同盟队友已经在来的路上了。请在我们的%1攻击出发点%2等待他们。</Chinesesimp>
+            <Chinesesimp>你的FIA队友已经在来的路上了。请在我们的%1攻击出发点%2等待他们。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m01_other03">
             <Original>Securing LZ</Original>
@@ -1143,7 +1143,7 @@
           <Key ID="str_a3_campaign_c_m01_brief_situation">
             <Original>Our first attempt to seize the %3main airport%2 failed.%1However, after repelling an enemy counterattack, our forces are rallying for a decisive second assault. Meanwhile, recon reports that CSAT forces have pulled back from the front lines. It's unlikely we'll encounter anything other than AAF resistance.%1Your callsign's Nomad. You've proven yourself to be a trusted contact with the FIA, and an effective presence on the battlefield. You'll lead a small group of guerrillas in support of our three-stage main assault.%1Stage One: Our artillery will target the main CSAT armored defense in the %3airbase%2, securing the path for our assault force.%1Stage Two: Teams %4Nomad%2 and %5Echo%2 will eliminate any threat at a %6factory complex%2 near %7Lakka%2. The AAF garrison there consists of infantry and some APCs. It could strike at our forces from the rear and must be neutralized. The %8military installation%2 overlooking the %6complex%2 was hit by our artillery at 0430 and UAVs did not confirm any remaining enemy presence.%1Stage Three: When the factory complex is clear, teams %5Echo%2 and %4Nomad%2 will join the main assault on the %3airport%2.</Original>
             <Chinese>我們第一次肅清%3主機場%2的任務失敗了。%1然而，在我們成功抵禦了敵人的反攻之後，我們的部隊終於又集結了力量，準備進行第二次嘗試。同時，偵察報告指出廣協同盟已經從前線撤走了。看來目前我們只會遇到阿爾蒂斯武裝力量的抵抗。%1你小隊的呼號是"游牧民"。你已經證明了你是跟自由獨立同盟聯絡的一個很好的橋樑，也證明了你在戰場上的價值。你將帶領一支反抗軍小隊，協助我們進行三階段的突擊計劃。%1第一階段:我們的火炮將會對%3空軍基地%2裡的廣協同盟裝甲部隊進行壓制，為我們的主要突擊部隊清出一條路。%1第二階段:%4"游牧民"%2小隊和%5"Echo"%2將會肅清%7拉卡%2附近的%6工廠%2。那裡有一些阿爾蒂斯武裝力量守軍與裝甲運兵車。他們可能會造成我軍後方的危脅，所以必須殲滅之。俯瞰著%6工廠%2的%8軍事設施%2，在04:30的時候已經被我們的火炮給摧毀，而空中無人載具的報告指出那裡目前已經沒有殘餘的敵人了。%1第三階段:當工廠安全了後，%5"Echo"%2與%4"游牧民"%2小隊將會加入主要突擊，協助我們攻擊%3機場%2。</Chinese>
-            <Chinesesimp>我们第一次肃清%3主机场%2的任务失败了。%1然而，在我们成功抵御了敌人的反攻之后，我们的部队终于又集结了力量，准备进行决定性的第二次尝试。同时，侦察报告指出广协已经从前线撤走了。看来目前我们只会遇到AAF的抵抗。%1你小队的呼号是"游牧民"。你已经证明了你是跟自由独立同盟联络的一个很好的桥梁，也证明了你在战场上的价值。你将带领一支反抗军小队，协助我们进行三阶段的突击计划。%1第一阶段:我们的火炮将会对%3空军基地%2里的广协装甲部队进行压制，为我们的主要突击部队清出一条路。%1第二阶段:%4"游牧民"%2小队和%5"回声"%2将会肃清%7拉卡%2附近的%6工厂%2。那里有一些AAF守军与装甲运兵车。他们可能会造成我军后方的危胁，所以必须歼灭之。俯瞰着%6工厂%2的%8军事设施%2在04:30时已被我火炮摧毁，而无人机报告指出那里目前已经没有残余的敌人了。%1第三阶段:当工厂安全了后，%5"回声"%2与%4"游牧民"%2小队将会加入主要突击，协助我们攻击%3机场%2。</Chinesesimp>
+            <Chinesesimp>我们第一次肃清%3主机场%2的任务失败了。%1然而，在我们成功抵御了敌人的反攻之后，我们的部队终于又集结了力量，准备进行决定性的第二次尝试。同时，侦察报告指出广协已经从前线撤走了。看来目前我们只会遇到AAF的抵抗。%1你小队的呼号是"游牧民"。你已经证明了你是跟FIA联络的一个很好的桥梁，也证明了你在战场上的价值。你将带领一支反抗军小队，协助我们进行三阶段的突击计划。%1第一阶段:我们的火炮将会对%3空军基地%2里的广协装甲部队进行压制，为我们的主要突击部队清出一条路。%1第二阶段:%4"游牧民"%2小队和%5"回声"%2将会肃清%7拉卡%2附近的%6工厂%2。那里有一些AAF守军与装甲运兵车。他们可能会造成我军后方的危胁，所以必须歼灭之。俯瞰着%6工厂%2的%8军事设施%2在04:30时已被我火炮摧毁，而无人机报告指出那里目前已经没有残余的敌人了。%1第三阶段:当工厂安全了后，%5"回声"%2与%4"游牧民"%2小队将会加入主要突击，协助我们攻击%3机场%2。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m01_brief_signal">
             <Original>%2Nomad%1 - Your team.%3%4Echo%1 - Armored team reinforcing your assault on the %6factory complex%1.%3%5Golf%1 - Your airlift. It will provide transport to the %7airbase%1.%3Crossroads - Command.</Original>
@@ -1153,7 +1153,7 @@
           <Key ID="str_a3_campaign_c_m01_brief_mission">
             <Original>Take command of a small FIA force and support the main assault by eliminating any potential threat at a nearby %1factory complex%2.</Original>
             <Chinese>指揮一小支自由獨立同盟部隊，掃清附近%1工廠%2中的潛在威脅，好讓我們的主要突擊能成功。</Chinese>
-            <Chinesesimp>指挥一小支自由独立同盟部队，扫清附近%1工厂%2中的潜在威胁，好让我们的主要突击能成功。</Chinesesimp>
+            <Chinesesimp>指挥一小支FIA部队，扫清附近%1工厂%2中的潜在威胁，好让我们的主要突击能成功。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m01_brief_execution">
             <Original>%2Link up with the rest of your team%1%3Travel to %7Lakka%8%1%4Clear the %9factory complex%8 in cooperation with team %12Echo%8%1%5Secure the %10LZ%8%1%6Travel to the %11airbase%8 and join our assault</Original>
@@ -1672,7 +1672,7 @@
           <Key ID="str_a3_campaign_c_m02_briefing_situation">
             <Original>With the help of the FIA, we were able to seize the main airport.%1%1We've been handed a major strategic advantage in this invasion, but we cannot give the AAF any time to breathe. Plus, with CSAT consolidating their forces in the north, we've managed to regroup and push deeper into enemy-controlled territory with little resistance.%1%1Now, we're poised to strike at Pyrgos: the capital city of Altis and their last true base of power. However, with one of the largest AAF bases nearby, it's a heavily fortified target. We'll launch a coordinated assault, securing both the base and the city.%1%1Cutting any remaining forces in two, we'll isolate our enemy in the north and south-west. Keep in mind: taking this objective will represent a significant blow to the Altis regime, and could help bring about a swift end to this conflict.</Original>
             <Chinese>在自由獨立同盟的幫助下，我們成功的奪得了主機場。%1%1我們已經在整個入侵行動中取得重大的優勢，但我們不能讓阿爾蒂斯武裝力量有喘息的機會。此外，由於廣協同盟退守到北部半島，這讓我們有機會重整隊伍，並持續推進深入到敵軍的領土上，在整個推進過程中，敵軍少有抵抗。%1%1現在，我們準備要對皮爾戈斯發動攻擊:該城市是阿爾蒂斯的首都，也是其政權權力的最後象徵。然而，該城的旁邊有一個阿爾蒂斯武裝力量最大的基地，它的守備森嚴。我們將會發動協同攻擊，同時對基地與首都展開突擊。%1%1任務成功的話，我們將能把敵人殘餘的部隊切割成兩半，把他們各自獨立在北方與西南方。請記住:奪下這個目標，對阿爾蒂斯的政權來說會是一次重重的打擊，並且有可能會提前讓戰爭結束。</Chinese>
-            <Chinesesimp>在自由独立同盟的帮助下，我们成功的夺得了主机场。%1%1我们已经在整个入侵行动中取得重大的优势，但我们不能让AAF有喘息的机会。此外，由于广协退守到北部半岛，这让我们有机会重整队伍，并毫不费力地推进深入到敌军的领土上。%1%1现在，我们准备要对皮尔戈斯发动攻击:该城市是阿尔蒂斯的首都，也是其政权权力的最后象征。然而，该城的旁边有一个AAF最大的基地，它的守备森严。我们将会发动协同攻击，同时对基地与首都展开突击。%1%1任务成功的话，我们将能把敌人残余的部队切割成两半，把他们各自独立在北方与西南方。请记住:夺下这个目标，对阿尔蒂斯的政权来说会是一次沉重打击，并且有可能会让冲突更快结束。</Chinesesimp>
+            <Chinesesimp>在FIA的帮助下，我们成功的夺得了主机场。%1%1我们已经在整个入侵行动中取得重大的优势，但我们不能让AAF有喘息的机会。此外，由于广协退守到北部半岛，这让我们有机会重整队伍，并毫不费力地推进深入到敌军的领土上。%1%1现在，我们准备要对皮尔戈斯发动攻击:该城市是阿尔蒂斯的首都，也是其政权权力的最后象征。然而，该城的旁边有一个AAF最大的基地，它的守备森严。我们将会发动协同攻击，同时对基地与首都展开突击。%1%1任务成功的话，我们将能把敌人残余的部队切割成两半，把他们各自独立在北方与西南方。请记住:夺下这个目标，对阿尔蒂斯的政权来说会是一次沉重打击，并且有可能会让冲突更快结束。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m02_briefing_signal">
             <Original>%3Nomad-2%2 - You%1%3Bravo-2-3%2 - Your team%1Crossroads - Head Quarters%1%4Serpent%2 - Convoy%1Charlie-2-3 - Support Infantry</Original>
@@ -1708,7 +1708,7 @@
             <Key ID="str_a3_c_m02_130_visualontank_ker_1">
               <Original>Copy that. But what about the FIA? Over.</Original>
               <Chinese>收到。但我們要如何跟自由獨立同盟交代?完畢。</Chinese>
-              <Chinesesimp>收到。但我们要如何跟自由独立同盟交代?完毕。</Chinesesimp>
+              <Chinesesimp>收到。但我们要如何跟FIA交代?完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x10_pyrgosBombardmentAgain" audioFilePath="\a3\dubbing_f_epc\c_m02" dialogName="x10_pyrgosBombardmentAgain" dubbingLanguage="english" namePrefix="c_m02_x10_pyrgosbombardmentagain" note="" participants="EPC I Nikos;EPC B Player;" situation="kerry chooses to use artillery strike to neutralize the tank, nikos and the fia are not happy about it">
@@ -1914,7 +1914,7 @@
             <Key ID="str_a3_c_m02_65_anunexpectedcallgroup_ker_0">
               <Original>Sir, we've got an FIA report that our fire support is targeting Pyrgos.</Original>
               <Chinese>長官，皮爾戈斯向我報告說我們的火炮正在轟炸皮爾戈斯。</Chinese>
-              <Chinesesimp>长官，自由独立同盟向我报告说我们的火炮正在炮击皮尔戈斯。</Chinesesimp>
+              <Chinesesimp>长官，FIA向我报告说我们的火炮正在炮击皮尔戈斯。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_65_anunexpectedcallgroup_ker_1">
               <Original>There's been a mistake - our guns are shelling the city - ordnance is hitting civilian areas.</Original>
@@ -3730,12 +3730,12 @@
             <Key ID="str_a3_c_ea_43_radiobroadcast2_rad_2">
               <Original>Panagopoulos, a former merchant, had strong ties with the FIA during the recent flashpoint.</Original>
               <Chinese>帕纳戈普洛斯，一個前商人，在前陣子的戰爭期間曾緊密協助過自由獨立同盟。</Chinese>
-              <Chinesesimp>帕纳戈普洛斯，一个前商人，在前阵子的战争期间曾紧密协助过自由独立同盟。</Chinesesimp>
+              <Chinesesimp>帕纳戈普洛斯，一个前商人，在前阵子的战争期间曾紧密协助过FIA。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_ea_43_radiobroadcast2_rad_3">
               <Original>The capitulation of the AAF to NATO forces opened up a new wave of negotiation between the FIA and the government in Pyrgos.</Original>
               <Chinese>在阿爾蒂斯武裝力量向北約投降之後，自由獨立同盟就立即開始與皮爾戈斯的政府進行協商。</Chinese>
-              <Chinesesimp>在AAF向北约投降之后，自由独立同盟就立即开始与皮尔戈斯的政府进行协商。</Chinesesimp>
+              <Chinesesimp>在AAF向北约投降之后，FIA就立即开始与皮尔戈斯的政府进行协商。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_ea_43_radiobroadcast2_rad_4">
               <Original>In recent weeks, Panagopoulos has established himself as a skillful diplomat, and is a central figure in the post-conflict reconstruction.</Original>
@@ -3762,7 +3762,7 @@
             <Key ID="str_a3_c_ea_40_chattodestination_jou_2">
               <Original>It is but, c'mon, I'd like to know what he's actually done for the FIA.</Original>
               <Chinese>是這樣沒錯，不過我想問的是，他真正為自由獨立同盟做的工作是什麼。</Chinese>
-              <Chinesesimp>是这样没错，不过我想问的是，他真正为自由独立同盟做的工作是什么。</Chinesesimp>
+              <Chinesesimp>是这样没错，不过我想问的是，他真正为FIA做的工作是什么。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_ea_40_chattodestination_ker_0">
               <Original>Sure. I thought that was a public knowledge.</Original>
@@ -3986,7 +3986,7 @@
           <Key ID="STR_A3_C_EA_briefingSituation">
             <Original>Six weeks have passed since the AAF's capitulation.&lt;br /&gt;&lt;br /&gt;The FIA, under the leadership of Nikos Panagopoulos, have transitioned from a military opposition to a political body and, alongside our forces, are working hard to restore their homeland. Although it will take time for this country to recover from war, the new government has the confidence of the people of Altis.&lt;br /&gt;&lt;br /&gt;However, NATO's invasion - albeit swift and, ultimately, successful - has stirred a new round of debates over the funding of military forces in this region. The conclusion was clear: there is no way NATO can maintain their position here while tensions in the pacific region rise. The decommissioning will continue and NATO will abandon this region.</Original>
             <Chinese>在阿爾蒂斯武裝力量投降後已經過了六個星期。&lt;br/&gt;&lt;br/&gt;自由獨立同盟在尼科斯·帕纳戈普洛斯的帶領下，從反抗軍轉變為政治團體，與北約一同努力來重建他們的家園。雖然他們還要好一段時間才能走出戰爭的陰霾，不過新政府是很受阿爾蒂斯人民愛戴的。&lt;br/&gt;&lt;br/&gt;而藉由北約的入侵，並迅速的獲得最後的勝利-這讓原本要撤軍的這區，又開始新一次的辯論，討論是否要投注更多的資金在這區域的防守。但討論的結果很明確:北約已經沒法在這保持更多的兵力了，因為他們還要應付太平洋日漸增溫的緊張局勢。撤軍的計劃還是繼續執行，北約將會放棄這塊區域。</Chinese>
-            <Chinesesimp>在AAF投降后已经过了六个星期。&lt;br/&gt;&lt;br/&gt;自由独立同盟在尼科斯·帕纳戈普洛斯的带领下，从游击队转型为政治团体，与北约一同努力来重建他们的家园。虽然他们还要好一段时间才能走出战争的阴霾，不过新政府是很受阿尔蒂斯人民爱戴的。&lt;br/&gt;&lt;br/&gt;虽然北约此次行动非常顺利，并且获得了最后的胜利-但还是激起了该区域军费预算问题的讨论。结论很明确:北约已经没法在这保持更多的兵力了，因为他们还要应付太平洋日渐增温的紧张局势。撤军的计划还是继续执行，北约将会放弃这块区域。</Chinesesimp>
+            <Chinesesimp>在AAF投降后已经过了六个星期。&lt;br/&gt;&lt;br/&gt;FIA在尼科斯·帕纳戈普洛斯的带领下，从游击队转型为政治团体，与北约一同努力来重建他们的家园。虽然他们还要好一段时间才能走出战争的阴霾，不过新政府是很受阿尔蒂斯人民爱戴的。&lt;br/&gt;&lt;br/&gt;虽然北约此次行动非常顺利，并且获得了最后的胜利-但还是激起了该区域军费预算问题的讨论。结论很明确:北约已经没法在这保持更多的兵力了，因为他们还要应付太平洋日渐增温的紧张局势。撤军的计划还是继续执行，北约将会放弃这块区域。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_C_EA_debriefingCarBroken">
             <Original>The Car Was Destroyed</Original>
@@ -4118,7 +4118,7 @@
             <Key ID="str_a3_c_eb_40_fia_gua_1">
               <Original>Hello, Kerry? I know you! I'm from the FIA, group East. Can you help us?</Original>
               <Chinese>哈囉，克里?我知道你!我是自由獨立同盟的一員，隸屬於東面支部。你能幫助我們嗎?</Chinese>
-              <Chinesesimp>哈啰，克里?我知道你!我是自由独立同盟的一员，隶属于东支部。你能帮助我们吗?</Chinesesimp>
+              <Chinesesimp>哈啰，克里?我知道你!我是FIA的一员，隶属于东支部。你能帮助我们吗?</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_eb_40_fia_gua_2">
               <Original>We're in the middle of the swamp. CSAT forces are in close proximity, but the entire area is mined - we're stuck here!</Original>
@@ -4342,12 +4342,12 @@
           <Key ID="STR_A3_Campaign_C_EB_BIS_tskJoinFIA_desc">
             <Original>Join a small group of %2FIA remnants%1. As they're trapped in a minefield, a mine detector - or MRAP - will be vital instruments to get there and back in one piece. Try to find some or try your luck.</Original>
             <Chinese>救援一小隊%2殘餘的自由獨立同盟部隊%1。他們誤入了地雷區，一個地雷探測器-或是一臺防地雷反伏擊車-皆可以安全的帶他們離開那裡。要不你也可以試試自己的運氣。</Chinese>
-            <Chinesesimp>救援一小队%2残余的自由独立同盟部队%1。他们误入了地雷区，一个地雷探测器-或是一台防地雷反伏击车-皆可以安全的带他们离开那里。要不你也可以试试自己的运气。</Chinesesimp>
+            <Chinesesimp>救援一小队%2残余的FIA部队%1。他们误入了地雷区，一个地雷探测器-或是一台防地雷反伏击车-皆可以安全的带他们离开那里。要不你也可以试试自己的运气。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Campaign_C_EB_BIS_tskJoinFIA_title">
             <Original>Join FIA (optional)</Original>
             <Chinese>救援自由獨立同盟(支線任務)</Chinese>
-            <Chinesesimp>救援自由独立同盟(支线任务)</Chinesesimp>
+            <Chinesesimp>救援FIA(支线任务)</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Campaign_C_EB_BIS_tskJoinFIA_WP">
             <Original>JOIN</Original>
@@ -4407,7 +4407,7 @@
           <Key ID="STR_A3_Campaign_C_EB_Marker_FIA">
             <Original>FIA remnants</Original>
             <Chinese>殘餘的自由獨立同盟部隊</Chinese>
-            <Chinesesimp>自由独立同盟幸存者</Chinesesimp>
+            <Chinesesimp>FIA幸存者</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Campaign_C_EB_Marker_Heliport">
             <Original>Heliport</Original>
@@ -4869,7 +4869,7 @@
           <Key ID="STR_A3_Showcase_FixedWings_BIS_tskAAF_title">
             <Original>Support FIA (optional) </Original>
             <Chinese>支援自由獨立同盟(支援任務)</Chinese>
-            <Chinesesimp>支援自由独立同盟(支援任务)</Chinesesimp>
+            <Chinesesimp>支援FIA(支援任务)</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_BIS_tskAAF_WP">
             <Original>CAS</Original>
@@ -5201,7 +5201,7 @@
       <Key ID="STR_A3_achievements_guerilla_warfare1">
         <Original>Episode Adapt completed. You have gained the trust of the FIA movement and prepared the way for a NATO invasion.</Original>
         <Chinese>適應章節完成。你贏得了FIA的信任並為北約的入侵做好了準備。</Chinese>
-        <Chinesesimp>适应章节完成。你赢得了自由独立同盟的信任并为北约的入侵做好了准备。</Chinesesimp>
+        <Chinesesimp>适应章节完成。你赢得了FIA的信任并为北约的入侵做好了准备。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_achievements_question_loyalty0">
         <Original>Question of Loyalty</Original>

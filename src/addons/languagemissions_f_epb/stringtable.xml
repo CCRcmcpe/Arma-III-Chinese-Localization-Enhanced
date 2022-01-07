@@ -1698,7 +1698,7 @@
             <Key ID="str_a3_b_hub_010_b_hub_briefing_sta_2">
               <Original>Together with my brothers here today, we form one cell of the FIA.</Original>
               <Chinese>再加上今天在現場的所有弟兄，我們是自由獨立同盟的其中一個支部。</Chinese>
-              <Chinesesimp>再加上今天在现场的所有兄弟，我们是自由独立同盟的一个支部。</Chinesesimp>
+              <Chinesesimp>再加上今天在现场的所有兄弟，我们是FIA的一个支部。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_hub_010_b_hub_briefing_sta_3">
               <Original>We reject the false regime in our nation. We fight to restore our freedom.</Original>
@@ -2011,7 +2011,7 @@
             <Key ID="str_a3_b_in_i01_supplies_jam_2">
               <Original>Listen carefully. The FIA just took a massive beating.</Original>
               <Chinese>仔細聽好了。自由獨立同盟才剛遭受嚴重的打擊。</Chinese>
-              <Chinesesimp>仔细听好了。自由独立同盟才刚遭受到严重打击。</Chinesesimp>
+              <Chinesesimp>仔细听好了。FIA才刚遭受到严重打击。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_in_i01_supplies_ker_1">
               <Original>I could really use some help, I got nothing here. Over.</Original>
@@ -4060,17 +4060,17 @@
           <Key ID="str_a3_campaign_b_m03_debrief03_desc">
             <Original>You helped Miller eliminate his target. However, the FIA still remain very low on fuel.</Original>
             <Chinese>你幫助了米勒去殲滅掉他的目標。然而，FIA還是很缺乏燃油補給。</Chinese>
-            <Chinesesimp>你帮助了米勒去歼灭他的目标。然而，自由独立同盟还是很缺乏燃油补给。</Chinesesimp>
+            <Chinesesimp>你帮助了米勒去歼灭他的目标。然而，FIA还是很缺乏燃油补给。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m03_debrief02_desc">
             <Original>You've decided that the FIA's need for the fuel were more important than Miller's.</Original>
             <Chinese>你已經決定了，那就是自由獨立同盟的需求更勝於米勒的任務。</Chinese>
-            <Chinesesimp>你已经决定了，那就是自由独立同盟的需求更胜于米勒的任务。</Chinesesimp>
+            <Chinesesimp>你已经决定了，那就是FIA的需求更胜于米勒的任务。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m03_debrief01_desc">
             <Original>FIA received the much needed fuel supplies. You've also eliminated a very important target all on your own. All in all, you did very well today.</Original>
             <Chinese>自由獨立同盟收到了久候多時的燃油補給。而且你也靠自己殲滅掉了高價值目標。你今天幹的真棒。</Chinese>
-            <Chinesesimp>自由独立同盟收到了久候多时的燃油补给。而且你也靠自己歼灭掉了高价值目标。你今天干的真棒。</Chinesesimp>
+            <Chinesesimp>FIA收到了久候多时的燃油补给。而且你也靠自己歼灭掉了高价值目标。你今天干的真棒。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m03_brief_situation">
             <Original>AAF and CSAT forces have stepped up their operations against us. It looks like the start of a significant, coordinated and ongoing effort. We need to be more mobile, able to move at a moment's notice. For that, we need fuel for our vehicles.%1However, as part of the recent offensive, several of our civilian supply trucks have been siezed. Several of them - including one of our fuel trucks - are being held at a small %3industrial complex%2 south of the %4Kavala highway%2, the main road from the airport to the old capital.%1We're asking Corporal Kerry here to lead a small team south of the road and raid the %3complex%2. We'll stash the vehicle in a %5safehouse%2 nearby until it's safe to move it again.</Original>
@@ -4561,7 +4561,7 @@
           <Key ID="STR_A3_B_m03_overview">
             <Original>The FIA move in to retrieve a seized fuel truck.</Original>
             <Chinese>自由獨立同盟前往取回他們被拿走的油料車。</Chinese>
-            <Chinesesimp>自由独立同盟前去夺回他们被抢走的油料车。</Chinesesimp>
+            <Chinesesimp>FIA前去夺回他们被抢走的油料车。</Chinesesimp>
           </Key>
         </Container>
         <Container name="B_m05">
@@ -5038,7 +5038,7 @@
             <Key ID="str_a3_b_m05_03_contact_arrival_ker_0">
               <Original>Orestes? Corporal Kerry, I'm with the FIA.</Original>
               <Chinese>奧雷斯泰斯?我是下士克里，我是FIA的人。</Chinese>
-              <Chinesesimp>奥雷斯泰斯?我是克里下士，我是自由独立同盟的人。</Chinesesimp>
+              <Chinesesimp>奥雷斯泰斯?我是克里下士，我是FIA的人。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m05_03_contact_arrival_ker_1">
               <Original>It's okay, we can fall back to the forest - we'll be gone before they get here.</Original>
@@ -5591,7 +5591,7 @@
             <Key ID="str_a3_b_m06_06_plan_b_briefing_ker_1">
               <Original>What, are you serious? What makes you think the FIA will accept that?</Original>
               <Chinese>什麼，你是認真的嗎?你是憑哪一點認為自由獨立同盟會接受這件事?</Chinese>
-              <Chinesesimp>什么，你是认真的吗?你是凭哪一点认为自由独立同盟会接受这件事?</Chinesesimp>
+              <Chinesesimp>什么，你是认真的吗?你是凭哪一点认为FIA会接受这件事?</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m06_06_plan_b_briefing_mil_0">
               <Original>This is Falcon, come in. Over.</Original>
@@ -6037,7 +6037,7 @@
             <Key ID="str_a3_b_out2_65_stop_attack_ker_1">
               <Original>Look, the FIA - the local resistance - they're assaulting that airfield, you're firing on friendly forces right now.</Original>
               <Chinese>聽著，自由獨立同盟-也就是當地的反抗軍-他們正在突擊機場，你們正在向自己人開火。</Chinese>
-              <Chinesesimp>听着，自由独立同盟-也就是当地的反抗组织-他们正在突击机场，你们正在向自己人开火。</Chinesesimp>
+              <Chinesesimp>听着，FIA-也就是当地的反抗组织-他们正在突击机场，你们正在向自己人开火。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_out2_65_stop_attack_lar_0">
               <Original>Jesus Christ! Who the fuck are you guys?</Original>
@@ -6396,7 +6396,7 @@
           <Key ID="str_a3_b_in2_bis_plant_desc">
             <Original>%1The RV%2 was compromised. Divert and meet the FIA cell at %3the abandoned powerplant%4.</Original>
             <Chinese>%1會合點%2被暴露了。開車前往與自由獨立同盟在%3廢棄的發電廠%4碰面。</Chinese>
-            <Chinesesimp>%1会合点%2暴露了。开车去与自由独立同盟在%3废弃的发电厂%4碰面。</Chinesesimp>
+            <Chinesesimp>%1会合点%2暴露了。开车去与FIA在%3废弃的发电厂%4碰面。</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_in2_bis_newrv_title">
             <Original>Drive to the New RV</Original>
@@ -7595,7 +7595,7 @@
         <Key ID="str_a3_cfgorbat.fsmbis_b_i_12">
           <Original>One of the individual cells of the FIA, specifically focused on the northern-most regions of Altis.</Original>
           <Chinese>自由獨立同盟旗下的一個支部，絕大部分的兵力都集中在阿爾蒂斯北面的領土上。</Chinese>
-          <Chinesesimp>自由独立同盟旗下的一个支部，绝大部分的兵力都集中在阿尔蒂斯北部的领土上。</Chinesesimp>
+          <Chinesesimp>FIA旗下的一个支部，绝大部分的兵力都集中在阿尔蒂斯北部的领土上。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgorbat.fsmbis_b_i_10">
           <Original>Group North</Original>

@@ -2798,12 +2798,12 @@
           <Key ID="STR_A3_MP_GS_COOP_01_Briefing_Situation_text">
             <Original>Labelled an insurgency by the local government, the FIA have reveled in a string of victories against the AAF, seizing major ground in the process. The AAF have called upon CSAT for assistance. In response, elements of one of CSAT's elite Airborne Battalions have been deployed to the region to launch counter-insurgency operations against the FIA.</Original>
             <Chinese>當反叛軍自由獨立同盟正沉浸在對阿爾蒂斯武裝力量的勝利時。阿爾蒂斯武裝力量轉頭向廣協同盟請求協助。當作回應，廣協同盟的菁英空降營被部屬到該區，開始對自由獨立同盟執行反叛亂行動。</Chinese>
-            <Chinesesimp>正当自由独立同盟沉浸在对AAF的胜利中时。AAF向广协请求协助。作为回应，广协的精锐空降营被部属到该区，开始对自由独立同盟执行反叛乱行动。</Chinesesimp>
+            <Chinesesimp>正当FIA沉浸在对AAF的胜利中时。AAF向广协请求协助。作为回应，广协的精锐空降营被部属到该区，开始对FIA执行反叛乱行动。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_COOP_01_Overview_text">
             <Original>Members of an elite CSAT Airborne Battalion launch an offensive against the FIA.</Original>
             <Chinese>廣協同盟的菁英空降營開始對自由獨立同盟發動攻勢。</Chinese>
-            <Chinesesimp>广协的精锐空降营开始对自由独立同盟发动攻势。</Chinesesimp>
+            <Chinesesimp>广协的精锐空降营开始对FIA发动攻势。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_COOP_01_Load_name">
             <Original>Rodopoli</Original>
@@ -2855,7 +2855,7 @@
           <Key ID="STR_A3_MP_GS_COOP_02_Briefing_Situation_text">
             <Original>Months after Task Force Aegis went dark, the 111th Division have successfully commenced their invasion of Stratis with the capture of the Stratis Air Base. However, the rest of the island remains under AAF control, with defenses strategically positioned at all major installations. As a result, the 111th are coming at them from the north-west, supported by the FIA from the south, with the intention of catching the AAF off-guard.</Original>
             <Chinese>在”神盾"特遣隊失聯後一個月，第111師成功登陸了斯特拉蒂斯島並控制住上面的空軍基地。然而島上的其餘部分還是被阿爾蒂斯武裝力量控制住，包括主要的設施都被嚴密的保護著。為此，第111師打算從西北方發動攻勢，並在南方自由獨立同盟的幫助之下，希望能打的阿爾蒂斯武裝力量一個措手不及。</Chinese>
-            <Chinesesimp>在"宙斯盾"特遣队失联后一个月，第111师成功在斯特拉蒂斯岛实施登陆并控制了岛上的空军基地。然而岛上的其余部分还在AAF手中，其防御主要围绕各重点设施展开。为此，第111师打算从西北方发动攻势，并在南方自由独立同盟的帮助之下，希望能给AAF一个措手不及。</Chinesesimp>
+            <Chinesesimp>在"宙斯盾"特遣队失联后一个月，第111师成功在斯特拉蒂斯岛实施登陆并控制了岛上的空军基地。然而岛上的其余部分还在AAF手中，其防御主要围绕各重点设施展开。为此，第111师打算从西北方发动攻势，并在南方FIA的帮助之下，希望能给AAF一个措手不及。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_COOP_02_Overview_text">
             <Original>The 111th Division launch their invasion of Stratis.</Original>

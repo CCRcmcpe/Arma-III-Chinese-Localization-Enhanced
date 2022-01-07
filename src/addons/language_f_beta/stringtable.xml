@@ -1381,7 +1381,7 @@
           <Key ID="str_a3_ghillie_suit_guerilla">
             <Original>Ghillie Suit [FIA]</Original>
             <Chinese>吉利服[自由獨立同盟]</Chinese>
-            <Chinesesimp>吉利服[自由独立同盟]</Chinesesimp>
+            <Chinesesimp>吉利服[FIA]</Chinesesimp>
           </Key>
           <Key ID="str_a3_pilot_coveralls">
             <Original>Pilot Coveralls [NATO]</Original>

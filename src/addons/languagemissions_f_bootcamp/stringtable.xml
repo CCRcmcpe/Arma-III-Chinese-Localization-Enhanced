@@ -315,7 +315,7 @@
           <Key ID="str_a3_boot_m05_briefing_situation_text">
             <Original>Just under an hour ago, NATO troops were forced to engage members of the FIA in the vicinity of %1Kavirida%2. It has become clear that they were responsible for the attack on the convoy.%3Their motive is now apparent - the situation at %4the MoD%5 rapidly deteriorated, succeeded by the FIA conducting an all-out assault on %6Kavala%7. Details are still coming in, but we are certain that the FIA's actions are a direct consequence of these events. It appears to have convinced the FIA that the sit-down at %8the MoD%9 had not been conducted in good faith.%10The investigation is still ongoing.</Original>
             <Chinese>就在一小時前，北約部隊被迫與自由獨立同盟在%1卡維里達%2附近交戰。現在狀況就清楚了，他們得為車隊的事情負責。%3他們的舉動導致在%4國防部%5的會談迅速的惡化，現在自由獨立同盟開始對%6卡瓦拉%7發動全面的突擊了。細部的情報仍在彙整中，但有一件事是很清楚的，那就是這些事都是自由獨立同盟做的。自由獨立同盟很明顯就沒有誠意好好的坐下來會談。%10調查仍在持續當中。</Chinese>
-            <Chinesesimp>就在一小时前，北约部队被迫与自由独立同盟在%1卡维里达%2附近交战。现在已经清楚他们得为车队的事情负责。%3他们的举动导致在%4国防部%5的会谈迅速恶化，紧接着自由独立同盟对%6卡瓦拉%7发动了孤注一掷的突击。现在仍然在不断接到新的情报细节，但有一件事是很清楚的，那就是这些事都是自由独立同盟做的。自由独立同盟很明显就没有好好的坐下来会谈的诚意。%10调查仍在持续当中。</Chinesesimp>
+            <Chinesesimp>就在一小时前，北约部队被迫与FIA在%1卡维里达%2附近交战。现在已经清楚他们得为车队的事情负责。%3他们的举动导致在%4国防部%5的会谈迅速恶化，紧接着FIA对%6卡瓦拉%7发动了孤注一掷的突击。现在仍然在不断接到新的情报细节，但有一件事是很清楚的，那就是这些事都是FIA做的。FIA很明显就没有好好的坐下来会谈的诚意。%10调查仍在持续当中。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m05_briefing_signal_text">
             <Original>&lt;marker name = 'BIS_start'&gt;Alpha 1-2&lt;/marker&gt; - Your callsign.&lt;br/&gt;&lt;marker name = 'BIS_start'&gt;Alpha 1-1&lt;/marker&gt; - Staff Sergeant Adams.&lt;br/&gt;&lt;marker name = 'BIS_reinf'&gt;Bravo 2-3&lt;/marker&gt; - Inbound reinforcements.&lt;br/&gt;Broadway - Colonel MacKinnon.&lt;br/&gt;Phalanx - AAF Command.</Original>
@@ -522,7 +522,7 @@
             <Key ID="str_a3_boot_m05_45_aftermath_lac_7">
               <Original>I've got Greenbacks abusing FIA prisoners at the MoD, sir. Please advise, over.</Original>
               <Chinese>我這裡發現綠軍正在國防部凌虐自由獨立同盟的囚犯，長官。請指示，完畢。</Chinese>
-              <Chinesesimp>我发现绿军正在国防部虐待自由独立同盟的囚犯，长官。请指示，完毕。</Chinesesimp>
+              <Chinesesimp>我发现绿军正在国防部虐待FIA的囚犯，长官。请指示，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_45_aftermath_ihq_2">
               <Original>Don't you take another step. You are out of line, American.</Original>
@@ -617,7 +617,7 @@
             <Key ID="str_a3_boot_m05_20_fire_bhq_2">
               <Original>Phalanx is reporting that the FIA threw themselves at the cordon.</Original>
               <Chinese>"方陣"回報說自由獨立同盟想要狗急跳墻。</Chinese>
-              <Chinesesimp>"密集阵"报告称自由独立同盟想要狗急跳墙。</Chinesesimp>
+              <Chinesesimp>"密集阵"报告称FIA想要狗急跳墙。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_20_fire_bhq_3">
               <Original>I want you to take control of the situation at the MoD.</Original>
@@ -663,7 +663,7 @@
             <Key ID="str_a3_boot_m05_05_situation_ada_0">
               <Original>Multiple KIA. AAF and FIA. The survivor didn't make it.</Original>
               <Chinese>多名傷亡。阿爾蒂斯武裝力量和自由獨立同盟。而倖存者也沒撐過去。</Chinese>
-              <Chinesesimp>多人阵亡。AAF和自由独立同盟都有。而幸存者也没撑下来。</Chinesesimp>
+              <Chinesesimp>多人阵亡。AAF和FIA都有。而幸存者也没撑下来。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_05_situation_bsb_0">
               <Original>What's the situation?</Original>
@@ -708,7 +708,7 @@
           <Key ID="str_a3_boot_m04_overview">
             <Original>The AAF and the FIA agree to a dialogue in the former capital, Kavala.</Original>
             <Chinese>阿爾蒂斯武裝力量與自由獨立同盟同意在前首都卡瓦拉進行對話。</Chinese>
-            <Chinesesimp>AAF与自由独立同盟同意在前首都卡瓦拉进行对话。</Chinesesimp>
+            <Chinesesimp>AAF与FIA同意在前首都卡瓦拉进行对话。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_mission_name">
             <Original>Rising Tensions</Original>
@@ -728,17 +728,17 @@
           <Key ID="str_a3_boot_m04_debriefing_boot_m05_2_description">
             <Original>The convoy was secured, but little remains. Although you broke the Rules of Engagement, it was clear that the FIA had hostile intentions. Let's keep your slip up to ourselves.</Original>
             <Chinese>車隊已經肅清完成了。儘管你打破了交戰守則，但很明顯的FIA在當時是我們的敵人。讓我們把自己的神經給繃緊點。</Chinese>
-            <Chinesesimp>车队已经安全了，但也已经不剩什么了。尽管你打破了交战守则，但很明显的自由独立同盟在当时是我们的敌人。让我们把自己的神经给绷紧点。</Chinesesimp>
+            <Chinesesimp>车队已经安全了，但也已经不剩什么了。尽管你打破了交战守则，但很明显的FIA在当时是我们的敌人。让我们把自己的神经给绷紧点。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_debriefing_boot_m05_1_description">
             <Original>The convoy was secured, but little remains. NATO peacekeeping forces were forced to engage the FIA responsible for its demise.</Original>
             <Chinese>車隊已經肅清完成了。北約維和部隊被迫與自由獨立同盟展開交戰。</Chinese>
-            <Chinesesimp>车队已经安全了，但也已经不剩什么了。北约维和部队被迫与自由独立同盟展开交战。</Chinesesimp>
+            <Chinesesimp>车队已经安全了，但也已经不剩什么了。北约维和部队被迫与FIA展开交战。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_briefing_situation_text">
             <Original>Last week, an AAF patrol responded with lethal force to aggression from locals %1north of Kore%2, reportedly in self-defense. One casualty survived but later succumbed to their wounds, bringing the official death toll to 6.%3Peacekeeping forces on scene confirmed the reported timeline, but the justification for the patrol's use of force remains questionable.%4Following the incident, the government reached out to the FIA for a sit-down %5in Kavala%6, as a gesture of goodwill. As such, security has been ramped up, with peacekeeping forces watching over the proceedings.%7However, %8an AAF security convoy%9 en route from %10the AAC airfield%11 failed to pass %12an AAF checkpoint%13 east of %14Kavala%15 at its scheduled arrival time, nearly 20 minutes ago, raising fears that the situation is likely to escalate. It has failed to respond to hails from AAF Command.</Original>
             <Chinese>在上週，一支阿爾蒂斯武裝力量巡邏隊侵入了%1科雷北邊%2的小鎮，並對當地人使用致命武力，後來聲稱是自衛之舉。本來有一個倖存者，但最後他也傷重不治了，讓死亡人數攀升到了六人。%3儘管維和部隊在第一時間趕到了現場，並證實了以上的回報，但巡邏隊使用武力的正當性仍然備受懷疑。%4事件過後，政府希望與自由獨立同盟在%5卡瓦拉%6坐下來好好談談，當作一種善意的舉動。因為這樣，這附近的安保等級直線往上升，而在整個過程中，維和部隊也會在旁邊觀看。%7然而現在，%8一支阿爾蒂斯武裝力量的安保車隊%9本該從%10阿爾蒂斯空中俱樂部機場%11前往這裡，並經過%14卡瓦拉%15東方的%12阿爾蒂斯武裝力量檢查哨%13，但他們已經遲到了近20分鐘，大家擔心緊張的局勢會在升級。我們必須在關係破裂前找出車隊的行蹤。</Chinese>
-            <Chinesesimp>上周，一支AAF巡逻队侵入了%1科雷北边%2的小镇，并对当地人使用致命武器，后来声称是自卫之举。本来有一个幸存者，但最后他也伤重不治了，让死亡人数攀升到了六人。%3尽管维和部队在第一时间赶到了现场，并证实了以上的回报，但巡逻队使用武力的正当性仍然备受怀疑。%4事件过后，政府希望与自由独立同盟在%5卡瓦拉%6坐下来好好谈谈，作为释放善意的举动。因此，附近的安保等级直线上升，而在整个过程中，维和部队也会在旁边监督。%7然而现在，%8一支AAF的安保车队%9本该从%10阿尔蒂斯空中俱乐部机场%11前往这里，并经过%14卡瓦拉%15东方的%12AAF检查哨%13，但他们已经迟到了近20分钟，大家担心紧张的局势会再升级。我们必须在关系破裂前找出车队的行踪。</Chinesesimp>
+            <Chinesesimp>上周，一支AAF巡逻队侵入了%1科雷北边%2的小镇，并对当地人使用致命武器，后来声称是自卫之举。本来有一个幸存者，但最后他也伤重不治了，让死亡人数攀升到了六人。%3尽管维和部队在第一时间赶到了现场，并证实了以上的回报，但巡逻队使用武力的正当性仍然备受怀疑。%4事件过后，政府希望与FIA在%5卡瓦拉%6坐下来好好谈谈，作为释放善意的举动。因此，附近的安保等级直线上升，而在整个过程中，维和部队也会在旁边监督。%7然而现在，%8一支AAF的安保车队%9本该从%10阿尔蒂斯空中俱乐部机场%11前往这里，并经过%14卡瓦拉%15东方的%12AAF检查哨%13，但他们已经迟到了近20分钟，大家担心紧张的局势会再升级。我们必须在关系破裂前找出车队的行踪。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_briefing_signal_text">
             <Original>&lt;marker name = 'BIS_lacey'&gt;Alpha 1-2&lt;/marker&gt; - Your callsign.&lt;br/&gt;&lt;marker name = 'BIS_adams'&gt;Alpha 1-1&lt;/marker&gt; - Staff Sergeant Adams.&lt;br/&gt;Broadway - Colonel MacKinnon.&lt;br/&gt;Phalanx - AAF Command.</Original>
@@ -850,7 +850,7 @@
             <Key ID="str_a3_boot_m04_d01_situation_ada_1">
               <Original>The AAF and FIA consenting to a sit-down within the country's Ministry of Defense.</Original>
               <Chinese>阿爾蒂斯武裝力量與自由獨立同盟都同意在國防部內坐下來好好談談。</Chinese>
-              <Chinesesimp>AAF与自由独立同盟都同意在国防部内坐下来好好谈谈。</Chinesesimp>
+              <Chinesesimp>AAF与FIA都同意在国防部内坐下来好好谈谈。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_d01_situation_lac_0">
               <Original>MacKinnon didn't seem to be too happy.</Original>
@@ -896,7 +896,7 @@
             <Key ID="str_a3_boot_m04_85_all_clear_ada_2">
               <Original>Broadway, 1-1. Be advised, we've made contact with FIA forces at the convoy's location. All contacts neutralized. Over.</Original>
               <Chinese>"百老匯"，"1-1"。請注意，我們已經與一小支自由獨立同盟的部隊在車隊附近交火。所有敵人皆已殲滅。完畢。</Chinese>
-              <Chinesesimp>"百老汇"，"1-1"呼叫。请注意，我们已经与一小支自由独立同盟部队在车队附近交火。所有敌人都已歼灭。完毕。</Chinesesimp>
+              <Chinesesimp>"百老汇"，"1-1"呼叫。请注意，我们已经与一小支FIA部队在车队附近交火。所有敌人都已歼灭。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_85_all_clear_lac_0">
               <Original>Clear.</Original>
@@ -1042,7 +1042,7 @@
             <Key ID="str_a3_boot_m04_15_roe_bhq_0">
               <Original>And, Staff Sergeant - in all likelihood - you're going to have FIA guerrillas waiting for you down there.</Original>
               <Chinese>還有，上士-有可能的話-你們可能會在底下遇到自由獨立同盟的游擊隊。</Chinese>
-              <Chinesesimp>还有，上士-很有可能-当地可能会有自由独立同盟游击队在等着你。</Chinesesimp>
+              <Chinesesimp>还有，上士-很有可能-当地可能会有FIA游击队在等着你。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_15_roe_bhq_1">
               <Original>Stick to the ROE. Do not fire unless fired upon. However, that does not mean you are to roll over and take it. Confirm, over.</Original>

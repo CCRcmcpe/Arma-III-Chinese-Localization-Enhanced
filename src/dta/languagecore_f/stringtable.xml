@@ -1351,7 +1351,7 @@
         <Key ID="str_a3_cfgmarkers_flag_fia">
           <Original>FIA</Original>
           <Chinese>自由獨立同盟</Chinese>
-          <Chinesesimp>自由独立同盟</Chinesesimp>
+          <Chinesesimp>FIA</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkers_flag_eu">
           <Original>European Union</Original>

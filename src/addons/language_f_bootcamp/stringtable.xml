@@ -2346,12 +2346,12 @@
       <Key ID="str_a3_cfgvehicles_box_fia_support_f0">
         <Original>FIA Equipment Cache</Original>
         <Chinese>自由獨立同盟裝備箱</Chinese>
-        <Chinesesimp>自由独立同盟装备箱</Chinesesimp>
+        <Chinesesimp>FIA装备箱</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_box_fia_wps_f0">
         <Original>FIA Weapon Cache</Original>
         <Chinese>自由獨立同盟武器箱</Chinese>
-        <Chinesesimp>自由独立同盟武器箱</Chinesesimp>
+        <Chinesesimp>FIA武器箱</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_srifle_gm6_camo_f0">
         <Original>GM6 Lynx 12.7 mm (Camo)</Original>
@@ -2445,7 +2445,7 @@
       <Key ID="str_a3_rscdisplaywelcome_boot_parc_list2_title">
         <Original>FIA Updates</Original>
         <Chinese>自由獨立同盟更新</Chinese>
-        <Chinesesimp>自由独立同盟更新</Chinesesimp>
+        <Chinesesimp>FIA更新</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_boot_parc_list2">
         <Original>the guerrilla faction has seen the addition of several support vehicles plus new gear, such as balaclavas and masks.</Original>

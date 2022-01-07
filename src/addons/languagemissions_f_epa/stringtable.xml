@@ -285,7 +285,7 @@
         <Key ID="str_a3_cfgorbat.fsmbis_i_aaf_description">
           <Original>Post civil-war armed forces loyal to the new hard-line Altis government. Limited but growing in strength. Entrenched in a long-standing conflict with FIA guerrillas.</Original>
           <Chinese>在內戰後創立，效忠於阿爾蒂斯新的強硬派政府。實力雖然有限，不過卻在穩定變強當中。現在還在跟自由獨立同盟游擊隊做長期抗戰。</Chinese>
-          <Chinesesimp>在内战后创立，效忠于阿尔蒂斯新的强硬派政府。实力有限但正在稳定加强。现在还在跟自由独立同盟游击队长期作战。</Chinesesimp>
+          <Chinesesimp>在内战后创立，效忠于阿尔蒂斯新的强硬派政府。实力有限但正在稳定加强。现在还在跟FIA游击队长期作战。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgorbat.fsmbis_i_aaf0">
           <Original>Altis Armed Forces</Original>
@@ -494,7 +494,7 @@
         <Key ID="STR_A3_Campaign_Intro_07">
           <Original>The FIA are becoming increasingly desperate, as AAF forces begin to consolidate their position on Altis with the backing of Canton Protocol forces equipment and training.</Original>
           <Chinese>隨著阿爾蒂斯武裝力量的部隊接受了廣東協議部隊的裝備與訓練，其在阿爾蒂斯的地位就越加鞏固，而自由獨立同盟也變得越來越絕望。</Chinese>
-          <Chinesesimp>随着AAF接受了广东协议同盟部队的装备与训练，其在阿尔蒂斯的地位越加巩固，而自由独立同盟也变得越来越绝望。</Chinesesimp>
+          <Chinesesimp>随着AAF接受了广东协议同盟部队的装备与训练，其在阿尔蒂斯的地位越加巩固，而FIA也变得越来越绝望。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Campaign_Intro_08">
           <Original>The fifth anniversary of the Jerusalem Ceasefire again was used as a platform to push the legitimacy of the government in Pygros, with the commander of Altis Armed Forces, Colonel Georgious Akhanteros, bullishly defending the legacy of his military coup.</Original>
@@ -559,7 +559,7 @@
         <Key ID="STR_A3_EPA_Campaign_Intro_03">
           <Original>... The FIA are becoming increasingly desperate ...</Original>
           <Chinese>...而自由獨立同盟也變得越來越絕望...</Chinese>
-          <Chinesesimp>...而自由独立同盟也变得越来越绝望...</Chinesesimp>
+          <Chinesesimp>...而FIA也变得越来越绝望...</Chinesesimp>
         </Key>
         <Key ID="STR_A3_EPA_Campaign_Intro_04">
           <Original>... with the US-led peacekeeping deployment coming to an end of its mandate ...</Original>
@@ -1711,7 +1711,7 @@
             <Key ID="str_a3_a_out_95_situation_mil_4">
               <Original>There's a local guerilla movement there - FIA - the same guys that got themselves killed for us back on Stratis.</Original>
               <Chinese>那邊有游擊隊出沒-自由獨立同盟-就是那個為了我們在斯特拉蒂斯上戰死的同樣一批人。</Chinese>
-              <Chinesesimp>那边有游击队出没-自由独立同盟-就是在斯特拉蒂斯岛上那个为我们战死的人。</Chinesesimp>
+              <Chinesesimp>那边有游击队出没-FIA-就是在斯特拉蒂斯岛上那个为我们战死的人。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_out_95_situation_mil_5">
               <Original>We'll make a quiet entrance and link up with them.</Original>
@@ -3031,7 +3031,7 @@
           <Key ID="str_a3_campaign_a_m04_situation_description">
             <Original>We've struck some fairly significant blows against the AAF. They've been weakened.%1%1We only have a small window of opportunity to exploit that fact, though, before they're reinforced. It's also become clear that we're running short on ammo and supplies. We're beginning to stretch ourselves thin.%1%1Fortunately, an opportunity has presented itself. We've managed to re-establish communication with a contact that has ties to the local guerillas. It's a small cell. Part of a larger network of resistance on the Altis mainland. They call themselves the F-I-A. 'Fee-ah'.%1%1In the wake of the AAF attack, our contact - goes by the name Nikos - set up an ammunition dump somewhere near %4LZ Connor%2. Now he's offering to, well, share it, in a manner of speaking. We've agreed to link up %5just south of here%2.%1%1Meet with him, secure some supplies, and RTB. Be on your guard and good luck.</Original>
             <Chinese>我們已經對阿爾蒂斯武裝力量做出了一些重大的打擊。他們現在已被削弱。%1%1趁他們重新整備好之前，我們有一個機會可以好好利用。相信大家也很清楚，我們的彈藥與物資快要用完了。我們已經捉襟見肘了。%1%1幸運的是，一個機會向我們展開了雙臂。我們已經重新與當地的游擊隊搭上線。他們是個分部。屬於阿爾蒂斯主島上反抗軍的一部分。他們稱呼自己為自由獨立同盟F-I-A。'Fee-ah'。%1%1在阿爾蒂斯武裝力量發動攻擊之後，我們的線人-其名稱為'尼科斯'-設置了一處彈藥庫在%4康納著陸區%2附近。他通過對話說要提供，這個，分享他的資源。我們已經同意與他在%5南方的位置%2碰頭。%1%1跟他碰面，確保物資，然後返回基地。保持警戒，祝好運。</Chinese>
-            <Chinesesimp>我们已经给予AAF一系列重大打击。他们现在已被削弱。%1%1趁他们重新整备好之前，我们有一个机会可以好好利用。相信大家也很清楚，我们的弹药与物资快要用完了。我们已经捉襟见肘了。%1%1幸运的是，一个机会向我们展开了双臂。我们已经重新与当地的游击队搭上线。他们是阿尔蒂斯主岛上反抗军一个分部的下属。他们称呼自己为自由独立同盟F-I-A。'Fee-ah'。%1%1在AAF发动攻击之后，我们的线人-其名为'尼科斯'-在%4康纳着陆区%2附近设置了存储了一些弹药。现在他决定要，这么讲，分享他的资源。我们已经同意与他在%5南方的位置%2碰头。%1%1跟他碰面，确保物资，然后返回基地。保持警戒，祝好运。</Chinesesimp>
+            <Chinesesimp>我们已经给予AAF一系列重大打击。他们现在已被削弱。%1%1趁他们重新整备好之前，我们有一个机会可以好好利用。相信大家也很清楚，我们的弹药与物资快要用完了。我们已经捉襟见肘了。%1%1幸运的是，一个机会向我们展开了双臂。我们已经重新与当地的游击队搭上线。他们是阿尔蒂斯主岛上反抗军一个分部的下属。他们称呼自己为FIAF-I-A。'Fee-ah'。%1%1在AAF发动攻击之后，我们的线人-其名为'尼科斯'-在%4康纳着陆区%2附近设置了存储了一些弹药。现在他决定要，这么讲，分享他的资源。我们已经同意与他在%5南方的位置%2碰头。%1%1跟他碰面，确保物资，然后返回基地。保持警戒，祝好运。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_a_m04_regroup_waypoint">
             <Original>REGROUP</Original>
@@ -3141,7 +3141,7 @@
           <Key ID="str_a3_campaign_a_m04_callsigns_description">
             <Original>%4Alpha%2 - Your squad.%1%5Nikos%2 - Miller's contact in the FIA.%1%3Falcon%2 - Camp Maxwell HQ.%1%3Bravo%2 - Camp Maxwell defence.%1%6Charlie%2 - North-east sector recon.%1%7Delta%2 - North-west sector recon.</Original>
             <Chinese>%4"Alpha"%2-你的小隊。%1%5尼科斯%2-米勒在自由獨立同盟裡的線人。%1%3"獵鷹"%2-麥克斯韋營地指揮部。%1%3"Bravo"%2-防禦麥克斯韋營地。%1%6"Charlie"%2-在東北方進行偵察。%1%7"Delta"%2-在西北方進行偵察。</Chinese>
-            <Chinesesimp>%4"阿尔法"%2-你的班。%1%5尼科斯%2-米勒在自由独立同盟里的线人。%1%3"猎鹰"%2-麦克斯韦营地指挥部。%1%3"布拉沃"%2-防御麦克斯韦营地。%1%6"查理"%2-在东北方进行侦察。%1%7"德尔塔"%2-在西北方进行侦察。</Chinesesimp>
+            <Chinesesimp>%4"阿尔法"%2-你的班。%1%5尼科斯%2-米勒在FIA里的线人。%1%3"猎鹰"%2-麦克斯韦营地指挥部。%1%3"布拉沃"%2-防御麦克斯韦营地。%1%6"查理"%2-在东北方进行侦察。%1%7"德尔塔"%2-在西北方进行侦察。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_a_m04_backpack_waypoint">
             <Original>TAKE</Original>
@@ -3201,7 +3201,7 @@
           <Key ID="str_a3_campaign_a_m04_overview">
             <Original>Meet FIA soldiers and resupply at their depot.</Original>
             <Chinese>與自由獨立同盟的士兵碰面，並在他們的倉庫獲得補給資源。</Chinese>
-            <Chinesesimp>与自由独立同盟士兵碰面，并在他们的储藏库获得补给资源。</Chinesesimp>
+            <Chinesesimp>与FIA士兵碰面，并在他们的储藏库获得补给资源。</Chinesesimp>
           </Key>
         </Container>
         <Container name="A_in">
@@ -6140,7 +6140,7 @@
             <Key ID="str_a3_a_hub_045_a_m04_briefing_mil_4">
               <Original>It's a small cell. Part of a larger network of resistance on the Altis mainland. They call themselves the F-I-A. 'Fee-ah'.</Original>
               <Chinese>他們是個分部。屬於阿爾蒂斯主島上反抗軍的一部分。他們稱呼自己為自由獨立同盟F-I-A。'Fee-ah'。</Chinese>
-              <Chinesesimp>他们是阿尔蒂斯主岛上抵抗力量网络的一个小分部。他们称呼自己为自由独立同盟F-I-A。'Fee-ah'。</Chinesesimp>
+              <Chinesesimp>他们是阿尔蒂斯主岛上抵抗力量网络的一个小分部。他们称呼自己为FIAF-I-A。'Fee-ah'。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_hub_045_a_m04_briefing_mil_5">
               <Original>In the wake of the AAF attack, our contact - goes by the name 'Nikos' - set up an ammunition dump somewhere near LZ Connor.</Original>

@@ -1520,7 +1520,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list4">
         <Original>FIA medium power marksman rifle</Original>
         <Chinese>自由獨立同盟的中型火力精準射手步槍</Chinese>
-        <Chinesesimp>自由独立同盟的中型火力精准射手步枪</Chinesesimp>
+        <Chinesesimp>FIA的中型火力精准射手步枪</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list3_title">
         <Original>Mk-I EMR 7.62 mm</Original>
@@ -1937,12 +1937,12 @@
       <Key ID="str_a3_texturesources_guerrilla_020">
         <Original>FIA 2</Original>
         <Chinese>自由獨立同盟2</Chinese>
-        <Chinesesimp>自由独立同盟2</Chinesesimp>
+        <Chinesesimp>FIA2</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_guerrilla_010">
         <Original>FIA 1</Original>
         <Chinese>自由獨立同盟1</Chinese>
-        <Chinesesimp>自由独立同盟1</Chinesesimp>
+        <Chinesesimp>FIA1</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_grey0">
         <Original>Grey</Original>

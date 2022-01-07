@@ -129,12 +129,12 @@
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_situation_text2">
             <Original>At 1815 hours this evening, a WY-55 Hellcat belonging to the AAF was %1shot down%2 on return from counter-insurgency operations in the northwest. Only the crew were present in the helicopter when it went down, but now they're trapped by the FIA who are closing in on their position.%3The AAF have requested NATO's assistance. As such, %4Kilo 1 and 2%5, and %6Romeo 1 and 2%7, are being deployed to conduct search and rescue on the AAF crew.%8A recon team, callsign Foxtrot, are already on station %9above the crash site%10, awaiting your arrival. They will assist you with dispatching the helicopter and locating the crew.</Original>
             <Chinese>在傍晚18:15時分，一架屬於阿爾蒂斯武裝力量的WY-55"潑婦"，在任務結束回程的路上被%1擊落%2。當時機上只有機組員，他們現在被自由獨立同盟困在墜毀點。%3阿爾蒂斯武裝力量已請求北約進行協助。因為如此，%4"Kilo1"和2%5，還有%6"羅密歐"1"和"2"%7，將被派往執行阿爾蒂斯武裝力量機組員的搜救任務。%8一個呼號叫"Foxtrot"的偵察小隊已經抵達%9墜毀點附近%10，正等待你們的抵達。他們將協助你們搜索直升機並定位機組員位置。</Chinese>
-            <Chinesesimp>在傍晚18:15时分，一架属于AAF的WY-55"泼妇"直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被自由独立同盟困在坠毁点。%3AAF已请求北约进行协助。因为如此，%4"基洛1"和2%5，还有%6"罗密欧"1"和"2"%7，将被派往执行AAF机组员的搜救任务。%8一个呼号叫"狐步舞"的侦察小队已经抵达%9坠毁点附近%10，正等待你们的抵达。他们将协助你们搜索直升机并定位机组员位置。</Chinesesimp>
+            <Chinesesimp>在傍晚18:15时分，一架属于AAF的WY-55"泼妇"直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被FIA困在坠毁点。%3AAF已请求北约进行协助。因为如此，%4"基洛1"和2%5，还有%6"罗密欧"1"和"2"%7，将被派往执行AAF机组员的搜救任务。%8一个呼号叫"狐步舞"的侦察小队已经抵达%9坠毁点附近%10，正等待你们的抵达。他们将协助你们搜索直升机并定位机组员位置。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_situation_text1">
             <Original>At 1815 hours this evening, a WY-55 Hellcat belonging to the AAF was %1shot down%2 on return from counter-insurgency operations in the northwest. Only the crew were present in the helicopter when it went down, but now they're trapped by the FIA who are closing in on their position.%3The AAF have requested NATO's assistance. As such, %4Kilo 1 and 2%5, and %6Romeo 1 and 2%7, are being deployed to conduct search and rescue on the AAF crew.</Original>
             <Chinese>在傍晚18:15時分，一架屬於阿爾蒂斯武裝力量的WY-55"潑婦"，在任務結束回程的路上被%1擊落%2。當時機上只有機組員，他們現在被自由獨立同盟困在墜毀點。%3阿爾蒂斯武裝力量已請求北約進行協助。因為如此，%4"基洛1"和2%5，還有%6"羅密歐"1"和"2"%7，將被派往執行阿爾蒂斯武裝力量機組員的搜救任務。</Chinese>
-            <Chinesesimp>在傍晚18:15时分，一架属于AAF的WY-55"泼妇"直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被自由独立同盟困在坠毁点。%3AAF已请求北约进行协助。因为如此，%4"基洛1"和2%5，还有%6"罗密欧"1"和"2"%7，将被派往执行AAF机组员的搜救任务。</Chinesesimp>
+            <Chinesesimp>在傍晚18:15时分，一架属于AAF的WY-55"泼妇"直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被FIA困在坠毁点。%3AAF已请求北约进行协助。因为如此，%4"基洛1"和2%5，还有%6"罗密欧"1"和"2"%7，将被派往执行AAF机组员的搜救任务。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_signal_text2">
             <Original>%1Kilo 1%2 - Lead element.%3%4Kilo 2%5 - Your team.%6%7Romeo%8 - Transport MH-9 Hummingbirds.%9Broadway - Headquarters.%10%11Foxtrot%12 - Recon element.%13Archangel - Inbound Greyhawk UAV.</Original>
@@ -149,7 +149,7 @@
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_mission_text">
             <Original>%1Romeo 1%2 and %3Romeo 2%4 will transport you to %5the crash site%6, where upon you will conduct search and rescue for the downed AAF helicopter's crew. Upon their safe extraction, you are to destroy the wreckage of the helicopter to prevent it from falling into the hands of the FIA.</Original>
             <Chinese>%1"羅密歐"1%2和%3"羅密歐"2%4將帶你們前往%5墜機點%6，你們將在那裡進行搜救阿爾蒂斯武裝力量直升機機組員的任務。在救出機組員後，你們必須摧毀直升機，避免其落入自由獨立同盟之手。</Chinese>
-            <Chinesesimp>%1"罗密欧"1%2和%3"罗密欧"2%4将带你们前往%5坠机点%6，你们将在那里进行搜救AAF直升机机组员的任务。在救出机组员后，你们必须摧毁直升机，避免其落入自由独立同盟之手。</Chinesesimp>
+            <Chinesesimp>%1"罗密欧"1%2和%3"罗密欧"2%4将带你们前往%5坠机点%6，你们将在那里进行搜救AAF直升机机组员的任务。在救出机组员后，你们必须摧毁直升机，避免其落入FIA之手。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_execution_text">
             <Original>1. Move to the &lt;marker name = 'BIS_crashSite'&gt;crash site&lt;/marker&gt;.&lt;br/&gt;2. Extract the AAF crew.&lt;br/&gt;3. Destroy the helicopter.</Original>
@@ -229,7 +229,7 @@
           <Key ID="str_a3_showcase_firingfromvehicles_bis_destroy_desc">
             <Original>Destroy the downed AAF helicopter to prevent it from falling into FIA hands.</Original>
             <Chinese>摧毀墜毀的阿爾蒂斯武裝力量直升機，避免其落入自由獨立同盟之手。</Chinese>
-            <Chinesesimp>摧毁坠毁的AAF直升机，避免其落入自由独立同盟之手。</Chinesesimp>
+            <Chinesesimp>摧毁坠毁的AAF直升机，避免其落入FIA之手。</Chinesesimp>
           </Key>
           <Container name="x15_UAV_Punish" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="x15_UAV_Punish" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_x15_uav_punish" note="" participants="MARK B Team A;" situation="players failed to destroy the wreck in time">
             <Key ID="str_a3_showcase_firingfromvehicles_x15_uav_punish_sfa_0">
@@ -665,7 +665,7 @@
             <Key ID="str_a3_showcase_firingfromvehicles_01_spotted_bhq_0">
               <Original>Acknowledged. UAV recon, callsign 'Archangel', reports 3 FIA technicals leaving the vicinity of the helo wreck. Looks like you've been spotted. Over.</Original>
               <Chinese>了解。據呼號為'大天使'的無人偵察機回報，有3輛自由獨立同盟的武裝越野車駛離了殘骸。看來你們被發現了。完畢。</Chinese>
-              <Chinesesimp>了解。据呼号为'大天使'的无人侦察机回报，有3辆自由独立同盟的武装越野车驶离了残骸。看来你们被发现了。完毕。</Chinesesimp>
+              <Chinesesimp>了解。据呼号为'大天使'的无人侦察机回报，有3辆FIA的武装越野车驶离了残骸。看来你们被发现了。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_01_spotted_bhq_1">
               <Original>It's possible they have the AAF crew members on board. Their command's getting antsy. We'll keep you updated. Broadway out.</Original>
@@ -687,7 +687,7 @@
             <Key ID="str_a3_showcase_firingfromvehicles_01b_spotted_remote_bhq_0">
               <Original>Acknowledged. Looks like you've been spotted. Foxtrot's pursuing 3 FIA technicals leaving the vicinity of the helo wreck. Over.</Original>
               <Chinese>了解。看來你們被發現了。"Foxtrot"正在追擊3輛駛離殘骸的自由獨立同盟武裝越野車。完畢。</Chinese>
-              <Chinesesimp>了解。看来你们被发现了。"狐步舞"正在追踪3辆驶离残骸的自由独立同盟武装越野车。完毕。</Chinesesimp>
+              <Chinesesimp>了解。看来你们被发现了。"狐步舞"正在追踪3辆驶离残骸的FIA武装越野车。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_01b_spotted_remote_bhq_1">
               <Original>Foxtrot thinks the AAF crew members are in the technicals. AAF command's getting antsy. We'll keep you updated. Broadway out.</Original>
@@ -918,7 +918,7 @@
             <Key ID="str_a3_showcase_marksman_01_prologue_pla_0">
               <Original>Viper-Black to Viper-Red, I am closing in on the FIA position. Preparing to engage. Over.</Original>
               <Chinese>"毒蛇-黑"呼叫"毒蛇-紅"，我正靠近自由獨立同盟的位置。準備接敵。完畢。</Chinese>
-              <Chinesesimp>"毒蛇-黑"呼叫"毒蛇-红"，我正靠近自由独立同盟的阵地。准备接敌。完毕。</Chinesesimp>
+              <Chinesesimp>"毒蛇-黑"呼叫"毒蛇-红"，我正靠近FIA的阵地。准备接敌。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_marksman_01_prologue_pla_1">
               <Original>Copy. Viper-Black out.</Original>
@@ -929,7 +929,7 @@
           <Key ID="STR_A3_Showcase_Marksman_Showcase_Summary_text">
             <Original>Utilize your marksman rifle and the new weapon stabilization features to carry out counter-insurgency operations against FIA forces.</Original>
             <Chinese>利用你的精準射手步槍與新的武器穩定功能，來對自由獨立同盟的叛亂行動進行打擊。</Chinese>
-            <Chinesesimp>利用你的精准射手步枪与新的武器稳定功能，来针对自由独立同盟实施反叛乱作战。</Chinesesimp>
+            <Chinesesimp>利用你的精准射手步枪与新的武器稳定功能，来针对FIA实施反叛乱作战。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_SITREP_text">
             <Original>Southern Altis, near the coast</Original>
@@ -964,7 +964,7 @@
           <Key ID="STR_A3_Showcase_Marksman_Debriefing_Win01_text">
             <Original>You have succeeded in delivering a significant blow to the FIA's operations.</Original>
             <Chinese>你的行動已成功對自由獨立同盟造成顯著的打擊。</Chinese>
-            <Chinesesimp>你的行动已成功对自由独立同盟造成显着的打击。</Chinesesimp>
+            <Chinesesimp>你的行动已成功对FIA造成显着的打击。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_mrkVilla">
             <Original>Insurgent HQ</Original>
@@ -984,17 +984,17 @@
           <Key ID="STR_A3_Showcase_Marksman_Briefing_Execution_text">
             <Original>1. Search the designated area and locate the FIA HQ.  &lt;br /&gt;2. Eliminate all hostiles in the vicinity.  &lt;br /&gt;3. Make a sweep for any valuable intel.</Original>
             <Chinese>1. 搜索指定區域，找到自由獨立同盟的指揮部。&lt;br/&gt;2. 殲滅附近所有的敵人。&lt;br/&gt;3. 搜索任何有用的情報。</Chinese>
-            <Chinesesimp>1. 搜索指定区域，找到自由独立同盟的指挥部。&lt;br/&gt;2. 歼灭附近所有的敌人。&lt;br/&gt;3. 搜索任何有用的情报。</Chinesesimp>
+            <Chinesesimp>1. 搜索指定区域，找到FIA的指挥部。&lt;br/&gt;2. 歼灭附近所有的敌人。&lt;br/&gt;3. 搜索任何有用的情报。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_Briefing_Mission_text">
             <Original>You are to raid the FIA HQ and search for any valuable intel. According to the AAF, the FIA rely more on camouflage instead of strong defenses. Expect limited resistance.</Original>
             <Chinese>你將掃蕩自由獨立同盟的指揮部，並搜索任何有用的情報。根據AAF的情報，自由獨立同盟指揮部有著許多的偽裝多過他們所設的防守兵力。預期將會遇到有限的抵抗。</Chinese>
-            <Chinesesimp>你要突袭自由独立同盟的指挥部，并搜索任何有用的情报。根据AAF的情报，自由独立同盟主要依靠伪装而非强大的防御以自保。预期将会遇到有限的抵抗。</Chinesesimp>
+            <Chinesesimp>你要突袭FIA的指挥部，并搜索任何有用的情报。根据AAF的情报，FIA主要依靠伪装而非强大的防御以自保。预期将会遇到有限的抵抗。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_Debriefing_Win02_text">
             <Original>You have succeeded in delivering a significant blow to the FIA's operations. Unfortunately, Viper-Green was KIA.</Original>
             <Chinese>你的行動已成功對自由獨立同盟造成顯著的打擊。但不幸的是，"毒蛇-綠"卻在行動中陣亡了。</Chinese>
-            <Chinesesimp>你的行动已成功对自由独立同盟造成显着的打击。但不幸的是，"毒蛇-绿"却在行动中阵亡了。</Chinesesimp>
+            <Chinesesimp>你的行动已成功对FIA造成显着的打击。但不幸的是，"毒蛇-绿"却在行动中阵亡了。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_SerpentAttack">
             <Original>Serpent - attack</Original>
@@ -1009,7 +1009,7 @@
           <Key ID="STR_A3_Showcase_Marksman_Briefing_Situation_text">
             <Original>You, Viper-Black, have been deployed to the southern peninsula as part of our on-going counter-insurgency operations against the FIA. Your objective this evening will be to sweep and clear a suspected FIA HQ located southwest of Sfaka.</Original>
             <Chinese>做為對抗自由獨立同盟叛亂行動的一部分，"毒蛇-黑"(你)將被佈署到半島南方並展開破壞自由獨立同盟的行動。你的任務就是在傍晚時分，前往肅清自由獨立同盟位在斯卡法西南方向的指揮部。</Chinese>
-            <Chinesesimp>做为对抗自由独立同盟的反叛乱作战的一部分，"毒蛇-黑"(你)将被布署到半岛南方并开展行动。你今晚的任务就是在傍晚时分前往肃清自由独立同盟位在斯法卡西南的指挥部。</Chinesesimp>
+            <Chinesesimp>做为对抗FIA的反叛乱作战的一部分，"毒蛇-黑"(你)将被布署到半岛南方并开展行动。你今晚的任务就是在傍晚时分前往肃清FIA位在斯法卡西南的指挥部。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskGetIn_description">
             <Original>Await Hydra's arrival.</Original>
@@ -1029,7 +1029,7 @@
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskIntel_description">
             <Original>Sweep the FIA HQ for any valuable intel.</Original>
             <Chinese>搜索自由獨立同盟指揮部裡任何有用的情報。</Chinese>
-            <Chinesesimp>搜索自由独立同盟指挥部里任何有用的情报。</Chinesesimp>
+            <Chinesesimp>搜索FIA指挥部里任何有用的情报。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskIntel_title">
             <Original>Search for Intel</Original>
@@ -1039,12 +1039,12 @@
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskVilla_description">
             <Original>Locate, sweep, and clear a local FIA HQ established somewhere %2southwest of Sfaka%1.</Original>
             <Chinese>搜尋並掃蕩位在%2斯卡法西南方向%1的自由獨立同盟指揮部。</Chinese>
-            <Chinesesimp>搜寻并扫荡位在%2斯法卡西南%1的自由独立同盟指挥部。</Chinesesimp>
+            <Chinesesimp>搜寻并扫荡位在%2斯法卡西南%1的FIA指挥部。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskVilla_title">
             <Original>Raid the FIA HQ</Original>
             <Chinese>突襲自由獨立同盟指揮部</Chinese>
-            <Chinesesimp>突袭自由独立同盟指挥部</Chinesesimp>
+            <Chinesesimp>突袭FIA指挥部</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskLZ_description">
             <Original>Investigate %2grid 094-082%1. Clear the area of all hostiles before calling in Hydra.</Original>

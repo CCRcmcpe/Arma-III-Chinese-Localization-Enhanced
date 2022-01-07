@@ -442,7 +442,7 @@
       <Key ID="str_a3_cfghints_orbat0">
         <Original>Units are marked according to their side.%1&lt;img size='1' %6 image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_unknown_ca.paa' /&gt; – BLUFOR (NATO, FIA)%1&lt;img size='1' %7 image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\o_unknown_ca.paa' /&gt; – OPFOR (CSAT)%1&lt;img size='1' %8 image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa' /&gt; – Independent (AAF)%1&lt;img size='1' %9 image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa' /&gt; – Neutral (Civilians)</Original>
         <Chinese>部隊會被標記出他們所屬的陣營。%1&lt;imgsize='1'%6image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_unknown_ca.paa'/&gt;–藍方(北約，自由獨立同盟)%1&lt;imgsize='1'%7image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\o_unknown_ca.paa'/&gt;–紅方(CSAT)%1&lt;imgsize='1'%8image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–中立方(阿爾蒂斯武裝力量)%1&lt;imgsize='1'%9image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–平民</Chinese>
-        <Chinesesimp>部队会被标记出他们所属的阵营。%1&lt;imgsize='1'%6image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_unknown_ca.paa'/&gt;–蓝方(北约，自由独立同盟)%1&lt;imgsize='1'%7image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\o_unknown_ca.paa'/&gt;–红方(CSAT)%1&lt;imgsize='1'%8image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–中立方(AAF)%1&lt;imgsize='1'%9image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–平民</Chinesesimp>
+        <Chinesesimp>部队会被标记出他们所属的阵营。%1&lt;imgsize='1'%6image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_unknown_ca.paa'/&gt;–蓝方(北约，FIA)%1&lt;imgsize='1'%7image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\o_unknown_ca.paa'/&gt;–红方(CSAT)%1&lt;imgsize='1'%8image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–中立方(AAF)%1&lt;imgsize='1'%9image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–平民</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_orbat1">
         <Original>Side Markers</Original>
@@ -6061,7 +6061,7 @@
           <Key ID="str_a3_cfgweapons_arifle_trg21_gl_library0">
             <Original>The TRG-21 is a bullpup assault rifle used by the FIA. It features an ergonomical design that supports accurate fire in harsh conditions. TRG-21 is lightweight, ambidextrous, easily serviceable and compatible with a large number of accessories. TRG-21 EGLM is mounted with an enhanced grenade launching module. A carbine variant is labeled TRG-20. Compared to TRG-21, it features a short barrel better suited for close quarters combat situations.</Original>
             <Chinese>TRG-21是一把自由獨立同盟的無托突擊步槍。它在槍體設計上符合人體工學，並能在惡劣的環境下保有精確度。TRG-21是一把輕型，靈巧，並且易於使用的步槍，同時可以和大量的武器配件相容。TRG-21 EGLM是一種安裝增強型榴彈發射器的版本。而卡賓槍的版本代號為TRG-20。和TRG-21相比，TRG-20的短槍管使它更容易進行近距離作戰。</Chinese>
-            <Chinesesimp>TRG-21是一把自由独立同盟使用的无托突击步枪。它在枪体设计上符合人体工学，并能在恶劣的环境下保有精确度。TRG-21是一把轻型，灵巧，并且易于使用的步枪，同时可以和大量的武器配件相容。TRG-21 EGLM是一种安装增强型榴弹发射器的版本。而卡宾枪的版本代号为TRG-20。和TRG-21相比，TRG-20的短枪管使它更容易进行近距离作战。</Chinesesimp>
+            <Chinesesimp>TRG-21是一把FIA使用的无托突击步枪。它在枪体设计上符合人体工学，并能在恶劣的环境下保有精确度。TRG-21是一把轻型，灵巧，并且易于使用的步枪，同时可以和大量的武器配件相容。TRG-21 EGLM是一种安装增强型榴弹发射器的版本。而卡宾枪的版本代号为TRG-20。和TRG-21相比，TRG-20的短枪管使它更容易进行近距离作战。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CfgWeapons_srifle_ABR_Library0">
             <Original>The Mk18 Advanced Battle Rifle is a more compact and lightweight evolution of the Mk14 Battle Rifle. The ABR is an ergonomic rifle that can be accessorized and was designed for high accuracy. It's chambered for a 7.62x51 mm cartridge and is typically used in ranges from 600 - 800 m.</Original>
@@ -13580,7 +13580,7 @@
       <Key ID="str_a3_cfgfactionclasses_ind_g_f0">
         <Original>FIA</Original>
         <Chinese>自由獨立同盟</Chinese>
-        <Chinesesimp>自由独立同盟</Chinesesimp>
+        <Chinesesimp>FIA</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgfactionclasses_opf_f0">
         <Original>CSAT</Original>

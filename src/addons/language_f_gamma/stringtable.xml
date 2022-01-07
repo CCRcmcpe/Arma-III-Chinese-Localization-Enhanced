@@ -293,7 +293,7 @@
           <Key ID="str_a3_cfgvehicles_ig_supplycrate_f0">
             <Original>Supply Box [FIA]</Original>
             <Chinese>補給箱[自由獨立同盟]</Chinese>
-            <Chinesesimp>补给箱[自由独立同盟]</Chinesesimp>
+            <Chinesesimp>补给箱[FIA]</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -1187,7 +1187,7 @@
         <Key ID="str_a3_cfggroups_indep_guerilla0">
           <Original>FIA</Original>
           <Chinese>自由獨立同盟</Chinese>
-          <Chinesesimp>自由独立同盟</Chinesesimp>
+          <Chinesesimp>FIA</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_west_blu_f_mechanized_bus_mechinf_support0">
           <Original>Mechanized Support Squad</Original>
@@ -3167,7 +3167,7 @@
         <Key ID="str_a3_cfgvehicles_flag_fia_f0">
           <Original>Flag (FIA)</Original>
           <Chinese>旗幟(自由獨立同盟)</Chinese>
-          <Chinesesimp>旗帜(自由独立同盟)</Chinesesimp>
+          <Chinesesimp>旗帜(FIA)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_green_f0">
           <Original>Flag (Green)</Original>

@@ -709,7 +709,7 @@
       <Key ID="str_a3_rscdisplaywelcome_epc_parc_list7">
         <Original>Upon their return, the FIA learned of a pending &lt;t color='%1'&gt;NATO invasion&lt;/t&gt;, and devised a plan to ensure it went smoothly.</Original>
         <Chinese>隨著尼科斯的回歸，自由獨立同盟知曉了&lt;tcolor='%1'&gt;北約即將發動入侵&lt;/t&gt;，然後他們準備了一個任務好來幫助北約的入侵。</Chinese>
-        <Chinesesimp>随着尼科斯的回归，自由独立同盟知晓了&lt;tcolor='%1'&gt;北约即将发动入侵&lt;/t&gt;，他们因此策划了一场行动以协助入侵。</Chinesesimp>
+        <Chinesesimp>随着尼科斯的回归，FIA知晓了&lt;tcolor='%1'&gt;北约即将发动入侵&lt;/t&gt;，他们因此策划了一场行动以协助入侵。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epc_parc_list6">
         <Original>&lt;t color='%1'&gt;Captain Miller&lt;/t&gt; led an operation to &lt;t color='%1'&gt;Stratis&lt;/t&gt; free a prominent guerrilla figure, &lt;t color='%1'&gt;Nikos&lt;/t&gt;, whom the survivors had met earlier.</Original>
@@ -724,7 +724,7 @@
       <Key ID="str_a3_rscdisplaywelcome_epc_parc_list4">
         <Original>With the assistance of the &lt;t color='%1'&gt;FIA&lt;/t&gt;, they managed to rescue &lt;t color='%1'&gt;Captain Miller&lt;/t&gt; from &lt;t color='%1'&gt;CSAT forces&lt;/t&gt;.</Original>
         <Chinese>隨著&lt;tcolor='%1'&gt;自由獨立同盟&lt;/t&gt;的幫助，他們成功從&lt;tcolor='%1'&gt;廣協同盟部隊&lt;/t&gt;的手中拯救了&lt;tcolor='%1'&gt;上校米勒&lt;/t&gt;。</Chinese>
-        <Chinesesimp>凭借&lt;tcolor='%1'&gt;自由独立同盟&lt;/t&gt;的帮助，他们成功从&lt;tcolor='%1'&gt;广协部队&lt;/t&gt;的手中拯救了&lt;tcolor='%1'&gt;米勒上校&lt;/t&gt;。</Chinesesimp>
+        <Chinesesimp>凭借&lt;tcolor='%1'&gt;FIA&lt;/t&gt;的帮助，他们成功从&lt;tcolor='%1'&gt;广协部队&lt;/t&gt;的手中拯救了&lt;tcolor='%1'&gt;米勒上校&lt;/t&gt;。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epc_parc_list3">
         <Original>&lt;t color='%1'&gt;Lieutenant James&lt;/t&gt; and a new band of &lt;t color='%1'&gt;UKSF operators&lt;/t&gt; were the first to make contact with him.</Original>
