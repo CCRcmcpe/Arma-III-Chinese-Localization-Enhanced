@@ -239,7 +239,7 @@
       <Key ID="str_a3_cfgvehicles_o_plane_cas_02_f_library0">
         <Original>The To-199 Neophron is a new addition to CSAT air forces. An agile single-seat aircraft is used for close air support but can also take down air threats. It cannot carry as much payload as NATO's A-164 and has to rearm more often, but it can take-off from even the roughest terrain, not being so dependent on air bases or aircraft carriers. Neophron in CAS variant is fitted with 30 mm Cannon, Sahr-3 short range air-to-air missiles, Sharur air-to-ground missiles, Tratnyr rockets (HE and AP variants) and LOM-250G bombs.</Original>
         <Chinese>To-199"兀鷲"是一臺最近才開始在廣協同盟空軍中服役的攻擊機。它是一臺靈敏的單座攻擊機，主要用於密接空中支援與空中攔截。它的負載量並不像北約的A-164那樣多，所以它必須更常進行補給，不過它的優點是能在最惡劣的地形中進行起降，並不需要特別依賴空軍基地或航空母艦。"兀鷲"的密接空中支援版本配備有30公厘機炮，"沙爾"-3短程空對空飛彈，"神杖"空對地飛彈，"矛叉"火箭彈(有高爆或穿甲的彈藥)以及LOM-250G炸彈。</Chinese>
-        <Chinesesimp>To-199"兀鹫"是最近才开始在广协同盟空军中服役的攻击机。它是一种灵活的单座攻击机，主要用于近距离空中支援，但也能对付空中威胁。它的负载量并没有北约的A-164那样多，所以它必须经常进行补给，不过它的优点是能在最恶劣的地形中进行起降，并不需要特别依赖空军基地或航空母舰。"兀鹫"的近距离空中支援版本配备有30mm 机炮，"沙尔"-3短程空对空导弹，"神杖"空对地导弹，"矛叉"火箭弹(有高爆和穿甲两型)以及LOM-250G炸弹。</Chinesesimp>
+        <Chinesesimp>To-199"兀鹫"是最近才开始在广协空军中服役的攻击机。它是一种灵活的单座攻击机，主要用于近距离空中支援，但也能对付空中威胁。它的负载量并没有北约的A-164那样多，所以它必须经常进行补给，不过它的优点是能在最恶劣的地形中进行起降，并不需要特别依赖空军基地或航空母舰。"兀鹫"的近距离空中支援版本配备有30mm 机炮，"沙尔"-3短程空对空导弹，"神杖"空对地导弹，"矛叉"火箭弹(有高爆和穿甲两型)以及LOM-250G炸弹。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_plane_cas_02_f0">
         <Original>To-199 Neophron (CAS)</Original>
@@ -271,7 +271,7 @@
       <Key ID="str_a3_cfgvehicles_truck_03_base_f_library0">
         <Original>The Tempest is a 6x6 mine resistant standard transport truck for the CSAT army. Its primary role is to carry troops and cargo under armor. The modular design of the truck allows several transport versions: cargo, refuel, medical, repair and ammo resupply.</Original>
         <Chinese>"風暴"是服役於廣協同盟裡的一臺六輪驅動標準防地雷運輸卡車。它的主要特點有別於其他部隊的運輸卡車，它是一臺有裝甲保護的運輸卡車，用它來運輸部隊或貨物更能比其他部隊的卡車來的安全。它的設計允許能有很多種用途，除了基本的運輸還有以下幾種功能:貨物，燃油，醫療，維修和彈藥。</Chinese>
-        <Chinesesimp>"风暴"是服役于广协同盟部队的一种6x6驱动防地雷标准运输卡车。其主要职责是在装甲保护下运输部队和物资。卡车的模块化设计允许其拥有多种运输型号:货物运输，燃油补给，医疗救护，维修车辆和弹药补给。</Chinesesimp>
+        <Chinesesimp>"风暴"是服役于广协部队的一种6x6驱动防地雷标准运输卡车。其主要职责是在装甲保护下运输部队和物资。卡车的模块化设计允许其拥有多种运输型号:货物运输，燃油补给，医疗救护，维修车辆和弹药补给。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_truck_03_base_f0">
         <Original>Tempest</Original>
@@ -348,7 +348,7 @@
       <Key ID="str_a3_h_beret_general0">
         <Original>Beret [AAF] (General)</Original>
         <Chinese>貝雷帽[阿爾蒂斯武裝力量](將軍)</Chinese>
-        <Chinesesimp>贝雷帽[阿尔蒂斯武装力量](将军)</Chinesesimp>
+        <Chinesesimp>贝雷帽[AAF](将军)</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_beret_colonel0">
         <Original>Beret [NATO] (Colonel)</Original>
@@ -659,7 +659,7 @@
       <Key ID="str_a3_rscdisplaywelcome_epc_pard_list3">
         <Original>a brand-new heavy truck for CSAT, including all variants</Original>
         <Chinese>一臺廣協同盟的全新重型卡車，包括所有的型號</Chinese>
-        <Chinesesimp>一种广协同盟的全新重型卡车，包括所有的型号</Chinesesimp>
+        <Chinesesimp>一种广协的全新重型卡车，包括所有的型号</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epc_pard_list2_title">
         <Original>To-199 Neophron</Original>
@@ -669,7 +669,7 @@
       <Key ID="str_a3_rscdisplaywelcome_epc_pard_list2">
         <Original>the CSAT equivalent CAS fixed-wing aircraft</Original>
         <Chinese>服役於廣協同盟的攻擊機，用作於密接空中支援</Chinese>
-        <Chinesesimp>广协同盟用于执行近距离空中支援任务的固定翼攻击机。</Chinesesimp>
+        <Chinesesimp>广协用于执行近距离空中支援任务的固定翼攻击机。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epc_pard_list1_title">
         <Original>A-164 Wipeout</Original>
@@ -724,7 +724,7 @@
       <Key ID="str_a3_rscdisplaywelcome_epc_parc_list4">
         <Original>With the assistance of the &lt;t color='%1'&gt;FIA&lt;/t&gt;, they managed to rescue &lt;t color='%1'&gt;Captain Miller&lt;/t&gt; from &lt;t color='%1'&gt;CSAT forces&lt;/t&gt;.</Original>
         <Chinese>隨著&lt;tcolor='%1'&gt;自由獨立同盟&lt;/t&gt;的幫助，他們成功從&lt;tcolor='%1'&gt;廣協同盟部隊&lt;/t&gt;的手中拯救了&lt;tcolor='%1'&gt;上校米勒&lt;/t&gt;。</Chinese>
-        <Chinesesimp>凭借&lt;tcolor='%1'&gt;自由独立同盟&lt;/t&gt;的帮助，他们成功从&lt;tcolor='%1'&gt;广协同盟部队&lt;/t&gt;的手中拯救了&lt;tcolor='%1'&gt;米勒上校&lt;/t&gt;。</Chinesesimp>
+        <Chinesesimp>凭借&lt;tcolor='%1'&gt;自由独立同盟&lt;/t&gt;的帮助，他们成功从&lt;tcolor='%1'&gt;广协部队&lt;/t&gt;的手中拯救了&lt;tcolor='%1'&gt;米勒上校&lt;/t&gt;。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epc_parc_list3">
         <Original>&lt;t color='%1'&gt;Lieutenant James&lt;/t&gt; and a new band of &lt;t color='%1'&gt;UKSF operators&lt;/t&gt; were the first to make contact with him.</Original>
@@ -739,7 +739,7 @@
       <Key ID="str_a3_rscdisplaywelcome_epc_parc_list1">
         <Original>The attempted escape from Stratis was &lt;t color='%1'&gt;thwarted&lt;/t&gt; by AAF fighters, leaving the survivors &lt;t color='%1'&gt;decimated&lt;/t&gt;.</Original>
         <Chinese>正當大家準備從斯特拉蒂斯逃走時，卻被阿爾蒂斯武裝力量給&lt;tcolor='%1'&gt;搞砸了&lt;/t&gt;，倖存者們&lt;tcolor='%1'&gt;生死未卜&lt;/t&gt;。</Chinese>
-        <Chinesesimp>正当大家准备从斯特拉蒂斯逃走时，遭到了阿尔蒂斯武装力量战斗机的&lt;tcolor='%1'&gt;阻截&lt;/t&gt;，幸存者们&lt;tcolor='%1'&gt;生死未卜&lt;/t&gt;。</Chinesesimp>
+        <Chinesesimp>正当大家准备从斯特拉蒂斯逃走时，遭到了AAF战斗机的&lt;tcolor='%1'&gt;阻截&lt;/t&gt;，幸存者们&lt;tcolor='%1'&gt;生死未卜&lt;/t&gt;。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epc_parc2">
         <Original>'Adapt'</Original>

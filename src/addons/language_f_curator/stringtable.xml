@@ -2098,12 +2098,12 @@
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m12_guer">
         <Original>Zeus 16+2 Master Stratis (AAF)</Original>
         <Chinese>宙斯16+2主宰斯特拉蒂斯(阿爾蒂斯武裝力量)</Chinese>
-        <Chinesesimp>宙斯16+2主宰斯特拉蒂斯(阿尔蒂斯武装力量)</Chinesesimp>
+        <Chinesesimp>宙斯16+2主宰斯特拉蒂斯(AAF)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m12_east">
         <Original>Zeus 16+2 Master Stratis (CSAT)</Original>
         <Chinese>宙斯16+2主宰斯特拉蒂斯(廣協同盟)</Chinese>
-        <Chinesesimp>宙斯16+2主宰斯特拉蒂斯(广协同盟)</Chinesesimp>
+        <Chinesesimp>宙斯16+2主宰斯特拉蒂斯(广协)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m12">
         <Original>Zeus 48+2 Master Stratis</Original>
@@ -2118,12 +2118,12 @@
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m11_guer">
         <Original>Zeus 16+2 Master Altis (AAF)</Original>
         <Chinese>宙斯16+2主宰阿爾蒂斯(阿爾蒂斯武裝力量)</Chinese>
-        <Chinesesimp>宙斯16+2主宰阿尔蒂斯(阿尔蒂斯武装力量)</Chinesesimp>
+        <Chinesesimp>宙斯16+2主宰阿尔蒂斯(AAF)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m11_east">
         <Original>Zeus 16+2 Master Altis (CSAT)</Original>
         <Chinese>宙斯16+2主宰阿爾蒂斯(廣協同盟)</Chinese>
-        <Chinesesimp>宙斯16+2主宰阿尔蒂斯(广协同盟)</Chinesesimp>
+        <Chinesesimp>宙斯16+2主宰阿尔蒂斯(广协)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m11">
         <Original>Zeus 48+2 Master Altis</Original>

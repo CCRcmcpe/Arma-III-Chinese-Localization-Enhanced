@@ -674,12 +674,12 @@
       <Key ID="STR_A3_MasterMaldenO_loadName">
         <Original>Master Malden (CSAT)</Original>
         <Chinese>主宰馬爾登島(廣協同盟)</Chinese>
-        <Chinesesimp>主宰马尔登岛(广协同盟)</Chinesesimp>
+        <Chinesesimp>主宰马尔登岛(广协)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenI_loadName">
         <Original>Master Malden (AAF)</Original>
         <Chinese>主宰馬爾登島(阿爾蒂斯武裝力量)</Chinese>
-        <Chinesesimp>主宰马尔登岛(阿尔蒂斯武装力量)</Chinesesimp>
+        <Chinesesimp>主宰马尔登岛(AAF)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMalden_missionName">
         <Original>Zeus 48+2 Master Malden</Original>
@@ -689,12 +689,12 @@
       <Key ID="STR_A3_MasterMaldenI_missionName">
         <Original>Zeus 16+2 Master Malden (AAF)</Original>
         <Chinese>宙斯16+2主宰馬爾登島(阿爾蒂斯武裝力量)</Chinese>
-        <Chinesesimp>宙斯16+2主宰马尔登岛(阿尔蒂斯武装力量)</Chinesesimp>
+        <Chinesesimp>宙斯16+2主宰马尔登岛(AAF)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenO_missionName">
         <Original>Zeus 16+2 Master Malden (CSAT)</Original>
         <Chinese>宙斯16+2主宰馬爾登島(廣協同盟)</Chinese>
-        <Chinesesimp>宙斯16+2主宰马尔登岛(广协同盟)</Chinesesimp>
+        <Chinesesimp>宙斯16+2主宰马尔登岛(广协)</Chinesesimp>
       </Key>
     </Container>
   </Package>

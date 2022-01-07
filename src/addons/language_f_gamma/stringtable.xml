@@ -413,12 +413,12 @@
         <Key ID="str_a3_cfgvehicles_b_gmg_01_a_wpn1">
           <Original>Dismantled Autonomous MG [CSAT]</Original>
           <Chinese>拆解自動機槍[廣協同盟]</Chinese>
-          <Chinesesimp>拆解自动机枪[广协同盟]</Chinesesimp>
+          <Chinesesimp>拆解自动机枪[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_gmg_01_a_wpn2">
           <Original>Dismantled Autonomous MG [AAF]</Original>
           <Chinese>拆解自動機槍[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>拆解自动机枪[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>拆解自动机枪[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_gmg_01_a_wpn_assembleinfo0">
           <Original>Static AMG</Original>
@@ -443,12 +443,12 @@
         <Key ID="str_a3_cfgvehicles_b_gmg_01_wpn1">
           <Original>Dismantled Mk32 GMG [CSAT]</Original>
           <Chinese>拆解Mk32榴彈機槍[廣協同盟]</Chinese>
-          <Chinesesimp>拆解Mk32榴弹机枪[广协同盟]</Chinesesimp>
+          <Chinesesimp>拆解Mk32榴弹机枪[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_gmg_01_wpn2">
           <Original>Dismantled Mk32 GMG [AAF]</Original>
           <Chinese>拆解Mk32榴彈機槍[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>拆解Mk32榴弹机枪[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>拆解Mk32榴弹机枪[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_support0">
           <Original>Folded Tripod [NATO]</Original>
@@ -468,12 +468,12 @@
         <Key ID="str_a3_cfgvehicles_b_hmg_01_a_wpn1">
           <Original>Dismantled Autonomous GMG [CSAT]</Original>
           <Chinese>拆解自動榴彈機槍[廣協同盟]</Chinese>
-          <Chinesesimp>拆解自动榴弹机枪[广协同盟]</Chinesesimp>
+          <Chinesesimp>拆解自动榴弹机枪[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_a_wpn2">
           <Original>Dismantled Autonomous GMG [AAF]</Original>
           <Chinese>拆解自動榴彈機槍[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>拆解自动榴弹机枪[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>拆解自动榴弹机枪[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_a_wpn_assembleinfo0">
           <Original>Static AGMG</Original>
@@ -483,22 +483,22 @@
         <Key ID="str_a3_cfgvehicles_b_hmg_01_support1">
           <Original>Folded Tripod [CSAT]</Original>
           <Chinese>折疊式腳架[廣協同盟]</Chinese>
-          <Chinesesimp>折叠式脚架[广协同盟]</Chinesesimp>
+          <Chinesesimp>折叠式脚架[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_support2">
           <Original>Folded Tripod [AAF]</Original>
           <Chinese>折疊式腳架[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>折叠式脚架[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>折叠式脚架[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_wpn1">
           <Original>Dismantled Mk30 HMG [CSAT]</Original>
           <Chinese>拆解Mk30重機槍[廣協同盟]</Chinese>
-          <Chinesesimp>拆解Mk30重机枪[广协同盟]</Chinesesimp>
+          <Chinesesimp>拆解Mk30重机枪[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_wpn2">
           <Original>Dismantled Mk30 HMG [AAF]</Original>
           <Chinese>拆解Mk30重機槍[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>拆解Mk30重机枪[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>拆解Mk30重机枪[AAF]</Chinesesimp>
         </Key>
       </Container>
       <Container name="Uniforms">
@@ -840,12 +840,12 @@
         <Key ID="STR_A3_CFGWeapons_Items_UAVTerminal2">
           <Original>UAV Terminal [CSAT]</Original>
           <Chinese>無人載具終端機[廣協同盟]</Chinese>
-          <Chinesesimp>无人载具终端机[广协同盟]</Chinesesimp>
+          <Chinesesimp>无人载具终端机[广协]</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGWeapons_Items_UAVTerminal3">
           <Original>UAV Terminal [AAF]</Original>
           <Chinese>無人載具終端機[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>无人载具终端机[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>无人载具终端机[AAF]</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -1297,12 +1297,12 @@
         <Key ID="str_a3_cfgvehicles_b_uav_01_backpack_f1">
           <Original>UAV Bag [CSAT]</Original>
           <Chinese>無人載具背包[廣協同盟]</Chinese>
-          <Chinesesimp>无人机背包[广协同盟]</Chinesesimp>
+          <Chinesesimp>无人机背包[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_uav_01_backpack_f2">
           <Original>UAV Bag [AAF]</Original>
           <Chinese>無人載具背包[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>无人机背包[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>无人机背包[AAF]</Chinesesimp>
         </Key>
       </Container>
       <Container name="DisplayName">
@@ -1484,7 +1484,7 @@
         <Key ID="str_a3_cfgvehicles_ugv_01_rcws_base0">
           <Original>UGV Stomper RCWS</Original>
           <Chinese>"踐踏者"地面無人載具(遙控砲塔)</Chinese>
-          <Chinesesimp>"践踏者"无人车(遥控炮塔)</Chinesesimp>
+          <Chinesesimp>"践踏者"无人车(遥控武器站)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_truck_01_box_ammo0">
           <Original>HEMTT Ammo</Original>
@@ -1569,7 +1569,7 @@
         <Key ID="STR_A3_CFGVEHICLES_O_UGV_01_RCWS_F">
           <Original>UGV Saif RCWS</Original>
           <Chinese>"薩夫"地面無人載具(遙控砲塔)</Chinese>
-          <Chinesesimp>"萨夫"无人车(遥控炮塔)</Chinesesimp>
+          <Chinesesimp>"萨夫"无人车(遥控武器站)</Chinesesimp>
         </Key>
         <Key ID="STR_A3_cfgvehicles_truck_02_ammo">
           <Original>Zamak Ammo</Original>
@@ -3137,7 +3137,7 @@
         <Key ID="str_a3_cfgvehicles_flag_aaf_f0">
           <Original>Flag (AAF)</Original>
           <Chinese>旗幟(阿爾蒂斯武裝力量)</Chinese>
-          <Chinesesimp>旗帜(阿尔蒂斯武装力量)</Chinesesimp>
+          <Chinesesimp>旗帜(AAF)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_altis_f0">
           <Original>Flag (Altis)</Original>
@@ -3162,7 +3162,7 @@
         <Key ID="str_a3_cfgvehicles_flag_csat_f0">
           <Original>Flag (CSAT)</Original>
           <Chinese>旗幟(廣協同盟)</Chinese>
-          <Chinesesimp>旗帜(广协同盟)</Chinesesimp>
+          <Chinesesimp>旗帜(广协)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_fia_f0">
           <Original>Flag (FIA)</Original>
@@ -4879,52 +4879,52 @@
       <Key ID="str_a3_b_static_aa_placeholder_f1">
         <Original>Static Titan Launcher (AA) [CSAT]</Original>
         <Chinese>固定式"泰坦"發射器(防空)[廣協同盟]</Chinese>
-        <Chinesesimp>固定式"泰坦"发射器(防空)[广协同盟]</Chinesesimp>
+        <Chinesesimp>固定式"泰坦"发射器(防空)[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_static_aa_placeholder_f2">
         <Original>Static Titan Launcher (AA) [AAF]</Original>
         <Chinese>固定式"泰坦"發射器(防空)[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>固定式"泰坦"发射器(防空)[阿尔蒂斯武装力量]</Chinesesimp>
+        <Chinesesimp>固定式"泰坦"发射器(防空)[AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_static_at_placeholder_f1">
         <Original>Static Titan Launcher (AT) [CSAT]</Original>
         <Chinese>固定式"泰坦"發射器(反坦克)[廣協同盟]</Chinese>
-        <Chinesesimp>固定式"泰坦"发射器(反坦克)[广协同盟]</Chinesesimp>
+        <Chinesesimp>固定式"泰坦"发射器(反坦克)[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_static_at_placeholder_f2">
         <Original>Static Titan Launcher (AT) [AAF]</Original>
         <Chinese>固定式"泰坦"發射器(反坦克)[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>固定式"泰坦"发射器(反坦克)[阿尔蒂斯武装力量]</Chinesesimp>
+        <Chinesesimp>固定式"泰坦"发射器(反坦克)[AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_gmg_01_high_weapon_f1">
         <Original>Dismantled Mk32 GMG (Raised) [CSAT]</Original>
         <Chinese>拆解Mk32榴彈機槍(高射腳架)[廣協同盟]</Chinese>
-        <Chinesesimp>拆解的Mk32榴弹机枪(高射脚架)[广协同盟]</Chinesesimp>
+        <Chinesesimp>拆解的Mk32榴弹机枪(高射脚架)[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_gmg_01_high_weapon_f2">
         <Original>Dismantled Mk32 GMG (Raised) [AAF]</Original>
         <Chinese>拆解Mk32榴彈機槍(高射腳架)[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>拆解的Mk32榴弹机枪(高射脚架)[阿尔蒂斯武装力量]</Chinesesimp>
+        <Chinesesimp>拆解的Mk32榴弹机枪(高射脚架)[AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_high_weapon_f1">
         <Original>Dismantled Mk30 HMG (Raised) [CSAT]</Original>
         <Chinese>拆解Mk30重機槍(高射腳架)[廣協同盟]</Chinese>
-        <Chinesesimp>拆解的Mk30重机枪(高射脚架)[广协同盟]</Chinesesimp>
+        <Chinesesimp>拆解的Mk30重机枪(高射脚架)[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_high_weapon_f2">
         <Original>Dismantled Mk30 HMG (Raised) [AAF]</Original>
         <Chinese>拆解Mk30重機槍(高射腳架)[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>拆解的Mk30重机枪(高射脚架)[阿尔蒂斯武装力量]</Chinesesimp>
+        <Chinesesimp>拆解的Mk30重机枪(高射脚架)[AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_support_high_f1">
         <Original>Folded Tripod (Raised) [CSAT]</Original>
         <Chinese>折疊式腳架(高射腳架)[廣協同盟]</Chinese>
-        <Chinesesimp>折叠式三脚架(高射脚架)[广协同盟]</Chinesesimp>
+        <Chinesesimp>折叠式三脚架(高射脚架)[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_support_high_f2">
         <Original>Folded Tripod (Raised) [AAF]</Original>
         <Chinese>折疊式腳架(高射腳架)[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>折叠式三脚架(高射脚架)[阿尔蒂斯武装力量]</Chinesesimp>
+        <Chinesesimp>折叠式三脚架(高射脚架)[AAF]</Chinesesimp>
       </Key>
     </Container>
     <Container name="Music_F">

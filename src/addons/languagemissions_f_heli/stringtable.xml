@@ -1566,7 +1566,7 @@
             <Key ID="str_a3_showcase_slingloading_x20_basefallen_tow_0">
               <Original>November, we've lost comms with the locals. Guess the AAF got to them first.</Original>
               <Chinese>"November"，我們已與反抗軍失去通訊。我們猜阿爾蒂斯武裝力量應該已經先逮到他們了。</Chinese>
-              <Chinesesimp>十一月，我们已与反抗军失去通信。猜测阿尔蒂斯武装力量应该已经先逮到他们了。</Chinesesimp>
+              <Chinesesimp>十一月，我们已与反抗军失去通信。猜测AAF应该已经先逮到他们了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_x20_basefallen_tow_1">
               <Original>RTB. We'll sort it out.</Original>
@@ -1689,7 +1689,7 @@
             <Key ID="str_a3_showcase_slingloading_30_changeofplan_tow_1">
               <Original>Some locals took a Greenback outpost on the southern peninsula, and now they're surrounded. You're being re-tasked to help them out.</Original>
               <Chinese>一些當地反叛軍從阿爾蒂斯武裝力量那奪得了一個前哨基地，而現在他們陷入了包圍。你將被重新指派去協助他們。</Chinese>
-              <Chinesesimp>一些当地反叛军从阿尔蒂斯武装力量手中夺得了一个前哨基地，而现在他们陷入了包围。你将被重新指派去协助他们。</Chinesesimp>
+              <Chinesesimp>一些当地反叛军从AAF手中夺得了一个前哨基地，而现在他们陷入了包围。你将被重新指派去协助他们。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_30_changeofplan_tow_2">
               <Original>Friendlies are waiting on the tarmac at the airfield. You are to insert them at the outpost to support the locals.</Original>
@@ -1767,7 +1767,7 @@
             <Key ID="str_a3_showcase_slingloading_16_newtask_tow_1">
               <Original>We've got an AAF MRAP stuck in the Gulf of Pyrgos. Crossroads wants you to deliver it to Pyrgos for inspection.</Original>
               <Chinese>一輛阿爾蒂斯武裝力量的載具被困在皮爾戈斯灣裡。"Crossroads"想要你運送他到皮爾戈斯進行檢查。</Chinese>
-              <Chinesesimp>一辆阿尔蒂斯武装力量的防地雷反伏击车被困在皮尔戈斯湾里。"十字路口"想要你把它运送到皮尔戈斯进行检查。</Chinesesimp>
+              <Chinesesimp>一辆AAF的防地雷反伏击车被困在皮尔戈斯湾里。"十字路口"想要你把它运送到皮尔戈斯进行检查。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_16_newtask_tow_2">
               <Original>Recovery crews are already on station and have the crew members in custody. They'll assist with the pickup.</Original>
@@ -1921,7 +1921,7 @@
           <Key ID="STR_A3_Showcase_SlingLoading_Briefing_Situation_text">
             <Original>We have successfully carried out phase two of our three-phase assault against joint AAF-CSAT forces stationed on Altis. The AAF have been split in two, with entire companies pulling back far to the north-east and south-east ends of the island. CSAT forces, on the other hand, seem to have disappeared entirely. &lt;br /&gt;&lt;br /&gt;However, logistics continue to present an obstacle. With phase two culminating in the seizure of the main airbase, along with several surrounding Forward Operating Bases (FOBs), we stand prepared to overcome this obstacle.</Original>
             <Chinese>在我們對付阿爾蒂斯武裝力量-廣協同盟聯軍的三階段步驟中，我們已經執行到了第二步驟。阿爾蒂斯武裝力量被一分為二，一隊撤往東北方，另一隊撤往東南方。而另一方面，廣協同盟部隊就像是完全消失一樣。&lt;br/&gt;&lt;br/&gt;然而，我們的後勤出現了點困難。在第二步驟的最後，我們控制住了主機場與周邊的前線作戰基地，導致我們的後勤補給分散，這必須是我們得想辦法克服的問題。</Chinese>
-            <Chinesesimp>在我们对付阿尔蒂斯武装力量-广协同盟联军的三阶段步骤中，我们已经执行到了第二步骤。阿尔蒂斯武装力量被一分为二，整连地撤往东北方和东南方。另一方面，广协同盟部队就像是完全消失一样。&lt;br/&gt;&lt;br/&gt;然而，我们的后勤出现了点困难。在第二步骤的最后，我们控制住了主机场与周边的前线作战基地，导致我们的后勤补给分散，这必须是我们得想办法克服的问题。</Chinesesimp>
+            <Chinesesimp>在我们对付AAF-广协联军的三阶段步骤中，我们已经执行到了第二步骤。AAF被一分为二，整连地撤往东北方和东南方。另一方面，广协部队就像是完全消失一样。&lt;br/&gt;&lt;br/&gt;然而，我们的后勤出现了点困难。在第二步骤的最后，我们控制住了主机场与周边的前线作战基地，导致我们的后勤补给分散，这必须是我们得想办法克服的问题。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskAmmoLoad_WP">
             <Original>COLLECT</Original>
@@ -2657,12 +2657,12 @@
           <Key ID="STR_A3_MP_GS_SC_01_Briefing_Situation_text">
             <Original>After their failed invasion of Altis, NATO forces are consolidating their forces around the AAC airfield and Poliakko. CSAT, on the other hand, have reinforced their positions at Neochori and are preparing to launch a major counterattack in the hope of driving NATO forces from Altis.</Original>
             <Chinese>在他們對阿爾蒂斯的入侵失敗之後，北約部隊開使鞏固他們在阿爾蒂斯空中俱樂部機場與波利亞科周邊的部隊。另一方面，廣協同盟則是在内奧霍里周邊養精蓄銳，準備發動一次反攻，期許把北約的部隊一舉踹出阿爾蒂斯。</Chinese>
-            <Chinesesimp>在对阿尔蒂斯的入侵失败之后，北约部队开使巩固他们在阿尔蒂斯空中俱乐部机场与波利亚科周边的部队。另一方面，广协同盟则加强其在内奥霍里地区的阵地，准备发动一次反攻，企图把北约部队一举踹出阿尔蒂斯。</Chinesesimp>
+            <Chinesesimp>在对阿尔蒂斯的入侵失败之后，北约部队开使巩固他们在阿尔蒂斯空中俱乐部机场与波利亚科周边的部队。另一方面，广协则加强其在内奥霍里地区的阵地，准备发动一次反攻，企图把北约部队一举踹出阿尔蒂斯。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_SC_01_Overview_text">
             <Original>Invading NATO forces defend themselves from a CSAT counterattack.</Original>
             <Chinese>北約必須抵禦住廣協同盟的反攻。</Chinese>
-            <Chinesesimp>北约登陆部队必须抵御住广协同盟的反攻。</Chinesesimp>
+            <Chinesesimp>北约登陆部队必须抵御住广协的反攻。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_SC_01_Load_name">
             <Original>Katalaki</Original>
@@ -2704,12 +2704,12 @@
           <Key ID="STR_A3_MP_GS_SC_02_Briefing_Situation_text">
             <Original>Having successfully routed the AAF, forcing them to retreat to the north-east and south-east corners of Altis, NATO forces prepare to deliver the final blow. However, the AAF are far from defeated. As NATO prepare to launch their assault from Delfinaki, the AAF are consolidating their forces around Molos in the hope of stopping NATO in their tracks.</Original>
             <Chinese>在成功擊退阿爾蒂斯武裝力量之後，阿爾蒂斯武裝力量撤退到阿爾蒂斯的東北與東南方的角落，而北約部隊正準備對他們發動最後一次總攻擊。然而，想要打敗阿爾蒂斯武裝力量還遠遠早的很。當北約正準備對澤爾菲納基發動攻擊之時，阿爾蒂斯武裝力量開始鞏固莫洛斯附近的防禦，期望半路攔截北約的部隊。</Chinese>
-            <Chinesesimp>在被迫退却后，阿尔蒂斯武装力量退守阿尔蒂斯岛东北与东南方的角落，而北约部队正准备对他们发动最后一次总攻击。然而，要打败阿尔蒂斯武装力量还远早的很。当北约部队正准备对泽尔菲纳基发动攻击之时，阿尔蒂斯武装力量开始在莫洛斯周边组织力量，企图半路拦截北约部队。</Chinesesimp>
+            <Chinesesimp>在被迫退却后，AAF退守阿尔蒂斯岛东北与东南方的角落，而北约部队正准备对他们发动最后一次总攻击。然而，要打败AAF还远早的很。当北约部队正准备对泽尔菲纳基发动攻击之时，AAF开始在莫洛斯周边组织力量，企图半路拦截北约部队。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_SC_02_Overview_text">
             <Original>Retreating AAF defend themselves from a NATO offensive.</Original>
             <Chinese>撤退中的阿爾蒂斯武裝力量必須抵禦住北約的攻勢。</Chinese>
-            <Chinesesimp>撤退中的阿尔蒂斯武装力量必须抵御住北约的攻势。</Chinesesimp>
+            <Chinesesimp>撤退中的AAF必须抵御住北约的攻势。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_SC_02_Load_name">
             <Original>Sofia</Original>
@@ -2751,12 +2751,12 @@
           <Key ID="STR_A3_MP_GS_SC_03_Briefing_Situation_text">
             <Original>For reasons that are, as of yet, unclear, AAF and CSAT forces have declared an immediate dissolution of their alliance and a commencement of hostilities. The capital of Altis, Pyrgos, remains a no-man's land, holding immense value to both sides. The AAF prepare to launch their assault from the north, while CSAT intend to counter from the south.</Original>
             <Chinese>不知為何，阿爾蒂斯武裝力量和廣協同盟突然宣布解除聯盟關係，並立即進入對立狀態。阿爾蒂斯的首都皮爾戈斯，仍然是塊無人之地，它的價值對兩邊陣營來說都是非常重要的。阿爾蒂斯武裝力量部隊打算從北方發動攻勢，同時廣協同盟也準備從南方發動攻擊。</Chinese>
-            <Chinesesimp>不知为何，阿尔蒂斯武装力量和广协同盟突然宣布解除联盟关系，并立即进入对立状态。阿尔蒂斯的首府皮尔戈斯仍然是块无主之地，它的价值对两边阵营来说都是非常重要的。阿爾蒂斯武裝力量部队打算从北方发动攻势，同时广协同盟也准备从南方发动攻击。</Chinesesimp>
+            <Chinesesimp>不知为何，AAF和广协突然宣布解除联盟关系，并立即进入对立状态。阿尔蒂斯的首府皮尔戈斯仍然是块无主之地，它的价值对两边阵营来说都是非常重要的。阿爾蒂斯武裝力量部队打算从北方发动攻势，同时广协也准备从南方发动攻击。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_SC_03_Overview_text">
             <Original>CSAT-AAF relations have disintegrated. Both sides prepare to stake it all on Pyrgos, the capital.</Original>
             <Chinese>廣協同盟與阿爾蒂斯武裝力量的關係已經瓦解。兩邊都亟欲想獲得首都皮爾戈斯。</Chinese>
-            <Chinesesimp>广协同盟与阿尔蒂斯武装力量的关系已经瓦解。两边都亟欲想获得首都皮尔戈斯。</Chinesesimp>
+            <Chinesesimp>广协与AAF的关系已经瓦解。两边都亟欲想获得首都皮尔戈斯。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_SC_03_Load_name">
             <Original>Pyrgos</Original>
@@ -2798,12 +2798,12 @@
           <Key ID="STR_A3_MP_GS_COOP_01_Briefing_Situation_text">
             <Original>Labelled an insurgency by the local government, the FIA have reveled in a string of victories against the AAF, seizing major ground in the process. The AAF have called upon CSAT for assistance. In response, elements of one of CSAT's elite Airborne Battalions have been deployed to the region to launch counter-insurgency operations against the FIA.</Original>
             <Chinese>當反叛軍自由獨立同盟正沉浸在對阿爾蒂斯武裝力量的勝利時。阿爾蒂斯武裝力量轉頭向廣協同盟請求協助。當作回應，廣協同盟的菁英空降營被部屬到該區，開始對自由獨立同盟執行反叛亂行動。</Chinese>
-            <Chinesesimp>正当自由独立同盟沉浸在对阿尔蒂斯武装力量的胜利中时。阿尔蒂斯武装力量向广协同盟请求协助。作为回应，广协同盟的精锐空降营被部属到该区，开始对自由独立同盟执行反叛乱行动。</Chinesesimp>
+            <Chinesesimp>正当自由独立同盟沉浸在对AAF的胜利中时。AAF向广协请求协助。作为回应，广协的精锐空降营被部属到该区，开始对自由独立同盟执行反叛乱行动。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_COOP_01_Overview_text">
             <Original>Members of an elite CSAT Airborne Battalion launch an offensive against the FIA.</Original>
             <Chinese>廣協同盟的菁英空降營開始對自由獨立同盟發動攻勢。</Chinese>
-            <Chinesesimp>广协同盟的精锐空降营开始对自由独立同盟发动攻势。</Chinesesimp>
+            <Chinesesimp>广协的精锐空降营开始对自由独立同盟发动攻势。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_COOP_01_Load_name">
             <Original>Rodopoli</Original>
@@ -2855,7 +2855,7 @@
           <Key ID="STR_A3_MP_GS_COOP_02_Briefing_Situation_text">
             <Original>Months after Task Force Aegis went dark, the 111th Division have successfully commenced their invasion of Stratis with the capture of the Stratis Air Base. However, the rest of the island remains under AAF control, with defenses strategically positioned at all major installations. As a result, the 111th are coming at them from the north-west, supported by the FIA from the south, with the intention of catching the AAF off-guard.</Original>
             <Chinese>在”神盾"特遣隊失聯後一個月，第111師成功登陸了斯特拉蒂斯島並控制住上面的空軍基地。然而島上的其餘部分還是被阿爾蒂斯武裝力量控制住，包括主要的設施都被嚴密的保護著。為此，第111師打算從西北方發動攻勢，並在南方自由獨立同盟的幫助之下，希望能打的阿爾蒂斯武裝力量一個措手不及。</Chinese>
-            <Chinesesimp>在"宙斯盾"特遣队失联后一个月，第111师成功在斯特拉蒂斯岛实施登陆并控制了岛上的空军基地。然而岛上的其余部分还在阿尔蒂斯武装力量手中，其防御主要围绕各重点设施展开。为此，第111师打算从西北方发动攻势，并在南方自由独立同盟的帮助之下，希望能给阿尔蒂斯武装力量一个措手不及。</Chinesesimp>
+            <Chinesesimp>在"宙斯盾"特遣队失联后一个月，第111师成功在斯特拉蒂斯岛实施登陆并控制了岛上的空军基地。然而岛上的其余部分还在AAF手中，其防御主要围绕各重点设施展开。为此，第111师打算从西北方发动攻势，并在南方自由独立同盟的帮助之下，希望能给AAF一个措手不及。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_COOP_02_Overview_text">
             <Original>The 111th Division launch their invasion of Stratis.</Original>

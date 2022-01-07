@@ -3587,7 +3587,7 @@
           <Key ID="str_a3_to_c02m02_spec_mission">
             <Original>Search the %2designated area%1 for potential AT threats. If you discover anything, take it out. Once the main offensive on %3Houdan%1 begins, your group will need to ambush any CSAT reinforcements moving from %4Point Everglades%1 into the town.</Original>
             <Chinese>搜尋%2指定地區%1，找出潛在的反戰車威脅。只要發現就立刻收拾掉。一旦開始攻擊%3胡丹%1，你必須突襲任何從%4大沼澤區點%1進入城鎮的廣協同盟增援。</Chinese>
-            <Chinesesimp>搜索%2指定地区%1，寻找潜在的反坦克威胁。如果你发现了任何威胁，消灭它。一旦对%3胡丹%1的主攻开始，你的小组需要伏击从%4大沼泽区点%1进入镇内的任何广协同盟增援部队。</Chinesesimp>
+            <Chinesesimp>搜索%2指定地区%1，寻找潜在的反坦克威胁。如果你发现了任何威胁，消灭它。一旦对%3胡丹%1的主攻开始，你的小组需要伏击从%4大沼泽区点%1进入镇内的任何广协增援部队。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c02m02_spec_execution">
             <Original> 1. Check for AT systems in %2the forest%1, beside the road. %6%6 2. Prepare an ambush, possibly at %3Point Sequoia%1, for enemy units leaving %4Point Everglades%1. Do not let them reach %5Houdan%1. </Original>
@@ -3968,7 +3968,7 @@
             <Key ID="str_a3_to_c02_m02_083_eve_sf_tank_crew_discovered_pariah_0">
               <Original>Guardian, we're getting played. Some of these CSAT guys are Chinese not African, over.</Original>
               <Chinese>"守護者"，我們被耍了。這些廣協同盟部隊有部分是中國人，不是非洲人，完畢。</Chinese>
-              <Chinesesimp>"守护者"，我们被耍了。这些广协同盟的家伙里有一些是中国人，不是非洲人。完毕，请回复。</Chinesesimp>
+              <Chinesesimp>"守护者"，我们被耍了。这些广协的家伙里有一些是中国人，不是非洲人。完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_083_eve_sf_tank_crew_discovered_pariah_1">
               <Original>I'm as sure as shit-fire, there's a dead tank crew, they're Asian.</Original>
@@ -3980,7 +3980,7 @@
             <Key ID="str_a3_to_c02_m02_082_eve_inf_tank_crew_discovered_alphaspeaker_0">
               <Original>Alpha to Guardian. Something doesn't quite add up. Gotta dead CSAT tank crew - they're Asian, not African. Over.</Original>
               <Chinese>"Alpha"呼叫"守護者"。狀況有點不對勁。死去的廣協同盟戰車隊員-是亞洲人，不是非洲人。完畢。</Chinese>
-              <Chinesesimp>"阿尔法"呼叫"守护者"。有件事不大对劲。看到了阵亡的广协同盟坦克兵-他们是亚洲人，不是非洲人。完毕，请回复。</Chinesesimp>
+              <Chinesesimp>"阿尔法"呼叫"守护者"。有件事不大对劲。看到了阵亡的广协坦克兵-他们是亚洲人，不是非洲人。完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_082_eve_inf_tank_crew_discovered_guardian_0">
               <Original>That's good intel, Alpha, we'll get it to INSCOM. Out.</Original>
@@ -4422,7 +4422,7 @@
             <Key ID="str_a3_to_c02_m02_056_eve_sf_area_cleared_a_in_pariah_1">
               <Original>Ran into a small CSAT group at Point Congaree.</Original>
               <Chinese>我在康加里點碰見一支廣協同盟小隊。</Chinese>
-              <Chinesesimp>在康加里点遇到了一小支广协同盟部队。</Chinesesimp>
+              <Chinesesimp>在康加里点遇到了一小支广协部队。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_056_eve_sf_area_cleared_a_in_pariah_2">
               <Original>There's some alpha victors here but nothing too heavy, over.</Original>
@@ -4434,7 +4434,7 @@
             <Key ID="str_a3_to_c02_m02_055_ta_sf_counterattacked_neutralized_guardian_0">
               <Original>Good going, Pariah, we're seeing it across the board, CSAT's frontlines are crumbling!</Original>
               <Chinese>進行得很順利啊，"賤民"，廣協同盟的防線全面崩潰了!</Chinese>
-              <Chinesesimp>好样的，"贱民"，我们全都看到了，广协同盟的战线正在崩溃!</Chinesesimp>
+              <Chinesesimp>好样的，"贱民"，我们全都看到了，广协的战线正在崩溃!</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_055_ta_sf_counterattacked_neutralized_pariah_0">
               <Original>Guardian, it's over.</Original>
@@ -4837,7 +4837,7 @@
             <Key ID="str_a3_to_c02_m02_031_am_sf_situation_chatter_medic_2">
               <Original>I mean - y'know, are we at war with CSAT now or what?</Original>
               <Chinese>我是說-你懂的，我們現在是在和廣協同盟交戰嗎?</Chinese>
-              <Chinesesimp>我的意思是-你知道，我们现在是和广协同盟交战还是怎么的?</Chinesesimp>
+              <Chinesesimp>我的意思是-你知道，我们现在是和广协交战还是怎么的?</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_031_am_sf_situation_chatter_medic_3">
               <Original>Great. That's, great.</Original>
@@ -5102,7 +5102,7 @@
             <Key ID="str_a3_to_c02_m02_016_ta_inf_second_town_captured_guardian_1">
               <Original>CSAT's Scimitar Regiment just threw in the towel. Expect a full cessation of hostilities within the hour! Out.</Original>
               <Chinese>廣協同盟的彎刀軍團剛剛投降了。應該一小時內敵方就會全面停止作戰。結束通話。</Chinese>
-              <Chinesesimp>广协同盟的"大弯刀"团刚刚宣布投降。预计一小时内敌对态势将全面终止!完毕。</Chinesesimp>
+              <Chinesesimp>广协的"大弯刀"团刚刚宣布投降。预计一小时内敌对态势将全面终止!完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="015_ta_inf_alpha_to_supply" audioFilePath="\a3\dubbing_f_tacops\to_c02_m02" dialogName="015_ta_inf_alpha_to_supply" dubbingLanguage="english" namePrefix="to_c02_m02_015_ta_inf_alpha_to_supply" note="" participants="TO_guardian;TO_alphaspeaker;" situation="hq gives a player new orders. secure supply depot on the coast.">
@@ -5487,7 +5487,7 @@
             <Key ID="str_a3_to_c02_m02_001_br_briefing_guardian_5">
               <Original>CSAT are divided.</Original>
               <Chinese>廣協同盟內部意見分歧。</Chinese>
-              <Chinesesimp>广协同盟四分五裂。</Chinesesimp>
+              <Chinesesimp>广协四分五裂。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_001_br_briefing_guardian_6">
               <Original>Member states seem to have no clear consensus on whether or not they're at war with us...</Original>
@@ -5715,7 +5715,7 @@
           <Key ID="str_a3_to_c02_m01_situation">
             <Original>The situation here on Malden is confused at best. China has attempted to de-escalate the crisis by allowing us to land a temporary holding force to monitor its %4long-range jets%2.  However, troops from CSAT's North African member states are against us. They've retreated inland with some armored assets and man-portable AA systems, harassing our troops from afar. To deal with the threat, we're striking their positions from the %1north%2 and %3south%2, with one group pushing down towards La Trinité and another, cutting-off logistics from the direction of the %6harbor%2 and our provisional base at %7Camp Noe%2.</Original>
             <Chinese>馬爾登島上情勢相當混亂。中國試圖降低危機，因此同意我方暫時駐軍監控它們的%4長程噴射機%2。不過，廣協同盟的北非會員國部隊敵視我們。這批人馬帶著一些裝甲部隊與人員攜帶式防空系統退到內陸，開始從遠處騷擾我軍。要解決這個威脅，我們要從%1北方%2與%3南方%2出擊:一隊往下推進至拉·特里尼特，另一隊負責切斷從%6港口%2至我方%7諾伊營地%2的敵方後勤。</Chinese>
-            <Chinesesimp>马尔登岛的局势往好了说也是混乱的。中国人允许我们登陆部署一支临时占领部队来监控她的%4远程喷气机%2，试图借此缓和危机。然而，广协同盟的北非成员国派出的军队反对我们。他们已携带一些装甲装备和便携式防空系统撤退至内陆，从远处骚扰我们的军队。为了对付这一威胁，我们从%1北面%2和%3南面%2攻击他们的阵地，一支队伍往拉·特里尼特推进，另一支从%6港口%2和我们设在%诺伊营地%2的临时基地方向截断物资供应。</Chinesesimp>
+            <Chinesesimp>马尔登岛的局势往好了说也是混乱的。中国人允许我们登陆部署一支临时占领部队来监控她的%4远程喷气机%2，试图借此缓和危机。然而，广协的北非成员国派出的军队反对我们。他们已携带一些装甲装备和便携式防空系统撤退至内陆，从远处骚扰我们的军队。为了对付这一威胁，我们从%1北面%2和%3南面%2攻击他们的阵地，一支队伍往拉·特里尼特推进，另一支从%6港口%2和我们设在%诺伊营地%2的临时基地方向截断物资供应。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c02m01_selectspecialdescription">
             <Original>Operate behind enemy lines and destroy an enemy mortar team.</Original>
@@ -5875,7 +5875,7 @@
             <Key ID="str_a3_to_c02_m01_086_ex_inf_player_apc_hit_alphaspeaker_1">
               <Original>These CSAT guys ain't using bargain basement shit, sir! Over.</Original>
               <Chinese>廣協同盟這些傢伙用的可不是一般的破銅爛鐵，長官!完畢。</Chinese>
-              <Chinesesimp>这些广协同盟家伙用的不是一般的破铜烂铁，长官!完毕，请回复。</Chinesesimp>
+              <Chinesesimp>这些广协家伙用的不是一般的破铜烂铁，长官!完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_086_ex_inf_player_apc_hit_guardian_0">
               <Original>Acknowledged, Alpha... Proceed with caution. Out.</Original>
@@ -5928,7 +5928,7 @@
             <Key ID="str_a3_to_c02_m01_070_loc_inf_cache_discovered_alphaspeaker_3">
               <Original>No way CSAT aren't working from the same playbook, sir. Over.</Original>
               <Chinese>廣協同盟絕對沒有按照規矩來，長官。完畢。</Chinese>
-              <Chinesesimp>广协同盟不可能没有统一行动，长官。完毕，请回复。</Chinesesimp>
+              <Chinesesimp>广协不可能没有统一行动，长官。完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_070_loc_inf_cache_discovered_guardian_1">
               <Original>Copy that, Alpha, we'll investigate later. Guardian, out.</Original>
@@ -6304,7 +6304,7 @@
             <Key ID="str_a3_to_c02_m01_007_ta_all_at_neutralized_alphaspeaker_1">
               <Original>CSAT are pulling back... over.</Original>
               <Chinese>廣協同盟正在撤退...完畢。</Chinese>
-              <Chinesesimp>广协同盟正在撤退。完毕，请回复。</Chinesesimp>
+              <Chinesesimp>广协正在撤退。完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_007_ta_all_at_neutralized_charliespeaker_0">
               <Original>Guardian, wilco, advancing on Point Sanford, out.</Original>
@@ -6427,7 +6427,7 @@
             <Key ID="str_a3_to_c02_m01_003_br_sf_briefing_c_guardian_5">
               <Original>Be mindful of CSAT patrols and this particular location, here, at Point Sanford.</Original>
               <Chinese>小心這地區的廣協同盟巡邏隊，他們人在桑福德點。</Chinese>
-              <Chinesesimp>小心广协同盟的巡逻队和桑福德点这个位置。</Chinesesimp>
+              <Chinesesimp>小心广协的巡逻队和桑福德点这个位置。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_003_br_sf_briefing_c_guardian_6">
               <Original>As soon as you've accomplished your mission, retreat to Point Borah and regroup.</Original>
@@ -6479,7 +6479,7 @@
             <Key ID="str_a3_to_c02_m01_002_br_inf_briefing_b_guardian_7">
               <Original>This will draw troops from Point Crillon - where we believe a lot of CSAT's wounded are.</Original>
               <Chinese>用這方式引出克里倫點的部隊-我們認為那裡有不少廣協同盟的傷兵。</Chinese>
-              <Chinesesimp>这将引来克里伦点的军队-我们相信那儿有很多广协同盟伤兵。</Chinesesimp>
+              <Chinesesimp>这将引来克里伦点的军队-我们相信那儿有很多广协伤兵。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_002_br_inf_briefing_b_guardian_8">
               <Original>Alpha can then approach from Chapoi and secure the site.</Original>
@@ -6516,7 +6516,7 @@
             <Key ID="str_a3_to_c02_m01_001_br_all_briefing_a_guardian_2">
               <Original>After our exit and the catastrophic handling of Cold War-era stockpiles, Malden has drifted into CSAT's sphere of influence.</Original>
               <Chinese>自從我們撤出馬爾登、冷戰時期留下的那批儲藏物又處理得一團亂後，馬爾登島就被納入廣協同盟的勢力範圍了。</Chinese>
-              <Chinesesimp>在我们撤离该地以及冷战时期的武器储备遭受灾难性处置之后，马尔登岛落入广协同盟的势力范围。</Chinesesimp>
+              <Chinesesimp>在我们撤离该地以及冷战时期的武器储备遭受灾难性处置之后，马尔登岛落入广协的势力范围。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_001_br_all_briefing_a_guardian_3">
               <Original>Our former base, here, to the north of the main airport, is now a major concern.</Original>
@@ -6551,7 +6551,7 @@
             <Key ID="str_a3_to_c02_m01_001_br_all_briefing_a_guardian_9">
               <Original>However, African troops from CSAT's Scimitar Regiment are non-compliant.</Original>
               <Chinese>但是，廣協同盟中的非洲裔部隊-彎刀軍團-拒絕合作。</Chinese>
-              <Chinesesimp>然而，来自广协同盟"大弯刀"团的非洲军队不遵守协议。</Chinesesimp>
+              <Chinesesimp>然而，来自广协"大弯刀"团的非洲军队不遵守协议。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_001_br_all_briefing_a_guardian_12">
               <Original>Our response has been about denying the enemy time.</Original>
@@ -6638,7 +6638,7 @@
             <Key ID="str_a3_to_c02_m01_088_ex_sf_camp_alarmed_pariah_0">
               <Original>Guardian, Pariah. CSAT's raised the alarm. Over.</Original>
               <Chinese>"守護者"，這是"賤民"。廣協同盟開始提高警覺了。完畢。</Chinese>
-              <Chinesesimp>"守护者"，"贱民"。广协同盟发出了警报。完毕，请回复。</Chinesesimp>
+              <Chinesesimp>"守护者"，"贱民"。广协发出了警报。完毕，请回复。</Chinesesimp>
             </Key>
           </Container>
           <Container name="087_ex_inf_pow_killed" audioFilePath="\a3\dubbing_f_tacops\to_c02_m01" dialogName="087_ex_inf_pow_killed" dubbingLanguage="english" namePrefix="to_c02_m01_087_ex_inf_pow_killed" note="" participants="TO_pariah;" situation="player executes a wounded enemy soldier.">
@@ -6844,7 +6844,7 @@
             <Key ID="str_a3_to_c02_m01_071_loc_sf_cache_discovered_pariah_2">
               <Original>Looks to me like your CSAT boys are being well supplied.</Original>
               <Chinese>看來那些廣協同盟傢伙的補給充足啊。</Chinese>
-              <Chinesesimp>在我看来，像是你们广协同盟的人正得到充足的补给。</Chinesesimp>
+              <Chinesesimp>在我看来，像是你们广协的人正得到充足的补给。</Chinesesimp>
             </Key>
           </Container>
           <Container name="069_eve_sf_truck_destroyed" audioFilePath="\a3\dubbing_f_tacops\to_c02_m01" dialogName="069_eve_sf_truck_destroyed" dubbingLanguage="english" namePrefix="to_c02_m01_069_eve_sf_truck_destroyed" note="" participants="TO_pariah;" situation="player destroys the truck that is transporting the enemy's mortar - vehicle explodes.">
@@ -7271,7 +7271,7 @@
             <Key ID="str_a3_to_c02_m01_030_ta_sf_mortar_gone_a_guardian_2">
               <Original>CSAT armor. Possible sighting. Grid 057-043... we need to verify before our attack.</Original>
               <Chinese>可能發現廣協同盟裝甲的位置了。方格坐標057-043...攻擊前必須確認消息真偽。</Chinese>
-              <Chinesesimp>可能发现广协同盟装甲。坐标057-043...我们需要在攻击前核实一下。</Chinesesimp>
+              <Chinesesimp>可能发现广协装甲。坐标057-043...我们需要在攻击前核实一下。</Chinesesimp>
             </Key>
           </Container>
           <Container name="029_ta_sf_opening" audioFilePath="\a3\dubbing_f_tacops\to_c02_m01" dialogName="029_ta_sf_opening" dubbingLanguage="english" namePrefix="to_c02_m01_029_ta_sf_opening" note="" participants="TO_pariah;TO_guardian;" situation="special forces contact hq.">
@@ -7332,7 +7332,7 @@
             <Key ID="str_a3_to_c02_m01_009_eve_all_mortars_destroyed_a_guardian_1">
               <Original>Seize Point Blackburn and interdict any CSAT troops located there.</Original>
               <Chinese>佔領布萊克本點並攔截駐守在那裡的所有廣協同盟部隊。</Chinese>
-              <Chinesesimp>夺取布莱克本点并阻断位于那里的任何广协同盟部队。</Chinesesimp>
+              <Chinesesimp>夺取布莱克本点并阻断位于那里的任何广协部队。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_009_eve_all_mortars_destroyed_a_guardian_2">
               <Original>Do not let them linkup with hostile forces. Over.</Original>
@@ -7449,7 +7449,7 @@
             <Key ID="str_a3_to_c03_m03_037_ta_evacuate_opportunity_guardian_6">
               <Original>Do not approach. A CSAT submarine's active in the area. Do you copy...? Over.</Original>
               <Chinese>你們別接近。這地區有一臺廣協同盟潛水艇在活動。你收到嗎...?完畢。</Chinese>
-              <Chinesesimp>不要靠近。广协同盟潜艇在该地区很活跃。你收到了吗...?完毕，请回复。</Chinesesimp>
+              <Chinesesimp>不要靠近。广协潜艇在该地区很活跃。你收到了吗...?完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_037_ta_evacuate_opportunity_proteus_3">
               <Original>I authenticate with Zulu Delta.</Original>
@@ -7532,7 +7532,7 @@
             <Key ID="str_a3_to_c03_m03_033_ta_enemy_reinforcements_maverick_0">
               <Original>Guardian, flash! AAF armored column is counterattacking from the north.</Original>
               <Chinese>"守護者"，緊急訊息!阿爾蒂斯武裝力量的裝甲縱隊從北方反攻過來。</Chinese>
-              <Chinesesimp>"守护者"，紧急消息!阿尔蒂斯武装力量装甲纵队正在从北方发动反攻。</Chinesesimp>
+              <Chinesesimp>"守护者"，紧急消息!AAF装甲纵队正在从北方发动反攻。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_033_ta_enemy_reinforcements_maverick_1">
               <Original>We can delay them, but not for long.</Original>
@@ -7549,7 +7549,7 @@
             <Key ID="str_a3_to_c03_m03_032_ta_chalkeia_captured_guardian_1">
               <Original>More importantly, higher's just sent word: the AAF are retreating from the airport and withdrawing to Pyrgos, the capital.</Original>
               <Chinese>重點是，我們剛收到上級的消息:阿爾蒂斯武裝力量正退出機場，退到首都皮爾戈斯。</Chinese>
-              <Chinesesimp>更重要的是，指挥部刚刚通知说:阿尔蒂斯武装力量正在从机场撤退，并撤退到首都皮尔戈斯。</Chinesesimp>
+              <Chinesesimp>更重要的是，指挥部刚刚通知说:AAF正在从机场撤退，并撤退到首都皮尔戈斯。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_032_ta_chalkeia_captured_guardian_2">
               <Original>Boys, you did it...</Original>
@@ -8628,7 +8628,7 @@
             <Key ID="str_a3_to_c03_m02_001_br_briefing_collins_4">
               <Original>In fact, the AAF are tightening the noose, even as I speak - we need to act, now.</Original>
               <Chinese>老實說，就在這個當下，阿爾蒂斯武裝力量也在加緊收網-我們必須行動，就是現在。</Chinese>
-              <Chinesesimp>事实上，阿尔蒂斯武装力量正在收紧绞索，即使在我说话的时候-我们必须采取行动，马上。</Chinesesimp>
+              <Chinesesimp>事实上，AAF正在收紧绞索，即使在我说话的时候-我们必须采取行动，马上。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_001_br_briefing_collins_5">
               <Original>Fortunately, LZ Blazer, here, faired better than ourselves.</Original>
@@ -8761,12 +8761,12 @@
           <Key ID="str_a3_to_c03m03_tskaadesc">
             <Original>Seek and destroy CSAT's AA vehicle.</Original>
             <Chinese>搜查並摧毀廣協同盟的防空載具。</Chinese>
-            <Chinesesimp>寻找并摧毁广协同盟的自行高炮。</Chinesesimp>
+            <Chinesesimp>寻找并摧毁广协的自行高炮。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m03_situation">
             <Original>Our initial attack began before your group arrived, but it's come to a halt %2outside the town%1 - we need to overrun the AAF's %3defensive positions%1, now!&lt;br/&gt;&lt;br/&gt;Enemy armor from %4Pyrgos%1 may arrive at any moment, so it's vital we get things moving. They can't catch our forces on open ground.&lt;br/&gt;&lt;br/&gt;In terms of air support, it's a no-go, at least until we know for sure there's no active AA threats in the area.</Original>
             <Chinese>在你的隊伍到達戰場前，首波攻擊便已展開，但卻在%2城外%1停滯住了-我們必須擊潰阿爾蒂斯武裝力量的%3防線%1，立刻!&lt;br/&gt;&lt;br/&gt;敵方在%4皮爾戈斯%1的裝甲部隊隨時可能來襲，所以我們務必盡快行動。這一路上地形開闊，我們絕不能被裝甲部隊追上。&lt;br/&gt;&lt;br/&gt;目前暫時無法呼叫空中支援，至少得先確認地區內沒有敵方防空威脅活動才行。</Chinese>
-            <Chinesesimp>我们的首次进攻在你的团队到达之前开始，但进攻在%2城外%1停止了-我们得占领阿尔蒂斯武装力量的%3防御阵地%1，立即行动!&lt;br/&gt;&lt;br/&gt;敌军在%4皮尔戈斯%1的装甲部队随时可能抵达，因此当务之急是继续前进。他们不能在开阔的地面上赶上我们的部队。&lt;br/&gt;&lt;br/&gt;因为有空中支援，这根本行不通，至少在我们确定此区域内没有有效防空火力时是这样的。</Chinesesimp>
+            <Chinesesimp>我们的首次进攻在你的团队到达之前开始，但进攻在%2城外%1停止了-我们得占领AAF的%3防御阵地%1，立即行动!&lt;br/&gt;&lt;br/&gt;敌军在%4皮尔戈斯%1的装甲部队随时可能抵达，因此当务之急是继续前进。他们不能在开阔的地面上赶上我们的部队。&lt;br/&gt;&lt;br/&gt;因为有空中支援，这根本行不通，至少在我们确定此区域内没有有效防空火力时是这样的。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m03_signal">
             <Original>%2Alpha%1 - Group led by Lt. Collins.&lt;br/&gt;&lt;br/&gt;%3Bravo%1 - Infantry element.&lt;br/&gt;&lt;br/&gt;%4Charlie%1 - Infantry element.&lt;br/&gt;&lt;br/&gt;%5Sierra%1 - Your team.&lt;br/&gt;&lt;br/&gt;%6Guardian%1 - Command.&lt;br/&gt;&lt;br/&gt;%7Maverick%1 - Special forces group.</Original>
@@ -8796,7 +8796,7 @@
           <Key ID="str_a3_to_c03m03_outrotext08a">
             <Original>Of the %1 wounded soldiers, captured by the AAF at the emergency rendezvous point, only %2 survived.</Original>
             <Chinese>緊急集合點被阿爾蒂斯武裝力量占領後，該處的%1位負傷弟兄只有%2位倖免於難，成功生還。</Chinese>
-            <Chinesesimp>在紧急会合点被阿尔蒂斯武装力量俘虏的%1位伤兵中，只有%2位幸存。</Chinesesimp>
+            <Chinesesimp>在紧急会合点被AAF俘虏的%1位伤兵中，只有%2位幸存。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m03_outrotext07b">
             <Original>As for Sgt. Sturrock, he received a Bronze Star for heroic achievement, posthumously.</Original>
@@ -8831,7 +8831,7 @@
           <Key ID="str_a3_to_c03m03_outrotext03">
             <Original>During the battle, all sides suffered heavy losses. The AAF reported %1 casualties, while NATO counted %2.</Original>
             <Chinese>在行動中，各派系都傷亡慘重。阿爾蒂斯武裝力量折損%1名士兵，而北約折損%2名士兵。</Chinese>
-            <Chinesesimp>在战斗中，各方均遭受重大损失。阿尔蒂斯武装力量报告%1人伤亡，而北约的伤亡统计是%2。</Chinesesimp>
+            <Chinesesimp>在战斗中，各方均遭受重大损失。AAF报告%1人伤亡，而北约的伤亡统计是%2。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m03_outrotext02b">
             <Original>At %1, after %2 of fighting, the 21st Combat Group retreated from Chalkeia.</Original>
@@ -9317,7 +9317,7 @@
             <Key ID="str_a3_to_c03_m01_001_br_briefing_bowker_6">
               <Original>But, with last-minute reports of a CSAT sub lurking somewhere off the coast, higher shit-canned the plan and left us with this.</Original>
               <Chinese>但是，最新收到的消息指出有艘廣協同盟潛水艇在海岸某處出沒，上級臨時喊停作戰計畫，把爛攤子留給我們。</Chinese>
-              <Chinesesimp>但是，最后的报告说广协同盟的潜艇潜伏在海岸附近的某个地方，指挥部他妈的放弃了计划，留给了我们这个。</Chinesesimp>
+              <Chinesesimp>但是，最后的报告说广协的潜艇潜伏在海岸附近的某个地方，指挥部他妈的放弃了计划，留给了我们这个。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_001_br_briefing_bowker_7">
               <Original>So.</Original>
@@ -9362,7 +9362,7 @@
             <Key ID="str_a3_to_c03_m01_001_br_briefing_bowker_14">
               <Original>A second front here, close to Pyrgos, will leave the AAF no choice.</Original>
               <Chinese>在皮爾戈斯附近拉起第二陣線，不留給阿爾蒂斯武裝力量任何餘地。</Chinese>
-              <Chinesesimp>在皮尔戈斯附近的第二战场，将让阿尔蒂斯武装力量别无选择。</Chinesesimp>
+              <Chinesesimp>在皮尔戈斯附近的第二战场，将让AAF别无选择。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_001_br_briefing_bowker_15">
               <Original>They will have to weaken their grip on the main airport.</Original>
@@ -9640,7 +9640,7 @@
             <Key ID="str_a3_to_c03_m01_024_ta_regroup_point_out_collins_1">
               <Original>That's our last line of defence, we can't let the AAF take it.</Original>
               <Chinese>教堂是我們的最後防線，絕對不能落入阿爾蒂斯武裝力量手裡。</Chinese>
-              <Chinesesimp>那是我们的最后一道防线，不能让阿尔蒂斯武装力量攻破。</Chinesesimp>
+              <Chinesesimp>那是我们的最后一道防线，不能让AAF攻破。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_024_ta_regroup_point_out_collins_2">
               <Original>There's some ammo boxes up there...</Original>
@@ -9720,7 +9720,7 @@
             <Key ID="str_a3_to_c03_m01_019_am_regroup_point_under_fire_a_collins_2">
               <Original>The AAF are attacking our position!</Original>
               <Chinese>阿爾蒂斯武裝力量正在攻擊這裡!</Chinese>
-              <Chinesesimp>阿尔蒂斯武装力量正在攻击我们的阵地!</Chinesesimp>
+              <Chinesesimp>AAF正在攻击我们的阵地!</Chinesesimp>
             </Key>
           </Container>
           <Container name="018_eve_mortar_secured_in" audioFilePath="\a3\dubbing_f_tacops\to_c03_m01" dialogName="018_eve_mortar_secured_in" dubbingLanguage="english" namePrefix="to_c03_m01_018_eve_mortar_secured_in" note="" participants="TO_barklem;TO_collins;" situation="player acquires the mortar.">
@@ -10254,7 +10254,7 @@
       <Key ID="str_a3_to_c03_outro_text06a">
         <Original>From %1 injured soldiers gathered at the emergency rendezvous captured by AAF, only %2 survived.</Original>
         <Chinese>緊急集合點被阿爾蒂斯武裝力量佔領後，該處的%1名負傷士兵，只存活了%2名。</Chinese>
-        <Chinesesimp>在阿尔蒂斯武装力量夺取的紧急会合点聚集的%1名受伤士兵中，只有%2名存活下来。</Chinesesimp>
+        <Chinesesimp>在AAF夺取的紧急会合点聚集的%1名受伤士兵中，只有%2名存活下来。</Chinesesimp>
       </Key>
       <Key ID="str_a3_to_c03_outro_text05a">
         <Original>Lt. Collins was promoted to 1st Lieutenant (in memoriam). Sgt. Sturrock was (posthumously) awarded Bronze Star for heroic achievements in the operation.</Original>
@@ -10269,7 +10269,7 @@
       <Key ID="str_a3_to_c03_outro_text03a">
         <Original>Both sides suffered heavy losses. During the operation, AAF lost %1 men. NATO suffered %2 casualties.</Original>
         <Chinese>雙方都傷亡慘重。在本次行動中，阿爾蒂斯武裝力量折損%1名士兵。北約折損%2名士兵。</Chinese>
-        <Chinesesimp>双方都损失惨重。在作战期间，阿尔蒂斯武装力量损失了%1名士兵。北约有%2人伤亡。</Chinesesimp>
+        <Chinesesimp>双方都损失惨重。在作战期间，AAF损失了%1名士兵。北约有%2人伤亡。</Chinesesimp>
       </Key>
       <Key ID="str_a3_to_c03_outro_text02a">
         <Original>At %1:%2, after %3 hours of fighting, 21th combat group evacuated from Chalkeia.</Original>
@@ -10459,7 +10459,7 @@
       <Key ID="str_a3_to_c02_outro_text01a">
         <Original>Once Houdan and Dourdan fell, CSAT's Scimitar Regiment surrendered.</Original>
         <Chinese>我軍拿下胡丹和杜爾丹後，廣協同盟的彎刀軍團便投降了。</Chinese>
-        <Chinesesimp>胡丹和杜尔丹沦陷后，广协同盟的大弯刀团投降了。</Chinesesimp>
+        <Chinesesimp>胡丹和杜尔丹沦陷后，广协的大弯刀团投降了。</Chinesesimp>
       </Key>
       <Key ID="str_a3_to_c02_opening_text09a">
         <Original>The invasion simply cannot fail.</Original>
@@ -10514,7 +10514,7 @@
       <Key ID="str_a3_to_c02_opening_text03a">
         <Original>CSAT have taken control.</Original>
         <Chinese>廣協同盟已經取得控制權。</Chinese>
-        <Chinesesimp>广协同盟已控制局面。</Chinesesimp>
+        <Chinesesimp>广协已控制局面。</Chinesesimp>
       </Key>
       <Key ID="str_a3_to_c02_opening_text02b">
         <Original>ISLAND</Original>

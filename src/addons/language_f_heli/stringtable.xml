@@ -355,7 +355,7 @@
       <Key ID="str_a3_cfghints_premiumcontent_premiumheli1">
         <Original>Start the engines! Jump into new cargo helicopters and master a new sling loading feature to gain an advantage on the battlefield in the Arma 3 Helicopters DLC.%1&lt;img size='9' shadow='0' image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa' /&gt;%1%2CH-67 Huron - NATO's twin-engine, tandem rotor heavy-lift helicopter%1%2Mi-290 Taru - CSAT heavy utility helicopter using a coaxial rotor design%1%2M-900 - Civilian variant of the existing H-9 family of helicopters%1%2Sling Loading Objects%1%2Helicopter Objects%1%2F.O.B. Objects%1%2Support Multiplayer - a new mode in which battlefield logistics play a major role%1%2&lt;t&gt;&lt;/t&gt;4 VR Helicopter Training Course%1%2Showcase Sling Loading%1%2&lt;t&gt;&lt;/t&gt;5 Singleplayer Time Trial Challenges%1%2Set of extra Steam Achievements</Original>
         <Chinese>啟動引擎!駕駛新的運輸直升機，投入武裝突襲3戰場中體驗新的吊掛系統，一切盡在直升機資料片中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67"休倫"-北約的雙引擎，綜列式旋翼，重型吊掛直升機。%1%2米-290"塔魯"-廣協同盟的重型多用途直升機，使用同軸式旋翼設計%1%2M-900-現有的H-9系列的民用版本%1%2吊掛物件%1%2直升機物件%1%2前線作戰基地物件%1%2多人支援任務-一個新的多人遊戲模式，你將在這邊體驗到支援的樂趣%1%2&lt;t&gt;&lt;/t&gt;4虛擬直升機訓練課程%1%2吊掛任務展示%1%2&lt;t&gt;&lt;/t&gt;5個單人計時挑戰賽%1%2一組額外的Steam成就</Chinese>
-        <Chinesesimp>启动引擎!驾驶新的运输直升机，投入武装突袭3战场中体验新的吊挂系统，一切尽在直升机资料片中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67"休伦"-北约的双引擎，综列式旋翼，重型吊挂直升机。%1%2米-290"塔鲁"-广协同盟的重型多用途直升机，使用同轴式旋翼设计%1%2M-900-现有的H-9系列的民用版本%1%2吊挂物件%1%2直升机物件%1%2前线作战基地物件%1%2多人支援任务-一个新的多人游戏模式，你将在这边体验到支援的乐趣%1%2&lt;t&gt;&lt;/t&gt;4虚拟直升机训练课程%1%2吊挂任务展示%1%2&lt;t&gt;&lt;/t&gt;5个单人计时挑战赛%1%2一组额外的Steam成就</Chinesesimp>
+        <Chinesesimp>启动引擎!驾驶新的运输直升机，投入武装突袭3战场中体验新的吊挂系统，一切尽在直升机资料片中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67"休伦"-北约的双引擎，综列式旋翼，重型吊挂直升机。%1%2米-290"塔鲁"-广协的重型多用途直升机，使用同轴式旋翼设计%1%2M-900-现有的H-9系列的民用版本%1%2吊挂物件%1%2直升机物件%1%2前线作战基地物件%1%2多人支援任务-一个新的多人游戏模式，你将在这边体验到支援的乐趣%1%2&lt;t&gt;&lt;/t&gt;4虚拟直升机训练课程%1%2吊挂任务展示%1%2&lt;t&gt;&lt;/t&gt;5个单人计时挑战赛%1%2一组额外的Steam成就</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumheli0">
         <Original>Helicopters DLC</Original>
@@ -535,7 +535,7 @@
       <Key ID="STR_A3_TARU_DESC_F0">
         <Original>The Mi-290 Taru is a CSAT heavy utility helicopter with coaxial rotors and a unique modular construction. Its design is inspired by both Kamov Ka-226 and S-64 Skycrane aircraft. Various mission pods allow Taru to serve many different roles. Primarily it can transport cargo (up to 13,500 kg), troops (up to 16 passengers), and provide battlefield supplies (ammunition, fuel, repair facilities, and medical equipment). The helicopter can also transport light vehicles thanks to Sling Loading capabilities. While the Taru is unarmed, it does have countermeasure launchers.</Original>
         <Chinese>Mi-290"塔魯"是一臺廣協同盟的重型多用途直升機，此機採用同軸式旋翼設計，並帶有特殊的模組化結構。他的設計是採用由卡莫夫設計局所研發的Ka-226和S-64S"西科斯基"。多種不同的吊倉，使"塔魯"能擔任不同的任務角色。他主要能運輸貨物(上限是13500公斤)，步兵(上限是16名乘員)，和多種戰地補給(彈藥，燃油，維修設施，醫療裝備)。感謝吊掛系統的能力，此直升機也可掛載一些輕型載具。即使"塔魯"本身是無武裝的，但它有裝設反制措施在機上。</Chinese>
-        <Chinesesimp>米-290"塔鲁"是广协同盟的一种重型多用途直升机，此机采用同轴式旋翼设计，并采取独特的模块化结构。它的设计来源于卡莫夫设计局的卡-226和"西科斯基"S-64"天空吊车"。多种不同的吊舱，使"塔鲁"能担任不同的任务职责。它主要能运输货物(上限是13500千克)，步兵(上限是16名乘员)，还能提供多种战地补给(弹药，燃油，维修设施，医疗装备)。凭借吊挂系统的能力，此直升机也可挂载一些轻型载具。虽然"塔鲁"本身是无武装的，但它配备了干扰弹。</Chinesesimp>
+        <Chinesesimp>米-290"塔鲁"是广协的一种重型多用途直升机，此机采用同轴式旋翼设计，并采取独特的模块化结构。它的设计来源于卡莫夫设计局的卡-226和"西科斯基"S-64"天空吊车"。多种不同的吊舱，使"塔鲁"能担任不同的任务职责。它主要能运输货物(上限是13500千克)，步兵(上限是16名乘员)，还能提供多种战地补给(弹药，燃油，维修设施，医疗装备)。凭借吊挂系统的能力，此直升机也可挂载一些轻型载具。虽然"塔鲁"本身是无武装的，但它配备了干扰弹。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_helivelocityvector_main_title">
         <Original>Velocity Vector</Original>
@@ -1006,7 +1006,7 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnai_csat">
         <Original>CSAT (OPFOR)</Original>
         <Chinese>廣協同盟(紅方)</Chinese>
-        <Chinesesimp>广协同盟(红方)</Chinesesimp>
+        <Chinesesimp>广协(红方)</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_blacklistedgroups">
         <Original>Blacklisted Groups</Original>
@@ -1026,7 +1026,7 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnai_aaf">
         <Original>AAF (Independent)</Original>
         <Chinese>阿爾蒂斯武裝力量(中立方)</Chinese>
-        <Chinesesimp>阿尔蒂斯武装力量(中立方)</Chinesesimp>
+        <Chinesesimp>AAF(中立方)</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulemptypegroundsupport_transporttasks">
         <Original>Transport Tasks</Original>
@@ -1589,7 +1589,7 @@
       <Key ID="str_a3_rscdisplaywelcome_heli_pard_list2">
         <Original>the CSAT heavy utility helicopter using a coaxial rotor design (mission pod variants: passenger, ammo, fuel, repair, medical, cargo, fast-assault bench)</Original>
         <Chinese>廣協同盟的重型同軸式直升機(因應任務能有以下功能:人員運輸，彈藥，燃油，維修，醫療，貨物，快速突擊板凳)</Chinese>
-        <Chinesesimp>广协同盟的重型同轴式直升机(因应任务能有以下功能:人员运输，弹药，燃油，维修，医疗，货物，快速突击板凳)</Chinesesimp>
+        <Chinesesimp>广协的重型同轴式直升机(因应任务能有以下功能:人员运输，弹药，燃油，维修，医疗，货物，快速突击板凳)</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_heli_pard_list1_title">
         <Original>CH-67 Huron</Original>
@@ -1928,12 +1928,12 @@
         <Key ID="str_a3_cfgvehicles_o_cargonet_01_ammo_f0">
           <Original>Cargo Net [CSAT]</Original>
           <Chinese>貨物網[廣協同盟]</Chinese>
-          <Chinesesimp>货物网[广协同盟]</Chinesesimp>
+          <Chinesesimp>货物网[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_cargonet_01_ammo_f0">
           <Original>Cargo Net [AAF]</Original>
           <Chinese>貨物網[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>货物网[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>货物网[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_cargonet_01_box_f0">
           <Original>Cargo Net (Box)</Original>

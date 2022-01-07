@@ -152,7 +152,7 @@
       <Key ID="str_a3_wl_param34_desc">
         <Original>Response group type. AAF group config is used.</Original>
         <Chinese>反應團隊類型。採用阿爾蒂斯武裝力量團隊設定。</Chinese>
-        <Chinesesimp>响应团队类型。使用阿尔蒂斯武装力量团队配置。</Chinesesimp>
+        <Chinesesimp>响应团队类型。使用AAF团队配置。</Chinesesimp>
       </Key>
       <Key ID="str_a3_wl_param33_desc">
         <Original>Ability to fast travel to this sector.</Original>

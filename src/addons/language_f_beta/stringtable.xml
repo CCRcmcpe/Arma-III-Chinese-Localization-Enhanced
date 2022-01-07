@@ -391,12 +391,12 @@
           <Key ID="str_a3_cfgvehicles_i_supplycrate_f0">
             <Original>Supply Box [AAF]</Original>
             <Chinese>補給箱[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>补给箱[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>补给箱[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_ind_wpsspecial_f0">
             <Original>Special Weapons [AAF]</Original>
             <Chinese>特種武器箱[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>特种武器箱[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>特种武器箱[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_nato_ammoveh_f0">
             <Original>Vehicle Ammo [NATO]</Original>
@@ -411,47 +411,47 @@
           <Key ID="str_a3_cfgvehicles_box_ind_wpslaunch_f0">
             <Original>Launchers [AAF]</Original>
             <Chinese>發射器箱[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>发射器箱[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>发射器箱[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_ind_wps_f0">
             <Original>Basic Weapons [AAF]</Original>
             <Chinese>基本武器箱[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>基本武器箱[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>基本武器箱[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_ind_support_f0">
             <Original>Support [AAF]</Original>
             <Chinese>支援裝備箱[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>支援装备箱[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>支援装备箱[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_ind_grenades_f0">
             <Original>Grenades [AAF]</Original>
             <Chinese>投擲類武器箱[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>投掷类武器箱[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>投掷类武器箱[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_ind_ammoveh_f0">
             <Original>Vehicle Ammo [AAF]</Original>
             <Chinese>載具彈藥箱[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>载具弹药箱[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>载具弹药箱[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_ind_ammoord_f0">
             <Original>Explosives [AAF]</Original>
             <Chinese>炸藥箱[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>炸药箱[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>炸药箱[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_ind_ammo_f0">
             <Original>Basic Ammo [AAF]</Original>
             <Chinese>基本彈藥箱[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>基本弹药箱[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>基本弹药箱[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_east_wpslaunch_f0">
             <Original>Launchers [CSAT]</Original>
             <Chinese>發射器箱[廣協同盟]</Chinese>
-            <Chinesesimp>发射器箱[广协同盟]</Chinesesimp>
+            <Chinesesimp>发射器箱[广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_vehammo">
             <Original>Vehicle Ammo [CSAT]</Original>
             <Chinese>載具彈藥箱[廣協同盟]</Chinese>
-            <Chinesesimp>载具弹药箱[广协同盟]</Chinesesimp>
+            <Chinesesimp>载具弹药箱[广协]</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -979,7 +979,7 @@
           <Key ID="str_a3_h_pilothelmetheli_ia0">
             <Original>Heli Pilot Helmet [AAF]</Original>
             <Chinese>直升機飛行員頭盔[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>直升机飞行员头盔[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>直升机飞行员头盔[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_beret_blk0">
             <Original>Beret (Black)</Original>
@@ -989,7 +989,7 @@
           <Key ID="str_a3_h_pilothelmetfighter_oi0">
             <Original>Pilot Helmet [CSAT]</Original>
             <Chinese>飛行員頭盔[廣協同盟]</Chinese>
-            <Chinesesimp>飞行员头盔[广协同盟]</Chinesesimp>
+            <Chinesesimp>飞行员头盔[广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_beret_blk_police0">
             <Original>Beret (Police)</Original>
@@ -1049,7 +1049,7 @@
           <Key ID="str_a3_h_milcap_dgtl0">
             <Original>Military Cap [AAF]</Original>
             <Chinese>軍帽[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>军帽[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>军帽[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_milcap_gry0">
             <Original>Military Cap (Grey)</Original>
@@ -1089,7 +1089,7 @@
           <Key ID="str_a3_h_pilothelmetfighter_ia0">
             <Original>Pilot Helmet [AAF]</Original>
             <Chinese>飛行員頭盔[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>飞行员头盔[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>飞行员头盔[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_milcap_chck20">
             <Original>Checked Cap</Original>
@@ -1109,7 +1109,7 @@
           <Key ID="str_a3_h_beret_ocamo0">
             <Original>Beret [CSAT]</Original>
             <Chinese>貝雷帽[廣協同盟]</Chinese>
-            <Chinesesimp>贝雷帽[广协同盟]</Chinesesimp>
+            <Chinesesimp>贝雷帽[广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_beret_red0">
             <Original>Beret (Red)</Original>
@@ -1119,7 +1119,7 @@
           <Key ID="str_a3_h_booniehat_dgtl0">
             <Original>Booniehat [AAF]</Original>
             <Chinese>擴邊帽[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>扩边帽[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>扩边帽[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_booniehat_dirty0">
             <Original>Booniehat (Dirty)</Original>
@@ -1239,7 +1239,7 @@
           <Key ID="str_a3_h_helmetcrew_o0">
             <Original>Crew Helmet [CSAT]</Original>
             <Chinese>機組員頭盔[廣協同盟]</Chinese>
-            <Chinesesimp>机组员头盔[广协同盟]</Chinesesimp>
+            <Chinesesimp>机组员头盔[广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_hat_checker0">
             <Original>Hat (Checker)</Original>
@@ -1254,7 +1254,7 @@
           <Key ID="str_a3_h_helmetcrewia0">
             <Original>Crew Helmet [AAF]</Original>
             <Chinese>機組員頭盔[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>机组员头盔[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>机组员头盔[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_crewhelmetheli_b0">
             <Original>Heli Crew Helmet [NATO]</Original>
@@ -1264,12 +1264,12 @@
           <Key ID="str_a3_h_crewhelmetheli_ia0">
             <Original>Heli Crew Helmet [AAF]</Original>
             <Chinese>直升機機組員頭盔[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>直升机机组员头盔[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>直升机机组员头盔[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_crewhelmetheli_o0">
             <Original>Heli Crew Helmet [CSAT]</Original>
             <Chinese>直升機機組員頭盔[廣協同盟]</Chinese>
-            <Chinesesimp>直升机机组员头盔[广协同盟]</Chinesesimp>
+            <Chinesesimp>直升机机组员头盔[广协]</Chinesesimp>
           </Key>
           <Key ID="STR_A3_H_HELMETSPECB_SAND0">
             <Original>Enhanced Combat Helmet (Sand)</Original>
@@ -1326,12 +1326,12 @@
           <Key ID="str_a3_u_ia_wetsuit0">
             <Original>Wetsuit [AAF]</Original>
             <Chinese>潛水衣[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>潜水衣[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>潜水衣[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_combat_fatigues_haf0">
             <Original>Combat Fatigues [AAF]</Original>
             <Chinese>戰鬥迷彩服[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>战斗迷彩服[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>战斗迷彩服[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_specop_fatigues">
             <Original>Specop Fatigues (Sage)</Original>
@@ -1341,7 +1341,7 @@
           <Key ID="str_a3_combat_fatigues_haf1">
             <Original>Combat Fatigues [AAF] (Rolled-up)</Original>
             <Chinese>戰鬥迷彩服[阿爾蒂斯武裝力量](捲袖)</Chinese>
-            <Chinesesimp>战斗迷彩服[阿尔蒂斯武装力量](卷袖)</Chinesesimp>
+            <Chinesesimp>战斗迷彩服[AAF](卷袖)</Chinesesimp>
           </Key>
           <Key ID="str_a3_scientist_suit">
             <Original>Scientist Suit</Original>
@@ -1351,12 +1351,12 @@
           <Key ID="str_a3_combat_fatigues_haf_tee">
             <Original>Combat Fatigues [AAF] (Officer)</Original>
             <Chinese>戰鬥迷彩服[阿爾蒂斯武裝力量](軍官)</Chinese>
-            <Chinesesimp>战斗迷彩服[阿尔蒂斯武装力量](军官)</Chinesesimp>
+            <Chinesesimp>战斗迷彩服[AAF](军官)</Chinesesimp>
           </Key>
           <Key ID="str_a3_pilot_coveralls_haf">
             <Original>Pilot Coveralls [AAF]</Original>
             <Chinese>飛行員連身衣[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>飞行员连身衣[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>飞行员连身衣[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_recon_fatigues_black">
             <Original>Recon Fatigues (Black)</Original>
@@ -1391,7 +1391,7 @@
           <Key ID="str_a3_ghillie_suit_haf">
             <Original>Ghillie Suit [AAF]</Original>
             <Chinese>吉利服[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>吉利服[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>吉利服[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_jacket_shorts">
             <Original>Jacket and Shorts</Original>
@@ -1416,7 +1416,7 @@
           <Key ID="str_a3_ghillie_suit_iran">
             <Original>Ghillie Suit [CSAT]</Original>
             <Chinese>吉利服[廣協同盟]</Chinese>
-            <Chinesesimp>吉利服[广协同盟]</Chinesesimp>
+            <Chinesesimp>吉利服[广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_guerilla_smocks0">
             <Original>Guerilla Smocks 1</Original>
@@ -1436,7 +1436,7 @@
           <Key ID="str_a3_iran_fatigues_urban">
             <Original>Fatigues (Urban) [CSAT]</Original>
             <Chinese>迷彩服(城市迷彩)[廣協同盟]</Chinese>
-            <Chinesesimp>迷彩服(城市迷彩)[广协同盟]</Chinesesimp>
+            <Chinesesimp>迷彩服(城市迷彩)[广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_guerilla_smocks3">
             <Original>Guerilla Smocks 4</Original>
@@ -1935,7 +1935,7 @@
         <Key ID="str_a3_cfggroups_indep_ind_f0">
           <Original>AAF</Original>
           <Chinese>阿爾蒂斯武裝力量</Chinese>
-          <Chinesesimp>阿尔蒂斯武装力量</Chinesesimp>
+          <Chinesesimp>AAF</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_west_blu_f_motorized_bus_motinf_aa0">
           <Original>Motorized Air-defense Team</Original>
@@ -2118,7 +2118,7 @@
         <Key ID="str_a3_heli_transport_02_lib">
           <Original>A successor to the wide-spread Merlin helicopter, the CH-49 Mohawk is a primary transport used by the AAF. It can carry up to 16 soldiers plus crew. Besides the transport version, many other versions of the Mohawk exist, serving as evac, anti-submarine warfare or armed air support. Upgrades over its predecessor consist of more powerful engines and construction changes fully utilizing modern materials. </Original>
           <Chinese>作為"紅隼"直升機的後繼者，CH-49"莫霍克"擁有更為強勁的引擎，並全面使用現代的材料來製作機體。它主要作為阿爾蒂斯武裝力量的運輸機來被使用，除機組員外，它最多可搭載16名士兵。除了運輸用途，"莫霍克"也被用於救援，反潛作戰或空中支援。</Chinese>
-          <Chinesesimp>作为"红隼"直升机的后继型号，CH-49"莫霍克"拥有更为强劲的发动机，并全面使用现代的材料来制作机体。它主要作为阿尔蒂斯武装力量的运输机来被使用，除机组员外，它最多可搭载16名士兵。除了运输用途，"莫霍克"也被用于救援，反潜作战或空中支援。</Chinesesimp>
+          <Chinesesimp>作为"红隼"直升机的后继型号，CH-49"莫霍克"拥有更为强劲的发动机，并全面使用现代的材料来制作机体。它主要作为AAF的运输机来被使用，除机组员外，它最多可搭载16名士兵。除了运输用途，"莫霍克"也被用于救援，反潜作战或空中支援。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_truck_02_lib">
           <Original>The Zamak heavy truck is a 6x6 vehicle used for transport, repair, and utility roles. In addition, it can also carry a multiple rocket launcher. Fitted with a powerful V8 engine, these trucks are reliable even in harsh conditions.</Original>
@@ -2143,7 +2143,7 @@
         <Key ID="str_a3_CfgVehicles_apc_wheeled_02_library0">
           <Original>The MSE-3 Marid is an amphibious 6-wheeled APC used by the OPFOR army. It's an agile and maneuverable vehicle with a low silhouette and compact size. Its reliability and maintenance costs match the western APCs. It's fitted as standard with an RCWS turret with 40 mm GMG and 6.5 mm LMG and is able to carry up to 8 soldiers in the cargo space.</Original>
           <Chinese>MSE-3"馬里德"是一臺紅方的兩棲六輪裝甲運兵車。它是一輛低底盤和小尺寸的敏捷機動車。其可靠性和維護成本比得上西方的裝甲運兵車。它的標準配備是裝設有40公厘榴彈機槍和6.5公厘輕機槍的遙控砲塔。它能夠在後座搭載8名士兵。</Chinese>
-          <Chinesesimp>MSE-3"马里德"是一台红方的两栖六轮装甲运兵车。这是一种低底盘，小尺寸的敏捷型机动车辆。其可靠性和维护成本比得上西方的装甲运兵车。它的标准配备是装有40mm 榴弹机枪和6.5mm 轻机枪的遥控炮塔。它能够在后座搭载8名士兵。</Chinesesimp>
+          <Chinesesimp>MSE-3"马里德"是一台红方的两栖六轮装甲运兵车。这是一种低底盘，小尺寸的敏捷型机动车辆。其可靠性和维护成本比得上西方的装甲运兵车。它的标准配备是装有40mm 榴弹机枪和6.5mm 轻机枪的遥控武器站。它能够在后座搭载8名士兵。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_truck_01_base_library0">
           <Original>The Heavy Expanded Mobility Tactical Truck is an 8x8 diesel-powered off-road truck. It serves as a standard heavy transport vehicle for BLUFOR armies. There are several versions covering the basic transport functions: cargo, refuel, medical, repair, and ammo resupply. </Original>
@@ -2168,7 +2168,7 @@
         <Key ID="str_a3_cfgvehicles_mrap_03_base_library0">
           <Original>The Strider is a medium all-terrain vehicle with amphibious capability and enhanced crew protection, designed for reconnaissance and troop transport roles. It has been adopted by most of the AAF as a replacement for older medium troop transports in the past decade. The unarmed version is fitted with an observation periscope package with thermal imaging and a laser marker.&lt;br /&gt;The armed version of the basic troop transporter is equipped with a Remotely Controlled Weapons System turret fitted with the universal 12.7 mm heavy machinegun or the multi-role 40 mm Grenade Machine Gun. Armed versions share the observation periscope used for reconnaissance missions. </Original>
           <Chinese>"挺進者"是一種全地形中型載具，其擁有兩棲作戰能力和增強的人員保護，專為偵察和運輸部隊的任務而生。在過去十年裡，它已經被阿爾蒂斯武裝力量逐漸用來替換老舊的中型運輸車。它的無武裝版本配備了一個觀察潛望鏡，其上面裝有熱成像和雷射標記器。&lt;br/&gt;而武裝過的版本則是被中立方拿來運輸部隊用，其使用遙控砲塔，並在上面裝上通用12.7公厘重機槍或多用途40公厘榴彈機槍。武裝過的版本同樣也具有觀察潛望鏡好來進行偵察任務。</Chinese>
-          <Chinesesimp>"挺进者"是一种中型全地形车辆，拥有两栖能力和增强的人员保护能力，专为侦察和运输部队的任务而生。在过去十年里，它已经被阿尔蒂斯武装力量逐渐用来替换老旧的中型运输车。它的无武装版本配备了一个观察潜望镜，其上面装有热成像和激光指示器。&lt;br/&gt;而武装过的版本则是被中立方用于运输部队，其安装含12.7mm 重机枪和40mm 榴弹机枪的遥控武器站。武装过的版本同样也具有观察潜望镜，也可以用来进行侦察任务。</Chinesesimp>
+          <Chinesesimp>"挺进者"是一种中型全地形车辆，拥有两栖能力和增强的人员保护能力，专为侦察和运输部队的任务而生。在过去十年里，它已经被AAF逐渐用来替换老旧的中型运输车。它的无武装版本配备了一个观察潜望镜，其上面装有热成像和激光指示器。&lt;br/&gt;而武装过的版本则是被中立方用于运输部队，其安装含12.7mm 重机枪和40mm 榴弹机枪的遥控武器站。武装过的版本同样也具有观察潜望镜，也可以用来进行侦察任务。</Chinesesimp>
         </Key>
       </Container>
     </Container>

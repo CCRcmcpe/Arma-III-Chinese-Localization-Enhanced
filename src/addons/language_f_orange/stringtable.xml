@@ -20,7 +20,7 @@
       <Key ID="str_a3_orange_cfgmods_uxo_description">
         <Original>As a direct consequence of using cluster munitions, the small bomblets don't always detonate and leave behind lethal unexploded ordnance (UXO). Unique UXO for NATO, CSAT and AAF let you identify who has deployed these weapons. Several trigger behavior variants exist as well.</Original>
         <Chinese>作為使用集束彈藥的直接後果，這些小型子炸彈不總會爆炸，並會遺留下致命性的未爆兵器(UXO)。北約、廣協同盟和阿爾蒂斯武裝力量使用的此類武器都會留下獨特的未爆兵器，能讓你辨識其來源。同時還存在多種不同的觸發方式。</Chinese>
-        <Chinesesimp>作为使用集束弹药的直接后果，这些小型子炸弹不总会爆炸，并会遗留下致命性的未爆兵器(UXO)。北约、广协同盟和阿尔蒂斯武装力量使用的此类武器都会留下独特的未爆兵器，能让你辨识其来源。同时还存在多种不同的触发方式。</Chinesesimp>
+        <Chinesesimp>作为使用集束弹药的直接后果，这些小型子炸弹不总会爆炸，并会遗留下致命性的未爆兵器(UXO)。北约、广协和AAF使用的此类武器都会留下独特的未爆兵器，能让你辨识其来源。同时还存在多种不同的触发方式。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_tooltip">
         <Original>Arma 3 Laws of War DLC is now available. Click to purchase it.</Original>
@@ -325,7 +325,7 @@
       <Key ID="str_a3_orange_cfgmods_clusterbombs_description">
         <Original>Even though they have been banned for causing unnecessary suffering, cluster bombs are still used in warfare. New aircraft-deployed bomblet canisters are available for NATO, CSAT and AAF.</Original>
         <Chinese>即便已因其不必要損害而被禁止，集束炸彈仍然在戰爭中使用。北約、廣協同盟和阿爾蒂斯武裝力量都有了新式的機載子彈藥布撒器。</Chinese>
-        <Chinesesimp>即便已因其不必要损害而被禁止，集束炸弹仍然在战争中使用。北约、广协同盟和阿尔蒂斯武装力量都有了新式的机载子弹药布撒器。</Chinesesimp>
+        <Chinesesimp>即便已因其不必要损害而被禁止，集束炸弹仍然在战争中使用。北约、广协和AAF都有了新式的机载子弹药布撒器。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_basichelmet_displayname">
         <Original>Basic Helmet</Original>
@@ -492,7 +492,7 @@
       <Key ID="str_a3_cfgunitinsignia_aaf_3rdregiment">
         <Original>AAF 3rd Support Regiment</Original>
         <Chinese>阿爾蒂斯武裝力量第3支援團</Chinese>
-        <Chinesesimp>阿尔蒂斯武装力量第3支援团</Chinesesimp>
+        <Chinesesimp>AAF第3支援团</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfguicolors_subtitles_yellowbackground">
         <Original>Yellow with Background</Original>
@@ -586,7 +586,7 @@
         <Key ID="str_a3_orange_cfgleaflets_aaf_special">
           <Original>There is STILL TIME to SURRENDER!&lt;br /&gt;CEASE RESISTANCE. Further acts of&lt;br /&gt;AGGRESSION against ALTIS ARMED&lt;br /&gt;FORCES will be the DEATH OF YOU!</Original>
           <Chinese>現在投降還來得及!&lt;br/&gt;停止抵抗。針對阿爾蒂斯武裝力量&lt;br/&gt;&lt;br/&gt;的任何反抗行為的下場都只有滅亡!</Chinese>
-          <Chinesesimp>现在投降还来得及!&lt;br/&gt;停止抵抗。针对阿尔蒂斯武装力量&lt;br/&gt;&lt;br/&gt;的任何反抗行为的下场都只有灭亡!</Chinesesimp>
+          <Chinesesimp>现在投降还来得及!&lt;br/&gt;停止抵抗。针对AAF&lt;br/&gt;&lt;br/&gt;的任何反抗行为的下场都只有灭亡!</Chinesesimp>
         </Key>
       </Container>
       <Key ID="str_a3_rscmsgboxkeyspresetcustominfopanel_text">
@@ -639,12 +639,12 @@
       <Key ID="str_a3_pylon_1rnd_leaflets_guer_f0">
         <Original>Leaflets (AAF)</Original>
         <Chinese>傳單(阿爾蒂斯武裝力量)</Chinese>
-        <Chinesesimp>传单(阿尔蒂斯武装力量)</Chinesesimp>
+        <Chinesesimp>传单(AAF)</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_east_f0">
         <Original>Leaflets (CSAT)</Original>
         <Chinese>傳單(CSAT)</Chinese>
-        <Chinesesimp>传单(广协同盟)</Chinesesimp>
+        <Chinesesimp>传单(广协)</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_custom_10_f0">
         <Original>Leaflets (Custom 10)</Original>
@@ -822,12 +822,12 @@
         <Key ID="str_a3_cfgvehicles_modulebombcluster_03_uxo4_f0">
           <Original>UXO (Delayed) [AAF]</Original>
           <Chinese>未爆兵器(延爆)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>未爆兵器(延爆)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>未爆兵器(延爆)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_03_uxo3_f0">
           <Original>UXO (Tough) [AAF]</Original>
           <Chinese>未爆兵器(硬質)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>未爆兵器(硬质)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>未爆兵器(硬质)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduletrainingmine_01_f0">
           <Original>Training mine</Original>
@@ -837,32 +837,32 @@
         <Key ID="str_a3_cfgvehicles_modulebombcluster_03_uxo2_f0">
           <Original>UXO (Sensitive) [AAF]</Original>
           <Chinese>未爆兵器(敏感)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>未爆兵器(敏感)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>未爆兵器(敏感)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_03_uxo1_f0">
           <Original>UXO (Common) [AAF]</Original>
           <Chinese>未爆兵器(一般)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>未爆兵器(一般)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>未爆兵器(一般)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_02_uxo4_f0">
           <Original>UXO (Delayed) [CSAT]</Original>
           <Chinese>未爆兵器(延爆)[廣協同盟]</Chinese>
-          <Chinesesimp>未爆兵器(延爆)[广协同盟]</Chinesesimp>
+          <Chinesesimp>未爆兵器(延爆)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_02_uxo3_f0">
           <Original>UXO (Tough) [CSAT]</Original>
           <Chinese>未爆兵器(硬質)[廣協同盟]</Chinese>
-          <Chinesesimp>未爆兵器(硬质)[广协同盟]</Chinesesimp>
+          <Chinesesimp>未爆兵器(硬质)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_02_uxo2_f0">
           <Original>UXO (Sensitive) [CSAT]</Original>
           <Chinese>未爆兵器(敏感)[廣協同盟]</Chinese>
-          <Chinesesimp>未爆兵器(敏感)[广协同盟]</Chinesesimp>
+          <Chinesesimp>未爆兵器(敏感)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_02_uxo1_f0">
           <Original>UXO (Common) [CSAT]</Original>
           <Chinese>未爆兵器(一般)[廣協同盟]</Chinese>
-          <Chinesesimp>未爆兵器(一般)[广协同盟]</Chinesesimp>
+          <Chinesesimp>未爆兵器(一般)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_01_uxo4_f0">
           <Original>UXO (Delayed) [NATO]</Original>
@@ -892,12 +892,12 @@
         <Key ID="str_a3_cfgvehicles_bombcluster_03_uxo4_f0">
           <Original>UXO (Delayed) [AAF]</Original>
           <Chinese>未爆兵器(延爆)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>未爆兵器(延爆)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>未爆兵器(延爆)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_03_uxo3_f0">
           <Original>UXO (Tough) [AAF]</Original>
           <Chinese>未爆兵器(硬質)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>未爆兵器(硬质)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>未爆兵器(硬质)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_trainingmine_01_used_f0">
           <Original>Training Mine (used)</Original>
@@ -907,7 +907,7 @@
         <Key ID="str_a3_cfgvehicles_bombcluster_03_uxo2_f0">
           <Original>UXO (Sensitive) [AAF]</Original>
           <Chinese>未爆兵器(敏感)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>未爆兵器(敏感)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>未爆兵器(敏感)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_trainingmine_01_f0">
           <Original>Training Mine</Original>
@@ -917,27 +917,27 @@
         <Key ID="str_a3_cfgvehicles_bombcluster_03_uxo1_f0">
           <Original>UXO (Common) [AAF]</Original>
           <Chinese>未爆彈(一般)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>未爆弹(一般)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>未爆弹(一般)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_02_uxo4_f0">
           <Original>UXO (Delayed) [CSAT]</Original>
           <Chinese>未爆兵器(延爆)[廣協同盟]</Chinese>
-          <Chinesesimp>未爆兵器(延爆)[广协同盟]</Chinesesimp>
+          <Chinesesimp>未爆兵器(延爆)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_02_uxo3_f0">
           <Original>UXO (Tough) [CSAT]</Original>
           <Chinese>未爆兵器(硬質)[廣協同盟]</Chinese>
-          <Chinesesimp>未爆兵器(硬质)[广协同盟]</Chinesesimp>
+          <Chinesesimp>未爆兵器(硬质)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_02_uxo2_f0">
           <Original>UXO (Sensitive) [CSAT]</Original>
           <Chinese>未爆兵器(敏感)[廣協同盟]</Chinese>
-          <Chinesesimp>未爆兵器(敏感)[广协同盟]</Chinesesimp>
+          <Chinesesimp>未爆兵器(敏感)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_02_uxo1_f0">
           <Original>UXO (Common) [CSAT]</Original>
           <Chinese>未爆兵器(一般)[廣協同盟]</Chinese>
-          <Chinesesimp>未爆兵器(一般)[广协同盟]</Chinesesimp>
+          <Chinesesimp>未爆兵器(一般)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_01_uxo4_f0">
           <Original>UXO (Delayed) [NATO]</Original>
@@ -997,12 +997,12 @@
         <Key ID="str_a3_cfgvehicles_bombcluster_02_uxo_f0">
           <Original>UXO [CSAT]</Original>
           <Chinese>未爆彈(廣協同盟)</Chinese>
-          <Chinesesimp>未爆弹[广协同盟]</Chinesesimp>
+          <Chinesesimp>未爆弹[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_03_uxo_f0">
           <Original>UXO [AAF]</Original>
           <Chinese>未爆彈(阿爾蒂斯武裝力量)</Chinese>
-          <Chinesesimp>未爆弹[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>未爆弹[AAF]</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -1871,7 +1871,7 @@
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_greenhex_closed_f0">
             <Original>Medical Tent [CSAT]</Original>
             <Chinese>醫療帳篷[廣協同盟]</Chinese>
-            <Chinesesimp>医疗帐篷[广协同盟]</Chinesesimp>
+            <Chinesesimp>医疗帐篷[广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_floor_light_f0">
             <Original>Tent (Shelter, Floor, Light)</Original>
@@ -1886,12 +1886,12 @@
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_digital_closed_f0">
             <Original>Medical Tent [AAF]</Original>
             <Chinese>醫療帳篷[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>医疗帐篷[阿尔蒂斯武装力量]</Chinesesimp>
+            <Chinesesimp>医疗帐篷[AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_brownhex_closed_f0">
             <Original>Medical Tent [CSAT]</Original>
             <Chinese>醫療帳篷[廣協同盟]</Chinese>
-            <Chinesesimp>医疗帐篷[广协同盟]</Chinesesimp>
+            <Chinesesimp>医疗帐篷[广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_base_f_attributes_solarpanel2_hide0">
             <Original>Hide solar panel #2</Original>
@@ -1943,12 +1943,12 @@
           <Key ID="str_a3_cfgvehicles_banner_01_csat_f0">
             <Original>Banner (CSAT)</Original>
             <Chinese>橫幅(廣協同盟)</Chinese>
-            <Chinesesimp>横幅(广协同盟)</Chinesesimp>
+            <Chinesesimp>横幅(广协)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_banner_01_aaf_f0">
             <Original>Banner (AAF)</Original>
             <Chinese>橫幅(阿爾蒂斯武裝力量)</Chinese>
-            <Chinesesimp>横幅(阿尔蒂斯武装力量)</Chinesesimp>
+            <Chinesesimp>横幅(AAF)</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -2114,52 +2114,52 @@
         <Key ID="str_a3_cfgvehicles_o_uav_06_medical_backpack_f_assembleinfo0">
           <Original>UAV Bag (AL-6, Medical) [CSAT]</Original>
           <Chinese>無人機背包(AL-6，醫療)[廣協同盟]</Chinese>
-          <Chinesesimp>无人机背包(AL-6，医疗)[广协同盟]</Chinesesimp>
+          <Chinesesimp>无人机背包(AL-6，医疗)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_uav_06_medical_backpack_f0">
           <Original>UAV Bag (AL-6, Medical) [CSAT]</Original>
           <Chinese>無人機背包(AL-6，醫療)[廣協同盟]</Chinese>
-          <Chinesesimp>无人机背包(AL-6，医疗)[广协同盟]</Chinesesimp>
+          <Chinesesimp>无人机背包(AL-6，医疗)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_uav_06_backpack_f_assembleinfo0">
           <Original>UAV Bag (AL-6) [CSAT]</Original>
           <Chinese>無人機背包(AL-6)[廣協同盟]</Chinese>
-          <Chinesesimp>无人机背包(AL-6)[广协同盟]</Chinesesimp>
+          <Chinesesimp>无人机背包(AL-6)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_uav_06_backpack_f0">
           <Original>UAV Bag (AL-6) [CSAT]</Original>
           <Chinese>無人機背包(AL-6)[廣協同盟]</Chinese>
-          <Chinesesimp>无人机背包(AL-6)[广协同盟]</Chinesesimp>
+          <Chinesesimp>无人机背包(AL-6)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_uav_01_backpack_f0">
           <Original>UAV Bag (AR-2) [CSAT]</Original>
           <Chinese>無人機背包(AR-2)[廣協同盟]</Chinese>
-          <Chinesesimp>无人机背包(AR-2)[广协同盟]</Chinesesimp>
+          <Chinesesimp>无人机背包(AR-2)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_uav_06_medical_backpack_f_assembleinfo0">
           <Original>UAV Bag (AL-6, Medical) [AAF]</Original>
           <Chinese>無人機背包(AL-6，醫療)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>无人机背包(AL-6，医疗)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>无人机背包(AL-6，医疗)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_uav_06_medical_backpack_f0">
           <Original>UAV Bag (AL-6, Medical) [AAF]</Original>
           <Chinese>無人機背包(AL-6，醫療)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>无人机背包(AL-6，医疗)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>无人机背包(AL-6，医疗)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_uav_06_backpack_f_assembleinfo0">
           <Original>UAV Bag (AL-6) [AAF]</Original>
           <Chinese>無人機背包(AL-6)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>无人机背包(AL-6)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>无人机背包(AL-6)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_uav_06_backpack_f0">
           <Original>UAV Bag (AL-6) [AAF]</Original>
           <Chinese>無人機背包(AL-6)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>无人机背包(AL-6)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>无人机背包(AL-6)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_uav_01_backpack_f0">
           <Original>UAV Bag (AR-2) [AAF]</Original>
           <Chinese>無人機背包(AR-2)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>无人机背包(AR-2)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>无人机背包(AR-2)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_uav_06_medical_backpack_f_assembleinfo0">
           <Original>UAV Bag (Utility, Medical)</Original>
@@ -3293,22 +3293,22 @@
         <Key ID="str_a3_box_o_uav_06_medical_f0">
           <Original>AL-6 Case (Medical) [CSAT]</Original>
           <Chinese>AL-6箱子(醫療)[廣協同盟]</Chinese>
-          <Chinesesimp>AL-6箱子(医疗)[广协同盟]</Chinesesimp>
+          <Chinesesimp>AL-6箱子(医疗)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_box_o_uav_06_f0">
           <Original>AL-6 Case [CSAT]</Original>
           <Chinese>AL-6箱子[廣協同盟]</Chinese>
-          <Chinesesimp>AL-6箱子[广协同盟]</Chinesesimp>
+          <Chinesesimp>AL-6箱子[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_box_i_uav_06_medical_f0">
           <Original>AL-6 Case (Medical) [AAF]</Original>
           <Chinese>AL-6箱子(醫療)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>AL-6箱子(医疗)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>AL-6箱子(医疗)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_box_i_uav_06_f0">
           <Original>AL-6 Case [AAF]</Original>
           <Chinese>AL-6箱子[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>AL-6箱子[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>AL-6箱子[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_box_c_uav_06_swifd_f0">
           <Original>Utility Drone Case (Swifd)</Original>

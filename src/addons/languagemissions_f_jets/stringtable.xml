@@ -96,7 +96,7 @@
         <Key ID="str_a3_showcase_jets_briefing_situation_text">
           <Original>After the AAF surrender, NATO continue to clean up remnants of CSAT forces to the northeast. Progress has been halted after CSAT brought in fast-air assets to interdict our ground assault. &lt;br/&gt;&lt;br/&gt;Air superiority is vital for victory. USS Freedom has been deployed to Altis. As an F/A-181 fighter pilot, your task is to secure the %4airspace%1 to allow ground assets to continue their attack.</Original>
           <Chinese>在阿爾蒂斯政府軍投降以後，北約繼續肅清北面殘存的廣協同盟部隊。但攻勢被迫在廣協同盟高速戰鬥機的威脅下暫時停止了腳步。&lt;br/&gt;&lt;br/&gt;掌握空優將是這場戰役的關鍵。美國海軍"自由"號已經被佈署到阿爾蒂斯周邊。做為一名F/A-181"黑蜂"2型戰鬥攻擊機的飛行員，你的任務將是去肅清整片%4空域%1來讓我們的地面部隊得以繼續進攻。</Chinese>
-          <Chinesesimp>在阿尔蒂斯武装力量投降以后，北约继续肃清北面残存的广协同盟部队。但攻势在广协同盟高速战斗机的威胁下被迫暂时停止了脚步。&lt;br/&gt;&lt;br/&gt;掌握空优将是这场战役的关键。美国海军"自由"号已经被布署到阿尔蒂斯岛周边。做为一名F/A-181"黑蜂"2型战斗攻击机的飞行员，你的任务是肃清整片%4空域%1来让我们的地面部队得以继续进攻。</Chinesesimp>
+          <Chinesesimp>在AAF投降以后，北约继续肃清北面残存的广协部队。但攻势在广协高速战斗机的威胁下被迫暂时停止了脚步。&lt;br/&gt;&lt;br/&gt;掌握空优将是这场战役的关键。美国海军"自由"号已经被布署到阿尔蒂斯岛周边。做为一名F/A-181"黑蜂"2型战斗攻击机的飞行员，你的任务是肃清整片%4空域%1来让我们的地面部队得以继续进攻。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_briefing_signal_text">
           <Original>Hornet - Your squadron &lt;br/&gt;Eagle - Friendly squadron &lt;br/&gt;Freeway - USS Freedom</Original>
@@ -106,7 +106,7 @@
         <Key ID="str_a3_showcase_jets_briefing_mission_text">
           <Original>CSAT jets have been spotted over Altis. Patrol the %4airspace%1 and eliminate hostile air assets.</Original>
           <Chinese>廣協同盟的戰鬥機被發現出沒於阿爾蒂斯的上空。前往該%4空域%1進行巡邏並殲滅掉敵軍的空中單位。</Chinese>
-          <Chinesesimp>广协同盟的战斗机被发现出没于阿尔蒂斯上空。前往该%4空域%1进行巡逻并歼灭敌方空中单位。</Chinesesimp>
+          <Chinesesimp>广协的战斗机被发现出没于阿尔蒂斯上空。前往该%4空域%1进行巡逻并歼灭敌方空中单位。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_briefing_execution_text">
           <Original>1. Gear up, board your fighter jet and take off from %2USS Freedom%1. &lt;br/&gt;2. Patrol the %4airspace%1 and eliminate enemy air assets. &lt;br/&gt;3. Return to %2USS Freedom%1 and land.</Original>
@@ -256,7 +256,7 @@
         <Key ID="str_a3_showcase_jets_01_intro_tower_2">
           <Original>Possible CSAT strike on Altis International. Get up there and interdict - we can't let them target the airport; our entire operation would be at risk.</Original>
           <Chinese>應該是廣協同盟的戰機飛在阿爾蒂斯國際機場上。請前往那邊並攔截他們-我們不能讓他們攻擊機場;要不然我們的整場行動就會陷入危機。</Chinese>
-          <Chinesesimp>应该是广协同盟的战机正要空袭阿尔蒂斯国际机场。请前往那边并拦截他们-我们不能让他们攻击机场;要不然我们的整场行动就会陷入危机。</Chinesesimp>
+          <Chinesesimp>应该是广协的战机正要空袭阿尔蒂斯国际机场。请前往那边并拦截他们-我们不能让他们攻击机场;要不然我们的整场行动就会陷入危机。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_05_preflight_pilot_0">
           <Original>Hornet 1, Two is spooled up and ready for take-off.</Original>
@@ -411,7 +411,7 @@
         <Key ID="str_a3_showcase_jets_60_castask_tower_0">
           <Original>Hornet-2, ground forces are reporting CSAT armor on Hill 87. I'm retasking you to take them out. How copy? Over.</Original>
           <Chinese>"大黃蜂2"，地面部隊報告有廣協同盟的裝甲載具出現在87高地上。我重新指派你前往殲滅掉他們。有收到嗎?完畢。</Chinese>
-          <Chinesesimp>"大黄蜂2"，地面部队报告有广协同盟的装甲车辆出现在87高地上。我重新指派你前往歼灭掉他们。有收到吗?完毕。</Chinesesimp>
+          <Chinesesimp>"大黄蜂2"，地面部队报告有广协的装甲车辆出现在87高地上。我重新指派你前往歼灭掉他们。有收到吗?完毕。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_65_minordamage_pilot_0">
           <Original>Hornet-2, I'm hit!</Original>
@@ -529,7 +529,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list3">
         <Original>an advanced fourth generation AAF fighter jet</Original>
         <Chinese>阿爾蒂斯武裝力量的一臺先進第四代戰鬥機</Chinese>
-        <Chinesesimp>阿尔蒂斯武装力量的一种先进第四代战斗机</Chinesesimp>
+        <Chinesesimp>AAF的一种先进第四代战斗机</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list2_title">
         <Original>To-201 Shikra</Original>
@@ -539,7 +539,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list2">
         <Original>a fifth generation CSAT air superiority fighter jet</Original>
         <Chinese>廣協同盟的一臺第五代空優戰鬥機</Chinese>
-        <Chinesesimp>广协同盟的一种第五代空优战斗机</Chinesesimp>
+        <Chinesesimp>广协的一种第五代空优战斗机</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list1_title">
         <Original>F/A-181 Black Wasp II</Original>
@@ -761,7 +761,7 @@
       <Key ID="STR_A3_CfgHints_PremiumContent_PremiumJets1">
         <Original>Dominate the skies over the battlefield in 3 new fighter aircraft and an Unmanned Combat Air Vehicle. Fly fast and agile air superiority jets to provide air support in the dedicated Showcase, and more, in the Arma 3 Jets DLC.%1&lt;img size='9' shadow='0' image='A3\Data_F_Jets\Images\jets_fm_overview_co' /&gt;%1%2F/A-181 Black Wasp II - a fifth generation NATO carrier-based fighter jet%1%2To-201 Shikra - a fifth generation CSAT air superiority fighter jet%1%2A-149 Gryphon - an advanced fourth generation AAF fighter jet%1%2Sentinel - a NATO carrier-based Unmanned Combat Air Vehicle%1%2Deck Crew Vests - colored vests for various characters roles on the carrier%1%2Showcase Fighter Jets - take to the skies over Altis and engage in Air-to-Air and Air-to-Ground operations%1%2Official Sound Track - a new music track befitting the jets theme%1%2Achievements - a set of extra &lt;a href='http://steamcommunity.com/stats/107410/achievements'&gt;Steam Achievements&lt;/a&gt;%1</Original>
         <Chinese>駕馭全新的3款戰機與1款無人戰機，你就可以稱霸整個戰場的領空。你可以在任務展示中體驗到新飛機的高速與敏捷性，讓你獲得絕對的空優，這些盡在武裝突襲3戰機資料片中。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Jets\Images\jets_fm_overview_co'/&gt;%1%2F/A-181"黑蜂"2型戰鬥攻擊機-北約的一臺第五代艦載戰鬥攻擊機%1%2To-201"褐耳鷹"戰鬥機-廣協同盟的一臺第五代空優戰鬥機%1%2A-149"獅鷲"戰鬥機-阿爾蒂斯武裝力量的一臺先進第四代戰鬥機%1%2"哨兵"無人戰機-北約的一臺艦載無人戰機%1%2甲板人員背心-數種不同顏色的背心供航空母艦的甲板人員使用%1%2戰鬥機任務展示-前往阿爾蒂斯體驗空對空與空對地的飛行任務%1%2官方原聲帶-一首配合戰機主題的曲子%1%2成就-新的一組&lt;ahref='http://steamcommunity.com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinese>
-        <Chinesesimp>驾驭全新的3款战机与1款无人战机，你就可以称霸整个战场的领空。你可以在任务展示中体验到新飞机的高速与敏捷性，让你获得绝对的空优，这些尽在武装突袭3战机资料片中。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Jets\Images\jets_fm_overview_co'/&gt;%1%2F/A-181"黑蜂"2型战斗攻击机-北约的一台第五代舰载战斗攻击机%1%2To-201"褐耳鹰"战斗机-广协同盟的一台第五代空优战斗机%1%2A-149"狮鹫"战斗机-阿尔蒂斯武装力量的一台先进第四代战斗机%1%2"哨兵"无人战机-北约的一台舰载无人战机%1%2甲板人员背心-数种不同颜色的背心供航空母舰的甲板人员使用%1%2战斗机任务展示-前往阿尔蒂斯体验空对空与空对地的飞行任务%1%2官方原声带-一首配合战机主题的曲子%1%2成就-新的一组&lt;ahref='http://steamcommunity.com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinesesimp>
+        <Chinesesimp>驾驭全新的3款战机与1款无人战机，你就可以称霸整个战场的领空。你可以在任务展示中体验到新飞机的高速与敏捷性，让你获得绝对的空优，这些尽在武装突袭3战机资料片中。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Jets\Images\jets_fm_overview_co'/&gt;%1%2F/A-181"黑蜂"2型战斗攻击机-北约的一台第五代舰载战斗攻击机%1%2To-201"褐耳鹰"战斗机-广协的一台第五代空优战斗机%1%2A-149"狮鹫"战斗机-AAF的一台先进第四代战斗机%1%2"哨兵"无人战机-北约的一台舰载无人战机%1%2甲板人员背心-数种不同颜色的背心供航空母舰的甲板人员使用%1%2战斗机任务展示-前往阿尔蒂斯体验空对空与空对地的飞行任务%1%2官方原声带-一首配合战机主题的曲子%1%2成就-新的一组&lt;ahref='http://steamcommunity.com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinesesimp>
       </Key>
     </Container>
   </Package>

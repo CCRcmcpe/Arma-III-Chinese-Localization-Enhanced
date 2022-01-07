@@ -852,7 +852,7 @@
       <Key ID="STR_A3_Fighter_02_armory_description">
         <Original>The To-201 Shikra is a fifth-generation, single-seat, twin-engine, all-weather tactical fighter aircraft. The aircraft was designed by CSAT and Russian joint syndicate. Primarily it is designed to operate as an air superiority fighter, but also has ground attack capabilities. Additional external hardpoints allow this aircraft to carry large variety of weapons configurations. </Original>
         <Chinese>To-201"褐耳鷹"戰鬥機是一臺第五代，單座，雙引擎，全天候的一臺戰術戰鬥機。此臺戰機是在廣協同盟與俄羅斯的通力合作之下所誕生的。此臺飛機主要設計方向為空優戰機，但同時也擁有對地打擊的能力。機翼上額外的武器掛點使其能有更多不同的武器配置。</Chinese>
-        <Chinesesimp>To-201"褐耳鹰"战斗机是一种第五代单座双引发全天候战术战斗攻击机。此台战机是在广协同盟与俄罗斯的通力合作之下诞生的。该机主要设计方向为空优战机，但同时也拥有对地打击的能力。机翼上额外的武器挂架使其能有更多不同的武器配置。</Chinesesimp>
+        <Chinesesimp>To-201"褐耳鹰"战斗机是一种第五代单座双引发全天候战术战斗攻击机。此台战机是在广协与俄罗斯的通力合作之下诞生的。该机主要设计方向为空优战机，但同时也拥有对地打击的能力。机翼上额外的武器挂架使其能有更多不同的武器配置。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Fighter_02_pilot_displayName">
         <Original>Pilot</Original>
@@ -1102,12 +1102,12 @@
       <Key ID="str_a3_cfgmods_jets_assets_dlcjetsopforfighterjet1">
         <Original>A fifth generation CSAT air superiority fighter jet.</Original>
         <Chinese>廣協同盟的一臺第五代空優戰鬥機。</Chinese>
-        <Chinesesimp>广协同盟的一种第五代空优战斗攻击机。</Chinesesimp>
+        <Chinesesimp>广协的一种第五代空优战斗攻击机。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_jets_assets_dlcjetsindependentfighterjet1">
         <Original>An advanced fourth generation AAF fighter jet.</Original>
         <Chinese>阿爾蒂斯武裝力量的一臺先進型第四代戰鬥機。</Chinese>
-        <Chinesesimp>阿尔蒂斯武装力量的一种先进型第四代战斗攻击机。</Chinesesimp>
+        <Chinesesimp>AAF的一种先进型第四代战斗攻击机。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_jets_assets_dlcjetsbluforucav1">
         <Original>A NATO carrier-based Unmanned Combat Air Vehicle</Original>

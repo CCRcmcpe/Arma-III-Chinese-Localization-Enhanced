@@ -7,12 +7,12 @@
           <Key ID="STR_A3_EndGame02_Task01">
             <Original>An AAF unmanned ground vehicle was knocked out near the abandoned settlement in the southern hills. Find its remains and try to retrieve any intact data.</Original>
             <Chinese>一臺阿爾蒂斯武裝力量的無人地面載具被擊毀在廢棄小鎮南方附近的丘陵上。尋找殘骸，並奪得裡面剩餘的情報資料。</Chinese>
-            <Chinesesimp>一辆阿尔蒂斯武装力量的无人车被击毁在废弃小镇南方附近的丘陵上。寻找残骸，并夺得里面剩余的情报资料。</Chinesesimp>
+            <Chinesesimp>一辆AAF的无人车被击毁在废弃小镇南方附近的丘陵上。寻找残骸，并夺得里面剩余的情报资料。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_EndGame02_Task02">
             <Original>An aerial recon spotted an Altis Navy attack boat anchored in a small port to the south. Try to get some data from its sensors but make sure you destroy it afterwards.</Original>
             <Chinese>我們的空中偵察機發現到一個阿爾蒂斯武裝力量海軍攻擊艇下錨在南方的一個港口中。嘗試奪得上面的資料，並在最後摧毀它。</Chinese>
-            <Chinesesimp>我们的空中侦察机发现阿尔蒂斯武装力量的海军攻击快艇在南方的一个小港口中下锚。尝试夺得上面的资料，并在最后摧毁它。</Chinesesimp>
+            <Chinesesimp>我们的空中侦察机发现AAF的海军攻击快艇在南方的一个小港口中下锚。尝试夺得上面的资料，并在最后摧毁它。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_EndGame02_Task03">
             <Original>A local AAN reporter managed to collect some interesting footage which might assist our ground units with advancing inland.</Original>
@@ -27,17 +27,17 @@
           <Key ID="STR_A3_EndGame02_Task05">
             <Original>The seaside chapel provided shelter to AAF units fleeing airstrikes. Search the area for any relevant intel.</Original>
             <Chinese>在海邊的禮拜堂曾經提供阿爾蒂斯武裝力量躲避空襲。搜索該區是否有任何殘留的情報。</Chinese>
-            <Chinesesimp>在海边的礼拜堂被阿尔蒂斯武装力量用来躲避空袭。搜索该区是否有任何残留的情报。</Chinesesimp>
+            <Chinesesimp>在海边的礼拜堂被AAF用来躲避空袭。搜索该区是否有任何残留的情报。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_EndGame02_Task06">
             <Original>An AAF convoy was hit on the road between Feres and Selakano. Search the area and try to recover any useful info.</Original>
             <Chinese>阿爾蒂斯武裝力量的車隊曾經在費雷斯與塞拉卡諾之間遇襲。搜索該區並回收任何有用的情報。</Chinese>
-            <Chinesesimp>阿尔蒂斯武装力量的车队曾经在费雷斯与塞拉卡诺间遇袭。搜索该区并回收任何有用的情报。</Chinesesimp>
+            <Chinesesimp>AAF的车队曾经在费雷斯与塞拉卡诺间遇袭。搜索该区并回收任何有用的情报。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_EndGame02_Task07">
             <Original>The AAF airbase to the south was recently abandoned and may hold some information of use to us. Search the area for any usable information.</Original>
             <Chinese>阿爾蒂斯武裝力量空軍基地的南面最近被廢棄了，那裡可能有些有趣的情報。搜索該區並取回有用的資訊。</Chinese>
-            <Chinesesimp>南部的阿尔蒂斯武装力量空军基地最近被废弃了，那里可能有些有趣的情报。搜索该区并取回有用的信息。</Chinesesimp>
+            <Chinesesimp>南部的AAF空军基地最近被废弃了，那里可能有些有趣的情报。搜索该区并取回有用的信息。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_EndGame02_Task08">
             <Original>According to a wounded guerrilla fighter, some valuable data is hidden in a grave marked 'Unknown' inside Feres military cemetery.</Original>

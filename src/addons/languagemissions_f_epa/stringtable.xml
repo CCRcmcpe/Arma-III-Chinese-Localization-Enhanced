@@ -484,7 +484,7 @@
         <Key ID="STR_A3_Campaign_Intro_05">
           <Original>In light of CSAT forces stepping up joint military exercises in the Pacific, the US is keen to re-orient its conventional forces, reinforcing battalions in the east.</Original>
           <Chinese>隨著廣協同盟部隊加緊準備其在太平洋的軍事演習，美國決定移防常規部隊，加強其在東方的防禦。</Chinese>
-          <Chinesesimp>随着广协同盟部队加紧准备其在太平洋的联合军事演习，美国决定移防常规部队，加强其在东方的防御。</Chinesesimp>
+          <Chinesesimp>随着广协部队加紧准备其在太平洋的联合军事演习，美国决定移防常规部队，加强其在东方的防御。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Campaign_Intro_06">
           <Original>Yet, with the Mediterranean basin representing a strategic fault-line between crumbling European influence and a powerful, resurgent East, some argue that the withdrawal could not come at a worse time.</Original>
@@ -494,7 +494,7 @@
         <Key ID="STR_A3_Campaign_Intro_07">
           <Original>The FIA are becoming increasingly desperate, as AAF forces begin to consolidate their position on Altis with the backing of Canton Protocol forces equipment and training.</Original>
           <Chinese>隨著阿爾蒂斯武裝力量的部隊接受了廣東協議部隊的裝備與訓練，其在阿爾蒂斯的地位就越加鞏固，而自由獨立同盟也變得越來越絕望。</Chinese>
-          <Chinesesimp>随着阿尔蒂斯武装力量接受了广东协议同盟部队的装备与训练，其在阿尔蒂斯的地位越加巩固，而自由独立同盟也变得越来越绝望。</Chinesesimp>
+          <Chinesesimp>随着AAF接受了广东协议同盟部队的装备与训练，其在阿尔蒂斯的地位越加巩固，而自由独立同盟也变得越来越绝望。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Campaign_Intro_08">
           <Original>The fifth anniversary of the Jerusalem Ceasefire again was used as a platform to push the legitimacy of the government in Pygros, with the commander of Altis Armed Forces, Colonel Georgious Akhanteros, bullishly defending the legacy of his military coup.</Original>
@@ -514,7 +514,7 @@
         <Key ID="STR_A3_Campaign_Intro_11">
           <Original>'Our CSAT partners recognise the new truth. The potential of our nation. We share with them and grow. They represent the new future. Our new future, our new truth.'</Original>
           <Chinese>'我們的廣協同盟夥伴更讓我們認識到新的真理。以及我們國家擁有的潛力。我們一起分享並一起茁壯。他們代表了新的未來。我們新的未來，我們新的真理。'</Chinese>
-          <Chinesesimp>'我们的广协同盟伙伴更能理解新的真理。以及我们国家拥有的潜力。我们一起分享并一起茁壮。他们代表了新的未来。我们新的未来，我们新的真理。'</Chinesesimp>
+          <Chinesesimp>'我们的广协伙伴更能理解新的真理。以及我们国家拥有的潜力。我们一起分享并一起茁壮。他们代表了新的未来。我们新的未来，我们新的真理。'</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Campaign_Intro_12">
           <Original>In the UK, parliament was recalled for an urgent debate and vote over the possible redeployment of British peacekeeping forces on Stratis.  </Original>
@@ -544,7 +544,7 @@
         <Key ID="STR_A3_Campaign_Intro_17">
           <Original>'CSAT wants to invest in Altis? Let them! The US can no longer be seen to prop up Europe's failed economic situation. This is their mess. We got our own problems - let's deal with those.'</Original>
           <Chinese>'廣協同盟想要投資阿爾蒂斯?讓他們做吧!美國已經沒法再為歐洲失敗的經濟形態撐腰了。這是他們的爛攤子。而我們有我們的麻煩-讓我們解決它們先。'</Chinese>
-          <Chinesesimp>'广协同盟想要投资阿尔蒂斯?让他们做吧!美国已经没法再为欧洲失败的经济状况输血了。这是他们的烂摊子。而我们有我们的麻烦-我们得先解决自己的。'</Chinesesimp>
+          <Chinesesimp>'广协想要投资阿尔蒂斯?让他们做吧!美国已经没法再为欧洲失败的经济状况输血了。这是他们的烂摊子。而我们有我们的麻烦-我们得先解决自己的。'</Chinesesimp>
         </Key>
         <Key ID="STR_A3_EPA_Campaign_Intro_01">
           <Original>Although five years have passed since bloody civil war was brought to an end ...</Original>
@@ -574,7 +574,7 @@
         <Key ID="STR_A3_EPA_Campaign_Intro_06">
           <Original>In light of CSAT forces stepping up joint military exercises in the Pacific ...</Original>
           <Chinese>隨著廣協同盟部隊加緊準備其在太平洋的軍事演習...</Chinese>
-          <Chinesesimp>随着广协同盟部队加紧准备其在太平洋的军事演习...</Chinesesimp>
+          <Chinesesimp>随着广协部队加紧准备其在太平洋的军事演习...</Chinesesimp>
         </Key>
         <Key ID="STR_A3_EPA_Campaign_Intro_07">
           <Original>... the US is keen to re-orient its conventional forces.</Original>
@@ -599,7 +599,7 @@
         <Key ID="STR_A3_EPA_Campaign_Intro_11">
           <Original>... as AAF forces begin to consolidate their position with the backing of Canton Protocol forces equipment ...</Original>
           <Chinese>...隨著阿爾蒂斯武裝力量的部隊接受了廣東協議部隊的裝備與訓練，其在阿爾蒂斯的地位就越加鞏固...</Chinese>
-          <Chinesesimp>...随着阿尔蒂斯武装力量接受了广东协议同盟部队的装备与训练，其在阿尔蒂斯的地位越加巩固...</Chinesesimp>
+          <Chinesesimp>...随着AAF接受了广东协议同盟部队的装备与训练，其在阿尔蒂斯的地位越加巩固...</Chinesesimp>
         </Key>
         <Key ID="STR_A3_EPA_Campaign_Intro_12">
           <Original>... again was used as a platform to push the legitimacy ...</Original>
@@ -800,7 +800,7 @@
             <Key ID="str_a3_a_m03_40_reinf_mil_0">
               <Original>Confirmed, Alpha. Delta reports two AAF motorized infantry squads inbound from Rogain. How copy?</Original>
               <Chinese>了解，"Alpha"。"Delta"回報有兩個阿爾蒂斯武裝力量摩托化步兵班正在從羅根趕來。有收到嗎?</Chinese>
-              <Chinesesimp>了解，"阿尔法"。"德尔塔"报告称有两个阿尔蒂斯武装力量的摩托化步兵班正在从罗根赶来。有收到吗?</Chinesesimp>
+              <Chinesesimp>了解，"阿尔法"。"德尔塔"报告称有两个AAF的摩托化步兵班正在从罗根赶来。有收到吗?</Chinesesimp>
             </Key>
           </Container>
           <Container name="40b_Reinf" audioFilePath="\a3\dubbing_f_epa\a_m03" dialogName="40b_Reinf" dubbingLanguage="english" namePrefix="a_m03_40b_reinf" note="" participants="EPA B Delta Lead;" situation="delta informs units at mike-26 about reinforcements.">
@@ -829,7 +829,7 @@
             <Key ID="str_a3_a_m03_35_mike26_clear_alp_0">
               <Original>Falcon, this is Alpha. Be advised, we've secured Mike-26. Any word on AAF reinforcements? Over.</Original>
               <Chinese>"獵鷹"，這裡是"Alpha"。請注意，我們已經肅清了Mike-26。有任何阿爾蒂斯武裝力量援軍的消息嗎?完畢。</Chinese>
-              <Chinesesimp>"猎鹰"，这里是"阿尔法"。请注意，我们已经肃清了Mike-26。有任何阿尔蒂斯武装力量援军的消息吗?完毕。</Chinesesimp>
+              <Chinesesimp>"猎鹰"，这里是"阿尔法"。请注意，我们已经肃清了Mike-26。有任何AAF援军的消息吗?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_m03_35_mike26_clear_mil_0">
               <Original>Excellent work, Alpha. This takes us one step closer to leaving this rock. Wait one.</Original>
@@ -949,7 +949,7 @@
           <Key ID="str_a3_a_m03_briefing_situation_text">
             <Original>As I'm sure you're all well aware, comms are still down. Efforts to restore contact with NATO MEDCOM have, thus far, proven fruitless. The plain truth is, gentlemen, with the AAF regrouping, we must re-establish a link soon.%1Now, aside from %2the airbase%3, %4Mike-26%5 is probably the most hi-tech installation on Stratis. It's also one of the most strategically valuable positions on the island.%6It's a risk, but hitting the facility will deal a serious blow to the AAF, and - if anywhere holds an opportunity to re-open comms channels - it's there.%7This will be a coordinated effort. Charlie will set up %8a mortar%9. %10Alpha%11 will %12provide overwatch%13 and mark priority targets. We'll strike hard from distance and - together with %14Bravo%15 - move in quickly, holding the position against any potential counter-attack.</Original>
             <Chinese>正如你們一直很關心的，通訊仍然是斷的。我們一直努力與北約的地中海司令部進行聯繫，但到目前為止，都是徒勞無功的。計劃很明顯，先生們-由於阿爾抵死武裝力量正在重新集結-所以我們必須加快聯繫外援的動作。%1現在，除了%2空軍基地%3，%4Mike-26%5可能是斯特拉蒂斯島上唯一裝有高科技裝備的地方。它也是島上其中一處最具戰略價值的位置%6這風險很高，但打擊這個設施將會重重的打擊阿爾蒂斯武裝力量，並且-假如有任何機會可以重新連繫上通訊頻道-這就是了。%7此次行動將由大家共同合作。"Charlie"將會設置%8迫擊砲%9。%10"Alpha"%11則會提供%12觀測%13並標記優先目標。我們將從一定的距離外嚴重打擊他們-然後再與%14"Bravo"%15一同快速進入，堅守陣地並排除所有潛在的反擊。</Chinese>
-            <Chinesesimp>我相信你们也很在意，通信仍然中断。我们一直努力与北约地中海司令部取得联系，但到目前为止一直徒劳无功。事实就是，先生们-由于阿尔蒂斯武装力量正在重新集结-我们必须加快联系外援的动作。%1现在除了%2空军基地以外%3，%4Mike-26%5可能是斯特拉蒂斯岛上唯一装有高科技设备的地方。它也是岛上其中一处最具战略价值的位置%6这风险很高，但打击这个设施将给阿尔蒂斯武装力量带来沉重打击，并且-假如有任何机会可以重新建立通信的话-就是这样了。%7此次行动将由大家共同合作。"查理"将会设置%8迫击炮%9。%10"阿尔法"%11则会提供%12观测%13并标记优先目标。我们将从一定的距离外狠狠打击他们-然后再与%14"布拉沃"%15协同快速突入，坚守阵地并排除所有潜在的反击。</Chinesesimp>
+            <Chinesesimp>我相信你们也很在意，通信仍然中断。我们一直努力与北约地中海司令部取得联系，但到目前为止一直徒劳无功。事实就是，先生们-由于AAF正在重新集结-我们必须加快联系外援的动作。%1现在除了%2空军基地以外%3，%4Mike-26%5可能是斯特拉蒂斯岛上唯一装有高科技设备的地方。它也是岛上其中一处最具战略价值的位置%6这风险很高，但打击这个设施将给AAF带来沉重打击，并且-假如有任何机会可以重新建立通信的话-就是这样了。%7此次行动将由大家共同合作。"查理"将会设置%8迫击炮%9。%10"阿尔法"%11则会提供%12观测%13并标记优先目标。我们将从一定的距离外狠狠打击他们-然后再与%14"布拉沃"%15协同快速突入，坚守阵地并排除所有潜在的反击。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m03_briefing_signal_text">
             <Original>%1Alpha%2 - Your squad.%3%4Bravo%5 - Supporting element.%6%7Charlie%8 - Mortar team.%9%10Falcon%11 - Camp Maxwell HQ.%12%13Delta%14 - Recon element.</Original>
@@ -989,7 +989,7 @@
           <Key ID="str_a3_a_m03_bis_reinf_desc">
             <Original>AAF reinforcements are inbound %1from the north%2; prevent them from re-capturing %3the facility%4.</Original>
             <Chinese>阿爾蒂斯武裝力量的援軍正從%1北方%2趕來;請防止他們重新佔領%3設施%4。</Chinese>
-            <Chinesesimp>阿尔蒂斯武装力量的援军正从%1北方%2赶来;阻止他们重新占领%3设施%4的企图。</Chinesesimp>
+            <Chinesesimp>AAF的援军正从%1北方%2赶来;阻止他们重新占领%3设施%4的企图。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m03_bis_op_title">
             <Original>Set Up OP</Original>
@@ -1016,7 +1016,7 @@
           <Key ID="str_a3_a_m05_overview">
             <Original>An opportunity to neutralize an AAF commander presents itself.</Original>
             <Chinese>一個可以讓我們除掉阿爾蒂斯武裝力量指揮官的機會出現了。</Chinese>
-            <Chinesesimp>一个可以让我们除掉阿尔蒂斯武装力量指挥官的机会出现了。</Chinesesimp>
+            <Chinesesimp>一个可以让我们除掉AAF指挥官的机会出现了。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m05_mission_name">
             <Original>Wet Work</Original>
@@ -1031,12 +1031,12 @@
           <Key ID="str_a3_a_m05_debriefing_a_hub01_1_description">
             <Original>You managed to clear the town and successfully neutralized a high-ranking enemy officer. Unfortunately, it was not our intended target, Goblin.&lt;br/&gt;&lt;br/&gt;While the loss of this commander won't go unnoticed among the AAF, it was not the decisive blow we were looking for. Instead, we may have just kicked the hornet's nest.</Original>
             <Chinese>你成功肅清了小鎮並殲滅掉敵方的高階軍官。不幸的是，他並不是我們本來所設想的目標，"哥布林"。&lt;br/&gt;&lt;br/&gt;雖然阿爾蒂斯武裝力量會對失去這個指揮官一事非常在意，但對他們來說並不是致命的一擊。相反的，我們可能捅到了蜂窩。</Chinese>
-            <Chinesesimp>你成功肃清了小镇并歼灭掉敌方的高级军官。不幸的是，他并不是我们本来所设想的目标，"哥布林"。&lt;br/&gt;&lt;br/&gt;虽然阿尔蒂斯武装力量不会对失去这名指挥官而坐视不管，但对他们来说并不是致命的一击。相反，可能是我们捅到了马蜂窝。</Chinesesimp>
+            <Chinesesimp>你成功肃清了小镇并歼灭掉敌方的高级军官。不幸的是，他并不是我们本来所设想的目标，"哥布林"。&lt;br/&gt;&lt;br/&gt;虽然AAF不会对失去这名指挥官而坐视不管，但对他们来说并不是致命的一击。相反，可能是我们捅到了马蜂窝。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m05_briefing_situation_text">
             <Original>Recon reports indicate that the AAF will make a push south in the next few hours. It appears they're keen to lock down the area around %1Girna%2.%3Intel suggests that the highest-ranking officer on Stratis will himself be in the area. Neutralizing him will deal a serious blow to our enemy. Decapitating their command structure may even signal an end to this whole situation.%4We simply cannot let this opportunity pass us by.%5Now, we've come up with a plan of action. My team has a submersible stashed %6just off the west coast%7. That's why we asked for volunteers - those with diving experience.%8One of my men will use it to lead a small team and insert %9just north of Girna%10. Meanwhile, %11Bravo%12 will circle around and take up %13a position to the south%14. Once both teams are in place, we close the trap.</Original>
             <Chinese>偵察報告指出，阿爾蒂斯武裝力量將會在接下來的幾個小時向南推進。而且他們正封鎖%1吉爾納%2的四周。%3情報表明，該區將會出現敵軍在斯特拉蒂斯島上最高軍階的軍官。幹掉他將會帶給我們敵人一個重重的打擊。殺掉他們的指揮官可能還可以讓這整件事情結束也說不定。%4我們不能讓這機會流失。%5現在，我們制定出了一個計劃。我的小隊藏匿了一臺潛水艇在%6西海岸邊%7。這就是為什麼要徵求志願者-那些有潛水經驗的人。%8我的其中一個手下，上尉詹姆斯，將會帶領一小支隊伍潛入%9吉爾納的北方%10。同時，%11"Bravo"%12將會從%13南方的位置%14進行包圍。當兩隊都就定位的時候，我們就可以收網釣大魚了。</Chinese>
-            <Chinesesimp>侦察报告指出，阿尔蒂斯武装力量将会在接下来的几个小时向南推进。而且他们正封锁%1吉尔纳%2的四周。%3情报表明，该区将会出现敌军在斯特拉蒂斯岛上最高军衔的军官。干掉他将给敌人带来重大打击。杀掉他们的指挥官可能还能结束整个事件。%4我们不能错失良机。%5现在我们制定出了一个计划。我的小组在%6西海岸边%7藏匿了一台海豹运输艇。这就是为什么要征求志愿者-那些有潜水经验的人。%8我的其中一个手下詹姆斯上尉，将会带领一小支队伍潜入%9吉尔纳的北方%10。同时，%11"布拉沃"%12将会从%13南方的位置%14进行包围。当两队都就定位的时候，我们就可以收网钓大鱼了。</Chinesesimp>
+            <Chinesesimp>侦察报告指出，AAF将会在接下来的几个小时向南推进。而且他们正封锁%1吉尔纳%2的四周。%3情报表明，该区将会出现敌军在斯特拉蒂斯岛上最高军衔的军官。干掉他将给敌人带来重大打击。杀掉他们的指挥官可能还能结束整个事件。%4我们不能错失良机。%5现在我们制定出了一个计划。我的小组在%6西海岸边%7藏匿了一台海豹运输艇。这就是为什么要征求志愿者-那些有潜水经验的人。%8我的其中一个手下詹姆斯上尉，将会带领一小支队伍潜入%9吉尔纳的北方%10。同时，%11"布拉沃"%12将会从%13南方的位置%14进行包围。当两队都就定位的时候，我们就可以收网钓大鱼了。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m05_briefing_signal_text">
             <Original>%1Swordfish%2 - Your squad.%3%4Bravo%5 - Supporting element.%6%7Falcon%8 - Camp Maxwell HQ.%9Charlie - Camp Maxwell defense.</Original>
@@ -1568,7 +1568,7 @@
           <Key ID="str_a3_a_out_overview">
             <Original>The survivors launch a last-ditch effort to drive the remaining AAF units into the sea.</Original>
             <Chinese>倖存者們展開了最後的行動，希望可以把剩下的阿爾蒂斯武裝力量部隊全部趕到海裡。</Chinese>
-            <Chinesesimp>幸存者们展开了最后的行动，希望可以把剩下的阿尔蒂斯武装力量全部赶到海里。</Chinesesimp>
+            <Chinesesimp>幸存者们展开了最后的行动，希望可以把剩下的AAF全部赶到海里。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_out_mission_name">
             <Original>Tipping Point</Original>
@@ -1578,7 +1578,7 @@
           <Key ID="str_a3_a_out_briefing_situation_text">
             <Original>I know things don't look good for us right now. We took a hit. We lost a number of good men.%1Now, nothing I've got to say will change that fact, but I do have new information. Late last night Delta managed to establish temporary long-range comms with NATO MEDCOM. %2Reinforcements%3 are inbound, gentlemen.%4We need to lay the groundwork for a full invasion. They need an established foothold, not %5a broken down base hidden in the woods%6. I say we attack now. We catch the AAF off-guard. We hold the ground we seize.%7I'll lead Delta behind enemy lines and take up %8an advanced position to the North of Agia Marina%9. %10Alpha%11 and %12Bravo%13 will lead the assault on %14the military range%15, while %16Charlie%17 hit %18Camp Rogain%19 and contain any counter-attack that might flank our main assault.%20Once the Range is secure, we'll converge on %21the town%22 and entrench our position. I'll go through the exact details of the plan with each individual squad leader. They'll bring the rest of their men up to speed.%23'With fearlessness and rage', gentlemen. Good luck.</Original>
             <Chinese>我知道現在的狀況看來不是倒向我們這邊。我們遭受打擊。我們失去了好幾名優秀的人。%1現在，不管我說什麼都改變不了這個事實，不過我確實有個新消息。昨天深夜，"Delta"成功建立起臨時的長距離通訊，並與北約的地中海司令部接上了。%2援軍%3正在趕來了，先生們。%4我們需要為入侵行動打下良好的基礎。他們需要一個堅固的立足點，而不是一座%5隱藏在森林裡並毀損的基地%6。我說我們現在就必須要攻擊。我們抓住阿爾蒂斯武裝力量放鬆警戒的時候。我們要堅守住我們肅清的每一塊地。%7我將會帶領"Delta"深入敵後，%8前往AgiaMarina的北方%9。%10Alpha%11和%12"布拉沃"%13將會攻擊%14軍用靶場%15，同時%16"查理"%17將會攻擊%18羅根營地%19並確保不會有任何反擊會碰觸到我們主攻擊的後翼。%20在靶場被肅清之後，我們將會在%21城鎮%22裡會合並鞏固我們的位置。我將會再跟各個隊長核對具體細節。他們會在個別通知各小隊成員。%23'願無畏與憤怒的精神與你們同在'，先生們。祝好運。</Chinese>
-            <Chinesesimp>我知道现在的状况对我们不利。我们遭受了打击。我们失去了很多优秀的人。%1现在，不管我说什么都改变不了这些事实，不过我确实有个新消息。昨天深夜，"德尔塔"成功建立起临时的长距离通信，并与北约的地中海司令部联络上了。%2援军%3正在赶来，先生们。%4我们需要为入侵行动打下良好的基础。他们需要一个坚固的立足点，而不是一座%5隐藏在森林里并毁损的基地%6。我说我们现在就必须要攻击。我们抓住阿尔蒂斯武装力量放松警戒的时候。我们要坚守住我们肃清的每一块土地。%7我将会带领"德尔塔"深入敌后，%8前往圣马里纳的北方%9。%10"阿尔法"%11和%12"布拉沃"%13将会攻击%14军用靶场%15，同时%16"查理"%17将会攻击%18罗根营地%19以制止任何可能针对我方主要突击侧翼的反击。%20在靶场被肃清之后，我们将会在%21城镇%22里会合并巩固我们的位置。我将会再跟各班长核对具体细节。他们则个别通知各班成员。%23'愿无畏与愤怒的精神与你们同在'，先生们。祝好运。</Chinesesimp>
+            <Chinesesimp>我知道现在的状况对我们不利。我们遭受了打击。我们失去了很多优秀的人。%1现在，不管我说什么都改变不了这些事实，不过我确实有个新消息。昨天深夜，"德尔塔"成功建立起临时的长距离通信，并与北约的地中海司令部联络上了。%2援军%3正在赶来，先生们。%4我们需要为入侵行动打下良好的基础。他们需要一个坚固的立足点，而不是一座%5隐藏在森林里并毁损的基地%6。我说我们现在就必须要攻击。我们抓住AAF放松警戒的时候。我们要坚守住我们肃清的每一块土地。%7我将会带领"德尔塔"深入敌后，%8前往圣马里纳的北方%9。%10"阿尔法"%11和%12"布拉沃"%13将会攻击%14军用靶场%15，同时%16"查理"%17将会攻击%18罗根营地%19以制止任何可能针对我方主要突击侧翼的反击。%20在靶场被肃清之后，我们将会在%21城镇%22里会合并巩固我们的位置。我将会再跟各班长核对具体细节。他们则个别通知各班成员。%23'愿无畏与愤怒的精神与你们同在'，先生们。祝好运。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_out_briefing_signal_text">
             <Original>%1Alpha%2 - Your team.%3%4Bravo%5 - Supporting squad.%6%7Charlie%8 - Tasked with assaulting %9Camp Rogain%10.%11%12Delta%13 - Tasked with flanking %14Agia Marina%15, Operational Lead.</Original>
@@ -1603,7 +1603,7 @@
           <Key ID="str_a3_a_out_bis_town_desc">
             <Original>Once %1the military range%2 has been secured, move on to %3the town%4 and clear it of all remaining AAF.</Original>
             <Chinese>當%1軍用靶場%2被肅清後，移動到%3城鎮%4中並清理掉剩下的阿爾蒂斯武裝力量部隊。</Chinese>
-            <Chinesesimp>当%1军用靶场%2被肃清后，推进到%3城镇%4中并清理掉剩下的阿尔蒂斯武装力量部队。</Chinesesimp>
+            <Chinesesimp>当%1军用靶场%2被肃清后，推进到%3城镇%4中并清理掉剩下的AAF部队。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_out_bis_retreat_title">
             <Original>Retreat</Original>
@@ -1875,7 +1875,7 @@
             <Key ID="str_a3_a_out_30_nato_inbound_mil_0">
               <Original>Splendid news, Alpha. We see AAF forces pulling back. Acknowledge, over.</Original>
               <Chinese>好消息，"Alpha"。我們看到了阿爾蒂斯武裝力量的部隊正在撤退。已確認，完畢。</Chinese>
-              <Chinesesimp>好消息，"阿尔法"。我们看到阿尔蒂斯武装力量正在撤退。已确认，完毕。</Chinesesimp>
+              <Chinesesimp>好消息，"阿尔法"。我们看到AAF正在撤退。已确认，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_out_30_nato_inbound_mil_1">
               <Original>Uncertain. It could be that they're regrouping for a counter-offensive.</Original>
@@ -2064,17 +2064,17 @@
           <Key ID="str_a3_a_m02_debriefing_a_hub01_2_description">
             <Original>It was risky but, thanks to you, Bravo are safe and an enemy mortar position is out of action.&lt;br/&gt;&lt;br/&gt;While we're not yet in a position to hold the ground we took - and despite being forced to retreat - we managed to adapt to the situation on the ground and strike another blow against the AAF.</Original>
             <Chinese>這真危險，但感謝有你，"Bravo"已經安全了，而且敵方的迫擊砲陣地也已失去作用。&lt;br/&gt;&lt;br/&gt;儘管我們還沒有能力能守住我們得到的土地-而且被迫撤退-我們仍成功的適應了現況，並在地面戰中再一次的給阿爾蒂斯武裝力量賞了一巴掌。</Chinese>
-            <Chinesesimp>这真危险，但多亏有你"布拉沃"已经安全了，而且敌方的迫击炮阵地也已失去作用。&lt;br/&gt;&lt;br/&gt;尽管我们还没有能力能守住我们得到的土地-而且被迫撤退-我们仍成功的适应了现况，并在地面战中再一次给阿尔蒂斯武装力量赏了一巴掌。</Chinesesimp>
+            <Chinesesimp>这真危险，但多亏有你"布拉沃"已经安全了，而且敌方的迫击炮阵地也已失去作用。&lt;br/&gt;&lt;br/&gt;尽管我们还没有能力能守住我们得到的土地-而且被迫撤退-我们仍成功的适应了现况，并在地面战中再一次给AAF赏了一巴掌。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m02_debriefing_a_hub01_1_description">
             <Original>It was risky but, thanks to you, Bravo are safe.&lt;br/&gt;&lt;br/&gt;While we're not yet in a position to hold the ground we took - and despite being forced to retreat - we managed to adapt to the situation on the ground and strike another blow against the AAF.</Original>
             <Chinese>這真危險，但感謝有你，"布拉沃"已經安全了。&lt;br/&gt;&lt;br/&gt;儘管我們還沒有能力能守住我們得到的土地-而且被迫撤退-我們仍成功的適應了現況，並在地面戰中再一次的給阿爾蒂斯武裝力量賞了一巴掌。</Chinese>
-            <Chinesesimp>这真危险，但多亏有你"布拉沃"已经安全了。&lt;br/&gt;&lt;br/&gt;尽管我们还没有能力能守住我们得到的土地-而且被迫撤退-我们仍成功的适应了现况，并在地面战中再一次给阿尔蒂斯武装力量赏了一巴掌。</Chinesesimp>
+            <Chinesesimp>这真危险，但多亏有你"布拉沃"已经安全了。&lt;br/&gt;&lt;br/&gt;尽管我们还没有能力能守住我们得到的土地-而且被迫撤退-我们仍成功的适应了现况，并在地面战中再一次给AAF赏了一巴掌。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m02_briefing_situation_text">
             <Original>As you're probably aware, we've been scouting positions to our north, keeping a check on enemy movement.%1Unfortunately, Bravo ran into trouble, taking contact in %2a village%3 a little to the west of %4our position%5.%6They're pinned down and need our support.%7An advanced element has already set up %8a position nearby%9 to get eyes on the situation. AAF units have mobilized along the valley leading to the village. More support is no doubt en route.%10%11Alpha%12 will approach from the east. Use the high ground and forest to your advantage. Clear the village and get our boys out of there.</Original>
             <Chinese>正如你們所知，我們已經偵察了我們位置的北方，持續留意敵人的動向。%1不幸的是，"布拉沃"陷入了麻煩，與敵人在%4我們%5西方不遠處的%2村莊%3中交戰。%6他們被壓制，並且需要我們的支援。%7現在，一個%8偵察員%9已經被派遣到前線去了解狀況。阿爾蒂斯武裝力量的部隊正沿著山谷前往村莊。無疑的，更多的支援正在路上了。%10%11"Alpha"%12將從東方靠近。利用制高點與森林來創造你們的優勢。肅清村莊並帶我們的兄弟離開那裡。</Chinese>
-            <Chinesesimp>正如你们所知，我们已经侦察了我们位置的北方，持续留意敌人的动向。%1不幸的是，"布拉沃"陷入了麻烦，与敌人在%4我们%5西方不远处的%2村庄%3中交战。%6他们被压制，并且需要我们的支援。%7现在，一个%8先遣分队%9已经被派遣到前线去了解状况。阿尔蒂斯武装力量正沿着山谷前往村庄。更多的支援无疑正在路上。%10%11"阿尔法"%12将从东方靠近。利用制高点与森林来创造你们的优势。肃清村庄并带我们的兄弟离开那里。</Chinesesimp>
+            <Chinesesimp>正如你们所知，我们已经侦察了我们位置的北方，持续留意敌人的动向。%1不幸的是，"布拉沃"陷入了麻烦，与敌人在%4我们%5西方不远处的%2村庄%3中交战。%6他们被压制，并且需要我们的支援。%7现在，一个%8先遣分队%9已经被派遣到前线去了解状况。AAF正沿着山谷前往村庄。更多的支援无疑正在路上。%10%11"阿尔法"%12将从东方靠近。利用制高点与森林来创造你们的优势。肃清村庄并带我们的兄弟离开那里。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m02_briefing_signal_text">
             <Original>%1Alpha%2 - Your squad.%3%4Bravo%5 - Friendly element in Girna.%6%7Falcon%8 - Camp Maxwell HQ.%9%10Charlie%11 - Supporting element.%12%13Delta%14 - Camp Maxwell defence.</Original>
@@ -2084,7 +2084,7 @@
           <Key ID="str_a3_a_m02_briefing_mission_text">
             <Original>Support Bravo by eliminating AAF contacts in the vicinity of %1Girna%2.</Original>
             <Chinese>通過殲滅在%1吉爾納%2附近的阿爾蒂斯武裝力量部隊來支援"布拉沃"。</Chinese>
-            <Chinesesimp>通过歼灭在%1吉尔纳%2附近的阿尔蒂斯武装力量部队来支援"布拉沃"。</Chinesesimp>
+            <Chinesesimp>通过歼灭在%1吉尔纳%2附近的AAF部队来支援"布拉沃"。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m02_briefing_execution_text">
             <Original>1. Move along the ridgeline and get into position.&lt;br/&gt;2. Secure %1Bravo's position%2.&lt;br/&gt;3. Return to %3Camp Maxwell%4.</Original>
@@ -2144,7 +2144,7 @@
           <Key ID="str_a3_a_m02_bis_rtb_desc">
             <Original>An AAF Buzzard has engaged %1Girna%2. Fall back to %3Camp Maxwell%4.</Original>
             <Chinese>一臺阿爾蒂斯武裝力量的"禿鷹"戰鬥機已經鎖定了%1吉爾納%2。趕快撤退回%3麥克斯韋營地%4。</Chinese>
-            <Chinesesimp>一架阿尔蒂斯武装力量的"秃鹰"战斗机正在攻击%1吉尔纳%2。赶快撤退回%3麦克斯韦营地%4。</Chinesesimp>
+            <Chinesesimp>一架AAF的"秃鹰"战斗机正在攻击%1吉尔纳%2。赶快撤退回%3麦克斯韦营地%4。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m02_bis_pointman_title">
             <Original>Divert</Original>
@@ -2823,7 +2823,7 @@
             <Key ID="str_a3_a_m04_45_objectives_mil_0">
               <Original>Alpha, Connor's gone dark. Sounds like the AAF's moved in.</Original>
               <Chinese>"Alpha"，康納沒有通訊了。聽起來像是阿爾蒂斯武裝力量攻擊了他們。</Chinese>
-              <Chinesesimp>"阿尔法"，康纳没有通信了。听起来像是阿尔蒂斯武装力量攻击了他们。</Chinesesimp>
+              <Chinesesimp>"阿尔法"，康纳没有通信了。听起来像是AAF攻击了他们。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_m04_45_objectives_mil_1">
               <Original>They've probably hit the abandoned towns nearby, too.</Original>
@@ -3031,7 +3031,7 @@
           <Key ID="str_a3_campaign_a_m04_situation_description">
             <Original>We've struck some fairly significant blows against the AAF. They've been weakened.%1%1We only have a small window of opportunity to exploit that fact, though, before they're reinforced. It's also become clear that we're running short on ammo and supplies. We're beginning to stretch ourselves thin.%1%1Fortunately, an opportunity has presented itself. We've managed to re-establish communication with a contact that has ties to the local guerillas. It's a small cell. Part of a larger network of resistance on the Altis mainland. They call themselves the F-I-A. 'Fee-ah'.%1%1In the wake of the AAF attack, our contact - goes by the name Nikos - set up an ammunition dump somewhere near %4LZ Connor%2. Now he's offering to, well, share it, in a manner of speaking. We've agreed to link up %5just south of here%2.%1%1Meet with him, secure some supplies, and RTB. Be on your guard and good luck.</Original>
             <Chinese>我們已經對阿爾蒂斯武裝力量做出了一些重大的打擊。他們現在已被削弱。%1%1趁他們重新整備好之前，我們有一個機會可以好好利用。相信大家也很清楚，我們的彈藥與物資快要用完了。我們已經捉襟見肘了。%1%1幸運的是，一個機會向我們展開了雙臂。我們已經重新與當地的游擊隊搭上線。他們是個分部。屬於阿爾蒂斯主島上反抗軍的一部分。他們稱呼自己為自由獨立同盟F-I-A。'Fee-ah'。%1%1在阿爾蒂斯武裝力量發動攻擊之後，我們的線人-其名稱為'尼科斯'-設置了一處彈藥庫在%4康納著陸區%2附近。他通過對話說要提供，這個，分享他的資源。我們已經同意與他在%5南方的位置%2碰頭。%1%1跟他碰面，確保物資，然後返回基地。保持警戒，祝好運。</Chinese>
-            <Chinesesimp>我们已经给予阿尔蒂斯武装力量一系列重大打击。他们现在已被削弱。%1%1趁他们重新整备好之前，我们有一个机会可以好好利用。相信大家也很清楚，我们的弹药与物资快要用完了。我们已经捉襟见肘了。%1%1幸运的是，一个机会向我们展开了双臂。我们已经重新与当地的游击队搭上线。他们是阿尔蒂斯主岛上反抗军一个分部的下属。他们称呼自己为自由独立同盟F-I-A。'Fee-ah'。%1%1在阿尔蒂斯武装力量发动攻击之后，我们的线人-其名为'尼科斯'-在%4康纳着陆区%2附近设置了存储了一些弹药。现在他决定要，这么讲，分享他的资源。我们已经同意与他在%5南方的位置%2碰头。%1%1跟他碰面，确保物资，然后返回基地。保持警戒，祝好运。</Chinesesimp>
+            <Chinesesimp>我们已经给予AAF一系列重大打击。他们现在已被削弱。%1%1趁他们重新整备好之前，我们有一个机会可以好好利用。相信大家也很清楚，我们的弹药与物资快要用完了。我们已经捉襟见肘了。%1%1幸运的是，一个机会向我们展开了双臂。我们已经重新与当地的游击队搭上线。他们是阿尔蒂斯主岛上反抗军一个分部的下属。他们称呼自己为自由独立同盟F-I-A。'Fee-ah'。%1%1在AAF发动攻击之后，我们的线人-其名为'尼科斯'-在%4康纳着陆区%2附近设置了存储了一些弹药。现在他决定要，这么讲，分享他的资源。我们已经同意与他在%5南方的位置%2碰头。%1%1跟他碰面，确保物资，然后返回基地。保持警戒，祝好运。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_a_m04_regroup_waypoint">
             <Original>REGROUP</Original>
@@ -3321,7 +3321,7 @@
             <Key ID="str_a3_a_in_97_tense_ker_0">
               <Original>Jesus, the AAF seem really on edge, huh?</Original>
               <Chinese>天哪，阿爾蒂斯武裝力量他們看起來真的很緊張，是吧?</Chinese>
-              <Chinesesimp>天哪，这些阿尔蒂斯武装力量看起来真的很紧张，是吧?</Chinesesimp>
+              <Chinesesimp>天哪，这些AAF看起来真的很紧张，是吧?</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_in_97_tense_ico_1">
               <Original>Sergeant Lacey, be advised, Greenbacks are really waving their dicks around today.</Original>
@@ -3384,7 +3384,7 @@
             <Key ID="str_a3_a_in_76_turn_ico_2">
               <Original>The AAF already hate our guts - we need to at least keep the goat population on side, you copy that, soldier?</Original>
               <Chinese>阿爾蒂斯武裝力量已經對我們恨之入骨了-我們至少必須確保他們的山羊沒有傷亡，你了解嗎，大兵?</Chinese>
-              <Chinesesimp>阿尔蒂斯武装力量已经对我们恨之入骨了-我们至少得争取"羊心"，懂吗，大兵?</Chinesesimp>
+              <Chinesesimp>AAF已经对我们恨之入骨了-我们至少得争取"羊心"，懂吗，大兵?</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_in_76_turn_ker_0">
               <Original>Minimize collateral damage, sir. Hearts and minds, sir.</Original>
@@ -3799,7 +3799,7 @@
             <Key ID="str_a3_a_in_160_evac_bhq_2">
               <Original>AAF forces have overwhelmed the airfield and Air Station Mike-26. We're pulling back.</Original>
               <Chinese>阿爾蒂斯武裝力量部隊已經佔領了空軍基地與Mike-26基地臺。我們正在撤退。</Chinese>
-              <Chinesesimp>阿尔蒂斯武装力量已经占领了机场和Mike-26航空站。我们正在撤退。</Chinesesimp>
+              <Chinesesimp>AAF已经占领了机场和Mike-26航空站。我们正在撤退。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_in_160_evac_bhq_3">
               <Original>Try to get -</Original>
@@ -3821,7 +3821,7 @@
             <Key ID="str_a3_a_in_15_roads_ico_0">
               <Original>Someone forgot to tell the AAF commander we'd be decommissioning the airbase.</Original>
               <Chinese>有人忘記告訴阿爾蒂斯武裝力量指揮官我們將要拆掉空軍基地。</Chinese>
-              <Chinesesimp>有人忘了告诉阿尔蒂斯武装力量指挥官我们将要拆掉空军基地。</Chinesesimp>
+              <Chinesesimp>有人忘了告诉AAF指挥官我们将要拆掉空军基地。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_in_15_roads_ico_1">
               <Original>He's throwing some kind of hissy fit over there right now. It's a mess.</Original>
@@ -3889,7 +3889,7 @@
             <Key ID="str_a3_a_in_140_enemies_bhq_2">
               <Original>AAF forces considered hostile. Hold your ground! Out.</Original>
               <Chinese>已確認阿爾蒂斯武裝力量部隊為敵人。堅守陣地!通話完畢。</Chinese>
-              <Chinesesimp>已确认阿尔蒂斯武装力量为敌人。坚守阵地!通话完毕。</Chinesesimp>
+              <Chinesesimp>已确认AAF为敌人。坚守阵地!通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="137_WTF" audioFilePath="\a3\dubbing_f_epa\a_in" dialogName="137_WTF" dubbingLanguage="english" namePrefix="a_in_137_wtf" note="" participants="EPA B Player;EPA B Intro CO;" situation="player follows co">
@@ -3911,7 +3911,7 @@
             <Key ID="str_a3_a_in_137_wtf_ker_1">
               <Original>Wait, CSAT?</Original>
               <Chinese>等等，廣協同盟?</Chinese>
-              <Chinesesimp>等等，广协同盟?</Chinesesimp>
+              <Chinesesimp>等等，广协?</Chinesesimp>
             </Key>
           </Container>
           <Container name="135_On_Foot" audioFilePath="\a3\dubbing_f_epa\a_in" dialogName="135_On_Foot" dubbingLanguage="english" namePrefix="a_in_135_on_foot" note="" participants="EPA B Intro CO;EPA B Player;" situation="player's co orders the player to follow him">
@@ -4125,7 +4125,7 @@
           <Key ID="str_a3_a_in_briefing_situation_text">
             <Original>The decommissioning of NATO assets on Stratis is roughly halfway complete, but Commander MacKinnon wants to step up the pace of tearing down these bases.%1To that end, additional support is required across at %2Camp Rogain%3 and %4Kamino%5; however, an AAF lockdown is making the process all the more difficult. The Greenback brass are due to visit (more than likely to protest against our work, our flags, our very presence - the same old, same old).%6Most of the roads are closed. Those which are actually open have our friendly neighborhood watch closely monitoring them. At the moment, only specially authorized vehicles are currently permitted freedom of movement. Airspace is open, but it's heavily restricted.%7We'll have to assess the situation on-the-fly to determine what work we can actually get done. Bring a good book, though, it's nailed on that there'll be plenty of hanging around today.</Original>
             <Chinese>北約大半的軍備都已經從斯特拉蒂斯島上撤離了，但是指揮官麥金農希望加緊腳步拆掉這些基地。%1為此，%2羅根營地%3與%4卡米諾%5需要一些額外的支援;然而，因為阿爾蒂斯武裝力量封鎖了整個島嶼，而讓這些工作變得困難許多。只有綠軍的人馬能自由進出(大概是為了抗議我們在這邊的工作，我們的旗幟，我們的存在-都老生常談了)。%6大部分的道路皆已封鎖。這些道路本來也就只是對我們的友軍開放使用。但此時此刻，只有特別取得許可的車輛才能自由移動。空域是開放的，但是它有大量的規定與限制。%7在我們飛過去的路上，我們可以好好評估狀況，看看有那些事是我們可以做的。記得帶上一本好書，今天會有很多空閒的時間可給你利用。</Chinese>
-            <Chinesesimp>北约设施在斯特拉蒂斯岛的废弃工作已经完成了一半，但是指挥官麦金农希望加紧脚步拆掉这些基地。%1为此，%2罗根营地%3与%4卡米诺%5需要一些额外的支援;然而，因为阿尔蒂斯武装力量封锁了整个岛屿，这些工作变得困难许多。只有绿军的人马能自由进出(大概是为了抗议我们在这边的工作，我们的旗帜，我们的存在-都老生常谈了)。%6大部分的道路皆已封锁。这些道路本来也就只是对我们的友军开放使用。但此时此刻，只有特别取得许可的车辆才能自由移动。空域是开放的，但是它有大量的规定与限制。%7在我们飞过去的路上，我们可以好好评估状况，看看有那些事是我们可以做的。记得带上一本好书，今天会有很多空闲的时间可给你利用。</Chinesesimp>
+            <Chinesesimp>北约设施在斯特拉蒂斯岛的废弃工作已经完成了一半，但是指挥官麦金农希望加紧脚步拆掉这些基地。%1为此，%2罗根营地%3与%4卡米诺%5需要一些额外的支援;然而，因为AAF封锁了整个岛屿，这些工作变得困难许多。只有绿军的人马能自由进出(大概是为了抗议我们在这边的工作，我们的旗帜，我们的存在-都老生常谈了)。%6大部分的道路皆已封锁。这些道路本来也就只是对我们的友军开放使用。但此时此刻，只有特别取得许可的车辆才能自由移动。空域是开放的，但是它有大量的规定与限制。%7在我们飞过去的路上，我们可以好好评估状况，看看有那些事是我们可以做的。记得带上一本好书，今天会有很多空闲的时间可给你利用。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_in_bis_truck_title">
             <Original>Board the Truck</Original>
@@ -4215,7 +4215,7 @@
           <Key ID="str_a3_a_in_bis_evac_desc">
             <Original>AAF forces have turned their guns on NATO. %1The air base%2 has fallen, and with it, NATO command. Code Foxtrot has been issued, ordering all NATO forces to retreat. Stick with your commander and get to safety.</Original>
             <Chinese>阿爾蒂斯武裝力量部隊把他們的槍口轉向了北約。%1空軍基地%2與北約指揮官皆已失去。代號"狐步舞"已經發出，命令所有的北約部隊進行撤退。跟緊你的隊長並前往安全的地方。</Chinese>
-            <Chinesesimp>阿尔蒂斯武装力量调转枪口进攻了北约部队。%1空军基地%2与当地的北约司令部皆已损失。代号"狐步舞"已经发出，命令所有北约部队进行撤退。跟紧你的队长并前往安全的地方。</Chinesesimp>
+            <Chinesesimp>AAF调转枪口进攻了北约部队。%1空军基地%2与当地的北约司令部皆已损失。代号"狐步舞"已经发出，命令所有北约部队进行撤退。跟紧你的队长并前往安全的地方。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_in_bis_co_title">
             <Original>Rendezvous with your CO</Original>
@@ -4235,7 +4235,7 @@
           <Key ID="str_a3_a_in_bis_check_title">
             <Original>Pass the AAF Checkpoint</Original>
             <Chinese>通過阿爾蒂斯武裝力量檢查站</Chinese>
-            <Chinesesimp>通过阿尔蒂斯武装力量检查站</Chinesesimp>
+            <Chinesesimp>通过AAF检查站</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_in_bis_check_marker">
             <Original>WAIT</Original>
@@ -4598,7 +4598,7 @@
             <Key ID="str_a3_a_in2_30b_situation_lowpass_bra_3">
               <Original>Fuck. Shit, Kerry, I'm sorry, but you've got to get out of there. If we heard it, you can bet the AAF did too. You copy?</Original>
               <Chinese>幹。該死，克里，我很抱歉，但是你必須趕快離開那裡。假如我們能聽到，你也可以假設阿爾蒂斯武裝力量也聽到了。你收到了嗎?</Chinese>
-              <Chinesesimp>操。该死，克里，我很遗憾，但是你必须赶快离开那里。假如我们能听到的话，阿尔蒂斯武装力量肯定也听到了。你收到了吗?</Chinesesimp>
+              <Chinesesimp>操。该死，克里，我很遗憾，但是你必须赶快离开那里。假如我们能听到的话，AAF肯定也听到了。你收到了吗?</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_in2_30b_situation_lowpass_ker_0">
               <Original>Yeah... I'm here... Fuck!</Original>
@@ -4640,7 +4640,7 @@
             <Key ID="str_a3_a_in2_30a_situation_bra_3">
               <Original>Fuck. Shit, Kerry, I'm sorry, but you've got to get out of there. If we heard it, you can bet the AAF did too. You copy?</Original>
               <Chinese>幹。該死，克里，我很抱歉，但是你必須趕快離開那裡。假如我們能聽到，你也可以假設阿爾蒂斯武裝力量也聽到了。你收到了嗎?</Chinese>
-              <Chinesesimp>操。该死，克里，我很遗憾，但是你必须赶快离开那里。假如我们能听到的话，阿尔蒂斯武装力量肯定也听到了。你收到了吗?</Chinesesimp>
+              <Chinesesimp>操。该死，克里，我很遗憾，但是你必须赶快离开那里。假如我们能听到的话，AAF肯定也听到了。你收到了吗?</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_in2_30a_situation_ker_0">
               <Original>Yeah... I'm here... Fuck!</Original>
@@ -5209,17 +5209,17 @@
           <Key ID="str_a3_a_m01_debriefing_a_hub01_2_description">
             <Original>Although unable to save the pilot - and despite being wasteful with your gear - you managed to successfully beat back an enemy patrol and destroy the wreckage. You need to plan more carefully in future, we're desperately short on supplies. At least for now, we've earned ourselves some breathing room.&lt;br&gt;&lt;br&gt;However, the AAF will now be more alert to the remaining threat on their island. We'll have to act quickly before they entrench their positions.</Original>
             <Chinese>雖然我們不能救回飛行員-而且你浪費了你的裝備-但你仍成功擊退敵人的巡邏隊並摧毀了殘骸。下次你必須更加小心謹慎，我們的資源有限。不論如何，至少我們已經為自己贏得了一點喘息空間。&lt;br&gt;&lt;br&gt;然而，阿爾蒂斯武裝力量將會更加留意島上剩下的威脅。我們要快速行動，在他們站穩腳步之前攻擊他們。</Chinese>
-            <Chinesesimp>虽然我们不能救回飞行员-而且你还浪费了你的装备-但你仍成功击退敌人的巡逻队并摧毁了残骸。下次你必须更加小心谨慎，我们的资源有限。不论如何，至少我们已经为自己赢得了一点喘息空间。&lt;br&gt;&lt;br&gt;然而，阿尔蒂斯武装力量将会更加留意岛上剩下的威胁。我们要快速行动，在他们站稳脚步之前攻击他们。</Chinesesimp>
+            <Chinesesimp>虽然我们不能救回飞行员-而且你还浪费了你的装备-但你仍成功击退敌人的巡逻队并摧毁了残骸。下次你必须更加小心谨慎，我们的资源有限。不论如何，至少我们已经为自己赢得了一点喘息空间。&lt;br&gt;&lt;br&gt;然而，AAF将会更加留意岛上剩下的威胁。我们要快速行动，在他们站稳脚步之前攻击他们。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m01_debriefing_a_hub01_1_description">
             <Original>Although we failed to save the pilot's life, we managed to beat back an enemy patrol and destroy the wreckage. At least for now, we've earned ourselves some breathing room.&lt;br&gt;&lt;br&gt;However, the AAF will now be more alert to the remaining threat on their island. We'll have to act quickly before they entrench their positions.</Original>
             <Chinese>雖然我們不能救回飛行員，但我們成功擊退敵人的巡邏隊並摧毀了殘骸。至少，我們已經為自己贏得了一點喘息空間。&lt;br&gt;&lt;br&gt;然而，阿爾蒂斯武裝力量將會更加留意島上剩下的威脅。我們要快速行動，在他們站穩腳步之前攻擊他們。</Chinese>
-            <Chinesesimp>虽然我们不能救回飞行员，但我们成功击退敌人的巡逻队并摧毁了残骸。至少，我们已经为自己赢得了一点喘息空间。&lt;br&gt;&lt;br&gt;然而，阿尔蒂斯武装力量将会更加留意岛上剩下的威胁。我们要快速行动，在他们站稳脚步之前攻击他们。</Chinesesimp>
+            <Chinesesimp>虽然我们不能救回飞行员，但我们成功击退敌人的巡逻队并摧毁了残骸。至少，我们已经为自己赢得了一点喘息空间。&lt;br&gt;&lt;br&gt;然而，AAF将会更加留意岛上剩下的威胁。我们要快速行动，在他们站稳脚步之前攻击他们。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m01_briefing_situation_text">
             <Original>We're still piecing together what happened this morning, but one thing's clear: Altis Armed Forces on Stratis are hostile.%1Right now, long-range comms are down, Commander MacKinnon is confirmed KIA and whatever equipment we may have had is either halfway-scrapped or fucked entirely.%2We need to organise. Rearm. Make a plan. Take back the initiative.%3We'll split up, Alpha through Delta. I've nominated four men to lead each squad. They've agreed to operate under my coordination.%4Now, our first priority is situational awareness. Half our force will move out on recon. Another squad will dig in %5here%6 and take stock of whatever equipment we've got at hand.%7That just leaves our most pressing concern. The AAF managed to bring down a Blackfoot. It crash-landed %8dangerously close to our position%9. There's a burning wreck and smoke-stack a mile high - that's no good.%10%11Alpha%12 will secure the crash site, make a sweep for survivors, and get rid of it.</Original>
             <Chinese>我們仍在設法拼湊今天早上到底發生了什麼事情，但有一件事是能確定的:在斯特拉蒂斯島上的阿爾蒂斯武裝力量是敵人。%1現在，長距離的通訊已被截斷，指揮官麥金農已經確定陣亡，並且不管有什麼裝備，一定都在來的路上就被完全擊毀或報廢了。%2我們需要重整態勢。重新武裝。制定一個計劃。奪回主動權。%3我們將會分成四個隊伍，從"Alpha"到"Delta"。我已經提名四個人來領導各個小隊。而且他們也同意接受我的指揮。%4現在，我們第一要務是要了解周遭的情況。我們一半的隊伍必須出外偵察。其餘的小隊將會留守%5這裡%6，並整理我們手頭上擁有的所有裝備。%7現在我們來討論最重要且迫切的問題。阿爾蒂斯武裝力量設法擊落了一臺"黑足"。它墜落在距離我們位置%8非常接近的地方%9。它燃燒的殘骸產生了達一英里高的煙霧-這並不是件好事。%10%11"Alpha"%12將會肅清墜機點，搜尋生還者，並處裡掉殘骸。</Chinese>
-            <Chinesesimp>我们仍在设法拼凑今天早上到底发生了什么事情，但有一件事是能确定的:在斯特拉蒂斯岛上的阿尔蒂斯武装力量是敌人。%1现在，长距离的通信已被截断，指挥官麦金农已经确定阵亡，并且我们手里的装备要么是半残要么已经完全报废了。%2我们需要重整态势。重新武装。制定一个计划。夺回主动权。%3我们将会分成四个班，从"阿尔法"到"德尔塔"。我已经提名四个人来领导各班。而且他们也同意接受我的指挥。%4现在，我们第一要务是状况感知。我们一半的队伍必须出外侦察。还有一个班将会留守%5这里%6，并整理我们手头上拥有的所有装备。%7现在我们来讨论最重要且迫切的问题。阿尔蒂斯武装力量设法击落了一架"黑足"。它坠落在距离我们位置%8非常接近的地方%9。它燃烧的残骸产生了达一英里高的烟雾-这并不是件好事。%10%11"阿尔法"%12将会肃清坠机点，搜寻生还者，并处理掉残骸。</Chinesesimp>
+            <Chinesesimp>我们仍在设法拼凑今天早上到底发生了什么事情，但有一件事是能确定的:在斯特拉蒂斯岛上的阿尔蒂斯武装力量是敌人。%1现在，长距离的通信已被截断，指挥官麦金农已经确定阵亡，并且我们手里的装备要么是半残要么已经完全报废了。%2我们需要重整态势。重新武装。制定一个计划。夺回主动权。%3我们将会分成四个班，从"阿尔法"到"德尔塔"。我已经提名四个人来领导各班。而且他们也同意接受我的指挥。%4现在，我们第一要务是状况感知。我们一半的队伍必须出外侦察。还有一个班将会留守%5这里%6，并整理我们手头上拥有的所有装备。%7现在我们来讨论最重要且迫切的问题。AAF设法击落了一架"黑足"。它坠落在距离我们位置%8非常接近的地方%9。它燃烧的残骸产生了达一英里高的烟雾-这并不是件好事。%10%11"阿尔法"%12将会肃清坠机点，搜寻生还者，并处理掉残骸。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m01_briefing_signal_text">
             <Original>%1Alpha%2 - Your squad.%3%4Falcon%5 - Camp Maxwell HQ.%6%7Bravo%8 - North-west sector recon.%9%10Charlie%11 - North-east sector recon.%12%13Delta%14 - Camp Maxwell defense.</Original>
@@ -5407,7 +5407,7 @@
             <Key ID="str_a3_a_hub_140_welcome_a_hub02_del_2">
               <Original>AAF hit us hard last night ... It's good to see you in one piece.</Original>
               <Chinese>阿爾蒂斯武裝力量在昨晚重創我們...真高興見到你們還是完整的。</Chinese>
-              <Chinesesimp>阿尔蒂斯武装力量在昨晚重创我们...真高兴见到你们还没事。</Chinesesimp>
+              <Chinesesimp>AAF在昨晚重创我们...真高兴见到你们还没事。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_hub_140_welcome_a_hub02_del_3">
               <Original>We took some casualties. Gillespie. Stephenson. Couple others I didn't really know.</Original>
@@ -5422,7 +5422,7 @@
             <Key ID="str_a3_a_hub_140_welcome_a_hub02_del_5">
               <Original>Anyway, the AAF pulled back. For now at least. Fuck knows why.</Original>
               <Chinese>不管如何，阿爾蒂斯武裝力量撤退了。至少現在是這樣。天知道為什麼。</Chinese>
-              <Chinesesimp>不管如何，阿尔蒂斯武装力量撤退了。至少现在是这样。天知道为什么。</Chinesesimp>
+              <Chinesesimp>不管如何，AAF撤退了。至少现在是这样。天知道为什么。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_hub_140_welcome_a_hub02_del_6">
               <Original>As you can see ... things are pretty fucked up here.</Original>
@@ -5626,7 +5626,7 @@
             <Key ID="str_a3_a_hub_093_ambient_special_03_cha_1">
               <Original>Yeah, but CSAT? How'd we ever let that happen, you know?</Original>
               <Chinese>是阿，但是廣協同盟?為什麼我們會讓他發生，你知道嗎?</Chinese>
-              <Chinesesimp>是啊，但是广协同盟?为什么我们能眼睁睁看着这发生啊?</Chinesesimp>
+              <Chinesesimp>是啊，但是广协?为什么我们能眼睁睁看着这发生啊?</Chinesesimp>
             </Key>
           </Container>
           <Container name="092_ambient_special_02" audioFilePath="\a3\dubbing_f_epa\a_hub" dialogName="092_ambient_special_02" dubbingLanguage="english" namePrefix="a_hub_092_ambient_special_02" note="" participants="EPA B Charlie Lead;EPA B Alpha Lead;" situation="for use in a_in, rogain.">
@@ -5805,7 +5805,7 @@
             <Key ID="str_a3_a_hub_077_ambient_talk_07_alpa_1">
               <Original>Us pulling out, CSAT at their back, Europe, fucking... nowhere.</Original>
               <Chinese>我們要撤走了，廣協同盟在後面虎視眈眈，而歐洲，幹...就別提了。</Chinese>
-              <Chinesesimp>我们要撤走了，广协同盟在后面虎视眈眈，而欧洲，操...什么用都派不上。</Chinesesimp>
+              <Chinesesimp>我们要撤走了，广协在后面虎视眈眈，而欧洲，操...什么用都派不上。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_hub_077_ambient_talk_07_alpa_2">
               <Original>True. Sometimes all you need is one loose trigger for a flashpoint, though...</Original>
@@ -6041,7 +6041,7 @@
             <Key ID="str_a3_a_hub_055_a_out_briefing_mil_5">
               <Original>I say we attack now. We catch the AAF off-guard. We hold the ground we seize.</Original>
               <Chinese>我說我們現在就必須要攻擊。我們抓住阿爾蒂斯武裝力量放鬆警戒的時候。我們要堅守住我們肅清的每一塊地。</Chinese>
-              <Chinesesimp>我说我们现在就必须要攻击。我们抓住阿尔蒂斯武装力量放松警戒的时候。我们要坚守住我们肃清的每一块地。</Chinesesimp>
+              <Chinesesimp>我说我们现在就必须要攻击。我们抓住AAF放松警戒的时候。我们要坚守住我们肃清的每一块地。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_hub_055_a_out_briefing_mil_6">
               <Original>I'll lead Delta behind enemy lines and take up an advanced position to the North of Agia Marina.</Original>
@@ -6073,7 +6073,7 @@
             <Key ID="str_a3_a_hub_050_a_m05_briefing_mil_1">
               <Original>Recon reports indicate that the AAF will make a push south in the next few hours. It appears they're keen to lock down the area around Girna.</Original>
               <Chinese>偵察報告指出，阿爾蒂斯武裝力量將會在接下來的幾個小時向南推進。而且他們正封鎖吉爾納的四周。</Chinese>
-              <Chinesesimp>侦察报告指出，阿尔蒂斯武装力量将会在接下来的几个小时向南推进。而且他们正封锁吉尔纳的四周。</Chinesesimp>
+              <Chinesesimp>侦察报告指出，AAF将会在接下来的几个小时向南推进。而且他们正封锁吉尔纳的四周。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_hub_050_a_m05_briefing_mil_2">
               <Original>Intel suggests that the highest-ranking officer on Stratis will himself be in the area. Neutralising him will deal a serious blow to our enemy.</Original>
@@ -6120,7 +6120,7 @@
             <Key ID="str_a3_a_hub_045_a_m04_briefing_mil_0">
               <Original>We've struck some fairly significant blows against the AAF. They've been weakened.</Original>
               <Chinese>我們已經對阿爾蒂斯武裝力量做出了一些重大的打擊。他們現在已被削弱。</Chinese>
-              <Chinesesimp>我们已经给予了阿尔蒂斯武装力量一系列重大打击。他们现在已被削弱。</Chinesesimp>
+              <Chinesesimp>我们已经给予了AAF一系列重大打击。他们现在已被削弱。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_hub_045_a_m04_briefing_mil_1">
               <Original>We only have a small window of opportunity to exploit that fact, though, before they're reinforced.</Original>
@@ -6145,7 +6145,7 @@
             <Key ID="str_a3_a_hub_045_a_m04_briefing_mil_5">
               <Original>In the wake of the AAF attack, our contact - goes by the name 'Nikos' - set up an ammunition dump somewhere near LZ Connor.</Original>
               <Chinese>在阿爾蒂斯武裝力量發動攻擊之後，我們的線人-其名稱為'尼科斯'-設置了一處彈藥庫在康納著陸區附近。</Chinese>
-              <Chinesesimp>在阿尔蒂斯武装力量发动攻击之后，我们的线人-名为'尼科斯'-在康纳着陆区附近设置了一处弹药储存点。</Chinesesimp>
+              <Chinesesimp>在AAF发动攻击之后，我们的线人-名为'尼科斯'-在康纳着陆区附近设置了一处弹药储存点。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_hub_045_a_m04_briefing_mil_6">
               <Original>He's offering to, well, share it, in a manner of speaking.</Original>
@@ -6182,7 +6182,7 @@
             <Key ID="str_a3_a_hub_040_a_m03_briefing_mil_2">
               <Original>The plain truth is, gentlemen - with the AAF regrouping - we must re-establish a link soon.</Original>
               <Chinese>計劃很明顯，先生們-由於阿爾蒂斯武裝力量正在重新集結-所以我們必須加快聯繫外援的動作。</Chinese>
-              <Chinesesimp>计划很明显，先生们-由于阿尔蒂斯武装力量正在重新集结-所以我们必须加快联系外援的动作。</Chinesesimp>
+              <Chinesesimp>计划很明显，先生们-由于AAF正在重新集结-所以我们必须加快联系外援的动作。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_hub_040_a_m03_briefing_mil_3">
               <Original>Now, aside from the airbase, Mike-26 is probably the most hi-tech installation on Stratis.</Original>
@@ -6197,7 +6197,7 @@
             <Key ID="str_a3_a_hub_040_a_m03_briefing_mil_5">
               <Original>It's a risk, but hitting the facility will deal a serious blow to the AAF, and - if anywhere holds an opportunity to re-open com channels - it's there.</Original>
               <Chinese>這風險很高，但打擊這個設施將會重重的打擊阿爾蒂斯武裝力量，並且-假如有任何機會可以重新連繫上通訊頻道-這就是了。</Chinese>
-              <Chinesesimp>这风险很高，但打击这个设施将会重重的打击阿尔蒂斯武装力量，并且-假如有任何机会可以重新连系上通信频道-那就是它了。</Chinesesimp>
+              <Chinesesimp>这风险很高，但打击这个设施将会重重的打击AAF，并且-假如有任何机会可以重新连系上通信频道-那就是它了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_hub_040_a_m03_briefing_mil_6">
               <Original>This will be a coordinated effort.</Original>
@@ -6244,7 +6244,7 @@
             <Key ID="str_a3_a_hub_035_a_m02_briefing_mil_4">
               <Original>AAF units have mobilized along the valley leading to the village. More support is no doubt en route.</Original>
               <Chinese>阿爾蒂斯武裝力量的部隊正沿著山谷前往村莊。無疑的，更多的支援正在路上了。</Chinese>
-              <Chinesesimp>阿尔蒂斯武装力量正沿着山谷前往村庄。无疑的，更多的支援正在路上了。</Chinesesimp>
+              <Chinesesimp>AAF正沿着山谷前往村庄。无疑的，更多的支援正在路上了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_hub_035_a_m02_briefing_mil_5">
               <Original>Alpha will approach from the east. Use the high ground and forest cover to your advantage.</Original>
@@ -6311,7 +6311,7 @@
             <Key ID="str_a3_a_hub_030_a_m01_briefing_mil_8">
               <Original>The AAF managed to bring down a Blackfoot. It crash-landed dangerously close to our position. There's a burning wreck and smoke-stack a mile high - that's no good.</Original>
               <Chinese>阿爾蒂斯武裝力量設法擊落了一臺"黑足"。它墜落在距離我們位置非常接近的地方。它燃燒的殘骸產生了達一英里高的煙霧-這並不是件好事。</Chinese>
-              <Chinesesimp>阿尔蒂斯武装力量设法击落了一架"黑足"。它坠落在与我位置非常接近的地方。它燃烧的残骸产生了达一英里高的烟雾-这并不是件好事。</Chinesesimp>
+              <Chinesesimp>AAF设法击落了一架"黑足"。它坠落在与我位置非常接近的地方。它燃烧的残骸产生了达一英里高的烟雾-这并不是件好事。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_hub_030_a_m01_briefing_mil_9">
               <Original>Alpha will secure the crash site, make a sweep for survivors, and get rid of it. Questions?</Original>
@@ -6703,7 +6703,7 @@ It is strongly recommended that you avoid these areas.</Original>
           <Key ID="str_a3_a_hub_briefing_a_hub02">
             <Original>Following an AAF attack during the night, the remaining NATO survivors return to their badly damaged encampment.</Original>
             <Chinese>在阿爾蒂斯武裝力量夜間的攻擊之後，剩餘的北約倖存者回到了他們嚴重損毀的營地。</Chinese>
-            <Chinesesimp>在阿尔蒂斯武装力量的夜间攻击之后，剩余的北约幸存者回到了他们严重损毁的营地。</Chinesesimp>
+            <Chinesesimp>在AAF的夜间攻击之后，剩余的北约幸存者回到了他们严重损毁的营地。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_hub_briefing_a_hub01">
             <Original>NATO survivors managed to regroup at Camp Maxwell, a disused military base hidden in the woods of central Stratis.</Original>
@@ -6753,7 +6753,7 @@ It is strongly recommended that you avoid these areas.</Original>
         <Key ID="STR_A3_POI_Crashed_Heli_03_Task_desc">
           <Original>Although we suffered heavy losses during the AAF's surprise assault, we at least managed to strike a blow of our own - one Greenback Mohawk was brought down and crashed somewhere north of Camp Maxwell. Investigating the crash site might provide some useful information or supplies.</Original>
           <Chinese>儘管我們在阿爾蒂斯武裝力量發動攻擊時損失慘重，但我們也讓他們付出了一些代價-我們的人設法擊毀了一臺"莫霍克"，而它就墜毀在麥克斯韋營地北邊的位置。調查墜機現場，搜尋任何有用的資訊或補給品。</Chinese>
-          <Chinesesimp>尽管我们在阿尔蒂斯武装力量发动攻击时损失惨重，但我们也让他们付出了一些代价-我们的人设法击落了一架"莫霍克"，而它就坠毁在麦克斯韦营地北边的位置。调查坠机现场，搜寻任何有用的情报或补给品。</Chinesesimp>
+          <Chinesesimp>尽管我们在AAF发动攻击时损失惨重，但我们也让他们付出了一些代价-我们的人设法击落了一架"莫霍克"，而它就坠毁在麦克斯韦营地北边的位置。调查坠机现场，搜寻任何有用的情报或补给品。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_POI_Crashed_Heli_03_Task_name">
           <Original>Lucky Shot</Original>
@@ -7010,7 +7010,7 @@ It is strongly recommended that you avoid these areas.</Original>
         <Key ID="str_a3_rscdisplaywelcome_epa_pard_list1">
           <Original>brand-new CSAT marksman rifle and DMS scope</Original>
           <Chinese>全新的廣協同盟精準射手步槍和精準射手瞄準鏡</Chinese>
-          <Chinesesimp>全新的广协同盟精准射手步枪和精准射手瞄准镜</Chinesesimp>
+          <Chinesesimp>全新的广协精准射手步枪和精准射手瞄准镜</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_epa_pard_footer3">
           <Original>Team Arma 3</Original>
@@ -7045,7 +7045,7 @@ It is strongly recommended that you avoid these areas.</Original>
         <Key ID="str_a3_rscdisplaywelcome_epa_parc_list3">
           <Original>The resulting power vacuum is quickly filled by CSAT forces.</Original>
           <Chinese>而趁著這個權力真空的時候，廣協同盟部隊則快速地趁虛而入。</Chinese>
-          <Chinesesimp>这所导致的势力真空使得广协同盟部队快速趁虚而入。</Chinesesimp>
+          <Chinesesimp>这所导致的势力真空使得广协部队快速趁虚而入。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_epa_parc_list2">
           <Original>Several years of uneasy cease-fire have led to a staged draw down of troops in the area.</Original>

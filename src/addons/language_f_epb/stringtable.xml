@@ -10,7 +10,7 @@
       <Key ID="STR_A3_cfgvests_rebreather_aaf0">
         <Original>Rebreather [AAF]</Original>
         <Chinese>密閉式循環水肺[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>密闭式循环水肺[阿尔蒂斯武装力量]</Chinesesimp>
+        <Chinesesimp>密闭式循环水肺[AAF]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgweapons_nvg_green0">
         <Original>NV Goggles (Green)</Original>
@@ -25,7 +25,7 @@
       <Key ID="STR_A3_cfgvests_rebreather_csat0">
         <Original>Rebreather [CSAT]</Original>
         <Chinese>密閉式循環水肺[廣協同盟]</Chinese>
-        <Chinesesimp>密闭式循环水肺[广协同盟]</Chinesesimp>
+        <Chinesesimp>密闭式循环水肺[广协]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgvests_rebreather_nato0">
         <Original>Rebreather [NATO]</Original>
@@ -109,12 +109,12 @@
       <Key ID="str_a3_cfgmagazines_o_ir_grenade1">
         <Original>Type: IR Strobe&lt;br /&gt;Faction: CSAT&lt;br /&gt;Rounds: 1</Original>
         <Chinese>類型:紅外線頻閃器&lt;br/&gt;陣營:CSAT&lt;br/&gt;發數:1</Chinese>
-        <Chinesesimp>类型:红外频闪器&lt;br/&gt;阵营:广协同盟&lt;br/&gt;发数:1</Chinesesimp>
+        <Chinesesimp>类型:红外频闪器&lt;br/&gt;阵营:广协&lt;br/&gt;发数:1</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_o_ir_grenade0">
         <Original>IR Grenade [CSAT]</Original>
         <Chinese>紅外線手榴彈[廣協同盟]</Chinese>
-        <Chinesesimp>红外手榴弹[广协同盟]</Chinesesimp>
+        <Chinesesimp>红外手榴弹[广协]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgweapons_coaxial_mg0">
         <Original>Coaxial MG 7.62 mm</Original>
@@ -124,7 +124,7 @@
       <Key ID="str_a3_cfgmagazines_i_ir_grenade1">
         <Original>Type: IR Strobe&lt;br /&gt;Faction: AAF&lt;br /&gt;Rounds: 1</Original>
         <Chinese>類型:紅外線頻閃器&lt;br/&gt;陣營:AAF&lt;br/&gt;發數:1</Chinese>
-        <Chinesesimp>类型:红外线频闪器&lt;br/&gt;阵营:阿尔蒂斯武装力量&lt;br/&gt;发数:1</Chinesesimp>
+        <Chinesesimp>类型:红外线频闪器&lt;br/&gt;阵营:AAF&lt;br/&gt;发数:1</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgweapons_cannon_30mm">
         <Original>Cannon 30 mm</Original>
@@ -134,7 +134,7 @@
       <Key ID="str_a3_cfgmagazines_i_ir_grenade0">
         <Original>IR Grenade [AAF]</Original>
         <Chinese>紅外線手榴彈[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>红外手榴弹[阿尔蒂斯武装力量]</Chinesesimp>
+        <Chinesesimp>红外手榴弹[AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_b_ir_grenade1">
         <Original>Type: IR Strobe&lt;br /&gt;Faction: NATO&lt;br /&gt;Rounds: 1</Original>
@@ -191,7 +191,7 @@
       <Key ID="str_a3_cfgvehicles_mbt_03_base_f_library0">
         <Original>The MBT-52 Kuma is the main battle tank used by Altian Armed Forces. A batch of a few dozen tanks and spare turrets were bought underprice from a south-European country facing an economic collapse. Like similar MBTs of the era, the Kuma is armed with a 120 mm cannon, a 7.62 mm coaxial machinegun and a remotely controlled 12.7 mm HMG. The level of protection for the crew is also remarkable, thanks to additional armor layers. </Original>
         <Chinese>MBT-52"庫瑪"是阿爾蒂斯武裝力量的主戰坦克。他們從一個面臨經濟困境的南歐國家手中，以劃算的價格購買了一批坦克與相關備用零件。就像其他同期的主戰坦克，"庫瑪"配備著120公厘加農砲，一挺7.62公厘同軸機槍和一個裝有12.7公厘重機槍的遙控砲塔。它對組員的保護也有相應的提升，這得歸功於它外面的那層裝甲。</Chinese>
-        <Chinesesimp>MBT-52"库玛"是阿尔蒂斯武装力量的主战坦克。他们从一个面临经济崩溃的南欧国家手中以划算的价格购买了一批坦克与相关备用零件。就像其他同时代的主战坦克一样，"库玛"装备一门120mm 坦克炮，一挺7.62mm 同轴机枪和一个装有12.7mm 重机枪的遥控炮塔。借由附加装甲，它对乘员的保护也有相应的提升。</Chinesesimp>
+        <Chinesesimp>MBT-52"库玛"是AAF的主战坦克。他们从一个面临经济崩溃的南欧国家手中以划算的价格购买了一批坦克与相关备用零件。就像其他同时代的主战坦克一样，"库玛"装备一门120mm 坦克炮，一挺7.62mm 同轴机枪和一个装有12.7mm 重机枪的遥控武器站。借由附加装甲，它对乘员的保护也有相应的提升。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_mbt_03_cannon_f0">
         <Original>MBT-52 Kuma</Original>
@@ -206,7 +206,7 @@
       <Key ID="str_a3_cfgvehicles_apc_tracked_03_base_f_library0">
         <Original>The FV-720 Mora is an infantry fighting vehicle used by the AAF. They were bought by the AAF from British Armed Forces and reconditioned to serve two more decades. The Mora is armed with a 30 mm cannon and a coaxial machinegun, providing not only a carrying capacity, but also reliable fire support.</Original>
         <Chinese>FV-720"摩拉"是一臺服役於阿爾蒂斯武裝力量的步兵戰車。他們從英軍的手中買下他並著手翻新，打算再用20年。"摩拉"配備著30公厘機砲與同軸機槍，這讓他不只能運輸單位，同時也能提供優秀的火力支援。</Chinese>
-        <Chinesesimp>FV-720"摩拉"是阿尔蒂斯武装力量所使用的的步兵战车。阿尔蒂斯武装力量从英军的手中买下它们并着手翻新延寿20年。"摩拉"配备着30mm 机炮与同轴机枪，这让它不但能运输单位，同时也能提供优秀的火力支援。</Chinesesimp>
+        <Chinesesimp>FV-720"摩拉"是AAF所使用的的步兵战车。AAF从英军的手中买下它们并着手翻新延寿20年。"摩拉"配备着30mm 机炮与同轴机枪，这让它不但能运输单位，同时也能提供优秀的火力支援。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_mbt_03_cannon_slat_f0">
         <Original>MBT-52 Kuma SLAT</Original>
@@ -258,12 +258,12 @@
       <Key ID="str_a3_cfgglasses_g_o_diving0">
         <Original>Diving Goggles [CSAT]</Original>
         <Chinese>蛙鏡[廣協同盟]</Chinese>
-        <Chinesesimp>蛙镜[广协同盟]</Chinesesimp>
+        <Chinesesimp>蛙镜[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgglasses_g_i_diving0">
         <Original>Diving Goggles [AAF]</Original>
         <Chinese>蛙鏡[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>蛙镜[阿尔蒂斯武装力量]</Chinesesimp>
+        <Chinesesimp>蛙镜[AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgglasses_g_b_diving0">
         <Original>Diving Goggles [NATO]</Original>
@@ -897,7 +897,7 @@
       <Key ID="str_a3_rscdisplaywelcome_epb_pare_list2">
         <Original>the AAF's versatile Infantry Fighting Vehicle</Original>
         <Chinese>阿爾蒂斯武裝力量的多功能步兵戰車</Chinese>
-        <Chinesesimp>阿尔蒂斯武装力量的多功能步兵战车</Chinesesimp>
+        <Chinesesimp>AAF的多功能步兵战车</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epb_pare_list1_title">
         <Original>MBT-52 Kuma</Original>
@@ -907,7 +907,7 @@
       <Key ID="str_a3_rscdisplaywelcome_epb_pare_list1">
         <Original>fully new Main Battle Tank for the AAF</Original>
         <Chinese>阿爾蒂斯武裝力量的全新主戰坦克</Chinese>
-        <Chinesesimp>阿尔蒂斯武装力量的新型主战坦克</Chinesesimp>
+        <Chinesesimp>AAF的新型主战坦克</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epb_pare_footer2">
         <Original>Enjoy the second episode!</Original>
@@ -937,7 +937,7 @@
       <Key ID="str_a3_rscdisplaywelcome_epb_pard_list7">
         <Original>The AAF were heavily reinforced by &lt;t color='%1'&gt;CSAT&lt;/t&gt; forces. Captain Miller ordered a &lt;t color='%1'&gt;full retreat&lt;/t&gt;, claiming NATO reinforcements were no longer inbound.</Original>
         <Chinese>但阿爾蒂斯武裝力量卻叫了&lt;tcolor='%1'&gt;廣協同盟部隊&lt;/t&gt;來支援他們，他們的實力因此大大的增強。所以上校米勒下令&lt;tcolor='%1'&gt;全面撤退&lt;/t&gt;，並宣稱北約援軍不會過來了。</Chinese>
-        <Chinesesimp>阿尔蒂斯武装力量被&lt;tcolor='%1'&gt;广协同盟部队&lt;/t&gt;大幅加强。所以米勒上校下令&lt;tcolor='%1'&gt;全面撤退&lt;/t&gt;，并宣称北约援军不会来了。</Chinesesimp>
+        <Chinesesimp>AAF被&lt;tcolor='%1'&gt;广协部队&lt;/t&gt;大幅加强。所以米勒上校下令&lt;tcolor='%1'&gt;全面撤退&lt;/t&gt;，并宣称北约援军不会来了。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epb_pard_list6">
         <Original>Captain Miller and his team managed to &lt;t color='%1'&gt;reestablish communications&lt;/t&gt; with &lt;t color='%1'&gt;NATO MEDCOM&lt;/t&gt;. As a last-ditch effort, the survivors launched an attack against the &lt;t color='%1'&gt;capital&lt;/t&gt;, hoping to clear a path for inbound reinforcements.</Original>
@@ -947,12 +947,12 @@
       <Key ID="str_a3_rscdisplaywelcome_epb_pard_list5">
         <Original>AAF forces quickly located Camp Maxwell and launched an attack in the dead of night. Though the attack was defeated, the survivors suffered &lt;t color='%1'&gt;heavy losses&lt;/t&gt;.</Original>
         <Chinese>但是阿爾蒂斯武裝力量部隊還是快速的找到了麥克斯韋營地，並在一個深夜中發動突襲。儘管擊退了此次攻擊，倖存者們卻承受了&lt;tcolor='%1'&gt;巨大的損失&lt;/t&gt;。</Chinese>
-        <Chinesesimp>阿尔蒂斯武装力量部队很快发现了麦克斯韦营地，并在深夜中发动突袭。尽管击退了此次攻击，幸存者们却付出了&lt;tcolor='%1'&gt;巨大的损失&lt;/t&gt;。</Chinesesimp>
+        <Chinesesimp>AAF部队很快发现了麦克斯韦营地，并在深夜中发动突袭。尽管击退了此次攻击，幸存者们却付出了&lt;tcolor='%1'&gt;巨大的损失&lt;/t&gt;。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epb_pard_list4">
         <Original>Attempts to coordinate a series of hit-and-run attacks against key AAF installations, under the command of &lt;t color='%1'&gt;Captain Miller (British Special Forces)&lt;/t&gt;, were met with limited success.</Original>
         <Chinese>在&lt;tcolor='%1'&gt;上校米勒(英國特種部隊)&lt;/t&gt;的指揮下，執行了一系列的游擊任務來對抗阿爾蒂斯武裝力量，並獲得了有限的成功。</Chinese>
-        <Chinesesimp>在&lt;tcolor='%1'&gt;米勒上校(英国特种部队)&lt;/t&gt;的指挥下，实施了一系列的游击作战对抗阿尔蒂斯武装力量，并获得了有限的成功。</Chinesesimp>
+        <Chinesesimp>在&lt;tcolor='%1'&gt;米勒上校(英国特种部队)&lt;/t&gt;的指挥下，实施了一系列的游击作战对抗AAF，并获得了有限的成功。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epb_pard_list3">
         <Original>A small group of survivors regrouped at &lt;t color='%1'&gt;Camp Maxwell&lt;/t&gt;, a former NATO outpost that had already been &lt;t color='%1'&gt;decommissioned&lt;/t&gt;.</Original>
@@ -967,7 +967,7 @@
       <Key ID="str_a3_rscdisplaywelcome_epb_pard_list1">
         <Original>The remnants of &lt;t color='%1'&gt;NATO&lt;/t&gt; forces on &lt;t color='%1'&gt;Stratis&lt;/t&gt; were engaged by the &lt;t color='%1'&gt;AAF&lt;/t&gt;.</Original>
         <Chinese>在&lt;tcolor='%1'&gt;斯特拉蒂斯&lt;/t&gt;島上剩餘的&lt;tcolor='%1'&gt;北約&lt;/t&gt;部隊突然被&lt;tcolor='%1'&gt;阿爾蒂斯武裝力量&lt;/t&gt;攻擊。</Chinese>
-        <Chinesesimp>在&lt;tcolor='%1'&gt;斯特拉蒂斯&lt;/t&gt;岛上剩余的&lt;tcolor='%1'&gt;北约&lt;/t&gt;部队突然被&lt;tcolor='%1'&gt;阿尔蒂斯武装力量&lt;/t&gt;攻击。</Chinesesimp>
+        <Chinesesimp>在&lt;tcolor='%1'&gt;斯特拉蒂斯&lt;/t&gt;岛上剩余的&lt;tcolor='%1'&gt;北约&lt;/t&gt;部队突然被&lt;tcolor='%1'&gt;AAF&lt;/t&gt;攻击。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epb_pard2">
         <Original>'Survive'</Original>

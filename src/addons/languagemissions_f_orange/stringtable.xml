@@ -51,12 +51,12 @@
         <Key ID="str_a3_orange_hub_choice_csat_1">
           <Original>CSAT, because they destabilized the region. They exploited a tense situation and emboldened the Altis Armed Forces. Their special forces orchestrated a deadly cluster strike, causing massive amounts of collateral damage.</Original>
           <Chinese>廣協同盟，因為他們讓整個地區動盪化。他們利用緊張局勢給阿爾蒂斯武裝力量撐腰。他們的特種部隊實施了一次致命的集束炸彈空襲，製造了嚴重的連帶損傷。</Chinese>
-          <Chinesesimp>广协同盟，因为他们让整个地区动荡化。他们利用紧张局势给阿尔蒂斯武装力量撑腰。他们的特种部队实施了一次致命的集束炸弹空袭，制造了严重的连带损伤。</Chinesesimp>
+          <Chinesesimp>广协，因为他们让整个地区动荡化。他们利用紧张局势给阿尔蒂斯武装力量撑腰。他们的特种部队实施了一次致命的集束炸弹空袭，制造了严重的连带损伤。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_hub_choice_csat_0">
           <Original>CSAT, because they destabilized the region. They exploited a tense situation and emboldened the Altis Armed Forces. Their special forces orchestrated a deadly cluster strike, causing massive amounts of collateral damage. Many were killed, including a doctor working for IDAP!</Original>
           <Chinese>廣協同盟，因為他們讓整個地區動盪化。他們利用緊張局勢給阿爾蒂斯武裝力量撐腰。他們的特種部隊實施了一次致命的集束炸彈空襲，製造了嚴重的連帶損傷。很多人被殺，包括一名為國發援工作的大夫!</Chinese>
-          <Chinesesimp>广协同盟，因为他们让整个地区动荡化。他们利用紧张局势给阿尔蒂斯武装力量撑腰。他们的特种部队实施了一次致命的集束炸弹空袭，制造了严重的连带损伤。很多人被杀，包括一名为国发援工作的大夫!</Chinesesimp>
+          <Chinesesimp>广协，因为他们让整个地区动荡化。他们利用紧张局势给阿尔蒂斯武装力量撑腰。他们的特种部队实施了一次致命的集束炸弹空袭，制造了严重的连带损伤。很多人被杀，包括一名为国发援工作的大夫!</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_hub_choice_aaf_1">
           <Original>The Altis Armed Forces, because they made an example of the town. They relied on fear and intimidation, meting out collective punishment. Furthermore, when defending against NATO's offensive, landmines were randomly dispersed around the church.</Original>
@@ -76,7 +76,7 @@
         <Key ID="str_a3_orange_hub_cfgtaskdescriptions_orange_leaflets_title">
           <Original>Abandoned AAF Post</Original>
           <Chinese>廢棄的阿爾蒂斯武裝力量哨所</Chinese>
-          <Chinesesimp>废弃的阿尔蒂斯武装力量哨所</Chinesesimp>
+          <Chinesesimp>废弃的AAF哨所</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_hub_cfgtaskdescriptions_orange_investigate_title">
           <Original>Investigate</Original>
@@ -324,7 +324,7 @@
           <Key ID="str_a3_orange_aan_text_choice_2">
             <Original>Answering a question on who he felt was responsible for the suffering in the town, MacDade is quick to accuse CSAT: "before they stepped in [and] pushed NATO out, there was a ceasefire in place, albeit a delicate one" he remembers. "And the cluster strike? It took the whole thing to the brink - and with so little to gain from such a terrifying show of force. The whole thing felt like a power-play from the get-go.</Original>
             <Chinese>在回答他認為誰該為城鎮所遭受的苦難負責的時候，麥克達德指責廣協同盟:"在他們介入(而)北約撤出之前，曾經達成過停火協定，雖然只是意向中的。"他回憶道，"但是集束炸彈空襲?這把一切都毀掉了——而且此類恐怖的武力展示也根本取得不了什麼進展。整個事情從一開始就像是一場強權對決。</Chinese>
-            <Chinesesimp>在回答他认为谁该为城镇所遭受的苦难负责的时候，麦克达德指责广协同盟:"在他们介入(而)北约撤出之前，曾经达成过停火协定，虽然只是意向中的。"他回忆道，"但是集束炸弹空袭?这把一切都毁掉了——而且此类恐怖的武力展示也根本取得不了什么进展。整个事情从一开始就像是一场强权对决。</Chinesesimp>
+            <Chinesesimp>在回答他认为谁该为城镇所遭受的苦难负责的时候，麦克达德指责广协:"在他们介入(而)北约撤出之前，曾经达成过停火协定，虽然只是意向中的。"他回忆道，"但是集束炸弹空袭?这把一切都毁掉了——而且此类恐怖的武力展示也根本取得不了什么进展。整个事情从一开始就像是一场强权对决。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_choice_1">
             <Original>Answering a question on who he felt was responsible for the suffering in the town, MacDade lays the blame on the guerrillas, suggesting there could not have been a conflict without them: "they chose to dig deep into civilian infrastructure", he says, angrily. "They hid themselves among the population. These guys didn't give a damn about what it cost - they wanted power and would do anything to get it.</Original>
@@ -349,7 +349,7 @@
           <Key ID="str_a3_orange_aan_text_9">
             <Original>After a spell of bad weather, on the night of October 13, the order for the strike was given. Suspected CSAT operatives intervened in support of the government and parachuted behind enemy lines to designate targets. As dawn broke, a jet approached from the east and dropped a cluster bomb on Oreokastro.</Original>
             <Chinese>在一陣惡劣天氣之後，在10月13日夜間，空襲命令終於下達。懷疑廣協同盟戰鬥人員幫助政府軍干預了戰鬥，在敵後傘降並指示目標。在黎明時分，一架噴氣式戰鬥機從東面出現，並在奧雷奧卡斯特羅鎮上空投下一枚集束炸彈。</Chinese>
-            <Chinesesimp>在一阵恶劣天气之后，在10月13日夜间，空袭命令终于下达。怀疑广协同盟战斗人员帮助政府军干预了战斗，在敌后伞降并指示目标。在黎明时分，一架喷气式战斗机从东面出现，并在奥雷奥卡斯特罗镇上空投下一枚集束炸弹。</Chinesesimp>
+            <Chinesesimp>在一阵恶劣天气之后，在10月13日夜间，空袭命令终于下达。怀疑广协战斗人员帮助政府军干预了战斗，在敌后伞降并指示目标。在黎明时分，一架喷气式战斗机从东面出现，并在奥雷奥卡斯特罗镇上空投下一枚集束炸弹。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_8">
             <Original>Unable to capture the town using conventional methods, Colonel Akhanteros, de facto leader of the military junta in Pyrgos, personally authorized the use of cluster munitions. These indiscriminate weapons, banned by many nations, fragment into smaller bomblets which often fail to explode - leaving a dangerous legacy for generations to come.</Original>
@@ -404,7 +404,7 @@
           <Key ID="str_a3_orange_aan_text_11">
             <Original>Hours later, Altis Armed Forces staged a final assault. Those that survived the two-week siege were caught in one last morning of violence, combatants and non-combatants alike. Among them was Markos Kouris, a mechanic searching for his brother who had joined the guerrillas several months prior.</Original>
             <Chinese>幾小時後，阿爾蒂斯武裝力量發動了最後1次突擊。在兩個星期的圍城中倖存的人又在這最後一早的衝突中喪生，戰鬥人員和非戰鬥人員都有。在這之中也包括馬爾科斯·庫裡斯，這位機修工當時正在尋找幾個月前加入游擊隊的兄弟。</Chinese>
-            <Chinesesimp>几小时后，阿尔蒂斯武装力量发动了最后1次突击。在两个星期的围城中幸存的人又在这最后一早的冲突中丧生，战斗人员和非战斗人员都有。在这之中也包括马尔科斯·库里斯，这位机修工当时正在寻找几个月前加入游击队的兄弟。</Chinesesimp>
+            <Chinesesimp>几小时后，阿尔蒂斯武装力量发动了最后一次突击。在两个星期的围城中幸存的人又在这最后一早的冲突中丧生，战斗人员和非战斗人员都有。在这之中也包括马尔科斯·库里斯，这位机修工当时正在寻找几个月前加入游击队的兄弟。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_10">
             <Original>Although most of the civilian population had evacuated and IDAP's camp was spared, the damage was severe:</Original>
@@ -439,7 +439,7 @@
           <Key ID="str_a3_orange_aan_image_choice_2">
             <Original>CSAT counter-insurgency operatives interrogating prisoners.</Original>
             <Chinese>廣協同盟反叛亂作戰人員審訊了戰俘。</Chinese>
-            <Chinesesimp>广协同盟反叛乱作战人员审讯了战俘。</Chinesesimp>
+            <Chinesesimp>广协反叛乱作战人员审讯了战俘。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_image_choice_1">
             <Original>Guerrilla fighters with a civilian hostage.</Original>
@@ -595,7 +595,7 @@
         <Key ID="str_a3_orangecampaign_timeline_peacetalks">
           <Original>CSAT withdraws support for the AAF and the government in Pyrgos capitulates hours later.</Original>
           <Chinese>廣協同盟放棄了對阿爾蒂斯武裝力量的支持，皮爾戈斯政府幾小時後就投降了。</Chinese>
-          <Chinesesimp>广协同盟放弃了对阿尔蒂斯武装力量的支持，皮尔戈斯政府几小时后就投降了。</Chinesesimp>
+          <Chinesesimp>广协放弃了对AAF的支持，皮尔戈斯政府几小时后就投降了。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_peacedialogue">
           <Original>The Jerusalem Ceasefire breaks down and tensions escalate. Altis Armed Forces (AAF) and anti-government guerrillas hold peace talks in Kavala.</Original>
@@ -625,7 +625,7 @@
         <Key ID="str_a3_orangecampaign_timeline_orange_leaflets">
           <Original>As relations between AAF and NATO deteriorate, peacekeeping forces on Altis are ordered to relocate to Stratis. Guerrillas overrun an AAF outpost in Oreokastro and a large number of weapons are captured.</Original>
           <Chinese>由於阿爾蒂斯武裝力量和北約之間的關係惡化，阿爾蒂斯島上的維和部隊被命令轉移到斯特拉蒂斯。游擊隊攻下了奧雷奧卡斯特羅的阿爾蒂斯武裝力量營地，奪取了大量武器。</Chinese>
-          <Chinesesimp>由于阿尔蒂斯武装力量和北约之间的关系恶化，阿尔蒂斯岛上的维和部队被命令转移到斯特拉蒂斯。游击队攻下了奥雷奥卡斯特罗的阿尔蒂斯武装力量营地，夺取了大量武器。</Chinesesimp>
+          <Chinesesimp>由于AAF和北约之间的关系恶化，阿尔蒂斯岛上的维和部队被命令转移到斯特拉蒂斯。游击队攻下了奥雷奥卡斯特罗的AAF营地，夺取了大量武器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_orange_hub">
           <Original>Nathan MacDade arrives at IDAP's camp in Oreokastro.</Original>
@@ -640,12 +640,12 @@
         <Key ID="str_a3_orangecampaign_timeline_orange_escape_1">
           <Original>After a two week siege, the town is taken by the AAF. Some guerrillas escape into the surrounding mountains.</Original>
           <Chinese>在兩周的攻城後，城鎮被阿爾蒂斯武裝力量奪取。一些游擊隊員撤入周邊山中。</Chinese>
-          <Chinesesimp>在两周的攻城后，城镇被阿尔蒂斯武装力量夺取。一些游击队员撤入周边山中。</Chinesesimp>
+          <Chinesesimp>在两周的攻城后，城镇被AAF夺取。一些游击队员撤入周边山中。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_orange_escape_0">
           <Original>After a two week siege, the AAF attempt to seize the town. A small group of guerrillas stage a heroic rearguard action. The army eventually takes the town, but many guerrillas escape into the surrounding mountains.</Original>
           <Chinese>在兩周的攻城之後，阿爾蒂斯武裝力量試圖奪取村鎮。一小群游擊隊員採取了可歌可泣的後衛行動。軍隊最終奪取了村鎮，但很多游擊隊員得以撤入周邊山中。</Chinese>
-          <Chinesesimp>在两周的攻城之后，阿尔蒂斯武装力量试图夺取村镇。一小群游击队员采取了可歌可泣的后卫行动。军队最终夺取了村镇，但很多游击队员得以撤入周边山中。</Chinesesimp>
+          <Chinesesimp>在两周的攻城之后，AAF试图夺取村镇。一小群游击队员采取了可歌可泣的后卫行动。军队最终夺取了村镇，但很多游击队员得以撤入周边山中。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_orange_cluster_1">
           <Original>Oreokastro is destroyed by a cluster strike. IDAP's camp is spared and no workers are harmed.</Original>
@@ -660,12 +660,12 @@
         <Key ID="str_a3_orangecampaign_timeline_orange_cluster">
           <Original>AAF attack the town. They are surprised by the guerrilla's defenses and their offensive fails.</Original>
           <Chinese>阿爾蒂斯武裝力量攻擊了城鎮。他們被游擊隊的防禦打得措手不及，進攻失敗。</Chinese>
-          <Chinesesimp>阿尔蒂斯武装力量攻击了城镇。他们被游击队的防御打得措手不及，进攻失败。</Chinesesimp>
+          <Chinesesimp>AAF攻击了城镇。他们被游击队的防御打得措手不及，进攻失败。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_orange_brother">
           <Original>Alexis Kouris is last seen pursuing AAF officers to the abandoned town of Oreokastro.</Original>
           <Chinese>阿雷克西斯·庫裡斯最後被發現追逐阿爾蒂斯武裝力量軍官進入到被拋棄的奧雷奧卡斯特羅鎮中。</Chinese>
-          <Chinesesimp>阿雷克西斯·库里斯最后被发现追逐阿尔蒂斯武装力量军官进入到被抛弃的奥雷奥卡斯特罗镇中。</Chinesesimp>
+          <Chinesesimp>阿雷克西斯·库里斯最后被发现追逐AAF军官进入到被抛弃的奥雷奥卡斯特罗镇中。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_orange_airdrop_1">
           <Original>NATO performs a successful airdrop. After the supplies are secured by armed forces, IDAP collects them and distributes the much-needed aid in Oreokastro.</Original>
@@ -680,7 +680,7 @@
         <Key ID="str_a3_orangecampaign_timeline_orange_airdrop">
           <Original>An AAF convoy is ambushed by dissident guerrilla forces. The negotiations in Kavala collapse and the civil war reignites. Roads become unsafe and Oreokastro is cut-off from the nearest town.</Original>
           <Chinese>一支阿爾蒂斯武裝力量車隊被離群的游擊隊伏擊。在卡瓦拉的談判破裂，內戰再次爆發。道路變得不再安全，奧雷奧卡斯特羅也被和最近的城鎮分離開來。</Chinese>
-          <Chinesesimp>一支阿尔蒂斯武装力量车队被离群的游击队伏击。在卡瓦拉的谈判破裂，内战再次爆发。道路变得不再安全，奥雷奥卡斯特罗也被和最近的城镇分离开来。</Chinesesimp>
+          <Chinesesimp>一支AAF车队被离群的游击队伏击。在卡瓦拉的谈判破裂，内战再次爆发。道路变得不再安全，奥雷奥卡斯特罗也被和最近的城镇分离开来。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_natoinvasion">
           <Original>NATO invades Altis and Stratis.</Original>
@@ -690,12 +690,12 @@
         <Key ID="str_a3_orangecampaign_timeline_eastwind">
           <Original>AAF launch a surprise attack against NATO peacekeepers based on Stratis.</Original>
           <Chinese>阿爾蒂斯武裝力量對位於斯特拉蒂斯島上的北約維和部隊發動了突然襲擊。</Chinese>
-          <Chinesesimp>阿尔蒂斯武装力量对位于斯特拉蒂斯岛上的北约维和部队发动了突然袭击。</Chinesesimp>
+          <Chinesesimp>AAF对位于斯特拉蒂斯岛上的北约维和部队发动了突然袭击。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_bootcamp">
           <Original>NATO peacekeepers, including Staff Sgt. Adams, conduct joint training exercises with members of the AAF.</Original>
           <Chinese>北約維和部隊，包括亞當斯上士在內，與阿爾蒂斯武裝力量的軍人一起執行聯合訓練演習。</Chinese>
-          <Chinesesimp>北约维和部队，包括亚当斯上士在内，与阿尔蒂斯武装力量的军人一起执行联合训练演习。</Chinesesimp>
+          <Chinesesimp>北约维和部队，包括亚当斯上士在内，与AAF的军人一起执行联合训练演习。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_campaign_subtitle_chatter">
           <Original>Indistinct chatter</Original>
@@ -3376,12 +3376,12 @@
           <Key ID="str_a3_orange_hub_cluster_fragments_023_mem_csat_eod_1">
             <Original>For the most part, CSAT were mindful of our activities. Brutal - no doubt - but, at least... clinical.</Original>
             <Chinese>最關鍵的一點，廣協同盟會留心我們的活動。粗暴——當然如此;但是至少也...冷靜。</Chinese>
-            <Chinesesimp>最关键的一点，广协同盟会留心我们的活动。粗暴——当然如此;但是至少也...冷静。</Chinesesimp>
+            <Chinesesimp>最关键的一点，广协会留心我们的活动。粗暴——当然如此;但是至少也...冷静。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_hub_cluster_fragments_023_mem_csat_journalist_0">
             <Original>I've been meaning to ask: after NATO pulled out - when CSAT stepped in - how did that affect your work?</Original>
             <Chinese>我想問的是:在北約撤出之後——廣協同盟介入之後——對你的工作有何影響?</Chinese>
-            <Chinesesimp>我想问的是:在北约撤出之后——广协同盟介入之后——对你的工作有何影响?</Chinesesimp>
+            <Chinesesimp>我想问的是:在北约撤出之后——广协介入之后——对你的工作有何影响?</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_hub_cluster_fragments_023_mem_csat_eod_2">
             <Original>Whole thing felt like one big PR exercise for them.</Original>
@@ -3776,7 +3776,7 @@
           <Key ID="str_a3_orange_minedispenser_032_fil_exfil_officer_dead_eod_1">
             <Original>But let's face it. Once CSAT pulled out? The Altis Armed Forces were through. Whole thing was over as soon as it'd begun.</Original>
             <Chinese>但讓我們面對現實吧。在廣協同盟撤出之後，阿爾蒂斯武裝力量就完蛋了。整件事情的結局在一開始就注定了。</Chinese>
-            <Chinesesimp>但让我们面对现实吧。在广协同盟撤出之后，阿尔蒂斯武装力量就完蛋了。整件事情的结局在一开始就注定了。</Chinesesimp>
+            <Chinesesimp>但让我们面对现实吧。在广协撤出之后，阿尔蒂斯武装力量就完蛋了。整件事情的结局在一开始就注定了。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_minedispenser_032_fil_exfil_officer_dead_journalist_0">
             <Original>Do you think the Major's death had any impact on the war?</Original>
@@ -4173,12 +4173,12 @@
           <Key ID="str_a3_orange_minedispenser_006_oc_intro_eod_3">
             <Original>So, when CSAT dropped their support? Government forces panicked.</Original>
             <Chinese>於是，在廣協同盟停止援助之後呢?政府軍陷入恐慌。</Chinese>
-            <Chinesesimp>于是，在广协同盟停止援助之后呢?政府军陷入恐慌。</Chinesesimp>
+            <Chinesesimp>于是，在广协停止援助之后呢?政府军陷入恐慌。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_minedispenser_006_oc_intro_journalist_0">
             <Original>And CSAT?</Original>
             <Chinese>廣協同盟呢?</Chinese>
-            <Chinesesimp>广协同盟呢?</Chinesesimp>
+            <Chinesesimp>广协呢?</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_minedispenser_006_oc_intro_eod_4">
             <Original>They were on the back foot - needed to regroup. Major Gavras was put in charge, but that was a tall order.</Original>
@@ -4498,7 +4498,7 @@
           <Key ID="str_a3_orange_hub_minedispenser_004_eve_choice_c_csat_eod_0">
             <Original>I'd have to say CSAT.</Original>
             <Chinese>我得說是廣協同盟。</Chinese>
-            <Chinesesimp>我得说是广协同盟。</Chinesesimp>
+            <Chinesesimp>我得说是广协。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_hub_minedispenser_004_eve_choice_c_csat_eod_1">
             <Original>I mean, before they stepped in - pushed NATO out? There was a ceasefire in place, albeit a delicate one, y'know?</Original>
@@ -4614,7 +4614,7 @@
           <Key ID="str_a3_orange_hub_minedispenser_001_hbi_post_mine_dispenser_journalist_5">
             <Original>CSAT?</Original>
             <Chinese>廣協同盟?</Chinese>
-            <Chinesesimp>广协同盟?</Chinesesimp>
+            <Chinesesimp>广协?</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_hub_minedispenser_001_hbi_post_mine_dispenser_journalist_6">
             <Original>The Altis Armed Forces?</Original>
@@ -5638,7 +5638,7 @@
         <Key ID="str_a3_orange_escape_cfgtaskdescriptions_bis_fight_description">
           <Original>You have a weapon! Take a stand with other guerrillas against the AAF soldiers!</Original>
           <Chinese>你有了武器!和其他游擊隊員一起戰鬥，對抗阿爾蒂斯武裝力量士兵!</Chinese>
-          <Chinesesimp>你有了武器!和其他游击队员一起战斗，对抗阿尔蒂斯武装力量士兵!</Chinesesimp>
+          <Chinesesimp>你有了武器!和其他游击队员一起战斗，对抗AAF士兵!</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_escape_cfgtaskdescriptions_bis_church_title">
           <Original>Get to Church</Original>
@@ -6140,7 +6140,7 @@
         <Key ID="str_a3_orange_cluster_cfgtaskdescriptions_bis_cluster_description2">
           <Original>An AAF bomber will arrive from the east and drop a single cluster bomb at the designated position. It has a significant spread, so make sure to point at a location which will cover the most targets.</Original>
           <Chinese>一架阿爾蒂斯武裝力量轟炸機將從東側抵達並向指定位置投下一枚集束炸彈。它的覆蓋範圍很大，所以注意指示的位置能覆蓋大部分目標。</Chinese>
-          <Chinesesimp>一架阿尔蒂斯武装力量轰炸机将从东侧抵达并向指定位置投下一枚集束炸弹。它的覆盖范围很大，所以注意指示的位置能覆盖大部分目标。</Chinesesimp>
+          <Chinesesimp>一架AAF轰炸机将从东侧抵达并向指定位置投下一枚集束炸弹。它的覆盖范围很大，所以注意指示的位置能覆盖大部分目标。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_cluster_cfgtaskdescriptions_bis_cluster_description1">
           <Original>Call an air strike on the town</Original>
@@ -6215,7 +6215,7 @@
           <Key ID="str_a3_orange_cluster_037_fil_moving_to_exfil_journalist_0">
             <Original>I understand that CSAT denied any involvement.</Original>
             <Chinese>我理解廣協同盟不承認任何介入。</Chinese>
-            <Chinesesimp>我理解广协同盟不承认任何介入。</Chinesesimp>
+            <Chinesesimp>我理解广协不承认任何介入。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_cluster_037_fil_moving_to_exfil_eod_2">
             <Original>Or, they were there. Maybe... trying to win back the government's support. Maybe...</Original>
@@ -6561,7 +6561,7 @@
           <Key ID="str_a3_orange_cluster_009_fil_castle_approach_2_journalist_0">
             <Original>Okay, let's get back to CSAT. What were they doing there - on Altis - at this time?</Original>
             <Chinese>好的，我們回來談廣協同盟。他們此時在這兒——在阿爾蒂斯——做什麼?</Chinese>
-            <Chinesesimp>好的，我们回来谈广协同盟。他们此时在这儿——在阿尔蒂斯——做什么?</Chinesesimp>
+            <Chinesesimp>好的，我们回来谈广协。他们此时在这儿——在阿尔蒂斯——做什么?</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_cluster_009_fil_castle_approach_2_eod_2">
             <Original>Anyone's guess. Lotta different rumors... black sites, car bombs, false-flags.</Original>
@@ -6622,7 +6622,7 @@
           <Key ID="str_a3_orange_cluster_006_oc_intro_journalist_0">
             <Original>Right, and - the evidence in the commission report - doesn't it point to CSAT?</Original>
             <Chinese>對——委員會報告中提供的證據——不是指向廣協同盟嗎?</Chinese>
-            <Chinesesimp>对——委员会报告中提供的证据——不是指向广协同盟吗?</Chinesesimp>
+            <Chinesesimp>对——委员会报告中提供的证据——不是指向广协吗?</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_cluster_006_oc_intro_eod_4">
             <Original>Though he wasn't exactly what'd you call reliable. Guy was a goatherd - barely spoke any English.</Original>
@@ -7291,7 +7291,7 @@
           <Key ID="str_a3_orange_airdrop_010_fil_filler3_eod_1">
             <Original>We heard that pressure came down the pipe from CSAT. They had the leverage.</Original>
             <Chinese>W我們聽說壓力來自於廣協同盟那邊。他們起了關鍵作用。</Chinese>
-            <Chinesesimp>W我们听说压力来自于广协同盟那边。他们起了关键作用。</Chinesesimp>
+            <Chinesesimp>W我们听说压力来自于广协那边。他们起了关键作用。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_airdrop_010_fil_filler3_journalist_0">
             <Original>You mentioned something about the break down of peace talks - the situation 'blowing up'?</Original>

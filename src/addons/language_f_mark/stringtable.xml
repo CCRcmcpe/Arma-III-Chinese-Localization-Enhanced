@@ -7,32 +7,32 @@
         <Key ID="str_a3_o_full_ghillie_semiarid_f0">
           <Original>Full Ghillie (Semi-Arid) [CSAT]</Original>
           <Chinese>全身吉利服(半荒漠迷彩)[廣協同盟]</Chinese>
-          <Chinesesimp>全身吉利服(半荒漠迷彩)[广协同盟]</Chinesesimp>
+          <Chinesesimp>全身吉利服(半荒漠迷彩)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_o_full_ghillie_lush_f0">
           <Original>Full Ghillie (Lush) [CSAT]</Original>
           <Chinese>全身吉利服(深色)[廣協同盟]</Chinese>
-          <Chinesesimp>全身吉利服(深色)[广协同盟]</Chinesesimp>
+          <Chinesesimp>全身吉利服(深色)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_o_full_ghillie_arid_f0">
           <Original>Full Ghillie (Arid) [CSAT]</Original>
           <Chinese>全身吉利服(荒漠迷彩)[廣協同盟]</Chinese>
-          <Chinesesimp>全身吉利服(荒漠迷彩)[广协同盟]</Chinesesimp>
+          <Chinesesimp>全身吉利服(荒漠迷彩)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_i_full_ghillie_semiarid_f0">
           <Original>Full Ghillie (Semi-Arid) [AAF]</Original>
           <Chinese>全身吉利服(半荒漠迷彩)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>全身吉利服(半荒漠迷彩)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>全身吉利服(半荒漠迷彩)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_i_full_ghillie_lush_f0">
           <Original>Full Ghillie (Lush) [AAF]</Original>
           <Chinese>全身吉利服(深色)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>全身吉利服(深色)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>全身吉利服(深色)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_i_full_ghillie_arid_f0">
           <Original>Full Ghillie (Arid) [AAF]</Original>
           <Chinese>全身吉利服(荒漠迷彩)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>全身吉利服(荒漠迷彩)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>全身吉利服(荒漠迷彩)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_b_full_ghillie_semiarid_f0">
           <Original>Full Ghillie (Semi-Arid) [NATO]</Original>
@@ -403,7 +403,7 @@
       <Key ID="str_a3_cfgmods_mark_assets_dlcbscope010">
         <Original>Kahlia is a new CSAT designated marksman scope with illuminated iron sights, chosen to enhance the marksman rifles.</Original>
         <Chinese>"喀利亞"是個廣協同盟的精準射手瞄準鏡，上面還裝有光學瞄準鏡，可讓精準射手步槍近距離和中距離都能交戰。</Chinese>
-        <Chinesesimp>"喀利亚"是广协同盟的一种新型精准射手瞄准镜，上面还装有光学瞄具，可让精准射手步枪在近距离和中距离都能交战。</Chinesesimp>
+        <Chinesesimp>"喀利亚"是广协的一种新型精准射手瞄准镜，上面还装有光学瞄具，可让精准射手步枪在近距离和中距离都能交战。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_mark_assets_dlcbremotedesignator0">
         <Original>Remote-controlled laser designator turret on a retractable stick. Comes packed in a small backpack.</Original>
@@ -968,27 +968,27 @@
         <Key ID="str_a3_cfgweapons_bipod_03_f_oli0">
           <Original>Bipod (Olive) [AAF]</Original>
           <Chinese>腳架(橄欖色)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>二脚架(橄榄色)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>二脚架(橄榄色)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_bipod_03_f_blk0">
           <Original>Bipod (Black) [AAF]</Original>
           <Chinese>腳架(黑色)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>二脚架(黑色)[阿尔蒂斯武装力量]</Chinesesimp>
+          <Chinesesimp>二脚架(黑色)[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_bipod_02_f_tan0">
           <Original>Bipod (Tan) [CSAT]</Original>
           <Chinese>腳架(黃褐色)[廣協同盟]</Chinese>
-          <Chinesesimp>二脚架(黄褐色)[广协同盟]</Chinesesimp>
+          <Chinesesimp>二脚架(黄褐色)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_bipod_02_f_hex0">
           <Original>Bipod (Hex) [CSAT]</Original>
           <Chinese>腳架(數位蜂巢迷彩)[廣協同盟]</Chinese>
-          <Chinesesimp>二脚架(蜂巢迷彩)[广协同盟]</Chinesesimp>
+          <Chinesesimp>二脚架(蜂巢迷彩)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_bipod_02_f_blk0">
           <Original>Bipod (Black) [CSAT]</Original>
           <Chinese>腳架(黑色)[廣協同盟]</Chinese>
-          <Chinesesimp>二脚架(黑色)[广协同盟]</Chinesesimp>
+          <Chinesesimp>二脚架(黑色)[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_bipod_01_f_snd0">
           <Original>Bipod (Sand) [NATO]</Original>
@@ -1321,7 +1321,7 @@
       <Key ID="str_a3_cfgvehicles_static_designator_02_base_f0">
         <Original>Remote Designator [CSAT]</Original>
         <Chinese>遙控指示器[廣協同盟]</Chinese>
-        <Chinesesimp>遥控指示器[广协同盟]</Chinesesimp>
+        <Chinesesimp>遥控指示器[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_static_designator_01_base_f1">
         <Original>Remote Designator</Original>
@@ -1336,7 +1336,7 @@
       <Key ID="str_a3_cfgvehicles_o_static_designator_02_weapon_f0">
         <Original>Remote Designator Bag [CSAT]</Original>
         <Chinese>遙控指示器背包[廣協同盟]</Chinese>
-        <Chinesesimp>遥控指示器背包[广协同盟]</Chinesesimp>
+        <Chinesesimp>遥控指示器背包[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_static_designator_01_weapon_f_assembleinfo0">
         <Original>Remote Designator</Original>
@@ -1470,7 +1470,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list9">
         <Original>CSAT medium range scope</Original>
         <Chinese>廣協同盟的中距離瞄準鏡</Chinese>
-        <Chinesesimp>广协同盟的中距离瞄准镜</Chinesesimp>
+        <Chinesesimp>广协的中距离瞄准镜</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list8_title">
         <Original>AMS</Original>
@@ -1490,7 +1490,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list7">
         <Original>CSAT medium machine gun</Original>
         <Chinese>廣協同盟的中型機槍</Chinese>
-        <Chinesesimp>广协同盟的中型机枪</Chinesesimp>
+        <Chinesesimp>广协的中型机枪</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list6_title">
         <Original>SPMG .338</Original>
@@ -1510,7 +1510,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list5">
         <Original>CSAT special purpose rifle, providing high power at a short range</Original>
         <Chinese>廣協同盟的特殊用途步槍，提供短距離的高強力打擊</Chinese>
-        <Chinesesimp>广协同盟的特殊用途步枪，在近距离上威力很大。</Chinesesimp>
+        <Chinesesimp>广协的特殊用途步枪，在近距离上威力很大。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list4_title">
         <Original>Mk14 7.62 mm</Original>
@@ -1620,7 +1620,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list18_title">
         <Original>AAF Grenadier Vest</Original>
         <Chinese>阿爾蒂斯武裝力量榴彈背心</Chinese>
-        <Chinesesimp>阿尔蒂斯武装力量榴弹背心</Chinesesimp>
+        <Chinesesimp>AAF榴弹背心</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list18">
         <Original>improved explosive shielding</Original>
@@ -1675,7 +1675,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list13">
         <Original>a new CSAT replacement in addition to NATO and AAF skins</Original>
         <Chinese>替換掉原本的模組外觀，使廣協同盟，北約和阿爾蒂斯武裝力量皆有自己的雷射指示器</Chinese>
-        <Chinesesimp>替换掉原本的模组外观，使广协同盟，北约和阿尔蒂斯武装力量皆有自己的激光指示器</Chinesesimp>
+        <Chinesesimp>替换掉原本的模组外观，使广协，北约和AAF皆有自己的激光指示器</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list12_title">
         <Original>Remote Designators and Backpacks</Original>
@@ -1685,7 +1685,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list12">
         <Original>deployable, remotely-operated scout turrets with laser designator functionality for NATO and CSAT</Original>
         <Chinese>可被佈署與遙控的偵察裝備，可用來標定目標，北約和廣協同盟皆擁有此裝備</Chinese>
-        <Chinesesimp>可被部署与遥控的侦察装备，可用来标定目标，北约和广协同盟皆拥有此装备</Chinesesimp>
+        <Chinesesimp>可被部署与遥控的侦察装备，可用来标定目标，北约和广协皆拥有此装备</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list11_title">
         <Original>Suppressors</Original>
@@ -1705,12 +1705,12 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list10">
         <Original>CSAT, NATO and AAF Weapon Deployment attachments for all suitable weapons</Original>
         <Chinese>廣協同盟，北約和阿爾蒂斯武裝力量的武器腳架皆可裝在別的武器上</Chinese>
-        <Chinesesimp>广协同盟，北约和阿尔蒂斯武装力量的武器脚架都可装在适当的武器上</Chinesesimp>
+        <Chinesesimp>广协，北约和AAF的武器脚架都可装在适当的武器上</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list1">
         <Original>CSAT high power marksman rifle</Original>
         <Chinese>廣協同盟的高強力精準射手步槍</Chinese>
-        <Chinesesimp>广协同盟的高强力精准射手步枪</Chinesesimp>
+        <Chinesesimp>广协的高强力精准射手步枪</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_footer2">
         <Original>Have a splendid time as a marksman!</Original>
@@ -1832,7 +1832,7 @@
       <Key ID="str_a3_truck_02_transport_base_f_texturesources_indep0">
         <Original>AAF</Original>
         <Chinese>阿爾蒂斯武裝力量</Chinese>
-        <Chinesesimp>阿尔蒂斯武装力量</Chinesesimp>
+        <Chinesesimp>AAF</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_yellow0">
         <Original>Yellow</Original>
@@ -1932,7 +1932,7 @@
       <Key ID="str_a3_texturesources_indep0">
         <Original>AAF</Original>
         <Chinese>阿爾蒂斯武裝力量</Chinese>
-        <Chinesesimp>阿尔蒂斯武装力量</Chinesesimp>
+        <Chinesesimp>AAF</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_guerrilla_020">
         <Original>FIA 2</Original>
@@ -2607,12 +2607,12 @@
       <Key ID="str_a3_texturesources_indepdesert0">
         <Original>AAF (Desert Camo Net)</Original>
         <Chinese>阿爾蒂斯武裝力量(沙漠偽裝網)</Chinese>
-        <Chinesesimp>阿尔蒂斯武装力量(沙漠伪装网)</Chinesesimp>
+        <Chinesesimp>AAF(沙漠伪装网)</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_indepjungle0">
         <Original>AAF (Jungle Camo Net)</Original>
         <Chinese>阿爾蒂斯武裝力量(叢林偽裝網)</Chinese>
-        <Chinesesimp>阿尔蒂斯武装力量(丛林伪装网)</Chinesesimp>
+        <Chinesesimp>AAF(丛林伪装网)</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_orange_and_blue0">
         <Original>Orange &amp; Blue</Original>

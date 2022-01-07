@@ -1427,7 +1427,7 @@
       <Key ID="str_a3_cfgmods_argo_multiplayer_mp_escapefromtanoa1">
         <Original>Tanoa is overrun with Syndikat and CSAT troops. All NATO forces left behind are retreating and trying to escape the archipelago.</Original>
         <Chinese>塔諾亞已經整個被辛迪加與廣協同盟給佔領了。所有被留下的北約部隊都正在撤退，設法逃離這個島。</Chinese>
-        <Chinesesimp>塔诺亚已经整个被辛迪加与广协同盟给占领了。所有被留下的北约部队都正在撤退，设法逃离这个岛。</Chinesesimp>
+        <Chinesesimp>塔诺亚已经整个被辛迪加与广协给占领了。所有被留下的北约部队都正在撤退，设法逃离这个岛。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_argo_multiplayer_mp_escapefromtanoa0">
         <Original>Escape from Tanoa</Original>
@@ -1437,7 +1437,7 @@
       <Key ID="str_a3_cfgmods_argo_multiplayer_mp_escapefrommalden1">
         <Original>Malden is under complete NATO control. Remnants of CSAT's forces are desperately trying to leave the island.</Original>
         <Chinese>馬爾登已經完全被北約給佔領了。所有被留下的廣協同盟部隊都正在撤退，設法逃離這個島。</Chinese>
-        <Chinesesimp>马尔登已经完全被北约给占领了。所有被留下的广协同盟部队都正在撤退，设法逃离这个岛。</Chinesesimp>
+        <Chinesesimp>马尔登已经完全被北约给占领了。所有被留下的广协部队都正在撤退，设法逃离这个岛。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_argo_multiplayer_mp_escapefrommalden0">
         <Original>Escape from Malden</Original>

@@ -1691,7 +1691,7 @@
       <Key ID="str_a3_cfgvehicles_tent_02_small_sand_f0">
         <Original>Tent (Dome-shaped, CSAT, Sand)</Original>
         <Chinese>帳篷(圓頂形，廣協同盟，沙色)</Chinese>
-        <Chinesesimp>帐篷(圆顶形，广协同盟，沙色)</Chinesesimp>
+        <Chinesesimp>帐篷(圆顶形，广协，沙色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_carbattery_02_f0">
         <Original>Car Battery (Car)</Original>
@@ -1701,7 +1701,7 @@
       <Key ID="str_a3_cfgvehicles_tent_02_small_forest_f0">
         <Original>Tent (Dome-shaped, CSAT, Forest)</Original>
         <Chinese>帳篷(圓頂形，廣協同盟，森林)</Chinese>
-        <Chinesesimp>帐篷(圆顶形，广协同盟，森林)</Chinesesimp>
+        <Chinesesimp>帐篷(圆顶形，广协，森林)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_carbattery_01_f0">
         <Original>Car Battery (Truck)</Original>
@@ -1951,7 +1951,7 @@
       <Key ID="str_a3_cfgvehicles_land_tent_02_small_f0">
         <Original>Tent (Dome-shaped, CSAT)</Original>
         <Chinese>帳篷(圓頂形，廣協同盟)</Chinese>
-        <Chinesesimp>帐篷(圆顶形，广协同盟)</Chinesesimp>
+        <Chinesesimp>帐篷(圆顶形，广协)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbags_01_medium_short_f0">
         <Original>Sandbags (Medium, Short)</Original>
@@ -2073,7 +2073,7 @@
       <Key ID="str_a3_h_cap_blk_raven0_boot">
         <Original>Cap [AAF]</Original>
         <Chinese>小帽子[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>小帽子[阿尔蒂斯武装力量]</Chinesesimp>
+        <Chinesesimp>小帽子[AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_booniehat_tan0_boot">
         <Original>Booniehat (Sand)</Original>

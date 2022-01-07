@@ -545,7 +545,7 @@
       <Key ID="str_a3_endgame_tasks_description_laptop">
         <Original>Raid the AAF outpost and retrieve any intel you find.</Original>
         <Chinese>突襲阿爾蒂斯武裝力量的前哨，取回任何你找到的情報。</Chinese>
-        <Chinesesimp>突袭阿尔蒂斯武装力量的前哨，取回任何你找到的情报。</Chinesesimp>
+        <Chinesesimp>突袭AAF的前哨，取回任何你找到的情报。</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_tasks_description_fob">
         <Original>Establish a Forward Operating Base (FOB) at the designated location.</Original>

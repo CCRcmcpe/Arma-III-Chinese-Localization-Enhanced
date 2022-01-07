@@ -485,12 +485,12 @@
             <Key ID="str_a3_faction_opfor_20_o_weapons_exo_2">
               <Original>The CAR rifle series. Capable of a firerate of 800 rounds per minute, the CAR has recently seen deployment among CSAT forces in the Pacific.</Original>
               <Chinese>CAR步槍系列的射速最高可達每分鐘800發，最近開始廣泛的裝備在廣協同盟的太平洋部隊中。</Chinese>
-              <Chinesesimp>CAR步枪系列的射速最高可达每分钟800发，最近开始广泛的装备在广协同盟的太平洋部队中。</Chinesesimp>
+              <Chinesesimp>CAR步枪系列的射速最高可达每分钟800发，最近开始广泛的装备在广协的太平洋部队中。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_20_o_weapons_exo_3">
               <Original>The CMR-76 is the preferred designated marksman rifle of CSAT's Pacific contingent. It is a gas operated, semi-automatic rifle of bullpup configuration.</Original>
               <Chinese>CMR-76是一把指定精準射手步槍，被配給於廣協同盟的太平洋部隊中。其架構使用氣體傳動機構與無托構造來組成一把半自動步槍。</Chinese>
-              <Chinesesimp>CMR-76是一把指定精准射手步枪，被配给于广协同盟的太平洋部队中。其架构使用气体传动机构与无托构造来组成一把半自动步枪。</Chinesesimp>
+              <Chinesesimp>CMR-76是一把指定精准射手步枪，被配给于广协的太平洋部队中。其架构使用气体传动机构与无托构造来组成一把半自动步枪。</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_O_Water" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="15_O_Water" dubbingLanguage="english" namePrefix="faction_opfor_15_o_water" note="" participants="RC O Expo;" situation="player visits the naval area of the expo">
@@ -568,7 +568,7 @@
             <Key ID="str_a3_faction_opfor_01_o_expowelcome_exo_0">
               <Original>Thank you for attending the CSAT military expo.</Original>
               <Chinese>感謝你來參加廣協同盟軍武展示大會。</Chinese>
-              <Chinesesimp>感谢你来参加广协同盟部队开放日。</Chinesesimp>
+              <Chinesesimp>感谢你来参加广协部队开放日。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_01_o_expowelcome_exo_1">
               <Original>Each expo area showcases a variety of weapons, vehicles and aircraft.</Original>
@@ -2765,12 +2765,12 @@
         <Key ID="STR_A3_Showcase_Showcase_Faction_INDEPENDENT_Mission_Name">
           <Original>AAF</Original>
           <Chinese>阿爾蒂斯武裝力量</Chinese>
-          <Chinesesimp>阿尔蒂斯武装力量</Chinesesimp>
+          <Chinesesimp>AAF</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Showcase_Showcase_Faction_INDEPENDENT_Summary_text">
           <Original>Review Arma 3's AAF faction and attend the fixed-wing demonstration.</Original>
           <Chinese>體驗武裝突襲3的阿爾蒂斯武裝力量陣營，並參觀固定翼飛機的演習。</Chinese>
-          <Chinesesimp>体验武装突袭3的阿尔蒂斯武装力量阵营，并参观固定翼飞机的演习。</Chinesesimp>
+          <Chinesesimp>体验武装突袭3的AAF阵营，并参观固定翼飞机的演习。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_independent_weapons_title">
           <Original>Weapons</Original>
@@ -2785,7 +2785,7 @@
         <Key ID="str_a3_showcase_faction_independent_weapons_description">
           <Original>Fire a range of the AAF's pistols, rifles, launchers and static weapons.</Original>
           <Chinese>阿爾蒂斯武裝力量的靶場，可以使用手槍，步槍，發射器與固定武器。</Chinese>
-          <Chinesesimp>阿尔蒂斯武装力量的靶场，可以使用手枪，步枪，发射器与固定武器。</Chinesesimp>
+          <Chinesesimp>AAF的靶场，可以使用手枪，步枪，发射器与固定武器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_independent_water_title">
           <Original>Sea</Original>
@@ -2800,12 +2800,12 @@
         <Key ID="str_a3_showcase_faction_independent_water_description">
           <Original>Head out to the water and navigate the AAF's surface craft and submarines.</Original>
           <Chinese>體驗阿爾蒂斯武裝力量的水上船隻與潛水艇。</Chinese>
-          <Chinesesimp>体验阿尔蒂斯武装力量的水上船只与潜水艇。</Chinesesimp>
+          <Chinesesimp>体验AAF的水上船只与潜水艇。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_independent_mission">
           <Original>Visit each exhibition area and experience the AAF forces by land, air and sea.</Original>
           <Chinese>參觀並體驗阿爾蒂斯武裝力量的陸上，天空，海上載具與武器。</Chinese>
-          <Chinesesimp>参观并体验阿尔蒂斯武装力量的陆上，天空，海上载具与武器。</Chinesesimp>
+          <Chinesesimp>参观并体验AAF的陆上，天空，海上载具与武器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_independent_ground_title">
           <Original>Land</Original>
@@ -2815,7 +2815,7 @@
         <Key ID="str_a3_showcase_faction_INDEPENDENT_titlecard">
           <Original>FACTION: AAF - Weapons, Vehicles, Aircraft</Original>
           <Chinese>陣營:阿爾蒂斯武裝力量-武器，車輛，飛機</Chinese>
-          <Chinesesimp>阵营:阿尔蒂斯武装力量-武器，车辆，飞机</Chinesesimp>
+          <Chinesesimp>阵营:AAF-武器，车辆，飞机</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_independent_ground_marker">
           <Original>LAND</Original>
@@ -2825,7 +2825,7 @@
         <Key ID="str_a3_showcase_faction_independent_ground_description">
           <Original>Try out the AAF's vehicles, including MRAPS, Supply trucks and Armored Personnel Carriers.</Original>
           <Chinese>嘗試阿爾蒂斯武裝力量的車輛載具，包括防地雷反伏擊車，補給卡車與裝甲運兵車。</Chinese>
-          <Chinesesimp>尝试阿尔蒂斯武装力量的车辆，包括防地雷反伏击车，补给卡车与装甲运兵车。</Chinesesimp>
+          <Chinesesimp>尝试AAF的车辆，包括防地雷反伏击车，补给卡车与装甲运兵车。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_independent_expo_title">
           <Original>Expo</Original>
@@ -2870,19 +2870,19 @@
         <Key ID="str_a3_showcase_faction_independent_air_description">
           <Original>Get to grips with the AAF's rotor- and fixed-wing aircraft.</Original>
           <Chinese>體驗阿爾蒂斯武裝力量的旋翼與固定翼飛行器。</Chinese>
-          <Chinesesimp>体验阿尔蒂斯武装力量的旋翼与固定翼飞行器。</Chinesesimp>
+          <Chinesesimp>体验AAF的旋翼与固定翼飞行器。</Chinesesimp>
         </Key>
       </Container>
       <Container name="Faction_OPFOR">
         <Key ID="STR_A3_Showcase_Showcase_Faction_OPFOR_Mission_Name">
           <Original>CSAT</Original>
           <Chinese>廣協同盟</Chinese>
-          <Chinesesimp>广协同盟</Chinesesimp>
+          <Chinesesimp>广协</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Showcase_Showcase_Faction_OPFOR_Summary_text">
           <Original>Familiarize yourself with Arma 3's CSAT faction and visit the firing range.</Original>
           <Chinese>體驗武裝突襲3的廣協同盟陣營，並在靶場體驗他們的武器。</Chinese>
-          <Chinesesimp>体验武装突袭3的广协同盟阵营，并在靶场体验他们的武器。</Chinesesimp>
+          <Chinesesimp>体验武装突袭3的广协阵营，并在靶场体验他们的武器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_opfor_weapons_title">
           <Original>Weapons</Original>
@@ -2897,7 +2897,7 @@
         <Key ID="str_a3_showcase_faction_opfor_weapons_description">
           <Original>Fire a range of CSAT pistols, rifles, launchers and static weapons.</Original>
           <Chinese>廣協同盟的靶場，可以使用手槍，步槍，發射器與固定武器。</Chinese>
-          <Chinesesimp>广协同盟的靶场，可以使用手枪，步枪，发射器与固定武器。</Chinesesimp>
+          <Chinesesimp>广协的靶场，可以使用手枪，步枪，发射器与固定武器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_opfor_water_title">
           <Original>Sea</Original>
@@ -2912,12 +2912,12 @@
         <Key ID="str_a3_showcase_faction_opfor_water_description">
           <Original>Head out to the water and navigate CSAT's surface craft and submarines.</Original>
           <Chinese>體驗廣協同盟的水上船隻與潛水艇。</Chinese>
-          <Chinesesimp>体验广协同盟的水上船只与潜水艇。</Chinesesimp>
+          <Chinesesimp>体验广协的水上船只与潜水艇。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_opfor_mission">
           <Original>Familiarize yourself with Arma 3's CSAT faction and visit the firing range.</Original>
           <Chinese>參觀並體驗廣協同盟的陸上，天空，海上載具與武器。</Chinese>
-          <Chinesesimp>参观并体验广协同盟的陆上，天空，海上载具与武器。</Chinesesimp>
+          <Chinesesimp>参观并体验广协的陆上，天空，海上载具与武器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_opfor_ground_title">
           <Original>Land</Original>
@@ -2927,7 +2927,7 @@
         <Key ID="str_a3_showcase_faction_OPFOR_titlecard">
           <Original>FACTION: CSAT - Weapons, Vehicles, Aircraft</Original>
           <Chinese>陣營:廣協同盟-武器，車輛，飛機</Chinese>
-          <Chinesesimp>阵营:广协同盟-武器，车辆，飞机</Chinesesimp>
+          <Chinesesimp>阵营:广协-武器，车辆，飞机</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_opfor_ground_marker">
           <Original>LAND</Original>
@@ -2937,7 +2937,7 @@
         <Key ID="str_a3_showcase_faction_opfor_ground_description">
           <Original>Try out CSAT's wheeled and tracked ground vehicles, from quad bikes to supply trucks, Armored Personnel Carriers to Self-Propelled Guns</Original>
           <Chinese>體驗廣協同盟的輪式與履帶式載具，從四輪機車到補給卡車，裝甲運兵車到自走砲。</Chinese>
-          <Chinesesimp>体验广协同盟的轮式与履带式载具，从四轮机车到补给卡车，装甲运兵车到自走炮。</Chinesesimp>
+          <Chinesesimp>体验广协的轮式与履带式载具，从四轮机车到补给卡车，装甲运兵车到自走炮。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_opfor_expo_title">
           <Original>Expo</Original>
@@ -2982,7 +2982,7 @@
         <Key ID="str_a3_showcase_faction_opfor_air_description">
           <Original>Get to grips with CSAT's light and heavy transport and attack helicopters.</Original>
           <Chinese>體驗廣協同盟的輕型和重型運輸或攻擊直升機</Chinese>
-          <Chinesesimp>体验广协同盟的轻型和重型运输或攻击直升机</Chinesesimp>
+          <Chinesesimp>体验广协的轻型和重型运输或攻击直升机</Chinesesimp>
         </Key>
       </Container>
       <Container name="Faction_BLUFOR">

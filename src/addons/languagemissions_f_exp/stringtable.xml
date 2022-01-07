@@ -2323,7 +2323,7 @@
             <Key ID="str_a3_exp_m05_10_expositionone_grm_0">
               <Original>We had a run-in with them. I heard Mandarin. Is it CSAT?</Original>
               <Chinese>我們曾碰見過他們。我聽到了普通話。他們是廣協同盟吧?</Chinese>
-              <Chinesesimp>我们曾碰见过他们。我听到了普通话。他们是广协同盟吧?</Chinesesimp>
+              <Chinesesimp>我们曾碰见过他们。我听到了普通话。他们是广协吧?</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_10_expositionone_mil_0">
               <Original>I'll bring you up to speed once we're clear.</Original>
@@ -2343,7 +2343,7 @@
             <Key ID="str_a3_exp_m05_10_expositionone_sal_1">
               <Original>CSAT definitely aren't meant to be here.</Original>
               <Chinese>照常理來說廣協同盟是不應該出現在這裡的。</Chinese>
-              <Chinesesimp>照常理来说广协同盟是不应该出现在这里的。</Chinesesimp>
+              <Chinesesimp>照常理来说广协是不应该出现在这里的。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_OnTheMove" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="05_OnTheMove" dubbingLanguage="english" namePrefix="exp_m05_05_onthemove" note="" participants="EXC B Riker;EXC B Truck;EXC B Miller;EXC B Salvo;EXC B Grimm;" situation="re-ensuring players know what to do after all that initial chatter">
@@ -2455,7 +2455,7 @@
           <Key ID="str_a3_exp_m06_situation">
             <Original>Captain Miller has revealed to us the existence of CSAT's clandestine operatives, codename 'Viper', and has confirmed their base of operations to be on %1Sosovu Island%2, a former Japanese stronghold last occupied during the Second World War.&lt;br/&gt;&lt;br/&gt;Worryingly still, we have reason to believe that Viper are housing an Eastwind Device on the island capable of triggering a natural disaster.&lt;br /&gt;&lt;br /&gt;Your mission is to locate the Device, secure it and any other intel you find, and assist with its extraction.</Original>
             <Chinese>米勒上校向我們介紹了廣協同盟的特戰部隊，代號為'毒蛇'，而他們的作戰基地也被發現架設在%1索索武島%2上，該島曾被日本在二次世界大戰時當作要塞堡壘。&lt;br/&gt;&lt;br/&gt;令人擔憂的是，我們相信"毒蛇"在島上裝設了一種叫做東風的裝置，此裝置能夠引起自然災害。&lt;br/&gt;&lt;br/&gt;你們的任務是去找到這個裝置，搶到它與任何關於它的情報，並協助撤離這個裝置。</Chinese>
-            <Chinesesimp>米勒上校向我们介绍了广协同盟的特战部队，代号为'毒蛇'，而他们的作战基地也被发现架设在%1索索武岛%2上，该岛曾被日本在二次世界大战时当作要塞堡垒。&lt;br/&gt;&lt;br/&gt;令人担忧的是，我们相信"毒蛇"在岛上装设了一种叫做东风的装置，此装置能够引起自然灾害。&lt;br/&gt;&lt;br/&gt;你们的任务是去找到这个装置，抢到它与任何关于它的情报，并协助撤离这个装置。</Chinesesimp>
+            <Chinesesimp>米勒上校向我们介绍了广协的特战部队，代号为'毒蛇'，而他们的作战基地也被发现架设在%1索索武岛%2上，该岛曾被日本在二次世界大战时当作要塞堡垒。&lt;br/&gt;&lt;br/&gt;令人担忧的是，我们相信"毒蛇"在岛上装设了一种叫做东风的装置，此装置能够引起自然灾害。&lt;br/&gt;&lt;br/&gt;你们的任务是去找到这个装置，抢到它与任何关于它的情报，并协助撤离这个装置。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m06_sitrep03">
             <Original>16:30 Hours</Original>
@@ -2800,7 +2800,7 @@
             <Key ID="str_a3_exp_m06_b23_viperblacksite_lia_0">
               <Original>And, what? Syndikat leadership just plays along with CSAT's 'earthquake weapon'?</Original>
               <Chinese>什麼?你是說辛迪加的老大一直在跟廣協同盟合作使用這項'地震武器'?</Chinese>
-              <Chinesesimp>什么?你是说辛迪加的老大一直在跟广协同盟合作使用这项'地震武器'?</Chinesesimp>
+              <Chinesesimp>什么?你是说辛迪加的老大一直在跟广协合作使用这项'地震武器'?</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_b23_viperblacksite_lia_1">
               <Original>I see. So, what's the situation now?</Original>
@@ -2837,7 +2837,7 @@
             <Key ID="str_a3_exp_m06_b20_projecteastwind_mil_1">
               <Original>CTRG has been tracking a clandestine network of CSAT operatives. We know them as 'Viper'.</Original>
               <Chinese>戰研小組一直都在追蹤廣協同盟秘密部隊的通訊網路。這就是我們所知道的"毒蛇"。</Chinese>
-              <Chinesesimp>战研大队一直都在追踪广协同盟秘密部队的通信网络。这就是我们所知道的"毒蛇"。</Chinesesimp>
+              <Chinesesimp>战研大队一直都在追踪广协秘密部队的通信网络。这就是我们所知道的"毒蛇"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_b20_projecteastwind_mil_2">
               <Original>Group 14 got close in the Med, but the opportunity slipped away.</Original>
@@ -2906,7 +2906,7 @@
             <Key ID="str_a3_exp_m06_b10_csatconnection_mil_2">
               <Original>It's clear now that a covert CSAT presence has been giving Syndikat all sorts of hardware.</Original>
               <Chinese>但現在我們已經知悉是廣協同盟在辛迪加的背後一直提供他們各式各樣的裝備。</Chinese>
-              <Chinesesimp>但现在我们已经知悉是广协同盟在辛迪加的背后一直提供他们各式各样的装备。</Chinesesimp>
+              <Chinesesimp>但现在我们已经知悉是广协在辛迪加的背后一直提供他们各式各样的装备。</Chinesesimp>
             </Key>
           </Container>
           <Container name="b05_MillerIntro" audioFilePath="\a3\dubbing_f_exp\exp_m06" dialogName="b05_MillerIntro" dubbingLanguage="english" namePrefix="exp_m06_b05_millerintro" note="" participants="EXC B CTRG Commander;EXC B Miller MIL;EXC B SOF Liaison;" situation="commander introduces miller, who's in the field">
@@ -2962,7 +2962,7 @@
             <Key ID="str_a3_exp_m06_95_apex_mil_2">
               <Original>Highly classified CSAT material. It all points to some type of doctrine.</Original>
               <Chinese>都是些廣協同盟的最高機密。它們都指向到一種協議上。</Chinese>
-              <Chinesesimp>都是些广协同盟的最高机密。它们都指向到一种协议上。</Chinesesimp>
+              <Chinesesimp>都是些广协的最高机密。它们都指向到一种协议上。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_95_apex_mil_3">
               <Original>But it seems we have bigger problems. The Eastwind Device was here. Now it's not.</Original>
@@ -3056,7 +3056,7 @@
             <Key ID="str_a3_exp_m06_60_turret_spotted_mil_0">
               <Original>You're looking at CSAT's autonomous grenade turret. Hoofin piece of kit.</Original>
               <Chinese>你們找到了廣協同盟的自動榴彈砲塔。使用腳架來站立。</Chinese>
-              <Chinesesimp>你们找到了广协同盟的自动榴弹炮塔。使用脚架来站立。</Chinesesimp>
+              <Chinesesimp>你们找到了广协的自动榴弹炮塔。使用脚架来站立。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_60_turret_spotted_mil_1">
               <Original>It's extremely temperamental, but the 20mil will ruin anyone's day.</Original>
@@ -3704,7 +3704,7 @@
             <Key ID="str_a3_exp_m03_b01_altiswrapup_aan_1">
               <Original>With a new round of NATO-CSAT talks due imminently, strategic analysts point to encouraging signs of a lasting peace, with a shared peacekeeping deal on the table.</Original>
               <Chinese>而藉由新一輪的北約-廣協同盟緊急會談，各戰略分析人員都指出世界有正走向長久和平的跡象，最後雙方也在談判桌上達成共同維持和平的協議。</Chinese>
-              <Chinesesimp>而借由新一轮的北约-广协同盟紧急会谈，各战略分析人员都指出世界有正走向长久和平的迹象，最后双方也在谈判桌上达成共同维持和平的协议。</Chinesesimp>
+              <Chinesesimp>而借由新一轮的北约-广协紧急会谈，各战略分析人员都指出世界有正走向长久和平的迹象，最后双方也在谈判桌上达成共同维持和平的协议。</Chinesesimp>
             </Key>
           </Container>
           <Container name="60_LZ" audioFilePath="\a3\dubbing_f_exp\exp_m03" dialogName="60_LZ" dubbingLanguage="english" namePrefix="exp_m03_60_lz" note="" participants="EXC B Riker;EXC B Pilot;EXC B SOF Liaison;EXC B Salvo;" situation="talk near the chopper">
@@ -4169,7 +4169,7 @@
           <Key ID="str_a3_exp_m02_debriefing_description">
             <Original>The convoy was destroyed and Syndikat's anti-air weaponry was disposed of. We have to figure out how CSAT weapons are making their way into Syndikat hands.</Original>
             <Chinese>辛迪加的車隊與防空武器皆已摧毀。現在我們必須搞清楚為什麼會有廣協同盟的武器出現在辛迪加的手上。</Chinese>
-            <Chinesesimp>辛迪加的车队与防空武器都被摧毁。现在我们必须搞清楚为什么会有广协同盟的武器出现在辛迪加的手上。</Chinesesimp>
+            <Chinesesimp>辛迪加的车队与防空武器都被摧毁。现在我们必须搞清楚为什么会有广协的武器出现在辛迪加的手上。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m02_callsigns_3">
             <Original>Watchtower</Original>
@@ -4976,7 +4976,7 @@
             <Key ID="str_a3_exp_m02_107_chineseforeshadow_trk_1">
               <Original>That stuff looked high quality, Salvo. Maybe even CSAT. And higher ain't exactly waiting around to nuke it from orbit.</Original>
               <Chinese>但那些裝備看起來挺高級的，薩爾沃。搞不好廣協同盟他們還有核武可以從軌道上攻擊地面呢。</Chinese>
-              <Chinesesimp>但那些装备看起来挺高级的，萨尔沃。搞不好广协同盟他们还有核武可以从轨道上攻击地面呢。</Chinesesimp>
+              <Chinesesimp>但那些装备看起来挺高级的，萨尔沃。搞不好广协他们还有核武可以从轨道上攻击地面呢。</Chinesesimp>
             </Key>
           </Container>
           <Container name="105_Support_Plan" audioFilePath="\a3\dubbing_f_exp\exp_m02" dialogName="105_Support_Plan" dubbingLanguage="english" namePrefix="exp_m02_105_support_plan" note="" participants="EXC B Riker;EXC B CTRG Commander;" situation="raider 1 sent to secondary extraction">
@@ -5162,7 +5162,7 @@
           <Key ID="str_a3_exp_m04_end1_description">
             <Original>Despite being lured into a trap, you managed to extract safely from the AO. Whoever these CSAT operatives are, it's likely we haven't seen the last of them</Original>
             <Chinese>儘管我們被誘入了陷阱，但你們仍成功且安全的撤離出戰場。不管這些廣協同盟部隊到底是誰，我們勢必都得遭遇到一種全新的挑戰。</Chinese>
-            <Chinesesimp>尽管我们被诱入了陷阱，但你们仍成功且安全的撤离出战场。不管这些广协同盟部队到底是谁，我们势必都得遭遇到一种全新的挑战。</Chinesesimp>
+            <Chinesesimp>尽管我们被诱入了陷阱，但你们仍成功且安全的撤离出战场。不管这些广协部队到底是谁，我们势必都得遭遇到一种全新的挑战。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m04_defend_wp">
             <Original>DEFEND</Original>
@@ -5656,7 +5656,7 @@
             <Key ID="str_a3_exp_m04_15_defeated_rik_3">
               <Original>Definitely Chinese - maybe CSAT - but, their equipment is pretty advanced. Prototypes, maybe.</Original>
               <Chinese>絕對是中國人-或許是廣協同盟的-但他們的裝備相當先進。或許是實驗性裝備。</Chinese>
-              <Chinesesimp>绝对是中国人-或许是广协同盟的-但他们的装备相当先进。或许是实验性装备。</Chinesesimp>
+              <Chinesesimp>绝对是中国人-或许是广协的-但他们的装备相当先进。或许是实验性装备。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_Attack" audioFilePath="\a3\dubbing_f_exp\exp_m04" dialogName="10_Attack" dubbingLanguage="english" namePrefix="exp_m04_10_attack" note="" participants="EXC B CTRG Commander;" situation="the other team has gone quiet">
@@ -5985,7 +5985,7 @@
           <Key ID="str_a3_exp_m07_end01">
             <Original>As a direct result of the extensive efforts of CTRG, CSAT's Apex Protocol was exposed to the world. With the fragile alliance now on the brink of collapse, the world is slowly returning to the status quo.</Original>
             <Chinese>由於戰研小組的努力不懈，使得廣協同盟的頂尖協議被公諸於世。在這個脆弱的組織走向滅亡之際，世界也終於重新走向和平。</Chinese>
-            <Chinesesimp>由于战研大队的努力不懈，使得广协同盟的顶尖协议被公诸于世。在这个脆弱的组织走向灭亡之际，世界也终于重新走向和平。</Chinesesimp>
+            <Chinesesimp>由于战研大队的努力不懈，使得广协的顶尖协议被公诸于世。在这个脆弱的组织走向灭亡之际，世界也终于重新走向和平。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m07_callsignwatchtower">
             <Original>Watchtower</Original>
@@ -6174,7 +6174,7 @@
             <Key ID="str_a3_exp_m07_o17_apexsoundbite_question_tab_0">
               <Original>I weep for my countrymen. There can be no question. CSAT have engineered chaos and destruction on a massive scale.</Original>
               <Chinese>我為我的同胞哭泣。這是不容質疑的。是廣協同盟他們設計了這場混亂與破壞。</Chinese>
-              <Chinesesimp>我为我的同胞哭泣。现在已经毫无疑问了。是广协同盟设计了这场混乱与破坏。</Chinesesimp>
+              <Chinesesimp>我为我的同胞哭泣。现在已经毫无疑问了。是广协设计了这场混乱与破坏。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_o17_apexsoundbite_question_tab_1">
               <Original>By supplying dangerous criminals with military weapons, they have sought to murder the people of the Horizon Islands.</Original>
@@ -6191,7 +6191,7 @@
             <Key ID="str_a3_exp_m07_o17b_apexsoundbite_question_translate_tab_0">
               <Original>Je pleure pour mes compatriotes. Il n'y a pas de place pour le doute. Le CSAT a engrengé chaos et destruction à grande échelle.</Original>
               <Chinese>我為我的同胞哭泣。這是不容質疑的。是廣協同盟他們設計了這場混亂與破壞。</Chinese>
-              <Chinesesimp>我为我的同胞哭泣。现在已经毫无疑问了。是广协同盟设计了这场混乱与破坏。</Chinesesimp>
+              <Chinesesimp>我为我的同胞哭泣。现在已经毫无疑问了。是广协设计了这场混乱与破坏。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_o17b_apexsoundbite_question_translate_tab_1">
               <Original>En fournissant de l'équipement militaire, des armes de guerre à de dangereux criminels, c'est la population des îles Horizon qu'ils ont cherché à assassiner.</Original>
@@ -6237,7 +6237,7 @@
             <Key ID="str_a3_exp_m07_o15_apexsoundbite_emergency_cor_0">
               <Original>CSAT member states are due to convene for an emergency session in the coming days, exposing fault-lines within the alliance itself, and calling into question a decade of CSAT's soft power expansionism across Eurasia, Africa, and the Pacific region.</Original>
               <Chinese>廣協同盟的成員國將在近日展開一場緊急會議，顯示出他們組織本身所存在的問題，這也帶出廣協同盟在過去十年內於歐亞大陸，非洲以及太平洋地區等擴張所帶來的問題。</Chinese>
-              <Chinesesimp>广协同盟的成员国将在近日展开一场紧急会议，显示出他们组织本身所存在的问题，这也带出广协同盟在过去十年内于欧亚大陆，非洲以及太平洋地区等扩张所带来的问题。</Chinesesimp>
+              <Chinesesimp>广协的成员国将在近日展开一场紧急会议，显示出他们组织本身所存在的问题，这也带出广协在过去十年内于欧亚大陆，非洲以及太平洋地区等扩张所带来的问题。</Chinesesimp>
             </Key>
           </Container>
           <Container name="o13_ApexSoundBite_Lies" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="o13_ApexSoundBite_Lies" dubbingLanguage="english" namePrefix="exp_m07_o13_apexsoundbite_lies" note="" participants="EXC C China;" situation="switching to the tanoa disaster">
@@ -6297,7 +6297,7 @@
             <Key ID="str_a3_exp_m07_o01_apexsoundbite_revelation_aan_1">
               <Original>Documents seen by AAN investigative journalists - the so-called 'Apex Protocol Papers' - have exposed a global network of illegal CSAT operations.</Original>
               <Chinese>AAN的調查記者看到了一份文件-一份叫做'頂尖協議書'的文件-披露了廣協同盟在世界上各種違法的行動。</Chinese>
-              <Chinesesimp>AAN的调查记者看到了一份文件-一份叫做'顶尖协议'的文件-披露了广协同盟的全球非法活动网络。</Chinesesimp>
+              <Chinesesimp>AAN的调查记者看到了一份文件-一份叫做'顶尖协议'的文件-披露了广协的全球非法活动网络。</Chinesesimp>
             </Key>
           </Container>
           <Container name="b30_SilentStrike" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="b30_SilentStrike" dubbingLanguage="english" namePrefix="exp_m07_b30_silentstrike" note="" participants="EXC B CTRG Commander;EXC B SOF Liaison;EXC B Miller MIL;" situation="commander reveals syndikat plan">
@@ -6491,7 +6491,7 @@
             <Key ID="str_a3_exp_m07_b05_basilexposition_com_1">
               <Original>Using embedded operatives, CSAT destabilise small, strategically valuable nation states.</Original>
               <Chinese>廣協同盟靠著擾動作戰，來干涉那些小型但富有戰略地位的國家。</Chinese>
-              <Chinesesimp>广协同盟靠着扰动作战，来干涉那些小型但富有战略地位的国家。</Chinesesimp>
+              <Chinesesimp>广协靠着扰动作战，来干涉那些小型但富有战略地位的国家。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_b05_basilexposition_com_2">
               <Original>This strategy - the so-called 'Apex Protocol' - it's a pretext for CSAT diplomats, special advisors - even peacekeeping forces - to deploy.</Original>
@@ -6501,7 +6501,7 @@
             <Key ID="str_a3_exp_m07_b05_basilexposition_com_3">
               <Original>Correct. Grooming a network of pro-CSAT governments.</Original>
               <Chinese>正確。為了扶植親廣協同盟的政權。</Chinese>
-              <Chinesesimp>正确。为了扶植亲广协同盟的政权。</Chinesesimp>
+              <Chinesesimp>正确。为了扶植亲广协的政权。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_b05_basilexposition_lia_0">
               <Original>Resolving their very own chaos...</Original>
@@ -6513,7 +6513,7 @@
             <Key ID="str_a3_exp_m07_b01_sosovusecured_com_0">
               <Original>Hours ago, we secured a CSAT black site on Sosovu Island.</Original>
               <Chinese>幾小時前，我們肅清了廣協同盟在索索武島上的祕密據點。</Chinese>
-              <Chinesesimp>几小时前，我们肃清了广协同盟在索索武岛上的秘密据点。</Chinesesimp>
+              <Chinesesimp>几小时前，我们肃清了广协在索索武岛上的秘密据点。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_b01_sosovusecured_com_1">
               <Original>Thanks in part to a surprise Syndikat attack, we retrieved a significant tranche of intel.</Original>
@@ -7470,7 +7470,7 @@
             <Key ID="str_a3_exp_m01_30_weapons_rik_0">
               <Original>More CSAT weapons.</Original>
               <Chinese>好多廣協同盟的武器。</Chinese>
-              <Chinesesimp>好多广协同盟的武器。</Chinesesimp>
+              <Chinesesimp>好多广协的武器。</Chinesesimp>
             </Key>
           </Container>
           <Container name="25_Search" audioFilePath="\a3\dubbing_f_exp\exp_m01" dialogName="25_Search" dubbingLanguage="english" namePrefix="exp_m01_25_search" note="" participants="EXC B Riker;" situation="support lead orders players to search the building after they cleared it">
@@ -7567,7 +7567,7 @@
           <Key ID="STR_A3_EndGame04_Task04">
             <Original>CSAT recon team disappeared in the jungle. Search for them and try to find out any useful intel they may have.</Original>
             <Chinese>一支廣協同盟的偵察小隊在叢林裡失蹤了。找到他們並取得任何有用的情報。</Chinese>
-            <Chinesesimp>一支广协同盟的侦察小组在丛林里失踪了。找到他们并取得任何有用的情报。</Chinesesimp>
+            <Chinesesimp>一支广协的侦察小组在丛林里失踪了。找到他们并取得任何有用的情报。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_EndGame04_Task05">
             <Original>UAV identified suspicious activity in and nearby the small settlement in the mangroves on the western coast. Investigate it and keep your eyes open for any intel.</Original>
@@ -7661,7 +7661,7 @@
           <Key ID="str_a3_showcase_endgame_taskschematicstext">
             <Original>Secure the %2schematics%1 for CSAT's super weapon. If possible, bring the scientist with you.</Original>
             <Chinese>奪得廣協同盟的超級武器%2藍圖%1。假如可以的話，順便把科學家也帶回來。</Chinese>
-            <Chinesesimp>夺得广协同盟的超级武器%2蓝图%1。假如可以的话，顺便把科学家也带回来。</Chinesesimp>
+            <Chinesesimp>夺得广协的超级武器%2蓝图%1。假如可以的话，顺便把科学家也带回来。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_endgame_taskreinftitle">
             <Original>Wait for Reinforcements</Original>
@@ -7716,7 +7716,7 @@
           <Key ID="str_a3_showcase_endgame_situation">
             <Original>Intel has learned of a CSAT defector trying to sell schematics belonging to an unknown CSAT super-weapon. His last known location was somewhere on Tanoa, where he was quickly captured by the local criminal faction, Syndikat.&lt;br /&gt;&lt;br /&gt;We need to learn the purpose of this CSAT weapon. You are to secure the schematics at all costs before this opportunity gets away from us. Be aware, however, that CSAT aren't going to let them go without a fight. Stay alert.</Original>
             <Chinese>情報顯示一名廣協同盟的叛逃者正打算兜售一件屬於廣協同盟的超級武器藍圖。他的最後已知位置出現在塔諾亞上，在那裡他很快就被當地的犯罪組織辛迪加所綁架。&lt;br/&gt;&lt;br/&gt;我們必須搞清楚這個超級武器的用途。你們必須在機會流失之前不計一切代價奪得這份武器藍圖。但請小心，廣協同盟也不打算把它拱手讓給我們。保持警戒。</Chinese>
-            <Chinesesimp>情报显示一名广协同盟的叛逃者正打算兜售一件属于广协同盟的超级武器蓝图。他的最后已知位置出现在塔诺亚岛上的某处，在那里他很快就被当地的犯罪组织辛迪加所绑架。&lt;br/&gt;&lt;br/&gt;我们必须搞清楚这个超级武器的用途。你们必须在机会流失之前不计一切代价夺得这份武器蓝图。但请小心，广协同盟也不打算把它拱手让给我们。保持警戒。</Chinesesimp>
+            <Chinesesimp>情报显示一名广协的叛逃者正打算兜售一件属于广协的超级武器蓝图。他的最后已知位置出现在塔诺亚岛上的某处，在那里他很快就被当地的犯罪组织辛迪加所绑架。&lt;br/&gt;&lt;br/&gt;我们必须搞清楚这个超级武器的用途。你们必须在机会流失之前不计一切代价夺得这份武器蓝图。但请小心，广协也不打算把它拱手让给我们。保持警戒。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_endgame_sitrep_text">
             <Original>Tanoa, on the coast</Original>
@@ -7741,7 +7741,7 @@
           <Key ID="str_a3_showcase_endgame_mission">
             <Original>You are to move to the AO, neutralize all Syndikat forces, secure the schematics and upload them to our secure servers. Be on the look out for any CSAT and Syndikat presence in and around the AO.</Original>
             <Chinese>你將前往任務地點肅清所有辛迪加的部隊，奪得武器藍圖並上傳到我們的終端機之中。任務過程中請隨時留意任何廣協同盟與辛迪加的活動。</Chinese>
-            <Chinesesimp>你将前往任务地点肃清所有辛迪加的部队，夺得武器蓝图并上传到我们的终端机之中。任务过程中请随时留意任何广协同盟与辛迪加的活动。</Chinesesimp>
+            <Chinesesimp>你将前往任务地点肃清所有辛迪加的部队，夺得武器蓝图并上传到我们的终端机之中。任务过程中请随时留意任何广协与辛迪加的活动。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_endgame_markersupplybox">
             <Original>Supply box</Original>
@@ -7911,12 +7911,12 @@
             <Key ID="str_a3_showcase_endgame_45_schematicstaken_rik_0">
               <Original>Watchtower, schematics are in our possession. That CSAT HVT was already dead. Over.</Original>
               <Chinese>"守望塔"，我們已得到了武器藍圖。但廣協同盟的重要目標卻早已經死了。完畢。</Chinese>
-              <Chinesesimp>"守望塔"，我们已得到了武器蓝图。但广协同盟的重要目标却早已经死了。完毕。</Chinesesimp>
+              <Chinesesimp>"守望塔"，我们已得到了武器蓝图。但广协的重要目标却早已经死了。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_endgame_45_schematicstaken_com_2">
               <Original>Be advised, CSAT and Syndikat will attempt to retrieve them. Stay sharp. Out.</Original>
               <Chinese>請注意，廣協同盟與辛迪加都會想要從你們手中搶回藍圖。保持警覺。通話完畢。</Chinese>
-              <Chinesesimp>请注意，广协同盟与辛迪加都会想要从你们手中抢回蓝图。保持警觉。通话完毕。</Chinesesimp>
+              <Chinesesimp>请注意，广协与辛迪加都会想要从你们手中抢回蓝图。保持警觉。通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_CharlieAttack" audioFilePath="\a3\dubbing_f_exp\showcase_endgame" dialogName="40_CharlieAttack" dubbingLanguage="english" namePrefix="showcase_endgame_40_charlieattack" note="" participants="EXC B Riker;EXC B Grimm;" situation="player calls raider 2 to storm the camp">
@@ -8043,7 +8043,7 @@
             <Key ID="str_a3_showcase_endgame_15_reinforcements_com_3">
               <Original>Recce those positions. Look for any Eastwind int. Expect Syndikat and CSAT in the area.</Original>
               <Chinese>偵察這些位置。尋找任何有關東風裝置的情報。預計你們會遭遇到辛迪加與廣協同盟的人員。</Chinese>
-              <Chinesesimp>侦察这些位置。寻找任何有关东风装置的情报。预计你们会遭遇到辛迪加与广协同盟的人员。</Chinesesimp>
+              <Chinesesimp>侦察这些位置。寻找任何有关东风装置的情报。预计你们会遭遇到辛迪加与广协的人员。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_endgame_15_reinforcements_com_4">
               <Original>RESUP located at the marked grid on your map. Out.</Original>
@@ -8137,7 +8137,7 @@
           <Key ID="STR_A3_MasterTanoaO_missionName">
             <Original>Zeus 16+2 Master Tanoa (CSAT)</Original>
             <Chinese>宙斯16+2主宰塔諾亞(廣協同盟)</Chinese>
-            <Chinesesimp>宙斯16+2主宰塔诺亚(广协同盟)</Chinesesimp>
+            <Chinesesimp>宙斯16+2主宰塔诺亚(广协)</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MasterTanoaI_loadName">
             <Original>Master Tanoa (Syndikat)</Original>
@@ -8147,7 +8147,7 @@
           <Key ID="STR_A3_MasterTanoaO_loadName">
             <Original>Master Tanoa (CSAT)</Original>
             <Chinese>主宰塔諾亞(廣協同盟)</Chinese>
-            <Chinesesimp>主宰塔诺亚(广协同盟)</Chinesesimp>
+            <Chinesesimp>主宰塔诺亚(广协)</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MasterTanoaI_missionName">
             <Original>Zeus 16+2 Master Tanoa (Syndikat)</Original>
@@ -8354,7 +8354,7 @@
           <Key ID="STR_A3_escape_marker_base">
             <Original>CSAT base</Original>
             <Chinese>廣協同盟基地</Chinese>
-            <Chinesesimp>广协同盟基地</Chinesesimp>
+            <Chinesesimp>广协基地</Chinesesimp>
           </Key>
           <Key ID="STR_A3_escape_marker_checkpoint">
             <Original>Checkpoint</Original>

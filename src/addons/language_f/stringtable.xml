@@ -442,7 +442,7 @@
       <Key ID="str_a3_cfghints_orbat0">
         <Original>Units are marked according to their side.%1&lt;img size='1' %6 image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_unknown_ca.paa' /&gt; – BLUFOR (NATO, FIA)%1&lt;img size='1' %7 image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\o_unknown_ca.paa' /&gt; – OPFOR (CSAT)%1&lt;img size='1' %8 image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa' /&gt; – Independent (AAF)%1&lt;img size='1' %9 image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa' /&gt; – Neutral (Civilians)</Original>
         <Chinese>部隊會被標記出他們所屬的陣營。%1&lt;imgsize='1'%6image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_unknown_ca.paa'/&gt;–藍方(北約，自由獨立同盟)%1&lt;imgsize='1'%7image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\o_unknown_ca.paa'/&gt;–紅方(CSAT)%1&lt;imgsize='1'%8image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–中立方(阿爾蒂斯武裝力量)%1&lt;imgsize='1'%9image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–平民</Chinese>
-        <Chinesesimp>部队会被标记出他们所属的阵营。%1&lt;imgsize='1'%6image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_unknown_ca.paa'/&gt;–蓝方(北约，自由独立同盟)%1&lt;imgsize='1'%7image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\o_unknown_ca.paa'/&gt;–红方(CSAT)%1&lt;imgsize='1'%8image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–中立方(阿尔蒂斯武装力量)%1&lt;imgsize='1'%9image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–平民</Chinesesimp>
+        <Chinesesimp>部队会被标记出他们所属的阵营。%1&lt;imgsize='1'%6image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_unknown_ca.paa'/&gt;–蓝方(北约，自由独立同盟)%1&lt;imgsize='1'%7image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\o_unknown_ca.paa'/&gt;–红方(CSAT)%1&lt;imgsize='1'%8image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–中立方(AAF)%1&lt;imgsize='1'%9image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–平民</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_orbat1">
         <Original>Side Markers</Original>
@@ -4143,22 +4143,22 @@
           <Key ID="str_a3_cfgmagazines_2000rnd_762x45_belt0">
             <Original>7.62 mm Minigun Belt</Original>
             <Chinese>7.62公厘迷你砲機槍彈鏈</Chinese>
-            <Chinesesimp>7.62mm 转管机枪弹链</Chinesesimp>
+            <Chinesesimp>7.62mm 机枪弹链</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_green0">
             <Original>12.7 mm RCWS HMG Tracer (Green)</Original>
             <Chinese>12.7公厘遙控砲塔重機槍曳光彈(綠色)</Chinese>
-            <Chinesesimp>12.7mm 遥控炮塔重机枪曳光弹(绿色)</Chinesesimp>
+            <Chinesesimp>12.7mm 遥控武器站重机枪曳光弹(绿色)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_red0">
             <Original>12.7 mm RCWS HMG Tracer (Red)</Original>
             <Chinese>12.7公厘遙控砲塔重機槍曳光彈(紅色)</Chinese>
-            <Chinesesimp>12.7mm 遥控炮塔重机枪曳光弹(红色)</Chinesesimp>
+            <Chinesesimp>12.7mm 遥控武器站重机枪曳光弹(红色)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_yellow0">
             <Original>12.7 mm RCWS HMG Tracer (Yellow)</Original>
             <Chinese>12.7公厘遙控砲塔重機槍曳光彈(黃色)</Chinese>
-            <Chinesesimp>12.7mm 遥控炮塔重机枪曳光弹(黄色)</Chinesesimp>
+            <Chinesesimp>12.7mm 遥控武器站重机枪曳光弹(黄色)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_14rnd_80mm_rockets0">
             <Original>Skyfire</Original>
@@ -4513,7 +4513,7 @@
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag0">
             <Original>12.7 mm RCWS HMG </Original>
             <Chinese>12.7公厘遙控砲塔重機槍</Chinese>
-            <Chinesesimp>12.7mm 遥控炮塔重机枪</Chinesesimp>
+            <Chinesesimp>12.7mm 遥控武器站重机枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_belt0">
             <Original>6.5 mm 200Rnd Belt Case</Original>
@@ -4795,17 +4795,17 @@
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_green1">
             <Original>Caliber: 12.7x99 mm Tracer - Green&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: RCWS</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-綠色&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
-            <Chinesesimp>口径:12.7x99mm 曳光弹-绿色&lt;br/&gt;发数:200&lt;br/&gt;使用于:遥控炮塔</Chinesesimp>
+            <Chinesesimp>口径:12.7x99mm 曳光弹-绿色&lt;br/&gt;发数:200&lt;br/&gt;使用于:遥控武器站</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_red1">
             <Original>Caliber: 12.7x99 mm Tracer - Red&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: RCWS</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-紅色&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
-            <Chinesesimp>口径:12.7x99mm 曳光弹-红色&lt;br/&gt;发数:200&lt;br/&gt;使用于:遥控炮塔</Chinesesimp>
+            <Chinesesimp>口径:12.7x99mm 曳光弹-红色&lt;br/&gt;发数:200&lt;br/&gt;使用于:遥控武器站</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_yellow1">
             <Original>Caliber: 12.7x99 mm Tracer - Yellow&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: RCWS</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-黃色&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
-            <Chinesesimp>口径:12.7x99mm 曳光弹-黄色&lt;br/&gt;发数:200&lt;br/&gt;使用于:遥控炮塔</Chinesesimp>
+            <Chinesesimp>口径:12.7x99mm 曳光弹-黄色&lt;br/&gt;发数:200&lt;br/&gt;使用于:遥控武器站</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_2000rnd_65x39_belt1">
             <Original>Caliber: 6.5x39 mm&lt;br /&gt;Rounds: 2000&lt;br /&gt;Used in: Vehicles</Original>
@@ -4820,7 +4820,7 @@
           <Key ID="str_a3_cfgmagazines_200rnd_40mm_g_belt1">
             <Original>Caliber: 40 mm &lt;br/&gt;Rounds: 200 DSS&lt;br /&gt;Used in: Grenade Launcher, RCWS</Original>
             <Chinese>口徑:40公厘&lt;br/&gt;發數:200DSS&lt;br/&gt;使用於:榴彈發射器，遙控砲塔</Chinese>
-            <Chinesesimp>口径:40mm &lt;br/&gt;发数:200DSS&lt;br/&gt;使用于:榴弹发射器，遥控炮塔</Chinesesimp>
+            <Chinesesimp>口径:40mm &lt;br/&gt;发数:200DSS&lt;br/&gt;使用于:榴弹发射器，遥控武器站</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_belt_tracer_green1">
             <Original>Caliber: 6.5x39 mm Tracer - Green&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: Mk200</Original>
@@ -4840,7 +4840,7 @@
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag1">
             <Original>Caliber: 12.7x99 mm NATO&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: RCWS</Original>
             <Chinese>口徑:12.7x99公厘北約彈&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
-            <Chinesesimp>口径:12.7x99mm 北约弹&lt;br/&gt;发数:200&lt;br/&gt;使用于:遥控炮塔</Chinesesimp>
+            <Chinesesimp>口径:12.7x99mm 北约弹&lt;br/&gt;发数:200&lt;br/&gt;使用于:遥控武器站</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_box_tracer_red1">
             <Original>Caliber: 6.5x39 mm Tracer - Green&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: Mk200</Original>
@@ -6566,12 +6566,12 @@
         <Key ID="str_a3_gmg_40mm0">
           <Original>RCWS GMG 40 mm</Original>
           <Chinese>遙控砲塔40公厘榴彈機槍</Chinese>
-          <Chinesesimp>遥控炮塔40mm 榴弹机枪</Chinesesimp>
+          <Chinesesimp>遥控武器站40mm 榴弹机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_hmg_1270">
           <Original>RCWS HMG 12.7 mm</Original>
           <Chinese>遙控砲塔12.7公厘重機槍</Chinese>
-          <Chinesesimp>遥控炮塔12.7mm 重机枪</Chinesesimp>
+          <Chinesesimp>遥控武器站12.7mm 重机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_hmg_m20">
           <Original>M2 HMG .50</Original>
@@ -6606,7 +6606,7 @@
         <Key ID="str_a3_lmg_rcws0">
           <Original>RCWS LMG 6.5 mm</Original>
           <Chinese>遙控砲塔6.5公厘輕機槍</Chinese>
-          <Chinesesimp>遥控炮塔6.5mm 轻机枪</Chinesesimp>
+          <Chinesesimp>遥控武器站6.5mm 轻机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_lmg_rcws_manual0">
           <Original>MGun</Original>
@@ -13575,7 +13575,7 @@
       <Key ID="str_a3_cfgfactionclasses_ind_f0">
         <Original>AAF</Original>
         <Chinese>阿爾蒂斯武裝力量</Chinese>
-        <Chinesesimp>阿尔蒂斯武装力量</Chinesesimp>
+        <Chinesesimp>AAF</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgfactionclasses_ind_g_f0">
         <Original>FIA</Original>
@@ -13585,7 +13585,7 @@
       <Key ID="str_a3_cfgfactionclasses_opf_f0">
         <Original>CSAT</Original>
         <Chinese>廣協同盟</Chinese>
-        <Chinesesimp>广协同盟</Chinesesimp>
+        <Chinesesimp>广协</Chinesesimp>
       </Key>
       <Container name="ParticleEf">
         <Key ID="str_a3_ruins0">
@@ -13760,7 +13760,7 @@
         <Key ID="str_a3_cfggroups_east_opf_f0">
           <Original>CSAT</Original>
           <Chinese>廣協同盟</Chinese>
-          <Chinesesimp>广协同盟</Chinesesimp>
+          <Chinesesimp>广协</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_east_opf_f_motorized_mtp0">
           <Original>Motorized Infantry</Original>
@@ -14776,7 +14776,7 @@
         <Key ID="STR_A3_CfgVehicles_mrap_02_Base_Library0">
           <Original>The Ifrit is a new Mine-Resistant Ambush Protected (MRAP) vehicle designed and manufactured in Russia. Its strengths lie in reliability in extreme weather conditions and crew protection, but its manufacturing costs are somewhat higher compared to other MRAPs. The Ifrit can be fitted with a RCWS turret and armed with a 12.7 mm heavy machine gun or a 40 mm grenade launcher.</Original>
           <Chinese>"焰靈"是由俄羅斯設計與製造的一種全新防地雷反伏擊車(MRAP)。它的優點是能夠在極端的天候條件下保持可靠性並保護組員免受傷害，但它的製造成本略比其它的防地雷反伏擊車高。"焰靈"可以在其車頂裝上遙控砲塔，並可以在砲塔上裝設12.7公厘重機槍或40公厘榴彈發射器。</Chinese>
-          <Chinesesimp>"焰灵"是由俄罗斯设计与制造的一种全新防地雷反伏击车(MRAP)。它的优点是能够在极端的天候条件下保持可靠性并保护组员免受伤害，但其制造成本比其他的防地雷反伏击车略高。"焰灵"可以在其车顶装上遥控炮塔，并可以在炮塔上装设12.7mm 重机枪或40mm 榴弹发射器。</Chinesesimp>
+          <Chinesesimp>"焰灵"是由俄罗斯设计与制造的一种全新防地雷反伏击车(MRAP)。它的优点是能够在极端的天候条件下保持可靠性并保护组员免受伤害，但其制造成本比其他的防地雷反伏击车略高。"焰灵"可以在其车顶装上遥控武器站，并可以在炮塔上装设12.7mm 重机枪或40mm 榴弹发射器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_armed_01_base_library0">
           <Original>This V shaped boat with two powerful jet impellers excels in speed and maneuverability. It is used by both BLUFOR and OPFOR as a coastline guard boat and for special operations. The speedboat has a front-facing, remote controlled GMG turret. The OPFOR version is commonly equipped with a HMG in the rear, while BLUFOR speedboats are armed with a minigun.</Original>
@@ -14791,7 +14791,7 @@
         <Key ID="str_a3_cfgvehicles_MRAP_01_base_library0">
           <Original>The Hunter is a Mine-Resistant Ambush Protected (MRAP) vehicle manufactured by US arms factories to provide troops with enhanced protection. The armored hull can withstand light weapons and protects the crew against landmines and improvised explosive devices. Even though the heavy armor and powerful engine cause increased fuel consumption, it has been favored by frontline troops over the lighter vehicles for its easy maintenance and good protection level.&lt;br /&gt;Armed version of the sturdy Hunter MRAP vehicle is fitted with a Remotely Controlled Weapons System turret. The turret is fitted with the universal 12.7 mm heavy machinegun or the multi-role 40 mm Grenade Machine Gun. The armed Hunters are used for troop transport in combat zones, as light reconnaissance vehicles or even in fire support role in COIN operations.</Original>
           <Chinese>"獵人"是由美國軍火工廠製造的一種防地雷反伏擊車(MRAP)，提供軍隊增強的保護。它的裝甲可以抵禦輕武器，並且保護乘員免受地雷或簡易爆炸裝置傷害的危險。即使因其使用重裝甲和強大的引擎而讓燃料消耗增加，但它一直因易於維護且有著優良的保護，而讓前線部隊喜愛它遠大於喜愛輕型車輛。&lt;br/&gt;武裝版本的"獵人"，其裝有一個遙控砲塔。這個砲塔使用通用12.7公厘重機槍或多功能40公厘榴彈機槍。武裝版的"獵人"被用於在作戰區域運輸部隊，偵察敵情或提供步兵火力支援。</Chinese>
-          <Chinesesimp>"猎人"是由美国军火工厂制造的一种防地雷反伏击车(MRAP)，提供军队增强的保护。它的装甲可以抵御轻武器，并且保护乘员免受地雷或简易爆炸装置伤害的危险。即使因其使用重装甲和强大的引擎而让燃料消耗增加，但它一直因易于维护且有着优良的保护，而让前线部队喜爱它远大于喜爱轻型车辆。&lt;br/&gt;武装版本的"猎人"，其装有一个遥控炮塔。这个炮塔使用通用12.7mm 重机枪或多功能40mm 榴弹机枪。武装版的"猎人"被用于在作战区域运输部队，侦察敌情或提供步兵火力支援。</Chinesesimp>
+          <Chinesesimp>"猎人"是由美国军火工厂制造的一种防地雷反伏击车(MRAP)，提供军队增强的保护。它的装甲可以抵御轻武器，并且保护乘员免受地雷或简易爆炸装置伤害的危险。即使因其使用重装甲和强大的引擎而让燃料消耗增加，但它一直因易于维护且有着优良的保护，而让前线部队喜爱它远大于喜爱轻型车辆。&lt;br/&gt;武装版本的"猎人"，其装有一个遥控武器站。这个炮塔使用通用12.7mm 重机枪或多功能40mm 榴弹机枪。武装版的"猎人"被用于在作战区域运输部队，侦察敌情或提供步兵火力支援。</Chinesesimp>
         </Key>
       </Container>
       <Container name="DynamicLoadouts">

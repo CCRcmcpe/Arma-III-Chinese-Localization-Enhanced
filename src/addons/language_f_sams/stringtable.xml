@@ -228,7 +228,7 @@
       <Key ID="STR_A3_Radar_System_02_hint_description">
         <Original>The R-750 Cronus radar system is designed for medium-to-long-range aerial threat detection. Its companion S-750 Rhea Surface-Air-Missile system was designed by Russian/CSAT joint syndicate to protect airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. </Original>
         <Chinese>R-750"克羅努斯"雷達系統被用於探測中遠距離空中威脅。其搭配的S-750"美洲鴕"地空飛彈系統被俄羅斯和廣協同盟用於保衛空域免遭外敵入侵。通常會被部署在高價值目標諸如機場和軍事基地附近以阻止遠程空襲。</Chinese>
-        <Chinesesimp>R-750"克罗努斯"雷达系统被用于探测中远距离空中威胁。其搭配的S-750"美洲鸵"地空导弹系统被俄罗斯和广协同盟用于保卫空域免遭外敌入侵。通常会被部署在高价值目标诸如机场和军事基地附近以阻止远程空袭。</Chinesesimp>
+        <Chinesesimp>R-750"克罗努斯"雷达系统被用于探测中远距离空中威胁。其搭配的S-750"美洲鸵"地空导弹系统被俄罗斯和广协用于保卫空域免遭外敌入侵。通常会被部署在高价值目标诸如机场和军事基地附近以阻止远程空袭。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Radar_System_02_DLCbrowser_description">
         <Original>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Original>
@@ -258,7 +258,7 @@
       <Key ID="STR_A3_SAM_System_04_hint_description">
         <Original>The S-750 Rhea Surface-Air-Missile system was designed by Russia to defend its airspace against hostile intrusion. The asset was adapted by CSAT based on a joint CSAT/Russian arms syndicate deal. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. Armed with long-range Rhea missiles, and connected to R-750 Cronus radar via data-link, this system is a serious threat to any opponent.</Original>
         <Chinese>S-750"美洲鴕"地空飛彈系統是俄羅斯設計用於保護其領空免遭敵國入侵的。該系統在一次廣協同盟/俄羅斯一攬子軍貿協定中被廣協同盟引進。通常被部署在高價值目標諸如機場和軍事基地周邊以阻止遠程空中威脅。裝備遠程的"美洲鴕"飛彈，並能和R-750"克羅努斯"雷達通過數據鏈連接，該系統對任何敵對目標都有巨大威脅。</Chinese>
-        <Chinesesimp>S-750"美洲鸵"地空导弹系统是俄罗斯设计用于保护其领空免遭敌国入侵的。该系统在一次广协同盟/俄罗斯一揽子军贸协定中被广协同盟引进。通常被部署在高价值目标诸如机场和军事基地周边以阻止远程空中威胁。装备远程的"美洲鸵"导弹，并能和R-750"克罗努斯"雷达通过数据链连接，该系统对任何敌对目标都有巨大威胁。</Chinesesimp>
+        <Chinesesimp>S-750"美洲鸵"地空导弹系统是俄罗斯设计用于保护其领空免遭敌国入侵的。该系统在一次广协/俄罗斯一揽子军贸协定中被广协引进。通常被部署在高价值目标诸如机场和军事基地周边以阻止远程空中威胁。装备远程的"美洲鸵"导弹，并能和R-750"克罗努斯"雷达通过数据链连接，该系统对任何敌对目标都有巨大威胁。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_SAM_System_04_DLCbrowser_description">
         <Original>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Original>
