@@ -13,7 +13,7 @@ function Build-Addons {
     )
     $addonDest = New-Item (Join-Path $bin $srcName) -ItemType Directory
     foreach ($addonSrc in Get-ChildItem $srcName) {
-        AddonBuilder.exe $addonSrc $addonDest -include="$include" -binarizeAllTextures
+        AddonBuilder.exe $addonSrc $addonDest -include="$include" -binarizeAllTextures -clear
         if (!$?) {
             Write-Error "构建 $srcName 失败"
             return
