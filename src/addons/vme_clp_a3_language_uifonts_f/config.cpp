@@ -6,6 +6,7 @@
 
 #define _ARMA_
 
+//Class vme_clp_a3_language_uifonts_f : config.bin{
 class CfgPatches
 {
 	class VME_CLP_A3_FONTS
@@ -13,51 +14,52 @@ class CfgPatches
 		units[] = {};
 		weapons[] = {};
 		requiredVersion = 0.1;
-		requiredAddons[] = {"A3_Data_F","A3_UiFonts_F"};
+		requiredAddons[] = {"A3_Data_F"};
 	};
 };
 class CfgFontFamilies
 {
 	class EtelkaMonospacePro
 	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK30"};
+		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\MicrosoftYaHei24"};
 	};
 	class EtelkaMonospaceProBold
 	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold30"};
+		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\MicrosoftYaHeiBold24"};
 	};
 	class EtelkaNarrowMediumPro
 	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK30"};
-		spaceWidth = 0.9;
-		spacing = 0.17;
+		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\MicrosoftYaHei24"};
+		spaceWidth = 0.5;
+		spacing = 0.1;
 	};
 	class PuristaBold
 	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold30"};
+		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\MicrosoftYaHeiBold24"};
 	};
 	class PuristaLight
 	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK30"};
+		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\MicrosoftYaHei24"};
 	};
 	class PuristaMedium
 	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK30"};
+		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\MicrosoftYaHei24"};
 	};
 	class PuristaSemibold
 	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold30"};
+		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\MicrosoftYaHeiBold24"};
 	};
 	class RobotoCondensed
 	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK30"};
+		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\MicrosoftYaHei24"};
 	};
 	class RobotoCondensedBold
 	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold30"};
+		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\MicrosoftYaHeiBold24"};
 	};
 	class RobotoCondensedLight
 	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK30"};
+		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\MicrosoftYaHei24"};
 	};
 };
+//};

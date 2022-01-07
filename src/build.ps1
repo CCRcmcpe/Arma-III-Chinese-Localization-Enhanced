@@ -24,6 +24,6 @@ function Build-Addons {
 Build-Addons 'addons'
 Build-Addons 'dta'
 
-Copy-Item $copyItems $bin
+Copy-Item -Recurse $copyItems $bin
 
 Write-Information '构建成功'
