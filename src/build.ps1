@@ -6,13 +6,14 @@ if (Test-Path $bin) {
     Remove-Item -Recurse $bin
 }
 
+$include = Resolve-Path 'include.txt'
 function Build-Addons {
     param (
         [string] $srcName
     )
     $addonDest = New-Item (Join-Path $bin $srcName) -ItemType Directory
     foreach ($addonSrc in Get-ChildItem $srcName) {
-        AddonBuilder.exe $addonSrc $addonDest
+        AddonBuilder.exe $addonSrc $addonDest -include="$include" -binarizeAllTextures
         if (!$?) {
             Write-Error "构建 $srcName 失败"
             return
