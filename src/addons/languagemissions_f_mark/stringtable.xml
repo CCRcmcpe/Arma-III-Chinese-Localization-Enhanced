@@ -69,7 +69,7 @@
           <Key ID="str_a3_showcase_firingfromvehicles_overview">
             <Original>Experience Firing From Vehicles as NATO forces race to rescue AAF hostages.</Original>
             <Chinese>體驗從載具中射擊的功能，並擔當北約的援救小隊，前往援救AAF人質。</Chinese>
-            <Chinesesimp>体验从载具中射击的功能，并担任北约的搜救小队，前往援救AAF人质。</Chinesesimp>
+            <Chinesesimp>体验从载具中射击的功能，并担任北约的搜救小队，前往援救 AAF 人质。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_notification_bis_showcase_ffv_uav_taken_title">
             <Original>BE ADVISED</Original>
@@ -104,17 +104,17 @@
           <Key ID="str_a3_showcase_firingfromvehicles_debriefing_win03_description">
             <Original>You successfully extracted the crew, but Kilo 1 were forced to destroy the helicopter themselves. The actions of the AAF after the fact, however, remain questionable.</Original>
             <Chinese>你成功救出了機組員，但把摧毀直升機的工作留給了"Kilo1"。AAF在最後的行動令我們深感疑問，仍有許多問題需被調查。</Chinese>
-            <Chinesesimp>你成功救出了机组员，但把摧毁直升机的工作留给了Kilo1"。然而AAF在最后的行动仍值得推敲。</Chinesesimp>
+            <Chinesesimp>你成功救出了机组员，但把摧毁直升机的工作留给了 Kilo1"。然而 AAF 在最后的行动仍值得推敲。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_debriefing_win02_description">
             <Original>You successfully extracted the crew, but you failed to destroy the helicopter. The actions of the AAF after the fact, however, remain questionable.</Original>
             <Chinese>你成功救出了機組員，但沒能摧毀直升機。阿爾蒂斯武裝力量在最後的行動令我們深感疑問，仍有許多問題需被調查。</Chinese>
-            <Chinesesimp>你成功救出了机组员，但没能摧毁直升机。然而AAF在最后的行动仍值得推敲。</Chinesesimp>
+            <Chinesesimp>你成功救出了机组员，但没能摧毁直升机。然而 AAF 在最后的行动仍值得推敲。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_debriefing_win01_description">
             <Original>The AAF helicopter was destroyed and the crew were safely extracted. The actions of the AAF after the fact, however, remain questionable.</Original>
             <Chinese>阿爾蒂斯武裝力量的直升機已成功摧毀，並也順利救出機組員。但阿爾蒂斯武裝力量在最後的行動令我們深感疑問，仍有許多問題需被調查。</Chinese>
-            <Chinesesimp>AAF的直升机已成功摧毁，并也顺利救出机组员。然而AAF在最后的行动仍值得推敲。</Chinesesimp>
+            <Chinesesimp>AAF 的直升机已成功摧毁，并也顺利救出机组员。然而 AAF 在最后的行动仍值得推敲。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_debriefing_fail02_subtitle">
             <Original>The Crew are Dead!</Original>
@@ -129,12 +129,12 @@
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_situation_text2">
             <Original>At 1815 hours this evening, a WY-55 Hellcat belonging to the AAF was %1shot down%2 on return from counter-insurgency operations in the northwest. Only the crew were present in the helicopter when it went down, but now they're trapped by the FIA who are closing in on their position.%3The AAF have requested NATO's assistance. As such, %4Kilo 1 and 2%5, and %6Romeo 1 and 2%7, are being deployed to conduct search and rescue on the AAF crew.%8A recon team, callsign Foxtrot, are already on station %9above the crash site%10, awaiting your arrival. They will assist you with dispatching the helicopter and locating the crew.</Original>
             <Chinese>在傍晚18:15時分，一架屬於阿爾蒂斯武裝力量的WY-55"潑婦"，在任務結束回程的路上被%1擊落%2。當時機上只有機組員，他們現在被自由獨立同盟困在墜毀點。%3阿爾蒂斯武裝力量已請求北約進行協助。因為如此，%4"Kilo1"和2%5，還有%6"羅密歐"1"和"2"%7，將被派往執行阿爾蒂斯武裝力量機組員的搜救任務。%8一個呼號叫Foxtrot的偵察小隊已經抵達%9墜毀點附近%10，正等待你們的抵達。他們將協助你們搜索直升機並定位機組員位置。</Chinese>
-            <Chinesesimp>在傍晚18:15时分，一架属于AAF的WY-55"泼妇"直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被FIA困在坠毁点。%3AAF已请求北约进行协助。因为如此，%4Kilo1"和2%5，还有%6Romeo1"和"2"%7，将被派往执行AAF机组员的搜救任务。%8一个呼号叫Foxtrot的侦察小队已经抵达%9坠毁点附近%10，正等待你们的抵达。他们将协助你们搜索直升机并定位机组员位置。</Chinesesimp>
+            <Chinesesimp>在傍晚18:15时分，一架属于 AAF 的 WY-55"泼妇"直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被 FIA 困在坠毁点。%3AAF 已请求北约进行协助。因为如此，%4Kilo1"和2%5，还有%6Romeo1"和"2"%7，将被派往执行 AAF 机组员的搜救任务。%8一个呼号叫 Foxtrot 的侦察小队已经抵达%9坠毁点附近%10，正等待你们的抵达。他们将协助你们搜索直升机并定位机组员位置。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_situation_text1">
             <Original>At 1815 hours this evening, a WY-55 Hellcat belonging to the AAF was %1shot down%2 on return from counter-insurgency operations in the northwest. Only the crew were present in the helicopter when it went down, but now they're trapped by the FIA who are closing in on their position.%3The AAF have requested NATO's assistance. As such, %4Kilo 1 and 2%5, and %6Romeo 1 and 2%7, are being deployed to conduct search and rescue on the AAF crew.</Original>
             <Chinese>在傍晚18:15時分，一架屬於阿爾蒂斯武裝力量的WY-55"潑婦"，在任務結束回程的路上被%1擊落%2。當時機上只有機組員，他們現在被自由獨立同盟困在墜毀點。%3阿爾蒂斯武裝力量已請求北約進行協助。因為如此，%4Kilo1"和2%5，還有%6"羅密歐"1"和"2"%7，將被派往執行阿爾蒂斯武裝力量機組員的搜救任務。</Chinese>
-            <Chinesesimp>在傍晚18:15时分，一架属于AAF的WY-55"泼妇"直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被FIA困在坠毁点。%3AAF已请求北约进行协助。因为如此，%4Kilo1"和2%5，还有%6Romeo1"和"2"%7，将被派往执行AAF机组员的搜救任务。</Chinesesimp>
+            <Chinesesimp>在傍晚18:15时分，一架属于 AAF 的 WY-55"泼妇"直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被 FIA 困在坠毁点。%3AAF 已请求北约进行协助。因为如此，%4Kilo1"和2%5，还有%6Romeo1"和"2"%7，将被派往执行 AAF 机组员的搜救任务。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_signal_text2">
             <Original>%1Kilo 1%2 - Lead element.%3%4Kilo 2%5 - Your team.%6%7Romeo%8 - Transport MH-9 Hummingbirds.%9Broadway - Headquarters.%10%11Foxtrot%12 - Recon element.%13Archangel - Inbound Greyhawk UAV.</Original>
@@ -149,12 +149,12 @@
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_mission_text">
             <Original>%1Romeo 1%2 and %3Romeo 2%4 will transport you to %5the crash site%6, where upon you will conduct search and rescue for the downed AAF helicopter's crew. Upon their safe extraction, you are to destroy the wreckage of the helicopter to prevent it from falling into the hands of the FIA.</Original>
             <Chinese>%1"羅密歐"1%2和%3"羅密歐"2%4將帶你們前往%5墜機點%6，你們將在那裡進行搜救阿爾蒂斯武裝力量直升機機組員的任務。在救出機組員後，你們必須摧毀直升機，避免其落入自由獨立同盟之手。</Chinese>
-            <Chinesesimp>%1Romeo1%2和%3Romeo2%4将带你们前往%5坠机点%6，你们将在那里进行搜救AAF直升机机组员的任务。在救出机组员后，你们必须摧毁直升机，避免其落入FIA之手。</Chinesesimp>
+            <Chinesesimp>%1Romeo1%2和%3Romeo2%4将带你们前往%5坠机点%6，你们将在那里进行搜救 AAF 直升机机组员的任务。在救出机组员后，你们必须摧毁直升机，避免其落入 FIA 之手。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_execution_text">
             <Original>1. Move to the &lt;marker name = 'BIS_crashSite'&gt;crash site&lt;/marker&gt;.&lt;br/&gt;2. Extract the AAF crew.&lt;br/&gt;3. Destroy the helicopter.</Original>
             <Chinese>1. 前往&lt;markername='BIS_crashSite'&gt;墜機點&lt;/marker&gt;。&lt;br/&gt;2. 救出阿爾蒂斯武裝力量機組員。&lt;br/&gt;3. 摧毀直升機。</Chinese>
-            <Chinesesimp>1. 前往&lt;markername='BIS_crashSite'&gt;坠机点&lt;/marker&gt;。&lt;br/&gt;2. 救出AAF机组员。&lt;br/&gt;3. 摧毁直升机。</Chinesesimp>
+            <Chinesesimp>1. 前往&lt;markername='BIS_crashSite'&gt;坠机点&lt;/marker&gt;。&lt;br/&gt;2. 救出 AAF 机组员。&lt;br/&gt;3. 摧毁直升机。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_bis_roe_title">
             <Original>Follow the ROE</Original>
@@ -174,7 +174,7 @@
           <Key ID="str_a3_showcase_firingfromvehicles_bis_locate_desc">
             <Original>Search %1the indicated area%2 for the downed AAF helicopter.</Original>
             <Chinese>搜索%1指定的區域%2來找到墜毀的阿爾蒂斯武裝力量直升機。</Chinese>
-            <Chinesesimp>搜索%1指定的区域%2来找到坠毁的AAF直升机。</Chinesesimp>
+            <Chinesesimp>搜索%1指定的区域%2来找到坠毁的 AAF 直升机。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_bis_loc2_title">
             <Original>Search the Outpost</Original>
@@ -189,7 +189,7 @@
           <Key ID="str_a3_showcase_firingfromvehicles_bis_loc2_desc">
             <Original>Search %1the outpost%2 for the AAF helicopter crew.</Original>
             <Chinese>搜索%1前哨%2，尋找阿爾蒂斯武裝力量直升機機組員。</Chinese>
-            <Chinesesimp>搜索%1前哨%2，寻找AAF直升机机组员。</Chinesesimp>
+            <Chinesesimp>搜索%1前哨%2，寻找 AAF 直升机机组员。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_bis_loc1_title">
             <Original>Search the Gas Station</Original>
@@ -204,7 +204,7 @@
           <Key ID="str_a3_showcase_firingfromvehicles_bis_loc1_desc">
             <Original>Search %1the gas station%2 for the AAF helicopter crew.</Original>
             <Chinese>搜索%1加油站%2，尋找阿爾蒂斯武裝力量直升機機組員。</Chinese>
-            <Chinesesimp>搜索%1加油站%2，寻找AAF直升机机组员。</Chinesesimp>
+            <Chinesesimp>搜索%1加油站%2，寻找 AAF 直升机机组员。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_bis_extract_title">
             <Original>Extract</Original>
@@ -219,7 +219,7 @@
           <Key ID="str_a3_showcase_firingfromvehicles_bis_extract_desc">
             <Original>Await UH-80 Ghost Hawk extraction, callsign Thunder.</Original>
             <Chinese>等待UH-80"鬼鷹"運輸直升機進行撤離，它的呼號是"雷電"。</Chinese>
-            <Chinesesimp>等待UH-80"幽灵鹰"运输直升机进行撤离，它的呼号是"雷电"。</Chinesesimp>
+            <Chinesesimp>等待 UH-80"幽灵鹰"运输直升机进行撤离，它的呼号是"雷电"。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_bis_destroy_title">
             <Original>Destroy the Helicopter</Original>
@@ -229,7 +229,7 @@
           <Key ID="str_a3_showcase_firingfromvehicles_bis_destroy_desc">
             <Original>Destroy the downed AAF helicopter to prevent it from falling into FIA hands.</Original>
             <Chinese>摧毀墜毀的阿爾蒂斯武裝力量直升機，避免其落入自由獨立同盟之手。</Chinese>
-            <Chinesesimp>摧毁坠毁的AAF直升机，避免其落入FIA之手。</Chinesesimp>
+            <Chinesesimp>摧毁坠毁的 AAF 直升机，避免其落入 FIA 之手。</Chinesesimp>
           </Key>
           <Container name="x15_UAV_Punish" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="x15_UAV_Punish" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_x15_uav_punish" note="" participants="MARK B Team A;" situation="players failed to destroy the wreck in time">
             <Key ID="str_a3_showcase_firingfromvehicles_x15_uav_punish_sfa_0">
@@ -268,12 +268,12 @@
             <Key ID="str_a3_showcase_firingfromvehicles_50_artillery_bhq_0">
               <Original>Understood, Kilo 1. It's not us. Checking with AAF command. Wait one.</Original>
               <Chinese>了解，"Kilo1"。那不是我們幹的。正在與AAF指揮官確認中。請稍等。</Chinese>
-              <Chinesesimp>了解，Kilo1"。那不是我们干的。正在与AAF指挥部确认中。请稍等。</Chinesesimp>
+              <Chinesesimp>了解，Kilo1"。那不是我们干的。正在与 AAF 指挥部确认中。请稍等。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_50_artillery_bhq_1">
               <Original>Confirmed, Kilo 1. It's the AAF. We've advised them to cease fire. It's on them now. How copy?</Original>
               <Chinese>確認了，"Kilo1"。是阿爾蒂斯武裝力量幹的。我們已建議他們停火。但只能由他們決定。有收到嗎?</Chinese>
-              <Chinesesimp>确认了，Kilo1"。是AAF干的。我们已建议他们停火。但只能由他们决定。有收到吗?</Chinesesimp>
+              <Chinesesimp>确认了，Kilo1"。是 AAF 干的。我们已建议他们停火。但只能由他们决定。有收到吗?</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_50_artillery_sfa_0">
               <Original>Woah! What the fuck?!</Original>
@@ -298,19 +298,19 @@
             <Key ID="str_a3_showcase_firingfromvehicles_50_artillery_sfa_4">
               <Original>Affirmative, Broadway. Kilo out.</Original>
               <Chinese>了解，"百老匯"。Kilo通話完畢。</Chinese>
-              <Chinesesimp>了解，"百老汇"。Kilo通话完毕。</Chinesesimp>
+              <Chinesesimp>了解，"百老汇"。Kilo 通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="45_Extracted" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="45_Extracted" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_45_extracted" note="" participants="MARK B Team A;MARK B HQ;" situation="all units have successfully extracted from the area">
             <Key ID="str_a3_showcase_firingfromvehicles_45_extracted_bhq_0">
               <Original>Outstanding. Relaying to AAF command. Broadway out.</Original>
               <Chinese>幹得好。我們會通知阿爾蒂斯武裝力量的指揮官。"百老匯"通話完畢。</Chinese>
-              <Chinesesimp>干得好。我们会通知AAF的指挥官。"百老汇"通话完毕。</Chinesesimp>
+              <Chinesesimp>干得好。我们会通知 AAF 的指挥官。"百老汇"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_45_extracted_sfa_0">
               <Original>Broadway, be advised, Kilo is RTB with the package in tow. How copy?</Original>
               <Chinese>"百老匯"，請注意，Kilo正帶著人質返回基地。有收到嗎?</Chinese>
-              <Chinesesimp>"百老汇"，请注意，Kilo正带着人质返回基地。有收到吗?</Chinesesimp>
+              <Chinesesimp>"百老汇"，请注意，Kilo 正带着人质返回基地。有收到吗?</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_All_In" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="40_All_In" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_40_all_in" note="" participants="MARK B Team A;" situation="all units have boarded the helicopter">
@@ -334,14 +334,14 @@
             <Key ID="str_a3_showcase_firingfromvehicles_35_crew_found_sfa_1">
               <Original>Solid copy, Broadway. We'll prep the LZ. Kilo out.</Original>
               <Chinese>完整收到，"百老匯"。我們正在預備降落點。Kilo通話完畢。</Chinese>
-              <Chinesesimp>完整收到，"百老汇"。我们正在预备降落点。Kilo通话完毕。</Chinesesimp>
+              <Chinesesimp>完整收到，"百老汇"。我们正在预备降落点。Kilo 通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="33_Church_Clear" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="33_Church_Clear" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_33_church_clear" note="" participants="MARK B Team A;" situation="the other team has cleared the church but found no hostages">
             <Key ID="str_a3_showcase_firingfromvehicles_33_church_clear_sfa_0">
               <Original>Kilo 1 to Kilo 2, the church is clear. No sign of the hostages. Starting our sweep. Kilo 1 out.</Original>
               <Chinese>"Kilo1"呼叫"Kilo2"，教堂已肅清。沒有發現到人質。我們將開始掃蕩附近。"Kilo1"通話完畢。</Chinese>
-              <Chinesesimp>Kilo1"呼叫Kilo2"，教堂已肃清。没有发现到人质。我们将开始扫荡附近。Kilo1"通话完毕。</Chinesesimp>
+              <Chinesesimp>Kilo1"呼叫 Kilo2"，教堂已肃清。没有发现到人质。我们将开始扫荡附近。Kilo1"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="32_Church_Contact" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="32_Church_Contact" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_32_church_contact" note="" participants="MARK B Team A;" situation="the other team starts engaging enemies at the church">
@@ -395,7 +395,7 @@
             <Key ID="str_a3_showcase_firingfromvehicles_30_bug_out_sfa_0">
               <Original>Copy, Broadway. Kilo out.</Original>
               <Chinese>收到，"百老匯"。Kilo通話完畢。</Chinese>
-              <Chinesesimp>收到，"百老汇"。Kilo通话完毕。</Chinesesimp>
+              <Chinesesimp>收到，"百老汇"。Kilo 通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="25_Plan" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="25_Plan" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_25_plan" note="" participants="MARK B Team A;MARK B HQ;MARK B Heli;" situation="sf team inserted, reiterates the plan">
@@ -439,7 +439,7 @@
             <Key ID="str_a3_showcase_firingfromvehicles_23_orders_bhq_1">
               <Original>Romeo, drop Kilo at Syrta. Kilo, you are to sweep the town and locate the crew.</Original>
               <Chinese>"羅密歐"，把Kilo投放在西爾塔。Kilo，你們將掃蕩小鎮並搜索機組員。</Chinese>
-              <Chinesesimp>Romeo，把Kilo投放在"西尔塔"。Kilo，你们将扫荡小镇并搜索机组员。</Chinesesimp>
+              <Chinesesimp>Romeo，把 Kilo 投放在"西尔塔"。Kilo，你们将扫荡小镇并搜索机组员。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_23_orders_bhq_2">
               <Original>The 3 locations are: one church, grid 086 183.</Original>
@@ -464,7 +464,7 @@
             <Key ID="str_a3_showcase_firingfromvehicles_23_orders_bhq_5">
               <Original>Copy, Romeo 1. Romeo 2, RTB after unloading Kilo 1.</Original>
               <Chinese>收到，"羅密歐"1"。"羅密歐"2"，請等待卸載完"Kilo1"後就返回基地。</Chinese>
-              <Chinesesimp>收到，Romeo1"。Romeo2"，请等待卸载完Kilo1"后就返回基地。</Chinesesimp>
+              <Chinesesimp>收到，Romeo1"。Romeo2"，请等待卸载完 Kilo1"后就返回基地。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_23_orders_bhq_6">
               <Original>Kilo, we'll arrange alternate extraction for you. Further info to follow at a later time. How copy?</Original>
@@ -474,7 +474,7 @@
             <Key ID="str_a3_showcase_firingfromvehicles_23_orders_sfa_1">
               <Original>Kilo copies all. En route.</Original>
               <Chinese>Kilo完整抄收。正在路上了。</Chinese>
-              <Chinesesimp>Kilo完整抄收。正在路上了。</Chinesesimp>
+              <Chinesesimp>Kilo 完整抄收。正在路上了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_23_orders_hel_0">
               <Original>Broadway, Romeo 2's pretty banged up. Please advise, over.</Original>
@@ -484,7 +484,7 @@
             <Key ID="str_a3_showcase_firingfromvehicles_23_orders_sfa_2">
               <Original>Solid copy, Broadway. Kilo out.</Original>
               <Chinese>完整收到，"百老匯"。Kilo通話完畢。</Chinese>
-              <Chinesesimp>完整收到，"百老汇"。Kilo通话完毕。</Chinesesimp>
+              <Chinesesimp>完整收到，"百老汇"。Kilo 通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_Destroyed" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="20_Destroyed" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_20_destroyed" note="" participants="MARK B Team A;MARK B HQ;" situation="the downed helicopter wreckage was destroyed. feeds into 23_orders">
@@ -503,7 +503,7 @@
             <Key ID="str_a3_showcase_firingfromvehicles_20b_destroyed_remote_bhq_0">
               <Original>Copy, Kilo 1. The technicals split up. Foxtrot have 3 potential locations in the vicinity of Syrta.</Original>
               <Chinese>收到，"Kilo1"。剛剛的武裝越野車分散了。Foxtrot掌握了3個在西爾塔城市可能的位置。</Chinese>
-              <Chinesesimp>收到，Kilo1"。刚刚的武装越野车分散了。Foxtrot掌握了3个在西尔塔城内可能的位置。</Chinesesimp>
+              <Chinesesimp>收到，Kilo1"。刚刚的武装越野车分散了。Foxtrot 掌握了3个在西尔塔城内可能的位置。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_20b_destroyed_remote_sfa_0">
               <Original>Broadway, wreckage neutralized. Where are the crew? Over.</Original>
@@ -592,7 +592,7 @@
             <Key ID="str_a3_showcase_firingfromvehicles_15b_technical_remote_sfa_4">
               <Original>Someone connect to Foxtrot's camera and designate that helicopter!</Original>
               <Chinese>來人阿，快去連接Foxtrot的雷射指示器並標定那架直升機!</Chinese>
-              <Chinesesimp>谁快去连接Foxtrot的激光指示器并照射那架直升机!</Chinesesimp>
+              <Chinesesimp>谁快去连接 Foxtrot 的激光指示器并照射那架直升机!</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_Located" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="10_Located" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_10_located" note="" participants="MARK B Team A;MARK B Heli;MARK B HQ;" situation="helicopters spot the downed helicopter that they're looking for">
@@ -621,7 +621,7 @@
             <Key ID="str_a3_showcase_firingfromvehicles_10b_located_remote_bhq_0">
               <Original>Kilo 1, Broadway. Understood. Foxtrot confirms that the hostages are no longer at the crash site. You're clear to engage all targets. Over.</Original>
               <Chinese>"Kilo1"，"百老匯"。了解。Foxtrot確認人質已不在墜機點了。你們可以開始攻擊敵人。完畢。</Chinese>
-              <Chinesesimp>Kilo1"，"百老汇"。了解。Foxtrot确认人质已不在坠机点了。你们可以开始攻击敌人。完毕。</Chinesesimp>
+              <Chinesesimp>Kilo1"，"百老汇"。了解。Foxtrot 确认人质已不在坠机点了。你们可以开始攻击敌人。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_10b_located_remote_hel_0">
               <Original>Taking fire, here!</Original>
@@ -665,12 +665,12 @@
             <Key ID="str_a3_showcase_firingfromvehicles_01_spotted_bhq_0">
               <Original>Acknowledged. UAV recon, callsign 'Archangel', reports 3 FIA technicals leaving the vicinity of the helo wreck. Looks like you've been spotted. Over.</Original>
               <Chinese>了解。據呼號為'大天使'的無人偵察機回報，有3輛自由獨立同盟的武裝越野車駛離了殘骸。看來你們被發現了。完畢。</Chinese>
-              <Chinesesimp>了解。据呼号为'大天使'的无人侦察机回报，有3辆FIA的武装越野车驶离了残骸。看来你们被发现了。完毕。</Chinesesimp>
+              <Chinesesimp>了解。据呼号为'大天使'的无人侦察机回报，有3辆 FIA 的武装越野车驶离了残骸。看来你们被发现了。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_01_spotted_bhq_1">
               <Original>It's possible they have the AAF crew members on board. Their command's getting antsy. We'll keep you updated. Broadway out.</Original>
               <Chinese>AAF機組員很有可能已經被載走。他們的指揮官越來越煩躁了。我們將持續更新情報。"百老匯"通話完畢。</Chinese>
-              <Chinesesimp>AAF机组员很有可能已经被载走。他们的指挥部越来越烦躁了。我们将持续更新情报。"百老汇"通话完毕。</Chinesesimp>
+              <Chinesesimp>AAF 机组员很有可能已经被载走。他们的指挥部越来越烦躁了。我们将持续更新情报。"百老汇"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_01_spotted_sfa_0">
               <Original>Broadway, Kilo 1. Be advised, we're a minute out from the crash site. Over.</Original>
@@ -687,12 +687,12 @@
             <Key ID="str_a3_showcase_firingfromvehicles_01b_spotted_remote_bhq_0">
               <Original>Acknowledged. Looks like you've been spotted. Foxtrot's pursuing 3 FIA technicals leaving the vicinity of the helo wreck. Over.</Original>
               <Chinese>了解。看來你們被發現了。Foxtrot正在追擊3輛駛離殘骸的自由獨立同盟武裝越野車。完畢。</Chinese>
-              <Chinesesimp>了解。看来你们被发现了。Foxtrot正在追踪3辆驶离残骸的FIA武装越野车。完毕。</Chinesesimp>
+              <Chinesesimp>了解。看来你们被发现了。Foxtrot 正在追踪3辆驶离残骸的 FIA 武装越野车。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_01b_spotted_remote_bhq_1">
               <Original>Foxtrot thinks the AAF crew members are in the technicals. AAF command's getting antsy. We'll keep you updated. Broadway out.</Original>
               <Chinese>Foxtrot認為AAF的機組員就在那些車輛上。他們的指揮官越來越煩躁了。我們將持續更新情報。"百老匯"通話完畢。</Chinese>
-              <Chinesesimp>Foxtrot认为AAF的机组员就在那些车辆上。他们的指挥部越来越烦躁了。我们将持续更新情报。"百老汇"通话完毕。</Chinesesimp>
+              <Chinesesimp>Foxtrot 认为 AAF 的机组员就在那些车辆上。他们的指挥部越来越烦躁了。我们将持续更新情报。"百老汇"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_01b_spotted_remote_sfa_0">
               <Original>Broadway, Kilo 1. Be advised, we're a minute out from the crash site. Over.</Original>
@@ -918,7 +918,7 @@
             <Key ID="str_a3_showcase_marksman_01_prologue_pla_0">
               <Original>Viper-Black to Viper-Red, I am closing in on the FIA position. Preparing to engage. Over.</Original>
               <Chinese>"毒蛇-黑"呼叫"毒蛇-紅"，我正靠近自由獨立同盟的位置。準備接敵。完畢。</Chinese>
-              <Chinesesimp>"毒蛇-黑"呼叫"毒蛇-红"，我正靠近FIA的阵地。准备接敌。完毕。</Chinesesimp>
+              <Chinesesimp>"毒蛇-黑"呼叫"毒蛇-红"，我正靠近 FIA 的阵地。准备接敌。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_marksman_01_prologue_pla_1">
               <Original>Copy. Viper-Black out.</Original>
@@ -929,7 +929,7 @@
           <Key ID="STR_A3_Showcase_Marksman_Showcase_Summary_text">
             <Original>Utilize your marksman rifle and the new weapon stabilization features to carry out counter-insurgency operations against FIA forces.</Original>
             <Chinese>利用你的精準射手步槍與新的武器穩定功能，來對自由獨立同盟的叛亂行動進行打擊。</Chinese>
-            <Chinesesimp>利用你的精准射手步枪与新的武器稳定功能，来针对FIA实施反叛乱作战。</Chinesesimp>
+            <Chinesesimp>利用你的精准射手步枪与新的武器稳定功能，来针对 FIA 实施反叛乱作战。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_SITREP_text">
             <Original>Southern Altis, near the coast</Original>
@@ -964,7 +964,7 @@
           <Key ID="STR_A3_Showcase_Marksman_Debriefing_Win01_text">
             <Original>You have succeeded in delivering a significant blow to the FIA's operations.</Original>
             <Chinese>你的行動已成功對自由獨立同盟造成顯著的打擊。</Chinese>
-            <Chinesesimp>你的行动已成功对FIA造成显着的打击。</Chinesesimp>
+            <Chinesesimp>你的行动已成功对 FIA 造成显着的打击。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_mrkVilla">
             <Original>Insurgent HQ</Original>
@@ -984,17 +984,17 @@
           <Key ID="STR_A3_Showcase_Marksman_Briefing_Execution_text">
             <Original>1. Search the designated area and locate the FIA HQ.  &lt;br /&gt;2. Eliminate all hostiles in the vicinity.  &lt;br /&gt;3. Make a sweep for any valuable intel.</Original>
             <Chinese>1. 搜索指定區域，找到自由獨立同盟的指揮部。&lt;br/&gt;2. 殲滅附近所有的敵人。&lt;br/&gt;3. 搜索任何有用的情報。</Chinese>
-            <Chinesesimp>1. 搜索指定区域，找到FIA的指挥部。&lt;br/&gt;2. 歼灭附近所有的敌人。&lt;br/&gt;3. 搜索任何有用的情报。</Chinesesimp>
+            <Chinesesimp>1. 搜索指定区域，找到 FIA 的指挥部。&lt;br/&gt;2. 歼灭附近所有的敌人。&lt;br/&gt;3. 搜索任何有用的情报。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_Briefing_Mission_text">
             <Original>You are to raid the FIA HQ and search for any valuable intel. According to the AAF, the FIA rely more on camouflage instead of strong defenses. Expect limited resistance.</Original>
             <Chinese>你將掃蕩自由獨立同盟的指揮部，並搜索任何有用的情報。根據AAF的情報，自由獨立同盟指揮部有著許多的偽裝多過他們所設的防守兵力。預期將會遇到有限的抵抗。</Chinese>
-            <Chinesesimp>你要突袭FIA的指挥部，并搜索任何有用的情报。根据AAF的情报，FIA主要依靠伪装而非强大的防御以自保。预期将会遇到有限的抵抗。</Chinesesimp>
+            <Chinesesimp>你要突袭 FIA 的指挥部，并搜索任何有用的情报。根据 AAF 的情报，FIA 主要依靠伪装而非强大的防御以自保。预期将会遇到有限的抵抗。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_Debriefing_Win02_text">
             <Original>You have succeeded in delivering a significant blow to the FIA's operations. Unfortunately, Viper-Green was KIA.</Original>
             <Chinese>你的行動已成功對自由獨立同盟造成顯著的打擊。但不幸的是，"毒蛇-綠"卻在行動中陣亡了。</Chinese>
-            <Chinesesimp>你的行动已成功对FIA造成显着的打击。但不幸的是，"毒蛇-绿"却在行动中阵亡了。</Chinesesimp>
+            <Chinesesimp>你的行动已成功对 FIA 造成显着的打击。但不幸的是，"毒蛇-绿"却在行动中阵亡了。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_SerpentAttack">
             <Original>Serpent - attack</Original>
@@ -1009,7 +1009,7 @@
           <Key ID="STR_A3_Showcase_Marksman_Briefing_Situation_text">
             <Original>You, Viper-Black, have been deployed to the southern peninsula as part of our on-going counter-insurgency operations against the FIA. Your objective this evening will be to sweep and clear a suspected FIA HQ located southwest of Sfaka.</Original>
             <Chinese>做為對抗自由獨立同盟叛亂行動的一部分，"毒蛇-黑"(你)將被佈署到半島南方並展開破壞自由獨立同盟的行動。你的任務就是在傍晚時分，前往肅清自由獨立同盟位在斯卡法西南方向的指揮部。</Chinese>
-            <Chinesesimp>做为对抗FIA的反叛乱作战的一部分，"毒蛇-黑"(你)将被布署到半岛南方并开展行动。你今晚的任务就是在傍晚时分前往肃清FIA位在斯法卡西南的指挥部。</Chinesesimp>
+            <Chinesesimp>做为对抗 FIA 的反叛乱作战的一部分，"毒蛇-黑"（你）将被布署到半岛南方并开展行动。你今晚的任务就是在傍晚时分前往肃清 FIA 位在斯法卡西南的指挥部。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskGetIn_description">
             <Original>Await Hydra's arrival.</Original>
@@ -1029,7 +1029,7 @@
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskIntel_description">
             <Original>Sweep the FIA HQ for any valuable intel.</Original>
             <Chinese>搜索自由獨立同盟指揮部裡任何有用的情報。</Chinese>
-            <Chinesesimp>搜索FIA指挥部里任何有用的情报。</Chinesesimp>
+            <Chinesesimp>搜索 FIA 指挥部里任何有用的情报。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskIntel_title">
             <Original>Search for Intel</Original>
@@ -1039,12 +1039,12 @@
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskVilla_description">
             <Original>Locate, sweep, and clear a local FIA HQ established somewhere %2southwest of Sfaka%1.</Original>
             <Chinese>搜尋並掃蕩位在%2斯卡法西南方向%1的自由獨立同盟指揮部。</Chinese>
-            <Chinesesimp>搜寻并扫荡位在%2斯法卡西南%1的FIA指挥部。</Chinesesimp>
+            <Chinesesimp>搜寻并扫荡位在%2斯法卡西南%1的 FIA 指挥部。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskVilla_title">
             <Original>Raid the FIA HQ</Original>
             <Chinese>突襲自由獨立同盟指揮部</Chinese>
-            <Chinesesimp>突袭FIA指挥部</Chinesesimp>
+            <Chinesesimp>突袭 FIA 指挥部</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskLZ_description">
             <Original>Investigate %2grid 094-082%1. Clear the area of all hostiles before calling in Hydra.</Original>
@@ -1406,7 +1406,7 @@
           <Key ID="STR_A3_VR_WH2_title">
             <Original>Weapon Handling II</Original>
             <Chinese>武器操控II</Chinese>
-            <Chinesesimp>武器操控II</Chinesesimp>
+            <Chinesesimp>武器操控 II</Chinesesimp>
           </Key>
           <Key ID="STR_A3_VR_WH1_stage3">
             <Original>Weapon sway</Original>
@@ -1426,7 +1426,7 @@
           <Key ID="STR_A3_VR_WH3_title">
             <Original>Weapon Handling III</Original>
             <Chinese>武器操控III</Chinese>
-            <Chinesesimp>武器操控III</Chinesesimp>
+            <Chinesesimp>武器操控 III</Chinesesimp>
           </Key>
           <Key ID="STR_A3_VR_WH2_stage3">
             <Original>Weapon Stabilization</Original>
@@ -1483,7 +1483,7 @@
           <Key ID="STR_A3_FIRING_DRILLS_MARKER_PURPLE">
             <Original>Purple (Firing Drills)</Original>
             <Chinese>紫色(射擊訓練)</Chinese>
-            <Chinesesimp>紫色(射击训练)</Chinesesimp>
+            <Chinesesimp>紫色（射击训练）</Chinesesimp>
           </Key>
           <Key ID="str_a3_firing_drills_special">
             <Original>Special</Original>

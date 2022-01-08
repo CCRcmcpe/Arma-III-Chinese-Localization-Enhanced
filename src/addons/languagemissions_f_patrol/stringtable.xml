@@ -260,7 +260,7 @@
       <Key ID="str_a3_combatpatrol_mission_6">
         <Original>Two enemy vehicles are stationed in target area. According to our intel, vehicles carry essential supplies. AO is guarded by a Platoon-sized FLAME paramilitary element. Further motorized reinforcements are expected within the 5-minutes radius from the AO.</Original>
         <Chinese>有兩輛敵方載具駐紮在任務區中。根據情報顯示，這些載具攜帶著軍需品。任務區被排級大小的FLAME準軍事部隊防守著。而他們還有摩托化援軍在任務區5分鐘路程外的地方。</Chinese>
-        <Chinesesimp>有两辆敌方载具驻扎在任务区中。根据情报显示，这些载具携带着军需品。任务区被排级大小的FLAME准军事部队防守着。而他们还有摩托化援军在任务区5分钟路程外的地方。</Chinesesimp>
+        <Chinesesimp>有两辆敌方载具驻扎在任务区中。根据情报显示，这些载具携带着军需品。任务区被排级大小的 FLAME 准军事部队防守着。而他们还有摩托化援军在任务区5分钟路程外的地方。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_59">
         <Original>Search the AO for the two supply vehicles and destroy them.</Original>
@@ -310,7 +310,7 @@
       <Key ID="str_a3_combatpatrol_mission_50">
         <Original>- Find the HVT (wearing officer fatigues) and eliminate him.&lt;br/&gt;- Once the inspection is over, the HVT is expected to leave the AO in his MRAP vehicle to a %1neighbouring settlement%2 under OPFOR control. Do not expect him to remain if our presence is detected.</Original>
         <Chinese>-找到高價值目標(著軍官服)並殲滅之。&lt;br/&gt;-當訪查結束後，高價值目標便會搭乘防地雷反伏擊車前往被敵方掌控的%1鄰鎮%2。不要期待在我們被發現後他還會待在原處。</Chinese>
-        <Chinesesimp>-找到高价值目标(着军官服)并歼灭之。&lt;br/&gt;-当访查结束后，高价值目标便会搭乘防地雷反伏击车前往被敌方掌控的%1邻镇%2。不要期待在我们被发现后他还会待在原处。</Chinesesimp>
+        <Chinesesimp>-找到高价值目标（着军官服）并歼灭之。&lt;br/&gt;-当访查结束后，高价值目标便会搭乘防地雷反伏击车前往被敌方掌控的%1邻镇%2。不要期待在我们被发现后他还会待在原处。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_5">
         <Original>Conduct combat patrol in the AO to search and sabotage enemy vehicles.</Original>
@@ -360,7 +360,7 @@
       <Key ID="str_a3_combatpatrol_mission_41">
         <Original>- Team members are CLS-capable and may revive others.&lt;br/&gt;- Team Leader may deploy a Mk 1 Designated Regroup Point Tent as an alternative respawn point.&lt;br/&gt;- Organic UAV Operator and Medic roles are available.</Original>
         <Chinese>-小隊成員有受過戰鬥急救員的訓練，使其能夠復甦倒地的傷兵。&lt;br/&gt;-小隊長能夠放出一座Mk1型指定集合點帳篷被作為另一個重生點使用。&lt;br/&gt;-另有無人載具操作員與醫護兵等職位可供選擇。</Chinese>
-        <Chinesesimp>-小队成员有受过战斗急救员的训练，使其能够复苏倒地的伤兵。&lt;br/&gt;-小队长能够放出一座Mk1型指定集合点帐篷被作为另一个重生点使用。&lt;br/&gt;-另有无人载具操作员与卫生兵等职位可供选择。</Chinesesimp>
+        <Chinesesimp>-小队成员有受过战斗急救员的训练，使其能够复苏倒地的伤兵。&lt;br/&gt;-小队长能够放出一座 Mk1型指定集合点帐篷被作为另一个重生点使用。&lt;br/&gt;-另有无人载具操作员与卫生兵等职位可供选择。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_40">
         <Original>Location #%1</Original>
@@ -400,7 +400,7 @@
       <Key ID="str_a3_combatpatrol_mission_34">
         <Original>VOTE FOR TARGET LOCATION&lt;br/&gt;(click on the location marker in your map)</Original>
         <Chinese>票選目標地點&lt;br/&gt;(點擊你地圖上的地點標記)</Chinese>
-        <Chinesesimp>票选目标地点&lt;br/&gt;(点击你地图上的地点标记)</Chinesesimp>
+        <Chinesesimp>票选目标地点&lt;br/&gt;（点击你地图上的地点标记）</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_33">
         <Original>Retrieve Data from Terminal #3</Original>
@@ -455,7 +455,7 @@
       <Key ID="str_a3_combatpatrol_mission_24">
         <Original>Search the AO for the ARGO Emergency Descent Module and retrieve its data using the standard terminal.</Original>
         <Chinese>搜索任務區中的ARGO緊急下降艙，並使用終端機下載其中的資料。</Chinese>
-        <Chinesesimp>搜索任务区中的ARGO紧急下降舱，并使用终端机下载其中的资料。</Chinesesimp>
+        <Chinesesimp>搜索任务区中的 ARGO 紧急下降舱，并使用终端机下载其中的资料。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_23">
         <Original>Sabotage the 2nd Vehicle</Original>
@@ -530,7 +530,7 @@
       <Key ID="str_a3_combatpatrol_mission_13">
         <Original>Three data terminals are located in mission area. Find them and download data from them in given order. AO is guarded by a Platoon-sized FLAME paramilitary element. Further motorized reinforcements are expected within the 5-minutes radius from the AO.</Original>
         <Chinese>有三處資料終端機被定位在任務區中。找到他們並使用指定的順序來下載資料。任務區被一支排級大小的FLAME準軍事部隊所把守著。預計他們還有摩托化的援軍在離任務區5分鐘路程以內的地方待命著。</Chinese>
-        <Chinesesimp>有三处资料终端机被定位在任务区中。找到他们并使用指定的顺序来下载资料。任务区被一支排级大小的FLAME准军事部队所把守着。预计他们还有摩托化的援军在离任务区5分钟路程以内的地方待命着。</Chinesesimp>
+        <Chinesesimp>有三处资料终端机被定位在任务区中。找到他们并使用指定的顺序来下载资料。任务区被一支排级大小的 FLAME 准军事部队所把守着。预计他们还有摩托化的援军在离任务区5分钟路程以内的地方待命着。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_12">
         <Original>Conduct combat patrol in the AO to search and retrieve data from data terminals.</Original>
@@ -545,7 +545,7 @@
       <Key ID="str_a3_combatpatrol_mission_10">
         <Original>ARGO Emergency Descent Module belonging to the Cloud Corp. has landed in the area. AO is guarded by a Platoon-sized FLAME paramilitary element. Further motorized reinforcements are expected within the 5-minutes radius from the AO.</Original>
         <Chinese>屬於Cloud公司的ARGO緊急下降艙已經落在任務區中。該地點被一支排級大小的FLAME準軍事部隊所把守著。預計他們還有摩托化的援軍在離任務區5分鐘路程以內的地方待命著。</Chinese>
-        <Chinesesimp>属于Cloud公司的ARGO紧急下降舱已经落在任务区中。该地点被一支排级大小的FLAME准军事部队所把守着。预计他们还有摩托化的援军在离任务区5分钟路程以内的地方待命着。</Chinesesimp>
+        <Chinesesimp>属于 Cloud 公司的 ARGO 紧急下降舱已经落在任务区中。该地点被一支排级大小的 FLAME 准军事部队所把守着。预计他们还有摩托化的援军在离任务区5分钟路程以内的地方待命着。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_1">
         <Original>Combat Patrol</Original>
@@ -664,22 +664,22 @@
       <Key ID="STR_A3_MasterMaldenB_loadName">
         <Original>Master Malden (NATO)</Original>
         <Chinese>主宰馬爾登島(北約)</Chinese>
-        <Chinesesimp>主宰马尔登岛(北约)</Chinesesimp>
+        <Chinesesimp>主宰马尔登岛（北约）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenB_missionName">
         <Original>Zeus 16+2 Master Malden (NATO)</Original>
         <Chinese>宙斯16+2主宰馬爾登島(北約)</Chinese>
-        <Chinesesimp>宙斯16+2主宰马尔登岛(北约)</Chinesesimp>
+        <Chinesesimp>宙斯16+2主宰马尔登岛（北约）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenO_loadName">
         <Original>Master Malden (CSAT)</Original>
         <Chinese>主宰馬爾登島(廣協同盟)</Chinese>
-        <Chinesesimp>主宰马尔登岛(广协)</Chinesesimp>
+        <Chinesesimp>主宰马尔登岛（广协）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenI_loadName">
         <Original>Master Malden (AAF)</Original>
         <Chinese>主宰馬爾登島(阿爾蒂斯武裝力量)</Chinese>
-        <Chinesesimp>主宰马尔登岛(AAF)</Chinesesimp>
+        <Chinesesimp>主宰马尔登岛（AAF）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMalden_missionName">
         <Original>Zeus 48+2 Master Malden</Original>
@@ -689,12 +689,12 @@
       <Key ID="STR_A3_MasterMaldenI_missionName">
         <Original>Zeus 16+2 Master Malden (AAF)</Original>
         <Chinese>宙斯16+2主宰馬爾登島(阿爾蒂斯武裝力量)</Chinese>
-        <Chinesesimp>宙斯16+2主宰马尔登岛(AAF)</Chinesesimp>
+        <Chinesesimp>宙斯16+2主宰马尔登岛（AAF）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenO_missionName">
         <Original>Zeus 16+2 Master Malden (CSAT)</Original>
         <Chinese>宙斯16+2主宰馬爾登島(廣協同盟)</Chinese>
-        <Chinesesimp>宙斯16+2主宰马尔登岛(广协)</Chinesesimp>
+        <Chinesesimp>宙斯16+2主宰马尔登岛（广协）</Chinesesimp>
       </Key>
     </Container>
   </Package>

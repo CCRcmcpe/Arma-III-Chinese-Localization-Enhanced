@@ -5,7 +5,7 @@
       <Key ID="str_a3_cfgeditorsubcategories_edsubcat_personnel_combatpatrol0">
         <Original>Men (Combat Patrol)</Original>
         <Chinese>人員(戰鬥巡邏)</Chinese>
-        <Chinesesimp>人员(战斗巡逻)</Chinesesimp>
+        <Chinesesimp>人员（战斗巡逻）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Modules_F">
@@ -17,17 +17,17 @@
       <Key ID="str_a3_combatpatrol_modules_8">
         <Original>Large (city)</Original>
         <Chinese>大型(城市)</Chinese>
-        <Chinesesimp>大型(城市)</Chinesesimp>
+        <Chinesesimp>大型（城市）</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_modules_7">
         <Original>Medium (normal village)</Original>
         <Chinese>中型(普通村莊)</Chinese>
-        <Chinesesimp>中型(普通村庄)</Chinesesimp>
+        <Chinesesimp>中型（普通村庄）</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_modules_6">
         <Original>Small (tiny village)</Original>
         <Chinese>小型(小村莊)</Chinese>
-        <Chinesesimp>小型(小村庄)</Chinesesimp>
+        <Chinesesimp>小型（小村庄）</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_modules_5">
         <Original>Location size</Original>
@@ -99,7 +99,7 @@
       <Key ID="str_a3_cfgvehicles_b_patrol_respawn_bag_f0">
         <Original>Camp (Dome Tent, Combat Patrol)</Original>
         <Chinese>營地(圓頂帳篷，戰鬥巡邏)</Chinese>
-        <Chinesesimp>营地(圆顶帐篷，战斗巡逻)</Chinesesimp>
+        <Chinesesimp>营地（圆顶帐篷，战斗巡逻）</Chinesesimp>
       </Key>
     </Container>
   </Package>

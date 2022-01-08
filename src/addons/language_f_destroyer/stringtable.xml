@@ -10,12 +10,12 @@
       <Key ID="STR_A3_Land_Destroyer_01_loadingBayL_01_F">
         <Original>Boat Rack (Port Side)</Original>
         <Chinese>救生艇架(左舷)</Chinese>
-        <Chinesesimp>救生艇架(左舷)</Chinesesimp>
+        <Chinesesimp>救生艇架（左舷）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_loadingBayR_01_F">
         <Original>Boat Rack (Starboard Side)</Original>
         <Chinese>救生艇架(右舷)</Chinese>
-        <Chinesesimp>救生艇架(右舷)</Chinesesimp>
+        <Chinesesimp>救生艇架（右舷）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_ShipFlag_US_Name">
         <Original>Ship Flagpole</Original>
@@ -74,7 +74,7 @@
       <Key ID="STR_A3_Ship_MRLS_01_hint_description">
         <Original>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 MLRS missiles, this asset is normally deployed on Liberty class destroyers.</Original>
         <Chinese>Mk41垂直發射系統為北約海上艦艇提供了中遠程精確打擊能力。裝載18枚MLRS飛彈的該單元通常部署在"解放"級驅逐艦上。</Chinese>
-        <Chinesesimp>Mk41垂直发射系统为北约海上舰艇提供了中远程精确打击能力。装载18枚MLRS导弹的该单元通常部署在"解放"级驱逐舰上。</Chinesesimp>
+        <Chinesesimp>Mk41垂直发射系统为北约海上舰艇提供了中远程精确打击能力。装载18枚 MLRS 导弹的该单元通常部署在"解放"级驱逐舰上。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_DLCbrowser_title">
         <Original>Destroyer [USS Liberty]</Original>
@@ -175,12 +175,12 @@
       <Key ID="STR_A3_action_Recover_Boat_Left">
         <Original>Recover Boat (Port Side)</Original>
         <Chinese>收容小艇(左舷)</Chinese>
-        <Chinesesimp>收容小艇(左舷)</Chinesesimp>
+        <Chinesesimp>收容小艇（左舷）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_action_Recover_Boat_Right">
         <Original>Recover Boat (Starboard Side)</Original>
         <Chinese>收容小艇(右舷)</Chinese>
-        <Chinesesimp>收容小艇(右舷)</Chinesesimp>
+        <Chinesesimp>收容小艇（右舷）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_action_Launch_Boat">
         <Original>Launch Boat</Original>
@@ -190,12 +190,12 @@
       <Key ID="STR_A3_action_Launch_Boat_Left">
         <Original>Launch Boat (Port Side)</Original>
         <Chinese>釋放小艇(左舷)</Chinese>
-        <Chinesesimp>释放小艇(左舷)</Chinesesimp>
+        <Chinesesimp>释放小艇（左舷）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_action_Launch_Boat_Right">
         <Original>Launch Boat (Starboard Side)</Original>
         <Chinese>釋放小艇(右舷)</Chinese>
-        <Chinesesimp>释放小艇(右舷)</Chinesesimp>
+        <Chinesesimp>释放小艇（右舷）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Destroyer_01">

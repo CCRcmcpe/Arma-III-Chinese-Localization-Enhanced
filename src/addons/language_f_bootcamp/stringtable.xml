@@ -57,7 +57,7 @@
       <Key ID="str_a3_cfghints_learn_fmanual1">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp3_ca.paa' /&gt;%1Accessible from the Main Menu and %3Pause Menu%4 (when playing a scenario), the Field Manual contains useful tips on %3how to control and interact%4 with various aspects of Arma 3.</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp3_ca.paa'/&gt;%1你可以在主選單和%3暫停選單%4(任務中時)開啟野戰手冊，野戰手冊包含了許多有用的提示，包括%3控制，戰術%4等等武裝突襲3的相關知識。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp3_ca.paa'/&gt;%1你可以在主菜单和%3暂停菜单%4(任务中时)开启野战手册，野战手册包含了许多有用的提示，包括%3控制，战术%4等等武装突袭3的相关知识。</Chinesesimp>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp3_ca.paa'/&gt;%1你可以在主菜单和%3暂停菜单%4（任务中时）开启野战手册，野战手册包含了许多有用的提示，包括%3控制，战术%4等等武装突袭3的相关知识。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Scopes1_sub">
         <Original>Scopes</Original>
@@ -97,7 +97,7 @@
       <Key ID="str_a3_cfghints_learn_communityguides1">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp2_ca.paa' /&gt;%1The 'Community Guides' menu %3links out to a series of videos%4 created in collaboration with Dslyecxi, leader of the Arma community group Shack Tactical.%1These guides introduce both new and old players alike to the %3wealth of possibilities%4 that Arma 3 brings to the table, as well as familiarize them with the %3basic tactical concepts needed to survive%4.</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp2_ca.paa'/&gt;%1'社群指導'選單會將你%3連接到我們的影片網頁中%4，這些影片由與我們合作的Dslyecxi所製作，他是武裝突襲社群戰隊ShackTactical的領導人。%1這些指導可幫助新舊玩家學習%3更多的戰術知識%4，以及%3武裝突襲3豐富的可能性%4等等。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp2_ca.paa'/&gt;%1'社区指导'菜单会将你%3链接到我们的影片网页中%4，这些影片由与我们合作的Dslyecxi所制作，他是武装突袭社区战队ShackTactical的领导人。%1这些指导可帮助新旧玩家学习%3更多的战术知识%4，以及%3武装突袭3丰富的可能性%4等等。</Chinesesimp>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp2_ca.paa'/&gt;%1'社区指导'菜单会将你%3链接到我们的影片网页中%4，这些影片由与我们合作的 Dslyecxi 所制作，他是武装突袭社区战队 ShackTactical 的领导人。%1这些指导可帮助新旧玩家学习%3更多的战术知识%4，以及%3武装突袭3丰富的可能性%4等等。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_learn_communityguides0">
         <Original>Community Guides</Original>
@@ -277,7 +277,7 @@
       <Key ID="STR_A3_GPS2_sub">
         <Original>%2Press %11 to open your GPS.</Original>
         <Chinese>%2按下%11即可開啟你的GPS。</Chinese>
-        <Chinesesimp>%2按下%11即可开启你的GPS。</Chinesesimp>
+        <Chinesesimp>%2按下%11即可开启你的 GPS。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MapWaypoints1_sub">
         <Original>Map Waypoints</Original>
@@ -342,7 +342,7 @@
       <Key ID="STR_A3_CloseInventory3_sub">
         <Original>Your inventory will be closed automatically if the source moves away, be it a vehicle or a soldier with a backpack.</Original>
         <Chinese>當你在察看的裝備欄位移動走時(像是士兵的背包，車輛的貨櫃)，你的裝備欄位視窗會自動關閉。</Chinese>
-        <Chinesesimp>当你在查看的装备栏位移动时(像是士兵的背包，车辆的货柜)，你的装备栏位窗口会自动关闭。</Chinesesimp>
+        <Chinesesimp>当你在查看的装备栏位移动时（像是士兵的背包，车辆的货柜），你的装备栏位窗口会自动关闭。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_EnteringVehicle1_sub">
         <Original>Entering a Vehicle</Original>
@@ -392,7 +392,7 @@
       <Key ID="STR_A3_Countermeasures2_sub">
         <Original>Aircraft targets are often equipped with countermeasures (commonly flares) to change the course of incoming missiles.%1%2To minimize the chance to miss, fire your missile when you're facing the target's rear%1%2Note that the effectiveness of flares is very random and you may hit or miss when firing from any direction</Original>
         <Chinese>飛機通常都擁有反制措施(通常是熱焰彈)，來幫助它們逃離飛彈的攻擊。%1%2要盡量加大你命中的機會，你的飛彈最好是在正對目標的後方時發射%1%2請注意，這只是加大你命中的機會，會不會被熱焰彈給影響，這機會是很隨機的</Chinese>
-        <Chinesesimp>飞机通常都拥有反制措施(通常是热焰弹)，来帮助它们逃离导弹的攻击。%1%2要尽量加大你命中的机会，你的导弹最好是在正对目标的后方时发射%1%2请注意，这只是加大你命中的机会，会不会被热焰弹给影响，这机会是很随机的</Chinesesimp>
+        <Chinesesimp>飞机通常都拥有反制措施（通常是热焰弹），来帮助它们逃离导弹的攻击。%1%2要尽量加大你命中的机会，你的导弹最好是在正对目标的后方时发射%1%2请注意，这只是加大你命中的机会，会不会被热焰弹给影响，这机会是很随机的</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Countermeasures3_sub">
         <Original>Number of flares available is different for every air vehicle, some don't even have any.%1If you miss a few times, your foe may return to base to refill the flares or simply flee from the area.</Original>
@@ -422,7 +422,7 @@
       <Key ID="STR_A3_DeactivatingMines3_sub">
         <Original>Explosive specialists or engineers can detect nearby mines with their Mine detector and defuse them using their Toolkit.%1Even if they fall in combat, you can take their mine detector to reveal the mines yourself.</Original>
         <Chinese>爆破專精兵或工兵都能偵測附近的地雷(需要有地雷探測器)，然後使用工具包即可拆除地雷。%1即使他們不幸陣亡了，你也可以自己拿取他們的裝備，也就擁有拆除地雷的能力了。</Chinese>
-        <Chinesesimp>爆破专精兵或工兵都能侦测附近的地雷(需要有地雷探测器)，然后使用工具包即可拆除地雷。%1即使他们不幸阵亡了，你也可以自己拿取他们的装备，你就拥有拆除地雷的能力。</Chinesesimp>
+        <Chinesesimp>爆破专精兵或工兵都能侦测附近的地雷（需要有地雷探测器），然后使用工具包即可拆除地雷。%1即使他们不幸阵亡了，你也可以自己拿取他们的装备，你就拥有拆除地雷的能力。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Stop3_sub">
         <Original>As your subordinates are normally keeping formation, this command is useful when you want to heal them or rearm from their backpacks.</Original>
@@ -442,7 +442,7 @@
       <Key ID="STR_A3_Optics3_sub">
         <Original>Always search fallen enemies (or friendlies) as they may have more advanced weapon scopes. Longer effective range of your weapon or thermal imaging revealing hidden enemies can save your life.</Original>
         <Chinese>你可以搜尋倒下的敵人(或友軍)，你有機會在他們身上找到更好的光學瞄具。長距離瞄具或熱顯瞄具能有效找出敵人的位置。</Chinese>
-        <Chinesesimp>你可以搜寻倒下的敌人(或友军)，你有机会在他们身上找到更好的光学瞄具。长距离瞄具或热成像瞄具能有效找出敌人的位置。</Chinesesimp>
+        <Chinesesimp>你可以搜寻倒下的敌人（或友军），你有机会在他们身上找到更好的光学瞄具。长距离瞄具或热成像瞄具能有效找出敌人的位置。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_UAVAssembling1_sub">
         <Original>UAV Assembling</Original>
@@ -452,7 +452,7 @@
       <Key ID="STR_A3_UAVAssembling2_sub">
         <Original>Small UAVs can be assembled directly from a backpack.%1%2Open the action menu with %11%1%2Select %3Assemble (UAV name)%4</Original>
         <Chinese>小型無人載具可以從背包中進行組裝。%1%2使用%11打開動作選單%1%2選擇%3組裝(無人載具的名稱)%4</Chinese>
-        <Chinesesimp>小型无人机可以从背包中进行组装。%1%2使用%11打开动作菜单%1%2选择%3组装(无人载具的名称)%4</Chinesesimp>
+        <Chinesesimp>小型无人机可以从背包中进行组装。%1%2使用%11打开动作菜单%1%2选择%3组装（无人载具的名称）%4</Chinesesimp>
       </Key>
       <Key ID="STR_A3_UAVAssembling3_sub">
         <Original>The UAV will appear at your feet. Use the Action menu while pointing at the UAV to connect it to your terminal.</Original>
@@ -482,7 +482,7 @@
       <Key ID="STR_A3_OpenInventory3_sub">
         <Original>You can also open the inventory by pressing %11 anytime except when in vehicles.%1This might be useful when you are being chased by the enemy and want to drop some heavy equipment which is slowing you down.</Original>
         <Chinese>你可以隨時按下%11來查看裝備欄(除了在載具中)。%1當你被敵人追擊時，你最好打開裝備欄，把過於沉重的裝備給丟棄。</Chinese>
-        <Chinesesimp>你可以随时按下%11来查看装备栏(除了在载具中)。%1当你被敌人追击时，你最好打开装备栏，把过于沉重的装备给丢弃。</Chinesesimp>
+        <Chinesesimp>你可以随时按下%11来查看装备栏（除了在载具中）。%1当你被敌人追击时，你最好打开装备栏，把过于沉重的装备给丢弃。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FirstAid3_sub">
         <Original>Only combat lifesavers can use the %3Medikit%4, which can heal even the most serious wounds. %3First aid kits%4 can only patch smaller injuries.</Original>
@@ -497,7 +497,7 @@
       <Key ID="STR_A3_GPS3_sub">
         <Original>Some vehicles have in-built GPS systems which will help you with navigation.%1Be aware that you cannot use GPS when in optics.</Original>
         <Chinese>有些載具有內建的GPS系統，可幫助你導航。%1請注意，當你使用瞄具時，GPS會自動關閉。</Chinese>
-        <Chinesesimp>有些载具有内建的GPS系统，可帮助你导航。%1请注意，当你使用瞄具时，GPS会自动关闭。</Chinesesimp>
+        <Chinesesimp>有些载具有内建的 GPS 系统，可帮助你导航。%1请注意，当你使用瞄具时，GPS 会自动关闭。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_SelectSubordinates3_sub">
         <Original>%1Specialized units have their own symbol on the command bar. For example:%1%2&lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt; Autorifleman%1%2&lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt; Sniper%1%2&lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt; AT rifleman</Original>
@@ -537,7 +537,7 @@
       <Key ID="STR_A3_ReturnToFormation2_sub">
         <Original>To make your subordinates return back to formation, select them with %3[F2-F12]%4 and press %3[1]%4 and %3[1]%4.%1%2This command will also cancel their actual actions (as get in a vehicle or rearm)</Original>
         <Chinese>要讓你的部下返回編隊中，請使用%3[F2-F12]%4選擇部下，並按下%3[1]%4和%3[1]%4來讓他們返回編隊。%1%2這個命令也會讓他們停止手邊的動作(像是進入載具或重新武裝等等)</Chinese>
-        <Chinesesimp>要让你的部下返回编队中，请使用%3[F2-F12]%4选择部下，并按下%3[1]%4和%3[1]%4来让他们返回编队。%1%2这个命令也会让他们停止手上的动作(像是进入载具或重新武装等等)</Chinesesimp>
+        <Chinesesimp>要让你的部下返回编队中，请使用%3[F2-F12]%4选择部下，并按下%3[1]%4和%3[1]%4来让他们返回编队。%1%2这个命令也会让他们停止手上的动作（像是进入载具或重新武装等等）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Achievements">
@@ -549,7 +549,7 @@
       <Key ID="STR_A3_achievements_contributor">
         <Original>Published a scenario to Steam Workshop.</Original>
         <Chinese>上傳一個任務到Steam工作坊。</Chinese>
-        <Chinesesimp>上传一个任务到Steam创意工坊。</Chinesesimp>
+        <Chinesesimp>上传一个任务到 Steam 创意工坊。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_achievements_kia_title">
         <Original>K.I.A.</Original>
@@ -634,7 +634,7 @@
       <Key ID="STR_A3_achievements_perfectionist">
         <Original>Updated an existing Steam Workshop scenario to a newer version.</Original>
         <Chinese>更新你已經上傳到Steam工作坊任務的版本。</Chinese>
-        <Chinesesimp>更新你已经上传到Steam创意工坊任务的版本。</Chinesesimp>
+        <Chinesesimp>更新你已经上传到 Steam 创意工坊任务的版本。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_achievements_perfectionist_title">
         <Original>Perfectionist</Original>
@@ -669,7 +669,7 @@
       <Key ID="STR_A3_achievements_subscriber">
         <Original>Subscribed to a scenario on Steam Workshop.</Original>
         <Chinese>在Steam工作坊上訂閱一個任務。</Chinese>
-        <Chinesesimp>在Steam创意工坊上订阅一个任务。</Chinesesimp>
+        <Chinesesimp>在 Steam 创意工坊上订阅一个任务。</Chinesesimp>
       </Key>
     </Container>
     <Container name="UI_F_Bootcamp">
@@ -1096,7 +1096,7 @@
         <Key ID="str_a3_rscdisplayarsenal_buttonimport_tooltip">
           <Original>Import an exported loadout or unit classname [Ctrl + V]</Original>
           <Chinese>匯入之前導出的裝備或單位的classname[Ctrl+V]</Chinese>
-          <Chinesesimp>汇入之前导出的装备或单位的classname[Ctrl+V]</Chinesesimp>
+          <Chinesesimp>汇入之前导出的装备或单位的 classname[Ctrl+V]</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayarsenal_buttonimport">
           <Original>Import</Original>
@@ -1283,7 +1283,7 @@
         <Key ID="str_a3_commguide_zeus_title">
           <Original>Zeus DLC</Original>
           <Chinese>宙斯資料片</Chinese>
-          <Chinesesimp>宙斯DLC</Chinesesimp>
+          <Chinesesimp>宙斯 DLC</Chinesesimp>
         </Key>
         <Key ID="str_a3_commguide_guerrillawarfare_overview">
           <Original>Delve into guerrilla tactics and examine the concept of asymmetrical warfare.</Original>
@@ -1566,12 +1566,12 @@
       <Key ID="str_a3_cfgvehicles_vr_sector_01_60deg_50_red_f0">
         <Original>VR Sector (60deg, 50m, Red)</Original>
         <Chinese>虛擬實境防禦區(60度，50公尺，紅色)</Chinese>
-        <Chinesesimp>虚拟实境防御区(60度，50米，红色)</Chinesesimp>
+        <Chinesesimp>虚拟实境防御区（60度，50米，红色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_vr_sector_01_60deg_50_grey_f0">
         <Original>VR Sector (60deg, 50m, Grey)</Original>
         <Chinese>虛擬實境防禦區(60度，50公尺，灰色)</Chinese>
-        <Chinesesimp>虚拟实境防御区(60度，50米，灰色)</Chinesesimp>
+        <Chinesesimp>虚拟实境防御区（60度，50米，灰色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_vr_helper_base_f0">
         <Original>VR Area</Original>
@@ -1586,7 +1586,7 @@
       <Key ID="str_a3_cfgvehicles_vr_area_01_square_4x4_yellow_f0">
         <Original>VR Area (Square, 4x4, Yellow)</Original>
         <Chinese>虛擬實境區域(矩形，4x4，黃色)</Chinese>
-        <Chinesesimp>虚拟实境区域(矩形，4x4，黄色)</Chinesesimp>
+        <Chinesesimp>虚拟实境区域（矩形，4x4，黄色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_vr_block_base_f0">
         <Original>Obstacle</Original>
@@ -1596,7 +1596,7 @@
       <Key ID="str_a3_cfgvehicles_vr_area_01_square_4x4_grey_f0">
         <Original>VR Area (Square, 4x4, Grey)</Original>
         <Chinese>虛擬實境區域(矩形，4x4，灰色)</Chinese>
-        <Chinesesimp>虚拟实境区域(矩形，4x4，灰色)</Chinesesimp>
+        <Chinesesimp>虚拟实境区域（矩形，4x4，灰色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_vr_billboard_01_f0">
         <Original>VR Wall</Original>
@@ -1606,67 +1606,67 @@
       <Key ID="str_a3_cfgvehicles_vr_area_01_square_2x2_yellow_f0">
         <Original>VR Area (Square, 2x2, Yellow)</Original>
         <Chinese>虛擬實境區域(矩形，2x2，黃色)</Chinese>
-        <Chinesesimp>虚拟实境区域(矩形，2x2，黄色)</Chinesesimp>
+        <Chinesesimp>虚拟实境区域（矩形，2x2，黄色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_vr_area_01_square_2x2_grey_f0">
         <Original>VR Area (Square, 2x2, Grey)</Original>
         <Chinese>虛擬實境區域(矩形，2x2，灰色)</Chinese>
-        <Chinesesimp>虚拟实境区域(矩形，2x2，灰色)</Chinesesimp>
+        <Chinesesimp>虚拟实境区域（矩形，2x2，灰色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_vr_area_01_square_1x1_yellow_f0">
         <Original>VR Area (Square, 1x1, Yellow)</Original>
         <Chinese>虛擬實境區域(矩形，1x1，黃色)</Chinese>
-        <Chinesesimp>虚拟实境区域(矩形，1x1，黄色)</Chinesesimp>
+        <Chinesesimp>虚拟实境区域（矩形，1x1，黄色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_vr_area_01_square_1x1_grey_f0">
         <Original>VR Area (Square, 1x1, Grey)</Original>
         <Chinese>虛擬實境區域(矩形，1x1，灰色)</Chinese>
-        <Chinesesimp>虚拟实境区域(矩形，1x1，灰色)</Chinesesimp>
+        <Chinesesimp>虚拟实境区域（矩形，1x1，灰色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_vr_area_01_circle_4_yellow_f0">
         <Original>VR Area (Circle, 4m, Yellow)</Original>
         <Chinese>虛擬實境區域(圓形，4公尺，黃色)</Chinese>
-        <Chinesesimp>虚拟实境区域(圆形，4米，黄色)</Chinesesimp>
+        <Chinesesimp>虚拟实境区域（圆形，4米，黄色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_vr_area_01_circle_4_grey_f0">
         <Original>VR Area (Circle, 4m, Grey)</Original>
         <Chinese>虛擬實境區域(圓形，4公尺，灰色)</Chinese>
-        <Chinesesimp>虚拟实境区域(圆形，4米，灰色)</Chinesesimp>
+        <Chinesesimp>虚拟实境区域（圆形，4米，灰色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_watercooler_01_old_f0">
         <Original>Water Cooler (Old)</Original>
         <Chinese>水冷機(舊)</Chinese>
-        <Chinesesimp>水冷机(旧)</Chinesesimp>
+        <Chinesesimp>水冷机（旧）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_watercooler_01_new_f0">
         <Original>Water Cooler (New)</Original>
         <Chinese>水冷機(新)</Chinese>
-        <Chinesesimp>水冷机(新)</Chinesesimp>
+        <Chinesesimp>水冷机（新）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_gymrack_03_f0">
         <Original>Gym Rack (Weight plates)</Original>
         <Chinese>健身房架(重量板)</Chinese>
-        <Chinesesimp>健身房架(重量板)</Chinesesimp>
+        <Chinesesimp>健身房架（重量板）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_vr_3dselector_01_incomplete_f0">
         <Original>VR Selector (Incomplete)</Original>
         <Chinese>虛擬實境選擇器(未完成)</Chinese>
-        <Chinesesimp>虚拟实境选择器(未完成)</Chinesesimp>
+        <Chinesesimp>虚拟实境选择器（未完成）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_gymrack_02_f0">
         <Original>Gym Rack (Small)</Original>
         <Chinese>健身房架(小)</Chinese>
-        <Chinesesimp>健身房架(小)</Chinesesimp>
+        <Chinesesimp>健身房架（小）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_vr_3dselector_01_exit_f0">
         <Original>VR Selector (Exit)</Original>
         <Chinese>虛擬實境選擇器(離開)</Chinese>
-        <Chinesesimp>虚拟实境选择器(离开)</Chinesesimp>
+        <Chinesesimp>虚拟实境选择器（离开）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_gymrack_01_f0">
         <Original>Gym Rack (Big)</Original>
         <Chinese>健身房架(大)</Chinese>
-        <Chinesesimp>健身房架(大)</Chinesesimp>
+        <Chinesesimp>健身房架（大）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_vr_3dselector_01_default_f0">
         <Original>VR Selector</Original>
@@ -1681,57 +1681,57 @@
       <Key ID="str_a3_cfgvehicles_vr_3dselector_01_complete_f0">
         <Original>VR Selector (Complete)</Original>
         <Chinese>虛擬實境選擇器(完成)</Chinese>
-        <Chinesesimp>虚拟实境选择器(完成)</Chinesesimp>
+        <Chinesesimp>虚拟实境选择器（完成）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_foodcontainer_01_f0">
         <Original>Food Container (Large)</Original>
         <Chinese>食物容器(大)</Chinese>
-        <Chinesesimp>食物容器(大)</Chinesesimp>
+        <Chinesesimp>食物容器（大）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_tent_02_small_sand_f0">
         <Original>Tent (Dome-shaped, CSAT, Sand)</Original>
         <Chinese>帳篷(圓頂形，廣協同盟，沙色)</Chinese>
-        <Chinesesimp>帐篷(圆顶形，广协，沙色)</Chinesesimp>
+        <Chinesesimp>帐篷（圆顶形，广协，沙色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_carbattery_02_f0">
         <Original>Car Battery (Car)</Original>
         <Chinese>車載電瓶(車)</Chinese>
-        <Chinesesimp>车载电瓶(车)</Chinesesimp>
+        <Chinesesimp>车载电瓶（车）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_tent_02_small_forest_f0">
         <Original>Tent (Dome-shaped, CSAT, Forest)</Original>
         <Chinese>帳篷(圓頂形，廣協同盟，森林)</Chinese>
-        <Chinesesimp>帐篷(圆顶形，广协，森林)</Chinesesimp>
+        <Chinesesimp>帐篷（圆顶形，广协，森林）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_carbattery_01_f0">
         <Original>Car Battery (Truck)</Original>
         <Chinese>車載電瓶(卡車)</Chinese>
-        <Chinesesimp>车载电瓶(卡车)</Chinesesimp>
+        <Chinesesimp>车载电瓶（卡车）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_tent_01_small_sand_f0">
         <Original>Tent (Dome-shaped, NATO, Sand)</Original>
         <Chinese>帳篷(圓頂形，北約，沙色)</Chinese>
-        <Chinesesimp>帐篷(圆顶形，北约，沙色)</Chinesesimp>
+        <Chinesesimp>帐篷（圆顶形，北约，沙色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_cargo10_vr_f0">
         <Original>Cargo Container (Short, VR)</Original>
         <Chinese>貨櫃(短，虛擬實境)</Chinese>
-        <Chinesesimp>货柜(短，虚拟实境)</Chinesesimp>
+        <Chinesesimp>货柜（短，虚拟实境）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_tent_01_small_forest_f0">
         <Original>Tent (Dome-shaped, NATO, Forest)</Original>
         <Chinese>帳篷(圓頂形，北約，森林)</Chinese>
-        <Chinesesimp>帐篷(圆顶形，北约，森林)</Chinesesimp>
+        <Chinesesimp>帐篷（圆顶形，北约，森林）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_usertexture_1x2_f0">
         <Original>User Texture (1x2m)</Original>
         <Chinese>使用者紋理(1x2公尺)</Chinese>
-        <Chinesesimp>用户纹理(1x2米)</Chinesesimp>
+        <Chinesesimp>用户纹理（1x2米）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_concretebunker_01_small_closed_f0">
         <Original>Concrete Bunker (Small, Closed)</Original>
         <Chinese>混凝土掩體(小，封閉)</Chinese>
-        <Chinesesimp>混凝土掩体(小，封闭)</Chinesesimp>
+        <Chinesesimp>混凝土掩体（小，封闭）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_targetbootcamphumansimple_f0">
         <Original>Target Human Simple</Original>
@@ -1741,7 +1741,7 @@
       <Key ID="str_a3_cfgvehicles_land_concretebunker_01_small_open_f0">
         <Original>Concrete Bunker (Small, Open)</Original>
         <Chinese>混凝土掩體(小，開放)</Chinese>
-        <Chinesesimp>混凝土掩体(小，开放)</Chinesesimp>
+        <Chinesesimp>混凝土掩体（小，开放）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_targetbootcamphuman_f0">
         <Original>Target Human</Original>
@@ -1756,12 +1756,12 @@
       <Key ID="str_a3_cfgvehicles_land_sandbagbunker_01_large_f0">
         <Original>Sandbag Bunker (Large)</Original>
         <Chinese>沙包掩體(大)</Chinese>
-        <Chinesesimp>沙包掩体(大)</Chinesesimp>
+        <Chinesesimp>沙包掩体（大）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbagbunker_01_large_shootingpos_f0">
         <Original>Sandbag Bunker (Large, Shootingpos)</Original>
         <Chinese>沙包掩體(大，射擊位)</Chinese>
-        <Chinesesimp>沙包掩体(大，射击位)</Chinesesimp>
+        <Chinesesimp>沙包掩体（大，射击位）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_targetbootcamp_base_f0">
         <Original>Target Base</Original>
@@ -1771,7 +1771,7 @@
       <Key ID="str_a3_cfgvehicles_land_sandbagbunker_01_large_staticweapons_f0">
         <Original>Sandbag Bunker (Large, Gun)</Original>
         <Chinese>沙包掩體(大，固定武器)</Chinese>
-        <Chinesesimp>沙包掩体(大，固定武器)</Chinesesimp>
+        <Chinesesimp>沙包掩体（大，固定武器）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_sandbags_base_f0">
         <Original>Sandbags</Original>
@@ -1781,17 +1781,17 @@
       <Key ID="str_a3_cfgvehicles_land_sandbagbunker_01_small_extended_f0">
         <Original>Sandbag Bunker (Small, Extended)</Original>
         <Chinese>沙包掩體(小，延伸)</Chinese>
-        <Chinesesimp>沙包掩体(小，延伸)</Chinesesimp>
+        <Chinesesimp>沙包掩体（小，延伸）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbagbunker_01_small_f0">
         <Original>Sandbag Bunker (Small)</Original>
         <Chinese>沙包掩體(小)</Chinese>
-        <Chinesesimp>沙包掩体(小)</Chinesesimp>
+        <Chinesesimp>沙包掩体（小）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbagbunker_01_small_highgun_f0">
         <Original>Sandbag Bunker (Small, Highgun)</Original>
         <Chinese>沙包掩體(小，高架槍)</Chinese>
-        <Chinesesimp>沙包掩体(小，高架枪)</Chinesesimp>
+        <Chinesesimp>沙包掩体（小，高架枪）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_vrgoggles_01_f0">
         <Original>VR Goggles</Original>
@@ -1801,87 +1801,87 @@
       <Key ID="str_a3_cfgvehicles_land_sandbagbunker_01_small_lowgun_f0">
         <Original>Sandbag Bunker (Small, Lowgun)</Original>
         <Chinese>沙包掩體(小，低架槍)</Chinese>
-        <Chinesesimp>沙包掩体(小，低架枪)</Chinesesimp>
+        <Chinesesimp>沙包掩体（小，低架枪）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_vr_coverobject_01_standhigh_f0">
         <Original>VR Cover Object (High stand)</Original>
         <Chinese>虛擬實境掩體(高站姿)</Chinese>
-        <Chinesesimp>虚拟实境掩体(高站姿)</Chinesesimp>
+        <Chinesesimp>虚拟实境掩体（高站姿）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbags_01_low_corner_f0">
         <Original>Sandbags (Low, Corner)</Original>
         <Chinese>沙包(低，轉角)</Chinese>
-        <Chinesesimp>沙包(低，转角)</Chinesesimp>
+        <Chinesesimp>沙包（低，转角）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_vr_coverobject_01_stand_f0">
         <Original>VR Cover Object (Stand)</Original>
         <Chinese>虛擬實境掩體(站姿)</Chinese>
-        <Chinesesimp>虚拟实境掩体(站姿)</Chinesesimp>
+        <Chinesesimp>虚拟实境掩体（站姿）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbags_01_low_end_f0">
         <Original>Sandbags (Low, End)</Original>
         <Chinese>沙包(低，結束)</Chinese>
-        <Chinesesimp>沙包(低，结束)</Chinesesimp>
+        <Chinesesimp>沙包（低，结束）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_vr_coverobject_01_prone_f0">
         <Original>VR Cover Object (Prone)</Original>
         <Chinese>虛擬實境掩體(趴姿)</Chinese>
-        <Chinesesimp>虚拟实境掩体(趴姿)</Chinesesimp>
+        <Chinesesimp>虚拟实境掩体（趴姿）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbags_01_low_long_f0">
         <Original>Sandbags (Low, Long)</Original>
         <Chinese>沙包(低，長)</Chinese>
-        <Chinesesimp>沙包(低，长)</Chinesesimp>
+        <Chinesesimp>沙包（低，长）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_vr_coverobject_01_kneellow_f0">
         <Original>VR Cover Object (Low kneel)</Original>
         <Chinese>虛擬實境掩體(低蹲姿)</Chinese>
-        <Chinesesimp>虚拟实境掩体(低蹲姿)</Chinesesimp>
+        <Chinesesimp>虚拟实境掩体（低蹲姿）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbags_01_low_round_f0">
         <Original>Sandbags (Low, Round)</Original>
         <Chinese>沙包(低，圓)</Chinese>
-        <Chinesesimp>沙包(低，圆)</Chinesesimp>
+        <Chinesesimp>沙包（低，圆）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_vr_coverobject_01_kneelhigh_f0">
         <Original>VR Cover Object (High kneel)</Original>
         <Chinese>虛擬實境掩體(高蹲姿)</Chinese>
-        <Chinesesimp>虚拟实境掩体(高蹲姿)</Chinesesimp>
+        <Chinesesimp>虚拟实境掩体（高蹲姿）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbags_01_low_short_f0">
         <Original>Sandbags (Low, Short)</Original>
         <Chinese>沙包(低，短)</Chinese>
-        <Chinesesimp>沙包(低，短)</Chinesesimp>
+        <Chinesesimp>沙包（低，短）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_vr_coverobject_01_kneel_f0">
         <Original>VR Cover Object (Kneel)</Original>
         <Chinese>虛擬實境掩體(蹲姿)</Chinese>
-        <Chinesesimp>虚拟实境掩体(蹲姿)</Chinesesimp>
+        <Chinesesimp>虚拟实境掩体（蹲姿）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbags_01_lowtomedium_f0">
         <Original>Sandbags (Low, Low-med)</Original>
         <Chinese>沙包(低，低-中)</Chinese>
-        <Chinesesimp>沙包(低，低-中)</Chinesesimp>
+        <Chinesesimp>沙包（低，低-中）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_vr_block_05_f0">
         <Original>VR Obstacle (10x5x4)</Original>
         <Chinese>虛擬實境障礙(10x5x4)</Chinese>
-        <Chinesesimp>虚拟实境障碍(10x5x4)</Chinesesimp>
+        <Chinesesimp>虚拟实境障碍（10x5x4）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbags_01_medium_corner_f0">
         <Original>Sandbags (Medium, Corner)</Original>
         <Chinese>沙包(中，轉角)</Chinese>
-        <Chinesesimp>沙包(中，转角)</Chinesesimp>
+        <Chinesesimp>沙包（中，转角）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_vr_block_04_f0">
         <Original>VR Obstacle (10.5x10.5x9)</Original>
         <Chinese>虛擬實境障礙(10.5x10.5x9)</Chinese>
-        <Chinesesimp>虚拟实境障碍(10.5x10.5x9)</Chinesesimp>
+        <Chinesesimp>虚拟实境障碍（10.5x10.5x9）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbags_01_medium_end_f0">
         <Original>Sandbags (Medium, End)</Original>
         <Chinese>沙包(中，結束)</Chinese>
-        <Chinesesimp>沙包(中，结束)</Chinesesimp>
+        <Chinesesimp>沙包（中，结束）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_TargetBootcampTable_name">
         <Original>Name</Original>
@@ -1896,12 +1896,12 @@
       <Key ID="str_a3_cfgvehicles_land_vr_block_03_f0">
         <Original>VR Obstacle (12x7.5x6)</Original>
         <Chinese>虛擬實境障礙(12x7。5x6)</Chinese>
-        <Chinesesimp>虚拟实境障碍(12x7。5x6)</Chinesesimp>
+        <Chinesesimp>虚拟实境障碍（12x7。5x6）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbags_01_medium_long_f0">
         <Original>Sandbags (Medium, Long)</Original>
         <Chinese>沙包(中，長)</Chinese>
-        <Chinesesimp>沙包(中，长)</Chinesesimp>
+        <Chinesesimp>沙包（中，长）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_TargetBootcampTable_mindistance">
         <Original>Min. Dist.</Original>
@@ -1921,7 +1921,7 @@
       <Key ID="str_a3_cfgvehicles_land_vr_block_02_f0">
         <Original>VR Obstacle (12x12x4)</Original>
         <Chinese>虛擬實境障礙(12x12x4)</Chinese>
-        <Chinesesimp>虚拟实境障碍(12x12x4)</Chinesesimp>
+        <Chinesesimp>虚拟实境障碍（12x12x4）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_TargetBootcampTable_avgdistance">
         <Original>Avg. Dist.</Original>
@@ -1936,32 +1936,32 @@
       <Key ID="str_a3_cfgvehicles_land_sandbags_01_medium_round_f0">
         <Original>Sandbags (Medium, Round)</Original>
         <Chinese>沙包(中，圓)</Chinese>
-        <Chinesesimp>沙包(中，圆)</Chinesesimp>
+        <Chinesesimp>沙包（中，圆）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_vr_block_01_f0">
         <Original>VR Obstacle (20x10x8)</Original>
         <Chinese>虛擬實境障礙(20x10x8)</Chinese>
-        <Chinesesimp>虚拟实境障碍(20x10x8)</Chinesesimp>
+        <Chinesesimp>虚拟实境障碍（20x10x8）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbags_01_medium_shootingpos_f0">
         <Original>Sandbags (Medium, Shootingpos)</Original>
         <Chinese>沙包(中，射擊位)</Chinese>
-        <Chinesesimp>沙包(中，射击位)</Chinesesimp>
+        <Chinesesimp>沙包（中，射击位）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_tent_02_small_f0">
         <Original>Tent (Dome-shaped, CSAT)</Original>
         <Chinese>帳篷(圓頂形，廣協同盟)</Chinese>
-        <Chinesesimp>帐篷(圆顶形，广协)</Chinesesimp>
+        <Chinesesimp>帐篷（圆顶形，广协）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbags_01_medium_short_f0">
         <Original>Sandbags (Medium, Short)</Original>
         <Chinese>沙包(中，短)</Chinese>
-        <Chinesesimp>沙包(中，短)</Chinesesimp>
+        <Chinesesimp>沙包（中，短）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_tent_01_small_f0">
         <Original>Tent (Dome-shaped, NATO)</Original>
         <Chinese>帳篷(圓頂形，北約)</Chinese>
-        <Chinesesimp>帐篷(圆顶形，北约)</Chinesesimp>
+        <Chinesesimp>帐篷（圆顶形，北约）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbagsentrypost_01_f0">
         <Original>Sandbag Sentry Post</Original>
@@ -1971,99 +1971,99 @@
       <Key ID="str_a3_cfgvehicles_land_target_popup_01_mechanism_f0">
         <Original>Pop-Up Target (Disassembled, Base)</Original>
         <Chinese>目標練習靶(拆解狀態，基座)</Chinese>
-        <Chinesesimp>目标练习靶(拆解状态，基座)</Chinesesimp>
+        <Chinesesimp>目标练习靶（拆解状态，基座）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbagsentrypost_01_highgun_f0">
         <Original>Sandbag Sentry Post (Highgun)</Original>
         <Chinese>沙包哨站(高架槍)</Chinese>
-        <Chinesesimp>沙包哨站(高架枪)</Chinesesimp>
+        <Chinesesimp>沙包哨站（高架枪）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_target_popup_01_figure_f0">
         <Original>Pop-Up Target (Disassembled, Board)</Original>
         <Chinese>目標練習靶(拆解狀態，板子)</Chinese>
-        <Chinesesimp>目标练习靶(拆解状态，板子)</Chinesesimp>
+        <Chinesesimp>目标练习靶（拆解状态，板子）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbagsentrypost_01_lowgun_f0">
         <Original>Sandbag Sentry Post (Lowgun)</Original>
         <Chinese>沙包哨站(低架槍)</Chinese>
-        <Chinesesimp>沙包哨站(低架枪)</Chinesesimp>
+        <Chinesesimp>沙包哨站（低架枪）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_tankobstacle_02_line_5_f0">
         <Original>Anti-tank Hedgehog (5)</Original>
         <Chinese>反坦克障礙(5)</Chinese>
-        <Chinesesimp>反坦克障碍(5)</Chinesesimp>
+        <Chinesesimp>反坦克障碍（5）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_tankobstacle_01_f0">
         <Original>Dragon's Teeth (1)</Original>
         <Chinese>龍牙(障礙)(1)</Chinese>
-        <Chinesesimp>龙牙(障碍)(1)</Chinesesimp>
+        <Chinesesimp>龙牙(障碍)（1）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_tankobstacle_02_line_3_f0">
         <Original>Anti-tank Hedgehog (3)</Original>
         <Chinese>反坦克障礙(3)</Chinese>
-        <Chinesesimp>反坦克障碍(3)</Chinesesimp>
+        <Chinesesimp>反坦克障碍（3）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_tankobstacle_01_line_3_f0">
         <Original>Dragon's Teeth (3)</Original>
         <Chinese>龍牙(障礙)(3)</Chinese>
-        <Chinesesimp>龙牙(障碍)(3)</Chinesesimp>
+        <Chinesesimp>龙牙(障碍)（3）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_tankobstacle_02_f0">
         <Original>Anti-tank Hedgehog (1)</Original>
         <Chinese>反坦克障礙(1)</Chinese>
-        <Chinesesimp>反坦克障碍(1)</Chinesesimp>
+        <Chinesesimp>反坦克障碍（1）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_tankobstacle_01_line_5_f0">
         <Original>Dragon's Teeth (5)</Original>
         <Chinese>龍牙(障礙)(5)</Chinese>
-        <Chinesesimp>龙牙(障碍)(5)</Chinesesimp>
+        <Chinesesimp>龙牙(障碍)（5）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Character_F">
       <Key ID="str_a3_h_watchcap_cbr0">
         <Original>Beanie (Coyote)</Original>
         <Chinese>毛帽(土狼棕色)</Chinese>
-        <Chinesesimp>毛帽(土狼棕色)</Chinesesimp>
+        <Chinesesimp>毛帽（土狼棕色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_watchcap_camo0_boot">
         <Original>Beanie (Green)</Original>
         <Chinese>毛帽(綠色)</Chinese>
-        <Chinesesimp>毛帽(绿色)</Chinesesimp>
+        <Chinesesimp>毛帽（绿色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_shemagopen_khk0_boot">
         <Original>Shemag (White)</Original>
         <Chinese>阿拉伯頭巾(白色)</Chinese>
-        <Chinesesimp>阿拉伯头巾(白色)</Chinesesimp>
+        <Chinesesimp>阿拉伯头巾（白色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_milcap_blue0_boot">
         <Original>Military Cap (Blue)</Original>
         <Chinese>軍帽(藍色)</Chinese>
-        <Chinesesimp>军帽(蓝色)</Chinesesimp>
+        <Chinesesimp>军帽（蓝色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_cap_usblack0">
         <Original>Cap (US Black)</Original>
         <Chinese>小帽子(美軍黑色)</Chinese>
-        <Chinesesimp>小帽子(美军黑色)</Chinesesimp>
+        <Chinesesimp>小帽子（美军黑色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_cap_tan_specops_us0_boot">
         <Original>Cap (US MTP)</Original>
         <Chinese>小帽子(美軍多地形迷彩)</Chinese>
-        <Chinesesimp>小帽子(美军多地形迷彩)</Chinesesimp>
+        <Chinesesimp>小帽子（美军多地形迷彩）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_cap_surfer0_boot">
         <Original>Cap (Surfer)</Original>
         <Chinese>小帽子(衝浪)</Chinese>
-        <Chinesesimp>小帽子(冲浪)</Chinesesimp>
+        <Chinesesimp>小帽子（冲浪）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_cap_police0">
         <Original>Cap (Police)</Original>
         <Chinese>小帽子(警察)</Chinese>
-        <Chinesesimp>小帽子(警察)</Chinesesimp>
+        <Chinesesimp>小帽子（警察）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_cap_khaki_specops_uk0_boot">
         <Original>Cap (UK)</Original>
         <Chinese>小帽子(英國)</Chinese>
-        <Chinesesimp>小帽子(英国)</Chinesesimp>
+        <Chinesesimp>小帽子（英国）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_cap_brn_specops0_boot">
         <Original>Cap [OPFOR]</Original>
@@ -2078,47 +2078,47 @@
       <Key ID="str_a3_h_booniehat_tan0_boot">
         <Original>Booniehat (Sand)</Original>
         <Chinese>擴邊帽(沙色)</Chinese>
-        <Chinesesimp>扩边帽(沙色)</Chinesesimp>
+        <Chinesesimp>扩边帽（沙色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_booniehat_oli0">
         <Original>Booniehat (Olive)</Original>
         <Chinese>擴邊帽(橄欖色)</Chinese>
-        <Chinesesimp>扩边帽(橄榄色)</Chinesesimp>
+        <Chinesesimp>扩边帽（橄榄色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_booniehat_khk0_boot">
         <Original>Booniehat (Khaki)</Original>
         <Chinese>擴邊帽(卡其色)</Chinese>
-        <Chinesesimp>扩边帽(卡其色)</Chinesesimp>
+        <Chinesesimp>扩边帽（卡其色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_bandanna_surfer_grn0">
         <Original>Bandana (Surfer, Green)</Original>
         <Chinese>印花頭巾(衝浪，綠色)</Chinese>
-        <Chinesesimp>印花头巾(冲浪，绿色)</Chinesesimp>
+        <Chinesesimp>印花头巾（冲浪，绿色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_bandanna_surfer_blk0">
         <Original>Bandana (Surfer, Black)</Original>
         <Chinese>印花頭巾(衝浪，黑色)</Chinese>
-        <Chinesesimp>印花头巾(冲浪，黑色)</Chinesesimp>
+        <Chinesesimp>印花头巾（冲浪，黑色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_bandanna_sand0">
         <Original>Bandana (Sand)</Original>
         <Chinese>印花頭巾(沙色)</Chinese>
-        <Chinesesimp>印花头巾(沙色)</Chinesesimp>
+        <Chinesesimp>印花头巾（沙色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_bandanna_gry0_boot">
         <Original>Bandana (Black)</Original>
         <Chinese>印花頭巾(黑色)</Chinese>
-        <Chinesesimp>印花头巾(黑色)</Chinesesimp>
+        <Chinesesimp>印花头巾（黑色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_bandanna_camo0_boot">
         <Original>Bandana (Woodland)</Original>
         <Chinese>印花頭巾(森林迷彩)</Chinese>
-        <Chinesesimp>印花头巾(森林迷彩)</Chinesesimp>
+        <Chinesesimp>印花头巾（森林迷彩）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_bandanna_blu0">
         <Original>Bandana (Blue)</Original>
         <Chinese>印花頭巾(藍色)</Chinese>
-        <Chinesesimp>印花头巾(蓝色)</Chinesesimp>
+        <Chinesesimp>印花头巾（蓝色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_soldier_vr_f0">
         <Original>VR Entity</Original>
@@ -2128,7 +2128,7 @@
       <Key ID="str_a3_cfgglasses_g_bandanna_tan0">
         <Original>Bandana (Tan)</Original>
         <Chinese>印花頭巾(卡其色)</Chinese>
-        <Chinesesimp>印花头巾(卡其色)</Chinesesimp>
+        <Chinesesimp>印花头巾（卡其色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_protagonist_vr_f0">
         <Original>VR Soldier</Original>
@@ -2138,7 +2138,7 @@
       <Key ID="str_a3_cfgglasses_g_bandanna_oli0">
         <Original>Bandana (Olive)</Original>
         <Chinese>印花頭巾(橄欖色)</Chinese>
-        <Chinesesimp>印花头巾(橄榄色)</Chinesesimp>
+        <Chinesesimp>印花头巾（橄榄色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_soldier_vr_f0">
         <Original>VR Entity</Original>
@@ -2148,7 +2148,7 @@
       <Key ID="str_a3_cfgglasses_g_bandanna_khk0">
         <Original>Bandana (Khaki)</Original>
         <Chinese>印花頭巾(卡其色)</Chinese>
-        <Chinesesimp>印花头巾(卡其色)</Chinesesimp>
+        <Chinesesimp>印花头巾（卡其色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_protagonist_vr_f0">
         <Original>VR Soldier</Original>
@@ -2158,7 +2158,7 @@
       <Key ID="str_a3_cfgglasses_g_bandanna_beast0">
         <Original>Bandana (Beast)</Original>
         <Chinese>印花頭巾(野獸)</Chinese>
-        <Chinesesimp>印花头巾(野兽)</Chinesesimp>
+        <Chinesesimp>印花头巾（野兽）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_soldier_vr_f0">
         <Original>VR Entity</Original>
@@ -2168,7 +2168,7 @@
       <Key ID="str_a3_cfgglasses_g_balaclava_oli0">
         <Original>Balaclava (Olive)</Original>
         <Chinese>頭套(橄欖色)</Chinese>
-        <Chinesesimp>头套(橄榄色)</Chinesesimp>
+        <Chinesesimp>头套（橄榄色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_protagonist_vr_f0">
         <Original>VR Soldier</Original>
@@ -2178,7 +2178,7 @@
       <Key ID="str_a3_cfgglasses_g_balaclava_clean0">
         <Original>Balaclava (Black)</Original>
         <Chinese>頭套(黑色)</Chinese>
-        <Chinesesimp>头套(黑色)</Chinesesimp>
+        <Chinesesimp>头套（黑色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgglasses_g_goggles_vr0">
         <Original>VR Goggles</Original>
@@ -2188,7 +2188,7 @@
       <Key ID="str_a3_cfgglasses_g_balaclava_combat0">
         <Original>Balaclava (Combat Goggles)</Original>
         <Chinese>頭套(戰鬥風鏡)</Chinese>
-        <Chinesesimp>头套(战斗风镜)</Chinesesimp>
+        <Chinesesimp>头套（战斗风镜）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_vrsuit0">
         <Original>VR Suit</Original>
@@ -2203,32 +2203,32 @@
       <Key ID="str_a3_cfgglasses_g_balaclava_lowprofile0">
         <Original>Balaclava (Low Profile Goggles)</Original>
         <Chinese>頭套(薄型風鏡)</Chinese>
-        <Chinesesimp>头套(薄型风镜)</Chinesesimp>
+        <Chinesesimp>头套（薄型风镜）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgglasses_g_bandana_aviator0">
         <Original>Bandana (Aviator)</Original>
         <Chinese>印花頭巾(飛行員眼鏡)</Chinese>
-        <Chinesesimp>印花头巾(飞行员眼镜)</Chinesesimp>
+        <Chinesesimp>印花头巾（飞行员眼镜）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgglasses_g_bandana_clean0">
         <Original>Bandana (Black)</Original>
         <Chinese>印花頭巾(黑色)</Chinese>
-        <Chinesesimp>印花头巾(黑色)</Chinesesimp>
+        <Chinesesimp>印花头巾（黑色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgglasses_g_bandana_shades0">
         <Original>Bandana (Shades)</Original>
         <Chinese>印花頭巾(墨鏡)</Chinese>
-        <Chinesesimp>印花头巾(墨镜)</Chinesesimp>
+        <Chinesesimp>印花头巾（墨镜）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgglasses_g_bandana_sport0">
         <Original>Bandana (Sport)</Original>
         <Chinese>印花頭巾(運動)</Chinese>
-        <Chinesesimp>印花头巾(运动)</Chinesesimp>
+        <Chinesesimp>印花头巾（运动）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_c_protagonist_vr_f0">
         <Original>VR Man</Original>
         <Chinese>VR人員</Chinese>
-        <Chinesesimp>VR人员</Chinesesimp>
+        <Chinesesimp>VR 人员</Chinesesimp>
       </Key>
       <Key ID="STR_A3_guerilla_garment">
         <Original>Guerilla Garment</Original>
@@ -2238,17 +2238,17 @@
       <Key ID="STR_A3_guerilla_outfit_pattern">
         <Original>Guerilla Outfit (Pattern)</Original>
         <Chinese>游擊隊旅行服(格子服)</Chinese>
-        <Chinesesimp>游击队旅行服(格子服)</Chinesesimp>
+        <Chinesesimp>游击队旅行服（格子服）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_guerilla_outfit_plain">
         <Original>Guerilla Outfit (Plain, Light)</Original>
         <Chinese>游擊隊旅行服(素色，亮)</Chinese>
-        <Chinesesimp>游击队旅行服(素色，亮)</Chinesesimp>
+        <Chinesesimp>游击队旅行服（素色，亮）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_guerilla_outfit_plain_dark">
         <Original>Guerilla Outfit (Plain, Dark)</Original>
         <Chinese>游擊隊旅行服(素色，暗)</Chinese>
-        <Chinesesimp>游击队旅行服(素色，暗)</Chinesesimp>
+        <Chinesesimp>游击队旅行服（素色，暗）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_guerilla_raiment">
         <Original>Guerilla Apparel</Original>
@@ -2270,17 +2270,17 @@
       <Key ID="str_a3_cfgvehicleclasses_manvr0">
         <Original>Men (Virtual Reality)</Original>
         <Chinese>人員(虛擬實境)</Chinese>
-        <Chinesesimp>人员(虚拟实境)</Chinesesimp>
+        <Chinesesimp>人员（虚拟实境）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicleclasses_objects_vr0">
         <Original>Objects (Virtual Reality)</Original>
         <Chinese>物件(虛擬實境)</Chinese>
-        <Chinesesimp>物件(虚拟实境)</Chinesesimp>
+        <Chinesesimp>物件（虚拟实境）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicleclasses_structures_vr0">
         <Original>Structures (Virtual Reality)</Original>
         <Chinese>建築物(虛擬實境)</Chinese>
-        <Chinesesimp>建筑物(虚拟实境)</Chinesesimp>
+        <Chinesesimp>建筑物（虚拟实境）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_sign_arsenalsphere_f0">
         <Original>Arsenal Sphere</Original>
@@ -2302,66 +2302,66 @@
       <Key ID="str_a3_cfgvehicles_offroad_01_repair_base_f0">
         <Original>Offroad (Repair)</Original>
         <Chinese>越野皮卡貨車(維修)</Chinese>
-        <Chinesesimp>越野皮卡货车(维修)</Chinesesimp>
+        <Chinesesimp>越野皮卡货车（维修）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_c_offroad_01_repair_f0">
         <Original>Offroad (Services)</Original>
         <Chinese>越野皮卡貨車(服務)</Chinese>
-        <Chinesesimp>越野皮卡货车(服务)</Chinesesimp>
+        <Chinesesimp>越野皮卡货车（服务）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Sounds_F">
       <Key ID="str_a3_cfgvehicles_simulation_restart0">
         <Original>Simulation Restart</Original>
         <Chinese>模擬器(重新啟動)</Chinese>
-        <Chinesesimp>模拟器(重新启动)</Chinesesimp>
+        <Chinesesimp>模拟器（重新启动）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_topic_deselection0">
         <Original>Topic Deselection</Original>
         <Chinese>題目(取消選取)</Chinese>
-        <Chinesesimp>题目(取消选取)</Chinesesimp>
+        <Chinesesimp>题目（取消选取）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_topic_done0">
         <Original>Topic Done</Original>
         <Chinese>題目(完成)</Chinese>
-        <Chinesesimp>题目(完成)</Chinesesimp>
+        <Chinesesimp>题目（完成）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_topic_selection0">
         <Original>Topic Selection</Original>
         <Chinese>題目(選取)</Chinese>
-        <Chinesesimp>题目(选取)</Chinesesimp>
+        <Chinesesimp>题目（选取）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_topic_trigger0">
         <Original>Topic Trigger</Original>
         <Chinese>題目(觸發)</Chinese>
-        <Chinesesimp>题目(触发)</Chinesesimp>
+        <Chinesesimp>题目（触发）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_simulation_fatal0">
         <Original>Simulation Lethal Damage</Original>
         <Chinese>模擬器(受到致命傷害)</Chinese>
-        <Chinesesimp>模拟器(受到致命伤害)</Chinesesimp>
+        <Chinesesimp>模拟器（受到致命伤害）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Weapons_F">
       <Key ID="str_a3_cfgvehicles_box_fia_support_f0">
         <Original>FIA Equipment Cache</Original>
         <Chinese>自由獨立同盟裝備箱</Chinese>
-        <Chinesesimp>FIA装备箱</Chinesesimp>
+        <Chinesesimp>FIA 装备箱</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_box_fia_wps_f0">
         <Original>FIA Weapon Cache</Original>
         <Chinese>自由獨立同盟武器箱</Chinese>
-        <Chinesesimp>FIA武器箱</Chinesesimp>
+        <Chinesesimp>FIA 武器箱</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_srifle_gm6_camo_f0">
         <Original>GM6 Lynx 12.7 mm (Camo)</Original>
         <Chinese>GM6"山貓"12.7公厘(迷彩)</Chinese>
-        <Chinesesimp>GM6"山猫"12.7mm (迷彩)</Chinesesimp>
+        <Chinesesimp>GM6"山猫"12.7 mm（迷彩）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_srifle_lrr_camo_f0">
         <Original>M320 LRR .408 (Camo)</Original>
         <Chinese>M320 LRR .408(迷彩)</Chinese>
-        <Chinesesimp>M320 LRR .408(迷彩)</Chinesesimp>
+        <Chinesesimp>M320 LRR .408（迷彩）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_box_fia_ammo_f0">
         <Original>FIA Ammo Cache</Original>
@@ -2373,12 +2373,12 @@
       <Key ID="STR_A3_CfgMusic_LeadTrack01_F_Bootcamp">
         <Original>This is War (VR Remix)</Original>
         <Chinese>這是戰爭(虛擬實境混音版)</Chinese>
-        <Chinesesimp>这就是战争(虚拟实境混音版)</Chinesesimp>
+        <Chinesesimp>这就是战争（虚拟实境混音版）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack01b_F_Bootcamp">
         <Original>This is War (VR Remix - loop)</Original>
         <Chinese>這是戰爭(虛擬實境混音版-循環)</Chinese>
-        <Chinesesimp>这就是战争(虚拟实境混音版-循环)</Chinesesimp>
+        <Chinesesimp>这就是战争（虚拟实境混音版-循环）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack02_F_Bootcamp">
         <Original>Evolution</Original>
@@ -2425,7 +2425,7 @@
       <Key ID="str_a3_rscdisplaywelcome_boot_pard_footer">
         <Original>More at www.arma3.com/whatsnewbootcamp</Original>
         <Chinese>更多詳情請上www.arma3.com/whatsnewbootcamp查閱</Chinese>
-        <Chinesesimp>更多详情请上www.arma3.com/whatsnewbootcamp查阅</Chinesesimp>
+        <Chinesesimp>更多详情请上 www.arma3.com/whatsnewbootcamp 查阅</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_boot_parc_title">
         <Original>SANDBOX CONTENT</Original>
@@ -2440,12 +2440,12 @@
       <Key ID="str_a3_rscdisplaywelcome_boot_parc_list3">
         <Original>a variety of new decorative objects should help enrich custom compositions (particularly for kart races!).</Original>
         <Chinese>新增數個物件，幫助玩家可更豐富自訂任務內容(特別是卡丁車比賽!)。</Chinese>
-        <Chinesesimp>新增数个物件，帮助玩家可更丰富自定义任务内容(特别是卡丁车比赛!)。</Chinesesimp>
+        <Chinesesimp>新增数个物件，帮助玩家可更丰富自定义任务内容（特别是卡丁车比赛!）。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_boot_parc_list2_title">
         <Original>FIA Updates</Original>
         <Chinese>自由獨立同盟更新</Chinese>
-        <Chinesesimp>FIA更新</Chinesesimp>
+        <Chinesesimp>FIA 更新</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_boot_parc_list2">
         <Original>the guerrilla faction has seen the addition of several support vehicles plus new gear, such as balaclavas and masks.</Original>
@@ -2480,7 +2480,7 @@
       <Key ID="str_a3_rscdisplaywelcome_boot_parb_list5">
         <Original>links to our official Community Guide series</Original>
         <Chinese>連接到Youtube上觀看我們的社群指導系列影片</Chinese>
-        <Chinesesimp>连接到Youtube上观看我们的社区指导系列影片</Chinesesimp>
+        <Chinesesimp>连接到 Youtube 上观看我们的社区指导系列影片</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_boot_parb_list4_title">
         <Original>Virtual Arsenal</Original>
@@ -2525,7 +2525,7 @@
       <Key ID="str_a3_rscdisplaywelcome_boot_parb_footer">
         <Original>More at www.arma3.com/bootcamp</Original>
         <Chinese>更多詳情請上www.arma3.com/bootcamp查閱</Chinese>
-        <Chinesesimp>更多详情请上www.arma3.com/bootcamp查阅</Chinesesimp>
+        <Chinesesimp>更多详情请上 www.arma3.com/bootcamp 查阅</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_boot_parb">
         <Original>Bootcamp Update introduces a number of new components that help new and veteran players discover more about Arma 3. The goal is to provide a variety of ways to learn about the game; Bootcamp Update includes:</Original>

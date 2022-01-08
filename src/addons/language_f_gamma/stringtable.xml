@@ -27,7 +27,7 @@
       <Key ID="str_a3_terminal1">
         <Original>Access to a UAV Terminal is available only if you have item %3%11%4 in your inventory. To open a UAV Terminal select %3%12%4 in the action menu.&lt;br/&gt;&lt;br/&gt;The UAV Terminal is a powerful tool where you can:%1%2See all friendly UAVs nearby.%1%2Create a connection between your terminal and non-controlled UAVs: use %14 on UAV.%1%2See basic information about the connected UAV.%1%2See camera output from the connected UAV.%1%2Set tasks/waypoints for the connected UAV: %13 in map.%1%2Set waypoint parameters for the UAV: %14 on waypoint.%1%2UAV terminal can be also used as a GPS module.</Original>
         <Chinese>當你擁有%3%11%4在你的裝備裡的時候，你才能使用無人載具終端機。使用動作選單裡的%3%12%4來開啟無人載具終端機。&lt;br/&gt;&lt;br/&gt;無人載具終端機是個非常強大的工具，你可以用它做以下事情:%1%2查看附近所有的友軍無人載具。%1%2建立終端機與無人載具之間的連接:使用%14點擊無人載具。%1%2查看無人載具的基本資訊。%1%2觀看從無人載具攝影機輸出的影像。%1%2設定任務/路徑給已連接的無人載具:%13在地圖上。%1%2設定路徑參數給無人載具:%14在路徑點上。%1%2無人載具終端機也可被當作GPS使用。</Chinese>
-        <Chinesesimp>当你拥有%3%11%4在你的装备里的时候，你才能使用无人载具终端机。使用动作选单里的%3%12%4来开启无人载具终端机。&lt;br/&gt;&lt;br/&gt;无人载具终端机是个非常强大的工具，你可以用它做以下事情:%1%2查看附近所有的友军无人载具。%1%2建立终端机与无人载具之间的连接:使用%14点击无人载具。%1%2查看无人载具的基本信息。%1%2观看从无人载具摄影机输出的影像。%1%2设定任务/路径给已连接的无人载具:%13在地图上。%1%2设定路径参数给无人载具:%14在路径点上。%1%2无人载具终端机也可被当作GPS使用。</Chinesesimp>
+        <Chinesesimp>当你拥有%3%11%4在你的装备里的时候，你才能使用无人载具终端机。使用动作选单里的%3%12%4来开启无人载具终端机。&lt;br/&gt;&lt;br/&gt;无人载具终端机是个非常强大的工具，你可以用它做以下事情:%1%2查看附近所有的友军无人载具。%1%2建立终端机与无人载具之间的连接:使用%14点击无人载具。%1%2查看无人载具的基本信息。%1%2观看从无人载具摄影机输出的影像。%1%2设定任务/路径给已连接的无人载具:%13在地图上。%1%2设定路径参数给无人载具:%14在路径点上。%1%2无人载具终端机也可被当作 GPS 使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_terminal0">
         <Original>UAV Terminal</Original>
@@ -142,7 +142,7 @@
       <Key ID="str_a3_landing0">
         <Original>A good approach is the key to a good landing.%1&lt;t&gt;&lt;/t&gt;1. Line up your airplane with the runway and adjust the throttle %11 to slow down to 1/3 above your stall speed.%1&lt;t&gt;&lt;/t&gt;2. Keep your nose slightly down, lower the landing gear %12 and extend the flaps %13.%1&lt;t&gt;&lt;/t&gt;3. Pick a point on the runway (e.g. numbers) and reference it to your cockpit. Try to keep it in the same position throughout the descent.%1&lt;t&gt;&lt;/t&gt;4. If the point is moving up, you are undershooting and need to increase power. If it's moving down, reduce power or extend flaps further.%1&lt;t&gt;&lt;/t&gt;5. Once you're above the runway, reduce power to idle, gently pull up the nose and wait until the wheels touch the runway. Then brake %14.</Original>
         <Chinese>一個好的進場是整個降落中的關鍵。%1&lt;t&gt;&lt;/t&gt;1. 把你的飛機與跑道對齊並使用%11降低油門至1/3左右，略高於失速的速度。%1&lt;t&gt;&lt;/t&gt;2. 稍微壓低你的機鼻，使用%12放下你的起落架，並用%13張開你的襟翼。%1&lt;t&gt;&lt;/t&gt;3. 在跑道上選一個參考點(例如:跑道號碼)並使你的飛行路徑標誌(FPM)對準該參考點。請試著在整個下滑階段都保持對準該點。%1&lt;t&gt;&lt;/t&gt;4. 假如那個參考點過高，代表你會錯失該點，請增加一點你的油門來修正下滑率。假如那個點過低，請減低你的油門或是把襟翼張更大。%1&lt;t&gt;&lt;/t&gt;5. 當你最終到跑道上空時，減低油門至最低並輕輕的拉起你的機鼻直到起落架觸地。最後再使用%14煞車即可完成降落。</Chinese>
-        <Chinesesimp>良好的进近是整个降落中的关键。%1&lt;t&gt;&lt;/t&gt;1. 把你的飞机与跑道对齐并使用%11降低油门至1/3左右，略高于失速的速度。%1&lt;t&gt;&lt;/t&gt;2. 稍微压低你的机鼻，使用%12放下你的起落架，并用%13张开你的襟翼。%1&lt;t&gt;&lt;/t&gt;3. 在跑道上选一个参考点(例如:跑道号码)并使你的飞行路径标志(FPM)对准该参考点。请试着在整个下滑阶段都保持对准该点。%1&lt;t&gt;&lt;/t&gt;4. 假如那个参考点过高，代表你会错失该点，请增加一点你的油门来修正下滑率。假如那个点过低，请减低你的油门或是把襟翼张更大。%1&lt;t&gt;&lt;/t&gt;5. 当你最终到跑道上空时，减低油门至最低并轻轻的拉起你的机鼻直到起落架触地。最后再使用%14刹车即可完成降落。</Chinesesimp>
+        <Chinesesimp>良好的进近是整个降落中的关键。%1&lt;t&gt;&lt;/t&gt;1. 把你的飞机与跑道对齐并使用%11降低油门至1/3左右，略高于失速的速度。%1&lt;t&gt;&lt;/t&gt;2. 稍微压低你的机鼻，使用%12放下你的起落架，并用%13张开你的襟翼。%1&lt;t&gt;&lt;/t&gt;3. 在跑道上选一个参考点(例如:跑道号码)并使你的飞行路径标志（FPM）对准该参考点。请试着在整个下滑阶段都保持对准该点。%1&lt;t&gt;&lt;/t&gt;4. 假如那个参考点过高，代表你会错失该点，请增加一点你的油门来修正下滑率。假如那个点过低，请减低你的油门或是把襟翼张更大。%1&lt;t&gt;&lt;/t&gt;5. 当你最终到跑道上空时，减低油门至最低并轻轻的拉起你的机鼻直到起落架触地。最后再使用%14刹车即可完成降落。</Chinesesimp>
       </Key>
       <Key ID="str_a3_controls2">
         <Original>Other specific actions include:%1%2Flaps - extend %19 and retract %20 %1%2%21 for landing gear</Original>
@@ -157,12 +157,12 @@
       <Key ID="str_a3_connection1">
         <Original>To take control over a friendly autonomous vehicle, you must have a %3%11%4 item assigned in the GPS slot in your inventory. Connection to a UAV can be created in the UAV Terminal.%1%2Open the action menu via %12, select %3%13%4.%1%2Select the UAV from the top-left drop down menu.%1%2Take control of a driver or a gunner position using buttons on the top-right.%1%2Use the action menu to switch between positions or to release UAV controls.%1There can be only one UAV connected to your terminal at any time.</Original>
         <Chinese>要控制一臺友軍的無人載具，你必須擁有一個%3%11%4在你背包中的GPS欄位。與無人載具的連接可以在無人載具終端機中被建立。%1%2使用%12來打開動作選單，選擇%3%13%4。%1%2使用%14點擊可被控制的無人載具。%1%2選擇%3%15%4。%1%2你可以在左上角的選單中選擇無人載具。%1%2在右上角選擇你要控制的位置。%1%2在操控無人載具時，你可以透過動作選單來切換控制的位置。%1任何時候，你的終端機至多只能連接一臺無人載具。</Chinese>
-        <Chinesesimp>要控制一台友军的无人载具，你必须拥有一个%3%11%4在你背包中的GPS栏位。与无人载具的连接可以在无人载具终端机中被建立。%1%2使用%12来打开动作选单，选择%3%13%4。%1%2使用%14点击可被控制的无人载具。%1%2选择%3%15%4。%1%2你可以在左上角的选单中选择无人载具。%1%2在右上角选择你要控制的位置。%1%2在操控无人载具时，你可以透过动作选单来切换控制的位置。%1任何时候，你的终端机至多只能连接一台无人载具。</Chinesesimp>
+        <Chinesesimp>要控制一台友军的无人载具，你必须拥有一个%3%11%4在你背包中的 GPS 栏位。与无人载具的连接可以在无人载具终端机中被建立。%1%2使用%12来打开动作选单，选择%3%13%4。%1%2使用%14点击可被控制的无人载具。%1%2选择%3%15%4。%1%2你可以在左上角的选单中选择无人载具。%1%2在右上角选择你要控制的位置。%1%2在操控无人载具时，你可以透过动作选单来切换控制的位置。%1任何时候，你的终端机至多只能连接一台无人载具。</Chinesesimp>
       </Key>
       <Key ID="str_a3_controls0">
         <Original>Aircraft maneuver on three axes: Pitch, Roll, and Yaw. %1%2Pitch or nose up %11 and nose down %12. %1%2Roll or bank left %15 and right %16. %1%2Yaw or steer left %17 and right %18. %1%2Hold %13 to increase throttle, hold %14 to decrease throttle.</Original>
         <Chinese>飛機總共可以在三個方向上做運動:俯仰，滾轉以及偏航。%1%2俯仰可以透過%11來抬升機鼻或是用%12降低機鼻。%1%2滾轉可以透過%15來向左滾或是用%16來向右滾。%1%2偏航(以及機輪)可以透過%17來向左轉或用%18向右轉。%1%2按住%13來增加推力，按住%14來降低推力。</Chinese>
-        <Chinesesimp>飞机总共可以在三个方向上做运动:俯仰，滚转以及偏航。%1%2俯仰可以透过%11来抬升机鼻或是用%12降低机鼻。%1%2滚转可以透过%15来向左滚或是用%16来向右滚。%1%2偏航(以及机轮)可以透过%17来向左转或用%18向右转。%1%2按住%13来增加推力，按住%14来降低推力。</Chinesesimp>
+        <Chinesesimp>飞机总共可以在三个方向上做运动:俯仰，滚转以及偏航。%1%2俯仰可以透过%11来抬升机鼻或是用%12降低机鼻。%1%2滚转可以透过%15来向左滚或是用%16来向右滚。%1%2偏航（以及机轮）可以透过%17来向左转或用%18向右转。%1%2按住%13来增加推力，按住%14来降低推力。</Chinesesimp>
       </Key>
       <Key ID="str_a3_connection0">
         <Original>UAV Connection</Original>
@@ -187,12 +187,12 @@
       <Key ID="str_a3_cfghints_tacticaltease2">
         <Original>Please note that the following texts are just excerpts from full, 350 page long Arma 3 Tactical Guide written by Andrew „dslyecxi“ Gluck. This digital guide is available as part of Digital Deluxe Editions and also can be bought separately in our online shop in both %3&lt;a href='https://store.bistudio.com/products/arma3-tactical-guide-pdf'&gt;digital&lt;/a&gt;%4 and %3&lt;a href='https://store.bistudio.com/products/arma3-tactical-guide-printed'&gt;printed&lt;/a&gt;%4 version.</Original>
         <Chinese>此戰術指南由Andrew'Dslyecxi'Gluck來編寫，內容有350頁，收錄於有購買數位豪華版的人的遊戲資料夾裡面。你可以在這邊看到更多詳情:%3&lt;ahref='https://store.bistudio.com/products/arma3-tactical-guide-pdf'&gt;電子書&lt;/a&gt;%4或%3&lt;ahref='https://store.bistudio.com/products/arma3-tactical-guide-printed'&gt;實體書&lt;/a&gt;%4。</Chinese>
-        <Chinesesimp>此战术指南由Andrew'Dslyecxi'Gluck来编写，内容有350页，收录于有购买数字豪华版的人的游戏文件夹里面。你可以在这边看到更多详情:%3&lt;ahref='https://store.bistudio.com/products/arma3-tactical-guide-pdf'&gt;电子书&lt;/a&gt;%4或%3&lt;ahref='https://store.bistudio.com/products/arma3-tactical-guide-printed'&gt;实体书&lt;/a&gt;%4。</Chinesesimp>
+        <Chinesesimp>此战术指南由 Andrew'Dslyecxi'Gluck 来编写，内容有350页，收录于有购买数字豪华版的人的游戏文件夹里面。你可以在这边看到更多详情:%3&lt;ahref='https://store.bistudio.com/products/arma3-tactical-guide-pdf'&gt;电子书&lt;/a&gt;%4或%3&lt;ahref='https://store.bistudio.com/products/arma3-tactical-guide-printed'&gt;实体书&lt;/a&gt;%4。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_tacticaltease1">
         <Original>Welcome to the Tactical Guide. This section intends to teach you about the Tactics, Techniques and Procedures of combat. The topics were specifically picked to help you gain a tactical advantage in each stage of our episodic campaign.</Original>
         <Chinese>歡迎來到戰術指南。本指南將會指導你戰術，技巧和步兵戰鬥程序。%1指南將會與戰役一同發佈，並會自動通過Steam來更新。</Chinese>
-        <Chinesesimp>欢迎来到战术指南。本指南将会指导你战术，技巧和步兵战斗程序。%1指南将会与战役一同发布，并会自动通过Steam来更新。</Chinesesimp>
+        <Chinesesimp>欢迎来到战术指南。本指南将会指导你战术，技巧和步兵战斗程序。%1指南将会与战役一同发布，并会自动通过 Steam 来更新。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_tacticaltease0">
         <Original>000 Tactical Guide Intro</Original>
@@ -207,7 +207,7 @@
       <Key ID="str_a3_basics1">
         <Original>UAVs (Unmanned Autonomous Vehicle) are remotely controlled vehicles which operate without a human crew onboard. They can be used for many applications where it may be inconvenient, dangerous, or impossible to have a human operator present. Each one of them has its own internal computing unit and is able to make certain decisions by itself (transport from one place to another, enemy/friendly recognition, etc.).</Original>
         <Chinese>無人載具(無人操控自動載具)是無人駕駛的遙控載具。它們能夠用於多個領域。例如那些不方便，危險或人類不能到達的地方。每個無人載具都擁有內建電腦且能夠自主行動(移動與敵我識別等許多功能。)</Chinese>
-        <Chinesesimp>无人载具(无人操控自动载具)是无人驾驶的遥控载具。它们能够用于多个领域。例如那些不方便，危险或人类不能到达的地方。每个无人载具都拥有内置电脑且能够自主行动(移动与敌我识别等许多功能。)</Chinesesimp>
+        <Chinesesimp>无人载具(无人操控自动载具)是无人驾驶的遥控载具。它们能够用于多个领域。例如那些不方便，危险或人类不能到达的地方。每个无人载具都拥有内置电脑且能够自主行动（移动与敌我识别等许多功能。）</Chinesesimp>
       </Key>
       <Key ID="str_a3_basics0">
         <Original>UAV Basics</Original>
@@ -272,7 +272,7 @@
       <Key ID="STR_A3_FM_Welcome5">
         <Original>After our Alpha and Beta programs, we're now unleashing the primary Arma 3 release. This is just the %3beginning%4 however. We see this as the proper start of the Arma 3 %3platform%4. Both us and you will hopefully expand and enhance it for years to come. These are just a few of the highlighted changes since the Beta:%1%1%2%3Altis%4 - the massive virtual terrain inviting you for endless exploration%1%2%3Armor%4 - Main Battle Tanks, self-propelled artillery and Anti-Aircraft vehicles%1%2%3Drones%4 - quadcopters, Unmanned Ground Vehicles and fixed-wing UAVs%1%2%3Play%4 - more showcases, multiplayer scenarios and Firing Drills%1%2%3Campaign%4 - released for %3FREE%4 in several episodes during the months following launch%1%1More at %3&lt;a href='http://www.arma3.com/whatsnewfull/'&gt;arma3.com/whatsnewfull&lt;/a&gt;%4</Original>
         <Chinese>繼Alpha測試版和Beta測試版之後，我們現在很榮幸為大家推出武裝突襲3正式版。不過，這只不過是剛剛%3開始%4而已。我們把它看作是武裝突襲3%3這個平臺%4的開始。在今後的幾年裡，我們和各位玩家都會對它進行擴展和增強。以下特色是正式版與Beta版最大的不同:%1%1%2%3阿爾蒂斯%4-廣大的虛擬地圖邀請您一同來探索%1%2%3裝甲%4-主戰坦克，自走炮和防空載具%1%2%3無人載具%4-四軸飛行器，地面無人載具和固定翼無人載具%1%2%3遊戲%4-更多的任務展示，多人任務和射擊訓練%1%2%3戰役%4-將在發行後的幾個月內，分成幾個章節來讓大家%3免費%4遊玩%1%1更多訊息請參見%3&lt;ahref='https://www.arma3.com/whatsnewfull/'&gt;arma3.com/whatsnewfull&lt;/a&gt;%4</Chinese>
-        <Chinesesimp>继Alpha测试版和Beta测试版之后，我们现在很荣幸为大家推出武装突袭3正式版。不过，这只不过是刚刚%3开始%4而已。我们把它看作是武装突袭3%3这个平台%4的开始。在今后的几年里，我们和各位玩家都会对它进行扩展和增强。以下特色是正式版与Beta版最大的不同:%1%1%2%3阿尔蒂斯%4-广大的虚拟地图邀请您一同来探索%1%2%3装甲%4-主战坦克，自行火炮和防空载具%1%2%3无人载具%4-四轴飞行器，地面无人载具和固定翼无人载具%1%2%3游戏%4-更多的任务展示，多人任务和射击训练%1%2%3战役%4-将在发行后的几个月内，分成几个章节来让大家%3免费%4游玩%1%1更多信息请参见%3&lt;ahref='https://www.arma3.com/whatsnewfull/'&gt;arma3.com/whatsnewfull&lt;/a&gt;%4</Chinesesimp>
+        <Chinesesimp>继 Alpha 测试版和 Beta 测试版之后，我们现在很荣幸为大家推出武装突袭3正式版。不过，这只不过是刚刚%3开始%4而已。我们把它看作是武装突袭3%3这个平台%4的开始。在今后的几年里，我们和各位玩家都会对它进行扩展和增强。以下特色是正式版与 Beta 版最大的不同:%1%1%2%3阿尔蒂斯%4-广大的虚拟地图邀请您一同来探索%1%2%3装甲%4-主战坦克，自行火炮和防空载具%1%2%3无人载具%4-四轴飞行器，地面无人载具和固定翼无人载具%1%2%3游戏%4-更多的任务展示，多人任务和射击训练%1%2%3战役%4-将在发行后的几个月内，分成几个章节来让大家%3免费%4游玩%1%1更多信息请参见%3&lt;ahref='https://www.arma3.com/whatsnewfull/'&gt;arma3.com/whatsnewfull&lt;/a&gt;%4</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FM_Welcome6">
         <Original>Prepare for War</Original>
@@ -282,7 +282,7 @@
       <Key ID="STR_A3_FM_Welcome7">
         <Original>To get off to the best possible start - and to get the most out of your experience - please look through a quick set of options. Then, either have a look at what the game offers, or start exploring yourself!%1%1%2%3Video options%4 - improved automatic benchmark should provide better defaults, but have a look in the video options to hit the perfect balance between performance, quality, and personal preference.%1%2%3Controls%4 - some default bindings are different to Arma 2 (e.g. grenades and inventory). See how you like them, experiment with the different presets on offer, or configure your own set up.%1%2%3Playable Content%4 - check out showcases of our new features and gameplay, load up quick and fun challenges, cooperate with friends in multiplayer, or dig into the sandbox with the editor. More content will be added gradually!%1%2%3Feedback%4 - help us by reporting issues on the Feedback Tracker.%1%1Thank you for your support and cya on the battlefield!</Original>
         <Chinese>為了取得一個美好的開始-並充分享受你的遊戲經驗-請瀏覽一下快速設置選項。然後，再看一眼這個遊戲都提供些什麼，或者開始自己去探索!%1%1%2%3畫面設定%4-自動檢測會提供一個更好的默認設置，但還是最好自己看一看畫面設定中的各項參數，以期能在性能，質量和個人偏好之間達到一個最好的平衡。%1%2%3控制%4-一些默認的鍵位設置與武裝突襲2不同了(比如手榴彈和背包)。看看你是否習慣，使用遊戲提供的幾套不同鍵位設置或者自定義你自己的一套鍵位。%1%2%3可玩內容%4-玩玩任務展示來體驗新的特色，參與快速且有趣的挑戰，在多人模式中和好友們合作，或者在沙箱模式中和設計師們一起鑽研任務設計。更多的內容將被逐步地加入!%1%2%3反饋%4-通過反饋來提報問題給我們。%1%1感謝你的支持，我們戰場上見!</Chinese>
-        <Chinesesimp>为了取得一个美好的开始-并充分享受你的游戏经验-请浏览一下快速设置选项。然后，再看一眼这个游戏都提供些什么，或者开始自己去探索!%1%1%2%3画面设定%4-自动检测会提供一个更好的默认设置，但还是最好自己看一看画面设定中的各项参数，以期能在性能，质量和个人偏好之间达到一个最好的平衡。%1%2%3控制%4-一些默认的键位设置与武装突袭2不同了(比如手榴弹和背包)。看看你是否习惯，使用游戏提供的几套不同键位设置或者自定义你自己的一套键位。%1%2%3可玩内容%4-玩玩任务展示来体验新的特色，参与快速且有趣的挑战，在多人模式中和好友们合作，或者在沙箱模式中和设计师们一起钻研任务设计。更多的内容将被逐步地加入!%1%2%3反馈%4-通过反馈来提报问题给我们。%1%1感谢你的支持，我们战场上见!</Chinesesimp>
+        <Chinesesimp>为了取得一个美好的开始-并充分享受你的游戏经验-请浏览一下快速设置选项。然后，再看一眼这个游戏都提供些什么，或者开始自己去探索!%1%1%2%3画面设定%4-自动检测会提供一个更好的默认设置，但还是最好自己看一看画面设定中的各项参数，以期能在性能，质量和个人偏好之间达到一个最好的平衡。%1%2%3控制%4-一些默认的键位设置与武装突袭2不同了（比如手榴弹和背包）。看看你是否习惯，使用游戏提供的几套不同键位设置或者自定义你自己的一套键位。%1%2%3可玩内容%4-玩玩任务展示来体验新的特色，参与快速且有趣的挑战，在多人模式中和好友们合作，或者在沙箱模式中和设计师们一起钻研任务设计。更多的内容将被逐步地加入!%1%2%3反馈%4-通过反馈来提报问题给我们。%1%1感谢你的支持，我们战场上见!</Chinesesimp>
       </Key>
     </Container>
     <Container name="Equipment">
@@ -340,7 +340,7 @@
           <Key ID="str_a3_cfgweapons_pdw2000_base_f0">
             <Original>Submachine Gun&lt;br/&gt;Caliber: 9x21 mm</Original>
             <Chinese>衝鋒槍&lt;br/&gt;口徑:9x21公厘</Chinese>
-            <Chinesesimp>冲锋枪&lt;br/&gt;口径:9x21mm </Chinesesimp>
+            <Chinesesimp>冲锋枪&lt;br/&gt;口径:9x21mm</Chinesesimp>
           </Key>
         </Container>
         <Container name="DisplayName">
@@ -378,7 +378,7 @@
         <Key ID="str_a3_cfgvehicles_gmg_01_base_armory0">
           <Original>The Mk32 GMG is a static grenade launcher. It's based on the Mk30 HMG, using the same electronic targeting and tripod, but fires 20 mm grenades instead of .50 BMG. Mk32 also exists in an automatic/remotely controlled variant which is labeled Mk32A.</Original>
           <Chinese>Mk32榴彈機槍一種固定式榴彈發射器。基本架構同Mk30重機槍，使用相同的電子瞄準和腳架，但是發射20公厘榴彈而不是.50子彈。一種Mk32版本為自動/遙控，並且安裝在車頂上，被命名為Mk32A。</Chinese>
-          <Chinesesimp>Mk32榴弹发射器一种固定式榴弹发射器。基本架构同Mk30重机枪，使用相同的电子瞄准和脚架，但是发射20mm 榴弹而不是.50子弹。一种Mk32版本为自动/遥控，并且安装在车顶上，被命名为Mk32A。</Chinesesimp>
+          <Chinesesimp>Mk32榴弹发射器一种固定式榴弹发射器。基本架构同 Mk30重机枪，使用相同的电子瞄准和脚架，但是发射20mm 榴弹而不是.50子弹。一种 Mk32版本为自动/遥控，并且安装在车顶上，被命名为 Mk32A。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_hmg_01_a_base0">
           <Original>Mk30A HMG .50</Original>
@@ -393,7 +393,7 @@
         <Key ID="str_a3_cfgvehicles_hmg_01_base_armory0">
           <Original>The Mk30 HMG is a static machine gun used by infantry and support. Several projects were launched to replace the Browning M2, but each resulted in them being shelved for various reasons. The Mk30 made it through. Compared to the M2, it's lighter and more portable with better accuracy, utilizing new materials, electronic targeting help and a new tripod, trading portability for rate of fire. Based on the previous concept of the XM307/XM312, the Mk30 is chambered for .50 BMG cartridges with a rate of fire of 350 rpm and effective range up to 2000 meters. Mk30 also exists in an automatic/remotely controlled variant which is labeled Mk30A.</Original>
           <Chinese>Mk30重機槍是一種固定式機槍，用來給予步兵支援性火力。軍方開始了幾個不同的機槍開發計劃，其目的是為要取代白朗寧M2重機槍，但每個計劃都因一些原因而暫時停止開發。但Mk30卻成功了。跟M2相比，它的重量更輕，更好攜帶，以及有著更棒的精準度，利用新材料，電子瞄準，新腳架，和在便攜性與射速中取得平衡。基於之前XM312/XM307的概念，Mk30使用.50子彈，每分鐘射速為350發，有效射程高達2000公尺。一種Mk30版本為自動/遙控，並且安裝在車頂上，被命名為Mk30A。</Chinese>
-          <Chinesesimp>Mk30重机枪是一种固定式机枪，用来给予步兵支援性火力。军方开始了几个不同的机枪开发计划，其目的是为要取代勃朗宁M2重机枪，但每个计划都因一些原因而暂时停止开发。但Mk30却成功了。跟M2相比，它的重量更轻，更好携带，以及有着更棒的精准度，利用新材料，电子瞄准，新脚架，和在便携性与射速中取得平衡。基于之前XM312/XM307的概念，Mk30使用.50子弹，每分钟射速为350发，有效射程高达2000米。一种Mk30版本为自动/遥控，并且安装在车顶上，被命名为Mk30A。</Chinesesimp>
+          <Chinesesimp>Mk30重机枪是一种固定式机枪，用来给予步兵支援性火力。军方开始了几个不同的机枪开发计划，其目的是为要取代勃朗宁M2重机枪，但每个计划都因一些原因而暂时停止开发。但 Mk30却成功了。跟M2相比，它的重量更轻，更好携带，以及有着更棒的精准度，利用新材料，电子瞄准，新脚架，和在便携性与射速中取得平衡。基于之前 XM312/XM307的概念，Mk30使用.50子弹，每分钟射速为350发，有效射程高达2000米。一种 Mk30版本为自动/遥控，并且安装在车顶上，被命名为 Mk30A。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_gmg_01_base0">
           <Original>Mk32 GMG 20 mm</Original>
@@ -428,12 +428,12 @@
         <Key ID="str_a3_cfgvehicles_b_gmg_01_wpn0">
           <Original>Dismantled Mk32 GMG [NATO]</Original>
           <Chinese>拆解Mk32榴彈機槍[北約]</Chinese>
-          <Chinesesimp>拆解Mk32榴弹发射器[北约]</Chinesesimp>
+          <Chinesesimp>拆解 Mk32榴弹发射器[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_wpn0">
           <Original>Dismantled Mk30 HMG [NATO]</Original>
           <Chinese>拆解Mk30重機槍[北約]</Chinese>
-          <Chinesesimp>拆解Mk30重机枪[北约]</Chinesesimp>
+          <Chinesesimp>拆解 Mk30重机枪[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_wpn_assembleinfo0">
           <Original>Static MG</Original>
@@ -443,12 +443,12 @@
         <Key ID="str_a3_cfgvehicles_b_gmg_01_wpn1">
           <Original>Dismantled Mk32 GMG [CSAT]</Original>
           <Chinese>拆解Mk32榴彈機槍[廣協同盟]</Chinese>
-          <Chinesesimp>拆解Mk32榴弹发射器[广协]</Chinesesimp>
+          <Chinesesimp>拆解 Mk32榴弹发射器[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_gmg_01_wpn2">
           <Original>Dismantled Mk32 GMG [AAF]</Original>
           <Chinese>拆解Mk32榴彈機槍[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>拆解Mk32榴弹发射器[AAF]</Chinesesimp>
+          <Chinesesimp>拆解 Mk32榴弹发射器[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_support0">
           <Original>Folded Tripod [NATO]</Original>
@@ -493,12 +493,12 @@
         <Key ID="str_a3_cfgvehicles_b_hmg_01_wpn1">
           <Original>Dismantled Mk30 HMG [CSAT]</Original>
           <Chinese>拆解Mk30重機槍[廣協同盟]</Chinese>
-          <Chinesesimp>拆解Mk30重机枪[广协]</Chinesesimp>
+          <Chinesesimp>拆解 Mk30重机枪[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_wpn2">
           <Original>Dismantled Mk30 HMG [AAF]</Original>
           <Chinese>拆解Mk30重機槍[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>拆解Mk30重机枪[AAF]</Chinesesimp>
+          <Chinesesimp>拆解 Mk30重机枪[AAF]</Chinesesimp>
         </Key>
       </Container>
       <Container name="Uniforms">
@@ -537,12 +537,12 @@
           <Key ID="str_a3_common_clothers8_cool">
             <Original>Commoner Clothes (Cool)</Original>
             <Chinese>普通人衣服(涼爽)</Chinese>
-            <Chinesesimp>普通人衣服(凉爽)</Chinesesimp>
+            <Chinesesimp>普通人衣服（凉爽）</Chinesesimp>
           </Key>
           <Key ID="str_a3_common_clothers9_dark">
             <Original>Commoner Clothes (Dark)</Original>
             <Chinese>普通人衣服(黑色)</Chinese>
-            <Chinesesimp>普通人衣服(黑色)</Chinesesimp>
+            <Chinesesimp>普通人衣服（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_common_clothes3">
             <Original>Commoner Clothes 4</Original>
@@ -567,12 +567,12 @@
           <Key ID="str_a3_scavenger_clothes_dark">
             <Original>Scavenger Clothes (Dark)</Original>
             <Chinese>拾荒者衣服(黑色)</Chinese>
-            <Chinesesimp>拾荒者衣服(黑色)</Chinesesimp>
+            <Chinesesimp>拾荒者衣服（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_scavenger_clothes_light">
             <Original>Scavenger Clothes (Light)</Original>
             <Chinese>拾荒者衣服(輕便)</Chinese>
-            <Chinesesimp>拾荒者衣服(轻便)</Chinesesimp>
+            <Chinesesimp>拾荒者衣服（轻便）</Chinesesimp>
           </Key>
           <Key ID="str_a3_shepherd_clothes">
             <Original>Shepherd Clothes</Original>
@@ -632,12 +632,12 @@
           <Key ID="str_a3_hunting_clothes_brown">
             <Original>Hunting Clothes (Brown)</Original>
             <Chinese>狩獵衣服(棕色)</Chinese>
-            <Chinesesimp>狩猎衣服(棕色)</Chinesesimp>
+            <Chinesesimp>狩猎衣服（棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_hunting_clothes_grey">
             <Original>Hunting Clothes (Green)</Original>
             <Chinese>狩獵衣服(綠色)</Chinese>
-            <Chinesesimp>狩猎衣服(绿色)</Chinesesimp>
+            <Chinesesimp>狩猎衣服（绿色）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Vest" />
@@ -656,47 +656,47 @@
         <Key ID="str_a3_mortar_120mm_amos_burst20">
           <Original>Burst (medium)</Original>
           <Chinese>點發(中)</Chinese>
-          <Chinesesimp>点发(中)</Chinesesimp>
+          <Chinesesimp>点发（中）</Chinesesimp>
         </Key>
         <Key ID="str_a3_mortar_120mm_amos_burst30">
           <Original>Burst (far)</Original>
           <Chinese>點發(遠)</Chinese>
-          <Chinesesimp>点发(远)</Chinesesimp>
+          <Chinesesimp>点发（远）</Chinesesimp>
         </Key>
         <Key ID="str_a3_mortar_120mm_amos_burst40">
           <Original>Burst (further)</Original>
           <Chinese>點發(更遠)</Chinese>
-          <Chinesesimp>点发(更远)</Chinesesimp>
+          <Chinesesimp>点发（更远）</Chinesesimp>
         </Key>
         <Key ID="str_a3_mortar_120mm_amos_burst50">
           <Original>Burst (extreme)</Original>
           <Chinese>點發(極遠)</Chinese>
-          <Chinesesimp>点发(极远)</Chinesesimp>
+          <Chinesesimp>点发（极远）</Chinesesimp>
         </Key>
         <Key ID="str_a3_mortar_120mm_amos_single10">
           <Original>Semi (close)</Original>
           <Chinese>單發(近)</Chinese>
-          <Chinesesimp>单发(近)</Chinesesimp>
+          <Chinesesimp>单发（近）</Chinesesimp>
         </Key>
         <Key ID="str_a3_mortar_120mm_amos_single20">
           <Original>Semi (medium)</Original>
           <Chinese>單發(中)</Chinese>
-          <Chinesesimp>单发(中)</Chinesesimp>
+          <Chinesesimp>单发（中）</Chinesesimp>
         </Key>
         <Key ID="str_a3_mortar_120mm_amos_single30">
           <Original>Semi (far)</Original>
           <Chinese>單發(遠)</Chinese>
-          <Chinesesimp>单发(远)</Chinesesimp>
+          <Chinesesimp>单发（远）</Chinesesimp>
         </Key>
         <Key ID="str_a3_mortar_120mm_amos_single40">
           <Original>Semi (further)</Original>
           <Chinese>單發(更遠)</Chinese>
-          <Chinesesimp>单发(更远)</Chinesesimp>
+          <Chinesesimp>单发（更远）</Chinesesimp>
         </Key>
         <Key ID="str_a3_mortar_120mm_amos_single50">
           <Original>Semi (extreme)</Original>
           <Chinese>單發(極遠)</Chinese>
-          <Chinesesimp>单发(极远)</Chinesesimp>
+          <Chinesesimp>单发（极远）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cannon_120mm0">
           <Original>Cannon 120 mm</Original>
@@ -731,24 +731,24 @@
         <Key ID="str_a3_mortar_120mm_amos_burst10">
           <Original>Burst (close)</Original>
           <Chinese>點發(近)</Chinese>
-          <Chinesesimp>点发(近)</Chinesesimp>
+          <Chinesesimp>点发（近）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Weapon_accessories">
         <Key ID="str_a3_cfgweapons_optic_tws_mg1">
           <Original>Thermal Weapon Sight for Machineguns&lt;br /&gt;Magnification: 4x–10x</Original>
           <Chinese>熱成像瞄準鏡(機槍用)&lt;br/&gt;倍率:4x–10x</Chinese>
-          <Chinesesimp>热成像瞄准镜(机枪用)&lt;br/&gt;倍率:4x–10x</Chinesesimp>
+          <Chinesesimp>热成像瞄准镜（机枪用）&lt;br/&gt;倍率:4x–10x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_tws_sniper0">
           <Original>TWS Sniper</Original>
           <Chinese>熱成像瞄準鏡(狙擊槍用)</Chinese>
-          <Chinesesimp>热成像瞄准镜(狙击枪用)</Chinesesimp>
+          <Chinesesimp>热成像瞄准镜（狙击枪用）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_tws_sniper1">
           <Original>Thermal Weapon Sight for Sniper rifles&lt;br /&gt;Magnification: 13x–35x</Original>
           <Chinese>熱成像瞄準鏡(狙擊槍用)&lt;br/&gt;倍率:13x–35x</Chinese>
-          <Chinesesimp>热成像瞄准镜(狙击枪用)&lt;br/&gt;倍率:13x–35x</Chinesesimp>
+          <Chinesesimp>热成像瞄准镜（狙击枪用）&lt;br/&gt;倍率:13x–35x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_nightstalker0">
           <Original>Nightstalker</Original>
@@ -768,7 +768,7 @@
         <Key ID="str_a3_cfgweapons_optic_tws_mg0">
           <Original>TWS MG</Original>
           <Chinese>熱成像瞄準鏡(機槍用)</Chinese>
-          <Chinesesimp>热成像瞄准镜(机枪用)</Chinesesimp>
+          <Chinesesimp>热成像瞄准镜（机枪用）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_cows0">
           <Original>COWS</Original>
@@ -810,17 +810,17 @@
         <Key ID="str_a3_cfgglasses_g_lady_dark0">
           <Original>Ladies Shades (Sea)</Original>
           <Chinese>女用墨鏡(海洋風)</Chinese>
-          <Chinesesimp>女用墨镜(海洋风)</Chinesesimp>
+          <Chinesesimp>女用墨镜（海洋风）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgglasses_g_lady_mirror0">
           <Original>Ladies Shades (Iridium)</Original>
           <Chinese>女用墨鏡(金屬風)</Chinese>
-          <Chinesesimp>女用墨镜(金属风)</Chinesesimp>
+          <Chinesesimp>女用墨镜（金属风）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgglasses_g_lady_red0">
           <Original>Ladies Shades (Fire)</Original>
           <Chinese>女用墨鏡(火焰風)</Chinese>
-          <Chinesesimp>女用墨镜(火焰风)</Chinesesimp>
+          <Chinesesimp>女用墨镜（火焰风）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgglasses_g_aviator0">
           <Original>Aviator Glasses</Original>
@@ -880,7 +880,7 @@
           <Key ID="str_o_soldieru_lat_f0">
             <Original>Rifleman (AT)</Original>
             <Chinese>步槍兵(反坦克)</Chinese>
-            <Chinesesimp>步枪手(反坦克)</Chinesesimp>
+            <Chinesesimp>步枪手（反坦克）</Chinesesimp>
           </Key>
           <Key ID="str_o_soldieru_aat_f0">
             <Original>Asst. Missile Specialist</Original>
@@ -910,7 +910,7 @@
         <Key ID="str_a3_c_man_w_fisherman_2_f0">
           <Original>Fisherman (overalls)</Original>
           <Chinese>漁夫(工作服)</Chinese>
-          <Chinesesimp>渔夫(工作服)</Chinesesimp>
+          <Chinesesimp>渔夫（工作服）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_miller0">
           <Original>Miller</Original>
@@ -930,7 +930,7 @@
         <Key ID="str_a3_c_man_w_farmer_2_f0">
           <Original>Farmer (overalls)</Original>
           <Chinese>農夫(工作服)</Chinese>
-          <Chinesesimp>农夫(工作服)</Chinesesimp>
+          <Chinesesimp>农夫（工作服）</Chinesesimp>
         </Key>
         <Key ID="str_a3_c_man_2_1_f0">
           <Original>Commoner 4</Original>
@@ -980,7 +980,7 @@
         <Key ID="str_a3_c_man_shorts_1_f0">
           <Original>Commoner (shorts)</Original>
           <Chinese>普通人(短褲)</Chinese>
-          <Chinesesimp>普通人(短裤)</Chinesesimp>
+          <Chinesesimp>普通人（短裤）</Chinesesimp>
         </Key>
         <Key ID="str_a3_c_man_4_2_f0">
           <Original>Commoner 8</Original>
@@ -1005,12 +1005,12 @@
         <Key ID="str_a3_c_man_hunter_1_f0">
           <Original>Hunter (green)</Original>
           <Chinese>獵人(綠色)</Chinese>
-          <Chinesesimp>猎人(绿色)</Chinesesimp>
+          <Chinesesimp>猎人（绿色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_c_man_p_shorts_2_f0">
           <Original>Beggar (shorts)</Original>
           <Chinese>乞丐(短褲)</Chinese>
-          <Chinesesimp>乞丐(短裤)</Chinesesimp>
+          <Chinesesimp>乞丐（短裤）</Chinesesimp>
         </Key>
         <Key ID="str_a3_c_man_pilot_f0">
           <Original>Pilot</Original>
@@ -1020,12 +1020,12 @@
         <Key ID="str_a3_c_man_p_shorts_1_f0">
           <Original>Fugitive (shorts)</Original>
           <Chinese>難民(短褲)</Chinese>
-          <Chinesesimp>难民(短裤)</Chinesesimp>
+          <Chinesesimp>难民（短裤）</Chinesesimp>
         </Key>
         <Key ID="str_a3_c_man_hunter_2_f0">
           <Original>Hunter (brown)</Original>
           <Chinese>獵人(棕色)</Chinese>
-          <Chinesesimp>猎人(棕色)</Chinesesimp>
+          <Chinesesimp>猎人（棕色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_c_man_p_scavenger_3_f0">
           <Original>Scavenger 3</Original>
@@ -1107,7 +1107,7 @@
         <Key ID="STR_A3_character_uav_operator_back">
           <Original>UAV Operator (Backpack)</Original>
           <Chinese>無人載具操作員(背包)</Chinese>
-          <Chinesesimp>无人机操作员(背包)</Chinesesimp>
+          <Chinesesimp>无人机操作员（背包）</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -1267,7 +1267,7 @@
         <Key ID="str_a3_cfggroups_west_blu_f_armored_bus_tankplatoon_aa0">
           <Original>Tank Platoon (Combined)</Original>
           <Chinese>坦克排(組合)</Chinese>
-          <Chinesesimp>坦克排(组合)</Chinesesimp>
+          <Chinesesimp>坦克排（组合）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_west_blu_f_armored_bus_tanksection0">
           <Original>Tank Section</Original>
@@ -1309,7 +1309,7 @@
         <Key ID="str_a3_cfgvehicles_o_uav_02_cas_f0">
           <Original>K40 Ababil-3 (CAS)</Original>
           <Chinese>K40"燕子"-3空中無人載具(密接空中支援)</Chinese>
-          <Chinesesimp>K40"燕子"-3空中无人载具(近距离空中支援)</Chinesesimp>
+          <Chinesesimp>K40"燕子"-3空中无人载具（近距离空中支援）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_plane_fighter_03">
           <Original>A-143 Buzzard</Original>
@@ -1319,22 +1319,22 @@
         <Key ID="str_a3_cfgvehicles_uav_02_cas_base_f0">
           <Original>MQ-4A Greyhawk (CAS)</Original>
           <Chinese>MQ-4A"灰鷹"無人偵察機(密接空中支援)</Chinese>
-          <Chinesesimp>MQ-4A"灰鹰"无人侦察机(近距离空中支援)</Chinesesimp>
+          <Chinesesimp>MQ-4A"灰鹰"无人侦察机（近距离空中支援）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_offroad_armed_base0">
           <Original>Offroad (Armed)</Original>
           <Chinese>越野皮卡貨車(武裝)</Chinese>
-          <Chinesesimp>越野皮卡货车(武装)</Chinesesimp>
+          <Chinesesimp>越野皮卡货车（武装）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_l159_ad0">
           <Original>A-143 Buzzard (AD)</Original>
           <Chinese>A-143"禿鷹"戰鬥機(空對地)</Chinese>
-          <Chinesesimp>A-143"秃鹰"战斗机(对地)</Chinesesimp>
+          <Chinesesimp>A-143"秃鹰"战斗机（对地）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_offroad_01_at_base_f0">
           <Original>Offroad (AT)</Original>
           <Chinese>越野皮卡貨車(反坦克)</Chinese>
-          <Chinesesimp>越野皮卡货车(反坦克)</Chinesesimp>
+          <Chinesesimp>越野皮卡货车（反坦克）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_01_cannon_base_f0">
           <Original>M2A1 Slammer</Original>
@@ -1349,7 +1349,7 @@
         <Key ID="str_a3_cfgvehicles_i_plane_fighter_03_aa_f0">
           <Original>A-143 Buzzard (AA)</Original>
           <Chinese>A-143"禿鷹"戰鬥機(空對空)</Chinese>
-          <Chinesesimp>A-143"秃鹰"战斗机(空空)</Chinesesimp>
+          <Chinesesimp>A-143"秃鹰"战斗机（空空）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_MBT_02_Arty_base0">
           <Original>2S9 Sochor</Original>
@@ -1404,12 +1404,12 @@
         <Key ID="str_a3_cfgvehicles_b_apc_wheeled_01_medical0">
           <Original>AMV Medical</Original>
           <Chinese>AMV裝甲醫療車</Chinese>
-          <Chinesesimp>AMV装甲救护车</Chinesesimp>
+          <Chinesesimp>AMV 装甲救护车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_plane_fighter_03_cas0">
           <Original>A-143 Buzzard (CAS)</Original>
           <Chinese>A-143"禿鷹"戰鬥機(密接空中支援)</Chinese>
-          <Chinesesimp>A-143"秃鹰"战斗机(近距离空中支援)</Chinesesimp>
+          <Chinesesimp>A-143"秃鹰"战斗机（近距离空中支援）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_APC_Tracked_02_1">
           <Original>ZSU-39 Tigris</Original>
@@ -1484,7 +1484,7 @@
         <Key ID="str_a3_cfgvehicles_ugv_01_rcws_base0">
           <Original>UGV Stomper RCWS</Original>
           <Chinese>"踐踏者"地面無人載具(遙控砲塔)</Chinese>
-          <Chinesesimp>"践踏者"无人车(遥控武器站)</Chinesesimp>
+          <Chinesesimp>"践踏者"无人车（遥控武器站）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_truck_01_box_ammo0">
           <Original>HEMTT Ammo</Original>
@@ -1529,22 +1529,22 @@
         <Key ID="str_a3_cfgvehicles_c_boat_civil_01_police0">
           <Original>Motorboat (Police)</Original>
           <Chinese>汽艇(警察)</Chinese>
-          <Chinesesimp>汽艇(警察)</Chinesesimp>
+          <Chinesesimp>汽艇（警察）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_boat_civil_01_rescue0">
           <Original>Motorboat (Rescue)</Original>
           <Chinese>汽艇(救援)</Chinese>
-          <Chinesesimp>汽艇(救援)</Chinesesimp>
+          <Chinesesimp>汽艇（救援）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_car_sport0">
           <Original>Hatchback (Sport)</Original>
           <Chinese>掀背車(運動)</Chinese>
-          <Chinesesimp>掀背车(运动)</Chinesesimp>
+          <Chinesesimp>掀背车（运动）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_plane_fighter_03_f0">
           <Original>A-143 Buzzard (Training)</Original>
           <Chinese>A-143"禿鷹"戰鬥機(訓練)</Chinese>
-          <Chinesesimp>A-143"秃鹰"战斗机(训练)</Chinesesimp>
+          <Chinesesimp>A-143"秃鹰"战斗机（训练）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_c_truck0">
           <Original>****TO TRANSLATE****</Original>
@@ -1569,7 +1569,7 @@
         <Key ID="STR_A3_CFGVEHICLES_O_UGV_01_RCWS_F">
           <Original>UGV Saif RCWS</Original>
           <Chinese>"薩夫"地面無人載具(遙控砲塔)</Chinese>
-          <Chinesesimp>"萨夫"无人车(遥控武器站)</Chinesesimp>
+          <Chinesesimp>"萨夫"无人车（遥控武器站）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_cfgvehicles_truck_02_ammo">
           <Original>Zamak Ammo</Original>
@@ -1586,7 +1586,7 @@
         <Key ID="STR_A3_CfgVehicles_MBT_02_Arty_Library0">
           <Original>The 2S9 Sochor is a lightly armored self-propelled artillery piece used by the OPFOR army. It's based on the T-100 chassis and fires 155 mm projectiles. The T-100 chassis interior had to be heavily modified to allow support for the 155 mm cannon with auto-loader. Sochor is also equipped with a Remotely Controlled Weapon Systems turret fitted with 12.7 mm HMG and 40 mm GMG. The modification paid off and several Asian countries are now in the process of modernizing their heavy artillery division with the 2S9.</Original>
           <Chinese>2S9"索霍爾"是一臺紅方使用的輕裝甲自走砲。它以T-100的底盤為基礎，並發射155公厘砲彈。T-100的底盤需要進行大量改造，好來裝設155公厘大砲要用的自動裝填機。"索霍爾"也有裝設遠程遙控武器系統，上面裝有12.7公厘重機槍以及40公厘榴彈砲。其改裝是有效的，幾個亞洲國家都在使用2S9來改良他們的重型砲兵師。</Chinese>
-          <Chinesesimp>2S9"索霍尔"是红方使用的一种有轻装甲的自行火炮。它以T-100的底盘为基础，发射155mm 炮弹。T-100的底盘需要进行大量改造，以便装设155mm 火炮要用的自动装填机。"索霍尔"也有装设远程遥控武器站，上面装有12.7mm 重机枪以及40mm 榴弹发射器。其改装是有效的，几个亚洲国家都在使用2S9来改良他们的重型炮兵师。</Chinesesimp>
+          <Chinesesimp>2S9"索霍尔"是红方使用的一种有轻装甲的自行火炮。它以T-100的底盘为基础，发射155mm 炮弹。T-100的底盘需要进行大量改造，以便装设155mm 火炮要用的自动装填机。"索霍尔"也有装设远程遥控武器站，上面装有12.7 mm 重机枪以及40mm 榴弹发射器。其改装是有效的，几个亚洲国家都在使用2S9来改良他们的重型炮兵师。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_01_cannon_base_f_library0">
           <Original>A licensed copy of an Israeli tank built in Central Europe. This tank is built for versatile use on the battlefield and maximal crew protection, which gained significant appreciation from western Europe armies in the 21st century. The M2A1 is armed with 120 mm cannon and a coaxial machinegun and can also be used as mobile artillery. This tank has proven itself in battle and thanks to heavy manufacture, it became the second most wide spread main battle tank of many countries in the world.</Original>
@@ -1611,12 +1611,12 @@
         <Key ID="str_a3_cfgvehicles_apc_wheeled_03_wapc_library0">
           <Original>The AFV-4 Gorgon is an amphibious 8x8 all-wheel-drive armored person carrier vehicle, used to carry soldiers to the battlefield and provide fire support. Its remote controlled CTWS turret is usually mounted with a 30 mm cannon, coaxial machinegun and 2 AT guided missiles. Crew consists of 11 soldiers including driver, gunner/commander.</Original>
           <Chinese>AFV-4"蛇髮女妖"是一臺水陸兩用的八輪驅動裝甲運兵車，用來運送士兵進入戰場，並同時提供火力支援。它使用埋頭彈武器系統，並裝設30公厘機砲，同軸機槍和兩枚反坦克導引飛彈。包括它本身的機組員，其最多可以搭載11名人員。</Chinese>
-          <Chinesesimp>AFV-4"蛇发女妖"是一种两栖8x8装甲运兵车，用来运送士兵进入战场，并同时提供火力支援。其遥控武器站通常装设30mm 机炮，同轴机枪和两枚反坦克导弹。包括它本身的乘员(驾驶员+车长/炮手)在内，其最多可以容纳11名人员。</Chinesesimp>
+          <Chinesesimp>AFV-4"蛇发女妖"是一种两栖8x8装甲运兵车，用来运送士兵进入战场，并同时提供火力支援。其遥控武器站通常装设30mm 机炮，同轴机枪和两枚反坦克导弹。包括它本身的乘员（驾驶员+车长/炮手）在内，其最多可以容纳11名人员。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_02_base_library0">
           <Original>A modernized version of the Russian T-95 MBT. The ongoing development of the new generation battle tank was restarted in 2016 thanks to revenues from the oil crisis. The new concept of battle tank is lower and lighter, with increased maneuverability. The T-100 Varsuk comes with a standard 125 mm cannon, 7.62 mm coaxial machine gun and a commander-controlled NSVT-M 12.7 mm HMG.</Original>
           <Chinese>一種俄羅斯T-95主戰坦克的現代版本。新一代主戰坦克的發展得益於2016年石油危機所帶來的收益。這種新坦克更輕更低，為的是讓機動性更好。T-100"獾"式主戰坦克使用標準125公厘加農炮，7.62公厘同軸機槍，指揮官座位還配有遙控版NSVT-M 12.7公厘重機槍。</Chinese>
-          <Chinesesimp>一种俄罗斯T-95主战坦克的现代版本。新一代主战坦克的发展得益于2016年石油危机所带来的收益。这种新坦克更轻更低，为的是让机动性更好。T-100"獾"式主战坦克使用标准125mm 坦克炮，7.62mm 同轴机枪，车长座位还配有遥控版NSVT-M 12.7mm 重机枪。</Chinesesimp>
+          <Chinesesimp>一种俄罗斯T-95主战坦克的现代版本。新一代主战坦克的发展得益于2016年石油危机所带来的收益。这种新坦克更轻更低，为的是让机动性更好。T-100"獾"式主战坦克使用标准125mm 坦克炮，7.62 mm 同轴机枪，车长座位还配有遥控版 NSVT-M 12.7mm 重机枪。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_van_01_base_library0">
           <Original>The civilian 4x4 truck is a highly customizable truck with off-road capabilities preferred by the civilian population. It builds on retro design, but utilizes a modern engine and electronics. Most common truck setups are boxed, cistern and pick-up set.</Original>
@@ -1626,12 +1626,12 @@
         <Key ID="str_a3_cfgvehicles_b_mbt_01_mlrs_library0">
           <Original>The Swedish Multiple Launch Rocket System is a replacement of the original U.S. MLRS platform. Built in 2021, it utilizes smaller rockets equipped with modern engines, resulting in longer range and better accuracy. The launch pod is mounted on a Slammer chassis and loads twelve 230 mm rockets.</Original>
           <Chinese>瑞典的多管火箭發射系統是用來取代美國最原始的多管火箭發射平臺。製造於2021年，它使用小型火箭並配上現代的引擎，這使它能發射的更遠，並有更好的精準度。發射架安裝在Slammer的底盤上，並使用了12發230mm 火箭。</Chinese>
-          <Chinesesimp>瑞典的多管火箭炮系统用于取代原始美国的MRLS火箭炮。制造于2021年，它使用更小的火箭弹并配上现代的发动机，这使它能发射的更远，并有更好的精准度。发射架安装在"猛击者"的底盘上，并使用了12发230mm 火箭。</Chinesesimp>
+          <Chinesesimp>瑞典的多管火箭炮系统用于取代原始美国的 MRLS 火箭炮。制造于2021年，它使用更小的火箭弹并配上现代的发动机，这使它能发射的更远，并有更好的精准度。发射架安装在"猛击者"的底盘上，并使用了12发230mm 火箭。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_02_base_armory0">
           <Original>The MQ-4A Greyhawk is a combat ready unmanned aerial vehicle. It's based on the proven U.S. design of MQ-9 with a turbo-propeller engine. It carries modernized tracking and tracing equipment and it has improved camouflage. OPFOR engineers and manufacturers were able to perfect construction, but their engines are less fuel effective. The OPFOR drone is labeled K40 Ababil-3. Both sides arm the drone with air-to-ground Scalpel missiles or laser guided bombs (CAS version).</Original>
           <Chinese>MQ-4A"灰鷹"是一種作戰用的無人偵察機。它的基礎設計參考自美國的MQ-9，並裝上了渦輪螺旋槳發動機。它裝備了一個現代化的追蹤和搜索設備，並改進了偽裝。紅方的工程師和製造商完美的複製了藍方的MQ-4A，並取名為K40"燕子"-3，但它們的引擎比較耗油。兩邊都給無人載具裝備了"手術刀"反坦克飛彈，或者掛載雷射導引炸彈(密接空中支援版本)。</Chinese>
-          <Chinesesimp>MQ-4A"灰鹰"是一种作战用的无人侦察机。它的基础设计参考自美国的MQ-9，并装上了涡轮螺旋桨发动机。它装备了现代化的搜索和追踪设备，并改进了伪装。红方的工程师和制造商完美地复制了蓝方的MQ-4A，并取名为K40"燕子"-3，但它的发动机比较耗油。两边都给无人机装备了"手术刀"反坦克导弹，或者挂载激光制导炸弹(近距离空中支援版本)。</Chinesesimp>
+          <Chinesesimp>MQ-4A"灰鹰"是一种作战用的无人侦察机。它的基础设计参考自美国的 MQ-9，并装上了涡轮螺旋桨发动机。它装备了现代化的搜索和追踪设备，并改进了伪装。红方的工程师和制造商完美地复制了蓝方的 MQ-4A，并取名为K40"燕子"-3，但它的发动机比较耗油。两边都给无人机装备了"手术刀"反坦克导弹，或者挂载激光制导炸弹（近距离空中支援版本）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_civil_01_base_library0">
           <Original>A luxury motorboat is an engine powered boat used by the Police and Altis' richest. Its speed and maneuverability is almost on a par with military speedboat.</Original>
@@ -1651,12 +1651,12 @@
         <Key ID="str_a3_cfgvehicles_mbt_01_arty_base_Library0">
           <Original>Based on the licensed version of an Israeli tank chassis, The Scorcher M4 is a 155 mm self-propelled artillery at the end of its lifetime cycle. It has modules allowing indirect fire, advanced artillery computer and is able to fire guided cannon ammunition. The rear of the tank was changed from a passenger transport space to ammunition storage. Scorcher is also equipped with a Remotely Controlled Weapon Systems turret fitted with 12.7 mm HMG and 40 mm GMG.</Original>
           <Chinese>基於獲得許可的以色列坦克底盤，在其作為坦克的生命週期結束後，被改裝成了"炙烤者"M4自走砲，並裝載了155公厘迫擊砲。它有幾個重要的裝備，包括先進的火砲電腦，和可被導引的砲彈，這使它成為能夠提供間接火力支援的自走砲。原來坦克用來運輸人員的後座，則被改裝成了彈藥儲藏室。"炙烤者"也裝有遠程遙控武器系統，上有裝有12.7公厘重機槍以及40公厘榴彈砲。</Chinese>
-          <Chinesesimp>基于获得许可的以色列坦克底盘，在其作为坦克的生命周期结束后，被改装成了"炙烤者"M4 155mm 自行火炮。它能实施间接开火，拥有先进的弹道计算机，还能发射制导弹药。原来坦克用来运输人员的后座则被改装用于储存弹药。"炙烤者"也装有远程遥控武器系统，上有12.7mm 重机枪以及40mm 榴弹发射器。</Chinesesimp>
+          <Chinesesimp>基于获得许可的以色列坦克底盘，在其作为坦克的生命周期结束后，被改装成了"炙烤者"M4 155mm 自行火炮。它能实施间接开火，拥有先进的弹道计算机，还能发射制导弹药。原来坦克用来运输人员的后座则被改装用于储存弹药。"炙烤者"也装有远程遥控武器系统，上有12.7 mm 重机枪以及40mm 榴弹发射器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_ugv_01_base_library0">
           <Original>The Stomper is a remote controlled unmanned ground combat vehicle designed for reconnaissance, surveillance and support. It's able to operate autonomously in large areas, while sending real-time data to the control center. Each wheel is powered by a separate electric engine, whose batteries are linked together to a diesel engine power unit. An armed variant of the Stomper is fitted with a RCWS turret carrying 40 mm cannon and 12.7 mm HMG. An OPFOR variant, designated Saif and Saif RCWS, is a cheaper and less reliable copy from the Asian region.</Original>
           <Chinese>"踐踏者"是一種設計用來偵察，監視和支援的遠程控制地面無人載具。它能夠在很大的區域內自主操作，並不間斷的發送數據回到控制中心。每個輪子是由各自的電動引擎所驅動，每個電動引擎在一起連接在柴油發電機上。武裝後的"踐踏者"裝有遙控砲臺，其上設有40公厘機砲和12.7公厘重機槍。而紅方的地面無人載具，則是被取名叫"薩夫"，是一種來自亞洲地區廉價且不太可靠的山寨版"踐踏者"。</Chinese>
-          <Chinesesimp>"践踏者"是一种设计用来侦察，监视和支援的远程控制地面无人载具。它能够在很大的区域内自主操作，并不间断地发送数据回到控制中心。每个轮子都由独立的电动机驱动，各个电动机的电池则一起连接在柴油发电机上。武装后的"践踏者"装有遥控武器站，其上设有40mm 榴弹发射器和12.7mm 重机枪。而红方的无人车则被取名叫"萨夫"，是一种来自亚洲地区廉价且不太可靠的山寨版"践踏者"。</Chinesesimp>
+          <Chinesesimp>"践踏者"是一种设计用来侦察，监视和支援的远程控制地面无人载具。它能够在很大的区域内自主操作，并不间断地发送数据回到控制中心。每个轮子都由独立的电动机驱动，各个电动机的电池则一起连接在柴油发电机上。武装后的"践踏者"装有遥控武器站，其上设有40mm 榴弹发射器和12.7 mm 重机枪。而红方的无人车则被取名叫"萨夫"，是一种来自亚洲地区廉价且不太可靠的山寨版"践踏者"。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_car_base_library0">
           <Original>A four-seat hatchback car mass-produced in the Far East to satisfy increasing demand for family cars. Economical operation, enhanced safety and a roomy trunk made these cars widely popular in the whole of Europe. Also comes in a sporty version.</Original>
@@ -1671,7 +1671,7 @@
         <Key ID="str_a3_cfgvehicles_o_plane_fighter_03_cas_library0">
           <Original>The A-143 Buzzard is a single seat light multi-purpose combat aircraft able to carry a wide range of equipment and weaponry. A-143 Buzzard has seven weapon hardpoints, three under each wing and one under the fuselage. Close air support armament consists of 20 mm twin cannon, two Skalpel air-to-ground missiles, two laser guided GBU-12 bombs and two short range air-to-air missiles. Anti-air variant of Buzzard is fitted with 20 mm twin cannon, two short range air-to-air missiles and four long range air-to-air Zephyr missiles.</Original>
           <Chinese>A-143"禿鷹"是一臺單座輕型多用途戰鬥機，能夠裝載一系列裝備和武器。A-143"禿鷹"有七個掛架，每個機翼下有三個，機腹下一個。密接空中支援武器包括20公厘機砲，兩發"手术刀"空對地飛彈，兩顆GBU-12雷射導引炸彈以及兩發短程空對空飛彈。對空版本的"禿鷹"機型配有20公厘機炮，兩發短程空對空飛彈，和四發長程空對空"微风"飛彈。</Chinese>
-          <Chinesesimp>A-143"秃鹰"是一台单座轻型多用途战斗机，能够装载一系列装备和武器。A-143"秃鹰"有七个挂架，每个机翼下有三个，机腹下一个。密接空中支援武器包括20mm 机炮，两发"手术刀"空对地导弹，两颗GBU-12激光制导炸弹以及两发近程空空导弹。对空版本的"秃鹰"机型配有20mm 机炮，两发近程空空导弹，和四发远程空空"微风"导弹。</Chinesesimp>
+          <Chinesesimp>A-143"秃鹰"是一台单座轻型多用途战斗机，能够装载一系列装备和武器。A-143"秃鹰"有七个挂架，每个机翼下有三个，机腹下一个。密接空中支援武器包括20mm 机炮，两发"手术刀"空对地导弹，两颗 GBU-12激光制导炸弹以及两发近程空空导弹。对空版本的"秃鹰"机型配有20mm 机炮，两发近程空空导弹，和四发远程空空"微风"导弹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_plane_fighter_03_base_f_library0">
           <Original>The A-143 Buzzard is a single seat light multi-purpose combat aircraft able to carry a wide range of equipment and weaponry. A-143 has seven weapon hardpoints, three under each wing and one under the fuselage. Standard armament consists of 20mm cannon, and a mixture of AA and AG rockets.</Original>
@@ -1705,7 +1705,7 @@
         <Key ID="str_a3_cfgvehicles_land_dome_big_f0">
           <Original>Dome (Big)</Original>
           <Chinese>圓屋頂(大)</Chinese>
-          <Chinesesimp>圆屋顶(大)</Chinesesimp>
+          <Chinesesimp>圆屋顶（大）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Naval">
@@ -1717,7 +1717,7 @@
         <Key ID="str_a3_cfgvehicles_land_pier_wall_f0">
           <Original>Pier (Rocks)</Original>
           <Chinese>碼頭(巖石)</Chinese>
-          <Chinesesimp>码头(岩石)</Chinesesimp>
+          <Chinesesimp>码头（岩石）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Bridges" />
@@ -1740,7 +1740,7 @@
         <Key ID="str_a3_cfgvehicles_land_sleeping_bag_folded_f0">
           <Original>Sleeping Bag (Folded)</Original>
           <Chinese>睡袋(捲起的)</Chinese>
-          <Chinesesimp>睡袋(卷起的)</Chinesesimp>
+          <Chinesesimp>睡袋（卷起的）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_sleeping_bag_f0">
           <Original>Sleeping Bag</Original>
@@ -1750,22 +1750,22 @@
         <Key ID="str_a3_cfgvehicles_land_sleeping_bag_brown_folded_f0">
           <Original>Sleeping Bag (Brown, Folded)</Original>
           <Chinese>睡袋(棕色，捲起的)</Chinese>
-          <Chinesesimp>睡袋(棕色，卷起的)</Chinesesimp>
+          <Chinesesimp>睡袋（棕色，卷起的）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_sleeping_bag_brown_f0">
           <Original>Sleeping Bag (Brown)</Original>
           <Chinese>睡袋(棕色)</Chinese>
-          <Chinesesimp>睡袋(棕色)</Chinesesimp>
+          <Chinesesimp>睡袋（棕色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_sleeping_bag_blue_folded_f0">
           <Original>Sleeping Bag (Blue, Folded)</Original>
           <Chinese>睡袋(藍色，捲起的)</Chinese>
-          <Chinesesimp>睡袋(蓝色，卷起的)</Chinesesimp>
+          <Chinesesimp>睡袋（蓝色，卷起的）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_sleeping_bag_blue_f0">
           <Original>Sleeping Bag (Blue)</Original>
           <Chinese>睡袋(藍色)</Chinese>
-          <Chinesesimp>睡袋(蓝色)</Chinesesimp>
+          <Chinesesimp>睡袋（蓝色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_sink_f0">
           <Original>Sink</Original>
@@ -1775,12 +1775,12 @@
         <Key ID="str_a3_cfgvehicles_land_pillow_old_f0">
           <Original>Pillow (Old)</Original>
           <Chinese>枕頭(破舊)</Chinese>
-          <Chinesesimp>枕头(破旧)</Chinesesimp>
+          <Chinesesimp>枕头（破旧）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pillow_grey_f0">
           <Original>Pillow (Grey)</Original>
           <Chinese>枕頭(灰色)</Chinese>
-          <Chinesesimp>枕头(灰色)</Chinesesimp>
+          <Chinesesimp>枕头（灰色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pillow_f0">
           <Original>Pillow</Original>
@@ -1790,12 +1790,12 @@
         <Key ID="str_a3_cfgvehicles_land_pillow_camouflage_f0">
           <Original>Pillow (Camo)</Original>
           <Chinese>枕頭(迷彩)</Chinese>
-          <Chinesesimp>枕头(迷彩)</Chinesesimp>
+          <Chinesesimp>枕头（迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_lampsolar_off_f0">
           <Original>Lamp (Solar) [off]</Original>
           <Chinese>燈(日光)[關]</Chinese>
-          <Chinesesimp>灯(日光)[关]</Chinesesimp>
+          <Chinesesimp>灯（日光）[关]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_lampairport_off_f0">
           <Original>Airport Lamp [off]</Original>
@@ -1805,17 +1805,17 @@
         <Key ID="str_a3_cfgvehicles_land_ground_sheet_yellow_f0">
           <Original>Sleeping Mat (Yellow)</Original>
           <Chinese>睡墊(黃色)</Chinese>
-          <Chinesesimp>睡垫(黄色)</Chinesesimp>
+          <Chinesesimp>睡垫（黄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_ground_sheet_opfor_f0">
           <Original>Sleeping Mat (OPFOR)</Original>
           <Chinese>睡墊(紅方)</Chinese>
-          <Chinesesimp>睡垫(红方)</Chinesesimp>
+          <Chinesesimp>睡垫（红方）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_ground_sheet_khaki_f0">
           <Original>Sleeping Mat (Khaki)</Original>
           <Chinese>睡墊(卡其色)</Chinese>
-          <Chinesesimp>睡垫(卡其色)</Chinesesimp>
+          <Chinesesimp>睡垫（卡其色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_offices_01_v1_f0">
           <Original>Office Building</Original>
@@ -1830,27 +1830,27 @@
         <Key ID="str_a3_cfgvehicles_land_ground_sheet_folded_yellow_f0">
           <Original>Sleeping Mat (Yellow, Folded)</Original>
           <Chinese>睡墊(黃色，折疊)</Chinese>
-          <Chinesesimp>睡垫(黄色，折叠)</Chinesesimp>
+          <Chinesesimp>睡垫（黄色，折叠）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_ground_sheet_folded_opfor_f0">
           <Original>Sleeping Mat (OPFOR, Folded)</Original>
           <Chinese>睡墊(紅方，折疊)</Chinese>
-          <Chinesesimp>睡垫(红方，折叠)</Chinesesimp>
+          <Chinesesimp>睡垫（红方，折叠）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_ground_sheet_folded_khaki_f0">
           <Original>Sleeping Mat (Khaki, Folded)</Original>
           <Chinese>睡墊(卡其色，折疊)</Chinese>
-          <Chinesesimp>睡垫(卡其色，折叠)</Chinesesimp>
+          <Chinesesimp>睡垫（卡其色，折叠）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_ground_sheet_folded_f0">
           <Original>Sleeping Mat (Folded)</Original>
           <Chinese>睡墊(折疊)</Chinese>
-          <Chinesesimp>睡垫(折叠)</Chinesesimp>
+          <Chinesesimp>睡垫（折叠）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_ground_sheet_folded_blue_f0">
           <Original>Sleeping Mat (Blue, Folded)</Original>
           <Chinese>睡墊(藍色，折疊)</Chinese>
-          <Chinesesimp>睡垫(蓝色，折叠)</Chinesesimp>
+          <Chinesesimp>睡垫（蓝色，折叠）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_ground_sheet_f0">
           <Original>Sleeping Mat</Original>
@@ -1860,32 +1860,32 @@
         <Key ID="str_a3_cfgvehicles_land_ground_sheet_blue_f0">
           <Original>Sleeping Mat (Blue)</Original>
           <Chinese>睡墊(藍色)</Chinese>
-          <Chinesesimp>睡垫(蓝色)</Chinesesimp>
+          <Chinesesimp>睡垫（蓝色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_calvary_02_v2_f0">
           <Original>Calvary (New, Blue)</Original>
           <Chinese>十字架(新，藍色)</Chinese>
-          <Chinesesimp>十字架(新，蓝色)</Chinesesimp>
+          <Chinesesimp>十字架（新，蓝色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_grave_memorial_f0">
           <Original>Grave (Memorial)</Original>
           <Chinese>墳墓(紀念堂)</Chinese>
-          <Chinesesimp>坟墓(纪念堂)</Chinesesimp>
+          <Chinesesimp>坟墓（纪念堂）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_grave_monument_f0">
           <Original>Grave (Monument)</Original>
           <Chinese>墳墓(紀念碑)</Chinese>
-          <Chinesesimp>坟墓(纪念碑)</Chinesesimp>
+          <Chinesesimp>坟墓（纪念碑）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_grave_obelisk_f0">
           <Original>Grave (Obelisk)</Original>
           <Chinese>墳墓(方尖碑)</Chinese>
-          <Chinesesimp>坟墓(方尖碑)</Chinesesimp>
+          <Chinesesimp>坟墓（方尖碑）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_grave_soldier_f0">
           <Original>Grave (Soldier)</Original>
           <Chinese>墳墓(軍人)</Chinese>
-          <Chinesesimp>坟墓(军人)</Chinesesimp>
+          <Chinesesimp>坟墓（军人）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_lampsbase0">
           <Original>Lamp [on]</Original>
@@ -1895,22 +1895,22 @@
         <Key ID="STR_A3_cfgVehicles_Land_AncientPillar_damaged_F0">
           <Original>Ancient Pillar (Damaged)</Original>
           <Chinese>羅馬石柱(損傷)</Chinese>
-          <Chinesesimp>罗马石柱(损伤)</Chinesesimp>
+          <Chinesesimp>罗马石柱（损伤）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_belltower_01_v2_f0">
           <Original>Bell Tower (Small, Old)</Original>
           <Chinese>鐘塔(小，破舊)</Chinese>
-          <Chinesesimp>钟塔(小，破旧)</Chinesesimp>
+          <Chinesesimp>钟塔（小，破旧）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_belltower_02_v1_f0">
           <Original>Bell Tower (Big, New)</Original>
           <Chinese>鐘塔(大，新)</Chinese>
-          <Chinesesimp>钟塔(大，新)</Chinesesimp>
+          <Chinesesimp>钟塔（大，新）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_belltower_02_v2_f0">
           <Original>Bell Tower (Big, Old)</Original>
           <Chinese>鐘塔(大，破舊)</Chinese>
-          <Chinesesimp>钟塔(大，破旧)</Chinesesimp>
+          <Chinesesimp>钟塔（大，破旧）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_billboard_f0">
           <Original>Billboard</Original>
@@ -1920,22 +1920,22 @@
         <Key ID="str_a3_cfgvehicles_land_infostand_v1_f0">
           <Original>Infostand (1 leg)</Original>
           <Chinese>資訊板(1支腳)</Chinese>
-          <Chinesesimp>资信板(1支脚)</Chinesesimp>
+          <Chinesesimp>资信板（1支脚）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_infostand_v2_f0">
           <Original>Infostand (2 legs)</Original>
           <Chinese>資訊板(2支腳)</Chinese>
-          <Chinesesimp>资信板(2支脚)</Chinesesimp>
+          <Chinesesimp>资信板（2支脚）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_lampstadium_f0">
           <Original>Lamp (Stadium) [off]</Original>
           <Chinese>燈(體育場)[關]</Chinese>
-          <Chinesesimp>灯(体育场)[关]</Chinesesimp>
+          <Chinesesimp>灯（体育场）[关]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_lampsolar_f0">
           <Original>Lamp (Solar) [on]</Original>
           <Chinese>燈(日光)[開]</Chinese>
-          <Chinesesimp>灯(日光)[开]</Chinesesimp>
+          <Chinesesimp>灯（日光）[开]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_lampairport_f0">
           <Original>Airport Lamp [on]</Original>
@@ -1945,17 +1945,17 @@
         <Key ID="str_a3_cfgvehicles_land_sun_chair_green_f0">
           <Original>Sun Chair (Green)</Original>
           <Chinese>折疊躺椅(綠色)</Chinese>
-          <Chinesesimp>折叠躺椅(绿色)</Chinesesimp>
+          <Chinesesimp>折叠躺椅（绿色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_tenta_f0">
           <Original>Tent (A-shape)</Original>
           <Chinese>帳篷(A-字形)</Chinese>
-          <Chinesesimp>帐篷(A-字形)</Chinesesimp>
+          <Chinesesimp>帐篷（A-字形）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mapboard_altis_f0">
           <Original>Whiteboard (Map of Altis)</Original>
           <Chinese>白板(阿爾蒂斯地圖)</Chinese>
-          <Chinesesimp>白板(阿尔蒂斯地图)</Chinesesimp>
+          <Chinesesimp>白板（阿尔蒂斯地图）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_tribune_f0">
           <Original>Tribune</Original>
@@ -1965,7 +1965,7 @@
         <Key ID="str_a3_cfgvehicles_land_tentdome_f0">
           <Original>Tent (Dome-shape)</Original>
           <Chinese>帳篷(圓頂形)</Chinese>
-          <Chinesesimp>帐篷(圆顶形)</Chinesesimp>
+          <Chinesesimp>帐篷（圆顶形）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_loudspeakers_f0">
           <Original>Loudspeakers</Original>
@@ -1990,12 +1990,12 @@
         <Key ID="str_a3_cfgvehicles_land_pavement_narrow_corner_f0">
           <Original>Sidewalk (Narrow, Curve)</Original>
           <Chinese>人行道(窄，弧形)</Chinese>
-          <Chinesesimp>人行道(窄，弧形)</Chinesesimp>
+          <Chinesesimp>人行道（窄，弧形）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pavement_wide_corner_f0">
           <Original>Sidewalk (Wide, Curve)</Original>
           <Chinese>人行道(寬，弧形)</Chinese>
-          <Chinesesimp>人行道(宽，弧形)</Chinesesimp>
+          <Chinesesimp>人行道（宽，弧形）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_maroula_f0">
           <Original>Maroula</Original>
@@ -2010,12 +2010,12 @@
         <Key ID="str_a3_cfgvehicles_land_campingtable_folded_f0">
           <Original>Camping Table (Folded)</Original>
           <Chinese>折疊桌(折疊)</Chinese>
-          <Chinesesimp>折叠桌(折叠)</Chinesesimp>
+          <Chinesesimp>折叠桌（折叠）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_calvary_02_v1_f0">
           <Original>Calvary (New, Red)</Original>
           <Chinese>十字架(新，紅色)</Chinese>
-          <Chinesesimp>十字架(新，红色)</Chinesesimp>
+          <Chinesesimp>十字架（新，红色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cmp_hopper_f0">
           <Original>Concrete Mixing Hopper</Original>
@@ -2030,7 +2030,7 @@
         <Key ID="STR_A3_cfgVehicles_Land_AncientPillar_fallen_F0">
           <Original>Ancient Pillar (Fallen)</Original>
           <Chinese>羅馬石柱(倒下)</Chinese>
-          <Chinesesimp>罗马石柱(倒下)</Chinesesimp>
+          <Chinesesimp>罗马石柱（倒下）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_goal_f0">
           <Original>Goal</Original>
@@ -2045,34 +2045,34 @@
         <Key ID="str_a3_cfgvehicles_land_chapel_small_v2_f0">
           <Original>Chapel (Small, Old)</Original>
           <Chinese>禮拜堂(小，破舊)</Chinese>
-          <Chinesesimp>礼拜堂(小，破旧)</Chinesesimp>
+          <Chinesesimp>礼拜堂（小，破旧）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_chapel_v1_f0">
           <Original>Chapel (Big, New)</Original>
           <Chinese>禮拜堂(大，新)</Chinese>
-          <Chinesesimp>礼拜堂(大，新)</Chinesesimp>
+          <Chinesesimp>礼拜堂（大，新）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_chapel_v2_f0">
           <Original>Chapel (Big, Old)</Original>
           <Chinese>禮拜堂(大，破舊)</Chinese>
-          <Chinesesimp>礼拜堂(大，破旧)</Chinesesimp>
+          <Chinesesimp>礼拜堂（大，破旧）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Dominants">
         <Key ID="str_a3_cfgvehicles_land_hospital_side1_f0">
           <Original>Hospital (Main Wing)</Original>
           <Chinese>醫院(本館)</Chinese>
-          <Chinesesimp>医院(本馆)</Chinesesimp>
+          <Chinesesimp>医院（本馆）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_hospital_side2_f0">
           <Original>Hospital (Side Wing)</Original>
           <Chinese>醫院(分館)</Chinese>
-          <Chinesesimp>医院(分馆)</Chinesesimp>
+          <Chinesesimp>医院（分馆）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_house_1_f0">
           <Original>Ghost Hotel (House)</Original>
           <Chinese>幽靈飯店(大廈)</Chinese>
-          <Chinesesimp>幽灵饭店(大厦)</Chinesesimp>
+          <Chinesesimp>幽灵饭店（大厦）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_church_01_v1_f0">
           <Original>Church</Original>
@@ -2087,77 +2087,77 @@
         <Key ID="str_a3_cfgvehicles_land_castle_01_f0">
           <Original>Kavala Castle (01)</Original>
           <Chinese>卡瓦拉古堡(01)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(01)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（01）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_02_f0">
           <Original>Kavala Castle (02)</Original>
           <Chinese>卡瓦拉古堡(02)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(02)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（02）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_03_f0">
           <Original>Kavala Castle (03)</Original>
           <Chinese>卡瓦拉古堡(03)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(03)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（03）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_hospital_main_f0">
           <Original>Hospital (Center)</Original>
           <Chinese>醫院(主館)</Chinese>
-          <Chinesesimp>医院(主馆)</Chinesesimp>
+          <Chinesesimp>医院（主馆）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_04_f0">
           <Original>Kavala Castle (04)</Original>
           <Chinese>卡瓦拉古堡(04)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(04)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（04）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_05_f0">
           <Original>Kavala Castle (05)</Original>
           <Chinese>卡瓦拉古堡(05)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(05)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（05）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_06_f0">
           <Original>Kavala Castle (06)</Original>
           <Chinese>卡瓦拉古堡(06)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(06)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（06）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_07_f0">
           <Original>Kavala Castle (07)</Original>
           <Chinese>卡瓦拉古堡(07)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(07)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（07）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_08_f0">
           <Original>Kavala Castle (08)</Original>
           <Chinese>卡瓦拉古堡(08)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(08)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（08）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_09_f0">
           <Original>Kavala Castle (09)</Original>
           <Chinese>卡瓦拉古堡(09)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(09)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（09）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_10_f0">
           <Original>Kavala Castle (10)</Original>
           <Chinese>卡瓦拉古堡(10)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(10)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（10）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_11_f0">
           <Original>Kavala Castle (11)</Original>
           <Chinese>卡瓦拉古堡(11)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(11)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（11）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_12_f0">
           <Original>Kavala Castle (12)</Original>
           <Chinese>卡瓦拉古堡(12)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(12)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（12）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_13_f0">
           <Original>Kavala Castle (13)</Original>
           <Chinese>卡瓦拉古堡(13)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(13)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（13）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_14_f0">
           <Original>Kavala Castle (14)</Original>
           <Chinese>卡瓦拉古堡(14)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(14)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（14）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wip_f0">
           <Original>Unfinished Complex</Original>
@@ -2167,17 +2167,17 @@
         <Key ID="str_a3_cfgvehicles_land_castle_15_f0">
           <Original>Kavala Castle (15)</Original>
           <Chinese>卡瓦拉古堡(15)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(15)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（15）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_16_f0">
           <Original>Kavala Castle (16)</Original>
           <Chinese>卡瓦拉古堡(16)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(16)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（16）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_house_ruin_f0">
           <Original>Kavala Castle (House, Ruin)</Original>
           <Chinese>卡瓦拉古堡(屋子，廢墟)</Chinese>
-          <Chinesesimp>卡瓦拉古堡(屋子，废墟)</Chinesesimp>
+          <Chinesesimp>卡瓦拉古堡（屋子，废墟）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_church_ruin_f0">
           <Original>Castle Wall</Original>
@@ -2187,7 +2187,7 @@
         <Key ID="STR_A3_CFGVEHICLES_LAND_CASTLE_CHURCH_RUIN_F1">
           <Original>Castle Wall (Ruin)</Original>
           <Chinese>城堡牆壁(廢墟)</Chinese>
-          <Chinesesimp>城堡墙壁(废墟)</Chinesesimp>
+          <Chinesesimp>城堡墙壁（废墟）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_hospital_f0">
           <Original>Hospital</Original>
@@ -2197,7 +2197,7 @@
         <Key ID="STR_A3_CFGVEHICLES_LAND_CASTLE_CHURCH_RUIN_F2">
           <Original>Castle Wall (Window)</Original>
           <Chinese>城堡牆壁(窗戶)</Chinese>
-          <Chinesesimp>城堡墙壁(窗户)</Chinesesimp>
+          <Chinesesimp>城堡墙壁（窗户）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_Land_Castle_Step_F0">
           <Original>Castle Step</Original>
@@ -2214,7 +2214,7 @@
         <Key ID="str_a3_cfgvehicles_land_metal_rack_tall_f0">
           <Original>Metal Rack (5 shelves)</Original>
           <Chinese>金屬架(5層)</Chinese>
-          <Chinesesimp>金属架(5层)</Chinesesimp>
+          <Chinesesimp>金属架（5层）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_metal_wooden_rack_f0">
           <Original>Metal-Wooden Rack</Original>
@@ -2224,7 +2224,7 @@
         <Key ID="str_a3_cfgvehicles_land_chairwood_f0">
           <Original>Chair (Wooden)</Original>
           <Chinese>椅子(木)</Chinese>
-          <Chinesesimp>椅子(木)</Chinesesimp>
+          <Chinesesimp>椅子（木）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_rack_f0">
           <Original>Rack</Original>
@@ -2234,12 +2234,12 @@
         <Key ID="str_a3_cfgvehicles_land_shelvesmetal_f0">
           <Original>Shelves (Metal)</Original>
           <Chinese>貨架(金屬)</Chinese>
-          <Chinesesimp>货架(金属)</Chinesesimp>
+          <Chinesesimp>货架（金属）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shelveswooden_f0">
           <Original>Shelves (Wooden)</Original>
           <Chinese>貨架(木製)</Chinese>
-          <Chinesesimp>货架(木制)</Chinesesimp>
+          <Chinesesimp>货架（木制）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_tabledesk_f0">
           <Original>Desk</Original>
@@ -2254,7 +2254,7 @@
         <Key ID="str_a3_cfgvehicles_land_metal_rack_f0">
           <Original>Metal Rack (4 shelves)</Original>
           <Chinese>鐵架(4層)</Chinese>
-          <Chinesesimp>铁架(4层)</Chinesesimp>
+          <Chinesesimp>铁架（4层）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_heatpump_f0">
           <Original>Heat pump</Original>
@@ -2271,47 +2271,47 @@
         <Key ID="str_a3_cfgvehicles_land_d_addon_02_v1_f0">
           <Original>House Addon (Destroyed)</Original>
           <Chinese>房屋組件(損毀)</Chinese>
-          <Chinesesimp>房屋组件(损毁)</Chinesesimp>
+          <Chinesesimp>房屋组件（损毁）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_d_house_big_01_v1_f0">
           <Original>House (Large, Destroyed)</Original>
           <Chinese>大廈(特大型，損毀)</Chinese>
-          <Chinesesimp>大厦(特大型，损毁)</Chinesesimp>
+          <Chinesesimp>大厦（特大型，损毁）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_d_house_big_02_v1_f0">
           <Original>House (Big, Destroyed)</Original>
           <Chinese>大廈(大，損毀)</Chinese>
-          <Chinesesimp>大厦(大，损毁)</Chinesesimp>
+          <Chinesesimp>大厦（大，损毁）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_d_house_small_01_v1_f0">
           <Original>House (Destroyed)</Original>
           <Chinese>大廈(損毀)</Chinese>
-          <Chinesesimp>大厦(损毁)</Chinesesimp>
+          <Chinesesimp>大厦（损毁）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_d_house_small_02_v1_f0">
           <Original>House (Small, Destroyed)</Original>
           <Chinese>大廈(小，損毀)</Chinese>
-          <Chinesesimp>大厦(小，损毁)</Chinesesimp>
+          <Chinesesimp>大厦（小，损毁）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_d_shop_01_v1_f0">
           <Original>Shop House (Destroyed)</Original>
           <Chinese>店鋪(損毀)</Chinese>
-          <Chinesesimp>店铺(损毁)</Chinesesimp>
+          <Chinesesimp>店铺（损毁）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_d_shop_02_v1_f0">
           <Original>Shop (Destroyed)</Original>
           <Chinese>商店(損毀)</Chinese>
-          <Chinesesimp>商店(损毁)</Chinesesimp>
+          <Chinesesimp>商店（损毁）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_d_stone_housebig_v1_f0">
           <Original>Stone House (Big, Destroyed)</Original>
           <Chinese>石造房屋(大，損毀)</Chinese>
-          <Chinesesimp>石造房屋(大，损毁)</Chinesesimp>
+          <Chinesesimp>石造房屋（大，损毁）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_d_stone_housesmall_v1_f0">
           <Original>Stone House (Destroyed)</Original>
           <Chinese>石造房屋(損毀)</Chinese>
-          <Chinesesimp>石造房屋(损毁)</Chinesesimp>
+          <Chinesesimp>石造房屋（损毁）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_addon_02_v1_f0">
           <Original>House Addon</Original>
@@ -2321,139 +2321,139 @@
         <Key ID="str_a3_cfgvehicles_land_i_garage_v2_f0">
           <Original>Garage (Old)</Original>
           <Chinese>車庫(舊)</Chinese>
-          <Chinesesimp>车库(旧)</Chinesesimp>
+          <Chinesesimp>车库（旧）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_house_big_01_v2_f0">
           <Original>House (Large, Yellow)</Original>
           <Chinese>房屋(特大型，黃色)</Chinese>
-          <Chinesesimp>房屋(特大型，黄色)</Chinesesimp>
+          <Chinesesimp>房屋（特大型，黄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_house_big_01_v3_f0">
           <Original>House (Large, Stone)</Original>
           <Chinese>房屋(特大型，石造)</Chinese>
-          <Chinesesimp>房屋(特大型，石造)</Chinesesimp>
+          <Chinesesimp>房屋（特大型，石造）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_house_big_02_v2_f0">
           <Original>House (Big, Yellow)</Original>
           <Chinese>房屋(大，黃色)</Chinese>
-          <Chinesesimp>房屋(大，黄色)</Chinesesimp>
+          <Chinesesimp>房屋（大，黄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_house_big_02_v3_f0">
           <Original>House (Big, Stone)</Original>
           <Chinese>房屋(大，石造)</Chinese>
-          <Chinesesimp>房屋(大，石造)</Chinesesimp>
+          <Chinesesimp>房屋（大，石造）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_house_small_01_v3_f0">
           <Original>House (Stone)</Original>
           <Chinese>房屋(石造)</Chinese>
-          <Chinesesimp>房屋(石造)</Chinesesimp>
+          <Chinesesimp>房屋（石造）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_house_small_02_v2_f0">
           <Original>House (Small, Yellow)</Original>
           <Chinese>房屋(小，黃色)</Chinese>
-          <Chinesesimp>房屋(小，黄色)</Chinesesimp>
+          <Chinesesimp>房屋（小，黄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_house_small_02_v3_f0">
           <Original>House (Small, Stone)</Original>
           <Chinese>房屋(小，石造)</Chinese>
-          <Chinesesimp>房屋(小，石造)</Chinesesimp>
+          <Chinesesimp>房屋（小，石造）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_shop_01_v2_f0">
           <Original>Shop House (Yellow)</Original>
           <Chinese>店鋪(黃色)</Chinese>
-          <Chinesesimp>店铺(黄色)</Chinesesimp>
+          <Chinesesimp>店铺（黄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_shop_01_v3_f0">
           <Original>Shop House (Stone)</Original>
           <Chinese>店鋪(石造)</Chinese>
-          <Chinesesimp>店铺(石造)</Chinesesimp>
+          <Chinesesimp>店铺（石造）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_shop_02_v2_f0">
           <Original>Shop (Yellow)</Original>
           <Chinese>商店(黃色)</Chinese>
-          <Chinesesimp>商店(黄色)</Chinesesimp>
+          <Chinesesimp>商店（黄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_shop_02_v3_f0">
           <Original>Shop (Stone)</Original>
           <Chinese>商店(石造)</Chinese>
-          <Chinesesimp>商店(石造)</Chinesesimp>
+          <Chinesesimp>商店（石造）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_stone_housebig_v2_f0">
           <Original>Stone House (Big, White)</Original>
           <Chinese>石造房屋(大，白色)</Chinese>
-          <Chinesesimp>石造房屋(大，白色)</Chinesesimp>
+          <Chinesesimp>石造房屋（大，白色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_stone_housebig_v3_f0">
           <Original>Stone House (Big, Brown)</Original>
           <Chinese>石造房屋(大，棕色)</Chinese>
-          <Chinesesimp>石造房屋(大，棕色)</Chinesesimp>
+          <Chinesesimp>石造房屋（大，棕色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_stone_housesmall_v2_f0">
           <Original>Stone House (White)</Original>
           <Chinese>石造房屋(白色)</Chinese>
-          <Chinesesimp>石造房屋(白色)</Chinesesimp>
+          <Chinesesimp>石造房屋（白色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_stone_housesmall_v3_f0">
           <Original>Stone House (Brown)</Original>
           <Chinese>石造房屋(棕色)</Chinese>
-          <Chinesesimp>石造房屋(棕色)</Chinesesimp>
+          <Chinesesimp>石造房屋（棕色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_stone_shed_v2_f0">
           <Original>Stone House (Small, Brown)</Original>
           <Chinese>石造房屋(小，棕色)</Chinese>
-          <Chinesesimp>石造房屋(小，棕色)</Chinesesimp>
+          <Chinesesimp>石造房屋（小，棕色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_stone_shed_v3_f0">
           <Original>Stone House (Small, White)</Original>
           <Chinese>石造房屋(小，白色)</Chinese>
-          <Chinesesimp>石造房屋(小，白色)</Chinesesimp>
+          <Chinesesimp>石造房屋（小，白色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_u_house_big_01_v1_f0">
           <Original>House (Large, Abandoned)</Original>
           <Chinese>房屋(特大型，廢棄)</Chinese>
-          <Chinesesimp>房屋(特大型，废弃)</Chinesesimp>
+          <Chinesesimp>房屋（特大型，废弃）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_u_house_big_02_v1_f0">
           <Original>House (Big, Abandoned)</Original>
           <Chinese>房屋(大，廢棄)</Chinese>
-          <Chinesesimp>房屋(大，废弃)</Chinesesimp>
+          <Chinesesimp>房屋（大，废弃）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_u_shop_01_v1_f0">
           <Original>Shop House (Abandoned)</Original>
           <Chinese>店鋪(廢棄)</Chinese>
-          <Chinesesimp>店铺(废弃)</Chinesesimp>
+          <Chinesesimp>店铺（废弃）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_u_shop_02_v1_f0">
           <Original>Shop (Abandoned)</Original>
           <Chinese>商店(廢棄)</Chinese>
-          <Chinesesimp>商店(废弃)</Chinesesimp>
+          <Chinesesimp>商店（废弃）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo_addon02_v1_f0">
           <Original>Slum Canvas (Blue)</Original>
           <Chinese>貧民窟油畫(藍色)</Chinese>
-          <Chinesesimp>贫民窟油画(蓝色)</Chinesesimp>
+          <Chinesesimp>贫民窟油画（蓝色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_unfinished_building_02_f0">
           <Original>Unfinished Building (Large)</Original>
           <Chinese>未完成的建築(特大)</Chinese>
-          <Chinesesimp>未完成的建筑(特大)</Chinesesimp>
+          <Chinesesimp>未完成的建筑（特大）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Ind">
         <Key ID="str_a3_cfgvehicles_land_cargo10_brick_red_f0">
           <Original>Cargo Container (Short, Brick Red)</Original>
           <Chinese>貨櫃(短，磚紅色)</Chinese>
-          <Chinesesimp>货柜(短，砖红色)</Chinesesimp>
+          <Chinesesimp>货柜（短，砖红色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo10_light_blue_f0">
           <Original>Cargo Container (Short, Light Blue)</Original>
           <Chinese>貨櫃(短，淺藍色)</Chinese>
-          <Chinesesimp>货柜(短，浅蓝色)</Chinesesimp>
+          <Chinesesimp>货柜（短，浅蓝色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo10_light_green_f0">
           <Original>Cargo Container (Short, Light Green)</Original>
           <Chinese>貨櫃(短，淺綠色)</Chinese>
-          <Chinesesimp>货柜(短，浅绿色)</Chinesesimp>
+          <Chinesesimp>货柜（短，浅绿色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cmp_tower_f0">
           <Original>Concrete Mixing Tower</Original>
@@ -2468,37 +2468,37 @@
         <Key ID="str_a3_cfgvehicles_land_d_windmill01_f0">
           <Original>Windmill (Destroyed)</Original>
           <Chinese>風車(損毀)</Chinese>
-          <Chinesesimp>风车(损毁)</Chinesesimp>
+          <Chinesesimp>风车（损毁）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_airport_terminal_2_f0">
           <Original>Airport Terminal (Right)</Original>
           <Chinese>機場航站(右側)</Chinese>
-          <Chinesesimp>机场航站(右侧)</Chinesesimp>
+          <Chinesesimp>机场航站（右侧）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_dp_mainfactory_f0">
           <Original>Diesel Power Plant (Large, Yellow)</Original>
           <Chinese>柴油發電廠(大，黃色)</Chinese>
-          <Chinesesimp>柴油发电厂(大，黄色)</Chinesesimp>
+          <Chinesesimp>柴油发电厂（大，黄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_factory_conv1_10_f0">
           <Original>Factory Conveyor Belt (Ground)</Original>
           <Chinese>工廠輸送帶(地面)</Chinese>
-          <Chinesesimp>工厂输送带(地面)</Chinesesimp>
+          <Chinesesimp>工厂输送带（地面）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_factory_conv1_end_f0">
           <Original>Factory Conveyor Belt (End)</Original>
           <Chinese>工廠輸送帶(結束)</Chinese>
-          <Chinesesimp>工厂输送带(结束)</Chinesesimp>
+          <Chinesesimp>工厂输送带（结束）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_factory_conv1_main_f0">
           <Original>Factory Conveyor Belt (Main)</Original>
           <Chinese>工廠輸送帶(主幹)</Chinese>
-          <Chinesesimp>工厂输送带(主干)</Chinesesimp>
+          <Chinesesimp>工厂输送带（主干）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_factory_conv2_f0">
           <Original>Factory Conveyor Belt (Slope)</Original>
           <Chinese>工廠輸送帶(斜坡)</Chinese>
-          <Chinesesimp>工厂输送带(斜坡)</Chinesesimp>
+          <Chinesesimp>工厂输送带（斜坡）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_factory_hopper_f0">
           <Original>Factory Hopper</Original>
@@ -2518,27 +2518,27 @@
         <Key ID="str_a3_cfgvehicles_land_fs_feed_f0">
           <Original>Fuel Station (Small, Feed)</Original>
           <Chinese>加油站(小，加油機)</Chinese>
-          <Chinesesimp>加油站(小，加油机)</Chinesesimp>
+          <Chinesesimp>加油站（小，加油机）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_fs_price_f0">
           <Original>Fuel Station (Small, Prices)</Original>
           <Chinese>加油站(小，價格)</Chinese>
-          <Chinesesimp>加油站(小，价格)</Chinesesimp>
+          <Chinesesimp>加油站（小，价格）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_fs_roof_f0">
           <Original>Fuel Station (Small, Roof)</Original>
           <Chinese>加油站(小，屋頂)</Chinese>
-          <Chinesesimp>加油站(小，屋顶)</Chinesesimp>
+          <Chinesesimp>加油站（小，屋顶）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_airport_terminal_1_f0">
           <Original>Airport Terminal (Center)</Original>
           <Chinese>機場航站(中間)</Chinese>
-          <Chinesesimp>机场航站(中间)</Chinesesimp>
+          <Chinesesimp>机场航站（中间）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_fs_sign_f0">
           <Original>Fuel Station (Small, Sign)</Original>
           <Chinese>加油站(小，標誌)</Chinese>
-          <Chinesesimp>加油站(小，标志)</Chinesesimp>
+          <Chinesesimp>加油站（小，标志）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_hangar_f0">
           <Original>Hangar</Original>
@@ -2553,17 +2553,17 @@
         <Key ID="str_a3_cfgvehicles_land_highvoltagetower_dam_f0">
           <Original>High Voltage Tower (Damaged)</Original>
           <Chinese>高壓電塔(損傷)</Chinese>
-          <Chinesesimp>高压电塔(损伤)</Chinesesimp>
+          <Chinesesimp>高压电塔（损伤）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_highvoltagetower_large_f0">
           <Original>High Voltage Tower (Large)</Original>
           <Chinese>高壓電塔(特大)</Chinese>
-          <Chinesesimp>高压电塔(特大)</Chinesesimp>
+          <Chinesesimp>高压电塔（特大）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_LAND_AIRPORT_TERMINAL_1_F1">
           <Original>Airport Terminal (Left)</Original>
           <Chinese>機場航站(左側)</Chinese>
-          <Chinesesimp>机场航站(左侧)</Chinesesimp>
+          <Chinesesimp>机场航站（左侧）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_shed_ind_f0">
           <Original>Industrial Shed</Original>
@@ -2578,67 +2578,67 @@
         <Key ID="str_a3_cfgvehicles_land_highvoltagetower_largecorner_f0">
           <Original>High Voltage Tower (Large, Corner)</Original>
           <Chinese>高壓電塔(特大，拐角)</Chinese>
-          <Chinesesimp>高压电塔(特大，拐角)</Chinesesimp>
+          <Chinesesimp>高压电塔（特大，拐角）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo10_orange_f0">
           <Original>Cargo Container (Short, Orange)</Original>
           <Chinese>貨櫃(短，橘色)</Chinese>
-          <Chinesesimp>货柜(短，橘色)</Chinesesimp>
+          <Chinesesimp>货柜（短，橘色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_big_18_f0">
           <Original>Industrial Pipe Platform (Big, 18m)</Original>
           <Chinese>工業焊管平臺(大，18公尺)</Chinese>
-          <Chinesesimp>工业焊管平台(大，18米)</Chinesesimp>
+          <Chinesesimp>工业焊管平台（大，18米）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_big_18ladder_f0">
           <Original>Industrial Pipe Platform (Big, 18m, Ladder)</Original>
           <Chinese>工業焊管平臺(大，18公尺，梯子)</Chinese>
-          <Chinesesimp>工业焊管平台(大，18米，梯子)</Chinesesimp>
+          <Chinesesimp>工业焊管平台（大，18米，梯子）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_big_9_f0">
           <Original>Industrial Pipe Platform (Big, 9m)</Original>
           <Chinese>工業焊管平臺(大，9公尺)</Chinese>
-          <Chinesesimp>工业焊管平台(大，9米)</Chinesesimp>
+          <Chinesesimp>工业焊管平台（大，9米）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_big_ground1_f0">
           <Original>Industrial Pipe Platform (Big, Ground, v1)</Original>
           <Chinese>工業焊管平臺(大，地面，1型)</Chinese>
-          <Chinesesimp>工业焊管平台(大，地面，1型)</Chinesesimp>
+          <Chinesesimp>工业焊管平台（大，地面，1型）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_big_ground2_f0">
           <Original>Industrial Pipe Platform (Big, Ground, v2)</Original>
           <Chinese>工業焊管平臺(大，地面，2型)</Chinese>
-          <Chinesesimp>工业焊管平台(大，地面，2型)</Chinesesimp>
+          <Chinesesimp>工业焊管平台（大，地面，2型）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_big_support_f0">
           <Original>Industrial Pipe Platform (Big, Support)</Original>
           <Chinese>工業焊管平臺(大，支撐)</Chinese>
-          <Chinesesimp>工业焊管平台(大，支撑)</Chinesesimp>
+          <Chinesesimp>工业焊管平台（大，支撑）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo10_blue_f0">
           <Original>Cargo Container (Short, Blue)</Original>
           <Chinese>貨櫃(短，藍色)</Chinese>
-          <Chinesesimp>货柜(短，蓝色)</Chinesesimp>
+          <Chinesesimp>货柜（短，蓝色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_bigl_l_f0">
           <Original>Industrial Pipe Platform (Big, Corner, Left)</Original>
           <Chinese>工業焊管平臺(大，拐角，左)</Chinese>
-          <Chinesesimp>工业焊管平台(大，拐角，左)</Chinesesimp>
+          <Chinesesimp>工业焊管平台（大，拐角，左）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_small_9_f0">
           <Original>Industrial Pipe Platform (9m)</Original>
           <Chinese>工業焊管平臺(9公尺)</Chinese>
-          <Chinesesimp>工业焊管平台(9米)</Chinesesimp>
+          <Chinesesimp>工业焊管平台（9米）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_small_ground1_f0">
           <Original>Industrial Pipe Platform (Ground, v1)</Original>
           <Chinese>工業焊管平臺(地面，1型)</Chinese>
-          <Chinesesimp>工业焊管平台(地面，1型)</Chinesesimp>
+          <Chinesesimp>工业焊管平台（地面，1型）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_small_ground2_f0">
           <Original>Industrial Pipe Platform (Ground, v2)</Original>
           <Chinese>工業焊管平臺(地面，2型)</Chinese>
-          <Chinesesimp>工业焊管平台(地面，2型)</Chinesesimp>
+          <Chinesesimp>工业焊管平台（地面，2型）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_powercable_submarine_f0">
           <Original>Underwater Power Cable</Original>
@@ -2658,7 +2658,7 @@
         <Key ID="str_a3_cfgvehicles_land_powerline_part_f0">
           <Original>Powerline Distributor (Part)</Original>
           <Chinese>電線分配器(部份)</Chinese>
-          <Chinesesimp>电线分配器(部份)</Chinesesimp>
+          <Chinesesimp>电线分配器（部份）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_powerpoleconcrete_f0">
           <Original>Concrete Power Pole</Original>
@@ -2668,7 +2668,7 @@
         <Key ID="str_a3_cfgvehicles_land_reservoirtank_rust_f0">
           <Original>Reservoir Tank (Rust)</Original>
           <Chinese>蓄水槽(腐蝕)</Chinese>
-          <Chinesesimp>蓄水槽(腐蚀)</Chinesesimp>
+          <Chinesesimp>蓄水槽（腐蚀）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_reservoirtank_v1_f0">
           <Original>Reservoir Tank</Original>
@@ -2688,32 +2688,32 @@
         <Key ID="str_a3_cfgvehicles_land_indpipe2_smalll_l_f0">
           <Original>Industrial Pipe Platform (Corner, Left)</Original>
           <Chinese>工業焊管平臺(拐角，左)</Chinese>
-          <Chinesesimp>工业焊管平台(拐角，左)</Chinesesimp>
+          <Chinesesimp>工业焊管平台（拐角，左）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_smalll_r_f0">
           <Original>Industrial Pipe Platform (Corner, Right)</Original>
           <Chinese>工業焊管平臺(拐角，右)</Chinese>
-          <Chinesesimp>工业焊管平台(拐角，右)</Chinesesimp>
+          <Chinesesimp>工业焊管平台（拐角，右）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_solarpanel_1_f0">
           <Original>Solar Panel (3)</Original>
           <Chinese>太陽能電板(3)</Chinese>
-          <Chinesesimp>太阳能电板(3)</Chinesesimp>
+          <Chinesesimp>太阳能电板（3）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_solarpanel_2_f0">
           <Original>Solar Panel (6)</Original>
           <Chinese>太陽能電板(6)</Chinese>
-          <Chinesesimp>太阳能电板(6)</Chinesesimp>
+          <Chinesesimp>太阳能电板（6）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_solarpanel_3_f0">
           <Original>Solar Panel (12)</Original>
           <Chinese>太陽能電板(12)</Chinese>
-          <Chinesesimp>太阳能电板(12)</Chinesesimp>
+          <Chinesesimp>太阳能电板（12）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_spp_mirror_broken_f0">
           <Original>Solar Mirrors (Broken)</Original>
           <Chinese>太陽能反射鏡(損壤)</Chinese>
-          <Chinesesimp>太阳能反射镜(损壤)</Chinesesimp>
+          <Chinesesimp>太阳能反射镜（损壤）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_spp_mirror_f0">
           <Original>Solar Mirrors</Original>
@@ -2723,12 +2723,12 @@
         <Key ID="str_a3_cfgvehicles_land_spp_panel_broken_f0">
           <Original>Solar Panel (16, Broken)</Original>
           <Chinese>太陽能電板(16，破損)</Chinese>
-          <Chinesesimp>太阳能电板(16，破损)</Chinesesimp>
+          <Chinesesimp>太阳能电板（16，破损）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_spp_panel_f0">
           <Original>Solar Panel (16)</Original>
           <Chinese>太陽能電板(16)</Chinese>
-          <Chinesesimp>太阳能电板(16)</Chinesesimp>
+          <Chinesesimp>太阳能电板（16）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_spp_tower_f0">
           <Original>Solar Tower</Original>
@@ -2748,12 +2748,12 @@
         <Key ID="str_a3_cfgvehicles_land_ttowersmall_2_f0">
           <Original>Transmitter Pole (Tall)</Original>
           <Chinese>發射桿(高)</Chinese>
-          <Chinesesimp>发射杆(高)</Chinesesimp>
+          <Chinesesimp>发射杆（高）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_u_shed_ind_f0">
           <Original>Industrial Shed (Unfinished)</Original>
           <Chinese>工業鐵皮屋(未完工)</Chinese>
-          <Chinesesimp>工业铁皮屋(未完工)</Chinesesimp>
+          <Chinesesimp>工业铁皮屋（未完工）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wavepowerplant_f0">
           <Original>Wave Powerplant</Original>
@@ -2763,12 +2763,12 @@
         <Key ID="str_a3_cfgvehicles_land_indpipe2_bigl_r_f0">
           <Original>Industrial Pipe Platform (Big, Corner, Right)</Original>
           <Chinese>工業焊管平臺(大，拐角，右)</Chinese>
-          <Chinesesimp>工业焊管平台(大，拐角，右)</Chinesesimp>
+          <Chinesesimp>工业焊管平台（大，拐角，右）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wpp_turbine_v1_f0">
           <Original>Wind Turbine (Camo)</Original>
           <Chinese>風力發電機(迷彩)</Chinese>
-          <Chinesesimp>风力发电机(迷彩)</Chinesesimp>
+          <Chinesesimp>风力发电机（迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wpp_turbine_v2_f0">
           <Original>Wind Turbine</Original>
@@ -2778,62 +2778,62 @@
         <Key ID="str_a3_cfgvehicles_land_wavepowerplantbroken_f0">
           <Original>Wave Powerplant (Broken)</Original>
           <Chinese>海水發電廠(損壤)</Chinese>
-          <Chinesesimp>海水发电厂(损壤)</Chinesesimp>
+          <Chinesesimp>海水发电厂（损壤）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo40_blue_f0">
           <Original>Cargo Container (Long, Blue)</Original>
           <Chinese>貨櫃(長，藍色)</Chinese>
-          <Chinesesimp>货柜(长，蓝色)</Chinesesimp>
+          <Chinesesimp>货柜（长，蓝色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo40_brick_red_f0">
           <Original>Cargo Container (Long, Brick Red)</Original>
           <Chinese>貨櫃(長，磚紅色)</Chinese>
-          <Chinesesimp>货柜(长，砖红色)</Chinesesimp>
+          <Chinesesimp>货柜（长，砖红色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo40_cyan_f0">
           <Original>Cargo Container (Long, Cyan)</Original>
           <Chinese>貨櫃(長，青綠色)</Chinese>
-          <Chinesesimp>货柜(长，青绿色)</Chinesesimp>
+          <Chinesesimp>货柜（长，青绿色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo40_grey_f0">
           <Original>Cargo Container (Long, Grey)</Original>
           <Chinese>貨櫃(長，灰色)</Chinese>
-          <Chinesesimp>货柜(长，灰色)</Chinesesimp>
+          <Chinesesimp>货柜（长，灰色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo40_light_blue_f0">
           <Original>Cargo Container (Long, Light Blue)</Original>
           <Chinese>貨櫃(長，淺藍色)</Chinese>
-          <Chinesesimp>货柜(长，浅蓝色)</Chinesesimp>
+          <Chinesesimp>货柜（长，浅蓝色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo40_light_green_f0">
           <Original>Cargo Container (Long, Light Green)</Original>
           <Chinese>貨櫃(長，淺綠色)</Chinese>
-          <Chinesesimp>货柜(长，浅绿色)</Chinesesimp>
+          <Chinesesimp>货柜（长，浅绿色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo40_orange_f0">
           <Original>Cargo Container (Long, Orange)</Original>
           <Chinese>貨櫃(長，橘色)</Chinese>
-          <Chinesesimp>货柜(长，橘色)</Chinesesimp>
+          <Chinesesimp>货柜（长，橘色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo40_red_f0">
           <Original>Cargo Container (Long, Red)</Original>
           <Chinese>貨櫃(長，紅色)</Chinese>
-          <Chinesesimp>货柜(长，红色)</Chinesesimp>
+          <Chinesesimp>货柜（长，红色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo40_sand_f0">
           <Original>Cargo Container (Long, Sand)</Original>
           <Chinese>貨櫃(長，沙土)</Chinese>
-          <Chinesesimp>货柜(长，沙土)</Chinesesimp>
+          <Chinesesimp>货柜（长，沙土）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo40_white_f0">
           <Original>Cargo Container (Long, White)</Original>
           <Chinese>貨櫃(長，白色)</Chinese>
-          <Chinesesimp>货柜(长，白色)</Chinesesimp>
+          <Chinesesimp>货柜（长，白色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo40_yellow_f0">
           <Original>Cargo Container (Long, Yellow)</Original>
           <Chinese>貨櫃(長，黃色)</Chinese>
-          <Chinesesimp>货柜(长，黄色)</Chinesesimp>
+          <Chinesesimp>货柜（长，黄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_carservice_f0">
           <Original>Car Service</Original>
@@ -2843,22 +2843,22 @@
         <Key ID="str_a3_cfgvehicles_land_cargo10_red_f0">
           <Original>Cargo Container (Short, Red)</Original>
           <Chinese>貨櫃(短，紅色)</Chinese>
-          <Chinesesimp>货柜(短，红色)</Chinesesimp>
+          <Chinesesimp>货柜（短，红色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo10_sand_f0">
           <Original>Cargo Container (Short, Sand)</Original>
           <Chinese>貨櫃(短，沙土)</Chinese>
-          <Chinesesimp>货柜(短，沙土)</Chinesesimp>
+          <Chinesesimp>货柜（短，沙土）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo10_white_f0">
           <Original>Cargo Container (Short, White)</Original>
           <Chinese>貨櫃(短，白色)</Chinese>
-          <Chinesesimp>货柜(短，白色)</Chinesesimp>
+          <Chinesesimp>货柜（短，白色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo10_yellow_f0">
           <Original>Cargo Container (Short, Yellow)</Original>
           <Chinese>貨櫃(短，黃色)</Chinese>
-          <Chinesesimp>货柜(短，黄色)</Chinesesimp>
+          <Chinesesimp>货柜（短，黄色）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_cfgvehicles_land_runway_marker0">
           <Original>Runway Marker</Original>
@@ -2868,12 +2868,12 @@
         <Key ID="str_a3_cfgvehicles_land_wpp_turbine_v1_off_f0">
           <Original>Wind Turbine (Off, Camo)</Original>
           <Chinese>風力發電機(關閉，迷彩)</Chinese>
-          <Chinesesimp>风力发电机(关闭，迷彩)</Chinesesimp>
+          <Chinesesimp>风力发电机（关闭，迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wpp_turbine_v2_off_f0">
           <Original>Wind Turbine (Off)</Original>
           <Chinese>風力發電機(關閉)</Chinese>
-          <Chinesesimp>风力发电机(关闭)</Chinesesimp>
+          <Chinesesimp>风力发电机（关闭）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Items">
@@ -2915,32 +2915,32 @@
         <Key ID="str_a3_cfgvehicles_land_bucket_painted_f0">
           <Original>Bucket (Paint)</Original>
           <Chinese>桶子(油漆)</Chinese>
-          <Chinesesimp>桶子(油漆)</Chinesesimp>
+          <Chinesesimp>桶子（油漆）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_bucket_clean_f0">
           <Original>Bucket (Clean)</Original>
           <Chinese>桶子(清潔)</Chinese>
-          <Chinesesimp>桶子(清洁)</Chinesesimp>
+          <Chinesesimp>桶子（清洁）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_axe_fire_f0">
           <Original>Axe (Firefighter)</Original>
           <Chinese>斧頭(消防隊)</Chinese>
-          <Chinesesimp>斧头(消防队)</Chinesesimp>
+          <Chinesesimp>斧头（消防队）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_bucketnavy_f0">
           <Original>Bucket (NAVY)</Original>
           <Chinese>桶子(海軍)</Chinese>
-          <Chinesesimp>桶子(海军)</Chinesesimp>
+          <Chinesesimp>桶子（海军）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_can_rusty_f0">
           <Original>Can (Rusty)</Original>
           <Chinese>汽水罐(生鏽)</Chinese>
-          <Chinesesimp>汽水罐(生锈)</Chinesesimp>
+          <Chinesesimp>汽水罐（生锈）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_can_v1_f0">
           <Original>Can (Spirit)</Original>
           <Chinese>汽水罐(雪碧)</Chinese>
-          <Chinesesimp>汽水罐(雪碧)</Chinesesimp>
+          <Chinesesimp>汽水罐（雪碧）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_handycam_f0">
           <Original>Handheld Camera</Original>
@@ -2950,7 +2950,7 @@
         <Key ID="str_a3_cfgvehicles_land_can_v2_f0">
           <Original>Can (Franta)</Original>
           <Chinese>汽水罐(Franta)</Chinese>
-          <Chinesesimp>汽水罐(Franta)</Chinesesimp>
+          <Chinesesimp>汽水罐（Franta）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_axe_f0">
           <Original>Axe</Original>
@@ -2970,12 +2970,12 @@
         <Key ID="str_a3_cfgvehicles_land_file1_f0">
           <Original>File (Documents)</Original>
           <Chinese>文件(一般文件)</Chinese>
-          <Chinesesimp>文件(一般文件)</Chinesesimp>
+          <Chinesesimp>文件（一般文件）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_file2_f0">
           <Original>File (Top Secret)</Original>
           <Chinese>文件(最高機密)</Chinese>
-          <Chinesesimp>文件(最高机密)</Chinesesimp>
+          <Chinesesimp>文件（最高机密）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_file_f0">
           <Original>File</Original>
@@ -2985,7 +2985,7 @@
         <Key ID="str_a3_cfgvehicles_land_filephotos_f0">
           <Original>File (Photos)</Original>
           <Chinese>文件(照片)</Chinese>
-          <Chinesesimp>文件(照片)</Chinesesimp>
+          <Chinesesimp>文件（照片）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_floodlight_f0">
           <Original>Floodlight</Original>
@@ -2995,17 +2995,17 @@
         <Key ID="str_a3_cfgvehicles_land_fmradio_f0">
           <Original>FM Radio</Original>
           <Chinese>FM收音機</Chinese>
-          <Chinesesimp>FM收音机</Chinesesimp>
+          <Chinesesimp>FM 收音机</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_laptop_f0">
           <Original>Laptop (Closed)</Original>
           <Chinese>筆記型電腦(關閉)</Chinese>
-          <Chinesesimp>笔记本电脑(关闭)</Chinesesimp>
+          <Chinesesimp>笔记本电脑（关闭）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_laptop_unfolded_f0">
           <Original>Laptop (Open)</Original>
           <Chinese>筆記型電腦(開啟)</Chinese>
-          <Chinesesimp>笔记型电脑(开启)</Chinesesimp>
+          <Chinesesimp>笔记型电脑（开启）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_map_f0">
           <Original>Map of Stratis</Original>
@@ -3015,17 +3015,17 @@
         <Key ID="str_a3_cfgvehicles_land_map_unfolded_f0">
           <Original>Map of Stratis (Open)</Original>
           <Chinese>斯特拉蒂斯地圖(開啟)</Chinese>
-          <Chinesesimp>斯特拉蒂斯地图(开启)</Chinesesimp>
+          <Chinesesimp>斯特拉蒂斯地图（开启）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_mobilephone_old_f0">
           <Original>Mobile Phone (Old)</Original>
           <Chinese>手機(舊)</Chinese>
-          <Chinesesimp>手机(旧)</Chinesesimp>
+          <Chinesesimp>手机（旧）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_mobilephone_smart_f0">
           <Original>Mobile Phone (New)</Original>
           <Chinese>手機(新)</Chinese>
-          <Chinesesimp>手机(新)</Chinesesimp>
+          <Chinesesimp>手机（新）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_money_f0">
           <Original>Pile of Money</Original>
@@ -3040,32 +3040,32 @@
         <Key ID="str_a3_cfgvehicles_land_penblack_f0">
           <Original>Pen (Black)</Original>
           <Chinese>筆(黑色)</Chinese>
-          <Chinesesimp>笔(黑色)</Chinesesimp>
+          <Chinesesimp>笔（黑色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pencilblue_f0">
           <Original>Pencil (Blue)</Original>
           <Chinese>鉛筆(藍色)</Chinese>
-          <Chinesesimp>铅笔(蓝色)</Chinesesimp>
+          <Chinesesimp>铅笔（蓝色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pencilgreen_f0">
           <Original>Pencil (Green)</Original>
           <Chinese>鉛筆(綠色)</Chinese>
-          <Chinesesimp>铅笔(绿色)</Chinesesimp>
+          <Chinesesimp>铅笔（绿色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pencilred_f0">
           <Original>Pencil (Red)</Original>
           <Chinese>鉛筆(紅色)</Chinese>
-          <Chinesesimp>铅笔(红色)</Chinesesimp>
+          <Chinesesimp>铅笔（红色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pencilyellow_f0">
           <Original>Pencil (Yellow)</Original>
           <Chinese>鉛筆(黃色)</Chinese>
-          <Chinesesimp>铅笔(黄色)</Chinesesimp>
+          <Chinesesimp>铅笔（黄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_penred_f0">
           <Original>Pen (Red)</Original>
           <Chinese>筆(紅色)</Chinese>
-          <Chinesesimp>笔(红色)</Chinesesimp>
+          <Chinesesimp>笔（红色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pensandpencils_f0">
           <Original>Pens and Pencils</Original>
@@ -3090,17 +3090,17 @@
         <Key ID="str_a3_cfgvehicles_land_screwdriver_v1_f0">
           <Original>Screwdriver (Slotted)</Original>
           <Chinese>螺絲起子(一字)</Chinese>
-          <Chinesesimp>螺丝起子(一字)</Chinesesimp>
+          <Chinesesimp>螺丝起子（一字）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_screwdriver_v2_f0">
           <Original>Screwdriver (Phillips)</Original>
           <Chinese>螺絲起子(十字)</Chinese>
-          <Chinesesimp>螺丝起子(十字)</Chinesesimp>
+          <Chinesesimp>螺丝起子（十字）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_tacticalbacon_f0">
           <Original>Tactical Bacon</Original>
           <Chinese>軍用糧食(培根)</Chinese>
-          <Chinesesimp>军用粮食(培根)</Chinesesimp>
+          <Chinesesimp>军用粮食（培根）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_trainingmanual_f0">
           <Original>Training Manual</Original>
@@ -3115,219 +3115,219 @@
         <Key ID="str_a3_cfgvehicles_metalbarrel_burning_f0">
           <Original>Metal Barrel (burning)</Original>
           <Chinese>金屬鐵桶(燃燒)</Chinese>
-          <Chinesesimp>金属铁桶(燃烧)</Chinesesimp>
+          <Chinesesimp>金属铁桶（燃烧）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Mil">
         <Key ID="str_a3_cfgvehicles_land_hbarrierwall6_f0">
           <Original>H-barrier Wall (Long)</Original>
           <Chinese>H型護欄牆壁(長)</Chinese>
-          <Chinesesimp>H型护栏墙壁(长)</Chinesesimp>
+          <Chinesesimp>H型护栏墙壁（长）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_camonet_big_f0">
           <Original>Camouflage Vehicle Cover (Green)</Original>
           <Chinese>車輛偽裝網(綠色)</Chinese>
-          <Chinesesimp>车辆伪装网(绿色)</Chinesesimp>
+          <Chinesesimp>车辆伪装网（绿色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_camonet_f0">
           <Original>Camouflage Net (Green)</Original>
           <Chinese>偽裝網(綠色)</Chinese>
-          <Chinesesimp>伪装网(绿色)</Chinesesimp>
+          <Chinesesimp>伪装网（绿色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_aaf_f0">
           <Original>Flag (AAF)</Original>
           <Chinese>旗幟(阿爾蒂斯武裝力量)</Chinese>
-          <Chinesesimp>旗帜(AAF)</Chinesesimp>
+          <Chinesesimp>旗帜（AAF）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_altis_f0">
           <Original>Flag (Altis)</Original>
           <Chinese>旗幟(阿爾蒂斯)</Chinese>
-          <Chinesesimp>旗帜(阿尔蒂斯)</Chinesesimp>
+          <Chinesesimp>旗帜（阿尔蒂斯）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_camonet_open_f0">
           <Original>Camouflage Net (Open, Green)</Original>
           <Chinese>偽裝網(開放，綠色)</Chinese>
-          <Chinesesimp>伪装网(开放，绿色)</Chinesesimp>
+          <Chinesesimp>伪装网（开放，绿色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_bi_f0">
           <Original>Flag (BI)</Original>
           <Chinese>旗幟(波西米亞互動)</Chinese>
-          <Chinesesimp>旗帜(波希米亚互动)</Chinesesimp>
+          <Chinesesimp>旗帜（波希米亚互动）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_blue_f0">
           <Original>Flag (Blue)</Original>
           <Chinese>旗幟(藍色)</Chinese>
-          <Chinesesimp>旗帜(蓝色)</Chinesesimp>
+          <Chinesesimp>旗帜（蓝色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_csat_f0">
           <Original>Flag (CSAT)</Original>
           <Chinese>旗幟(廣協同盟)</Chinese>
-          <Chinesesimp>旗帜(广协)</Chinesesimp>
+          <Chinesesimp>旗帜（广协）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_fia_f0">
           <Original>Flag (FIA)</Original>
           <Chinese>旗幟(自由獨立同盟)</Chinese>
-          <Chinesesimp>旗帜(FIA)</Chinesesimp>
+          <Chinesesimp>旗帜（FIA）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_green_f0">
           <Original>Flag (Green)</Original>
           <Chinese>旗幟(綠色)</Chinese>
-          <Chinesesimp>旗帜(绿色)</Chinesesimp>
+          <Chinesesimp>旗帜（绿色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_nato_f0">
           <Original>Flag (NATO)</Original>
           <Chinese>旗幟(北約)</Chinese>
-          <Chinesesimp>旗帜(北约)</Chinesesimp>
+          <Chinesesimp>旗帜（北约）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_powmia_f0">
           <Original>Flag (POW/MIA)</Original>
           <Chinese>旗幟(戰俘/失蹤)</Chinese>
-          <Chinesesimp>旗帜(战俘/失踪)</Chinesesimp>
+          <Chinesesimp>旗帜（战俘/失踪）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_red_f0">
           <Original>Flag (Red)</Original>
           <Chinese>旗幟(紅色)</Chinese>
-          <Chinesesimp>旗帜(红色)</Chinesesimp>
+          <Chinesesimp>旗帜（红色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_altiscolonial_f0">
           <Original>Flag (Altis Colonial)</Original>
           <Chinese>旗幟(阿爾蒂斯殖民地)</Chinese>
-          <Chinesesimp>旗帜(阿尔蒂斯殖民地)</Chinesesimp>
+          <Chinesesimp>旗帜（阿尔蒂斯殖民地）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_uk_f0">
           <Original>Flag (UK)</Original>
           <Chinese>旗幟(英國)</Chinese>
-          <Chinesesimp>旗帜(英国)</Chinesesimp>
+          <Chinesesimp>旗帜（英国）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_uno_f0">
           <Original>Flag (UNO)</Original>
           <Chinese>旗幟(聯合國)</Chinese>
-          <Chinesesimp>旗帜(联合国)</Chinesesimp>
+          <Chinesesimp>旗帜（联合国）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_us_f0">
           <Original>Flag (USA)</Original>
           <Chinese>旗幟(美國)</Chinese>
-          <Chinesesimp>旗帜(美国)</Chinesesimp>
+          <Chinesesimp>旗帜（美国）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_redcrystal_f0">
           <Original>Flag (Red Crystal)</Original>
           <Chinese>旗幟(紅水晶)</Chinese>
-          <Chinesesimp>旗帜(红水晶)</Chinesesimp>
+          <Chinesesimp>旗帜（红水晶）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_CAMONET_BIG_F1">
           <Original>Camouflage Vehicle Cover (Hex)</Original>
           <Chinese>車輛偽裝網(數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>车辆伪装网(蜂巢迷彩)</Chinesesimp>
+          <Chinesesimp>车辆伪装网（蜂巢迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_white_f0">
           <Original>Flag (White)</Original>
           <Chinese>旗幟(白色)</Chinese>
-          <Chinesesimp>旗帜(白色)</Chinesesimp>
+          <Chinesesimp>旗帜（白色）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_CAMONET_BIG_F2">
           <Original>Camouflage Vehicle Cover (Digital)</Original>
           <Chinese>車輛偽裝網(數位)</Chinese>
-          <Chinesesimp>车辆伪装网(数码)</Chinesesimp>
+          <Chinesesimp>车辆伪装网（数码）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_CAMONET_F1">
           <Original>Camouflage Net (Hex)</Original>
           <Chinese>偽裝網(數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>伪装网(蜂巢迷彩)</Chinesesimp>
+          <Chinesesimp>伪装网（蜂巢迷彩）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_CAMONET_F2">
           <Original>Camouflage Net (Digital)</Original>
           <Chinese>偽裝網(數位)</Chinese>
-          <Chinesesimp>伪装网(数码)</Chinesesimp>
+          <Chinesesimp>伪装网（数码）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_CAMONET_OPEN_F1">
           <Original>Camouflage Net (Open, Hex)</Original>
           <Chinese>偽裝網(開放，數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>伪装网(开放，蜂巢迷彩)</Chinesesimp>
+          <Chinesesimp>伪装网（开放，蜂巢迷彩）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_CAMONET_OPEN_F2">
           <Original>Camouflage Net (Open, Digital)</Original>
           <Chinese>偽裝網(開放，數位)</Chinese>
-          <Chinesesimp>伪装网(开放，数字)</Chinesesimp>
+          <Chinesesimp>伪装网（开放，数字）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_Flag_Noisecontrollers_F0">
           <Original>Flag (Noisecontrollers)</Original>
           <Chinese>旗幟(噪音控制者)</Chinese>
-          <Chinesesimp>旗帜(噪音控制者)</Chinesesimp>
+          <Chinesesimp>旗帜（噪音控制者）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_bagbunker_large_f0">
           <Original>Bunker (Large)</Original>
           <Chinese>掩體(大型)</Chinese>
-          <Chinesesimp>掩体(大型)</Chinesesimp>
+          <Chinesesimp>掩体（大型）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_bagbunker_tower_f0">
           <Original>Bunker (Tower)</Original>
           <Chinese>掩體(塔)</Chinese>
-          <Chinesesimp>掩体(塔)</Chinesesimp>
+          <Chinesesimp>掩体（塔）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo_house_v3_f0">
           <Original>Military Cargo House (Brown)</Original>
           <Chinese>軍用貨櫃屋(棕色)</Chinese>
-          <Chinesesimp>军用货柜屋(棕色)</Chinesesimp>
+          <Chinesesimp>军用货柜屋（棕色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo_hq_v3_f0">
           <Original>Military Cargo HQ (Brown)</Original>
           <Chinese>軍用貨櫃總部(棕色)</Chinese>
-          <Chinesesimp>军用货柜总部(棕色)</Chinesesimp>
+          <Chinesesimp>军用货柜总部（棕色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo_patrol_v3_f0">
           <Original>Military Cargo Post (Brown)</Original>
           <Chinese>軍用貨櫃警戒哨(棕色)</Chinese>
-          <Chinesesimp>军用货柜警戒哨(棕色)</Chinesesimp>
+          <Chinesesimp>军用货柜警戒哨（棕色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo_tower_v1_f0">
           <Original>Military Cargo Tower (Green)</Original>
           <Chinese>軍用貨櫃哨塔(綠色)</Chinese>
-          <Chinesesimp>军用货柜哨塔(绿色)</Chinesesimp>
+          <Chinesesimp>军用货柜哨塔（绿色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo_tower_v1_no1_f0">
           <Original>Military Cargo Tower (#1)</Original>
           <Chinese>軍用貨櫃哨塔(#1)</Chinese>
-          <Chinesesimp>军用货柜哨塔(#1)</Chinesesimp>
+          <Chinesesimp>军用货柜哨塔（#1）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo_tower_v1_no2_f0">
           <Original>Military Cargo Tower (#2)</Original>
           <Chinese>軍用貨櫃哨塔(#2)</Chinese>
-          <Chinesesimp>军用货柜哨塔(#2)</Chinesesimp>
+          <Chinesesimp>军用货柜哨塔（#2）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo_tower_v1_no3_f0">
           <Original>Military Cargo Tower (#3)</Original>
           <Chinese>軍用貨櫃哨塔(#3)</Chinese>
-          <Chinesesimp>军用货柜哨塔(#3)</Chinesesimp>
+          <Chinesesimp>军用货柜哨塔（#3）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo_tower_v1_no4_f0">
           <Original>Military Cargo Tower (#4)</Original>
           <Chinese>軍用貨櫃哨塔(#4)</Chinese>
-          <Chinesesimp>军用货柜哨塔(#4)</Chinesesimp>
+          <Chinesesimp>军用货柜哨塔（#4）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo_tower_v1_no5_f0">
           <Original>Military Cargo Tower (#5)</Original>
           <Chinese>軍用貨櫃哨塔(#5)</Chinese>
-          <Chinesesimp>军用货柜哨塔(#5)</Chinesesimp>
+          <Chinesesimp>军用货柜哨塔（#5）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo_tower_v1_no6_f0">
           <Original>Military Cargo Tower (#6)</Original>
           <Chinese>軍用貨櫃哨塔(#6)</Chinese>
-          <Chinesesimp>军用货柜哨塔(#6)</Chinesesimp>
+          <Chinesesimp>军用货柜哨塔（#6）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo_tower_v1_no7_f0">
           <Original>Military Cargo Tower (#7)</Original>
           <Chinese>軍用貨櫃哨塔(#7)</Chinese>
-          <Chinesesimp>军用货柜哨塔(#7)</Chinesesimp>
+          <Chinesesimp>军用货柜哨塔（#7）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo_tower_v2_f0">
           <Original>Military Cargo Tower (Rusty)</Original>
           <Chinese>軍用貨櫃哨塔(生鏽)</Chinese>
-          <Chinesesimp>军用货柜哨塔(生锈)</Chinesesimp>
+          <Chinesesimp>军用货柜哨塔（生锈）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo_tower_v3_f0">
           <Original>Military Cargo Tower (Brown)</Original>
           <Chinese>軍用貨櫃哨塔(棕色)</Chinese>
-          <Chinesesimp>军用货柜哨塔(棕色)</Chinesesimp>
+          <Chinesesimp>军用货柜哨塔（棕色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_hbarriertower_f0">
           <Original>H-barrier Watchtower</Original>
@@ -3337,22 +3337,22 @@
         <Key ID="str_a3_cfgvehicles_land_hbarrierwall4_f0">
           <Original>H-barrier Wall (Short)</Original>
           <Chinese>H型護欄牆壁(短)</Chinese>
-          <Chinesesimp>H型护栏墙壁(短)</Chinesesimp>
+          <Chinesesimp>H型护栏墙壁（短）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_hbarrierwall_corner_f0">
           <Original>H-barrier Wall (Corner)</Original>
           <Chinese>H型護欄牆壁(轉角)</Chinese>
-          <Chinesesimp>H型护栏墙壁(转角)</Chinesesimp>
+          <Chinesesimp>H型护栏墙壁（转角）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_Land_Medevac_house_V1_F0">
           <Original>Military Cargo House (Medical)</Original>
           <Chinese>軍用貨櫃屋(醫療)</Chinese>
-          <Chinesesimp>军用货柜屋(医疗)</Chinesesimp>
+          <Chinesesimp>军用货柜屋（医疗）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_Land_Medevac_HQ_V1_F0">
           <Original>Military Cargo HQ (Medical)</Original>
           <Chinese>軍用貨櫃總部(醫療)</Chinese>
-          <Chinesesimp>军用货柜总部(医疗)</Chinesesimp>
+          <Chinesesimp>军用货柜总部（医疗）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_hbarrierwall_corridor_f0">
           <Original>H-barrier Corridor</Original>
@@ -3362,17 +3362,17 @@
         <Key ID="str_a3_cfgvehicles_land_helipadcircle_f0">
           <Original>Helipad (Circle)</Original>
           <Chinese>直升機停機坪(圓型)</Chinese>
-          <Chinesesimp>直升机停机坪(圆型)</Chinesesimp>
+          <Chinesesimp>直升机停机坪（圆型）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_helipadcivil_f0">
           <Original>Helipad (Civil)</Original>
           <Chinese>直升機停機坪(民用)</Chinese>
-          <Chinesesimp>直升机停机坪(民用)</Chinesesimp>
+          <Chinesesimp>直升机停机坪（民用）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_helipadrescue_f0">
           <Original>Helipad (Rescue)</Original>
           <Chinese>直升機停機坪(救援)</Chinese>
-          <Chinesesimp>直升机停机坪(救援)</Chinesesimp>
+          <Chinesesimp>直升机停机坪（救援）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_jumptarget_f0">
           <Original>Parachute Jump Target</Original>
@@ -3382,14 +3382,14 @@
         <Key ID="str_a3_cfgvehicles_land_u_barracks_v2_f0">
           <Original>Barracks (Old)</Original>
           <Chinese>軍營(舊)</Chinese>
-          <Chinesesimp>军营(旧)</Chinesesimp>
+          <Chinesesimp>军营（旧）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Walls">
         <Key ID="str_a3_cfgvehicles_land_city_gate_f0">
           <Original>City Wall (Gate)</Original>
           <Chinese>城牆(門)</Chinese>
-          <Chinesesimp>城墙(门)</Chinesesimp>
+          <Chinesesimp>城墙（门）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_cfgVehicles_Land_Ancient_Wall_4m_F0">
           <Original>Ancient Wall</Original>
@@ -3399,17 +3399,17 @@
         <Key ID="str_a3_cfgvehicles_land_cncbarrier_stripes_f0">
           <Original>Concrete Barrier (Stripes)</Original>
           <Chinese>混凝土護欄(條紋)</Chinese>
-          <Chinesesimp>混凝土护栏(条纹)</Chinesesimp>
+          <Chinesesimp>混凝土护栏（条纹）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_city2_pillard_f0">
           <Original>Wall (Pillar)</Original>
           <Chinese>牆壁(支柱)</Chinese>
-          <Chinesesimp>墙壁(支柱)</Chinesesimp>
+          <Chinesesimp>墙壁（支柱）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_cfgVehicles_Land_Ancient_Wall_8m_F0">
           <Original>Ancient Wall (Long)</Original>
           <Chinese>古城牆(長)</Chinese>
-          <Chinesesimp>古城墙(长)</Chinesesimp>
+          <Chinesesimp>古城墙（长）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cncshelter_f0">
           <Original>Concrete Shelter</Original>
@@ -3419,7 +3419,7 @@
         <Key ID="str_a3_cfgvehicles_land_indfnc_3_d_f0">
           <Original>Industrial Fence (Destroyed)</Original>
           <Chinese>工業柵欄(損毀)</Chinese>
-          <Chinesesimp>工业栅栏(损毁)</Chinesesimp>
+          <Chinesesimp>工业栅栏（损毁）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indfnc_3_f0">
           <Original>Industrial Fence</Original>
@@ -3429,27 +3429,27 @@
         <Key ID="str_a3_cfgvehicles_land_indfnc_3_hole_f0">
           <Original>Industrial Fence (Hole)</Original>
           <Chinese>工業柵欄(缺口)</Chinese>
-          <Chinesesimp>工业栅栏(缺口)</Chinesesimp>
+          <Chinesesimp>工业栅栏（缺口）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indfnc_9_f0">
           <Original>Industrial Fence (Long)</Original>
           <Chinese>工業柵欄(長)</Chinese>
-          <Chinesesimp>工业栅栏(长)</Chinesesimp>
+          <Chinesesimp>工业栅栏（长）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indfnc_corner_f0">
           <Original>Industrial Fence (Corner)</Original>
           <Chinese>工業柵欄(拐角)</Chinese>
-          <Chinesesimp>工业栅栏(拐角)</Chinesesimp>
+          <Chinesesimp>工业栅栏（拐角）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indfnc_pole_f0">
           <Original>Industrial Fence (Pole)</Original>
           <Chinese>工業柵欄(桿)</Chinese>
-          <Chinesesimp>工业栅栏(杆)</Chinesesimp>
+          <Chinesesimp>工业栅栏（杆）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_mil_wallbig_gate_f0">
           <Original>M-wall (Gate)</Original>
           <Chinese>M型牆壁(門)</Chinese>
-          <Chinesesimp>M型墙壁(门)</Chinesesimp>
+          <Chinesesimp>M型墙壁（门）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_net_fence_4m_f0">
           <Original>Net Fence</Original>
@@ -3459,22 +3459,22 @@
         <Key ID="str_a3_cfgvehicles_land_net_fence_8m_f0">
           <Original>Net Fence (Long)</Original>
           <Chinese>網狀柵欄(長)</Chinese>
-          <Chinesesimp>网状栅栏(长)</Chinesesimp>
+          <Chinesesimp>网状栅栏（长）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_net_fenced_8m_f0">
           <Original>Net Fence (Destroyed)</Original>
           <Chinese>網狀柵欄(損毀)</Chinese>
-          <Chinesesimp>网状栅栏(损毁)</Chinesesimp>
+          <Chinesesimp>网状栅栏（损毁）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_net_fence_gate_f0">
           <Original>Net Fence (Gate)</Original>
           <Chinese>網狀柵欄(大門)</Chinese>
-          <Chinesesimp>网状栅栏(大门)</Chinesesimp>
+          <Chinesesimp>网状栅栏（大门）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_net_fence_pole_f0">
           <Original>Net Fence (Pole)</Original>
           <Chinese>網狀柵欄(桿)</Chinese>
-          <Chinesesimp>网状栅栏(杆)</Chinesesimp>
+          <Chinesesimp>网状栅栏（杆）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pipewall_concretel_8m_f0">
           <Original>Concrete Pipe Wall</Original>
@@ -3494,7 +3494,7 @@
         <Key ID="str_a3_cfgvehicles_land_wall_indcnc_4_d_f0">
           <Original>Concrete Layered Wall (Destroyed)</Original>
           <Chinese>混凝土方形牆(損毀)</Chinese>
-          <Chinesesimp>混凝土方形墙(损毁)</Chinesesimp>
+          <Chinesesimp>混凝土方形墙（损毁）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wall_indcnc_4_f0">
           <Original>Concrete Layered Wall</Original>
@@ -3504,34 +3504,34 @@
         <Key ID="str_a3_cfgvehicles_land_wall_indcnc_end_2_f0">
           <Original>Concrete Layered Wall (End, Destroyed)</Original>
           <Chinese>混凝土方形牆(結束，損毀)</Chinese>
-          <Chinesesimp>混凝土方形墙(结束，损毁)</Chinesesimp>
+          <Chinesesimp>混凝土方形墙（结束，损毁）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wall_indcnc_pole_f0">
           <Original>Concrete Layered Wall (Pillar)</Original>
           <Chinese>混凝土方形牆(支柱)</Chinese>
-          <Chinesesimp>混凝土方形墙(支柱)</Chinesesimp>
+          <Chinesesimp>混凝土方形墙（支柱）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wall_tin_40">
           <Original>Tin Fence (v1)</Original>
           <Chinese>鐵片柵欄(v1)</Chinese>
-          <Chinesesimp>铁片栅栏(v1)</Chinesesimp>
+          <Chinesesimp>铁片栅栏（v1）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wired_fence_4md_f0">
           <Original>Wire Fence (Destroyed)</Original>
           <Chinese>鐵絲柵欄(損毀)</Chinese>
-          <Chinesesimp>铁丝栅栏(损毁)</Chinesesimp>
+          <Chinesesimp>铁丝栅栏（损毁）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wired_fence_8md_f0">
           <Original>Wire Fence (Long, Destroyed)</Original>
           <Chinese>鐵絲柵欄(長，損毀)</Chinese>
-          <Chinesesimp>铁丝栅栏(长，损毁)</Chinesesimp>
+          <Chinesesimp>铁丝栅栏（长，损毁）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Wrecks">
         <Key ID="str_a3_cfgvehicles_land_uwreck_mi48_f0">
           <Original>Mi-48 Wreck (Underwater)</Original>
           <Chinese>米-48殘骸(水面下)</Chinese>
-          <Chinesesimp>米-48残骸(水面下)</Chinesesimp>
+          <Chinesesimp>米-48残骸（水面下）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wreck_bmp2_f0">
           <Original>BMP2 Wreck</Original>
@@ -3566,22 +3566,22 @@
         <Key ID="str_a3_cfgvehicles_land_wreck_slammer_hull_f0">
           <Original>Slammer Wreck (Hull)</Original>
           <Chinese>"重擊者"殘骸(車體)</Chinese>
-          <Chinesesimp>"重击者"残骸(车体)</Chinesesimp>
+          <Chinesesimp>"重击者"残骸（车体）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wreck_slammer_turret_f0">
           <Original>Slammer Wreck (Turret)</Original>
           <Chinese>"重擊者"殘骸(炮塔)</Chinese>
-          <Chinesesimp>"重击者"残骸(炮塔)</Chinesesimp>
+          <Chinesesimp>"重击者"残骸（炮塔）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wreck_t72_hull_f0">
           <Original>T-72 Wreck (Hull)</Original>
           <Chinese>T-72殘骸(車體)</Chinese>
-          <Chinesesimp>T-72残骸(车体)</Chinesesimp>
+          <Chinesesimp>T-72残骸（车体）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wreck_t72_turret_f0">
           <Original>T-72 Wreck (Turret)</Original>
           <Chinese>T-72殘骸(炮塔)</Chinese>
-          <Chinesesimp>T-72残骸(炮塔)</Chinesesimp>
+          <Chinesesimp>T-72残骸（炮塔）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wreck_uaz_f0">
           <Original>Rusty Car Wreck</Original>
@@ -3613,12 +3613,12 @@
         <Key ID="str_a3_cfgvehicles_metal_pole_platform_f0">
           <Original>Metal Pole (Platform)</Original>
           <Chinese>金屬桿(平臺)</Chinese>
-          <Chinesesimp>金属杆(平台)</Chinesesimp>
+          <Chinesesimp>金属杆（平台）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_metal_pole_skeet_f0">
           <Original>Metal Pole (Skeet)</Original>
           <Chinese>金屬桿(飛靶)</Chinese>
-          <Chinesesimp>金属杆(飞靶)</Chinesesimp>
+          <Chinesesimp>金属杆（飞靶）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_skeet_f0">
           <Original>Skeet Clay</Original>
@@ -3633,17 +3633,17 @@
         <Key ID="str_a3_cfgvehicles_steel_plate_l_f0">
           <Original>Steel Plate (Large)</Original>
           <Chinese>圓形鋼板(大)</Chinese>
-          <Chinesesimp>圆形钢板(大)</Chinesesimp>
+          <Chinesesimp>圆形钢板（大）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_steel_plate_l_stand_f0">
           <Original>Steel Plate (Large - Stand)</Original>
           <Chinese>圓形鋼板(大-站立)</Chinese>
-          <Chinesesimp>圆形钢板(大-站立)</Chinesesimp>
+          <Chinesesimp>圆形钢板（大-站立）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_steel_plate_s_f0">
           <Original>Steel Plate (Small)</Original>
           <Chinese>圓形鋼板(小)</Chinese>
-          <Chinesesimp>圆形钢板(小)</Chinesesimp>
+          <Chinesesimp>圆形钢板（小）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_b_f0">
           <Original>Pop-Up Target 2</Original>
@@ -3653,42 +3653,42 @@
         <Key ID="str_a3_cfgvehicles_targetp_inf_b_side_f0">
           <Original>Moving Target 2 (Side)</Original>
           <Chinese>目標移動靶2(左右)</Chinese>
-          <Chinesesimp>目标移动靶2(左右)</Chinesesimp>
+          <Chinesesimp>目标移动靶2（左右）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_b_straight_f0">
           <Original>Moving Target 2 (Front)</Original>
           <Chinese>目標移動靶2(前後)</Chinese>
-          <Chinesesimp>目标移动靶2(前后)</Chinesesimp>
+          <Chinesesimp>目标移动靶2（前后）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_steel_plate_s_stand_f0">
           <Original>Steel Plate (Small - Stand)</Original>
           <Chinese>圓形鋼板(小-站立)</Chinese>
-          <Chinesesimp>圆形钢板(小-站立)</Chinesesimp>
+          <Chinesesimp>圆形钢板（小-站立）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_steel_plate_stand_f0">
           <Original>Steel Plate (Stand)</Original>
           <Chinese>圓形鋼板(站立)</Chinese>
-          <Chinesesimp>圆形钢板(站立)</Chinesesimp>
+          <Chinesesimp>圆形钢板（站立）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_civ_a_side_f0">
           <Original>Moving Hostage 1 (Side)</Original>
           <Chinese>人質移動靶1(左右)</Chinese>
-          <Chinesesimp>人质移动靶1(左右)</Chinesesimp>
+          <Chinesesimp>人质移动靶1（左右）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_b_acc1_f0">
           <Original>Pop-Up Target 2 (Zones)</Original>
           <Chinese>目標練習靶2(區塊)</Chinese>
-          <Chinesesimp>目标练习靶2(区块)</Chinesesimp>
+          <Chinesesimp>目标练习靶2（区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_b_acc1_side_f0">
           <Original>Moving Target 2 (Side - Zones)</Original>
           <Chinese>目標移動靶2(左右-區塊)</Chinese>
-          <Chinesesimp>目标移动靶2(左右-区块)</Chinesesimp>
+          <Chinesesimp>目标移动靶2（左右-区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_b_acc1_straight_f0">
           <Original>Moving Target 2 (Front - Zones)</Original>
           <Chinese>目標移動靶2(前後-區塊)</Chinese>
-          <Chinesesimp>目标移动靶2(前后-区块)</Chinesesimp>
+          <Chinesesimp>目标移动靶2（前后-区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_c_f0">
           <Original>Pop-Up Target 3</Original>
@@ -3698,62 +3698,62 @@
         <Key ID="str_a3_cfgvehicles_targetp_inf_c_side_f0">
           <Original>Moving Target 3 (Side)</Original>
           <Chinese>目標移動靶3(左右)</Chinese>
-          <Chinesesimp>目标移动靶3(左右)</Chinesesimp>
+          <Chinesesimp>目标移动靶3（左右）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_c_straight_f0">
           <Original>Moving Target 3 (Front)</Original>
           <Chinese>目標移動靶3(前後)</Chinese>
-          <Chinesesimp>目标移动靶3(前后)</Chinesesimp>
+          <Chinesesimp>目标移动靶3（前后）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_b_acc2_f0">
           <Original>Pop-Up Target 2 (Accuracy)</Original>
           <Chinese>目標練習靶2(精準度)</Chinese>
-          <Chinesesimp>目标练习靶2(精准度)</Chinesesimp>
+          <Chinesesimp>目标练习靶2（精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_b_acc2_side_f0">
           <Original>Moving Target 2 (Side - Accuracy)</Original>
           <Chinese>目標移動靶2(左右-精準度)</Chinese>
-          <Chinesesimp>目标移动靶2(左右-精准度)</Chinesesimp>
+          <Chinesesimp>目标移动靶2（左右-精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_b_acc2_straight_f0">
           <Original>Moving Target 2 (Front - Accuracy)</Original>
           <Chinese>目標移動靶2(前後-精準度)</Chinese>
-          <Chinesesimp>目标移动靶2(前后-精准度)</Chinesesimp>
+          <Chinesesimp>目标移动靶2（前后-精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_c_acc1_f0">
           <Original>Pop-Up Target 3 (Zones)</Original>
           <Chinese>目標練習靶3(區塊)</Chinese>
-          <Chinesesimp>目标练习靶3(区块)</Chinesesimp>
+          <Chinesesimp>目标练习靶3（区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_c_acc1_side_f0">
           <Original>Moving Target 3 (Side - Zones)</Original>
           <Chinese>目標移動靶3(左右-區塊)</Chinese>
-          <Chinesesimp>目标移动靶3(左右-区块)</Chinesesimp>
+          <Chinesesimp>目标移动靶3（左右-区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_c_acc1_straight_f0">
           <Original>Moving Target 3 (Front - Zones)</Original>
           <Chinese>目標移動靶3(前後-區塊)</Chinese>
-          <Chinesesimp>目标移动靶3(前后-区块)</Chinesesimp>
+          <Chinesesimp>目标移动靶3（前后-区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_c_acc2_f0">
           <Original>Pop-Up Target 3 (Accuracy)</Original>
           <Chinese>目標練習靶3(精準度)</Chinese>
-          <Chinesesimp>目标练习靶3(精准度)</Chinesesimp>
+          <Chinesesimp>目标练习靶3（精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_c_acc2_side_f0">
           <Original>Moving Target 3 (Side - Accuracy)</Original>
           <Chinese>目標移動靶3(左右-精準度)</Chinese>
-          <Chinesesimp>目标移动靶3(左右-精准度)</Chinesesimp>
+          <Chinesesimp>目标移动靶3（左右-精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_c_acc2_straight_f0">
           <Original>Moving Target 3 (Front - Accuracy)</Original>
           <Chinese>目標移動靶3(前後-精準度)</Chinese>
-          <Chinesesimp>目标移动靶3(前后-精准度)</Chinesesimp>
+          <Chinesesimp>目标移动靶3（前后-精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_civ_a_straight_f0">
           <Original>Moving Hostage 1 (Front)</Original>
           <Chinese>人質移動靶1(前後)</Chinese>
-          <Chinesesimp>人质移动靶1(前后)</Chinesesimp>
+          <Chinesesimp>人质移动靶1（前后）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_civ_b_f0">
           <Original>Pop-Up Hostage 2</Original>
@@ -3763,12 +3763,12 @@
         <Key ID="str_a3_cfgvehicles_targetp_civ_b_side_f0">
           <Original>Moving Hostage 2 (Side)</Original>
           <Chinese>人質移動靶2(左右)</Chinese>
-          <Chinesesimp>人质移动靶2(左右)</Chinesesimp>
+          <Chinesesimp>人质移动靶2（左右）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_civ_b_straight_f0">
           <Original>Moving Hostage 2 (Front)</Original>
           <Chinese>人質移動靶2(前後)</Chinese>
-          <Chinesesimp>人质移动靶2(前后)</Chinesesimp>
+          <Chinesesimp>人质移动靶2（前后）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_civ_c_f0">
           <Original>Pop-Up Hostage 3</Original>
@@ -3778,7 +3778,7 @@
         <Key ID="str_a3_cfgvehicles_targetp_civ_c_side_f0">
           <Original>Moving Hostage 3 (Side)</Original>
           <Chinese>人質移動靶3(左右)</Chinese>
-          <Chinesesimp>人质移动靶3(左右)</Chinesesimp>
+          <Chinesesimp>人质移动靶3（左右）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_zom_a_f0">
           <Original>Pop-Up Zombie 1</Original>
@@ -3788,32 +3788,32 @@
         <Key ID="str_a3_cfgvehicles_targetp_zom_a_side_f0">
           <Original>Moving Zombie 1 (Side)</Original>
           <Chinese>殭屍移動靶1(左右)</Chinese>
-          <Chinesesimp>僵尸移动靶1(左右)</Chinesesimp>
+          <Chinesesimp>僵尸移动靶1（左右）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_zom_a_straight_f0">
           <Original>Moving Zombie 1 (Front)</Original>
           <Chinese>殭屍移動靶1(前後)</Chinese>
-          <Chinesesimp>僵尸移动靶1(前后)</Chinesesimp>
+          <Chinesesimp>僵尸移动靶1（前后）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_civ_c_straight_f0">
           <Original>Moving Hostage 3 (Front)</Original>
           <Chinese>人質移動靶3(前後)</Chinese>
-          <Chinesesimp>人质移动靶3(前后)</Chinesesimp>
+          <Chinesesimp>人质移动靶3（前后）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_zom_a_acc1_f0">
           <Original>Pop-Up Zombie 1 (Zones)</Original>
           <Chinese>殭屍練習靶1(區塊)</Chinese>
-          <Chinesesimp>僵尸练习靶1(区块)</Chinesesimp>
+          <Chinesesimp>僵尸练习靶1（区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_zom_a_acc1_side_f0">
           <Original>Moving Zombie 1 (Side - Zones)</Original>
           <Chinese>殭屍移動靶1(左右-區塊)</Chinese>
-          <Chinesesimp>僵尸移动靶1(左右-区块)</Chinesesimp>
+          <Chinesesimp>僵尸移动靶1（左右-区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_zom_a_acc1_straight_f0">
           <Original>Moving Zombie 1 (Front - Zones)</Original>
           <Chinese>殭屍移動靶1(前後-區塊)</Chinese>
-          <Chinesesimp>僵尸移动靶1(前后-区块)</Chinesesimp>
+          <Chinesesimp>僵尸移动靶1（前后-区块）</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -4594,7 +4594,7 @@
         <Key ID="str_a3_cfgworlds_altis_loadingtext6">
           <Original>The highest point of Altis is the peak of Thronos (350 m above sea level), with the ruins of a castle built by Arabian warlords in the middle ages.</Original>
           <Chinese>阿爾蒂斯的最高點是斯羅諾斯的山頂(海拔350公尺)，山頂有阿拉伯人在中世紀建造的城堡遺跡。</Chinese>
-          <Chinesesimp>阿尔蒂斯的最高峰是斯罗诺斯山的山顶(海拔350米)，山顶有阿拉伯将领在中世纪建造的城堡遗迹。</Chinesesimp>
+          <Chinesesimp>阿尔蒂斯的最高峰是斯罗诺斯山的山顶（海拔350米），山顶有阿拉伯将领在中世纪建造的城堡遗迹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext5">
           <Original>Pyrgos is an important port and the newly established capital of the Republic of Altis and Stratis.</Original>
@@ -4732,199 +4732,199 @@
       <Key ID="STR_A3_cfgVehicles_SignAd_Sponsor_F0">
         <Original>Sign (Sponsor)</Original>
         <Chinese>標誌(空白)</Chinese>
-        <Chinesesimp>标志(空白)</Chinesesimp>
+        <Chinesesimp>标志（空白）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_SponsorS_F0">
         <Original>Sign (Sponsor - Small)</Original>
         <Chinese>標誌(空白-小)</Chinese>
-        <Chinesesimp>标志(空白-小)</Chinesesimp>
+        <Chinesesimp>标志（空白-小）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_Sponsor_Vrana_F0">
         <Original>Sign (Vrana)</Original>
         <Chinese>標誌(沃爾納企業)</Chinese>
-        <Chinesesimp>标志(沃尔纳企业)</Chinesesimp>
+        <Chinesesimp>标志（沃尔纳企业）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_Sponsor_ARMEX_F0">
         <Original>Sign (ARMEX)</Original>
         <Chinese>標誌(ARMEX)</Chinese>
-        <Chinesesimp>标志(ARMEX)</Chinesesimp>
+        <Chinesesimp>标志（ARMEX）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_Sponsor_ION_F0">
         <Original>Sign (ION)</Original>
         <Chinese>標誌(ION傭兵公司)</Chinese>
-        <Chinesesimp>标志(ION佣兵公司)</Chinesesimp>
+        <Chinesesimp>标志（ION 佣兵公司）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_Sponsor_Larkin_F0">
         <Original>Sign (Larkin)</Original>
         <Chinese>標誌(拉爾金)</Chinese>
-        <Chinesesimp>标志(拉尔金)</Chinesesimp>
+        <Chinesesimp>标志（拉尔金）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_SponsorS_Vrana_F0">
         <Original>Sign (Vrana - Small)</Original>
         <Chinese>標誌(沃爾納企業-小)</Chinese>
-        <Chinesesimp>标志(沃尔纳企业-小)</Chinesesimp>
+        <Chinesesimp>标志（沃尔纳企业-小）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_SponsorS_ARMEX_F0">
         <Original>Sign (ARMEX - Small)</Original>
         <Chinese>標誌(ARMEX-小)</Chinese>
-        <Chinesesimp>标志(ARMEX-小)</Chinesesimp>
+        <Chinesesimp>标志（ARMEX-小）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_SponsorS_Quontrol_F0">
         <Original>Sign (Quontrol - Small)</Original>
         <Chinese>標誌(Quontrol-小)</Chinese>
-        <Chinesesimp>标志(Quontrol-小)</Chinesesimp>
+        <Chinesesimp>标志（Quontrol-小）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_Sponsor_Noisecontrollers_F0">
         <Original>Sign (Noisecontrollers)</Original>
         <Chinese>標誌(控制噪音)</Chinese>
-        <Chinesesimp>标志(控制噪音)</Chinesesimp>
+        <Chinesesimp>标志（控制噪音）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_Sponsor_Quontrol_F0">
         <Original>Sign (Quontrol)</Original>
         <Chinese>標誌(Quontrol)</Chinese>
-        <Chinesesimp>标志(Quontrol)</Chinesesimp>
+        <Chinesesimp>标志（Quontrol）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_SponsorS_ION_F0">
         <Original>Sign (ION - Small)</Original>
         <Chinese>標誌(ION傭兵公司-小)</Chinese>
-        <Chinesesimp>标志(ION佣兵公司-小)</Chinesesimp>
+        <Chinesesimp>标志（ION 佣兵公司-小）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_SponsorS_Larkin_F0">
         <Original>Sign (Larkin - Small)</Original>
         <Chinese>標誌(拉爾金-小)</Chinese>
-        <Chinesesimp>标志(拉尔金-小)</Chinesesimp>
+        <Chinesesimp>标志（拉尔金-小）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_SponsorS_Noisecontrollers_F0">
         <Original>Sign (Noisecontrollers - Small)</Original>
         <Chinese>標誌(控制噪音-小)</Chinese>
-        <Chinesesimp>标志(控制噪音-小)</Chinesesimp>
+        <Chinesesimp>标志（控制噪音-小）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Static_F">
       <Key ID="str_a3_b_static_at_placeholder_f0">
         <Original>Static Titan Launcher (AT) [NATO]</Original>
         <Chinese>固定式"泰坦"發射器(反坦克)[北約]</Chinese>
-        <Chinesesimp>固定式"泰坦"发射器(反坦克)[北约]</Chinesesimp>
+        <Chinesesimp>固定式"泰坦"发射器（反坦克）[北约]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_gmg_01_a_high_weapon_f_assembleinfo0">
         <Original>Static GMG (Raised)</Original>
         <Chinese>固定式榴彈機槍(高射腳架)</Chinese>
-        <Chinesesimp>固定式榴弹发射器(高射脚架)</Chinesesimp>
+        <Chinesesimp>固定式榴弹发射器（高射脚架）</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_static_aa_placeholder_f0">
         <Original>Static Titan Launcher (AA) [NATO]</Original>
         <Chinese>固定式"泰坦"發射器(防空)[北約]</Chinese>
-        <Chinesesimp>固定式"泰坦"发射器(防空)[北约]</Chinesesimp>
+        <Chinesesimp>固定式"泰坦"发射器（防空）[北约]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_gmg_01_high_weapon_f_assembleinfo0">
         <Original>Static GMG (Raised)</Original>
         <Chinese>固定式榴彈機槍(高射腳架)</Chinese>
-        <Chinesesimp>固定式榴弹发射器(高射脚架)</Chinesesimp>
+        <Chinesesimp>固定式榴弹发射器（高射脚架）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_gmg_01_a_high_weapon_f0">
         <Original>Dismantled Mk32A GMG (Raised)</Original>
         <Chinese>拆解Mk32A榴彈機槍(高射腳架)</Chinese>
-        <Chinesesimp>拆解的Mk32A榴弹发射器(高射脚架)</Chinesesimp>
+        <Chinesesimp>拆解的 Mk32A榴弹发射器（高射脚架）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_a_high_weapon_f_assembleinfo0">
         <Original>Static MG (Raised)</Original>
         <Chinese>固定式機槍(高射腳架)</Chinese>
-        <Chinesesimp>固定式机枪(高射脚架)</Chinesesimp>
+        <Chinesesimp>固定式机枪（高射脚架）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_gmg_01_high_weapon_f0">
         <Original>Dismantled Mk32 GMG (Raised) [NATO]</Original>
         <Chinese>拆解Mk32榴彈機槍(高射腳架)[北約]</Chinese>
-        <Chinesesimp>拆解Mk32榴弹发射器(高射脚架)[北约]</Chinesesimp>
+        <Chinesesimp>拆解 Mk32榴弹发射器（高射脚架）[北约]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_high_weapon_f_assembleinfo0">
         <Original>Static MG (Raised)</Original>
         <Chinese>固定式機槍(高射腳架)</Chinese>
-        <Chinesesimp>固定式机枪(高射脚架)</Chinesesimp>
+        <Chinesesimp>固定式机枪（高射脚架）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_a_high_weapon_f0">
         <Original>Dismantled Mk30A HMG (Raised)</Original>
         <Chinese>拆解Mk30A重機槍(高射腳架)</Chinese>
-        <Chinesesimp>拆解的Mk30A重机枪(高射脚架)</Chinesesimp>
+        <Chinesesimp>拆解的 Mk30A重机枪（高射脚架）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_support_high_f0">
         <Original>Folded Tripod (Raised) [NATO]</Original>
         <Chinese>折疊式腳架(高射腳架)[北約]</Chinese>
-        <Chinesesimp>折叠式三脚架(高射脚架)[北约]</Chinesesimp>
+        <Chinesesimp>折叠式三脚架（高射脚架）[北约]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_gmg_01_a_high_base_f0">
         <Original>Mk32A GMG 20 mm (Raised)</Original>
         <Chinese>Mk32A 20公厘榴彈機槍(高射腳架)</Chinese>
-        <Chinesesimp>Mk32A 20mm 榴弹发射器(高射脚架)</Chinesesimp>
+        <Chinesesimp>Mk32A 20mm 榴弹发射器（高射脚架）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_gmg_01_high_base_f0">
         <Original>Mk32 GMG 20 mm (Raised)</Original>
         <Chinese>Mk32 20公厘榴彈機槍(高射腳架)</Chinese>
-        <Chinesesimp>Mk32 20mm 榴弹发射器(高射脚架)</Chinesesimp>
+        <Chinesesimp>Mk32 20mm 榴弹发射器（高射脚架）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_hmg_01_a_high_base_f0">
         <Original>Mk30A HMG .50 (Raised)</Original>
         <Chinese>Mk30A .50重機槍(高射腳架)</Chinese>
-        <Chinesesimp>Mk30A .50重机枪(高射脚架)</Chinesesimp>
+        <Chinesesimp>Mk30A .50重机枪（高射脚架）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_hmg_01_high_base_f0">
         <Original>Mk30 HMG .50 (Raised)</Original>
         <Chinese>Mk30 .50重機槍(高射腳架)</Chinese>
-        <Chinesesimp>Mk30 .50重机枪(高射脚架)</Chinesesimp>
+        <Chinesesimp>Mk30 .50重机枪（高射脚架）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_high_weapon_f0">
         <Original>Dismantled Mk30 HMG (Raised) [NATO]</Original>
         <Chinese>拆解Mk30重機槍(高射腳架)[北約]</Chinese>
-        <Chinesesimp>拆解Mk30重机枪(高射脚架)[北约]</Chinesesimp>
+        <Chinesesimp>拆解 Mk30重机枪（高射脚架）[北约]</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_static_aa_placeholder_f1">
         <Original>Static Titan Launcher (AA) [CSAT]</Original>
         <Chinese>固定式"泰坦"發射器(防空)[廣協同盟]</Chinese>
-        <Chinesesimp>固定式"泰坦"发射器(防空)[广协]</Chinesesimp>
+        <Chinesesimp>固定式"泰坦"发射器（防空）[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_static_aa_placeholder_f2">
         <Original>Static Titan Launcher (AA) [AAF]</Original>
         <Chinese>固定式"泰坦"發射器(防空)[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>固定式"泰坦"发射器(防空)[AAF]</Chinesesimp>
+        <Chinesesimp>固定式"泰坦"发射器（防空）[AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_static_at_placeholder_f1">
         <Original>Static Titan Launcher (AT) [CSAT]</Original>
         <Chinese>固定式"泰坦"發射器(反坦克)[廣協同盟]</Chinese>
-        <Chinesesimp>固定式"泰坦"发射器(反坦克)[广协]</Chinesesimp>
+        <Chinesesimp>固定式"泰坦"发射器（反坦克）[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_static_at_placeholder_f2">
         <Original>Static Titan Launcher (AT) [AAF]</Original>
         <Chinese>固定式"泰坦"發射器(反坦克)[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>固定式"泰坦"发射器(反坦克)[AAF]</Chinesesimp>
+        <Chinesesimp>固定式"泰坦"发射器（反坦克）[AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_gmg_01_high_weapon_f1">
         <Original>Dismantled Mk32 GMG (Raised) [CSAT]</Original>
         <Chinese>拆解Mk32榴彈機槍(高射腳架)[廣協同盟]</Chinese>
-        <Chinesesimp>拆解的Mk32榴弹发射器(高射脚架)[广协]</Chinesesimp>
+        <Chinesesimp>拆解的 Mk32榴弹发射器（高射脚架）[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_gmg_01_high_weapon_f2">
         <Original>Dismantled Mk32 GMG (Raised) [AAF]</Original>
         <Chinese>拆解Mk32榴彈機槍(高射腳架)[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>拆解的Mk32榴弹发射器(高射脚架)[AAF]</Chinesesimp>
+        <Chinesesimp>拆解的 Mk32榴弹发射器（高射脚架）[AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_high_weapon_f1">
         <Original>Dismantled Mk30 HMG (Raised) [CSAT]</Original>
         <Chinese>拆解Mk30重機槍(高射腳架)[廣協同盟]</Chinese>
-        <Chinesesimp>拆解的Mk30重机枪(高射脚架)[广协]</Chinesesimp>
+        <Chinesesimp>拆解的 Mk30重机枪（高射脚架）[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_high_weapon_f2">
         <Original>Dismantled Mk30 HMG (Raised) [AAF]</Original>
         <Chinese>拆解Mk30重機槍(高射腳架)[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>拆解的Mk30重机枪(高射脚架)[AAF]</Chinesesimp>
+        <Chinesesimp>拆解的 Mk30重机枪（高射脚架）[AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_support_high_f1">
         <Original>Folded Tripod (Raised) [CSAT]</Original>
         <Chinese>折疊式腳架(高射腳架)[廣協同盟]</Chinese>
-        <Chinesesimp>折叠式三脚架(高射脚架)[广协]</Chinesesimp>
+        <Chinesesimp>折叠式三脚架（高射脚架）[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_support_high_f2">
         <Original>Folded Tripod (Raised) [AAF]</Original>
         <Chinese>折疊式腳架(高射腳架)[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>折叠式三脚架(高射脚架)[AAF]</Chinesesimp>
+        <Chinesesimp>折叠式三脚架（高射脚架）[AAF]</Chinesesimp>
       </Key>
     </Container>
     <Container name="Music_F">

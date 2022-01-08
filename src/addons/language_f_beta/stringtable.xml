@@ -214,22 +214,22 @@
       <Key ID="str_a3_cfgvehicles_fin_blackwhite_f0">
         <Original>Dog (Blackwhite)</Original>
         <Chinese>狗(黑白色)</Chinese>
-        <Chinesesimp>狗(黑白色)</Chinesesimp>
+        <Chinesesimp>狗（黑白色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_fin_ocherwhite_f0">
         <Original>Dog (Ocherwhite)</Original>
         <Chinese>狗(赭石白色)</Chinese>
-        <Chinesesimp>狗(赭石白色)</Chinesesimp>
+        <Chinesesimp>狗（赭石白色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_fin_sand_f0">
         <Original>Dog (Sand)</Original>
         <Chinese>狗(沙色)</Chinese>
-        <Chinesesimp>狗(沙色)</Chinesesimp>
+        <Chinesesimp>狗（沙色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_fin_tricolour_f0">
         <Original>Dog (Tricolour)</Original>
         <Chinese>狗(三色)</Chinese>
-        <Chinesesimp>狗(三色)</Chinesesimp>
+        <Chinesesimp>狗（三色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_goat_base_f0">
         <Original>Goat</Original>
@@ -244,17 +244,17 @@
       <Key ID="str_a3_cfgvehicles_alsatian_black_f0">
         <Original>Alsatian (Black)</Original>
         <Chinese>德國牧羊犬(黑色)</Chinese>
-        <Chinesesimp>德国牧羊犬(黑色)</Chinesesimp>
+        <Chinesesimp>德国牧羊犬（黑色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_alsatian_sandblack_f0">
         <Original>Alsatian (Sandblack)</Original>
         <Chinese>德國牧羊犬(沙黑色)</Chinese>
-        <Chinesesimp>德国牧羊犬(沙黑色)</Chinesesimp>
+        <Chinesesimp>德国牧羊犬（沙黑色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_alsatian_sand_f0">
         <Original>Alsatian (Sand)</Original>
         <Chinese>德國牧羊犬(沙色)</Chinese>
-        <Chinesesimp>德国牧羊犬(沙色)</Chinesesimp>
+        <Chinesesimp>德国牧羊犬（沙色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_cock_random_f0">
         <Original>Cock</Original>
@@ -274,17 +274,17 @@
           <Key ID="str_a3_b_tacticalpack_oli0">
             <Original>Tactical Backpack (Olive)</Original>
             <Chinese>戰術背包(橄欖色)</Chinese>
-            <Chinesesimp>战术背包(橄榄色)</Chinesesimp>
+            <Chinesesimp>战术背包（橄榄色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_fieldpack_oli0">
             <Original>Field Pack (Olive)</Original>
             <Chinese>戰地背包(橄欖色)</Chinese>
-            <Chinesesimp>战地背包(橄榄色)</Chinesesimp>
+            <Chinesesimp>战地背包（橄榄色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_tacticalpack_ocamo0">
             <Original>Tactical Backpack (Hex)</Original>
             <Chinese>戰術背包(數位蜂巢迷彩)</Chinese>
-            <Chinesesimp>战术背包(蜂巢迷彩)</Chinesesimp>
+            <Chinesesimp>战术背包（蜂巢迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_bag_parachutesteerable0">
             <Original>Steerable Parachute</Original>
@@ -294,27 +294,27 @@
           <Key ID="str_a3_b_tacticalpack_rgr0">
             <Original>Tactical Backpack (Green)</Original>
             <Chinese>戰術背包(綠色)</Chinese>
-            <Chinesesimp>战术背包(绿色)</Chinesesimp>
+            <Chinesesimp>战术背包（绿色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_tacticalpack_mcamo0">
             <Original>Tactical Backpack (MTP)</Original>
             <Chinese>戰術背包(多地形迷彩)</Chinese>
-            <Chinesesimp>战术背包(多地形迷彩)</Chinesesimp>
+            <Chinesesimp>战术背包（多地形迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_carryall_oli0">
             <Original>Carryall Backpack (Olive)</Original>
             <Chinese>行军包(橄欖色)</Chinese>
-            <Chinesesimp>行军包(橄榄色)</Chinesesimp>
+            <Chinesesimp>行军包（橄榄色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_tacticalpack_blk0">
             <Original>Tactical Backpack (Black)</Original>
             <Chinese>戰術背包(黑色)</Chinese>
-            <Chinesesimp>战术背包(黑色)</Chinesesimp>
+            <Chinesesimp>战术背包（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_bergen_rgr0">
             <Original>Bergen (Green)</Original>
             <Chinese>野戰背包(綠色)</Chinese>
-            <Chinesesimp>野战背包(绿色)</Chinesesimp>
+            <Chinesesimp>野战背包（绿色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_assaultpackg0">
             <Original>Assault Pack</Original>
@@ -324,22 +324,22 @@
           <Key ID="str_a3_b_bergenc_blu0">
             <Original>Bergen (Blue)</Original>
             <Chinese>野戰背包(藍色)</Chinese>
-            <Chinesesimp>野战背包(蓝色)</Chinesesimp>
+            <Chinesesimp>野战背包（蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_bergenc_grn0">
             <Original>Bergen (Green)</Original>
             <Chinese>野戰背包(綠色)</Chinese>
-            <Chinesesimp>野战背包(绿色)</Chinesesimp>
+            <Chinesesimp>野战背包（绿色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_bergenc_red0">
             <Original>Bergen (Red)</Original>
             <Chinese>野戰背包(紅色)</Chinese>
-            <Chinesesimp>野战背包(红色)</Chinesesimp>
+            <Chinesesimp>野战背包（红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_carryall_cbr0">
             <Original>Carryall Backpack (Coyote)</Original>
             <Chinese>行军包(土狼棕色)</Chinese>
-            <Chinesesimp>行军包(土狼棕色)</Chinesesimp>
+            <Chinesesimp>行军包（土狼棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_huntingbackpack0">
             <Original>Hunting Backpack</Original>
@@ -349,27 +349,27 @@
           <Key ID="str_a3_b_outdoorpack_blk0">
             <Original>Outdoor Pack (Black)</Original>
             <Chinese>戶外背包(黑色)</Chinese>
-            <Chinesesimp>户外背包(黑色)</Chinesesimp>
+            <Chinesesimp>户外背包（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_outdoorpack_blu0">
             <Original>Outdoor Pack (Blue)</Original>
             <Chinese>戶外背包(藍色)</Chinese>
-            <Chinesesimp>户外背包(蓝色)</Chinesesimp>
+            <Chinesesimp>户外背包（蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_outdoorpack_tan0">
             <Original>Outdoor Pack (Tan)</Original>
             <Chinese>戶外背包(黃褐色)</Chinese>
-            <Chinesesimp>户外背包(黄褐色)</Chinesesimp>
+            <Chinesesimp>户外背包（黄褐色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_fieldpack_khk0">
             <Original>Field Pack (Khaki)</Original>
             <Chinese>戰地背包(卡其色)</Chinese>
-            <Chinesesimp>战地背包(卡其色)</Chinesesimp>
+            <Chinesesimp>战地背包（卡其色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_carryall_khk0">
             <Original>Carryall Backpack (Khaki)</Original>
             <Chinese>行军包(卡其色)</Chinese>
-            <Chinesesimp>行军包(卡其色)</Chinesesimp>
+            <Chinesesimp>行军包（卡其色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_bergeng0">
             <Original>Bergen</Original>
@@ -379,12 +379,12 @@
           <Key ID="str_a3_b_bergen_blk0">
             <Original>Bergen (Black)</Original>
             <Chinese>野戰背包(黑色)</Chinese>
-            <Chinesesimp>野战背包(黑色)</Chinesesimp>
+            <Chinesesimp>野战背包（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_bergen_mcamo0">
             <Original>Bergen (MTP)</Original>
             <Chinese>野戰背包(多地形迷彩)</Chinese>
-            <Chinesesimp>野战背包(多地形迷彩)</Chinesesimp>
+            <Chinesesimp>野战背包（多地形迷彩）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Boxes">
@@ -461,7 +461,7 @@
           <Key ID="str_a3_weapons_f_beta_cfgmagazines_9rnd_45acp_mag0">
             <Original>.45 ACP 9Rnd Mag</Original>
             <Chinese>.45ACP口徑9發彈匣</Chinese>
-            <Chinesesimp>.45ACP口径9发弹匣</Chinesesimp>
+            <Chinesesimp>.45ACP 口径9发弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_titan_at0">
             <Original>Titan AT Missile</Original>
@@ -476,7 +476,7 @@
           <Key ID="str_a3_cfgmagazines_250rnd_30mm_he_shells_tracer_green0">
             <Original>30 mm HE Tracer (Green) Shells </Original>
             <Chinese>30公厘高爆曳光彈(綠色)砲彈</Chinese>
-            <Chinesesimp>30mm 高爆曳光弹(绿色)炮弹</Chinesesimp>
+            <Chinesesimp>30mm 高爆曳光弹（绿色）炮弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_titan_aa0">
             <Original>Titan AA Missile</Original>
@@ -486,7 +486,7 @@
           <Key ID="str_a3_cfgmagazines_250rnd_30mm_he_shells_tracer_red0">
             <Original>30 mm HE Tracer (Red) Shells </Original>
             <Chinese>30公厘高爆曳光彈(紅色)砲彈</Chinese>
-            <Chinesesimp>30mm 高爆曳光弹(红色)炮弹</Chinesesimp>
+            <Chinesesimp>30mm 高爆曳光弹（红色）炮弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_40rnd_40mm_apfsds_tracer_red_shells0">
             <Original>40 mm APFSDS-T</Original>
@@ -496,12 +496,12 @@
           <Key ID="str_a3_cfgmagazines_150rnd_762x51_box0">
             <Original>7.62 mm 150Rnd Box</Original>
             <Chinese>7.62公厘150發彈盒</Chinese>
-            <Chinesesimp>7.62mm 150发弹链盒</Chinesesimp>
+            <Chinesesimp>7.62 mm 150发弹链盒</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_150rnd_762x51_box_tracer0">
             <Original>7.62 mm 150Rnd Tracer (Green) Box</Original>
             <Chinese>7.62公厘150發曳光彈(綠色)彈盒</Chinese>
-            <Chinesesimp>7.62mm 150发曳光弹(绿色)弹链盒</Chinesesimp>
+            <Chinesesimp>7.62 mm 150发曳光弹（绿色）弹链盒</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_140rnd_30mm_mp_shells_tracer_red0">
             <Original>30 mm MP-T</Original>
@@ -543,12 +543,12 @@
           <Key ID="str_a3_cfgmagazines_titan_ap1">
             <Original>Type: Antipersonnel&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Titan MPRL Compact</Original>
             <Chinese>類型:穿甲彈&lt;br/&gt;發數:1&lt;br/&gt;使用於:"泰坦"多功能火箭發射器(緊湊型)</Chinese>
-            <Chinesesimp>类型:穿甲弹&lt;br/&gt;发数:1&lt;br/&gt;使用于:"泰坦"多功能火箭发射器(紧凑型)</Chinesesimp>
+            <Chinesesimp>类型:穿甲弹&lt;br/&gt;发数:1&lt;br/&gt;使用于:"泰坦"多功能火箭发射器（紧凑型）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_titan_at1">
             <Original>Type: Anti-Tank&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Titan MPRL Compact</Original>
             <Chinese>類型:反坦克&lt;br/&gt;發數:1&lt;br/&gt;使用於:"泰坦"多功能火箭發射器(緊湊型)</Chinese>
-            <Chinesesimp>类型:反坦克&lt;br/&gt;发数:1&lt;br/&gt;使用于:"泰坦"多功能火箭发射器(紧凑型)</Chinesesimp>
+            <Chinesesimp>类型:反坦克&lt;br/&gt;发数:1&lt;br/&gt;使用于:"泰坦"多功能火箭发射器（紧凑型）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_titan_aa1">
             <Original>Type: Anti-Air&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Titan MPRL</Original>
@@ -608,27 +608,27 @@
             <Key ID="str_a3_cfgglasses_g_sport_blackwhite0">
               <Original>Sport Shades (Shadow)</Original>
               <Chinese>運動墨鏡(陰影)</Chinese>
-              <Chinesesimp>运动墨镜(阴影)</Chinesesimp>
+              <Chinesesimp>运动墨镜（阴影）</Chinesesimp>
             </Key>
             <Key ID="str_a3_cfgglasses_g_sport_blackyellow0">
               <Original>Sport Shades (Poison)</Original>
               <Chinese>運動墨鏡(黑黃色)</Chinese>
-              <Chinesesimp>运动墨镜(黑黄色)</Chinesesimp>
+              <Chinesesimp>运动墨镜（黑黄色）</Chinesesimp>
             </Key>
             <Key ID="str_a3_cfgglasses_g_sport_checkered0">
               <Original>Sport Shades (Style)</Original>
               <Chinese>運動墨鏡(白色)</Chinese>
-              <Chinesesimp>运动墨镜(白色)</Chinesesimp>
+              <Chinesesimp>运动墨镜（白色）</Chinesesimp>
             </Key>
             <Key ID="str_a3_cfgglasses_g_sport_greenblack0">
               <Original>Sport Shades (Yetti)</Original>
               <Chinese>運動墨鏡(淺綠色)</Chinese>
-              <Chinesesimp>运动墨镜(浅绿色)</Chinesesimp>
+              <Chinesesimp>运动墨镜（浅绿色）</Chinesesimp>
             </Key>
             <Key ID="str_a3_cfgglasses_g_sport_red0">
               <Original>Sport Shades (Fire)</Original>
               <Chinese>運動墨鏡(火焰)</Chinese>
-              <Chinesesimp>运动墨镜(火焰)</Chinesesimp>
+              <Chinesesimp>运动墨镜（火焰）</Chinesesimp>
             </Key>
             <Key ID="str_a3_cfgglasses_g_tactical_black0">
               <Original>Tactical Shades</Original>
@@ -674,12 +674,12 @@
           <Key ID="str_a3_cfgweapons_lmg_zafir_f1">
             <Original>Light Machine Gun&lt;br /&gt;Caliber: 7.62x54 mm</Original>
             <Chinese>輕機槍&lt;br/&gt;口徑:7.62x54公厘</Chinese>
-            <Chinesesimp>轻机枪&lt;br/&gt;口径:7.62x54mm </Chinesesimp>
+            <Chinesesimp>轻机枪&lt;br/&gt;口径:7.62x54mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk201">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45公厘</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45mm </Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_01_base_f0">
             <Original>Submachine Gun&lt;br /&gt;Caliber: .45 ACP</Original>
@@ -689,17 +689,17 @@
           <Key ID="str_a3_cfgweapons_arifle_mk20c1">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45公厘</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45mm </Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_021">
             <Original>Submachine Gun&lt;br /&gt;Caliber: 9x21 mm</Original>
             <Chinese>衝鋒槍&lt;br/&gt;口徑:9x21公厘</Chinese>
-            <Chinesesimp>冲锋枪&lt;br/&gt;口径:9x21mm </Chinesesimp>
+            <Chinesesimp>冲锋枪&lt;br/&gt;口径:9x21mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20_gl1">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45公厘</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45mm </Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_011">
             <Original>Submachine Gun&lt;br /&gt;Caliber: .45 ACP</Original>
@@ -714,7 +714,7 @@
           <Key ID="str_a3_cfgweapons_smg_02_base_f0">
             <Original>Submachine Gun&lt;br /&gt;Caliber: 9x21 mm</Original>
             <Chinese>衝鋒槍&lt;br/&gt;口徑:9x21公厘</Chinese>
-            <Chinesesimp>冲锋枪&lt;br/&gt;口径:9x21mm </Chinesesimp>
+            <Chinesesimp>冲锋枪&lt;br/&gt;口径:9x21mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_mk20_base_f0">
             <Original>Assault rifle  &lt;br/&gt;Caliber: 5.56x45 mm NATO</Original>
@@ -731,12 +731,12 @@
           <Key ID="str_cfgweapons_launch_mprl_short_f0">
             <Original>Titan MPRL Compact</Original>
             <Chinese>"泰坦"多功能火箭發射器(緊湊型)</Chinese>
-            <Chinesesimp>"泰坦"多功能火箭发射器(紧凑型)</Chinesesimp>
+            <Chinesesimp>"泰坦"多功能火箭发射器（紧凑型）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_lmg_zafir_f0">
             <Original>Zafir 7.62 mm</Original>
             <Chinese>"扎菲爾"7.62公厘</Chinese>
-            <Chinesesimp>"扎菲尔"7.62mm </Chinesesimp>
+            <Chinesesimp>"扎菲尔"7.62 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_test_mk200">
             <Original>TEST</Original>
@@ -746,7 +746,7 @@
           <Key ID="STR_A3_cfgweapons_afrile_mk20_gl_camo">
             <Original>Mk20 EGLM 5.56 mm (Camo)</Original>
             <Chinese>Mk20 EGLM 5.56公厘(迷彩)</Chinese>
-            <Chinesesimp>Mk20 EGLM 5.56mm (迷彩)</Chinesesimp>
+            <Chinesesimp>Mk20 EGLM 5.56 mm（迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_hgun_acpc2_f0">
             <Original>ACP-C2 .45 ACP</Original>
@@ -756,12 +756,12 @@
           <Key ID="str_a3_cfgweapons_arifle_mk200">
             <Original>Mk20 5.56 mm</Original>
             <Chinese>Mk20 5.56公厘</Chinese>
-            <Chinesesimp>Mk20 5.56mm </Chinesesimp>
+            <Chinesesimp>Mk20 5.56 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20c0">
             <Original>Mk20C 5.56 mm</Original>
             <Chinese>Mk20C 5.56公厘</Chinese>
-            <Chinesesimp>Mk20C 5.56mm </Chinesesimp>
+            <Chinesesimp>Mk20C 5.56 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_010">
             <Original>Vermin SMG .45 ACP</Original>
@@ -781,54 +781,54 @@
           <Key ID="str_a3_cfgweapons_arifle_mk20_camo">
             <Original>Mk20 5.56 mm (Camo)</Original>
             <Chinese>Mk20 5.56公厘(迷彩)</Chinese>
-            <Chinesesimp>Mk20 5.56mm (迷彩)</Chinesesimp>
+            <Chinesesimp>Mk20 5.56 mm（迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20c_camo">
             <Original>Mk20C 5.56 mm (Camo)</Original>
             <Chinese>Mk20C 5.56公厘(迷彩)</Chinese>
-            <Chinesesimp>Mk20C 5.56mm (迷彩)</Chinesesimp>
+            <Chinesesimp>Mk20C 5.56 mm（迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20_gl0">
             <Original>Mk20 EGLM 5.56 mm</Original>
             <Chinese>Mk20 EGLM 5.56公厘</Chinese>
-            <Chinesesimp>Mk20 EGLM 5.56mm </Chinesesimp>
+            <Chinesesimp>Mk20 EGLM 5.56 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_mprl_f1">
             <Original>Titan MPRL (Sand)</Original>
             <Chinese>"泰坦"多功能火箭發射器(沙色)</Chinese>
-            <Chinesesimp>"泰坦"多功能火箭发射器(沙色)</Chinesesimp>
+            <Chinesesimp>"泰坦"多功能火箭发射器（沙色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_mprl_f2">
             <Original>Titan MPRL (Hex)</Original>
             <Chinese>"泰坦"多功能火箭發射器(數位蜂巢迷彩)</Chinese>
-            <Chinesesimp>"泰坦"多功能火箭发射器(蜂巢迷彩)</Chinesesimp>
+            <Chinesesimp>"泰坦"多功能火箭发射器（蜂巢迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_mprl_f3">
             <Original>Titan MPRL (Digital)</Original>
             <Chinese>"泰坦"多功能火箭發射器(數位)</Chinese>
-            <Chinesesimp>"泰坦"多功能火箭发射器(数码)</Chinesesimp>
+            <Chinesesimp>"泰坦"多功能火箭发射器（数码）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_mprl_short_f1">
             <Original>Titan MPRL Compact (Sand)</Original>
             <Chinese>"泰坦"多功能火箭發射器(緊湊型)(沙色)</Chinese>
-            <Chinesesimp>"泰坦"多功能火箭发射器(紧凑型)(沙色)</Chinesesimp>
+            <Chinesesimp>"泰坦"多功能火箭发射器(紧凑型)（沙色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_mprl_short_f2">
             <Original>Titan MPRL Compact (Coyote)</Original>
             <Chinese>"泰坦"多功能火箭發射器(緊湊型)(土狼棕色)</Chinese>
-            <Chinesesimp>"泰坦"多功能火箭发射器(紧凑型)(土狼棕色)</Chinesesimp>
+            <Chinesesimp>"泰坦"多功能火箭发射器(紧凑型)（土狼棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_mprl_short_f3">
             <Original>Titan MPRL Compact (Olive)</Original>
             <Chinese>"泰坦"多功能火箭發射器(緊湊型)(橄欖色)</Chinese>
-            <Chinesesimp>"泰坦"多功能火箭发射器(紧凑型)(橄榄色)</Chinesesimp>
+            <Chinesesimp>"泰坦"多功能火箭发射器(紧凑型)（橄榄色）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Library">
           <Key ID="str_a3_cfgweapons_lmg_zafir_f_library0">
             <Original>The Zafir 7.62 mm is a light machine gun mass-produced by China. It is said to be based on a copied Israeli design, which spawned a lengthy legal conflict that still remains unresolved. The Zafir is a gas-powered automatic firearm, that uses easily replaceable ammo boxes carrying up to 150 rounds. 7.62 mm caliber ammunition gives the Zafir an advantage over BLUFOR MX SW weapons when compared in power and range, but the weapon itself is heavier and less maneuverable. </Original>
             <Chinese>"扎菲爾"7.62公厘是一把由中國量產的輕機槍。據說是抄襲了以色列的設計，這個設計引出了一個漫長的法律糾紛，且至今仍未解決。"扎菲爾"是一個使用瓦斯動力的自動武器，使用了可以輕易替換的彈盒，彈盒內可容納150發子彈。7.62公厘口徑彈藥與藍方的MX SW相比，在火力和射程上具有優勢，但缺點是重量過重而不便攜帶。</Chinese>
-            <Chinesesimp>"扎菲尔"7.62mm 是一把中国大规模生产的轻机枪。据说是抄袭了以色列的设计，这引出了一场漫长的法律纠纷，且至今仍未解决。"扎菲尔"是一种导气式自动武器，使用了可以轻易替换的弹盒，弹盒内可容纳150发子弹。7.62mm 口径弹药与蓝方的MX SW相比在火力和射程上具有优势，但缺点是重量过重而不便携带。</Chinesesimp>
+            <Chinesesimp>"扎菲尔"7.62 mm 是一把中国大规模生产的轻机枪。据说是抄袭了以色列的设计，这引出了一场漫长的法律纠纷，且至今仍未解决。"扎菲尔"是一种导气式自动武器，使用了可以轻易替换的弹盒，弹盒内可容纳150发子弹。7.62mm 口径弹药与蓝方的 MX SW 相比在火力和射程上具有优势，但缺点是重量过重而不便携带。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_02_library0">
             <Original>The Sting is a 9x21 mm submachine gun. The weapon is designed to be used by security forces, vehicle crews and special forces. Due to its small size, accuracy, ambidextrous use and rate of fire, it became a popular SMG around the world.</Original>
@@ -838,12 +838,12 @@
           <Key ID="STR_A3_CfgWeapons_hgun_ACPC2_Library0">
             <Original>The ACP-C2 is a custom version of the classic C-1911. A single-action self-loading pistol design remained and new materials allowed even better speed, precision and increased durability. The ACP-C2 is equipped with self-illuminating sights that provide a tactical advantage in low light conditions. </Original>
             <Chinese>ACP-C2是經典手槍柯爾特1911(或稱M1911A1)的一種定製版本。保留了單動操作與自動裝填的設計，同時使用更新型的材料，使它擁有更好的速度，精確度和耐用性。ACP-C2配備了自動發光瞄具，使它能夠在光線較暗的環境下創造戰略優勢。</Chinese>
-            <Chinesesimp>ACP-C2是经典手枪柯尔特1911(或称M1911A1)的一种定制版本。保留了单动操作与自动装填的设计，同时使用更新型的材料，使它拥有更好的速度，精确度和耐用性。ACP-C2配备了自动发光瞄具，使它能够在光线较暗的环境下创造战略优势。</Chinesesimp>
+            <Chinesesimp>ACP-C2是经典手枪柯尔特1911（或称M1911A1）的一种定制版本。保留了单动操作与自动装填的设计，同时使用更新型的材料，使它拥有更好的速度，精确度和耐用性。ACP-C2配备了自动发光瞄具，使它能够在光线较暗的环境下创造战略优势。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20_library0">
             <Original>The Mk20 is a gas-operated rotating bolt, selective-fire weapon, which was designed as a highly moddable weapon. Its design and front ejection system allows true ambidextrous use. Two other variants of Mk20 exist. The Mk20C comes with a shorter barrel suitable for close combat and the Mk20 ELGM comes with an enhanced grenade launching module.</Original>
             <Chinese>Mk20是一把帶氣動式旋轉槍機的點射武器，它被設計為一種高度模組化的武器。有兩個Mk20的衍生型:帶有短槍管的Mk20C適合近戰，和附帶了一個增強型榴彈發射器的Mk20 ELGM。</Chinese>
-            <Chinesesimp>Mk20是一种导气式旋转枪机闭锁的可调射击方式武器，为高度模块化设计。Mk20的有两种衍生型:短枪管的Mk20C适合近战，Mk20 ELGM附带了一具增强型榴弹发射器。</Chinesesimp>
+            <Chinesesimp>Mk20是一种导气式旋转枪机闭锁的可调射击方式武器，为高度模块化设计。Mk20的有两种衍生型:短枪管的 Mk20C适合近战，Mk20 ELGM 附带了一具增强型榴弹发射器。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgWeapons_launch_MPRL_short_Library0">
             <Original>The Titan Multi-Purpose Rocket Launcher is a shoulder system for launching guided rockets. This compact version trades increased portability for less powerful rockets and cannot launch anti-air missiles. It's adapted to be launched from closed quarters, has several modes of guidance and thanks to its advanced jet engine, it's capable of hitting even fast moving targets at short distances. </Original>
@@ -869,27 +869,27 @@
           <Key ID="str_a3_h_shemag_tan0">
             <Original>Shemag mask (Tan)</Original>
             <Chinese>阿拉伯面罩(黃褐色)</Chinese>
-            <Chinesesimp>阿拉伯面罩(黄褐色)</Chinesesimp>
+            <Chinesesimp>阿拉伯面罩（黄褐色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_bandanna_camo0">
             <Original>Bandana (Camo)</Original>
             <Chinese>印花頭巾(迷彩)</Chinese>
-            <Chinesesimp>印花头巾(迷彩)</Chinesesimp>
+            <Chinesesimp>印花头巾（迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_shemagopen_khk0">
             <Original>Shemag (Khaki)</Original>
             <Chinese>阿拉伯頭巾(卡其色)</Chinese>
-            <Chinesesimp>阿拉伯头巾(卡其色)</Chinesesimp>
+            <Chinesesimp>阿拉伯头巾（卡其色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_strawhat_dark0">
             <Original>Straw Hat (Dark)</Original>
             <Chinese>草帽(深色)</Chinese>
-            <Chinesesimp>草帽(深色)</Chinesesimp>
+            <Chinesesimp>草帽（深色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_shemagopen_tan0">
             <Original>Shemag (Tan)</Original>
             <Chinese>阿拉伯頭巾(黃褐色)</Chinese>
-            <Chinesesimp>阿拉伯头巾(黄褐色)</Chinesesimp>
+            <Chinesesimp>阿拉伯头巾（黄褐色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_turbano_blk0">
             <Original>Black Turban</Original>
@@ -904,17 +904,17 @@
           <Key ID="str_a3_h_watchcap_camo0">
             <Original>Beanie (Camo)</Original>
             <Chinese>毛帽(迷彩)</Chinese>
-            <Chinesesimp>毛帽(迷彩)</Chinesesimp>
+            <Chinesesimp>毛帽（迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_watchcap_khk0">
             <Original>Beanie (Khaki)</Original>
             <Chinese>毛帽(卡其色)</Chinese>
-            <Chinesesimp>毛帽(卡其色)</Chinesesimp>
+            <Chinesesimp>毛帽（卡其色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_watchcap_sgg0">
             <Original>Beanie (Sage)</Original>
             <Chinese>毛帽(草綠色)</Chinese>
-            <Chinesesimp>毛帽(草绿色)</Chinesesimp>
+            <Chinesesimp>毛帽（草绿色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_strawhat0">
             <Original>Straw Hat</Original>
@@ -924,57 +924,57 @@
           <Key ID="str_a3_h_bandanna_cbr0">
             <Original>Bandana (Coyote)</Original>
             <Chinese>印花頭巾(土狼棕色)</Chinese>
-            <Chinesesimp>印花头巾(土狼棕色)</Chinesesimp>
+            <Chinesesimp>印花头巾（土狼棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_bandanna_gry0">
             <Original>Bandana (Grey)</Original>
             <Chinese>印花頭巾(灰色)</Chinese>
-            <Chinesesimp>印花头巾(灰色)</Chinesesimp>
+            <Chinesesimp>印花头巾（灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_bandanna_khk0">
             <Original>Bandana (Khaki)</Original>
             <Chinese>印花頭巾(卡其色)</Chinese>
-            <Chinesesimp>印花头巾(卡其色)</Chinesesimp>
+            <Chinesesimp>印花头巾（卡其色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_bandanna_mcamo0">
             <Original>Bandana (MTP)</Original>
             <Chinese>印花頭巾(多地形迷彩)</Chinese>
-            <Chinesesimp>印花头巾(多地形迷彩)</Chinesesimp>
+            <Chinesesimp>印花头巾（多地形迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_bandanna_sgg0">
             <Original>Bandana (Sage)</Original>
             <Chinese>印花頭巾(草綠色)</Chinese>
-            <Chinesesimp>印花头巾(草绿色)</Chinesesimp>
+            <Chinesesimp>印花头巾（草绿色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_bandanna_surfer0">
             <Original>Bandana (Surfer)</Original>
             <Chinese>印花頭巾(衝浪)</Chinese>
-            <Chinesesimp>印花头巾(冲浪)</Chinesesimp>
+            <Chinesesimp>印花头巾（冲浪）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_bandmask_blk0">
             <Original>Bandana Mask (Black)</Original>
             <Chinese>印花面罩(黑色)</Chinese>
-            <Chinesesimp>印花面罩(黑色)</Chinesesimp>
+            <Chinesesimp>印花面罩（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_bandmask_demon0">
             <Original>Bandana Mask (Demon)</Original>
             <Chinese>印花面罩(惡魔)</Chinese>
-            <Chinesesimp>印花面罩(恶魔)</Chinesesimp>
+            <Chinesesimp>印花面罩（恶魔）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_bandmask_khk0">
             <Original>Bandana Mask (Khaki)</Original>
             <Chinese>印花面罩(卡其色)</Chinese>
-            <Chinesesimp>印花面罩(卡其色)</Chinesesimp>
+            <Chinesesimp>印花面罩（卡其色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_shemag_khk0">
             <Original>Shemag mask (Khaki)</Original>
             <Chinese>阿拉伯面罩(卡其色)</Chinese>
-            <Chinesesimp>阿拉伯面罩(卡其色)</Chinesesimp>
+            <Chinesesimp>阿拉伯面罩（卡其色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_bandmask_reaper0">
             <Original>Bandana Mask (Reaper)</Original>
             <Chinese>印花面罩(死神)</Chinese>
-            <Chinesesimp>印花面罩(死神)</Chinesesimp>
+            <Chinesesimp>印花面罩（死神）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_pilothelmetheli_ia0">
             <Original>Heli Pilot Helmet [AAF]</Original>
@@ -984,7 +984,7 @@
           <Key ID="str_a3_h_beret_blk0">
             <Original>Beret (Black)</Original>
             <Chinese>貝雷帽(黑色)</Chinese>
-            <Chinesesimp>贝雷帽(黑色)</Chinesesimp>
+            <Chinesesimp>贝雷帽（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_pilothelmetfighter_oi0">
             <Original>Pilot Helmet [CSAT]</Original>
@@ -994,37 +994,37 @@
           <Key ID="str_a3_h_beret_blk_police0">
             <Original>Beret (Police)</Original>
             <Chinese>貝雷帽(警察)</Chinese>
-            <Chinesesimp>贝雷帽(警察)</Chinesesimp>
+            <Chinesesimp>贝雷帽（警察）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_helmetia_net0">
             <Original>MICH (Camo)</Original>
             <Chinese>模組化通信頭盔(迷彩)</Chinese>
-            <Chinesesimp>模组化通信头盔(迷彩)</Chinesesimp>
+            <Chinesesimp>模组化通信头盔（迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_beret_brn_sf0">
             <Original>Beret (SAS)</Original>
             <Chinese>貝雷帽(空中特勤隊)</Chinese>
-            <Chinesesimp>贝雷帽(空中特勤队)</Chinesesimp>
+            <Chinesesimp>贝雷帽（空中特勤队）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_helmeto_oucamo0">
             <Original>Protector Helmet (Urban)</Original>
             <Chinese>保護者頭盔(城市迷彩)</Chinese>
-            <Chinesesimp>保护者头盔(城市迷彩)</Chinesesimp>
+            <Chinesesimp>保护者头盔（城市迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_helmetspecb_blk0">
             <Original>Enhanced Combat Helmet (Black)</Original>
             <Chinese>增強型戰鬥頭盔(黑色)</Chinese>
-            <Chinesesimp>增强型战斗头盔(黑色)</Chinesesimp>
+            <Chinesesimp>增强型战斗头盔（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_helmetspecb_paint10">
             <Original>Enhanced Combat Helmet (Grass)</Original>
             <Chinese>增強型戰鬥頭盔(草地)</Chinese>
-            <Chinesesimp>增强型战斗头盔(草地)</Chinesesimp>
+            <Chinesesimp>增强型战斗头盔（草地）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_helmetspecb_paint20">
             <Original>Enhanced Combat Helmet (Desert)</Original>
             <Chinese>增強型戰鬥頭盔(沙漠迷彩)</Chinese>
-            <Chinesesimp>增强型战斗头盔(沙漠迷彩)</Chinesesimp>
+            <Chinesesimp>增强型战斗头盔（沙漠迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_helmetia0">
             <Original>Modular Helmet</Original>
@@ -1034,12 +1034,12 @@
           <Key ID="str_a3_h_helmetspeco_blk0">
             <Original>Assassin Helmet (Black)</Original>
             <Chinese>刺客頭盔(黑色)</Chinese>
-            <Chinesesimp>刺客头盔(黑色)</Chinesesimp>
+            <Chinesesimp>刺客头盔（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_helmetspeco_ocamo0">
             <Original>Assassin Helmet (Hex)</Original>
             <Chinese>刺客頭盔(數位蜂巢迷彩)</Chinese>
-            <Chinesesimp>刺客头盔(蜂巢迷彩)</Chinesesimp>
+            <Chinesesimp>刺客头盔（蜂巢迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_milcap_blue0">
             <Original>Blue Cap</Original>
@@ -1054,17 +1054,17 @@
           <Key ID="str_a3_h_milcap_gry0">
             <Original>Military Cap (Grey)</Original>
             <Chinese>軍帽(灰色)</Chinese>
-            <Chinesesimp>军帽(灰色)</Chinesesimp>
+            <Chinesesimp>军帽（灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_beret_grn0">
             <Original>Beret (Green)</Original>
             <Chinese>貝雷帽(綠色)</Chinese>
-            <Chinesesimp>贝雷帽(绿色)</Chinesesimp>
+            <Chinesesimp>贝雷帽（绿色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_beret_grn_sf0">
             <Original>Beret (SF)</Original>
             <Chinese>貝雷帽(特種部隊)</Chinese>
-            <Chinesesimp>贝雷帽(特种部队)</Chinesesimp>
+            <Chinesesimp>贝雷帽（特种部队）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_milcap_chck10">
             <Original>Checked Cap</Original>
@@ -1074,12 +1074,12 @@
           <Key ID="str_a3_h_milcap_oucamo0">
             <Original>Military Cap (Urban)</Original>
             <Chinese>軍帽(城市迷彩)</Chinese>
-            <Chinesesimp>军帽(城市迷彩)</Chinesesimp>
+            <Chinesesimp>军帽（城市迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_milcap_rucamo0">
             <Original>Military Cap (Russia)</Original>
             <Chinese>軍帽(俄國)</Chinese>
-            <Chinesesimp>军帽(俄国)</Chinesesimp>
+            <Chinesesimp>军帽（俄国）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_pilothelmetfighter_b0">
             <Original>Pilot Helmet [NATO]</Original>
@@ -1114,7 +1114,7 @@
           <Key ID="str_a3_h_beret_red0">
             <Original>Beret (Red)</Original>
             <Chinese>貝雷帽(紅色)</Chinese>
-            <Chinesesimp>贝雷帽(红色)</Chinesesimp>
+            <Chinesesimp>贝雷帽（红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_booniehat_dgtl0">
             <Original>Booniehat [AAF]</Original>
@@ -1124,117 +1124,117 @@
           <Key ID="str_a3_h_booniehat_dirty0">
             <Original>Booniehat (Dirty)</Original>
             <Chinese>擴邊帽(骯髒)</Chinese>
-            <Chinesesimp>扩边帽(肮脏)</Chinesesimp>
+            <Chinesesimp>扩边帽（肮脏）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_booniehat_grn0">
             <Original>Booniehat (Green)</Original>
             <Chinese>擴邊帽(綠色)</Chinese>
-            <Chinesesimp>扩边帽(绿色)</Chinesesimp>
+            <Chinesesimp>扩边帽（绿色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_booniehat_tan0">
             <Original>Booniehat (Tan)</Original>
             <Chinese>擴邊帽(黃褐色)</Chinese>
-            <Chinesesimp>扩边帽(黄褐色)</Chinesesimp>
+            <Chinesesimp>扩边帽（黄褐色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_cap_blk0">
             <Original>Cap (Black)</Original>
             <Chinese>小帽子(黑色)</Chinese>
-            <Chinesesimp>小帽子(黑色)</Chinesesimp>
+            <Chinesesimp>小帽子（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_cap_blk_cmmg0">
             <Original>Cap (CMMG)</Original>
             <Chinese>小帽子(CMMG)</Chinese>
-            <Chinesesimp>小帽子(CMMG)</Chinesesimp>
+            <Chinesesimp>小帽子（CMMG）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_cap_blk_ion0">
             <Original>Cap (ION)</Original>
             <Chinese>小帽子(ION傭兵公司)</Chinese>
-            <Chinesesimp>小帽子(ION佣兵公司)</Chinesesimp>
+            <Chinesesimp>小帽子（ION 佣兵公司）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_cap_blk_raven0">
             <Original>Cap (Raven Security)</Original>
             <Chinese>小帽子(RavenSecurity)</Chinese>
-            <Chinesesimp>小帽子(RavenSecurity)</Chinesesimp>
+            <Chinesesimp>小帽子（RavenSecurity）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_cap_blu_police0">
             <Original>Cap (POLICE)</Original>
             <Chinese>小帽子(警察)</Chinese>
-            <Chinesesimp>小帽子(警察)</Chinesesimp>
+            <Chinesesimp>小帽子（警察）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_cap_brn_specops0">
             <Original>Cap (SPECOPS)</Original>
             <Chinese>小帽子(特種作戰)</Chinese>
-            <Chinesesimp>小帽子(特种作战)</Chinesesimp>
+            <Chinesesimp>小帽子（特种作战）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_cap_grn0">
             <Original>Cap (Green)</Original>
             <Chinese>小帽子(綠色)</Chinese>
-            <Chinesesimp>小帽子(绿色)</Chinesesimp>
+            <Chinesesimp>小帽子（绿色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_cap_grn_bi0">
             <Original>Cap (BI)</Original>
             <Chinese>小帽子(波西米亞互動)</Chinese>
-            <Chinesesimp>小帽子(波西米亚互动)</Chinesesimp>
+            <Chinesesimp>小帽子（波西米亚互动）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_cap_khaki_specops_uk0">
             <Original>Cap (SAS)</Original>
             <Chinese>小帽子(空中特勤隊)</Chinese>
-            <Chinesesimp>小帽子(空中特勤队)</Chinesesimp>
+            <Chinesesimp>小帽子（空中特勤队）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_helmetia_camo0">
             <Original>MICH2 (Camo)</Original>
             <Chinese>2型模組化通信頭盔(迷彩)</Chinese>
-            <Chinesesimp>2型模组化通信头盔(迷彩)</Chinesesimp>
+            <Chinesesimp>2型模组化通信头盔（迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_cap_surfer0">
             <Original>Cap (Surfer)</Original>
             <Chinese>小帽子(衝浪)</Chinese>
-            <Chinesesimp>小帽子(冲浪)</Chinesesimp>
+            <Chinesesimp>小帽子（冲浪）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_cap_tan0">
             <Original>Cap (Tan)</Original>
             <Chinese>小帽子(黃褐色)</Chinese>
-            <Chinesesimp>小帽子(黄褐色)</Chinesesimp>
+            <Chinesesimp>小帽子（黄褐色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_hat_blue0">
             <Original>Hat (Blue)</Original>
             <Chinese>帽子(藍色)</Chinese>
-            <Chinesesimp>帽子(蓝色)</Chinesesimp>
+            <Chinesesimp>帽子（蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_hat_brown0">
             <Original>Hat (Brown)</Original>
             <Chinese>帽子(棕色)</Chinese>
-            <Chinesesimp>帽子(棕色)</Chinesesimp>
+            <Chinesesimp>帽子（棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_hat_camo0">
             <Original>Hat (Camo)</Original>
             <Chinese>帽子(迷彩)</Chinese>
-            <Chinesesimp>帽子(迷彩)</Chinesesimp>
+            <Chinesesimp>帽子（迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_hat_grey0">
             <Original>Hat (Grey)</Original>
             <Chinese>帽子(灰色)</Chinese>
-            <Chinesesimp>帽子(灰色)</Chinesesimp>
+            <Chinesesimp>帽子（灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_cap_tan_specops_us0">
             <Original>Cap (SF)</Original>
             <Chinese>小帽子(特種部隊)</Chinese>
-            <Chinesesimp>小帽子(特种部队)</Chinesesimp>
+            <Chinesesimp>小帽子（特种部队）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_hat_tan0">
             <Original>Hat (Tan)</Original>
             <Chinese>帽子(黃褐色)</Chinese>
-            <Chinesesimp>帽子(黄褐色)</Chinesesimp>
+            <Chinesesimp>帽子（黄褐色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_helmetb_plain_blk0">
             <Original>Combat Helmet (Black)</Original>
             <Chinese>戰鬥頭盔(黑色)</Chinese>
-            <Chinesesimp>战斗头盔(黑色)</Chinesesimp>
+            <Chinesesimp>战斗头盔（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_helmetb_plain_mcamo0">
             <Original>Combat Helmet (Camo)</Original>
             <Chinese>戰鬥頭盔(迷彩)</Chinese>
-            <Chinesesimp>战斗头盔(迷彩)</Chinesesimp>
+            <Chinesesimp>战斗头盔（迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_helmetcrew_o0">
             <Original>Crew Helmet [CSAT]</Original>
@@ -1244,7 +1244,7 @@
           <Key ID="str_a3_h_hat_checker0">
             <Original>Hat (Checker)</Original>
             <Chinese>帽子(眼花迷彩)</Chinese>
-            <Chinesesimp>帽子(眼花迷彩)</Chinesesimp>
+            <Chinesesimp>帽子（眼花迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_helmetcrewb0">
             <Original>Crew Helmet [NATO]</Original>
@@ -1274,12 +1274,12 @@
           <Key ID="STR_A3_H_HELMETSPECB_SAND0">
             <Original>Enhanced Combat Helmet (Sand)</Original>
             <Chinese>增強型戰鬥頭盔(沙土)</Chinese>
-            <Chinesesimp>增强型战斗头盔(沙土)</Chinesesimp>
+            <Chinesesimp>增强型战斗头盔（沙土）</Chinesesimp>
           </Key>
           <Key ID="STR_A3_H_HELMETSPECB_SNAKE0">
             <Original>Enhanced Combat Helmet (Snakeskin)</Original>
             <Chinese>增強型戰鬥頭盔(蛇紋)</Chinese>
-            <Chinesesimp>增强型战斗头盔(蛇纹)</Chinesesimp>
+            <Chinesesimp>增强型战斗头盔（蛇纹）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Uniforms">
@@ -1311,7 +1311,7 @@
           <Key ID="str_a3_characters_f_beta_v_bandollierb_oli0">
             <Original>Slash Bandolier (Olive)</Original>
             <Chinese>斜背彈藥帶(橄欖色)</Chinese>
-            <Chinesesimp>斜背弹药带(橄榄色)</Chinesesimp>
+            <Chinesesimp>斜背弹药带（橄榄色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_underwear2">
             <Original>Underwear 2</Original>
@@ -1321,7 +1321,7 @@
           <Key ID="str_a3_characters_f_beta_v_chestrigf_oli0">
             <Original>Fighter Chestrig (Olive)</Original>
             <Chinese>戰士胸掛背心(橄欖色)</Chinese>
-            <Chinesesimp>战士胸挂背心(橄榄色)</Chinesesimp>
+            <Chinesesimp>战士胸挂背心（橄榄色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_u_ia_wetsuit0">
             <Original>Wetsuit [AAF]</Original>
@@ -1336,12 +1336,12 @@
           <Key ID="str_a3_specop_fatigues">
             <Original>Specop Fatigues (Sage)</Original>
             <Chinese>特種作戰迷彩服(草綠色)</Chinese>
-            <Chinesesimp>特种作战迷彩服(草绿色)</Chinesesimp>
+            <Chinesesimp>特种作战迷彩服（草绿色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_combat_fatigues_haf1">
             <Original>Combat Fatigues [AAF] (Rolled-up)</Original>
             <Chinese>戰鬥迷彩服[阿爾蒂斯武裝力量](捲袖)</Chinese>
-            <Chinesesimp>战斗迷彩服[AAF](卷袖)</Chinesesimp>
+            <Chinesesimp>战斗迷彩服[AAF]（卷袖）</Chinesesimp>
           </Key>
           <Key ID="str_a3_scientist_suit">
             <Original>Scientist Suit</Original>
@@ -1351,7 +1351,7 @@
           <Key ID="str_a3_combat_fatigues_haf_tee">
             <Original>Combat Fatigues [AAF] (Officer)</Original>
             <Chinese>戰鬥迷彩服[阿爾蒂斯武裝力量](軍官)</Chinese>
-            <Chinesesimp>战斗迷彩服[AAF](军官)</Chinesesimp>
+            <Chinesesimp>战斗迷彩服[AAF]（军官）</Chinesesimp>
           </Key>
           <Key ID="str_a3_pilot_coveralls_haf">
             <Original>Pilot Coveralls [AAF]</Original>
@@ -1361,17 +1361,17 @@
           <Key ID="str_a3_recon_fatigues_black">
             <Original>Recon Fatigues (Black)</Original>
             <Chinese>偵察迷彩服(黑色)</Chinese>
-            <Chinesesimp>侦察迷彩服(黑色)</Chinesesimp>
+            <Chinesesimp>侦察迷彩服（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_recon_fatigues_hex">
             <Original>Recon Fatigues (Hex)</Original>
             <Chinese>偵察迷彩服(數位蜂巢迷彩)</Chinese>
-            <Chinesesimp>侦察迷彩服(蜂巢迷彩)</Chinesesimp>
+            <Chinesesimp>侦察迷彩服（蜂巢迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_combat_fatigues_worn">
             <Original>Worn Combat Fatigues (MTP)</Original>
             <Chinese>破舊的戰鬥迷彩服(多地形迷彩)</Chinese>
-            <Chinesesimp>破旧的战斗迷彩服(多地形迷彩)</Chinesesimp>
+            <Chinesesimp>破旧的战斗迷彩服（多地形迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_ghillie_suit">
             <Original>Ghillie Suit [NATO]</Original>
@@ -1411,7 +1411,7 @@
           <Key ID="str_a3_officer_uniform">
             <Original>Officer Fatigues (Hex)</Original>
             <Chinese>軍官迷彩服(數位蜂巢迷彩)</Chinese>
-            <Chinesesimp>军官迷彩服(蜂巢迷彩)</Chinesesimp>
+            <Chinesesimp>军官迷彩服（蜂巢迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_ghillie_suit_iran">
             <Original>Ghillie Suit [CSAT]</Original>
@@ -1436,7 +1436,7 @@
           <Key ID="str_a3_iran_fatigues_urban">
             <Original>Fatigues (Urban) [CSAT]</Original>
             <Chinese>迷彩服(城市迷彩)[廣協同盟]</Chinese>
-            <Chinesesimp>迷彩服(城市迷彩)[广协]</Chinesesimp>
+            <Chinesesimp>迷彩服（城市迷彩）[广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_guerilla_smocks3">
             <Original>Guerilla Smocks 4</Original>
@@ -1476,7 +1476,7 @@
           <Key ID="STR_A3_H_Shemag_olive0">
             <Original>Shemag (Olive)</Original>
             <Chinese>阿拉伯頭巾(橄欖色)</Chinese>
-            <Chinesesimp>阿拉伯头巾(橄榄色)</Chinesesimp>
+            <Chinesesimp>阿拉伯头巾（橄榄色）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Vest">
@@ -1488,7 +1488,7 @@
           <Key ID="str_a3_v_chestrigf_blk0">
             <Original>Chest Rig (Black)</Original>
             <Chinese>胸掛背心(黑色)</Chinese>
-            <Chinesesimp>胸挂背心(黑色)</Chinesesimp>
+            <Chinesesimp>胸挂背心（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_tacvestcamo_khk0">
             <Original>Camouflaged Vest</Original>
@@ -1498,92 +1498,92 @@
           <Key ID="str_a3_v_bandollierb_oli0">
             <Original>Slash Bandolier (Olive)</Original>
             <Chinese>斜背彈藥帶(橄欖色)</Chinese>
-            <Chinesesimp>斜背弹药带(橄榄色)</Chinesesimp>
+            <Chinesesimp>斜背弹药带（橄榄色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_tacvest_camo0">
             <Original>Tactical Vest (Camo)</Original>
             <Chinese>戰術背心(迷彩)</Chinese>
-            <Chinesesimp>战术背心(迷彩)</Chinesesimp>
+            <Chinesesimp>战术背心（迷彩）</Chinesesimp>
           </Key>
           <Key ID="STR_A3_ChestrigF_oli">
             <Original>Chest Rig (Olive)</Original>
             <Chinese>胸掛背心(橄欖色)</Chinese>
-            <Chinesesimp>胸挂背心(橄榄色)</Chinesesimp>
+            <Chinesesimp>胸挂背心（橄榄色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_tacvest_blk0">
             <Original>Tactical Vest (Black)</Original>
             <Chinese>戰術背心(黑色)</Chinese>
-            <Chinesesimp>战术背心(黑色)</Chinesesimp>
+            <Chinesesimp>战术背心（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_tacvest_blk_police0">
             <Original>Tactical Vest (Police)</Original>
             <Chinese>戰術背心(警察)</Chinese>
-            <Chinesesimp>战术背心(警察)</Chinesesimp>
+            <Chinesesimp>战术背心（警察）</Chinesesimp>
           </Key>
           <Key ID="STR_A3_V_BandollierB_blk0">
             <Original>Slash Bandolier (Black)</Original>
             <Chinese>斜背彈藥帶(黑色)</Chinese>
-            <Chinesesimp>斜背弹药带(黑色)</Chinesesimp>
+            <Chinesesimp>斜背弹药带（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_chestrigb_blk0">
             <Original>Fighter Chest Rig (Black)</Original>
             <Chinese>戰士胸掛背心(黑色)</Chinese>
-            <Chinesesimp>战士胸挂背心(黑色)</Chinesesimp>
+            <Chinesesimp>战士胸挂背心（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_platecarrierspec_rgr0">
             <Original>Carrier Special Rig (Green)</Original>
             <Chinese>大容量特殊胸掛背心(綠色)</Chinese>
-            <Chinesesimp>大容量特殊胸挂背心(绿色)</Chinesesimp>
+            <Chinesesimp>大容量特殊胸挂背心（绿色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_chestrigb_khk0">
             <Original>Fighter Chest Rig (Khaki)</Original>
             <Chinese>戰士胸掛背心(卡其色)</Chinese>
-            <Chinesesimp>战士胸挂背心(卡其色)</Chinesesimp>
+            <Chinesesimp>战士胸挂背心（卡其色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_platecarrierspec_cbr0">
             <Original>Carrier Special Rig (Coyote)</Original>
             <Chinese>大容量特殊胸掛背心(土狼棕色)</Chinese>
-            <Chinesesimp>大容量特殊胸挂背心(土狼棕色)</Chinesesimp>
+            <Chinesesimp>大容量特殊胸挂背心（土狼棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_chestrig_blk0">
             <Original>Chest Rig (Black)</Original>
             <Chinese>胸掛背心(黑色)</Chinese>
-            <Chinesesimp>胸挂背心(黑色)</Chinesesimp>
+            <Chinesesimp>胸挂背心（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_platecarrieriagl_dgtl0">
             <Original>GA Carrier GL Rig (Digi)</Original>
             <Chinese>GA大容量榴彈胸掛背心(數位迷彩)</Chinese>
-            <Chinesesimp>GA大容量榴弹胸挂背心(数位迷彩)</Chinesesimp>
+            <Chinesesimp>GA 大容量榴弹胸挂背心（数位迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_chestrig_camo0">
             <Original>Chest Rig (Camo)</Original>
             <Chinese>胸掛背心(迷彩)</Chinese>
-            <Chinesesimp>胸挂背心(迷彩)</Chinesesimp>
+            <Chinesesimp>胸挂背心（迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_platecarrieria2_dgtl0">
             <Original>GA Carrier Rig (Digi)</Original>
             <Chinese>GA大容量胸掛背心(數位迷彩)</Chinese>
-            <Chinesesimp>GA大容量胸挂背心(数位迷彩)</Chinesesimp>
+            <Chinesesimp>GA 大容量胸挂背心（数位迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_harnessogl_gry0">
             <Original>LBV Grenadier Harness (Grey)</Original>
             <Chinese>榴彈戰術承載背心(灰色)</Chinese>
-            <Chinesesimp>榴弹战术承载背心(灰色)</Chinesesimp>
+            <Chinesesimp>榴弹战术承载背心（灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_platecarrieria1_dgtl0">
             <Original>GA Carrier Lite (Digi)</Original>
             <Chinese>GA精簡型大容量背心(數位迷彩)</Chinese>
-            <Chinesesimp>GA精简型大容量背心(数位迷彩)</Chinesesimp>
+            <Chinesesimp>GA 精简型大容量背心（数位迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_harnesso_gry0">
             <Original>LBV Harness (Grey)</Original>
             <Chinese>戰術承載背心(灰色)</Chinese>
-            <Chinesesimp>战术承载背心(灰色)</Chinesesimp>
+            <Chinesesimp>战术承载背心（灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_platecarriergl_cbr0">
             <Original>Carrier GL Rig (Coyote)</Original>
             <Chinese>大容量榴彈胸掛背心(土狼棕色)</Chinese>
-            <Chinesesimp>大容量榴弹胸挂背心(土狼棕色)</Chinesesimp>
+            <Chinesesimp>大容量榴弹胸挂背心（土狼棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_harnessospec_brn0">
             <Original>ELBV Harness</Original>
@@ -1593,27 +1593,27 @@
           <Key ID="str_a3_v_platecarriergl_blk0">
             <Original>Carrier GL Rig (Black)</Original>
             <Chinese>大容量榴彈胸掛背心(黑色)</Chinese>
-            <Chinesesimp>大容量榴弹胸挂背心(黑色)</Chinesesimp>
+            <Chinesesimp>大容量榴弹胸挂背心（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_harnessospec_gry0">
             <Original>ELBV Harness (Grey)</Original>
             <Chinese>增強型戰術承載背心(灰色)</Chinese>
-            <Chinesesimp>增强型战术承载背心(灰色)</Chinesesimp>
+            <Chinesesimp>增强型战术承载背心（灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_platecarrier2_cbr0">
             <Original>Carrier Rig (Coyote)</Original>
             <Chinese>大容量胸掛背心(土狼棕)</Chinese>
-            <Chinesesimp>大容量胸挂背心(土狼棕)</Chinesesimp>
+            <Chinesesimp>大容量胸挂背心（土狼棕）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_platecarrier1_blk0">
             <Original>Carrier Lite (Black)</Original>
             <Chinese>精簡型大容量背心(黑色)</Chinese>
-            <Chinesesimp>精简型大容量背心(黑色)</Chinesesimp>
+            <Chinesesimp>精简型大容量背心（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_platecarrier2_blk0">
             <Original>Carrier Rig (Black)</Original>
             <Chinese>大容量胸掛背心(黑色)</Chinese>
-            <Chinesesimp>大容量胸挂背心(黑色)</Chinesesimp>
+            <Chinesesimp>大容量胸挂背心（黑色）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -1718,7 +1718,7 @@
         <Key ID="str_a3_cfgweapons_muzzle_snds_acp0">
           <Original>Sound Suppressor (.45 ACP)</Original>
           <Chinese>消音器(.45ACP)</Chinese>
-          <Chinesesimp>消音器(.45ACP)</Chinesesimp>
+          <Chinesesimp>消音器（.45ACP）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_valdada0">
           <Original>MRCO</Original>
@@ -1753,7 +1753,7 @@
           <Key ID="str_b_soldier_at_f0">
             <Original>Missile Specialist (AT)</Original>
             <Chinese>飛彈專精兵(反坦克)</Chinese>
-            <Chinesesimp>导弹射手(反坦克)</Chinesesimp>
+            <Chinesesimp>导弹射手（反坦克）</Chinesesimp>
           </Key>
           <Key ID="str_b_helicrew_f0">
             <Original>Helicopter Crew</Original>
@@ -1763,7 +1763,7 @@
           <Key ID="str_b_soldier_aa_f0">
             <Original>Missile Specialist (AA)</Original>
             <Chinese>飛彈專精兵(防空)</Chinese>
-            <Chinesesimp>导弹射手(防空)</Chinesesimp>
+            <Chinesesimp>导弹射手（防空）</Chinesesimp>
           </Key>
           <Key ID="str_b_soldier_a_f0">
             <Original>Ammo Bearer</Original>
@@ -1785,12 +1785,12 @@
           <Key ID="str_b_recon_jtac_f0">
             <Original>Recon JTAC</Original>
             <Chinese>偵察聯合戰術攻擊管制員</Chinese>
-            <Chinesesimp>侦察JTAC</Chinesesimp>
+            <Chinesesimp>侦察 JTAC</Chinesesimp>
           </Key>
           <Key ID="str_b_recon_lat_f0">
             <Original>Recon Scout (AT)</Original>
             <Chinese>偵察偵搜兵(反坦克)</Chinese>
-            <Chinesesimp>侦察侦搜兵(反坦克)</Chinesesimp>
+            <Chinesesimp>侦察侦搜兵（反坦克）</Chinesesimp>
           </Key>
           <Key ID="str_b_recon_m_f0">
             <Original>Recon Marksman</Original>
@@ -1827,7 +1827,7 @@
           <Key ID="str_b_soldier_aat_f0">
             <Original>Asst. Missile Specialist (AT)</Original>
             <Chinese>助手。飛彈專精兵(反坦克)</Chinese>
-            <Chinesesimp>导弹副射手(反坦克)</Chinesesimp>
+            <Chinesesimp>导弹副射手（反坦克）</Chinesesimp>
           </Key>
           <Key ID="str_b_soldier_support_base_f0">
             <Original>Support</Original>
@@ -1837,32 +1837,32 @@
           <Key ID="str_b_support_amg_f0">
             <Original>Asst. Gunner (HMG/GMG)</Original>
             <Chinese>助手。炮手(重機槍/榴彈機槍)</Chinese>
-            <Chinesesimp>机枪副手(重机枪/榴弹发射器)</Chinesesimp>
+            <Chinesesimp>机枪副手（重机枪/榴弹发射器）</Chinesesimp>
           </Key>
           <Key ID="str_b_support_amort_f0">
             <Original>Asst. Gunner (Mk6)</Original>
             <Chinese>助手。炮手(Mk6)</Chinese>
-            <Chinesesimp>副炮手(Mk6)</Chinesesimp>
+            <Chinesesimp>副炮手（Mk6）</Chinesesimp>
           </Key>
           <Key ID="str_b_support_gmg_f0">
             <Original>Gunner (GMG)</Original>
             <Chinese>炮手(榴彈機槍)</Chinese>
-            <Chinesesimp>机枪手(榴弹发射器)</Chinesesimp>
+            <Chinesesimp>机枪手（榴弹发射器）</Chinesesimp>
           </Key>
           <Key ID="str_b_support_mg_f0">
             <Original>Gunner (HMG)</Original>
             <Chinese>炮手(重機槍)</Chinese>
-            <Chinesesimp>机枪手(重机枪)</Chinesesimp>
+            <Chinesesimp>机枪手（重机枪）</Chinesesimp>
           </Key>
           <Key ID="str_b_support_mort_f0">
             <Original>Gunner (Mk6)</Original>
             <Chinese>炮手(Mk6)</Chinese>
-            <Chinesesimp>迫击炮手(Mk6)</Chinesesimp>
+            <Chinesesimp>迫击炮手（Mk6）</Chinesesimp>
           </Key>
           <Key ID="str_b_soldier_aaa_f0">
             <Original>Asst. Missile Specialist (AA)</Original>
             <Chinese>助手。飛彈專精兵(防空)</Chinese>
-            <Chinesesimp>导弹副射手(防空)</Chinesesimp>
+            <Chinesesimp>导弹副射手（防空）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -1950,12 +1950,12 @@
         <Key ID="str_a3_cfggroups_west_blu_f_specops_bus_diverteam_sdv0">
           <Original>Diver Team (SDV)</Original>
           <Chinese>潛水小隊(海豹運輸艇)</Chinese>
-          <Chinesesimp>蛙人小组(海豹运输艇)</Chinesesimp>
+          <Chinesesimp>蛙人小组（海豹运输艇）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_west_blu_f_support_bus_recon_eod0">
           <Original>Recon Support Team (EOD)</Original>
           <Chinese>偵察支援小隊(排爆處理兵)</Chinese>
-          <Chinesesimp>侦察支援组(排爆处理兵)</Chinesesimp>
+          <Chinesesimp>侦察支援组（排爆处理兵）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_west_blu_f_support_bus_support_mort0">
           <Original>Mortar Team</Original>
@@ -2001,7 +2001,7 @@
         <Key ID="str_a3_cfgvehicles_mrap_03_hmg_base0">
           <Original>Strider HMG</Original>
           <Chinese>"挺進者"防地雷反伏擊車(重機槍)</Chinese>
-          <Chinesesimp>"挺进者"防地雷反伏击车(重机枪)</Chinesesimp>
+          <Chinesesimp>"挺进者"防地雷反伏击车（重机枪）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_apc_wheeled_02_rcws">
           <Original>MSE-3 Marid</Original>
@@ -2011,7 +2011,7 @@
         <Key ID="str_a3_cfgvehicles_b_heli_transport_01_camo_f0">
           <Original>UH-80 Ghost Hawk (Camo)</Original>
           <Chinese>UH-80"鬼鷹"運輸直升機(迷彩)</Chinese>
-          <Chinesesimp>UH-80"幽灵鹰"运输直升机(迷彩)</Chinesesimp>
+          <Chinesesimp>UH-80"幽灵鹰"运输直升机（迷彩）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_APC_Tracked_02_0">
           <Original>BTR-K Kamysh</Original>
@@ -2021,7 +2021,7 @@
         <Key ID="str_a3_cfgvehicles_truck_02_base0">
           <Original>Zamak Transport (Covered)</Original>
           <Chinese>"扎馬克"運輸卡車(棚布)</Chinese>
-          <Chinesesimp>"扎马克"运输卡车(棚布)</Chinesesimp>
+          <Chinesesimp>"扎马克"运输卡车（棚布）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_heli_transport_01_base_f0">
           <Original>UH-80 Ghost Hawk</Original>
@@ -2046,7 +2046,7 @@
         <Key ID="STR_A3_CFGVEHICLES_APC_Wheeled_01_base_F">
           <Original>AMV</Original>
           <Chinese>AMV裝甲戰鬥車</Chinese>
-          <Chinesesimp>AMV装甲战斗车</Chinesesimp>
+          <Chinesesimp>AMV 装甲战斗车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_apc_wheeled_01_cannon">
           <Original>AMV-7 Marshall</Original>
@@ -2056,7 +2056,7 @@
         <Key ID="str_a3_cfgvehicles_mrap_03_rcws_base0">
           <Original>Strider GMG</Original>
           <Chinese>"挺進者"防地雷反伏擊車(榴彈機槍)</Chinese>
-          <Chinesesimp>"挺进者"防地雷反伏击车(榴弹发射器)</Chinesesimp>
+          <Chinesesimp>"挺进者"防地雷反伏击车（榴弹发射器）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mrap_03_base0">
           <Original>Strider</Original>
@@ -2076,7 +2076,7 @@
         <Key ID="str_a3_cfgvehicles_b_truck_01_transport0">
           <Original>HEMTT Transport (Covered)</Original>
           <Chinese>重型機動戰術卡車(棚布)</Chinese>
-          <Chinesesimp>重型增程机动战术卡车(棚布)</Chinesesimp>
+          <Chinesesimp>重型增程机动战术卡车（棚布）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_truck_02_dump0">
           <Original>Zamak Transport</Original>
@@ -2086,7 +2086,7 @@
         <Key ID="str_a3_cfgvehicles_o_heli_attack_02_black0">
           <Original>Mi-48 Kajman (Black)</Original>
           <Chinese>米-48"鰐魚"攻擊直升機(黑)</Chinese>
-          <Chinesesimp>米-48"鳄鱼"攻击直升机(黑)</Chinesesimp>
+          <Chinesesimp>米-48"鳄鱼"攻击直升机（黑）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_heli_attack_02_base0">
           <Original>Mi-48 Kajman</Original>
@@ -2118,7 +2118,7 @@
         <Key ID="str_a3_heli_transport_02_lib">
           <Original>A successor to the wide-spread Merlin helicopter, the CH-49 Mohawk is a primary transport used by the AAF. It can carry up to 16 soldiers plus crew. Besides the transport version, many other versions of the Mohawk exist, serving as evac, anti-submarine warfare or armed air support. Upgrades over its predecessor consist of more powerful engines and construction changes fully utilizing modern materials. </Original>
           <Chinese>作為"紅隼"直升機的後繼者，CH-49"莫霍克"擁有更為強勁的引擎，並全面使用現代的材料來製作機體。它主要作為阿爾蒂斯武裝力量的運輸機來被使用，除機組員外，它最多可搭載16名士兵。除了運輸用途，"莫霍克"也被用於救援，反潛作戰或空中支援。</Chinese>
-          <Chinesesimp>作为"红隼"直升机的后继型号，CH-49"莫霍克"拥有更为强劲的发动机，并全面使用现代的材料来制作机体。它主要作为AAF的运输机来被使用，除机组员外，它最多可搭载16名士兵。除了运输用途，"莫霍克"也被用于救援，反潜作战或空中支援。</Chinesesimp>
+          <Chinesesimp>作为"红隼"直升机的后继型号，CH-49"莫霍克"拥有更为强劲的发动机，并全面使用现代的材料来制作机体。它主要作为 AAF 的运输机来被使用，除机组员外，它最多可搭载16名士兵。除了运输用途，"莫霍克"也被用于救援，反潜作战或空中支援。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_truck_02_lib">
           <Original>The Zamak heavy truck is a 6x6 vehicle used for transport, repair, and utility roles. In addition, it can also carry a multiple rocket launcher. Fitted with a powerful V8 engine, these trucks are reliable even in harsh conditions.</Original>
@@ -2128,22 +2128,22 @@
         <Key ID="str_a3_cfgvehicles_apc_tracked_01_base_library0">
           <Original>While both IFV-6c Panther and IFV-6a Cheetah are based on the Israeli armored personnel carrier chassis, they serve different roles in combat. The Panther is an APC that boasts strong armor to achieve maximal protection for the transported crew. The standard Panther is armed with an RCWS HMG, 40 mm GMG and smoke grenades and it can take up to 8 soldiers in its cargo area. The Cheetah is a dedicated AA vehicle. The cargo space is taken up by ammunition storage and vehicle is armed with two 35 mm autocannons, four long range surface-to-air missiles and smoke grenades. The CRV (Combat Recovery Vehicle) variant of the IFV-6 also exists and is used by BLUFOR, designation CRV-6e Bobcat.</Original>
           <Chinese>雖然IFV-6c"黑豹"和IFV-6a"獵豹"同樣都採用以色列裝甲運兵車的底盤，但它們在戰鬥中擔當的是不同的角色。"黑豹"是一種裝甲運兵車，具有厚重的裝甲，為乘員提供最大限度的防護。標準型的"黑豹"配有一個遙控重機槍炮塔，20公厘榴彈機槍和煙霧彈，其後座最多可運載8名士兵。"獵豹"則是專門的防空系統。其後座被用於存放彈藥，並配有兩座35公厘自動炮和煙霧彈，以及四枚遠程地空飛彈。此外藍方還使用的IFV-6衍生型為CRV(戰鬥搶救車)，名為CRV-6e"公貓"。</Chinese>
-          <Chinesesimp>虽然IFV-6c"黑豹"和IFV-6a"猎豹"同样都采用以色列装甲运兵车的底盘，但它们在战斗中担当的是不同的角色。"黑豹"是一种装甲运兵车，具有厚重的装甲，为乘员提供最大限度的防护。标准型的"黑豹"配有一个遥控重机枪炮塔，20mm 榴弹发射器和烟雾弹，其后座最多可运载8名士兵。"猎豹"则是专门的防空系统。其后座被用于存放弹药，并配有两座35mm 机炮和烟雾弹，以及四枚远程地空导弹。此外蓝方还使用的IFV-6衍生型为CRV(战斗抢救车)，名为CRV-6e"公猫"。</Chinesesimp>
+          <Chinesesimp>虽然 IFV-6c"黑豹"和 IFV-6a"猎豹"同样都采用以色列装甲运兵车的底盘，但它们在战斗中担当的是不同的角色。"黑豹"是一种装甲运兵车，具有厚重的装甲，为乘员提供最大限度的防护。标准型的"黑豹"配有一个遥控重机枪炮塔，20mm 榴弹发射器和烟雾弹，其后座最多可运载8名士兵。"猎豹"则是专门的防空系统。其后座被用于存放弹药，并配有两座35mm 机炮和烟雾弹，以及四枚远程地空导弹。此外蓝方还使用的 IFV-6衍生型为 CRV（战斗抢救车），名为 CRV-6e"公猫"。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_APC_Tracked_02_lib0">
           <Original>The infantry fighting vehicle BTR-K Kamysh and its anti-aircraft cousin ZSU-39 Tigris share the same vehicle platform. Developed by Russia with a pinch of undeniable inspiration from Israeli IFVs, they serve in the OPFOR army as a prime example of a leveling of the technology field with the West. The Kamysh is equipped with a CTWS turret fitted with a 30 mm cannon, coaxial machinegun and 2 guided AT missiles, making the vehicle significant in the infantry support role. The Tigris is fitted with a 35 mm autocannon and 4 Titan AA missiles.</Original>
           <Chinese>BTR-K"卡米什"步兵戰車和它的ZSU-39"底格里斯"防空車兄弟，同樣都使用同一款車體。由俄羅斯研發與製造，但不可否認，其靈感多少有點取材以色列的步兵戰車。它們主要在紅方服役，同時它也代表著紅方的技術水平逐漸追上西方。"卡米什"使用埋頭彈武器系統，並裝設30公厘機砲，同軸機槍和兩顆反坦克導引飛彈，使這臺載具被定位成步兵支援的角色。"底格里斯"則是裝上35公厘自動機砲和四顆"泰坦"防空飛彈。</Chinese>
-          <Chinesesimp>BTR-K"卡米什"步兵战车和其近亲ZSU-39"底格里斯"防空系统使用同一款底盘。这一车族由俄罗斯在一些以色列灵感的基础上研发制造，它们在红方中的服役代表红方在基本硬件上已经赶上西方。"卡米什"装备30mm 埋头弹武器系统，同轴机枪和两枚反坦克制导导弹，使这台载具被定位成步兵支援的角色。"底格里斯"则装35mm 机炮和四枚"泰坦"防空导弹。</Chinesesimp>
+          <Chinesesimp>BTR-K"卡米什"步兵战车和其近亲 ZSU-39"底格里斯"防空系统使用同一款底盘。这一车族由俄罗斯在一些以色列灵感的基础上研发制造，它们在红方中的服役代表红方在基本硬件上已经赶上西方。"卡米什"装备30mm 埋头弹武器系统，同轴机枪和两枚反坦克制导导弹，使这台载具被定位成步兵支援的角色。"底格里斯"则装35mm 机炮和四枚"泰坦"防空导弹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_apc_wheeled_01_library0">
           <Original>APC (Armored Personnel Carrier) vehicles are used to deploy soldiers and to exfiltrate them away from a battlezone. The AMV-7 Marshall has a mounted 40 mm CTWS cannon and a coaxial M200 light machine gun. The vehicle is designed to sustain damage from mines and to quickly get to a designated position even in rough terrain or over water. </Original>
           <Chinese>裝甲運兵車用於在前線部屬和撤離士兵。AMV-7"警長"使用埋頭彈武器系統，並裝設40公厘機砲和一架M200輕機槍。該載具能有效抵禦地雷的傷害，並能夠迅速通過崎嶇的地形前往指定地點。而AMV-7裝甲醫療車則是用來載運傷患與醫療器材的載具。</Chinese>
-          <Chinesesimp>装甲运兵车用于在前线部署和撤离士兵。AMV-7"警长"装备40mm 埋头弹武器系统和一挺M200轻机枪。该车能有效抵御地雷的伤害，并能够迅速通过崎岖的地形前往指定地点。而AMV-7装甲医疗车则用来载运伤患与医疗器材。</Chinesesimp>
+          <Chinesesimp>装甲运兵车用于在前线部署和撤离士兵。AMV-7"警长"装备40mm 埋头弹武器系统和一挺M200轻机枪。该车能有效抵御地雷的伤害，并能够迅速通过崎岖的地形前往指定地点。而 AMV-7装甲医疗车则用来载运伤患与医疗器材。</Chinesesimp>
         </Key>
         <Key ID="str_a3_CfgVehicles_apc_wheeled_02_library0">
           <Original>The MSE-3 Marid is an amphibious 6-wheeled APC used by the OPFOR army. It's an agile and maneuverable vehicle with a low silhouette and compact size. Its reliability and maintenance costs match the western APCs. It's fitted as standard with an RCWS turret with 40 mm GMG and 6.5 mm LMG and is able to carry up to 8 soldiers in the cargo space.</Original>
           <Chinese>MSE-3"馬里德"是一臺紅方的兩棲六輪裝甲運兵車。它是一輛低底盤和小尺寸的敏捷機動車。其可靠性和維護成本比得上西方的裝甲運兵車。它的標準配備是裝設有40公厘榴彈機槍和6.5公厘輕機槍的遙控砲塔。它能夠在後座搭載8名士兵。</Chinese>
-          <Chinesesimp>MSE-3"马里德"是一台红方的两栖六轮装甲运兵车。这是一种低底盘，小尺寸的敏捷型机动车辆。其可靠性和维护成本比得上西方的装甲运兵车。它的标准配备是装有40mm 榴弹发射器和6.5mm 轻机枪的遥控武器站。它能够在后座搭载8名士兵。</Chinesesimp>
+          <Chinesesimp>MSE-3"马里德"是一台红方的两栖六轮装甲运兵车。这是一种低底盘，小尺寸的敏捷型机动车辆。其可靠性和维护成本比得上西方的装甲运兵车。它的标准配备是装有40mm 榴弹发射器和6.5 mm 轻机枪的遥控武器站。它能够在后座搭载8名士兵。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_truck_01_base_library0">
           <Original>The Heavy Expanded Mobility Tactical Truck is an 8x8 diesel-powered off-road truck. It serves as a standard heavy transport vehicle for BLUFOR armies. There are several versions covering the basic transport functions: cargo, refuel, medical, repair, and ammo resupply. </Original>
@@ -2158,17 +2158,17 @@
         <Key ID="str_a3_cfgvehicles_heli_attack_02_base_library0">
           <Original>A multi-purpose successor to the Mi-24, the Mi-48 Kajman (BLUFOR designation "Hornet") is a large gunship and attack helicopter with troop transport capacity for 8 passengers. The front part of the helicopter is based on the Mi-28 attack helicopter, but the hull is modified for passenger transport. The Kajman has a coaxial rotor providing increased stability. It is armed with a 30mm three-barrel Minigun, unguided Skyfire rockets and guided Skalpel AT missiles.</Original>
           <Chinese>作為米-24的後繼者，米-48"鰐魚"(藍方稱它為"大黃蜂")是一種可供8人搭載的大型攻擊直升機，直升機的前部由米-28攻擊直升機改良而來，但後半段機身被改良成可供多人搭載的結構。"鰐魚"的同軸反轉雙旋翼還為其提供了更高的穩定性。他裝備有30公厘三管"米尼岡"機槍，無導引"天火"火箭彈以及導引版"手術刀"反坦克飛彈。</Chinese>
-          <Chinesesimp>作为米-24的后继者，米-48"鳄鱼"(蓝方代号"大黄蜂")是一种能搭载8人的大型攻击直升机，直升机的前部由米-28攻击直升机改良而来，但后半段机身被改良成可供多人搭载的结构。"鳄鱼"的同轴反转双旋翼还为其提供了更高的稳定性。它装备有30mm 三管转管机炮，无制导"天火"火箭弹以及制导版"手术刀"反坦克导弹。</Chinesesimp>
+          <Chinesesimp>作为米-24的后继者，米-48"鳄鱼"（蓝方代号"大黄蜂"）是一种能搭载8人的大型攻击直升机，直升机的前部由米-28攻击直升机改良而来，但后半段机身被改良成可供多人搭载的结构。"鳄鱼"的同轴反转双旋翼还为其提供了更高的稳定性。它装备有30mm 三管转管机炮，无制导"天火"火箭弹以及制导版"手术刀"反坦克导弹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_heli_transport_01_base_f_armory0">
           <Original>The UH-80 Ghost Hawk is a BLUFOR medium-lift utility helicopter with stealth design. The Ghost Hawk was developed for special operations with a focus on deployment and extraction of troops undetected by enemy radar. Some pilots say the stealth design hindered the versatility of the helicopter compared to its predecessor, the UH-60. Nevertheless, the Ghost Hawk is now used as a primary transport helicopter in the BLUFOR army. </Original>
           <Chinese>UH-80"鬼鷹"是藍方的中型運輸多用途直升機，並擁有隱形的設計。"鬼鷹"被應用於特種作戰，其主要任務包括部署和撤離部隊，並且不會被敵方的雷達檢測到。一些飛行員說，"鬼鷹"與它的前輩UH-60相比，它的隱形設計反而阻礙了它的多功能性。但是無論如何，"鬼鷹"現在已經成為藍方最主要的運輸直升機了。</Chinese>
-          <Chinesesimp>UH-80"幽灵鹰"是蓝方的中型运输多用途直升机，并拥有隐形的设计。"幽灵鹰"被应用于特种作战，其主要任务包括部署和撤离部队，并且不会被敌方的雷达检测到。一些飞行员说，"幽灵鹰"与它的前辈UH-60相比，它的隐形设计反而阻碍了它的多功能性。但是无论如何，"幽灵鹰"现在已经成为蓝方最主要的运输直升机了。</Chinesesimp>
+          <Chinesesimp>UH-80"幽灵鹰"是蓝方的中型运输多用途直升机，并拥有隐形的设计。"幽灵鹰"被应用于特种作战，其主要任务包括部署和撤离部队，并且不会被敌方的雷达检测到。一些飞行员说，"幽灵鹰"与它的前辈 UH-60相比，它的隐形设计反而阻碍了它的多功能性。但是无论如何，"幽灵鹰"现在已经成为蓝方最主要的运输直升机了。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mrap_03_base_library0">
           <Original>The Strider is a medium all-terrain vehicle with amphibious capability and enhanced crew protection, designed for reconnaissance and troop transport roles. It has been adopted by most of the AAF as a replacement for older medium troop transports in the past decade. The unarmed version is fitted with an observation periscope package with thermal imaging and a laser marker.&lt;br /&gt;The armed version of the basic troop transporter is equipped with a Remotely Controlled Weapons System turret fitted with the universal 12.7 mm heavy machinegun or the multi-role 40 mm Grenade Machine Gun. Armed versions share the observation periscope used for reconnaissance missions. </Original>
           <Chinese>"挺進者"是一種全地形中型載具，其擁有兩棲作戰能力和增強的人員保護，專為偵察和運輸部隊的任務而生。在過去十年裡，它已經被阿爾蒂斯武裝力量逐漸用來替換老舊的中型運輸車。它的無武裝版本配備了一個觀察潛望鏡，其上面裝有熱成像和雷射標記器。&lt;br/&gt;而武裝過的版本則是被中立方拿來運輸部隊用，其使用遙控砲塔，並在上面裝上通用12.7公厘重機槍或多用途40公厘榴彈機槍。武裝過的版本同樣也具有觀察潛望鏡好來進行偵察任務。</Chinese>
-          <Chinesesimp>"挺进者"是一种中型全地形车辆，拥有两栖能力和增强的人员保护能力，专为侦察和运输部队的任务而生。在过去十年里，它已经被AAF逐渐用来替换老旧的中型运输车。它的无武装版本配备了一个观察潜望镜，其上面装有热成像和激光指示器。&lt;br/&gt;而武装过的版本则是被中立方用于运输部队，其安装含12.7mm 重机枪和40mm 榴弹发射器的遥控武器站。武装过的版本同样也具有观察潜望镜，也可以用来进行侦察任务。</Chinesesimp>
+          <Chinesesimp>"挺进者"是一种中型全地形车辆，拥有两栖能力和增强的人员保护能力，专为侦察和运输部队的任务而生。在过去十年里，它已经被 AAF 逐渐用来替换老旧的中型运输车。它的无武装版本配备了一个观察潜望镜，其上面装有热成像和激光指示器。&lt;br/&gt;而武装过的版本则是被中立方用于运输部队，其安装含12.7 mm 重机枪和40mm 榴弹发射器的遥控武器站。武装过的版本同样也具有观察潜望镜，也可以用来进行侦察任务。</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -2207,7 +2207,7 @@
         <Key ID="str_a3_cfgvehicles_protectionzone_invisible_f0">
           <Original>Protection Zone (Invisible)</Original>
           <Chinese>保護區(隱形)</Chinese>
-          <Chinesesimp>保护区(隐形)</Chinesesimp>
+          <Chinesesimp>保护区（隐形）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_protectionzone_f0">
           <Original>Protection Zone</Original>
@@ -2234,19 +2234,19 @@
         <Key ID="str_a3_cfgvehicles_land_wreck_hunter_f0">
           <Original>Hunter Wreck</Original>
           <Chinese>"獵人"防地雷反伏擊車(殘骸)</Chinese>
-          <Chinesesimp>"猎人"防地雷反伏击车(残骸)</Chinesesimp>
+          <Chinesesimp>"猎人"防地雷反伏击车（残骸）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wreck_truckfuel_f0">
           <Original>Fuel Truck Wreck</Original>
           <Chinese>燃油補給卡車(殘骸)</Chinese>
-          <Chinesesimp>燃油补给卡车(残骸)</Chinesesimp>
+          <Chinesesimp>燃油补给卡车（残骸）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Training">
         <Key ID="str_a3_cfgvehicles_target_rail_end_f0">
           <Original>Rails (End)</Original>
           <Chinese>靶用軌道(結束)</Chinese>
-          <Chinesesimp>靶用轨道(结束)</Chinesesimp>
+          <Chinesesimp>靶用轨道（结束）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_target_rail_f0">
           <Original>Rails</Original>
@@ -2256,22 +2256,22 @@
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_straight_f0">
           <Original>Moving Target 1 (Front)</Original>
           <Chinese>目標移動靶1(前後)</Chinese>
-          <Chinesesimp>目标移动靶1(前后)</Chinesesimp>
+          <Chinesesimp>目标移动靶1（前后）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_acc2_straight_f0">
           <Original>Moving Target 1 (Front - Accuracy)</Original>
           <Chinese>目標移動靶1(前後-精準度)</Chinese>
-          <Chinesesimp>目标移动靶1(前后-精准度)</Chinesesimp>
+          <Chinesesimp>目标移动靶1（前后-精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_side_f0">
           <Original>Moving Target 1 (Side)</Original>
           <Chinese>目標移動靶1(左右)</Chinese>
-          <Chinesesimp>目标移动靶1(左右)</Chinesesimp>
+          <Chinesesimp>目标移动靶1（左右）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_acc1_f0">
           <Original>Pop-Up Target 1 (Zones)</Original>
           <Chinese>目標練習靶1(區塊)</Chinese>
-          <Chinesesimp>目标练习靶1(区块)</Chinesesimp>
+          <Chinesesimp>目标练习靶1（区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_f0">
           <Original>Pop-Up Target 1</Original>
@@ -2281,22 +2281,22 @@
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_acc2_side_f0">
           <Original>Moving Target 1 (Side - Accuracy)</Original>
           <Chinese>目標移動靶1(左右-精準度)</Chinese>
-          <Chinesesimp>目标移动靶1(左右-精准度)</Chinesesimp>
+          <Chinesesimp>目标移动靶1（左右-精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_acc1_side_f0">
           <Original>Moving Target 1 (Side - Zones)</Original>
           <Chinese>目標移動靶1(左右-區塊)</Chinese>
-          <Chinesesimp>目标移动靶1(左右-区块)</Chinesesimp>
+          <Chinesesimp>目标移动靶1（左右-区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_acc1_straight_f0">
           <Original>Moving Target 1 (Front - Zones)</Original>
           <Chinese>目標移動靶1(前後-區塊)</Chinese>
-          <Chinesesimp>目标移动靶1(前后-区块)</Chinesesimp>
+          <Chinesesimp>目标移动靶1（前后-区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_acc2_f0">
           <Original>Pop-Up Target 1 (Accuracy)</Original>
           <Chinese>目標練習靶1(精準度)</Chinese>
-          <Chinesesimp>目标练习靶1(精准度)</Chinesesimp>
+          <Chinesesimp>目标练习靶1（精准度）</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -2364,7 +2364,7 @@
       <Key ID="str_a3_cfgvehicles_module_f_moduledescription_anyplayer_0">
         <Original>Any player. Not AI units or empty objects</Original>
         <Chinese>任何玩家。不能為AI單位或空物件。</Chinese>
-        <Chinesesimp>任何玩家。不能为AI单位或空物件。</Chinesesimp>
+        <Chinesesimp>任何玩家。不能为 AI 单位或空物件。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_module_f_moduledescription_anyperson_1">
         <Original>Any person</Original>
@@ -2379,22 +2379,22 @@
       <Key ID="str_a3_cfgvehicles_module_f_moduledescription_anybrain_1">
         <Original>Any AI or player</Original>
         <Chinese>任何AI或玩家</Chinese>
-        <Chinesesimp>任何AI或玩家</Chinesesimp>
+        <Chinesesimp>任何 AI 或玩家</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_module_f_moduledescription_anybrain_0">
         <Original>Any AI or player. Not empty objects</Original>
         <Chinese>任何AI或玩家。不能為空物件。</Chinese>
-        <Chinesesimp>任何AI或玩家。不能为空物件。</Chinesesimp>
+        <Chinesesimp>任何 AI 或玩家。不能为空物件。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_module_f_moduledescription_anyai_1">
         <Original>Any AI</Original>
         <Chinese>任何AI</Chinese>
-        <Chinesesimp>任何AI</Chinesesimp>
+        <Chinesesimp>任何 AI</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_module_f_moduledescription_anyai_0">
         <Original>Any AI unit. Not players or empty objects</Original>
         <Chinese>任何AI單位。不能為玩家或空物件。</Chinese>
-        <Chinesesimp>任何AI单位。不能为玩家或空物件。</Chinesesimp>
+        <Chinesesimp>任何 AI 单位。不能为玩家或空物件。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_module_f_argumentsbaseunits_units_values_trigger_0">
         <Original>Objects in synchronized triggers</Original>
@@ -2485,7 +2485,7 @@
         <Key ID="str_a3_cfgvehicles_moduleskill_f_moduledescription_0">
           <Original>Set AI skill of synced objects. Has no effect on players.</Original>
           <Chinese>設置被同步AI的戰鬥技能。此模塊不會影響玩家。</Chinese>
-          <Chinesesimp>设置被同步AI的战斗技能。此模块不会影响玩家。</Chinesesimp>
+          <Chinesesimp>设置被同步 AI 的战斗技能。此模块不会影响玩家。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleskill_f_0">
           <Original>Set Skill</Original>
@@ -2495,12 +2495,12 @@
         <Key ID="str_a3_cfgvehicles_modulesimulationmanager_f_moduledescription_0">
           <Original>Keep all AI units disabled until someone from the player's group gets near.</Original>
           <Chinese>讓範圍內的所有AI單位都停止運算(節省系統效能)，直到有玩家靠近才會重新啟動。</Chinese>
-          <Chinesesimp>让范围内的所有AI单位都停止模拟(节省系统效能)，直到有玩家靠近才会重新启动。</Chinesesimp>
+          <Chinesesimp>让范围内的所有 AI 单位都停止模拟（节省系统效能），直到有玩家靠近才会重新启动。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleshowhide_f_moduledescription_0">
           <Original>Show/hide synced objects. They will become invisible and their simulation will be disabled.</Original>
           <Chinese>顯示/隱藏被同步的物件。他們將變成隱形狀態，並且停止運算(節省系統效能)。</Chinese>
-          <Chinesesimp>显示/隐藏被同步的物件。他们将变成隐形状态，并且停止模拟(节省系统效能)。</Chinesesimp>
+          <Chinesesimp>显示/隐藏被同步的物件。他们将变成隐形状态，并且停止模拟（节省系统效能）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleshowhide_f_arguments_state_values_show_0">
           <Original>Show units</Original>
@@ -2570,7 +2570,7 @@
         <Key ID="str_a3_cfgvehicles_modulepositioning_f_arguments_rotation_1">
           <Original>Rotate in module's direction (yaw).</Original>
           <Chinese>按照模塊的方向旋轉(偏轉)。</Chinese>
-          <Chinesesimp>按照模块的方向旋转(偏转)。</Chinesesimp>
+          <Chinesesimp>按照模块的方向旋转（偏转）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulepositioning_f_arguments_rotation_0">
           <Original>Rotation</Original>
@@ -2580,7 +2580,7 @@
         <Key ID="str_a3_cfgvehicles_modulepositioning_f_arguments_radius_0">
           <Original>Object placement radius around module.</Original>
           <Chinese>物件將放置在模塊設定的半徑內隨機位置(設0的話即是將物件放在模塊上)。</Chinese>
-          <Chinesesimp>物件将放置在模块设定的半径内随机位置(设0的话即是将物件放在模块上)。</Chinesesimp>
+          <Chinesesimp>物件将放置在模块设定的半径内随机位置（设0的话即是将物件放在模块上）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulepositioning_f_arguments_position_1">
           <Original>Move to module's position</Original>
@@ -2660,7 +2660,7 @@
         <Key ID="str_a3_cfgvehicles_modulehealth_f_arguments_value_1">
           <Original>Set damage between 0 and 1.</Original>
           <Chinese>設置損傷程度在0和1之間(0為沒有損傷，1為完全損壞)。</Chinese>
-          <Chinesesimp>设置损伤程度在0和1之间(0为没有损伤，1为完全损坏)。</Chinesesimp>
+          <Chinesesimp>设置损伤程度在0和1之间（0为没有损伤，1为完全损坏）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulehealth_f_arguments_value_0">
           <Original>Damage</Original>
@@ -2770,7 +2770,7 @@
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_value_1">
           <Original>Set damage between 0 and 1.</Original>
           <Chinese>設置損壞程度在0和1之間(0為沒有損壞，1為完全損壞)。</Chinese>
-          <Chinesesimp>设置损坏程度在0和1之间(0为没有损坏，1为完全损坏)。</Chinesesimp>
+          <Chinesesimp>设置损坏程度在0和1之间（0为没有损坏，1为完全损坏）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_value_0">
           <Original>Damage</Original>
@@ -2785,77 +2785,77 @@
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_values_turret_0">
           <Original>Turret (all)</Original>
           <Chinese>砲塔(全部)</Chinese>
-          <Chinesesimp>炮塔(全部)</Chinesesimp>
+          <Chinesesimp>炮塔（全部）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_values_tailrotor_0">
           <Original>Tail rotor (helicopters)</Original>
           <Chinese>尾旋翼(直升機)</Chinese>
-          <Chinesesimp>尾旋翼(直升机)</Chinesesimp>
+          <Chinesesimp>尾旋翼（直升机）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_values_rtrack_0">
           <Original>Right track (tanks)</Original>
           <Chinese>右側履帶(坦克)</Chinese>
-          <Chinesesimp>右侧履带(坦克)</Chinesesimp>
+          <Chinesesimp>右侧履带（坦克）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_values_mainrotor_0">
           <Original>Main rotor (helicopter)</Original>
           <Chinese>主旋翼(直升機)</Chinese>
-          <Chinesesimp>主旋翼(直升机)</Chinesesimp>
+          <Chinesesimp>主旋翼（直升机）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_values_ltrack_0">
           <Original>Left track (tanks)</Original>
           <Chinese>左側履帶(坦克)</Chinese>
-          <Chinesesimp>左侧履带(坦克)</Chinesesimp>
+          <Chinesesimp>左侧履带（坦克）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_values_hull_0">
           <Original>Hull (tanks/helicopters)</Original>
           <Chinese>車體(坦克/直升機)</Chinese>
-          <Chinesesimp>车体(坦克/直升机)</Chinesesimp>
+          <Chinesesimp>车体（坦克/直升机）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_values_gun_0">
           <Original>Gun (all)</Original>
           <Chinese>槍(全部)</Chinese>
-          <Chinesesimp>枪(全部)</Chinesesimp>
+          <Chinesesimp>枪（全部）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_values_fueltank_0">
           <Original>Fuel tank (all)</Original>
           <Chinese>油箱(全部)</Chinese>
-          <Chinesesimp>油箱(全部)</Chinesesimp>
+          <Chinesesimp>油箱（全部）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_values_frontrwh_0">
           <Original>Front right wheel (cars)</Original>
           <Chinese>右前輪(車輛)</Chinese>
-          <Chinesesimp>右前轮(车辆)</Chinesesimp>
+          <Chinesesimp>右前轮（车辆）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_values_frontlwh_0">
           <Original>Front left wheel (cars)</Original>
           <Chinese>左前輪(車輛)</Chinese>
-          <Chinesesimp>左前轮(车辆)</Chinesesimp>
+          <Chinesesimp>左前轮（车辆）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_values_engine_0">
           <Original>Engine (all)</Original>
           <Chinese>引擎(全部)</Chinese>
-          <Chinesesimp>引擎(全部)</Chinesesimp>
+          <Chinesesimp>引擎（全部）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_values_body_0">
           <Original>Body (cars)</Original>
           <Chinese>車體(車輛)</Chinese>
-          <Chinesesimp>车体(车辆)</Chinesesimp>
+          <Chinesesimp>车体（车辆）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_values_backrwh_0">
           <Original>Back right wheel (cars)</Original>
           <Chinese>右後輪(車輛)</Chinese>
-          <Chinesesimp>右后轮(车辆)</Chinesesimp>
+          <Chinesesimp>右后轮（车辆）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_values_backlwh_0">
           <Original>Back left wheel (cars)</Original>
           <Chinese>左後輪(車輛)</Chinese>
-          <Chinesesimp>左后轮(车辆)</Chinesesimp>
+          <Chinesesimp>左后轮（车辆）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_values_avionics_0">
           <Original>Avionics (helicopter)</Original>
           <Chinese>航空電子設備(直升機)</Chinese>
-          <Chinesesimp>航空电子设备(直升机)</Chinesesimp>
+          <Chinesesimp>航空电子设备（直升机）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_1">
           <Original>Which vehicle part should be affected?</Original>
@@ -2875,7 +2875,7 @@
         <Key ID="str_a3_cfgvehicles_moduleammo_f_moduledescription_0">
           <Original>Set total ammo of synced objects. Affects only ammo of their weapons, not ammo carried in cargo space (e.g., ammo boxes).</Original>
           <Chinese>設置被同步對象的彈藥存量。只能影響他們的武器彈藥，不能影響載貨空間內的彈藥存量(例如彈藥箱)。</Chinese>
-          <Chinesesimp>设置被同步对象的弹药存量。只能影响他们的武器弹药，不能影响载货空间内的弹药存量(例如弹药箱)。</Chinesesimp>
+          <Chinesesimp>设置被同步对象的弹药存量。只能影响他们的武器弹药，不能影响载货空间内的弹药存量（例如弹药箱）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleammo_f_arguments_value_0">
           <Original>Ammunition</Original>
@@ -2890,7 +2890,7 @@
         <Key ID="str_a3_cfgvehicles_moduleai_f_moduledescription_0">
           <Original>Enable/disable AI modes.</Original>
           <Chinese>啟用/關閉AI模式。</Chinese>
-          <Chinesesimp>启用/关闭AI模式。</Chinesesimp>
+          <Chinesesimp>启用/关闭 AI 模式。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleai_f_arguments_target_1">
           <Original>Unit watches assigned target.</Original>
@@ -2905,7 +2905,7 @@
         <Key ID="str_a3_cfgvehicles_moduleai_f_arguments_move_1">
           <Original>AI movement.</Original>
           <Chinese>AI移動。</Chinese>
-          <Chinesesimp>AI移动。</Chinesesimp>
+          <Chinesesimp>AI 移动。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleai_f_arguments_move_0">
           <Original>Move</Original>
@@ -2915,7 +2915,7 @@
         <Key ID="str_a3_cfgvehicles_moduleai_f_arguments_fsm_1">
           <Original>Execution of AI behavior scripts.</Original>
           <Chinese>執行AI行為腳本。</Chinese>
-          <Chinesesimp>执行AI行为脚本。</Chinesesimp>
+          <Chinesesimp>执行 AI 行为脚本。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleai_f_arguments_fsm_0">
           <Original>FSM</Original>
@@ -2935,7 +2935,7 @@
         <Key ID="str_a3_cfgvehicles_moduleai_f_arguments_anim_1">
           <Original>Ability of AI to change animation.</Original>
           <Chinese>AI有改變動作的能力。</Chinese>
-          <Chinesesimp>AI有改变动作的能力。</Chinesesimp>
+          <Chinesesimp>AI 有改变动作的能力。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleai_f_arguments_anim_0">
           <Original>Anim</Original>
@@ -2945,7 +2945,7 @@
         <Key ID="str_a3_cfgvehicles_moduleai_f_0">
           <Original>Set AI Mode</Original>
           <Chinese>設置AI模式</Chinese>
-          <Chinesesimp>设置AI模式</Chinesesimp>
+          <Chinesesimp>设置 AI 模式</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_module_f_moduledescription_duplicatedisabled">
           <Original>Only one entity of this type can be synced.</Original>
@@ -2972,7 +2972,7 @@
         <Key ID="str_a3_cfgvehicles_modulestrategicmaporbat_f_moduledescription_0">
           <Original>Show interactive military symbol from CfgORBAT.</Original>
           <Chinese>從CfgORBAT顯示互動式軍事符號。</Chinese>
-          <Chinesesimp>从CfgORBAT显示互动式军事符号。</Chinesesimp>
+          <Chinesesimp>从 CfgORBAT 显示互动式军事符号。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulestrategicmaporbat_f_arguments_tiers_0">
           <Original>Max. Tiers</Original>
@@ -2987,12 +2987,12 @@
         <Key ID="str_a3_cfgvehicles_modulestrategicmaporbat_f_arguments_path_0">
           <Original>CfgORBAT Path</Original>
           <Chinese>CfgORBAT路徑</Chinese>
-          <Chinesesimp>CfgORBAT路径</Chinesesimp>
+          <Chinesesimp>CfgORBAT 路径</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulestrategicmaporbat_f_arguments_parent_0">
           <Original>CfgORBAT Ceiling</Original>
           <Chinese>CfgORBAT上限</Chinese>
-          <Chinesesimp>CfgORBAT上限</Chinesesimp>
+          <Chinesesimp>CfgORBAT 上限</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulestrategicmaporbat_f_0">
           <Original>ORBAT Group</Original>
@@ -3007,7 +3007,7 @@
         <Key ID="str_a3_cfgvehicles_modulestrategicmapmoduleopen_f_arguments_overcast_1">
           <Original>Overcast value in range 0-1</Original>
           <Chinese>多雲程度，值的範圍為0到1之間(0為無雲，1為多雲)。</Chinese>
-          <Chinesesimp>多云程度，值的范围为0到1之间(0为无云，1为多云)。</Chinesesimp>
+          <Chinesesimp>多云程度，值的范围为0到1之间（0为无云，1为多云）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulestrategicmapmoduleopen_f_arguments_overcast_0">
           <Original>Overcast</Original>
@@ -3159,17 +3159,17 @@
         <Key ID="str_a3_cfgvehicles_moduletracers_f_arguments_side_values_west_0">
           <Original>Red (used by BLUFOR)</Original>
           <Chinese>紅色(藍方使用)</Chinese>
-          <Chinesesimp>红色(蓝方使用)</Chinesesimp>
+          <Chinesesimp>红色（蓝方使用）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduletracers_f_arguments_side_values_guer_0">
           <Original>Yellow (used by Independent)</Original>
           <Chinese>黃色(中立方使用)</Chinese>
-          <Chinesesimp>黄色(中立方使用)</Chinesesimp>
+          <Chinesesimp>黄色（中立方使用）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduletracers_f_arguments_side_values_east_0">
           <Original>Green (used by OPFOR)</Original>
           <Chinese>綠色(紅方使用)</Chinese>
-          <Chinesesimp>绿色(红方使用)</Chinesesimp>
+          <Chinesesimp>绿色（红方使用）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduletracers_f_arguments_side_0">
           <Original>Tracer color</Original>
@@ -3219,12 +3219,12 @@
         <Key ID="str_a3_cfgvehicles_modulemortar_f_0">
           <Original>Shell (Mortar)</Original>
           <Chinese>砲擊(迫擊砲)</Chinese>
-          <Chinesesimp>炮击(迫击炮)</Chinesesimp>
+          <Chinesesimp>炮击（迫击炮）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulemlrs_f_0">
           <Original>Shell (MLRS)</Original>
           <Chinese>砲擊(多管火箭炮)</Chinese>
-          <Chinesesimp>炮击(多管火箭炮)</Chinesesimp>
+          <Chinesesimp>炮击（多管火箭炮）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulechemlight_f_moduledescription_0">
           <Original>Create a chem light.</Original>
@@ -3244,7 +3244,7 @@
         <Key ID="str_a3_cfgvehicles_moduleartillery_f_0">
           <Original>Shell (Artillery)</Original>
           <Chinese>砲擊(火砲)</Chinese>
-          <Chinesesimp>炮击(火炮)</Chinesesimp>
+          <Chinesesimp>炮击（火炮）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bis_effect_sepia_moduledescription_0">
           <Original>Add a sepia screen effect.</Original>
@@ -3652,12 +3652,12 @@
         <Key ID="str_a3_cfgvehicles_moduletaskcreate_f_arguments_id_1">
           <Original>Unique task ID used to refer to this task. When empty, module variable name will be used. If even that one is undefined, generic name will be used by default.</Original>
           <Chinese>請設置此任務的唯一編號(或名字)，用來區別各任務，也用做之後呼叫該任務用。當此項為空時，系統會自動使用模塊的變量名稱來充當。如果模塊的變量名稱也為空時，系統將自動產生一個通用的任務編號。</Chinese>
-          <Chinesesimp>请设置此任务的唯一编号(或名字)，用来区别各任务，也用做之后呼叫该任务用。当此项为空时，系统会自动使用模块的变量名称来充当。如果模块的变量名称也为空时，系统将自动产生一个通用的任务编号。</Chinesesimp>
+          <Chinesesimp>请设置此任务的唯一编号（或名字），用来区别各任务，也用做之后呼叫该任务用。当此项为空时，系统会自动使用模块的变量名称来充当。如果模块的变量名称也为空时，系统将自动产生一个通用的任务编号。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduletaskcreate_f_arguments_id_0">
           <Original>Task ID</Original>
           <Chinese>任務ID</Chinese>
-          <Chinesesimp>任务ID</Chinesesimp>
+          <Chinesesimp>任务 ID</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduletaskcreate_f_0">
           <Original>Create Task</Original>
@@ -3707,7 +3707,7 @@
         <Key ID="str_a3_cfgvehicles_modulehq_f_0">
           <Original>Headquarters Entity</Original>
           <Chinese>總部實體(虛擬)</Chinese>
-          <Chinesesimp>总部实体(虚拟)</Chinesesimp>
+          <Chinesesimp>总部实体（虚拟）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecreatediaryrecord_f_moduledescription_0">
           <Original>Create a diary record for synced objects or for larger a pool of units.</Original>
@@ -3767,12 +3767,12 @@
         <Key ID="str_a3_cfgvehicles_moduletaskcreate_f_arguments_idparent_0">
           <Original>Parent Task ID</Original>
           <Chinese>父任務ID</Chinese>
-          <Chinesesimp>父任务ID</Chinesesimp>
+          <Chinesesimp>父任务 ID</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduletaskcreate_f_arguments_idparent_1">
           <Original>ID of the parent task. When empty, the task will have no parent and will be shown in root.</Original>
           <Chinese>在此項填入父任務之ID，即可讓此任務歸屬於該任務底下，在任務簡報中也可以看見其分類。當此項為空時，該任務即屬於最上層分類。</Chinese>
-          <Chinesesimp>在此项填入父任务ID，即可让此任务归属于该任务底下，在任务简报中也可以看见其分类。当此项为空时，该任务即属于最上层分类。</Chinesesimp>
+          <Chinesesimp>在此项填入父任务 ID，即可让此任务归属于该任务底下，在任务简报中也可以看见其分类。当此项为空时，该任务即属于最上层分类。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduletaskcreate_f_arguments_shownotification_0">
           <Original>Show Notification</Original>
@@ -4005,7 +4005,7 @@ Rules of Engagement are up to you:&lt;br /&gt;
         <Key ID="str_a3_cfgvehicles_modulesector_f_moduledescription_triggerarea_0">
           <Original>Set the sector area. When the sector is finalized (i.e., deleted or its simulation is disabled), the trigger will be activated, potentially triggering other modules synced to it.</Original>
           <Chinese>設置一個防禦區。當這個防禦區"完成"時(刪除或禁用防禦區模塊)，觸發器將被啟用，可以讓這個觸發器同步到別的模塊。</Chinese>
-          <Chinesesimp>设置一个防御区。当这个防御区"完成"时(删除或禁用防御区模块)，触发器将被启用，可以让这个触发器同步到别的模块。</Chinesesimp>
+          <Chinesesimp>设置一个防御区。当这个防御区"完成"时（删除或禁用防御区模块），触发器将被启用，可以让这个触发器同步到别的模块。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulesector_f_moduledescription_sideresistance_f_0">
           <Original>Mark the side as competing for the sector. At least one side has to be present.</Original>
@@ -4065,7 +4065,7 @@ Rules of Engagement are up to you:&lt;br /&gt;
         <Key ID="str_a3_cfgvehicles_modulesector_f_arguments_taskdescription_1">
           <Original>Description of the automatically added task. Use %1 to insert the sector name, %2 to insert sector rewards (e.g., unlocked vehicles or respawn points), %3 to insert description of capturing costs.</Original>
           <Chinese>自動為任務附加描述。輸入%1來插入防禦區的名稱，輸入%2來插入獲得防禦區後的獎勵(例如，開啟車輛或是重生點)，輸入%3來插入佔領該防禦區所需要的花費。</Chinese>
-          <Chinesesimp>自动为任务附加描述。输入%1来插入防御区的名称，输入%2来插入获得防御区后的奖励(例如，开启车辆或是重生点)，输入%3来插入占领该防御区所需要的花费。</Chinesesimp>
+          <Chinesesimp>自动为任务附加描述。输入%1来插入防御区的名称，输入%2来插入获得防御区后的奖励（例如，开启车辆或是重生点），输入%3来插入占领该防御区所需要的花费。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulesector_f_arguments_taskdescription_0">
           <Original>Task description</Original>
@@ -4105,7 +4105,7 @@ Rules of Engagement are up to you:&lt;br /&gt;
         <Key ID="str_a3_cfgvehicles_modulesector_f_arguments_designation_1">
           <Original>Single letter visible in the sector icon (when empty, first letter of the name will be used)</Original>
           <Chinese>請輸入單一個字母，將會出現在防禦區圖示中(當為空的時候，名稱的第一個字母將會被使用)</Chinese>
-          <Chinesesimp>请输入单个字母，将会出现在防御区图示中(当为空的时候，名称的首字母将会被使用)</Chinesesimp>
+          <Chinesesimp>请输入单个字母，将会出现在防御区图示中（当为空的时候，名称的首字母将会被使用）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulesector_f_arguments_designation_0">
           <Original>Designation</Original>
@@ -4260,7 +4260,7 @@ Rules of Engagement are up to you:&lt;br /&gt;
         <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_position_values_markerkiller_0">
           <Original>Side respawn marker of whoever destroyed the vehicle</Original>
           <Chinese>某方重生標記(為摧毀該載具的陣營)</Chinese>
-          <Chinesesimp>某方重生标记(为摧毁该载具的阵营)</Chinesesimp>
+          <Chinesesimp>某方重生标记（为摧毁该载具的阵营）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_position_values_markerguer_0">
           <Original>Independent respawn marker</Original>
@@ -4325,7 +4325,7 @@ Rules of Engagement are up to you:&lt;br /&gt;
         <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_init_1">
           <Original>Code executed when the vehicle respawns (passed arguments are [&lt;newVehicle&gt;,&lt;oldVehicle&gt;])</Original>
           <Chinese>載具重生時會執行的腳本，(一些可使用的傳遞參數[&lt;newVehicle&gt;，&lt;oldVehicle&gt;])</Chinese>
-          <Chinesesimp>载具重生时会执行的脚本，(一些可使用的传递参数[&lt;newVehicle&gt;，&lt;oldVehicle&gt;])</Chinesesimp>
+          <Chinesesimp>载具重生时会执行的脚本，（一些可使用的传递参数[&lt;newVehicle&gt;，&lt;oldVehicle&gt;]）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_init_0">
           <Original>Expression</Original>
@@ -4335,7 +4335,7 @@ Rules of Engagement are up to you:&lt;br /&gt;
         <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_forcedrespawn_1">
           <Original>Respawn all synchronized vehicles when the module is activated (delay and tickets are ignored)</Original>
           <Chinese>當模塊被觸發時，重生所有被同步的載具(忽略延遲時間與重生次數)</Chinese>
-          <Chinesesimp>当模块被触发时，重生所有被同步的载具(忽略延迟时间与重生次数)</Chinesesimp>
+          <Chinesesimp>当模块被触发时，重生所有被同步的载具（忽略延迟时间与重生次数）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_forcedrespawn_0">
           <Original>Forced respawn</Original>
@@ -4345,17 +4345,17 @@ Rules of Engagement are up to you:&lt;br /&gt;
         <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_deserteddelay_1">
           <Original>Delay in seconds since somebody leaves the vehicle until it's deemed deserted and respawned (disabled when empty)</Original>
           <Chinese>當單位離開載具時，離開的時間超過設定的時間，該載具將被視為遺棄載具，然後會被重生到設定的位置(如果為空，此功能將不會被開啟)</Chinese>
-          <Chinesesimp>当单位离开载具时，离开的时间超过设定的时间，该载具将被视为遗弃载具，然后会被重生到设定的位置(如果为空，此功能将不会被开启)</Chinesesimp>
+          <Chinesesimp>当单位离开载具时，离开的时间超过设定的时间，该载具将被视为遗弃载具，然后会被重生到设定的位置（如果为空，此功能将不会被开启）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_deserteddelay_0">
           <Original>Deserted Delay</Original>
           <Chinese>延遲(載具被遺棄)</Chinese>
-          <Chinesesimp>延迟(载具被遗弃)</Chinesesimp>
+          <Chinesesimp>延迟（载具被遗弃）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_delay_1">
           <Original>Delay in seconds before the vehicle is respawned (Description.ext delay used when left empty)</Original>
           <Chinese>在載具重生前將延遲幾秒(如果為空時，將使用外部文件Description。ext的設定值)</Chinese>
-          <Chinesesimp>在载具重生前将延迟几秒(如果为空时，将使用外部文件Description。ext的设定值)</Chinesesimp>
+          <Chinesesimp>在载具重生前将延迟几秒（如果为空时，将使用外部文件 Description。ext 的设定值）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_delay_0">
           <Original>Delay</Original>
@@ -4375,17 +4375,17 @@ Rules of Engagement are up to you:&lt;br /&gt;
         <Key ID="str_a3_cfgvehicles_modulerespawnposition_f_arguments_type_values_vehicles_0">
           <Original>Vehicles (All)</Original>
           <Chinese>載具(所有)</Chinese>
-          <Chinesesimp>载具(所有)</Chinesesimp>
+          <Chinesesimp>载具（所有）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnposition_f_arguments_type_values_plane_0">
           <Original>Vehicles (Planes)</Original>
           <Chinese>載具(飛機)</Chinese>
-          <Chinesesimp>载具(飞机)</Chinesesimp>
+          <Chinesesimp>载具（飞机）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnposition_f_arguments_type_values_motor_0">
           <Original>Vehicles (Wheeled)</Original>
           <Chinese>載具(輪式)</Chinese>
-          <Chinesesimp>载具(轮式)</Chinesesimp>
+          <Chinesesimp>载具（轮式）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnposition_f_arguments_type_values_inf_0">
           <Original>Infantry</Original>
@@ -4395,12 +4395,12 @@ Rules of Engagement are up to you:&lt;br /&gt;
         <Key ID="str_a3_cfgvehicles_modulerespawnposition_f_arguments_type_values_armor_0">
           <Original>Vehicles (Tracked)</Original>
           <Chinese>載具(履帶式)</Chinese>
-          <Chinesesimp>载具(履带式)</Chinesesimp>
+          <Chinesesimp>载具（履带式）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnposition_f_arguments_type_values_air_0">
           <Original>Vehicles (Helicopters)</Original>
           <Chinese>載具(直升機)</Chinese>
-          <Chinesesimp>载具(直升机)</Chinesesimp>
+          <Chinesesimp>载具（直升机）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnposition_f_arguments_type_1">
           <Original>What will be respawned at the position</Original>
@@ -4485,7 +4485,7 @@ Rules of Engagement are up to you:&lt;br /&gt;
         <Key ID="str_a3_cfgvehicles_modulesector_f_moduledescription_description_1">
           <Original>Side with the strongest force within the area (calculated by number and type of the units) will be capturing it.</Original>
           <Chinese>在該防禦區內最強勢的陣營(由單位的數量與類型來進行計算)將佔領該防禦區。</Chinese>
-          <Chinesesimp>在该防御区内最强势的阵营(由单位的数量与类型来进行计算)将占领该防御区。</Chinesesimp>
+          <Chinesesimp>在该防御区内最强势的阵营（由单位的数量与类型来进行计算）将占领该防御区。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulesector_f_moduledescription_description_2">
           <Original>Delete or disable the sector module to 'finalize' the sector. Once done, capturing will be disabled and the last owner will retain control forever.</Original>
@@ -4495,7 +4495,7 @@ Rules of Engagement are up to you:&lt;br /&gt;
         <Key ID="str_a3_cfgvehicles_modulerespawnposition_f_arguments_type_values_naval_0">
           <Original>Vehicles (Naval)</Original>
           <Chinese>載具(海軍)</Chinese>
-          <Chinesesimp>载具(海军)</Chinesesimp>
+          <Chinesesimp>载具（海军）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_respawnwhendisabled_0">
           <Original>Respawn when disabled</Original>
@@ -4570,47 +4570,47 @@ Rules of Engagement are up to you:&lt;br /&gt;
       <Key ID="str_a3_cfgenvsounds_forest0">
         <Original>Wind (Forest)</Original>
         <Chinese>風(森林)</Chinese>
-        <Chinesesimp>风(森林)</Chinesesimp>
+        <Chinesesimp>风（森林）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgenvsounds_forestnight0">
         <Original>Wind (Night)</Original>
         <Chinese>風(夜晚)</Chinese>
-        <Chinesesimp>风(夜晚)</Chinesesimp>
+        <Chinesesimp>风（夜晚）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgenvsounds_houses0">
         <Original>Wind (Day)</Original>
         <Chinese>風(白天)</Chinese>
-        <Chinesesimp>风(白天)</Chinesesimp>
+        <Chinesesimp>风（白天）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgenvsounds_housesnight0">
         <Original>Wind (No, Animals)</Original>
         <Chinese>風(無，動物)</Chinese>
-        <Chinesesimp>风(无，动物)</Chinesesimp>
+        <Chinesesimp>风（无，动物）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgenvsounds_meadows0">
         <Original>Meadow (Insect)</Original>
         <Chinese>草地(昆蟲)</Chinese>
-        <Chinesesimp>草地(昆虫)</Chinesesimp>
+        <Chinesesimp>草地（昆虫）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgenvsounds_meadowsnight0">
         <Original>Meadow (Insect, Birds)</Original>
         <Chinese>草地(昆蟲，鳥類)</Chinese>
-        <Chinesesimp>草地(昆虫，鸟类)</Chinesesimp>
+        <Chinesesimp>草地（昆虫，鸟类）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgenvsounds_windfast0">
         <Original>Wind (Fast)</Original>
         <Chinese>風(快)</Chinese>
-        <Chinesesimp>风(快)</Chinesesimp>
+        <Chinesesimp>风（快）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgenvsounds_windmedium0">
         <Original>Wind (Middle)</Original>
         <Chinese>風(中)</Chinese>
-        <Chinesesimp>风(中)</Chinesesimp>
+        <Chinesesimp>风（中）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgenvsounds_windslow0">
         <Original>Wind (Slow)</Original>
         <Chinese>風(慢)</Chinese>
-        <Chinesesimp>风(慢)</Chinesesimp>
+        <Chinesesimp>风（慢）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgsfx_airalarmsfx0">
         <Original>Air Alarm</Original>

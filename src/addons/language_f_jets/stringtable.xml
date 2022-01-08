@@ -25,7 +25,7 @@
       <Key ID="str_a3_hint_sensortypes_desc">
         <Original>Vehicle sensor suites often consist of several individual sensor types. Each sensor has different properties and indicators on the Sensor Display.%1%2Infrared (red) - detects heated targets.%1%2Visual (yellow) - detects any visible target, becomes less effective in the dark.%1%2Active Radar (cyan) - detects any target beyond visual range. Can be switched on/off.%1%2Passive Radar (green) - detects activated Radars at max. twice their own range.</Original>
         <Chinese>載具的傳感器通常會有多種類型來互相搭配。每個傳感器會以不同的符號顯示在傳感器畫面上。%1%2紅外線(紅色)-偵測發出熱源的目標。%1%2視覺(黃色)-用肉眼找到的目標會被標記成黃色，但此項能力會在夜間時降低。%1%2主動雷達(青綠色)-偵測超出視野距離的目標。雷達可以開啟或關閉。%1%2被動雷達(綠色)-可以偵測到兩倍搜索距離外已開啟雷達的目標。</Chinese>
-        <Chinesesimp>载具的传感器通常会有多种类型来互相搭配。每个传感器会以不同的符号显示在传感器画面上。%1%2红外(红色)-侦测发出热源的目标。%1%2视觉(黄色)-用肉眼找到的目标会被标记成黄色，但此项能力会在夜间时降低。%1%2主动雷达(青绿色)-侦测超出视野距离的目标。雷达可以开启或关闭。%1%2被动雷达(绿色)-可以侦测到两倍搜索距离外已开启雷达的目标。</Chinesesimp>
+        <Chinesesimp>载具的传感器通常会有多种类型来互相搭配。每个传感器会以不同的符号显示在传感器画面上。%1%2红外(红色)-侦测发出热源的目标。%1%2视觉(黄色)-用肉眼找到的目标会被标记成黄色，但此项能力会在夜间时降低。%1%2主动雷达(青绿色)-侦测超出视野距离的目标。雷达可以开启或关闭。%1%2被动雷达（绿色）-可以侦测到两倍搜索距离外已开启雷达的目标。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_sensors_title">
         <Original>Sensor Overhaul</Original>
@@ -50,7 +50,7 @@
       <Key ID="str_a3_hint_sensordisplay_desc">
         <Original>Sensor Display (SENS) shows synthesized target and threat information from all the vehicle's sensors from a top-down perspective.%1%2Dashed sectors indicate sensor ranges, flashing sectors indicate threats%1%2%11 Air%1%2%12 Ground%1%2%13 Footmobile%1%2%14 Friendly (same-side)%1%2%15 Ambiguous%1%2%16 Confirmed hostile%1%2%17 Incoming missile%1%2%18 Marked target%1%2%19 Assigned target%1%2%20 Threat sector %1%2%21 %22 Laser and IR strobe %1%2%23 Target with an active Radar </Original>
         <Chinese>傳感器畫面會顯示出戰場的俯視圖，並透過你載具所有的傳感器捕捉到敵人的資訊並顯示在上面。%1%2虛線的區域代表你傳感器的搜索範圍，閃爍的區域代表著有威脅%1%2%11空中單位%1%2%12地面單位%1%2%13步兵%1%2%14友軍(同陣營)%1%2%15不明單位%1%2%16已確認的敵軍%1%2%17來襲的飛彈%1%2%18已標記的目標%1%2%19已指定的目標%1%2%20危險區域%1%2%21%22雷射與紅外線頻閃器%1%2%23已開起雷達的目標</Chinese>
-        <Chinesesimp>传感器显示(SENS)会显示出战场的俯视图，并通过载具所有的传感器捕捉到敌人的信息并显示在上面。%1%2虚线的区域代表你传感器的搜索范围，闪烁的区域代表着有威胁%1%2%11空中单位%1%2%12地面单位%1%2%13步兵%1%2%14友军(同阵营)%1%2%15不明单位%1%2%16已确认的敌军%1%2%17来袭的导弹%1%2%18已标记的目标%1%2%19已指定的目标%1%2%20危险区域%1%2%21%22激光与红外线频闪器%1%2%23已开启雷达的目标</Chinesesimp>
+        <Chinesesimp>传感器显示(SENS)会显示出战场的俯视图，并通过载具所有的传感器捕捉到敌人的信息并显示在上面。%1%2虚线的区域代表你传感器的搜索范围，闪烁的区域代表着有威胁%1%2%11空中单位%1%2%12地面单位%1%2%13步兵%1%2%14友军（同阵营）%1%2%15不明单位%1%2%16已确认的敌军%1%2%17来袭的导弹%1%2%18已标记的目标%1%2%19已指定的目标%1%2%20危险区域%1%2%21%22激光与红外线频闪器%1%2%23已开启雷达的目标</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_panels_title">
         <Original>Left and Right Panels</Original>
@@ -60,7 +60,7 @@
       <Key ID="str_a3_hint_panels_desc">
         <Original>%1%2Press %11 or %12 to toggle panel modules. Depending on the vehicle or items, this can be a GPS, Sensor Display or one of the remote camera feeds.%1%2Press %13 or %14 to toggle mode (e.g. rotation in GPS, Sensor display range resolution or spectrum of the camera feeds).</Original>
         <Chinese>%1%2按下%11或%12來切換不同的多功能面板。面板會因不同的載具或裝備而有不同的類型，像是有的會有GPS，傳感器畫面或是遠端實況畫面等等。%1%2按下%13或%14來切換多功能面版的模式(像是在GPS中就可以切換地圖是否置中，在傳感器畫面中則可以調整雷達的搜索距離，遠端畫面則可以調整不同的畫面模式)。</Chinese>
-        <Chinesesimp>%1%2按下%11或%12来切换不同的多功能面板。面板会因不同的载具或装备而有不同的类型，例如有的会有GPS，传感器画面或是远端实况画面等等。%1%2按下%13或%14来切换多功能面板的模式(像是在GPS中就可以切换地图是否置中，在传感器画面中则可以调整雷达的搜索距离，远端画面则可以调整不同的画面模式)。</Chinesesimp>
+        <Chinesesimp>%1%2按下%11或%12来切换不同的多功能面板。面板会因不同的载具或装备而有不同的类型，例如有的会有 GPS，传感器画面或是远端实况画面等等。%1%2按下%13或%14来切换多功能面板的模式（像是在 GPS 中就可以切换地图是否置中，在传感器画面中则可以调整雷达的搜索距离，远端画面则可以调整不同的画面模式）。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_loadout_title">
         <Original>Dynamic Vehicle Loadouts</Original>
@@ -90,7 +90,7 @@
       <Key ID="str_a3_hint_huds_desc">
         <Original>Head-up displays provide you with critical flight and weapons data as you look outside. The most important elements are: %1%2Airspeed%1%2Altitude%1%2Heading%1%2Pitch%1%2%11 Boresight or waterline, showing where the aircraft is pointing%1%2%12 Flight path vector (FPV), showing where the aircraft is going%1%2Climb rate%1%2Weapon and ammo count%1%2%13 Target box%1%2Threat and stall warnings</Original>
         <Chinese>抬頭顯示器能讓你在觀察飛機外面的同時能獲得重要的飛行參數與武器資料。重要的的數值有以下幾種:%1%2空速%1%2高度%1%2航向%1%2俯仰角%1%2%11視軸線，顯示你飛機機鼻的指向%1%2%12飛行路徑指示器(FPV)，這可以讓你知道飛機將會飛到哪去%1%2爬升率%1%2武器彈藥數量%1%2%13目標標定框%1%2威脅與失速警告</Chinese>
-        <Chinesesimp>抬头显示器能让你在观察飞机外面的同时能获得重要的飞行参数与武器资料。重要的的数值有以下几种:%1%2空速%1%2高度%1%2航向%1%2俯仰角%1%2%11视轴线，显示你飞机机鼻的指向%1%2%12飞行路径指示器(FPV)，这可以让你知道飞机将会飞到哪去%1%2爬升率%1%2武器弹药数量%1%2%13目标标记框%1%2威胁与失速警告</Chinesesimp>
+        <Chinesesimp>抬头显示器能让你在观察飞机外面的同时能获得重要的飞行参数与武器资料。重要的的数值有以下几种:%1%2空速%1%2高度%1%2航向%1%2俯仰角%1%2%11视轴线，显示你飞机机鼻的指向%1%2%12飞行路径指示器（FPV），这可以让你知道飞机将会飞到哪去%1%2爬升率%1%2武器弹药数量%1%2%13目标标记框%1%2威胁与失速警告</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_fcs_title">
         <Original>Fire Control Systems</Original>
@@ -100,12 +100,12 @@
       <Key ID="str_a3_hint_fcs_tip">
         <Original>%2Does the measured speed and range seem valid? If not, start over.%1%2GND SCT indicates terrain reflections.%1%2Keep in mind that the FCS may not provide a fire solution for targets that are too far away or are moving too fast.</Original>
         <Chinese>%2量測所得的速度和距離看來合理嗎?若不合理，請重測一次。%1%2GND SCT指示有地形反射的狀況。%1%2請記住，若目標距離太遠或移動速度過快，那射控系統就有可能無法提供射擊方案。</Chinese>
-        <Chinesesimp>%2量测所得的速度和距离看来合理吗?若不合理，请重测一次。%1%2GND SCT指示有地形反射的状况。%1%2请记住，若目标距离太远或移动速度过快，那射控系统就有可能无法提供射击方案。</Chinesesimp>
+        <Chinesesimp>%2量测所得的速度和距离看来合理吗?若不合理，请重测一次。%1%2GND SCT 指示有地形反射的状况。%1%2请记住，若目标距离太远或移动速度过快，那射控系统就有可能无法提供射击方案。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_fcs_desc">
         <Original>More advanced weapons have a Fire Control System (FCS). It provides weapon zeroing and automatically calculates lead time for your target.%1%2Aim at your target and press %11 to lase it and log its speed and range.%1%2Keep tracking the target under your crosshair.%1%2Shoot when 'RDY' appears on the screen.%1If the target suddenly changes speed or direction, you need to start over.</Original>
         <Chinese>有越來越多的先進武器裝有射控系統(FCS)。射控系統能將武器歸零，並自動計算目標前置量。%1%2對準目標並按下%11來測定目標的速度與距離。%1%2以十字準心持續追蹤目標。%1%2當螢幕上顯示"RDY"字樣時就發射。%1如果目標突然改變速度或方向，那就必須重新測定一次。</Chinese>
-        <Chinesesimp>有越来越多的先进武器装有射控系统(FCS)。射控系统能将武器归零，并自动计算目标前置量。%1%2对准目标并按下%11来测定目标的速度与距离。%1%2以十字准心持续追踪目标。%1%2当荧幕上显示"RDY"字样时就发射。%1如果目标突然改变速度或方向，那就必须重新测定一次。</Chinesesimp>
+        <Chinesesimp>有越来越多的先进武器装有射控系统（FCS）。射控系统能将武器归零，并自动计算目标前置量。%1%2对准目标并按下%11来测定目标的速度与距离。%1%2以十字准心持续追踪目标。%1%2当荧幕上显示"RDY"字样时就发射。%1如果目标突然改变速度或方向，那就必须重新测定一次。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_datalink_title">
         <Original>Datalink</Original>
@@ -140,7 +140,7 @@
       <Key ID="str_a3_hint_carrierlanding_desc">
         <Original>Landing on the short deck of a ship is challenging.%1&lt;t&gt;&lt;/t&gt;1. Follow the standard landing approach.%1&lt;t&gt;&lt;/t&gt;2. Deploy %3Tailhook%4 via action menu.%1&lt;t&gt;&lt;/t&gt;3. ILS may help you maintain the needed precision and stability.%1&lt;t&gt;&lt;/t&gt;4. Line up the aircraft behind the ship at about 10 degrees right of the ships line.%1&lt;t&gt;&lt;/t&gt;5. Aim for the field of three wires which is located about 20 percent of the way down the length of the landing deck.%1&lt;t&gt;&lt;/t&gt;6. Be ready to go full throttle if you miss the wires. Go around and try again.</Original>
         <Chinese>降落在航空母艦上是一項艱鉅的任務。%1&lt;t&gt;&lt;/t&gt;1。遵行標準的進場程序。%1&lt;t&gt;&lt;/t&gt;2。使用動作選單放下%3尾鉤%4。%1&lt;t&gt;&lt;/t&gt;3。儀器降落系統(ILS)或許能幫你保持一定的精準度與穩定性。%1&lt;t&gt;&lt;/t&gt;4。對準跑道，跑道與船的中心線有10度左右的夾角。%1&lt;t&gt;&lt;/t&gt;5。瞄準甲板上的鉤鎖，他們在跑道前百分之20左右的地方。%1&lt;t&gt;&lt;/t&gt;6。請準備好你的油門，當你錯失鉤鎖後必須馬上推到最大馬力。重飛並再次執行降落程序。</Chinese>
-        <Chinesesimp>降落在航空母舰上是一项艰巨的任务。%1&lt;t&gt;&lt;/t&gt;1。遵行标准的进场程序。%1&lt;t&gt;&lt;/t&gt;2。使用动作选单放下%3尾钩%4。%1&lt;t&gt;&lt;/t&gt;3。仪器降落系统(ILS)或许能帮你保持一定的精准度与稳定性。%1&lt;t&gt;&lt;/t&gt;4。对准跑道，跑道与船的中心线有10度左右的夹角。%1&lt;t&gt;&lt;/t&gt;5。瞄准甲板上的钩锁，它们在跑道前百分之20左右的地方。%1&lt;t&gt;&lt;/t&gt;6。请准备好你的油门，当你错失钩锁后必须立刻推到最大推力。重飞并再次执行降落程序。</Chinesesimp>
+        <Chinesesimp>降落在航空母舰上是一项艰巨的任务。%1&lt;t&gt;&lt;/t&gt;1。遵行标准的进场程序。%1&lt;t&gt;&lt;/t&gt;2。使用动作选单放下%3尾钩%4。%1&lt;t&gt;&lt;/t&gt;3。仪器降落系统（ILS）或许能帮你保持一定的精准度与稳定性。%1&lt;t&gt;&lt;/t&gt;4。对准跑道，跑道与船的中心线有10度左右的夹角。%1&lt;t&gt;&lt;/t&gt;5。瞄准甲板上的钩锁，它们在跑道前百分之20左右的地方。%1&lt;t&gt;&lt;/t&gt;6。请准备好你的油门，当你错失钩锁后必须立刻推到最大推力。重飞并再次执行降落程序。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_bombs_title">
         <Original>Bombs</Original>
@@ -150,12 +150,12 @@
       <Key ID="str_a3_hint_bombs_tip">
         <Original>You can try dropping a bomb, so it detonates on the reverse side of a salient feature, such as a hill. If a small X appears inside the CCIP cross in your optics, then it shows that the bomb will land beyond the terrain in front of you.</Original>
         <Chinese>您可以試著投下炸彈，讓炸彈在顯著地形的反向坡上爆炸，例如:山丘。如果(CCIP)裡的準心出現X，那代表炸彈會落在你瞄準之外的地方。</Chinese>
-        <Chinesesimp>您可以试着投下炸弹，让炸弹在显着地形的反向坡上爆炸，例如:山丘。如果(CCIP)里的准心出现X，那代表炸弹会落在你瞄准之外的地方。</Chinesesimp>
+        <Chinesesimp>您可以试着投下炸弹，让炸弹在显着地形的反向坡上爆炸，例如:山丘。如果（CCIP）里的准心出现X，那代表炸弹会落在你瞄准之外的地方。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_bombs_desc">
         <Original>A bomb is an airdropped explosive munition. After releasing, it follows a ballistic path. Where the bomb will land, if released at the given moment, is shown by a continuously-computed impact point (CCIP) in your HUD - a small crosshair or circle with a dot.%1%1Guided bombs can make corrections to this path to achieve better precision or to strike a moving target. At certain altitude a laser guided bomb (LGB) will automatically home in on the nearest laser spot (marked by your own targeting camera or friendly JTAC).%1 1. Press %11 to mark a lased spot.%1 2. Maneuver to bring the CCIP and marked laser together.%1 3. Release the bomb once the icons overlap or are reasonably close together.</Original>
         <Chinese>投擲炸彈前，您的HUD會顯示連續計算彈著點(CCIP)--一個小型的十字準心或一圓圈顯示當前炸彈的預期落點。當炸彈投出後便隨著拋物線下落直到顯示的落點上。%1%1導引型炸彈可以調整彈道路線，提升精準度、或是攻擊移動中的目標。到達適當高度後，雷射導引炸彈(LGB)會自動瞄準最近雷射標定地點，雷射標定可以由您的瞄準吊艙、或是友方的聯合終端攻擊管制員(JTAC)完成。%1 1. 按下%11來雷射標定一個地點。%1 2. 移動飛機使CCIP的十準心和標定點重疊。%1 3. 待兩者重疊、或足夠接近時投出炸彈。</Chinese>
-        <Chinesesimp>投掷炸弹前，您的HUD会显示连续计算弹着点(CCIP)--一个小型的十字准心或一圆圈显示当前炸弹的预期落点。当炸弹投出后便随着抛物线下落直到显示的落点上。%1%1制导型炸弹可以调整弹道路线，提升精准度、或是攻击移动中的目标。到达适当高度后，激光制导炸弹(LGB)会自动瞄准最近激光标定地点，激光标定可以由您的瞄准吊舱、或是友方的联合终端攻击管制员(JTAC)完成。%1 1. 按下%11来激光标记一个地点。%1 2. 移动飞机使CCIP的十准心和标记点重叠。%1 3. 待两者重叠、或足够接近时投出炸弹。</Chinesesimp>
+        <Chinesesimp>投掷炸弹前，您的 HUD 会显示连续计算弹着点(CCIP)--一个小型的十字准心或一圆圈显示当前炸弹的预期落点。当炸弹投出后便随着抛物线下落直到显示的落点上。%1%1制导型炸弹可以调整弹道路线，提升精准度、或是攻击移动中的目标。到达适当高度后，激光制导炸弹(LGB)会自动瞄准最近激光标定地点，激光标定可以由您的瞄准吊舱、或是友方的联合终端攻击管制员（JTAC）完成。%1 1. 按下%11来激光标记一个地点。%1 2. 移动飞机使 CCIP 的十准心和标记点重叠。%1 3. 待两者重叠、或足够接近时投出炸弹。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_airplanedamage_title">
         <Original>Extended Airplane Hitpoints</Original>
@@ -170,14 +170,14 @@
       <Key ID="STR_A3_CfgHints_PremiumContent_PremiumJets0">
         <Original>Jets DLC</Original>
         <Chinese>戰機資料片</Chinese>
-        <Chinesesimp>战机DLC</Chinesesimp>
+        <Chinesesimp>战机 DLC</Chinesesimp>
       </Key>
     </Container>
     <Container name="Author">
       <Key ID="STR_A3_author_B01">
         <Original>Bravo Zero One Studios</Original>
         <Chinese>Bravo Zero One工作室</Chinese>
-        <Chinesesimp>Bravo Zero One工作室</Chinesesimp>
+        <Chinesesimp>Bravo Zero One 工作室</Chinesesimp>
       </Key>
     </Container>
     <Container name="Weapon_Names">
@@ -224,7 +224,7 @@
       <Key ID="STR_A3_Gun_Fighter_30mm_weapon_name">
         <Original>Gsh Cannon 30mm</Original>
         <Chinese>30公厘Gsh機砲</Chinese>
-        <Chinesesimp>30mm Gsh机炮</Chinesesimp>
+        <Chinesesimp>30mm Gsh 机炮</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AMRAAM_weapon_name">
         <Original>AMRAAM</Original>
@@ -426,7 +426,7 @@
       <Key ID="STR_A3_Gun_Fighter_30mm_x180_magazine_description">
         <Original>30mm high-explosive ammunition</Original>
         <Chinese>30公厘Gsh高爆彈藥</Chinese>
-        <Chinesesimp>30mm Gsh高爆弹药</Chinesesimp>
+        <Chinesesimp>30mm Gsh 高爆弹药</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AMRAAM_D_x1_magazine_name">
         <Original>AMRAAM D AA x1</Original>
@@ -446,7 +446,7 @@
       <Key ID="STR_A3_Gun_Fighter_30mm_x180_magazine_name">
         <Original>Gsh 30mm 180 rnd</Original>
         <Chinese>30公厘Gsh機砲180發</Chinese>
-        <Chinesesimp>30mm Gsh机炮180发</Chinesesimp>
+        <Chinesesimp>30mm Gsh 机炮180发</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AMRAAM_D_magazine_shortName">
         <Original>AA MR</Original>
@@ -746,37 +746,37 @@
       <Key ID="STR_A3_B_Deck_Crew_Vest_Yellow_name">
         <Original>Deck Crew Vest (Yellow)</Original>
         <Chinese>甲板人員背心(黃色)</Chinese>
-        <Chinesesimp>甲板人员背心(黄色)</Chinesesimp>
+        <Chinesesimp>甲板人员背心（黄色）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Deck_Crew_Vest_Blue_name">
         <Original>Deck Crew Vest (Blue)</Original>
         <Chinese>甲板人員背心(藍色)</Chinese>
-        <Chinesesimp>甲板人员背心(蓝色)</Chinesesimp>
+        <Chinesesimp>甲板人员背心（蓝色）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Deck_Crew_Vest_Brown_name">
         <Original>Deck Crew Vest (Brown)</Original>
         <Chinese>甲板人員背心(棕色)</Chinese>
-        <Chinesesimp>甲板人员背心(棕色)</Chinesesimp>
+        <Chinesesimp>甲板人员背心（棕色）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Deck_Crew_Vest_Green_name">
         <Original>Deck Crew Vest (Green)</Original>
         <Chinese>甲板人員背心(綠色)</Chinese>
-        <Chinesesimp>甲板人员背心(绿色)</Chinesesimp>
+        <Chinesesimp>甲板人员背心（绿色）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Deck_Crew_Vest_White_name">
         <Original>Deck Crew Vest (White)</Original>
         <Chinese>甲板人員背心(白色)</Chinese>
-        <Chinesesimp>甲板人员背心(白色)</Chinesesimp>
+        <Chinesesimp>甲板人员背心（白色）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Deck_Crew_Vest_Red_name">
         <Original>Deck Crew Vest (Red)</Original>
         <Chinese>甲板人員背心(紅色)</Chinese>
-        <Chinesesimp>甲板人员背心(红色)</Chinesesimp>
+        <Chinesesimp>甲板人员背心（红色）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Deck_Crew_Vest_Violet_name">
         <Original>Deck Crew Vest (Violet)</Original>
         <Chinese>甲板人員背心(紫色)</Chinese>
-        <Chinesesimp>甲板人员背心(紫色)</Chinesesimp>
+        <Chinesesimp>甲板人员背心（紫色）</Chinesesimp>
       </Key>
     </Container>
     <Container name="UAV_05">
@@ -815,7 +815,7 @@
       <Key ID="STR_A3_Fighter_01_Stealth_name">
         <Original>F/A-181 Black Wasp II (Stealth)</Original>
         <Chinese>F/A-181"黑蜂"2型戰鬥攻擊機(匿蹤)</Chinese>
-        <Chinesesimp>F/A-181"黑蜂"2型战斗攻击机(隐身)</Chinesesimp>
+        <Chinesesimp>F/A-181"黑蜂"2型战斗攻击机（隐身）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Fighter_01_wreck_name">
         <Original>F/A-181 Black Wasp II wreck</Original>
@@ -842,7 +842,7 @@
       <Key ID="STR_A3_Fighter_02_Stealth_name">
         <Original>To-201 Shikra (Stealth)</Original>
         <Chinese>To-201"褐耳鷹"戰鬥機(匿蹤)</Chinese>
-        <Chinesesimp>To-201"褐耳鹰"战斗攻击机(隐身)</Chinesesimp>
+        <Chinesesimp>To-201"褐耳鹰"战斗攻击机（隐身）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Fighter_02_wreck_name">
         <Original>To-201 Shikra wreck</Original>
@@ -946,7 +946,7 @@
       <Key ID="STR_A3_B_Carrier_01_GEO_base_name">
         <Original>Aircraft carrier [GEO]</Original>
         <Chinese>航空母艦[幾何LOD]</Chinese>
-        <Chinesesimp>航空母舰[几何LOD]</Chinesesimp>
+        <Chinesesimp>航空母舰[几何 LOD]</Chinesesimp>
       </Key>
     </Container>
     <Container name="3DEN support">
@@ -1037,7 +1037,7 @@
       <Key ID="str_a3_cfgmods_jets_features_dlcjetsdynamicloadouts1">
         <Original>Customize variable vehicle loadouts in Eden Editor (selecting aircraft pylon ordnance being the highlight).</Original>
         <Chinese>在伊甸編輯器中使用動態裝備來隨意調整載具的武器配置(調整不同武器掛架的裝備)。</Chinese>
-        <Chinesesimp>在伊甸编辑器中使用动态装备来随意调整载具的武器配置(调整不同武器挂架的装备)。</Chinesesimp>
+        <Chinesesimp>在伊甸编辑器中使用动态装备来随意调整载具的武器配置（调整不同武器挂架的装备）。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_jets_features_dlcjetsdatalink1">
         <Original>Enables vehicles to transmit their sensor data to other vehicles for advanced cooperation.</Original>
@@ -1047,17 +1047,17 @@
       <Key ID="STR_A3_dlc_popup_jets">
         <Original>You are using premium content. Purchase Arma 3 Jets to remove the message.</Original>
         <Chinese>你正在使用付費內容。請購買武裝突襲3戰機資料片來移除本訊息。</Chinese>
-        <Chinesesimp>你正在使用付费内容。请购买武装突袭3战机DLC来移除本信息。</Chinesesimp>
+        <Chinesesimp>你正在使用付费内容。请购买武装突袭3战机 DLC 来移除本信息。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_DLC_PREMIUM_ITEM_NOTIFICATION_JETS_TEXT">
         <Original>This content is part of the non-owned Jets DLC. Please purchase it to use it.</Original>
         <Chinese>此內容屬於尚未購買的武裝突襲3戰機資料片。請先購買後才能使用這個內容。</Chinese>
-        <Chinesesimp>此内容属于尚未购买的武装突袭3战机DLC。请先购买后才能使用这个内容。</Chinesesimp>
+        <Chinesesimp>此内容属于尚未购买的武装突袭3战机 DLC。请先购买后才能使用这个内容。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_WEAPONPREVMSG_JETS">
         <Original>This content is part of the non-owned Jets DLC. Please purchase it to use this weapon.</Original>
         <Chinese>此內容屬於尚未購買的武裝突襲3戰機資料片。請先購買後才能使用這個武器。</Chinese>
-        <Chinesesimp>此内容属于尚未购买的武装突袭3战机DLC。请先购买后才能使用这个武器。</Chinesesimp>
+        <Chinesesimp>此内容属于尚未购买的武装突袭3战机 DLC。请先购买后才能使用这个武器。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_jets_features_dlcjetscarrier1">
         <Original>Scripted support for carrier launching and automated landing of naval aircraft.</Original>
@@ -1067,7 +1067,7 @@
       <Key ID="STR_A3_DLC_SCENARIO_NOTIFICATION_JETS">
         <Original>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;This content is exclusive to Arma 3 Jets DLC.&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;Left Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; to open the store page for more information.&lt;t /&gt;</Original>
         <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此內容屬於武裝突襲3戰機資料片。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;來開啟頁面獲得更多訊息。&lt;t/&gt;</Chinese>
-        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此内容属于武装突袭3战机DLC。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;来开启页面获得更多信息。&lt;t/&gt;</Chinesesimp>
+        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此内容属于武装突袭3战机 DLC。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左 Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;来开启页面获得更多信息。&lt;t/&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_jets_features_dlcjetscarrier0">
         <Original>Carrier Ops</Original>
@@ -1107,7 +1107,7 @@
       <Key ID="str_a3_cfgmods_jets_assets_dlcjetsindependentfighterjet1">
         <Original>An advanced fourth generation AAF fighter jet.</Original>
         <Chinese>阿爾蒂斯武裝力量的一臺先進型第四代戰鬥機。</Chinese>
-        <Chinesesimp>AAF的一种先进型第四代战斗攻击机。</Chinesesimp>
+        <Chinesesimp>AAF 的一种先进型第四代战斗攻击机。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_jets_assets_dlcjetsbluforucav1">
         <Original>A NATO carrier-based Unmanned Combat Air Vehicle</Original>
@@ -1122,7 +1122,7 @@
       <Key ID="STR_A3_CfgMods_Jets0">
         <Original>Arma 3 Jets DLC now available. Click to purchase</Original>
         <Chinese>武裝突襲3戰機資料片已正式上市。點擊這裡來購買</Chinese>
-        <Chinesesimp>武装突袭3战机DLC已正式上市。点击这里来购买</Chinesesimp>
+        <Chinesesimp>武装突袭3战机 DLC 已正式上市。点击这里来购买</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMods_Jets1">
         <Original>Arma 3 Jets</Original>
@@ -1132,7 +1132,7 @@
       <Key ID="STR_A3_CfgMods_Jets2">
         <Original>Fly the brand-new F/A-181 Black Wasp II, To-201 Shikra, A-149 Gryphon fighter aircraft, and master Air-to-Air combat. Learn to fly fast and agile air superiority fighters to dominate the skies over the battlefield and provide air support in the Arma 3 Jets DLC.</Original>
         <Chinese>來試飛全新的F/A-181"黑蜂"2型戰鬥攻擊機，To-201"褐耳鷹"戰鬥機，A-149"獅鷲"戰鬥機等戰鬥機，體驗全新的空中戰鬥系統。透過武裝突襲3戰機資料片，你將學習如何駕馭這些快速且靈敏的飛機，進而讓你稱霸空中並提供地面部隊強大的支援。</Chinese>
-        <Chinesesimp>来试飞全新的F/A-181"黑蜂"2型战斗攻击机，To-201"褐耳鹰"战斗攻击机，A-149"狮鹫"战斗攻击机等战斗机，体验全新的空中战斗系统。通过武装突袭3战机DLC，你将学习如何驾驭这些快速且灵敏的飞机，进而让你称霸空中并提供地面部队强大的支援。</Chinesesimp>
+        <Chinesesimp>来试飞全新的F/A-181"黑蜂"2型战斗攻击机，To-201"褐耳鹰"战斗攻击机，A-149"狮鹫"战斗攻击机等战斗机，体验全新的空中战斗系统。通过武装突袭3战机 DLC，你将学习如何驾驭这些快速且灵敏的飞机，进而让你称霸空中并提供地面部队强大的支援。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMods_Jets3">
         <Original>Arma 3 Jets</Original>
@@ -1142,12 +1142,12 @@
       <Key ID="STR_A3_CfgMods_Jets4">
         <Original>This content is part of Jets DLC. Purchase it to enter this vehicle as crew.</Original>
         <Chinese>此內容屬於戰機資料片的一部分。請購買此資料片後才能擔當該載具的機組員。</Chinese>
-        <Chinesesimp>此内容属于战机DLC的一部分。请购买此DLC后才能担任该载具的机组员。</Chinesesimp>
+        <Chinesesimp>此内容属于战机 DLC 的一部分。请购买此 DLC 后才能担任该载具的机组员。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMods_Jets5">
         <Original>This content is part of Jets DLC. Purchase it to enter this vehicle as crew.</Original>
         <Chinese>此內容屬於戰機資料片的一部分。請購買此資料片後才能擔當該載具的機組員。</Chinese>
-        <Chinesesimp>此内容属于战机DLC的一部分。请购买此DLC后才能担任该载具的机组员。</Chinesesimp>
+        <Chinesesimp>此内容属于战机 DLC 的一部分。请购买此 DLC 后才能担任该载具的机组员。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Insignia">
@@ -1391,7 +1391,7 @@
       <Key ID="str_a3_cfgmagazine_65minigun_tooltip">
         <Original>6.5mm gatling gun</Original>
         <Chinese>6.5公厘加特林機槍</Chinese>
-        <Chinesesimp>6.5mm 加特林机枪</Chinesesimp>
+        <Chinesesimp>6.5 mm 加特林机枪</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_bim9_tooltip">
         <Original>Short-range, infrared-guided, air-to-air missile with high-explosive warhead</Original>

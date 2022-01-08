@@ -76,7 +76,7 @@
         <Key ID="str_a3_orange_hub_cfgtaskdescriptions_orange_leaflets_title">
           <Original>Abandoned AAF Post</Original>
           <Chinese>廢棄的阿爾蒂斯武裝力量哨所</Chinese>
-          <Chinesesimp>废弃的AAF哨所</Chinesesimp>
+          <Chinesesimp>废弃的 AAF 哨所</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_hub_cfgtaskdescriptions_orange_investigate_title">
           <Original>Investigate</Original>
@@ -191,7 +191,7 @@
         <Key ID="str_a3_orange_hub_cfgtaskdescriptions_bis_findexplosives_description2">
           <Original>Unexploded Ordnance (UXO)</Original>
           <Chinese>未爆兵器(UXO)</Chinese>
-          <Chinesesimp>未爆兵器(UXO)</Chinesesimp>
+          <Chinesesimp>未爆兵器（UXO）</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_hub_cfgtaskdescriptions_bis_findexplosives_description1">
           <Original>Use a &lt;%11&gt;mine detector&lt;/execute&gt; to search &lt;%10&gt;Oreokastro&lt;/marker&gt; for mines and unexploded ordnance. You cannot disarm them yet, but a toolkit should be delivered soon.&lt;br /&gt;&lt;br /&gt;%1&lt;br /&gt;%2%3%4%5&lt;br /&gt;&lt;br /&gt;%6&lt;br /&gt;%7%8%9</Original>
@@ -206,7 +206,7 @@
         <Key ID="str_a3_orange_hub_cfgtaskdescriptions_bis_equip_description">
           <Original>Don your EOD (Explosive Ordnance Disposal) vest, protective helmet and mine detector.</Original>
           <Chinese>配好你的排爆(EOD)背心，防護型頭盔和地雷探測器。</Chinese>
-          <Chinesesimp>配好你的排爆(EOD)背心，防护型头盔和地雷探测器。</Chinesesimp>
+          <Chinesesimp>配好你的排爆（EOD）背心，防护型头盔和地雷探测器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_hub_cfgtaskdescriptions_bis_clearexplosives_title">
           <Original>Clear All Explosives</Original>
@@ -289,7 +289,7 @@
           <Key ID="str_a3_orange_aan_text_leaflets_0">
             <Original>He goes on to describe how one defender contravened the laws of war by stealing civilian vehicles (including an ambulance belonging to IDAP) to build a barricade. This same culprit then committed another violation by placing lethal bounding anti-personnel mines near anti-tank ones to complicate clearance.</Original>
             <Chinese>他繼續描述一名防禦者是如何用偷來的民用車輛製造街壘(包括一輛屬於國發援的救護車)，同案犯又在反坦克地雷周邊敷設反人員地雷使清理更加困難。</Chinese>
-            <Chinesesimp>他继续描述一名防御者是如何用偷来的民用车辆制造街垒(包括一辆属于国发援的救护车)，同案犯又在反坦克地雷周边设置反人员地雷使清理更加困难。</Chinesesimp>
+            <Chinesesimp>他继续描述一名防御者是如何用偷来的民用车辆制造街垒（包括一辆属于国发援的救护车），同案犯又在反坦克地雷周边设置反人员地雷使清理更加困难。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_escape_1">
             <Original>Due to government soldiers receiving NATO training in the Laws of Armed Conflict, he was able to depend upon the Geneva Conventions and use his civilian status to reach IDAP workers at a nearby church - despite being badly wounded in the bombing.</Original>
@@ -304,17 +304,17 @@
           <Key ID="str_a3_orange_aan_text_cluster_1">
             <Original>"by all accounts, the town just seemed to explode" MacDade recalls. "Buildings were burning for days. [...] We did what we could but there were so many wounded, so many we'd never be able to identify".</Original>
             <Chinese>"據大家說，鎮子就好像整個炸飛了。"麥克達德回憶說，"建築物燒了幾天，(...)我們已經竭盡全力，但傷者實在太多了，很多我們甚至無法辨識。"</Chinese>
-            <Chinesesimp>"据大家说，镇子就好像整个炸飞了。"麦克达德回忆说，"建筑物烧了几天，(...)我们已经竭尽全力，但伤者实在太多了，很多我们甚至无法辨识。"</Chinesesimp>
+            <Chinesesimp>"据大家说，镇子就好像整个炸飞了。"麦克达德回忆说，"建筑物烧了几天，（...）我们已经竭尽全力，但伤者实在太多了，很多我们甚至无法辨识。"</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_cluster_0">
             <Original>"one of our doctors was out on the frontline with medical supplies, despite the fighting", recalls MacDade. "He lost his life. Killed trying to save others. [...] By all accounts, the town just seemed to explode. Buildings were burning for days. [...] We did what we could - but there were so many wounded, so many we'd never be able to identify".</Original>
             <Chinese>"我們的一名醫生當時正不顧炮火帶著醫療補給在前線活動"，麥克達德回憶道，"他失去了生命。為救別人而死。(...)據大家說，鎮子就好像整個炸飛了。建築物燒了幾天，(...)我們已經竭盡全力，但傷者實在太多了，很多我們甚至無法辨識。"</Chinese>
-            <Chinesesimp>"我们的一名医生当时正不顾炮火带着医疗补给在前线活动"，麦克达德回忆道，"他失去了生命。为救别人而死。(...)据大家说，镇子就好像整个炸飞了。建筑物烧了几天，(...)我们已经竭尽全力，但伤者实在太多了，很多我们甚至无法辨识。"</Chinesesimp>
+            <Chinesesimp>"我们的一名医生当时正不顾炮火带着医疗补给在前线活动"，麦克达德回忆道，"他失去了生命。为救别人而死。(...)据大家说，镇子就好像整个炸飞了。建筑物烧了几天，（...）我们已经竭尽全力，但伤者实在太多了，很多我们甚至无法辨识。"</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_choice_4">
             <Original>Answering a question on who he felt was responsible for the suffering in the town, MacDade struggles to allocate blame, simply stating "I don't think it's quite so black and white. No one side can be held accountable for the bloodshed [...], no one action got us where we are now. I don't know, what can we do? Just double-down on our efforts. Heal the wounds.</Original>
             <Chinese>在回答他認為誰該為城鎮所遭受的苦難負責的時候，麥克達德沒有指責特定的某一方，而只是說"我不認為這事有那麼黑白分明。沒有那一方能獨自承擔這一切流血的責任(...)，我們所面臨的現狀不是由任何一方所單獨導致的。我不知道，我們能做什麼?只能加緊我們的努力。治療傷員。"</Chinese>
-            <Chinesesimp>在回答他认为谁该为城镇所遭受的苦难负责的时候，麦克达德没有指责特定的某一方，而只是说"我不认为这事有那么黑白分明。没有那一方能独自承担这一切流血的责任(...)，我们所面临的现状不是由任何一方所单独导致的。我不知道，我们能做什么?只能加紧我们的努力。治疗伤员。"</Chinesesimp>
+            <Chinesesimp>在回答他认为谁该为城镇所遭受的苦难负责的时候，麦克达德没有指责特定的某一方，而只是说"我不认为这事有那么黑白分明。没有那一方能独自承担这一切流血的责任（...），我们所面临的现状不是由任何一方所单独导致的。我不知道，我们能做什么?只能加紧我们的努力。治疗伤员。"</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_choice_3">
             <Original>Answering a question on who he felt was responsible for the suffering in the town, MacDade talks of the Altis Armed Forces, describing how they wanted to wipe it off the map: "it's one thing fighting against a resistance. It's another to make the civilian population pay for it. As they clung to power they wound up scarring the very country they had pledged to protect.</Original>
@@ -324,7 +324,7 @@
           <Key ID="str_a3_orange_aan_text_choice_2">
             <Original>Answering a question on who he felt was responsible for the suffering in the town, MacDade is quick to accuse CSAT: "before they stepped in [and] pushed NATO out, there was a ceasefire in place, albeit a delicate one" he remembers. "And the cluster strike? It took the whole thing to the brink - and with so little to gain from such a terrifying show of force. The whole thing felt like a power-play from the get-go.</Original>
             <Chinese>在回答他認為誰該為城鎮所遭受的苦難負責的時候，麥克達德指責廣協同盟:"在他們介入(而)北約撤出之前，曾經達成過停火協定，雖然只是意向中的。"他回憶道，"但是集束炸彈空襲?這把一切都毀掉了——而且此類恐怖的武力展示也根本取得不了什麼進展。整個事情從一開始就像是一場強權對決。</Chinese>
-            <Chinesesimp>在回答他认为谁该为城镇所遭受的苦难负责的时候，麦克达德指责广协:"在他们介入(而)北约撤出之前，曾经达成过停火协定，虽然只是意向中的。"他回忆道，"但是集束炸弹空袭?这把一切都毁掉了——而且此类恐怖的武力展示也根本取得不了什么进展。整个事情从一开始就像是一场强权对决。</Chinesesimp>
+            <Chinesesimp>在回答他认为谁该为城镇所遭受的苦难负责的时候，麦克达德指责广协:"在他们介入（而）北约撤出之前，曾经达成过停火协定，虽然只是意向中的。"他回忆道，"但是集束炸弹空袭?这把一切都毁掉了——而且此类恐怖的武力展示也根本取得不了什么进展。整个事情从一开始就像是一场强权对决。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_choice_1">
             <Original>Answering a question on who he felt was responsible for the suffering in the town, MacDade lays the blame on the guerrillas, suggesting there could not have been a conflict without them: "they chose to dig deep into civilian infrastructure", he says, angrily. "They hid themselves among the population. These guys didn't give a damn about what it cost - they wanted power and would do anything to get it.</Original>
@@ -359,7 +359,7 @@
           <Key ID="str_a3_orange_aan_text_7">
             <Original>Indeed, by Autumn 2034, Oreokastro had reverted to a state of conflict. Guerrillas took control of the town and setup defences to counter a government offensive: "[they] found themselves a new leader" MacDade explains. "For him, this was no time to surrender [...], he [rallied] the people - encouraged them to resist". </Original>
             <Chinese>當然，到2034年秋天，奧雷奧卡斯特羅進入了衝突狀態。游擊隊控制了城鎮並建立防禦準備抵擋政府進攻:"(他們)有了新的領導人，"麥克達德解釋道，"對他而言，現在不是投降的時間(...)，他(集結)了人們——鼓勵他們抵抗。"</Chinese>
-            <Chinesesimp>当然，到2034年秋天，奥雷奥卡斯特罗进入了冲突状态。游击队控制了城镇并建立防御准备抵挡政府进攻:"(他们)有了新的领导人，"麦克达德解释道，"对他而言，现在不是投降的时间(...)，他(集结)了人们——鼓励他们抵抗。"</Chinesesimp>
+            <Chinesesimp>当然，到2034年秋天，奥雷奥卡斯特罗进入了冲突状态。游击队控制了城镇并建立防御准备抵挡政府进攻:"(他们)有了新的领导人，"麦克达德解释道，"对他而言，现在不是投降的时间(...)，他（集结）了人们——鼓励他们抵抗。"</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_6">
             <Original>Under the Statute of the International Criminal Court, this sort of intentional action against peacekeeping missions is illegal. In fact, many now debate whether or not the civil war ever really ended, with some claiming the Jerusalem Ceasefire in 2030 was no more than a political whitewash.</Original>
@@ -374,7 +374,7 @@
           <Key ID="str_a3_orange_aan_text_4">
             <Original>According to Nathan MacDade, a 52-year-old former U.S. Marine Corps engineer, now working with the International Development &amp;amp; Aid Project (IDAP), the one-time sovereign territories have long been plagued by excessive acts of violence.</Original>
             <Chinese>52歲的內森·韋德原為美國海軍陸戰隊工兵，現在在為國際發展&amp;amp;援助工程(IDAP)工作。根據他的說法，這片一度自治的土地早已被過激行為和暴力籠罩。</Chinese>
-            <Chinesesimp>52岁的内森·韦德原为美国海军陆战队工兵，现在在为国际发展&amp;amp;援助工程(国发援)工作。根据他的说法，这片一度自治的土地早已被过激行为和暴力笼罩。</Chinesesimp>
+            <Chinesesimp>52岁的内森·韦德原为美国海军陆战队工兵，现在在为国际发展&amp;amp;援助工程（国发援）工作。根据他的说法，这片一度自治的土地早已被过激行为和暴力笼罩。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_3">
             <Original>Following NATO's recent invasion, a political storm has broken.</Original>
@@ -394,7 +394,7 @@
           <Key ID="str_a3_orange_aan_text_13">
             <Original>During last week's invasion, the commander of the government's 3rd Support Regiment and his adjutant were unexpectedly cut-off and trapped in Oreokastro. As NATO soldiers and local guerrillas (now allied) closed in, the pair retreated to the town's historic church and dispersed an unknown number of mines. MacDade confirms IDAP were alerted of the threat, but only after the first civilian casualty came to light.</Original>
             <Chinese>在最後1周的入侵中，政府軍第3支援團的指揮官和他的副官被意外隔斷並滯留在奧雷奧卡斯特羅。在北約士兵和當地游擊隊(此時已結盟)靠近的情況下，兩人撤退到村鎮歷史悠久的教堂內，並布撒了不明數量的地雷。麥克達德確認國際發展援助工程組織被警告了這一威脅，但是此時首位平民傷亡者已經出現了。</Chinese>
-            <Chinesesimp>在最后1周的入侵中，政府军第3支援团的指挥官和他的副官被意外隔断并滞留在奥雷奥卡斯特罗。在北约士兵和当地游击队(此时已结盟)靠近的情况下，两人撤退到村镇历史悠久的教堂内，并布撒了不明数量的地雷。麦克达德确认国际发展援助工程组织被警告了这一威胁，但是此时首位平民伤亡者已经出现了。</Chinesesimp>
+            <Chinesesimp>在最后1周的入侵中，政府军第3支援团的指挥官和他的副官被意外隔断并滞留在奥雷奥卡斯特罗。在北约士兵和当地游击队（此时已结盟）靠近的情况下，两人撤退到村镇历史悠久的教堂内，并布撒了不明数量的地雷。麦克达德确认国际发展援助工程组织被警告了这一威胁，但是此时首位平民伤亡者已经出现了。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_12">
             <Original>In a strange twist of fate however, he returned to the town several months later and triggered a landmine - consequently losing his life in what becomes the final piece of a disturbing puzzle. "That place had been abandoned for almost a year" MacDade points out. "But he was looking for his brother. There had been reports of a pretty brutal fire-fight up there".</Original>
@@ -489,7 +489,7 @@
           <Key ID="str_a3_orange_aan_author">
             <Original>Katherine Bishop is a specialist correspondent and digital photographer, based in Washington DC. In 2030, she won the Joe Harris Award for Human Interest Writing for her coverage of the Altian Diaspora. Previously with the Morning Tribune, Katherine joined AAN in 2032.</Original>
             <Chinese>凱瑟琳·畢曉普是一名駐華盛頓特區的專業新聞通訊員和數字攝影師。在2030年，她因報道阿爾蒂斯移民群體而贏得了喬·哈里斯為人類利益寫作獎。此前供稿於《早間晨報》，2032年起加入AAN。</Chinese>
-            <Chinesesimp>凯瑟琳·毕晓普是一名驻华盛顿特区的专业新闻通信员和数字摄影师。在2030年，她因报道阿尔蒂斯移民群体而赢得了乔·哈里斯为人类利益写作奖。此前供稿于《早间晨报》，2032年起加入AAN。</Chinesesimp>
+            <Chinesesimp>凯瑟琳·毕晓普是一名驻华盛顿特区的专业新闻通信员和数字摄影师。在2030年，她因报道阿尔蒂斯移民群体而赢得了乔·哈里斯为人类利益写作奖。此前供稿于《早间晨报》，2032年起加入 AAN。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_draft">
             <Original>Draft - do not share without permission!</Original>
@@ -595,12 +595,12 @@
         <Key ID="str_a3_orangecampaign_timeline_peacetalks">
           <Original>CSAT withdraws support for the AAF and the government in Pyrgos capitulates hours later.</Original>
           <Chinese>廣協同盟放棄了對阿爾蒂斯武裝力量的支持，皮爾戈斯政府幾小時後就投降了。</Chinese>
-          <Chinesesimp>广协放弃了对AAF的支持，皮尔戈斯政府几小时后就投降了。</Chinesesimp>
+          <Chinesesimp>广协放弃了对 AAF 的支持，皮尔戈斯政府几小时后就投降了。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_peacedialogue">
           <Original>The Jerusalem Ceasefire breaks down and tensions escalate. Altis Armed Forces (AAF) and anti-government guerrillas hold peace talks in Kavala.</Original>
           <Chinese>耶路撒冷停火協定被打破，緊張局勢升級。阿爾蒂斯武裝力量(AAF)和反政府游擊隊在卡瓦拉舉行和平談判。</Chinese>
-          <Chinesesimp>耶路撒冷停火协定被打破，紧张局势升级。阿尔蒂斯武装力量(AAF)和反政府游击队在卡瓦拉举行和平谈判。</Chinesesimp>
+          <Chinesesimp>耶路撒冷停火协定被打破，紧张局势升级。阿尔蒂斯武装力量（AAF）和反政府游击队在卡瓦拉举行和平谈判。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_orange_minedispenser_1">
           <Original>Trapped by NATO forces, Major Gavras and his adjutant, Kostas Dimitriou, make a stand at Oreokastro's church. The area is mined during their defense, but no other laws of war are broken. Kostas later visits IDAP and reports the location of the mines, significantly helping clearance efforts.</Original>
@@ -625,7 +625,7 @@
         <Key ID="str_a3_orangecampaign_timeline_orange_leaflets">
           <Original>As relations between AAF and NATO deteriorate, peacekeeping forces on Altis are ordered to relocate to Stratis. Guerrillas overrun an AAF outpost in Oreokastro and a large number of weapons are captured.</Original>
           <Chinese>由於阿爾蒂斯武裝力量和北約之間的關係惡化，阿爾蒂斯島上的維和部隊被命令轉移到斯特拉蒂斯。游擊隊攻下了奧雷奧卡斯特羅的阿爾蒂斯武裝力量營地，奪取了大量武器。</Chinese>
-          <Chinesesimp>由于AAF和北约之间的关系恶化，阿尔蒂斯岛上的维和部队被命令转移到斯特拉蒂斯。游击队攻下了奥雷奥卡斯特罗的AAF营地，夺取了大量武器。</Chinesesimp>
+          <Chinesesimp>由于 AAF 和北约之间的关系恶化，阿尔蒂斯岛上的维和部队被命令转移到斯特拉蒂斯。游击队攻下了奥雷奥卡斯特罗的 AAF 营地，夺取了大量武器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_orange_hub">
           <Original>Nathan MacDade arrives at IDAP's camp in Oreokastro.</Original>
@@ -640,12 +640,12 @@
         <Key ID="str_a3_orangecampaign_timeline_orange_escape_1">
           <Original>After a two week siege, the town is taken by the AAF. Some guerrillas escape into the surrounding mountains.</Original>
           <Chinese>在兩周的攻城後，城鎮被阿爾蒂斯武裝力量奪取。一些游擊隊員撤入周邊山中。</Chinese>
-          <Chinesesimp>在两周的攻城后，城镇被AAF夺取。一些游击队员撤入周边山中。</Chinesesimp>
+          <Chinesesimp>在两周的攻城后，城镇被 AAF 夺取。一些游击队员撤入周边山中。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_orange_escape_0">
           <Original>After a two week siege, the AAF attempt to seize the town. A small group of guerrillas stage a heroic rearguard action. The army eventually takes the town, but many guerrillas escape into the surrounding mountains.</Original>
           <Chinese>在兩周的攻城之後，阿爾蒂斯武裝力量試圖奪取村鎮。一小群游擊隊員採取了可歌可泣的後衛行動。軍隊最終奪取了村鎮，但很多游擊隊員得以撤入周邊山中。</Chinese>
-          <Chinesesimp>在两周的攻城之后，AAF试图夺取村镇。一小群游击队员采取了可歌可泣的后卫行动。军队最终夺取了村镇，但很多游击队员得以撤入周边山中。</Chinesesimp>
+          <Chinesesimp>在两周的攻城之后，AAF 试图夺取村镇。一小群游击队员采取了可歌可泣的后卫行动。军队最终夺取了村镇，但很多游击队员得以撤入周边山中。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_orange_cluster_1">
           <Original>Oreokastro is destroyed by a cluster strike. IDAP's camp is spared and no workers are harmed.</Original>
@@ -660,12 +660,12 @@
         <Key ID="str_a3_orangecampaign_timeline_orange_cluster">
           <Original>AAF attack the town. They are surprised by the guerrilla's defenses and their offensive fails.</Original>
           <Chinese>阿爾蒂斯武裝力量攻擊了城鎮。他們被游擊隊的防禦打得措手不及，進攻失敗。</Chinese>
-          <Chinesesimp>AAF攻击了城镇。他们被游击队的防御打得措手不及，进攻失败。</Chinesesimp>
+          <Chinesesimp>AAF 攻击了城镇。他们被游击队的防御打得措手不及，进攻失败。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_orange_brother">
           <Original>Alexis Kouris is last seen pursuing AAF officers to the abandoned town of Oreokastro.</Original>
           <Chinese>阿雷克西斯·庫裡斯最後被發現追逐阿爾蒂斯武裝力量軍官進入到被拋棄的奧雷奧卡斯特羅鎮中。</Chinese>
-          <Chinesesimp>阿雷克西斯·库里斯最后被发现追逐AAF军官进入到被抛弃的奥雷奥卡斯特罗镇中。</Chinesesimp>
+          <Chinesesimp>阿雷克西斯·库里斯最后被发现追逐 AAF 军官进入到被抛弃的奥雷奥卡斯特罗镇中。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_orange_airdrop_1">
           <Original>NATO performs a successful airdrop. After the supplies are secured by armed forces, IDAP collects them and distributes the much-needed aid in Oreokastro.</Original>
@@ -680,7 +680,7 @@
         <Key ID="str_a3_orangecampaign_timeline_orange_airdrop">
           <Original>An AAF convoy is ambushed by dissident guerrilla forces. The negotiations in Kavala collapse and the civil war reignites. Roads become unsafe and Oreokastro is cut-off from the nearest town.</Original>
           <Chinese>一支阿爾蒂斯武裝力量車隊被離群的游擊隊伏擊。在卡瓦拉的談判破裂，內戰再次爆發。道路變得不再安全，奧雷奧卡斯特羅也被和最近的城鎮分離開來。</Chinese>
-          <Chinesesimp>一支AAF车队被离群的游击队伏击。在卡瓦拉的谈判破裂，内战再次爆发。道路变得不再安全，奥雷奥卡斯特罗也被和最近的城镇分离开来。</Chinesesimp>
+          <Chinesesimp>一支 AAF 车队被离群的游击队伏击。在卡瓦拉的谈判破裂，内战再次爆发。道路变得不再安全，奥雷奥卡斯特罗也被和最近的城镇分离开来。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_natoinvasion">
           <Original>NATO invades Altis and Stratis.</Original>
@@ -690,12 +690,12 @@
         <Key ID="str_a3_orangecampaign_timeline_eastwind">
           <Original>AAF launch a surprise attack against NATO peacekeepers based on Stratis.</Original>
           <Chinese>阿爾蒂斯武裝力量對位於斯特拉蒂斯島上的北約維和部隊發動了突然襲擊。</Chinese>
-          <Chinesesimp>AAF对位于斯特拉蒂斯岛上的北约维和部队发动了突然袭击。</Chinesesimp>
+          <Chinesesimp>AAF 对位于斯特拉蒂斯岛上的北约维和部队发动了突然袭击。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_bootcamp">
           <Original>NATO peacekeepers, including Staff Sgt. Adams, conduct joint training exercises with members of the AAF.</Original>
           <Chinese>北約維和部隊，包括亞當斯上士在內，與阿爾蒂斯武裝力量的軍人一起執行聯合訓練演習。</Chinese>
-          <Chinesesimp>北约维和部队，包括亚当斯上士在内，与AAF的军人一起执行联合训练演习。</Chinesesimp>
+          <Chinesesimp>北约维和部队，包括亚当斯上士在内，与 AAF 的军人一起执行联合训练演习。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_campaign_subtitle_chatter">
           <Original>Indistinct chatter</Original>
@@ -1097,12 +1097,12 @@
         <Key ID="str_a3_orange_showcase_lawsofwar_diary_situation">
           <Original>As part of your standard infantry training in the Altis Armed Forces, you are attending an instruction session on the Laws of Armed Conflict (LOAC), or International Humanitarian Law (IHL) as your IDAP instructors will refer to it.&lt;br /&gt;&lt;br /&gt;Pay good attention! This topic matter is important to warfare, especially on the complex battlefields of today.</Original>
           <Chinese>作為你在阿爾蒂斯武裝力量標準步兵訓練中的一部分，你正在參加武裝衝突法則(LOAC)，或曰國際人道主義法(IHL)的訓練課程，你的國際發展援助工程組織的教員會提及它。&lt;br/&gt;&lt;br/&gt;認真聽講!這一話題的內容對戰爭十分重要，特別是在當今複雜的戰場形勢下。</Chinese>
-          <Chinesesimp>作为你在阿尔蒂斯武装力量标准步兵训练中的一部分，你正在参加武装冲突法则(LOAC)，或曰国际人道主义法(IHL)的训练课程，你的国际发展援助工程组织的教员会提及它。&lt;br/&gt;&lt;br/&gt;认真听讲!这一话题的内容对战争十分重要，特别是在当今复杂的战场形势下。</Chinesesimp>
+          <Chinesesimp>作为你在阿尔蒂斯武装力量标准步兵训练中的一部分，你正在参加武装冲突法则(LOAC)，或曰国际人道主义法（IHL）的训练课程，你的国际发展援助工程组织的教员会提及它。&lt;br/&gt;&lt;br/&gt;认真听讲!这一话题的内容对战争十分重要，特别是在当今复杂的战场形势下。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_showcase_lawsofwar_diary_signal">
           <Original>IDAP - International Development &amp;amp; Aid Project (civilian NGO)</Original>
           <Chinese>囯發援-國際發展&amp;amp;援助項目(平民 NGO)</Chinese>
-          <Chinesesimp>国发援-国际发展&amp;amp;援助项目(平民 NGO)</Chinesesimp>
+          <Chinesesimp>国发援-国际发展&amp;amp;援助项目（平民 NGO）</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_showcase_lawsofwar_diary_mission">
           <Original>Receive instruction on International Humanitarian Law through presentations and VR simulations.</Original>
@@ -1579,7 +1579,7 @@
           <Key ID="str_a3_showcase_lawsofwar_013_hub_hints_instructor_7">
             <Original>Our 'Mines' simulation is all about ERW. Explosive Remnants of War.</Original>
             <Chinese>我們的"地雷"模擬主要是關於ERW——戰爭殘留爆炸物的。</Chinese>
-            <Chinesesimp>我们的"地雷"模拟主要是关于ERW——战争残留爆炸物的。</Chinesesimp>
+            <Chinesesimp>我们的"地雷"模拟主要是关于 ERW——战争残留爆炸物的。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_lawsofwar_013_hub_hints_instructor_8">
             <Original>The 'Strikes' VR sim shows you how various means of war may have unexpected consequences.</Original>
@@ -2239,7 +2239,7 @@
           <Key ID="str_a3_faction_idap_011_land_expo_0">
             <Original>Designed for cross-country travel, the MB 4x4 jeep is a popular choice for workers in the field.</Original>
             <Chinese>用於越野旅行的MB四驅吉普車是野外工作者的熱門選擇。</Chinese>
-            <Chinesesimp>用于越野旅行的MB四驱吉普车是野外工作者的热门选择。</Chinesesimp>
+            <Chinesesimp>用于越野旅行的 MB 四驱吉普车是野外工作者的热门选择。</Chinesesimp>
           </Key>
           <Key ID="str_a3_faction_idap_011_land_expo_1">
             <Original>The Offroad is a reliable, light-duty truck, which can traverse difficult terrain.</Original>
@@ -2327,7 +2327,7 @@
           <Key ID="str_a3_faction_idap_007_idap_expo_0">
             <Original>The International Development &amp;amp; Aid Project - or, IDAP, for short - is one of the world's largest non-governmental organizations.</Original>
             <Chinese>國際發展&amp;amp;援助工程——縮寫為國發援(IDAP)，是世界上最大的非政府組織之一。</Chinese>
-            <Chinesesimp>国际发展&amp;amp;援助工程——缩写为国发援(IDAP)，是世界上最大的非政府组织之一。</Chinesesimp>
+            <Chinesesimp>国际发展&amp;amp;援助工程——缩写为国发援（IDAP），是世界上最大的非政府组织之一。</Chinesesimp>
           </Key>
           <Key ID="str_a3_faction_idap_007_idap_expo_1">
             <Original>Each year, we provide specialist assistance to over sixty million people, in fifty different countries.</Original>
@@ -2403,7 +2403,7 @@
         <Key ID="str_a3_orange_faction_idap_cfgleaflets_ihl">
           <Original>INTRODUCTION: INTERNATIONAL HUMANITARIAN LAW&lt;br /&gt;&lt;br /&gt;What is International Humanitarian Law?&lt;br /&gt;&lt;br /&gt;"War is cruel and you cannot refine it." - William Tecumseh Sherman&lt;br /&gt;&lt;br /&gt;International Humanitarian Law (IHL) restricts and regulates the conduct of war, protecting those that are not participating in hostilities. This includes defenseless combatants - individuals who are either in the power of an adverse party, injured, sick, shipwrecked, unconscious, or expressing a clear intention to surrender.&lt;br /&gt;&lt;br /&gt;It encompass the Geneva and Hague Conventions, as well as many subsequent treaties, case law, and customary international law. More generally, it is designed to mitigate human suffering and balance humanitarian concerns with military necessity, subjecting warfare to the rule of law by limiting its destructive nature.</Original>
           <Chinese>介紹:國際人道主義法&lt;br/&gt;&lt;br/&gt;《國際人道主義法》是什麼?&lt;br/&gt;&lt;br/&gt;"戰爭是殘酷的，而你不可能修正它。"——威廉·特庫賽·謝爾曼&lt;br/&gt;&lt;br/&gt;《國際人道主義法》(IHL)限制並規範戰爭的進行，保護不參加敵對戰鬥的人們。這包括無力自衛的戰鬥人員——這些從屬於敵對戰鬥集團的人員要麼受傷、患病、遭遇海難、神志不清，要麼表達出明確的投降意圖。&lt;br/&gt;&lt;br/&gt;該法以《日內瓦公約》和《海牙公約》及一些後續條約和案例法及國際慣常法為指導。更一般性而言，其被用於避免人們遭受苦難，並在人道主義考慮和軍事必要性間選擇平衡點，通過限制戰爭的破壞性本質控制戰爭。</Chinese>
-          <Chinesesimp>介绍:国际人道主义法&lt;br/&gt;&lt;br/&gt;《国际人道主义法》是什么?&lt;br/&gt;&lt;br/&gt;"战争是残酷的，而你不可能修正它。"——威廉·特库赛·谢尔曼&lt;br/&gt;&lt;br/&gt;《国际人道主义法》(IHL)限制并规范战争的进行，保护不参加敌对战斗的人们。这包括无力自卫的战斗人员——这些从属于敌对战斗集团的人员要么受伤、患病、遭遇海难、神志不清，要么表达出明确的投降意图。&lt;br/&gt;&lt;br/&gt;该法以《日内瓦公约》和《海牙公约》及一些后续条约和案例法及国际惯常法为指导。更一般性而言，其被用于避免人们遭受苦难，并在人道主义考虑和军事必要性间选择平衡点，通过限制战争的破坏性本质控制战争。</Chinesesimp>
+          <Chinesesimp>介绍:国际人道主义法&lt;br/&gt;&lt;br/&gt;《国际人道主义法》是什么?&lt;br/&gt;&lt;br/&gt;"战争是残酷的，而你不可能修正它。"——威廉·特库赛·谢尔曼&lt;br/&gt;&lt;br/&gt;《国际人道主义法》（IHL）限制并规范战争的进行，保护不参加敌对战斗的人们。这包括无力自卫的战斗人员——这些从属于敌对战斗集团的人员要么受伤、患病、遭遇海难、神志不清，要么表达出明确的投降意图。&lt;br/&gt;&lt;br/&gt;该法以《日内瓦公约》和《海牙公约》及一些后续条约和案例法及国际惯常法为指导。更一般性而言，其被用于避免人们遭受苦难，并在人道主义考虑和军事必要性间选择平衡点，通过限制战争的破坏性本质控制战争。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_faction_idap_cfgleaflets_showcase_low">
           <Original>DISCOVER THE LAWS OF WAR IN A VERY DIFFERENT REALITY!</Original>
@@ -2901,7 +2901,7 @@
           <Key ID="str_a3_orange_hub_hiker_fragments_006_mem_peace_talks_journalist_0">
             <Original>At AAN?</Original>
             <Chinese>在AAN?</Chinese>
-            <Chinesesimp>在AAN?</Chinesesimp>
+            <Chinesesimp>在 AAN?</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_hub_hiker_fragments_006_mem_peace_talks_eod_3">
             <Original>Really? That ex-guerrilla? Hell, Colonel Akhanteros' days really must be numbered.</Original>
@@ -3570,7 +3570,7 @@
         <Key ID="str_a3_orange_minedispenser_bis_mines_title">
           <Original>(Disperse Mines)</Original>
           <Chinese>(布撒地雷)</Chinese>
-          <Chinesesimp>(布撒地雷)</Chinesesimp>
+          <Chinesesimp>（布撒地雷）</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_minedispenser_bis_mines_description">
           <Original>Use mine dispensers to cover the church grounds with anti-personnel mines.</Original>
@@ -3580,7 +3580,7 @@
         <Key ID="str_a3_orange_minedispenser_bis_major_title">
           <Original>(Protect The Major)</Original>
           <Chinese>(保護少校)</Chinese>
-          <Chinesesimp>(保护少校)</Chinesesimp>
+          <Chinesesimp>（保护少校）</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_minedispenser_bis_major_description">
           <Original>Protect Major Gavras at all costs.</Original>
@@ -5638,7 +5638,7 @@
         <Key ID="str_a3_orange_escape_cfgtaskdescriptions_bis_fight_description">
           <Original>You have a weapon! Take a stand with other guerrillas against the AAF soldiers!</Original>
           <Chinese>你有了武器!和其他游擊隊員一起戰鬥，對抗阿爾蒂斯武裝力量士兵!</Chinese>
-          <Chinesesimp>你有了武器!和其他游击队员一起战斗，对抗AAF士兵!</Chinesesimp>
+          <Chinesesimp>你有了武器!和其他游击队员一起战斗，对抗 AAF 士兵!</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_escape_cfgtaskdescriptions_bis_church_title">
           <Original>Get to Church</Original>
@@ -6115,7 +6115,7 @@
         <Key ID="str_a3_orange_cluster_cfgtaskdescriptions_bis_clusteridapworker_title">
           <Original>(Don't Kill IDAP Worker!)</Original>
           <Chinese>(別殺害國發援工作者!)</Chinese>
-          <Chinesesimp>(别杀害国发援工作者!)</Chinesesimp>
+          <Chinesesimp>（别杀害国发援工作者!）</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_cluster_cfgtaskdescriptions_bis_clusteridapworker_description">
           <Original>It seems an IDAP doctor is operating in the town at this moment. Is he an acceptable casualty? You may wait to see if he returns back to the IDAP camp.</Original>
@@ -6140,7 +6140,7 @@
         <Key ID="str_a3_orange_cluster_cfgtaskdescriptions_bis_cluster_description2">
           <Original>An AAF bomber will arrive from the east and drop a single cluster bomb at the designated position. It has a significant spread, so make sure to point at a location which will cover the most targets.</Original>
           <Chinese>一架阿爾蒂斯武裝力量轟炸機將從東側抵達並向指定位置投下一枚集束炸彈。它的覆蓋範圍很大，所以注意指示的位置能覆蓋大部分目標。</Chinese>
-          <Chinesesimp>一架AAF轰炸机将从东侧抵达并向指定位置投下一枚集束炸弹。它的覆盖范围很大，所以注意指示的位置能覆盖大部分目标。</Chinesesimp>
+          <Chinesesimp>一架 AAF 轰炸机将从东侧抵达并向指定位置投下一枚集束炸弹。它的覆盖范围很大，所以注意指示的位置能覆盖大部分目标。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_cluster_cfgtaskdescriptions_bis_cluster_description1">
           <Original>Call an air strike on the town</Original>
@@ -6165,7 +6165,7 @@
         <Key ID="str_a3_orange_cluster_cfgtaskdescriptions_bis_alarm_title">
           <Original>(Remain Unseen)</Original>
           <Chinese>(保持不被發現)</Chinese>
-          <Chinesesimp>(保持不被发现)</Chinesesimp>
+          <Chinesesimp>（保持不被发现）</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_cluster_cfgtaskdescriptions_bis_alarm_description">
           <Original>If an enemy spots you, neutralize him before he can warn the others.</Original>
@@ -6745,7 +6745,7 @@
         <Key ID="str_a3_orange_airdrop_cfgtaskdescriptions_bis_smoke_title">
           <Original>(Throw Orange Smoke)</Original>
           <Chinese>(扔橙色煙霧彈)</Chinese>
-          <Chinesesimp>(扔橙色烟雾弹)</Chinesesimp>
+          <Chinesesimp>（扔橙色烟雾弹）</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_airdrop_cfgtaskdescriptions_bis_smoke_description">
           <Original>Mark the drop zone with orange smoke, so the pilot can spot it more easily.</Original>
@@ -7577,7 +7577,7 @@
         <Key ID="str_a3_orange_leaflets_cfgtaskdescriptions_bis_placeminesnearat_title">
           <Original>(Place AP Mines near AT Mines)</Original>
           <Chinese>(在反坦克地雷旁邊布設反人員地雷)</Chinese>
-          <Chinesesimp>(在反坦克地雷旁边布设反人员地雷)</Chinesesimp>
+          <Chinesesimp>（在反坦克地雷旁边布设反人员地雷）</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_leaflets_cfgtaskdescriptions_bis_placeminesnearat_description">
           <Original>Make sure your AP mines are within a meter or two of already placed AT mines. That should protect them from army engineers.</Original>
@@ -7597,7 +7597,7 @@
         <Key ID="str_a3_orange_leaflets_cfgtaskdescriptions_bis_placemines_description1">
           <Original>There already are some anti-personnel (AP) and anti-tank (AT) mines there. Be careful when walking around them!</Original>
           <Chinese>那裡已經部署了反人員(AP)和反坦克(AT)地雷了。小心繞過他們!</Chinese>
-          <Chinesesimp>那里已经部署了反人员(AP)和反坦克(AT)地雷了。小心绕过他们!</Chinesesimp>
+          <Chinesesimp>那里已经部署了反人员(AP)和反坦克（AT）地雷了。小心绕过他们!</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_leaflets_cfgtaskdescriptions_bis_leaflet_title">
           <Original>Investigate Leaflet</Original>
@@ -7632,7 +7632,7 @@
         <Key ID="str_a3_orange_leaflets_cfgtaskdescriptions_bis_barricadesuv_title">
           <Original>Use SUV</Original>
           <Chinese>使用SUV</Chinese>
-          <Chinesesimp>使用SUV</Chinesesimp>
+          <Chinesesimp>使用 SUV</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_leaflets_cfgtaskdescriptions_bis_barricadehatchback_title">
           <Original>Use Hatchback</Original>
@@ -8530,7 +8530,7 @@
           <Key ID="str_a3_orange_leaflets_002_ap_hub_intro_journalist_1">
             <Original>I can hear an echo.</Original>
             <Chinese>我能聽到回聲。</Chinese>
-            <Chinesesimp>我能听到Echo。</Chinesesimp>
+            <Chinesesimp>我能听到 Echo。</Chinesesimp>
           </Key>
         </Container>
         <Container name="001_ex_blocked" audioFilePath="\a3\dubbing_f_orange\orange_leaflets" dialogName="001_ex_blocked" dubbingLanguage="english" namePrefix="orange_leaflets_001_ex_blocked" note="" participants="Orange_eod;Orange_driver;" situation="the mission trigger is not yet accessible to the player. he should come back later. last line will be repeated in variant texts.">

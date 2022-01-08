@@ -90,7 +90,7 @@
       <Key ID="STR_A3_ModDependency2">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus5_ca.paa' /&gt;%1Mod dependencies are the integration of %3clear%4 and %3automated connections%4 between %3mods%4 in the Launcher. This feature consists of:%1%2Dependency settings on Steam Workshop%1%2Launcher's ability to recognize and work with dependencies%1%2Automated repair of missing dependencies</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus5_ca.paa'/&gt;%1模組關聯這功能能%3簡單%4且%3自動%4連接%3模組%4與啟動器。此功能包含以下特色:%1%2同步Steam工作坊上的設定%1%2啟動器能辨別並與模組產生連接%1%2自動維修消失的關聯</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus5_ca.paa'/&gt;%1模组关联这功能能%3简单%4且%3自动%4连接%3模组%4与启动器。此功能包含以下特色:%1%2同步Steam工作坊上的设定%1%2启动器能辨别并与模组产生连接%1%2自动维修消失的关联</Chinesesimp>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus5_ca.paa'/&gt;%1模组关联这功能能%3简单%4且%3自动%4连接%3模组%4与启动器。此功能包含以下特色:%1%2同步 Steam 工作坊上的设定%1%2启动器能辨别并与模组产生连接%1%2自动维修消失的关联</Chinesesimp>
       </Key>
       <Key ID="STR_A3_NexusUpdate">
         <Original>Nexus Update</Original>
@@ -100,7 +100,7 @@
       <Key ID="STR_A3_ModDependency3">
         <Original>The current implementation only works for mods downloaded from Steam Workshop.</Original>
         <Chinese>目前功能只能實施從Steam工作坊上下載模組。</Chinese>
-        <Chinesesimp>目前功能只能实施从Steam创意工坊上下载模组。</Chinesesimp>
+        <Chinesesimp>目前功能只能实施从 Steam 创意工坊上下载模组。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Nexus1">
         <Original>Nexus Update</Original>
@@ -212,12 +212,12 @@
       <Key ID="STR_A3_Spectator_Phase2">
         <Original>PHASE II</Original>
         <Chinese>階段II</Chinese>
-        <Chinesesimp>阶段II</Chinesesimp>
+        <Chinesesimp>阶段 II</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Spectator_Phase3">
         <Original>PHASE III</Original>
         <Chinese>階段III</Chinese>
-        <Chinesesimp>阶段III</Chinesesimp>
+        <Chinesesimp>阶段 III</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Spectator_Briefing_FreeCamera">
         <Original>FREE CAMERA - The free camera can be used to move freely through the world.</Original>
@@ -262,7 +262,7 @@
       <Key ID="STR_A3_Spectator_Briefing_1ppCamera">
         <Original>1PP CAMERA - The first person camera allows you to see the world through the eyes of a Player or AI unit. This camera can only be selected if you have a focused unit.</Original>
         <Chinese>第一人稱攝影機-此攝影機能讓你透過玩家或AI單位的眼睛看出去。此功能只能在你已選定一個單位時啟用。</Chinese>
-        <Chinesesimp>第一人称摄影机-此摄影机能让你通过玩家或AI单位的眼睛看出去。此功能只能在你已选定一个单位时启用。</Chinesesimp>
+        <Chinesesimp>第一人称摄影机-此摄影机能让你通过玩家或 AI 单位的眼睛看出去。此功能只能在你已选定一个单位时启用。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Sectator_HeadToHead_Uploading">
         <Original>UPLOADING</Original>
@@ -287,12 +287,12 @@
       <Key ID="STR_A3_Spectator_Eden_AllowAi_Name">
         <Original>Allow AI</Original>
         <Chinese>允許觀察AI</Chinese>
-        <Chinesesimp>允许观察AI</Chinesesimp>
+        <Chinesesimp>允许观察 AI</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Spectator_Eden_AllowAi_Tooltip">
         <Original>Whether this spectator will be able to spectate AI units</Original>
         <Chinese>設定觀察者是否能觀察AI單位</Chinese>
-        <Chinesesimp>设定观察者是否能观察AI单位</Chinesesimp>
+        <Chinesesimp>设定观察者是否能观察 AI 单位</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Spectator_Eden_AllowFreeCamera">
         <Original>Allow Free Camera</Original>
@@ -342,7 +342,7 @@
       <Key ID="STR_A3_Spectator_FieldManual_Description_05">
         <Original>%1%2Move the camera with %3[W]%4, %3[A]%4, %3[S]%4, %3[D]%4, %3[Q]%4 and %3[Z]%4.%1%2Press and hold %3[RMB]%4 to look around.%1%2Hold %3Shift%4, %3Alt%4 or %3Shift + Alt%4 for camera speed modifiers (2x, 4x, 8x).</Original>
         <Chinese>%1%2使用%3[W]%4，%3[A]%4，%3[S]%4，%3[D]%4，%3[Q]%4和%3[Z]%4來移動攝影機。%1%2按住%3[RMB]%4來觀察四周。%1%按住%3Shift%4，%3Alt%4或%3Shift+Alt%4來調整攝影機的移動速度(2倍，4倍，8倍)。</Chinese>
-        <Chinesesimp>%1%2使用%3[W]%4，%3[A]%4，%3[S]%4，%3[D]%4，%3[Q]%4和%3[Z]%4来移动摄影机。%1%2按住%3[鼠标右键]%4来观察四周。%1%按住%3Shift%4，%3Alt%4或%3Shift+Alt%4来调整摄影机的移动速度(2倍，4倍，8倍)。</Chinesesimp>
+        <Chinesesimp>%1%2使用%3[W]%4，%3[A]%4，%3[S]%4，%3[D]%4，%3[Q]%4和%3[Z]%4来移动摄影机。%1%2按住%3[鼠标右键]%4来观察四周。%1%按住%3Shift%4，%3Alt%4或%3Shift+Alt%4来调整摄影机的移动速度（2倍，4倍，8倍）。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Spectator_FieldManual_Title_01">
         <Original>Spectator</Original>
@@ -426,7 +426,7 @@
           <Key ID="str_a3_cfgvehicles_land_vr_slope_01_f0">
             <Original>VR Slope (10x5x4)</Original>
             <Chinese>虛擬實境斜坡(10x5x4)</Chinese>
-            <Chinesesimp>虚拟实境斜坡(10x5x4)</Chinesesimp>
+            <Chinesesimp>虚拟实境斜坡（10x5x4）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -501,7 +501,7 @@
       <Key ID="str_a3_rscdisplaywelcome_port_parb_list2">
         <Original>The ports technically support mulitplayer connections with the Windows version. However, the server and clients need to be the same version.</Original>
         <Chinese>此實驗版能與Windows版本的玩家進行連線。但是伺服器與用戶端的遊戲版本必須是一樣的。</Chinese>
-        <Chinesesimp>此实验版能与Windows版本的玩家进行连线。但是服务器与用户端的游戏版本必须是一样的。</Chinesesimp>
+        <Chinesesimp>此实验版能与 Windows 版本的玩家进行连线。但是服务器与用户端的游戏版本必须是一样的。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_port_parb_list1_title">
         <Original>Restricted update cycle</Original>
@@ -511,7 +511,7 @@
       <Key ID="str_a3_rscdisplaywelcome_port_parb_list1">
         <Original>We're not sure how often this port will be updated, but it will not likely ever be updated at the same time as the primary Windows version.</Original>
         <Chinese>我們並不能確定此版本會多常更新，至少不會與Windows的主要版本同步。</Chinese>
-        <Chinesesimp>我们并不能确定此版本会多常更新，至少不会与Windows的主要版本同步。</Chinesesimp>
+        <Chinesesimp>我们并不能确定此版本会多常更新，至少不会与 Windows 的主要版本同步。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_port_parb_footer2">
         <Original>Thank you for supporting the port beta. Please let us know about any issues on the &lt;a href='%2' color='%1'&gt;Feedback Tracker&lt;/a&gt;. Enjoy the game!</Original>
@@ -531,7 +531,7 @@
       <Key ID="str_a3_rscdisplaywelcome_port_para">
         <Original>We're happy to welcome you to the Linux and Mac platforms! Our friends at &lt;a href='%2' color='%1'&gt;Virtual Programming&lt;/a&gt; have worked with us to create this experimental client port beta as a courtesy to anyone who owns the game for Windows.</Original>
         <Chinese>歡迎你使用Linux和Mac來遊玩本遊戲!我們的朋友幫助我們進行&lt;ahref='%2'color='%1'&gt;虛擬編成&lt;/a&gt;，最終推出了這個實驗性的版本給任何已經擁有本作的玩家們。</Chinese>
-        <Chinesesimp>欢迎你使用Linux和Mac来游玩本游戏!我们的朋友帮助我们进行&lt;ahref='%2'color='%1'&gt;虚拟编程&lt;/a&gt;，最终推出了这个实验性的版本给任何已经拥有本作的玩家们。</Chinesesimp>
+        <Chinesesimp>欢迎你使用 Linux 和 Mac 来游玩本游戏!我们的朋友帮助我们进行&lt;ahref='%2'color='%1'&gt;虚拟编程&lt;/a&gt;，最终推出了这个实验性的版本给任何已经拥有本作的玩家们。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expa_pard_title">
         <Original>UNITS</Original>
@@ -641,7 +641,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expa_parc">
         <Original>Before rolling out new features for Apex, an in-depth evaluation of the game and its players revealed several aspects we wanted to improve and iterate on:</Original>
         <Chinese>在我們推出頂尖資料片前，我們將先加入以下特色:</Chinese>
-        <Chinesesimp>在我们推出Apex DLC前，我们将先加入以下特色:</Chinesesimp>
+        <Chinesesimp>在我们推出 Apex DLC 前，我们将先加入以下特色:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expa_parb_title">
         <Original>NEXUS UPDATE_</Original>
@@ -711,7 +711,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expa_para">
         <Original>It's great to be able to welcome you to this major platform update and stepping-stone to the Arma 3 Apex expansion. After a series of regular updates, we've focused with Nexus on enhancing core gameplay features, systems and content. We'll take you on a tour of new multiplayer additions, feature iterations and the launch of a web service to connect players and communities.</Original>
         <Chinese>歡迎來到此次更新，這次更新是我們與武裝突襲3頂尖資料片間的一個重要里程碑。經過一連串的更新，我們讓樞紐更新更專注在提升核心遊戲特色，系統和內容。我們將帶你認識新的多人遊戲模式與新推出的網頁功能。</Chinese>
-        <Chinesesimp>欢迎来到此次更新，这次更新是我们与武装突袭3 Apex DLC间的一个重要里程碑。经过一连串的更新，我们让枢纽更新更专注在提升核心游戏特色，系统和内容。我们将带你认识新的多人游戏模式与新推出的网页功能。</Chinesesimp>
+        <Chinesesimp>欢迎来到此次更新，这次更新是我们与武装突袭3 Apex DLC 间的一个重要里程碑。经过一连串的更新，我们让枢纽更新更专注在提升核心游戏特色，系统和内容。我们将带你认识新的多人游戏模式与新推出的网页功能。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Functions_F">
@@ -759,7 +759,7 @@
         <Key ID="str_a3_cfgrespawntemplates_endmission_displayname">
           <Original>Mission fail when everyone is dead</Original>
           <Chinese>任務將在所有人陣亡時結束(失敗)</Chinese>
-          <Chinesesimp>任务将在所有人阵亡时结束(失败)</Chinesesimp>
+          <Chinesesimp>任务将在所有人阵亡时结束（失败）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgrespawntemplates_counter_displayname">
           <Original>Show respawn counter</Original>

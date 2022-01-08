@@ -31,7 +31,7 @@
         <Key ID="str_a3_cfghints_curator_wpplace_description">
           <Original>When a group (or its member) is selected, you can give it waypoints. They can be created anywhere on the map, no matter where the editing area is.%1%2 Click %3[RMB]%4 to place a waypoint (it will replace all existing waypoints).%1%2 Hold %11 while clicking to add a new waypoint, preserving the existing ones.%1%1Type is based on what you clicked on:%1%2&lt;img image='%12' color='%13' /&gt; MOVE having clicked on an empty space%1%2&lt;img image='%14' color='%15' /&gt; GET IN having clicked on a vehicle%1%2&lt;img image='%16' color='%17' /&gt; DESTROY having clicked on an enemy%1%2&lt;img image='%18' color='%13' /&gt; CYCLE when %20 is held - upon reaching it, the unit will repeat the waypoints from the first one.</Original>
           <Chinese>當小隊(或是它的成員)被選擇時，你可以幫其放置路徑點。路徑點可以被放置在地圖上的任何地方，不會被編輯區域所限制。%1%2點擊%3[滑鼠右鍵]%4來放置路徑點(它將會取代已有的所有路徑點)。%1%2按住%11在點擊，則是會新增路徑點，已有的路徑點會被保留下來。%1%1根據點擊的目標而有不同的功能:%1%2&lt;imgimage='%12'color='%13'/&gt;移動到該點上%1%2&lt;imgimage='%14'color='%15'/&gt;進入到該載具%1%2&lt;imgimage='%16'color='%17'/&gt;攻擊被指定的目標%1%2&lt;imgimage='%18'color='%13'/&gt;按住%20在點擊，即可新增循環點，當單位到達該點，將會重新從第一個路徑點開使執行。</Chinese>
-          <Chinesesimp>当小队(或是它的成员)被选择时，你可以帮其放置路径点。路径点可以被放置在地图上的任何地方，不会被编辑区域所限制。%1%2点击%3[鼠标右键]%4来放置路径点(它将会取代已有的所有路径点)。%1%2按住%11在点击，则是会新增路径点，已有的路径点会被保留下来。%1%1根据点击的目标而有不同的功能:%1%2&lt;imgimage='%12'color='%13'/&gt;移动到该点上%1%2&lt;imgimage='%14'color='%15'/&gt;进入到该载具%1%2&lt;imgimage='%16'color='%17'/&gt;攻击被指定的目标%1%2&lt;imgimage='%18'color='%13'/&gt;按住%20在点击，即可新增循环点，当单位到达该点，将会重新从第一个路径点开始执行。</Chinesesimp>
+          <Chinesesimp>当小队(或是它的成员)被选择时，你可以帮其放置路径点。路径点可以被放置在地图上的任何地方，不会被编辑区域所限制。%1%2点击%3[鼠标右键]%4来放置路径点（它将会取代已有的所有路径点）。%1%2按住%11在点击，则是会新增路径点，已有的路径点会被保留下来。%1%1根据点击的目标而有不同的功能:%1%2&lt;imgimage='%12'color='%13'/&gt;移动到该点上%1%2&lt;imgimage='%14'color='%15'/&gt;进入到该载具%1%2&lt;imgimage='%16'color='%17'/&gt;攻击被指定的目标%1%2&lt;imgimage='%18'color='%13'/&gt;按住%20在点击，即可新增循环点，当单位到达该点，将会重新从第一个路径点开始执行。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_remotecontrol_tip">
           <Original>****TO TRANSLATE****</Original>
@@ -136,7 +136,7 @@
         <Key ID="str_a3_cfghints_curator_interface_description">
           <Original>The Zeus interface provides additional features for simplified control over the scenario:%1%2Press %11 to show your briefing and tasks.%1%2Press %12 to toggle between vision modes (when available).%1%2Press %13 to toggle the clock.%1%2Press %14 to toggle the compass.%1%2Press %15 to toggle the interface.</Original>
           <Chinese>宙斯編輯介面提供了一些簡單的功能與操作:%1%2按下%11來顯示簡報與任務。%1%2按下%12來切換攝影機的視覺模式(當可用時)。%1%2按下%13來切換出手錶。%1%2按下%14來切換出指北針。%1%2按下%15來切換編輯介面。</Chinese>
-          <Chinesesimp>宙斯编辑界面另外提供了功能已简化对剧本的控制:%1%2按下%11来显示简报与任务。%1%2按下%12来切换摄影机的视觉模式(当可用时)。%1%2按下%13来切换出手表。%1%2按下%14来切换出指北针。%1%2按下%15来切换编辑界面。</Chinesesimp>
+          <Chinesesimp>宙斯编辑界面另外提供了功能已简化对剧本的控制:%1%2按下%11来显示简报与任务。%1%2按下%12来切换摄影机的视觉模式（当可用时）。%1%2按下%13来切换出手表。%1%2按下%14来切换出指北针。%1%2按下%15来切换编辑界面。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_entityselect_tip">
           <Original>****TO TRANSLATE****</Original>
@@ -151,7 +151,7 @@
         <Key ID="str_a3_cfghints_curator_entityselect_description">
           <Original>Select an entity by clicking %3[LMB]%4 on its icon or name in the entity list.%1%2 Hold %11 to select add / remove the entity from selection.%1%2 Hold %12 to select multiple entities (works only in the list).%1%2 Click and drag %3[LMB]%4 to select multiple entities in the frame.&lt;br /&gt;&lt;br /&gt;While all entities can be selected, not all of them can be edited:%1&lt;img image='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_object_ca.paa' size='1.5' shadow='0' /&gt; Normal object, can be edited%1&lt;img image='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDestroyed_ca.paa' size='1.5' shadow='0' /&gt; Destroyed object, can be edited%1&lt;img image='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDisabled_ca.paa' size='1.5' shadow='0' /&gt; Not in the editing area, cannot be edited%1&lt;img image='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectPlayer_ca.paa' size='1.5' shadow='0' /&gt; Player, cannot be edited%1&lt;img image='%13' size='1.5' shadow='0' /&gt; Waypoint, can always be edited</Original>
           <Chinese>使用%3[滑鼠左鍵]%4點擊單位的圖示，或清單上的名字來選擇他。%1%2按住%11來選擇多名單位。%1%2按住%12來選擇多名單位(只在清單中有效)。%1%2使用%3[滑鼠左鍵]%4點擊並拖曳，即可選擇拖曳出範圍內的所有單位。&lt;br/&gt;&lt;br/&gt;雖然所有的單位都可以被選擇，但並不是所有的單位都可以被編輯:%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_object_ca.paa'size='1。5'shadow='0'/&gt;普通的單位，可以被編輯%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDestroyed_ca.paa'size='1。5'shadow='0'/&gt;已經被摧毀的單位，可以被編輯%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDisabled_ca.paa'size='1。5'shadow='0'/&gt;不在編輯範圍內的單位，不能被編輯%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectPlayer_ca.paa'size='1。5'shadow='0'/&gt;玩家，不能被編輯%1&lt;imgimage='%13'size='1。5'shadow='0'/&gt;路徑點，可以被編輯</Chinese>
-          <Chinesesimp>使用%3[鼠标左键]%4点击单位的图示，或清单上的名字来选择它。%1%2按住%11来选择多名单位。%1%2按住%12来选择多名单位(只在清单中有效)。%1%2使用%3[鼠标左键]%4点击并拖拽，即可选择拖拽出范围内的所有单位。&lt;br/&gt;&lt;br/&gt;虽然所有的单位都可以被选择，但并不是所有的单位都可以被编辑:%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_object_ca.paa'size='1。5'shadow='0'/&gt;普通的单位，可以被编辑%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDestroyed_ca.paa'size='1。5'shadow='0'/&gt;已经被摧毁的单位，可以被编辑%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDisabled_ca.paa'size='1。5'shadow='0'/&gt;不在编辑范围内的单位，不能被编辑%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectPlayer_ca.paa'size='1。5'shadow='0'/&gt;玩家，不能被编辑%1&lt;imgimage='%13'size='1。5'shadow='0'/&gt;路径点，可以被编辑</Chinesesimp>
+          <Chinesesimp>使用%3[鼠标左键]%4点击单位的图示，或清单上的名字来选择它。%1%2按住%11来选择多名单位。%1%2按住%12来选择多名单位（只在清单中有效）。%1%2使用%3[鼠标左键]%4点击并拖拽，即可选择拖拽出范围内的所有单位。&lt;br/&gt;&lt;br/&gt;虽然所有的单位都可以被选择，但并不是所有的单位都可以被编辑:%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_object_ca.paa'size='1。5'shadow='0'/&gt;普通的单位，可以被编辑%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDestroyed_ca.paa'size='1。5'shadow='0'/&gt;已经被摧毁的单位，可以被编辑%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDisabled_ca.paa'size='1。5'shadow='0'/&gt;不在编辑范围内的单位，不能被编辑%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectPlayer_ca.paa'size='1。5'shadow='0'/&gt;玩家，不能被编辑%1&lt;imgimage='%13'size='1。5'shadow='0'/&gt;路径点，可以被编辑</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_entityplace_tip">
           <Original>****TO TRANSLATE****</Original>
@@ -166,7 +166,7 @@
         <Key ID="str_a3_cfghints_curator_entityplace_description">
           <Original>Zeus can place new entities in the scene:%1%2Select editing mode%1 %2&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa' size='1.0' shadow='0' /&gt; - Objects (soldier, vehicles and objects, can be placed only in the editing area)%1 %2&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa' size='1.0' shadow='0' /&gt; - Groups of objects%1 %2&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa' size='1.0' shadow='0' /&gt; - Modules (systems like artillery strikes, respawn points, weather settings, ...). Can usually be placed anywhere.%1 %2&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_markers_ca.paa' size='1.0' shadow='0' /&gt; - Markers (visible to every player, can be placed anywhere for free)%1%2Pick a side (&lt;img image='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_west_ca.paa' size='1.0' shadow='0' %6 /&gt;&lt;img image='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_east_ca.paa' size='1.0' shadow='0' %7 /&gt;&lt;img image='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_guer_ca.paa' size='1.0' shadow='0' %8 /&gt;&lt;img image='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_civ_ca.paa' size='1.0' shadow='0' %9 /&gt;&lt;img image='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_unknown_ca.paa' size='1.0' shadow='0' %10 /&gt;).%1%2Select an entity to place.%1%2Click %3[LMB]%4 on the ground to place the entity.%1%2Hold %11 while clicking %3[LMB]%4 to continue with placement afterwards.&lt;br /&gt;&lt;br /&gt;Object cost is previewed on the resources bar at the top of the screen. Entities which are too expensive are greyed out and cannot be placed.</Original>
           <Chinese>宙斯可以擺放新的單位:%1%2切換到編輯介面%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa'size='1。0'shadow='0'/&gt;-物件(士兵，載具與物件，可以被放置在編輯區域內)%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa'size='1。0'shadow='0'/&gt;-群組物件%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa'size='1。0'shadow='0'/&gt;-模塊(像是火力支援，重生點，天氣設定等等...)。可以被擺放在任何地方。%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_markers_ca.paa'size='1。0'shadow='0'/&gt;-標誌(可以被所有玩家看見，可以擺放在地圖上的任何地方，它是免費的)%1%2挑選陣營(&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_west_ca.paa'size='1。0'shadow='0'%6/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_east_ca.paa'size='1。0'shadow='0'%7/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_guer_ca.paa'size='1。0'shadow='0'%8/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_civ_ca.paa'size='1。0'shadow='0'%9/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_unknown_ca.paa'size='1。0'shadow='0'%10/&gt;)。%1%2選擇一個單位來放置。%1%2按下%3滑鼠左鍵]%4即可擺放該單位在點擊的位置上。%1%2按住%11在點擊%3[滑鼠左鍵]%4，即可連續新增多名單位。&lt;br/&gt;&lt;br/&gt;單位會消費的點數會預先顯示在畫面上方的資源條。點數不夠則無法擺放該單位。</Chinese>
-          <Chinesesimp>宙斯可以摆放新的单位:%1%2切换到编辑界面%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa'size='1。0'shadow='0'/&gt;-物件(士兵，载具与物件，可以被放置在编辑区域内)%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa'size='1。0'shadow='0'/&gt;-群组物件%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa'size='1。0'shadow='0'/&gt;-模块(像是火力支援，重生点，天气设定等等...)。可以被摆放在任何地方。%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_markers_ca.paa'size='1。0'shadow='0'/&gt;-标志(可以被所有玩家看见，可以摆放在地图上的任何地方，它是免费的)%1%2挑选阵营(&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_west_ca.paa'size='1。0'shadow='0'%6/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_east_ca.paa'size='1。0'shadow='0'%7/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_guer_ca.paa'size='1。0'shadow='0'%8/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_civ_ca.paa'size='1。0'shadow='0'%9/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_unknown_ca.paa'size='1。0'shadow='0'%10/&gt;)。%1%2选择一个单位来放置。%1%2按下%3[鼠标左键]%4即可摆放该单位在点击的位置上。%1%2按住%11在点击%3[鼠标左键]%4，即可连续新增多名单位。&lt;br/&gt;&lt;br/&gt;单位会消费的点数会预先显示在画面上方的资源条。点数不够则无法摆放该单位。</Chinesesimp>
+          <Chinesesimp>宙斯可以摆放新的单位:%1%2切换到编辑界面%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa'size='1。0'shadow='0'/&gt;-物件(士兵，载具与物件，可以被放置在编辑区域内)%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa'size='1。0'shadow='0'/&gt;-群组物件%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa'size='1。0'shadow='0'/&gt;-模块(像是火力支援，重生点，天气设定等等...)。可以被摆放在任何地方。%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_markers_ca.paa'size='1。0'shadow='0'/&gt;-标志(可以被所有玩家看见，可以摆放在地图上的任何地方，它是免费的)%1%2挑选阵营（&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_west_ca.paa'size='1。0'shadow='0'%6/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_east_ca.paa'size='1。0'shadow='0'%7/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_guer_ca.paa'size='1。0'shadow='0'%8/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_civ_ca.paa'size='1。0'shadow='0'%9/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_unknown_ca.paa'size='1。0'shadow='0'%10/&gt;）。%1%2选择一个单位来放置。%1%2按下%3[鼠标左键]%4即可摆放该单位在点击的位置上。%1%2按住%11在点击%3[鼠标左键]%4，即可连续新增多名单位。&lt;br/&gt;&lt;br/&gt;单位会消费的点数会预先显示在画面上方的资源条。点数不够则无法摆放该单位。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_entityedit_tip">
           <Original>Soldiers and ground vehicles moved to a high altitude will parachute to the ground.</Original>
@@ -191,7 +191,7 @@
         <Key ID="str_a3_cfghints_curator_entityeditadvanced_displayname">
           <Original>Editing (Advanced)</Original>
           <Chinese>編輯(進階)</Chinese>
-          <Chinesesimp>编辑(进阶)</Chinesesimp>
+          <Chinesesimp>编辑（进阶）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_entityeditadvanced_description">
           <Original>Additional keys let you to further manipulate an entity:%1%2Press %11 to order soldiers in vehicles to get out.%1%2Press %12 to destroy objects.%1%2Press %13 to delete entities.%1Objects can be destroyed or deleted only when inside editing areas. Modules, waypoints and markers can be removed anywhere.</Original>
@@ -211,7 +211,7 @@
         <Key ID="str_a3_cfghints_curator_entityconnect_description">
           <Original>Hold %11, click %3[LMB]%4 on an object and drag the line.%1%2Release the button on another object to connect them together.%1%2Release the button over an empty space to disconnect objects.&lt;br /&gt;&lt;br /&gt;Two types of connection exist:%1%2&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa' size='1.5' shadow='0' /&gt;&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa' size='1.5' shadow='0' /&gt; Grouping - when Units or Groups modes are selected, you can group them together. Works only with AI units (e.g. soldiers or manned vehicles).%1%2&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa' size='1.5' shadow='0' /&gt; Syncing - when Modules mode is selected, objects are synchronized. Some modules may require synchronization to affected objects.</Original>
           <Chinese>按住%11並點擊%3[滑鼠左鍵]%4在單位上即可拖曳出一條線。%1%2在另一個單位上釋放他，即可讓這兩個物件連接上。%1%2在空曠的區域釋放，則會刪除已有的連接線。&lt;br/&gt;&lt;br/&gt;連接有兩種形式:%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa'size='1。5'shadow='0'/&gt;&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa'size='1。5'shadow='0'/&gt;群組-當你連接單位或一個小隊，你就可以讓他們組成一個小隊。這功能只能在AI控制的單位上運作。%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa'size='1。5'shadow='0'/&gt;同步-這可以讓單位與模塊做出同步線。有些模塊是需要連接上單位才會有作用的。</Chinese>
-          <Chinesesimp>按住%11并点击%3[鼠标左键]%4在单位上即可拖拽出一条线。%1%2在另一个单位上释放他，即可让这两个物件连接上。%1%2在空旷的区域释放，则会删除已有的连接线。&lt;br/&gt;&lt;br/&gt;连接有两种形式:%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa'size='1。5'shadow='0'/&gt;&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa'size='1。5'shadow='0'/&gt;群组-当你连接单位或一个小队，你就可以让他们组成一个小队。这功能只能在AI控制的单位上运作。%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa'size='1。5'shadow='0'/&gt;同步-这可以让单位与模块做出同步线。有些模块是需要连接上单位才会有作用的。</Chinesesimp>
+          <Chinesesimp>按住%11并点击%3[鼠标左键]%4在单位上即可拖拽出一条线。%1%2在另一个单位上释放他，即可让这两个物件连接上。%1%2在空旷的区域释放，则会删除已有的连接线。&lt;br/&gt;&lt;br/&gt;连接有两种形式:%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa'size='1。5'shadow='0'/&gt;&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa'size='1。5'shadow='0'/&gt;群组-当你连接单位或一个小队，你就可以让他们组成一个小队。这功能只能在 AI 控制的单位上运作。%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa'size='1。5'shadow='0'/&gt;同步-这可以让单位与模块做出同步线。有些模块是需要连接上单位才会有作用的。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_curator_tip">
           <Original>To become a Zeus, take the slot marked by &lt;img image='%11' size='2' /&gt; in the multiplayer lobby.</Original>
@@ -347,7 +347,7 @@
         <Key ID="str_a3_cfgmarkers_minefieldap_0">
           <Original>Minefield (AP)</Original>
           <Chinese>地雷區(反人員)</Chinese>
-          <Chinesesimp>地雷区(反人员)</Chinesesimp>
+          <Chinesesimp>地雷区（反人员）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkers_minefield_0">
           <Original>Minefield</Original>
@@ -2028,7 +2028,7 @@
         <Key ID="str_a3_bis_fnc_showcuratorfeedbackmessage_609">
           <Original>At least one AI unit has to be present in synchronization</Original>
           <Chinese>至少要與一個AI單位同步</Chinese>
-          <Chinesesimp>至少要与一个AI单位同步</Chinesesimp>
+          <Chinesesimp>至少要与一个 AI 单位同步</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_showcuratorfeedbackmessage_000">
           <Original>Cannot exit Zeus interface</Original>
@@ -2093,17 +2093,17 @@
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m12_west">
         <Original>Zeus 16+2 Master Stratis (NATO)</Original>
         <Chinese>宙斯16+2主宰斯特拉蒂斯(北約)</Chinese>
-        <Chinesesimp>宙斯16+2主宰斯特拉蒂斯(北约)</Chinesesimp>
+        <Chinesesimp>宙斯16+2主宰斯特拉蒂斯（北约）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m12_guer">
         <Original>Zeus 16+2 Master Stratis (AAF)</Original>
         <Chinese>宙斯16+2主宰斯特拉蒂斯(阿爾蒂斯武裝力量)</Chinese>
-        <Chinesesimp>宙斯16+2主宰斯特拉蒂斯(AAF)</Chinesesimp>
+        <Chinesesimp>宙斯16+2主宰斯特拉蒂斯（AAF）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m12_east">
         <Original>Zeus 16+2 Master Stratis (CSAT)</Original>
         <Chinese>宙斯16+2主宰斯特拉蒂斯(廣協同盟)</Chinese>
-        <Chinesesimp>宙斯16+2主宰斯特拉蒂斯(广协)</Chinesesimp>
+        <Chinesesimp>宙斯16+2主宰斯特拉蒂斯（广协）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m12">
         <Original>Zeus 48+2 Master Stratis</Original>
@@ -2113,17 +2113,17 @@
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m11_west">
         <Original>Zeus 16+2 Master Altis (NATO)</Original>
         <Chinese>宙斯16+2主宰阿爾蒂斯(北約)</Chinese>
-        <Chinesesimp>宙斯16+2主宰阿尔蒂斯(北约)</Chinesesimp>
+        <Chinesesimp>宙斯16+2主宰阿尔蒂斯（北约）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m11_guer">
         <Original>Zeus 16+2 Master Altis (AAF)</Original>
         <Chinese>宙斯16+2主宰阿爾蒂斯(阿爾蒂斯武裝力量)</Chinese>
-        <Chinesesimp>宙斯16+2主宰阿尔蒂斯(AAF)</Chinesesimp>
+        <Chinesesimp>宙斯16+2主宰阿尔蒂斯（AAF）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m11_east">
         <Original>Zeus 16+2 Master Altis (CSAT)</Original>
         <Chinese>宙斯16+2主宰阿爾蒂斯(廣協同盟)</Chinese>
-        <Chinesesimp>宙斯16+2主宰阿尔蒂斯(广协)</Chinesesimp>
+        <Chinesesimp>宙斯16+2主宰阿尔蒂斯（广协）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m11">
         <Original>Zeus 48+2 Master Altis</Original>
@@ -2164,7 +2164,7 @@
           <Key ID="str_a3_mp_zgm_m11.altis_params_curatorunlock">
             <Original>God mode (Zeus starts with everything unlocked)</Original>
             <Chinese>天神模式(宙斯一開始就能用所有的單位)</Chinese>
-            <Chinesesimp>天神模式(宙斯一开始就能用所有的单位)</Chinesesimp>
+            <Chinesesimp>天神模式（宙斯一开始就能用所有的单位）</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_zgm_m11.altis_params_curatormoderatorrights">
             <Original>Game Moderator rights</Original>
@@ -2189,7 +2189,7 @@
           <Key ID="str_a3_mp_zgm_m11.altis_params_curatormoderatorrights_0">
             <Original>Cannot create objects (editing allowed)</Original>
             <Chinese>不能創建單位(只能進行編輯)</Chinese>
-            <Chinesesimp>不能创建单位(只能进行编辑)</Chinesesimp>
+            <Chinesesimp>不能创建单位（只能进行编辑）</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_zgm_m11.altis_params_curatormoderatorrights_1">
             <Original>Can create all objects</Original>
@@ -2204,7 +2204,7 @@
           <Key ID="str_a3_mp_zgm_m11.altis_params_curatormoderatorrights_3">
             <Original>Cannot create and edit anything (spectating only)</Original>
             <Chinese>不能創建與編輯任何物件(只能觀戰)</Chinese>
-            <Chinesesimp>不能创建与编辑任何物件(只能观战)</Chinesesimp>
+            <Chinesesimp>不能创建与编辑任何物件（只能观战）</Chinesesimp>
           </Key>
         </Container>
         <Container name="MP_ZGM_m12" />
@@ -2236,7 +2236,7 @@
           <Key ID="str_a3_showcase_curator.altis_cfgdebriefing_end1">
             <Original>Where to go next? Play some multiplayer scenarios, like the completely open Zeus Game Master (ZGM). Or download Steam Workshop scenarios with the 'Zeus' tag. You can also just go to the editor and experiment with the 'Zeus' modules. &lt;t font='PuristaBold'&gt;Your rules, your war.&lt;/t&gt;</Original>
             <Chinese>下一步是什麼?請前往遊玩一些多人遊戲，像是完全開放的宙斯遊戲管理員模式(ZGM)。或者下載Steam工作坊的宙斯任務。你也可以去編輯器自己創建出屬於自己的宙斯任務。&lt;tfont='PuristaBold'&gt;你的規則，你的戰爭。&lt;/t&gt;</Chinese>
-            <Chinesesimp>下一步是什么?请前往游玩一些多人游戏，像是完全开放的宙斯游戏管理员模式(ZGM)。或者下载Steam创意工坊的宙斯任务。你也可以去编辑器自己创建出属于自己的宙斯任务。&lt;tfont='PuristaBold'&gt;你的规则，你的战争。&lt;/t&gt;</Chinesesimp>
+            <Chinesesimp>下一步是什么?请前往游玩一些多人游戏，像是完全开放的宙斯游戏管理员模式（ZGM）。或者下载 Steam 创意工坊的宙斯任务。你也可以去编辑器自己创建出属于自己的宙斯任务。&lt;tfont='PuristaBold'&gt;你的规则，你的战争。&lt;/t&gt;</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgtaskdescriptions_waypointgetin">
             <Original>Order the soldiers into the vehicle</Original>
@@ -2459,7 +2459,7 @@
           <Key ID="str_a3_cfgvehicles_modulemptypesectorcontrol_f_moduledescription_description">
             <Original>Initialize Sector Control game mode.&lt;br /&gt;&lt;br /&gt;Mission will end when the time is up (see estimatedTimeLeft scripting command), tickets of one side are depleted (see 'Respawn Tickets' module or BIS_fnc_respawnTickets function) or when the module is deleted.</Original>
             <Chinese>初始化控制防禦區遊戲模式。&lt;br/&gt;&lt;br/&gt;任務會在時間耗盡(請見estimatedTimeLeft的腳本指令)，或其中一方勢力耗盡重生機會(請見"重生次數"模塊，或查詢BIS_fnc_respawnTickets的功能)後結束。</Chinese>
-            <Chinesesimp>初始化控制防御区游戏模式。&lt;br/&gt;&lt;br/&gt;任务会在时间耗尽(请见estimatedTimeLeft的脚本指令)，或其中一方势力耗尽重生机会(请见"重生次数"模块，或查询BIS_fnc_respawnTickets的功能)后结束。</Chinesesimp>
+            <Chinesesimp>初始化控制防御区游戏模式。&lt;br/&gt;&lt;br/&gt;任务会在时间耗尽(请见 estimatedTimeLeft 的脚本指令)，或其中一方势力耗尽重生机会（请见"重生次数"模块，或查询 BIS_fnc_respawnTickets 的功能）后结束。</Chinesesimp>
           </Key>
           <Key ID="str_a3_modulemptypesectorcontrol">
             <Original>Sector Control</Original>
@@ -2531,12 +2531,12 @@
           <Key ID="str_a3_modulemptypegamemaster_diarycurator0">
             <Original>Start by placing respawn points for players (%1). If you don't do it within the given time limit, their positions will be randomized.</Original>
             <Chinese>開始時，請先為玩家放置重生點(%1)。假如你不放置，重生點的位置將會隨機決定。</Chinese>
-            <Chinesesimp>开始时，请先为玩家放置重生点(%1)。假如你不放置，重生点的位置将会随机决定。</Chinesesimp>
+            <Chinesesimp>开始时，请先为玩家放置重生点（%1）。假如你不放置，重生点的位置将会随机决定。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_modulemptypegamemaster_f_moduledescription_description">
             <Original>Initialize Game Master game mode. It lets Zeus to insert respawn module for every involved side first and then gives him challenges to complete. No rules are present, it is up to Zeus what he creates.&lt;br /&gt;&lt;br /&gt;Mission ends when the time is up (see estimatedTimeLeft scripting command), tickets of one side are depleted (see 'Respawn Tickets' module or BIS_fnc_respawnTickets function) or when the module is deleted.</Original>
             <Chinese>初始化遊戲管理員遊戲模式。這會讓宙斯有權先放置各勢力的重生模塊。在本模式中並沒有任何既定的規則，一切都取決於宙斯創造了什麼。&lt;br/&gt;&lt;br/&gt;任務會在時間耗盡(請見estimatedTimeLeft的腳本指令)，或其中一方勢力耗盡重生機會(請見"重生次數"模塊，或查詢BIS_fnc_respawnTickets的功能)後結束。</Chinese>
-            <Chinesesimp>初始化游戏管理员游戏模式。这会让宙斯有权先放置各势力的重生模块。在本模式中并没有任何既定的规则，一切都取决于宙斯创造了什么。&lt;br/&gt;&lt;br/&gt;任务会在时间耗尽(请见estimatedTimeLeft的脚本指令)，或其中一方势力耗尽重生机会(请见"重生次数"模块，或查询BIS_fnc_respawnTickets的功能)后结束。</Chinesesimp>
+            <Chinesesimp>初始化游戏管理员游戏模式。这会让宙斯有权先放置各势力的重生模块。在本模式中并没有任何既定的规则，一切都取决于宙斯创造了什么。&lt;br/&gt;&lt;br/&gt;任务会在时间耗尽(请见 estimatedTimeLeft 的脚本指令)，或其中一方势力耗尽重生机会（请见"重生次数"模块，或查询 BIS_fnc_respawnTickets 的功能）后结束。</Chinesesimp>
           </Key>
           <Key ID="str_a3_modulemptypegamemoderator">
             <Original>Game Moderator</Original>
@@ -2848,7 +2848,7 @@
         <Key ID="str_a3_cfgfactionclasses_interactive_f">
           <Original>Other (Interactive)</Original>
           <Chinese>其他(互動式)</Chinese>
-          <Chinesesimp>其他(互动式)</Chinesesimp>
+          <Chinesesimp>其他（互动式）</Chinesesimp>
         </Key>
       </Container>
       <Container name="CfgMusic">
@@ -2860,7 +2860,7 @@
         <Key ID="str_a3_cfgmusic_eventtrack03_f_curator">
           <Original>Mission Accomplished (Zeus)</Original>
           <Chinese>任務成功(宙斯)</Chinese>
-          <Chinesesimp>任务成功(宙斯)</Chinesesimp>
+          <Chinesesimp>任务成功（宙斯）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmusic_eventtrack02_f_curator">
           <Original>Mission Failed</Original>
@@ -2887,61 +2887,61 @@
         <Key ID="str_a3_cfgvehicles_o_virtualcurator_f">
           <Original>Zeus (OPFOR)</Original>
           <Chinese>宙斯(紅方)</Chinese>
-          <Chinesesimp>宙斯(红方)</Chinesesimp>
+          <Chinesesimp>宙斯（红方）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_virtualcurator_f">
           <Original>Zeus (Independent)</Original>
           <Chinese>宙斯(中立方)</Chinese>
-          <Chinesesimp>宙斯(中立方)</Chinesesimp>
+          <Chinesesimp>宙斯（中立方）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_virtualcurator_f">
           <Original>Zeus (Civilian)</Original>
           <Chinese>宙斯(平民)</Chinese>
-          <Chinesesimp>宙斯(平民)</Chinesesimp>
+          <Chinesesimp>宙斯（平民）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_virtualcurator_f">
           <Original>Zeus (BLUFOR)</Original>
           <Chinese>宙斯(藍方)</Chinese>
-          <Chinesesimp>宙斯(蓝方)</Chinesesimp>
+          <Chinesesimp>宙斯（蓝方）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Respawn">
         <Key ID="str_a3_cfgvehicles_tentdome_f">
           <Original>Camp (Dome Tent)</Original>
           <Chinese>營地(圓頂帳篷)</Chinese>
-          <Chinesesimp>营地(圆顶帐篷)</Chinesesimp>
+          <Chinesesimp>营地（圆顶帐篷）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_tenta_f">
           <Original>Camp (Ridge Tent)</Original>
           <Chinese>營地(脊形帳篷)</Chinese>
-          <Chinesesimp>营地(脊形帐篷)</Chinesesimp>
+          <Chinesesimp>营地（脊形帐篷）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_sleeping_bag_f">
           <Original>Camp (Green Sleeping Bag)</Original>
           <Chinese>營地(綠色睡袋)</Chinese>
-          <Chinesesimp>营地(绿色睡袋)</Chinesesimp>
+          <Chinesesimp>营地（绿色睡袋）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_sleeping_bag_brown_f">
           <Original>Camp (Brown Sleeping Bag)</Original>
           <Chinese>營地(棕色睡袋)</Chinese>
-          <Chinesesimp>营地(棕色睡袋)</Chinesesimp>
+          <Chinesesimp>营地（棕色睡袋）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_sleeping_bag_blue_f">
           <Original>Camp (Blue Sleeping Bag)</Original>
           <Chinese>營地(藍色睡袋)</Chinese>
-          <Chinesesimp>营地(蓝色睡袋)</Chinesesimp>
+          <Chinesesimp>营地（蓝色睡袋）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Misc">
         <Key ID="str_a3_cfgvehicles_lightning2_f">
           <Original>Lightning (Simple)</Original>
           <Chinese>閃電(單純)</Chinese>
-          <Chinesesimp>闪电(单纯)</Chinesesimp>
+          <Chinesesimp>闪电（单纯）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_lightning1_f">
           <Original>Lightning (Branched)</Original>
           <Chinese>閃電(分支)</Chinese>
-          <Chinesesimp>闪电(分支)</Chinesesimp>
+          <Chinesesimp>闪电（分支）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Intel">
@@ -2970,7 +2970,7 @@
         <Key ID="str_a3_cfgvehicles_b_soldier_unarmed_f_displayname">
           <Original>Rifleman (Unarmed)</Original>
           <Chinese>步槍兵(無武裝)</Chinese>
-          <Chinesesimp>步枪兵(无武装)</Chinesesimp>
+          <Chinesesimp>步枪兵（无武装）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_soldier_universal_f_displayname">
           <Original>Soldier</Original>
@@ -2988,17 +2988,17 @@
       <Key ID="str_a3_cfgvehicleclasses_weaponssecondary0">
         <Original>Weapons (Launchers)</Original>
         <Chinese>武器(發射器)</Chinese>
-        <Chinesesimp>武器(发射器)</Chinesesimp>
+        <Chinesesimp>武器（发射器）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicleclasses_weaponsprimary0">
         <Original>Weapons (Primary)</Original>
         <Chinese>武器(主武器)</Chinese>
-        <Chinesesimp>武器(主武器)</Chinesesimp>
+        <Chinesesimp>武器（主武器）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicleclasses_weaponshandguns0">
         <Original>Weapons (Sidearms)</Original>
         <Chinese>武器(副武器)</Chinese>
-        <Chinesesimp>武器(副武器)</Chinesesimp>
+        <Chinesesimp>武器（副武器）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicleclasses_weaponaccessories0">
         <Original>Weapon Accessories</Original>
@@ -3018,17 +3018,17 @@
       <Key ID="str_a3_cfgvehicleclasses_itemsvests0">
         <Original>Items (Vests)</Original>
         <Chinese>物品(背心)</Chinese>
-        <Chinesesimp>物品(背心)</Chinesesimp>
+        <Chinesesimp>物品（背心）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicleclasses_itemsuniforms0">
         <Original>Items (Uniforms)</Original>
         <Chinese>物品(制服)</Chinese>
-        <Chinesesimp>物品(制服)</Chinesesimp>
+        <Chinesesimp>物品（制服）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicleclasses_itemsheadgear0">
         <Original>Items (Headgear)</Original>
         <Chinese>物品(頭盔)</Chinese>
-        <Chinesesimp>物品(头盔)</Chinesesimp>
+        <Chinesesimp>物品（头盔）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicleclasses_items0">
         <Original>Items</Original>
@@ -3066,14 +3066,14 @@
         <Key ID="str_a3_cfgvehicles_modulecas_f">
           <Original>Close Air Support (CAS)</Original>
           <Chinese>密接空中支援(密接空中支援)</Chinese>
-          <Chinesesimp>密接空中支援(密接空中支援)</Chinesesimp>
+          <Chinesesimp>密接空中支援（密接空中支援）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Curator">
         <Key ID="str_a3_cfgvehicles_modulecuratorsetsidecosts_f">
           <Original>Set Costs (Side)</Original>
           <Chinese>設置花費(陣營)</Chinese>
-          <Chinesesimp>设置花费(阵营)</Chinesesimp>
+          <Chinesesimp>设置花费（阵营）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratorsetobjectcosts_f">
           <Original>Set Costs - Objects</Original>
@@ -3143,17 +3143,17 @@
         <Key ID="str_a3_cfgvehicles_modulecuratorsetdefaultcosts_f_moduledescription_description1">
           <Original>The object costs defined are based on the threat level - more dangerous units will be more expensive. Values can range from 1 (minimal threat: used by basic soldiers or empty objects) to 10 (maximal threat: typically airplanes and gunships).</Original>
           <Chinese>單位的花費將由該單位的強度所決定-越強的單位會花費越多點數。數值從1(最小數值:給基本士兵或空單位使用)到10(最大數值:像是飛機或武裝直升機)。</Chinese>
-          <Chinesesimp>单位的花费将由该单位的强度所决定-越强的单位会花费越多点数。数值从1(最小数值:给基本士兵或空单位使用)到10(最大数值:像是飞机或武装直升机)。</Chinesesimp>
+          <Chinesesimp>单位的花费将由该单位的强度所决定-越强的单位会花费越多点数。数值从1(最小数值:给基本士兵或空单位使用)到10（最大数值:像是飞机或武装直升机）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratorsetdefaultcosts_f">
           <Original>Set Costs (Default)</Original>
           <Chinese>設置花費(預設)</Chinese>
-          <Chinesesimp>设置花费(预设)</Chinesesimp>
+          <Chinesesimp>设置花费（预设）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratorsetcosts_f_moduledescription">
           <Original>Simplified definition of object costs. Can be combined with other "Set Costs" modules (e.g., cost of a BLUFOR soldier can be defined by "Set Costs - Sides" and "Set Costs - Soldiers &amp; Vehicles" module. All matching values are multiplied together).</Original>
           <Chinese>簡單設置單位的花費。可與其他"設置花費"模塊一起使用(例如藍方士兵可以被"設置花費-陣營"與"設置花費-士兵&amp;載具"模塊一起使用。所有匹配的值會相乘)。</Chinese>
-          <Chinesesimp>简单设置单位的花费。可与其他"设置花费"模块一起使用(例如蓝方士兵可以被"设置花费-阵营"与"设置花费-士兵&amp;载具"模块一起使用。所有匹配的值会相乘)。</Chinesesimp>
+          <Chinesesimp>简单设置单位的花费。可与其他"设置花费"模块一起使用（例如蓝方士兵可以被"设置花费-阵营"与"设置花费-士兵&amp;载具"模块一起使用。所有匹配的值会相乘）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratorsetcosts_f">
           <Original>Set Costs - Soldiers &amp; Vehicles</Original>
@@ -3163,7 +3163,7 @@
         <Key ID="str_a3_cfgvehicles_modulecuratorsetcoefs_f_moduledescription">
           <Original>Set coefficients for operations Zeus can perform. The object cost is multiplied by these. Use a large negative value (e.g. -1e10) to disable the operation.</Original>
           <Chinese>設置宙斯的參數。單位的花費將由此決定。使用一個較大的負值(例如-1e10)來關閉這項操作。</Chinese>
-          <Chinesesimp>设置宙斯的参数。单位的花费将由此决定。使用一个较大的负值(例如-1e10)来关闭这项操作。</Chinesesimp>
+          <Chinesesimp>设置宙斯的参数。单位的花费将由此决定。使用一个较大的负值（例如-1e10）来关闭这项操作。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratorsetcoefs_f_arguments_synchronize">
           <Original>Synchronizing</Original>
@@ -3218,7 +3218,7 @@
         <Key ID="str_a3_cfgvehicles_modulecuratorsetcamera_f_arguments_pitch_description">
           <Original>Camera pitch (0 is horizontal level, -90 is looking straight down)</Original>
           <Chinese>攝影機俯仰角(0是水平，-90是往正下方看)</Chinese>
-          <Chinesesimp>摄影机俯仰角(0是水平，-90是往正下方看)</Chinesesimp>
+          <Chinesesimp>摄影机俯仰角（0是水平，-90是往正下方看）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratorsetcamera_f_arguments_pitch">
           <Original>Pitch</Original>
@@ -3323,7 +3323,7 @@
         <Key ID="str_a3_cfgvehicles_modulecurator_f_arguments_owner_description">
           <Original>Unit with access to the Zeus interface. Can be an object’s variable name, player UID, or you can use #adminLogged or #adminVoted to give access to the server admin.</Original>
           <Chinese>可以訪問宙斯編輯介面的單位。這也可以是單位的變量名，玩家的使用者ID，或者你也可以使用#adminLogged或#adminVoted來讓伺服器管理員擔當。</Chinese>
-          <Chinesesimp>可以访问宙斯编辑界面的单位。这也可以是单位的变量名，玩家的使用者ID，或者你也可以使用#adminLogged或#adminVoted来让服务器管理员担任。</Chinesesimp>
+          <Chinesesimp>可以访问宙斯编辑界面的单位。这也可以是单位的变量名，玩家的使用者 ID，或者你也可以使用#adminLogged 或#adminVoted 来让服务器管理员担任。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecurator_f_arguments_owner">
           <Original>Owner</Original>
@@ -3428,7 +3428,7 @@
         <Key ID="str_a3_cfgvehicles_modulecuratoraddicon_f_arguments_texture_description">
           <Original>Path to texture or CfgMarkers class</Original>
           <Chinese>圖檔的路徑或是CfgMarkers的類別</Chinese>
-          <Chinesesimp>图档的路径或是CfgMarkers的类别</Chinesesimp>
+          <Chinesesimp>图档的路径或是 CfgMarkers 的类别</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratoraddicon_f_arguments_texture">
           <Original>Texture</Original>
@@ -3603,7 +3603,7 @@
         <Key ID="str_a3_cfgvehicles_modulecuratoraddaddons_f_arguments_addons_description">
           <Original>Optional list of object / addon classes from CfgPatches</Original>
           <Chinese>可選的單位清單/CfgPatches的模組類別</Chinese>
-          <Chinesesimp>可选的单位清单/CfgPatches的模组类别</Chinesesimp>
+          <Chinesesimp>可选的单位清单/CfgPatches 的模组类别</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratoraddaddons_f_arguments_addons">
           <Original>Addon classes</Original>
@@ -3628,7 +3628,7 @@
         <Key ID="str_a3_cfgvehicles_modulecurator_f_arguments_addons_values_all">
           <Original>All addons (including unofficial ones)</Original>
           <Chinese>所有模組(包括非官方模組)</Chinese>
-          <Chinesesimp>所有模组(包括非官方模组)</Chinesesimp>
+          <Chinesesimp>所有模组（包括非官方模组）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecurator_f_keyNotAssigned">
           <Original>Zeus key is not assigned. Reset your controls or assign the &lt;t color='%1'&gt;Open Zeus Interface&lt;/t&gt; key manually in the &lt;t color='%1'&gt;Zeus&lt;/t&gt; category.</Original>
@@ -3640,42 +3640,42 @@
         <Key ID="str_a3_cfgvehicles_modulevehiclerespawnpositionwest_f">
           <Original>Vehicles (BLUFOR)</Original>
           <Chinese>載具(藍方)</Chinese>
-          <Chinesesimp>载具(蓝方)</Chinesesimp>
+          <Chinesesimp>载具（蓝方）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulevehiclerespawnpositionguer_f">
           <Original>Vehicles (Independent)</Original>
           <Chinese>載具(中立方)</Chinese>
-          <Chinesesimp>载具(中立方)</Chinesesimp>
+          <Chinesesimp>载具（中立方）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulevehiclerespawnpositioneast_f">
           <Original>Vehicles (OPFOR)</Original>
           <Chinese>載具(紅方)</Chinese>
-          <Chinesesimp>载具(红方)</Chinesesimp>
+          <Chinesesimp>载具（红方）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulevehiclerespawnpositionciv_f">
           <Original>Vehicles (Civilian)</Original>
           <Chinese>載具(平民)</Chinese>
-          <Chinesesimp>载具(平民)</Chinesesimp>
+          <Chinesesimp>载具（平民）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnpositionwest_f">
           <Original>Players (BLUFOR)</Original>
           <Chinese>玩家(藍方)</Chinese>
-          <Chinesesimp>玩家(蓝方)</Chinesesimp>
+          <Chinesesimp>玩家（蓝方）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnpositionguer_f">
           <Original>Players (Independent)</Original>
           <Chinese>玩家(中立方)</Chinese>
-          <Chinesesimp>玩家(中立方)</Chinesesimp>
+          <Chinesesimp>玩家（中立方）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnpositioneast_f">
           <Original>Players (OPFOR)</Original>
           <Chinese>玩家(紅方)</Chinese>
-          <Chinesesimp>玩家(红方)</Chinesesimp>
+          <Chinesesimp>玩家（红方）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnpositionciv_f">
           <Original>Players (Civilian)</Original>
           <Chinese>玩家(平民)</Chinese>
-          <Chinesesimp>玩家(平民)</Chinesesimp>
+          <Chinesesimp>玩家（平民）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawninventory_f">
           <Original>Loadouts</Original>
@@ -3761,7 +3761,7 @@
         <Key ID="str_a3_cfgvehicles_modulezoneprotection_f_moduledescription_triggerarea">
           <Original>Determines area size. The side set in trigger activation can optionally define which side cannot enter the area (default 'None' means all sides are restricted).</Original>
           <Chinese>設定區域大小。欄位裡的觸發方為限制該陣營不能進入該去(預設的'無'指的是所有陣營皆無法進入該區)。</Chinese>
-          <Chinesesimp>设定区域大小。栏位里的触发方为限制该阵营不能进入该去(预设的'无'指的是所有阵营皆无法进入该区)。</Chinesesimp>
+          <Chinesesimp>设定区域大小。栏位里的触发方为限制该阵营不能进入该去（预设的'无'指的是所有阵营皆无法进入该区）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulezoneprotection_f_moduledescription">
           <Original>Prevents players from entering the given area.</Original>
@@ -3878,7 +3878,7 @@
         <Key ID="str_a3_cfgvehicles_moduleradiochannelcreate_f_arguments_color">
           <Original>Color (RGBA)</Original>
           <Chinese>顏色(RGBA)</Chinese>
-          <Chinesesimp>颜色(RGBA)</Chinesesimp>
+          <Chinesesimp>颜色（RGBA）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleradiochannelcreate_f_arguments_callsign">
           <Original>Callsign</Original>
@@ -3928,29 +3928,29 @@
         <Key ID="str_a3_cfgvehicles_moduleremotecontrol_f_errorNull">
           <Original>Found no unit to control - place the module over an AI unit</Original>
           <Chinese>沒有找到可控制的單位-請把模塊放置在AI單位身上</Chinese>
-          <Chinesesimp>没有找到可控制的单位-请把模块放置在AI单位身上</Chinesesimp>
+          <Chinesesimp>没有找到可控制的单位-请把模块放置在 AI 单位身上</Chinesesimp>
         </Key>
       </Container>
       <Container name="Mines">
         <Key ID="str_a3_cfgvehicles_iedurbansmall_f">
           <Original>Small IED (Urban)</Original>
           <Chinese>小型簡易爆炸裝置(平地上)</Chinese>
-          <Chinesesimp>小型简易爆炸装置(平地上)</Chinesesimp>
+          <Chinesesimp>小型简易爆炸装置（平地上）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_iedurbanbig_f">
           <Original>Large IED (Urban)</Original>
           <Chinese>大型簡易爆炸裝置(平地上)</Chinese>
-          <Chinesesimp>大型简易爆炸装置(平地上)</Chinesesimp>
+          <Chinesesimp>大型简易爆炸装置（平地上）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_iedlandsmall_f">
           <Original>Small IED (Dug-in)</Original>
           <Chinese>小型簡易爆炸裝置(埋入式)</Chinese>
-          <Chinesesimp>小型简易爆炸装置(埋入式)</Chinesesimp>
+          <Chinesesimp>小型简易爆炸装置（埋入式）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_iedlandbig_f">
           <Original>Large IED (Dug-in)</Original>
           <Chinese>大型簡易爆炸裝置(埋入式)</Chinese>
-          <Chinesesimp>大型简易爆炸装置(埋入式)</Chinesesimp>
+          <Chinesesimp>大型简易爆炸装置（埋入式）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Lightning">
@@ -4019,7 +4019,7 @@
         <Key ID="str_a3_cfgvehicles_moduleendmission_f_arguments_typecustom_description">
           <Original>Custom CfgDebriefing class, which will overwrite the predefined Type above</Original>
           <Chinese>自訂CfgDebriefing類別，這將覆蓋預設好的類型</Chinese>
-          <Chinesesimp>自定义CfgDebriefing类别，这将覆盖预设好的类型</Chinesesimp>
+          <Chinesesimp>自定义 CfgDebriefing 类别，这将覆盖预设好的类型</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleendmission_f_arguments_typecustom">
           <Original>Custom Type</Original>
@@ -4053,7 +4053,7 @@
         <Key ID="str_a3_cfgvehicles_moduleflare_f_moduledescription">
           <Original>Creates a signal flare on the module position (visible only at night).</Original>
           <Chinese>在模塊的位置上創建一顆信號彈(只能在夜晚看見)。</Chinese>
-          <Chinesesimp>在模块的位置上创建一颗信号弹(只能在夜晚看见)。</Chinesesimp>
+          <Chinesesimp>在模块的位置上创建一颗信号弹（只能在夜晚看见）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleflare_f">
           <Original>Flare</Original>
@@ -4075,7 +4075,7 @@
         <Key ID="str_a3_cfgvehicles_modulepostprocess_f_moduledescription">
           <Original>Set a scene Post-Processing effect (e.g. color correction or film grain)</Original>
           <Chinese>設定任務的後處理特效(像是顏色的改變或是電影的膠卷效果)</Chinese>
-          <Chinesesimp>设定任务的后处理特效(像是颜色的改变或是电影的胶卷效果)</Chinesesimp>
+          <Chinesesimp>设定任务的后处理特效（像是颜色的改变或是电影的胶卷效果）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulepostprocess_f_arguments_template">
           <Original>Template</Original>
@@ -4224,7 +4224,7 @@
       <Key ID="str_a3_rscdisplaywelcome_curator_pare_list5">
         <Original>new modules, functions and scripting commands, giving every community modder the ability to build a custom Zeus scenario. Find official documentation at community.bistudio.com/wiki/curator</Original>
         <Chinese>新模組，函數與腳本指令，給所有的社群玩家可以自行產出屬於自己的宙斯任務。你可以在community.bistudio.com/wiki/curator找到更多資訊</Chinese>
-        <Chinesesimp>新模组，函数与脚本指令，给所有的社区玩家可以自行产出属于自己的宙斯任务。你可以在community.bistudio.com/wiki/curator找到更多信息</Chinesesimp>
+        <Chinesesimp>新模组，函数与脚本指令，给所有的社区玩家可以自行产出属于自己的宙斯任务。你可以在 community.bistudio.com/wiki/curator 找到更多信息</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_pare_list4_title">
         <Original>Showcase Zeus</Original>
@@ -4274,7 +4274,7 @@
       <Key ID="str_a3_rscdisplaywelcome_curator_pare_footer">
         <Original>More at www.arma3.com/whatsnewzeus</Original>
         <Chinese>更多詳情請上www.arma3.com/whatsnewzeus</Chinese>
-        <Chinesesimp>更多详情请上www.arma3.com/whatsnewzeus</Chinesesimp>
+        <Chinesesimp>更多详情请上 www.arma3.com/whatsnewzeus</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_pard_title">
         <Original>MP MODES</Original>
@@ -4284,7 +4284,7 @@
       <Key ID="str_a3_rscdisplaywelcome_curator_pard_footer">
         <Original>More at www.arma3.com/zeus</Original>
         <Chinese>更多詳情請上www.arma3.com/zeus</Chinese>
-        <Chinesesimp>更多详情请上www.arma3.com/zeus</Chinesesimp>
+        <Chinesesimp>更多详情请上 www.arma3.com/zeus</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_pard">
         <Original>Play Arma 3 Zeus across its distinctive 'Game Master' game type scenarios, where nothing has been predetermined. Or visit familiar modes like 'Coop', 'Team Deathmatch', and 'Sector Control' in a completely new way. Zeus multiplayer also works with custom player-created scenarios.</Original>

@@ -12,7 +12,7 @@
           <Key ID="str_a3_to_c01_m02_036_ta_mechanized_briefing_centaur_1_0">
             <Original>Soon as we hit Point Delta, move up and take the checkpoint.</Original>
             <Chinese>抵達Delta點以後就開始行動，佔領檢查哨。</Chinese>
-            <Chinesesimp>我们一到Delta点，就动手夺取检查站。</Chinesesimp>
+            <Chinesesimp>我们一到 Delta 点，就动手夺取检查站。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01_m02_036_ta_mechanized_briefing_mavros_0_0">
             <Original>Brass check your weapon.</Original>
@@ -131,7 +131,7 @@
           <Key ID="str_a3_to_c01m02_task_supportassault_mechanized_title">
             <Original>Attack Galati (Optional)</Original>
             <Chinese>攻擊加拉蒂(支線)</Chinese>
-            <Chinesesimp>攻击加拉蒂(可选)</Chinesesimp>
+            <Chinesesimp>攻击加拉蒂（可选）</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01m02_task_supportassault_mechanized_description">
             <Original>Support friendly forces as they attempt to capture the town of Galati.</Original>
@@ -146,12 +146,12 @@
           <Key ID="str_a3_to_c01m02_task_startoperation_sniper_description">
             <Original>Signal to friendly units and commence the attack! (Press 0-8-1)</Original>
             <Chinese>對友軍打信號，發動攻擊!(按0-8-1)</Chinese>
-            <Chinesesimp>向友军发出信号，开始进攻!(按0-8-1)</Chinesesimp>
+            <Chinesesimp>向友军发出信号，开始进攻!（按0-8-1）</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01m02_task_setambush_sniper_titlte">
             <Original>Prepare Ambush (Optional)</Original>
             <Chinese>準備突襲(支線)</Chinese>
-            <Chinesesimp>准备伏击(可选)</Chinesesimp>
+            <Chinesesimp>准备伏击（可选）</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01m02_task_setambush_sniper_description">
             <Original>Setup an ambush on the road to stop any quick reaction force from Syrta.</Original>
@@ -186,7 +186,7 @@
           <Key ID="str_a3_to_c01m02_task_rearm_mechanized_title">
             <Original>Rearm (Optional)</Original>
             <Chinese>重整武裝(支線)</Chinese>
-            <Chinesesimp>补充装备(可选)</Chinesesimp>
+            <Chinesesimp>补充装备（可选）</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01m02_task_rearm_mechanized_description">
             <Original>Rearm your APC at the ammo truck near the checkpoint.</Original>
@@ -196,7 +196,7 @@
           <Key ID="str_a3_to_c01m02_task_joinsniper_title">
             <Original>Join Falcon (Optional)</Original>
             <Chinese>加入"獵鷹"(支線)</Chinese>
-            <Chinesesimp>加入"猎鹰"(可选)</Chinesesimp>
+            <Chinesesimp>加入"猎鹰"（可选）</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01m02_task_joinsniper_description">
             <Original>Assist British special forces and setup an ambush, providing accurate sniper fire to cover supporting elements.</Original>
@@ -206,7 +206,7 @@
           <Key ID="str_a3_to_c01m02_task_joinmechanized_title">
             <Original>Join Centaur (Optional)</Original>
             <Chinese>加入"半人馬"(支線)</Chinese>
-            <Chinesesimp>加入"半人马"(可选)</Chinesesimp>
+            <Chinesesimp>加入"半人马"（可选）</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01m02_task_joinmechanized_description">
             <Original>Move with armored units and block possible reinforcements, attacking from the east.</Original>
@@ -216,7 +216,7 @@
           <Key ID="str_a3_to_c01m02_task_joininfantry_title">
             <Original>Join Hoplite (Optional)</Original>
             <Chinese>加入"重步兵"(支線)</Chinese>
-            <Chinesesimp>加入"重步兵"(可选)</Chinesesimp>
+            <Chinesesimp>加入"重步兵"（可选）</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01m02_task_joininfantry_description">
             <Original>Go with an infantry group and secure the convoy, before engaging the enemy in the streets of Galati.</Original>
@@ -837,7 +837,7 @@
             <Key ID="str_a3_to_c01_m02_044_ta_mechanized_town_cleared_mavros_0">
               <Original>Roger, Hoplite - returning to Point Delta. Out.</Original>
               <Chinese>收到，"重步兵"-返回Delta點。結束通話。</Chinese>
-              <Chinesesimp>收到，"重步兵"-返回Delta点。完毕。</Chinesesimp>
+              <Chinesesimp>收到，"重步兵"-返回 Delta 点。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="043_ta_mechanized_town_support" audioFilePath="\a3\dubbing_f_tacops\to_c01_m02" dialogName="043_ta_mechanized_town_support" dubbingLanguage="english" namePrefix="to_c01_m02_043_ta_mechanized_town_support" note="" participants="TO_centaur;TO_mavros;" situation="to precede eve_infantry_apc_support. player is given the optional objective by the mechanized squad's group leader to support the infantry group.">
@@ -927,7 +927,7 @@
             <Key ID="str_a3_to_c01_m02_039_ta_mechanized_checkpoint_clear_centaur_0">
               <Original>Centaur to Olympos, we are at Point Delta. Over.</Original>
               <Chinese>"半人馬"呼叫"奧林波斯"，我們在Delta點。完畢。</Chinese>
-              <Chinesesimp>"半人马"呼叫"奥林波斯"，我们在Delta点。完毕，请回复。</Chinesesimp>
+              <Chinesesimp>"半人马"呼叫"奥林波斯"，我们在 Delta 点。完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c01_m02_039_ta_mechanized_checkpoint_clear_centaur_1">
               <Original>Yeah... I don't think these fuckers knew what hit them.</Original>
@@ -978,7 +978,7 @@
             <Key ID="str_a3_to_c01_m02_036_ta_mechanized_briefing_centaur_1">
               <Original>Soon as we hit Point Delta, move up and take the checkpoint.</Original>
               <Chinese>抵達Delta點以後就開始行動，佔領檢查哨。</Chinese>
-              <Chinesesimp>我们一到Delta点，就动手夺取检查站。</Chinesesimp>
+              <Chinesesimp>我们一到 Delta 点，就动手夺取检查站。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c01_m02_036_ta_mechanized_briefing_mavros_0">
               <Original>Brass check your weapon.</Original>
@@ -1936,7 +1936,7 @@
           <Key ID="str_a3_to_c01m01_task_00_description">
             <Original>One of our patrols has failed to report in. Follow their original route and find out what happened:&lt;br/&gt;WP Iota:%2 092(9) 165(8)%1&lt;br/&gt;WP Kappa:%3 093(4) 168(2)%1&lt;br/&gt;WP Lambda:%4 096(9) 170(3)%1&lt;br/&gt;WP Mu:%5 094(9) 175(6)%1&lt;br/&gt;WP Nu:%6 102(7) 177(9)%1 &lt;br/&gt;WP Xi:%7 Orino%1&lt;br/&gt;WP Omicron:%8 RTB%1</Original>
             <Chinese>某支巡邏隊沒有回來報到:沿著他們的原定路線搜查，釐清究竟發生什麼事:&lt;br/&gt;"約塔"定位點:%2092(9)165(8)%1&lt;br/&gt;"卡帕"定位點:%3093(4)168(2)%1&lt;br/&gt;"拉米塔"定位點:%4096(9)170(3)%1&lt;br/&gt;"繆"定位點:%5094(9)175(6)%1&lt;br/&gt;"紐"定位點:%6102(7)177(9)%1&lt;br/&gt;"西"定位點:%7奧里諾%1&lt;br/&gt;"奧米克戎"定位點:%8返回基地%1</Chinese>
-            <Chinesesimp>我们的一支巡逻队未报告行踪。跟随他们的原行动路线，搞清发生了什么事:&lt;br/&gt;路径点"约塔":%2092(9)165(8)%1&lt;br/&gt;路径点"卡帕":%3093(4)168(2)%1&lt;br/&gt;路径点"拉米塔":%4096(9)170(3)%1&lt;br/&gt;路径点"缪":%5094(9)175(6)%1&lt;br/&gt;路径点"纽":%6102(7)177(9)%1&lt;br/&gt;路径点"西":%7奥里诺%1&lt;br/&gt;路径点"奥米克戎":%8返回基地%1</Chinesesimp>
+            <Chinesesimp>我们的一支巡逻队未报告行踪。跟随他们的原行动路线，搞清发生了什么事:&lt;br/&gt;路径点"约塔":%2092(9)165(8)%1&lt;br/&gt;路径点"卡帕":%3093(4)168(2)%1&lt;br/&gt;路径点"拉米塔":%4096(9)170(3)%1&lt;br/&gt;路径点"缪":%5094(9)175(6)%1&lt;br/&gt;路径点"纽":%6102(7)177（9）%1&lt;br/&gt;路径点"西":%7奥里诺%1&lt;br/&gt;路径点"奥米克戎":%8返回基地%1</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01m01_su_startmainassault">
             <Original>Begin Offensive</Original>
@@ -1986,7 +1986,7 @@
           <Key ID="str_a3_to_c01m01_diary_support_description">
             <Original>For this mission, our British friends have offered clandestine fire support.&lt;br/&gt;(press 0-8-1 to mark target).&lt;br/&gt;&lt;br/&gt;But remember, we can't expect too much. They have a small window of opportunity and a limited number of rounds; we can only call on them once and select a maximum of three locations. So, try and mark co-ordinates accurately.</Original>
             <Chinese>這次任務，我們的英國朋友會暗中提供砲擊支援。&lt;br/&gt;(按0-8-1標記目標。)&lt;br/&gt;&lt;br/&gt;但請記住，不能過度依賴。能使用這項支援的機會不多，次數也有限制，我們只能從三個地點內選擇一處。所以，你務必準確的標出目標坐標。</Chinese>
-            <Chinesesimp>为完成此任务，我们的英国朋友暗中提供了火力支援。&lt;br/&gt;(按下0-8-1来标注目标)。&lt;br/&gt;&lt;br/&gt;不过要记住，我们不能期望过高。他们的机会之窗很小，射击的轮次有限;我们只能呼叫他们一次，最多只能选三个地点。所以，设法精确标注坐标。</Chinesesimp>
+            <Chinesesimp>为完成此任务，我们的英国朋友暗中提供了火力支援。&lt;br/&gt;（按下0-8-1来标注目标）。&lt;br/&gt;&lt;br/&gt;不过要记住，我们不能期望过高。他们的机会之窗很小，射击的轮次有限;我们只能呼叫他们一次，最多只能选三个地点。所以，设法精确标注坐标。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01m01_diary_support">
             <Original>Support</Original>
@@ -2011,7 +2011,7 @@
           <Key ID="str_a3_to_c01m01_diary_execution">
             <Original>1. Find %2Spartan%1.&lt;br/&gt;2. Conduct reconnaissance with your %3squad%1 and identify armor and defences.&lt;br/&gt;3. Designate targets (via 0-8-1) and transmit co-ordinates for artillery (via 0-8-2). On impact, we will commence our assault. Alternatively, you can give the signal for the offensive personally, by using your radio (via 0-8-3).&lt;br/&gt;4. Hold %4Orino%1, no matter what.</Original>
             <Chinese>1. 找到%2"斯巴達人"%1。&lt;br/&gt;2. 與%3分隊%1一同執行偵察任務，辨認敵方裝甲與守軍。&lt;br/&gt;3. 指定目標(按0-8-1)，將坐標傳給砲擊部隊(按0-8-2)。砲擊命中後攻擊就開始。也可以利用無線電(按0-8-3)單獨傳達攻擊信號。&lt;br/&gt;4. 無論發生什麼事，務必堅守%4奧里諾%1。</Chinese>
-            <Chinesesimp>1. 找到%2斯巴达人%1。&lt;br/&gt;2. 与你的%3小组%1进行侦察，识别装甲车和防御工事。&lt;br/&gt;3. 指定目标(按0-8-1)并传送火炮射击坐标(按0-8-2)。炮击后，我们将开始进攻。你也可以使用你的无线电(按0-8-3)来亲自发出进攻信号。&lt;br/&gt;4. 守住%4奥里诺%1，无论付出什么代价。</Chinesesimp>
+            <Chinesesimp>1. 找到%2斯巴达人%1。&lt;br/&gt;2. 与你的%3小组%1进行侦察，识别装甲车和防御工事。&lt;br/&gt;3. 指定目标(按0-8-1)并传送火炮射击坐标(按0-8-2)。炮击后，我们将开始进攻。你也可以使用你的无线电（按0-8-3）来亲自发出进攻信号。&lt;br/&gt;4. 守住%4奥里诺%1，无论付出什么代价。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01m01_diary_attachments_description">
             <Original>Images of rebel forces&lt;br/&gt;&lt;img image='Images\Photo_A.paa' width='400' height='200'/&gt;&lt;img image='Images\Photo_B.paa' width='400' height='200'/&gt;</Original>
@@ -3432,22 +3432,22 @@
           <Key ID="str_a3_to_c02m02_task08_spec_destination">
             <Original>Connect to UAV</Original>
             <Chinese>建立無人機連線</Chinese>
-            <Chinesesimp>与无人机(UAV)连接</Chinesesimp>
+            <Chinesesimp>与无人机（UAV）连接</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c02m02_task08_spec_description">
             <Original>Connect your terminal to the UAV.</Original>
             <Chinese>將終端機連上無人機。</Chinese>
-            <Chinesesimp>把你的终端连接至无人机(UAV)。</Chinesesimp>
+            <Chinesesimp>把你的终端连接至无人机（UAV）。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c02m02_task07_spec_destination">
             <Original>UAV Terminal</Original>
             <Chinese>無人機終端機</Chinese>
-            <Chinesesimp>无人机(UAV)终端</Chinesesimp>
+            <Chinesesimp>无人机（UAV）终端</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c02m02_task07_spec_description">
             <Original>Take the UAV terminal from the truck when it arrives in %1Houdan%2.</Original>
             <Chinese>卡車抵達%1胡丹%2後，從中拿取無人機終端機。</Chinese>
-            <Chinesesimp>在卡车到达%1胡丹%2时从那里拿取无人机(UAV)终端。</Chinesesimp>
+            <Chinesesimp>在卡车到达%1胡丹%2时从那里拿取无人机（UAV）终端。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c02m02_task06_spec_destination">
             <Original>Guard Prisoners</Original>
@@ -3527,7 +3527,7 @@
           <Key ID="str_a3_to_c02m02_task03_inf_description">
             <Original>Rendezvous with the APC from Foxtrot on the %1crossroads%2.</Original>
             <Chinese>與裝甲運兵車碰頭，位置在Foxtrot的%1十字路%2上。</Chinese>
-            <Chinesesimp>在%1交叉路口%2与从Foxtrot的装甲输送车会合。</Chinesesimp>
+            <Chinesesimp>在%1交叉路口%2与从 Foxtrot 的装甲输送车会合。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c02m02_task02_spec_destination">
             <Original>Ambush Reinforcements</Original>
@@ -3557,7 +3557,7 @@
           <Key ID="str_a3_to_c02m02_task01_spec_description">
             <Original>Locate and then destroy any AT threats in the %1specified area%2, then radio command to commence the assault (0-8-1). If you discover any static launchers, be sure to render them inoperable.</Original>
             <Chinese>定位並消滅%1指定地區%2的任何反坦克威脅，然後用無線電發佈開始攻擊(0-8-1)的命令。如果發現任何靜態發射器，務必將其癱瘓。</Chinese>
-            <Chinesesimp>找到并消灭%1指定地区%2的任何反坦克威胁，然后用无线电发布开始攻击(0-8-1)的命令。如果发现任何静态发射器，务必将其瘫痪。</Chinesesimp>
+            <Chinesesimp>找到并消灭%1指定地区%2的任何反坦克威胁，然后用无线电发布开始攻击（0-8-1）的命令。如果发现任何静态发射器，务必将其瘫痪。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c02m02_task01_inf_destination">
             <Original>Seize Houdan</Original>
@@ -3744,12 +3744,12 @@
             <Key ID="str_a3_to_c02_m02_100_ex_inf_early_attack_charliespeaker_0">
               <Original>Charlie to Guardian - we're hearing gunfire near Dourdan, over.</Original>
               <Chinese>Charlie呼叫"守護者"-我們聽見杜爾丹附近有槍響，完畢。</Chinese>
-              <Chinesesimp>Charlie呼叫"守护者"-我们听到杜尔丹附近有炮声。完毕，请回复。</Chinesesimp>
+              <Chinesesimp>Charlie 呼叫"守护者"-我们听到杜尔丹附近有炮声。完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_100_ex_inf_early_attack_guardian_0">
               <Original>Good copy, Charlie. Alpha team, can you confirm?</Original>
               <Chinese>收到，Charlie。Alpha小隊，你們能確認消息嗎?</Chinese>
-              <Chinesesimp>明白，Charlie。Alpha小组，你能确认吗?</Chinesesimp>
+              <Chinesesimp>明白，Charlie。Alpha 小组，你能确认吗?</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_100_ex_inf_early_attack_guardian_1">
               <Original>Sweet Jesus, Alpha! It was meant to be a co-ordinated assault! Too late now.</Original>
@@ -3804,7 +3804,7 @@
             <Key ID="str_a3_to_c02_m02_095_ex_inf_execution_alphaspeaker_0">
               <Original>Guardian, this is Alpha, we've, uh, gotta bit of a situation.</Original>
               <Chinese>"守護者"，這是Alpha，我們，呃，碰上一點麻煩。</Chinese>
-              <Chinesesimp>"守护者"，这里是Alpha，我们，呃，遇到了一点情况。</Chinesesimp>
+              <Chinesesimp>"守护者"，这里是 Alpha，我们，呃，遇到了一点情况。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_095_ex_inf_execution_alphaspeaker_1">
               <Original>Those prisoners at the church, one of them, uh, he was, ah -</Original>
@@ -3980,7 +3980,7 @@
             <Key ID="str_a3_to_c02_m02_082_eve_inf_tank_crew_discovered_alphaspeaker_0">
               <Original>Alpha to Guardian. Something doesn't quite add up. Gotta dead CSAT tank crew - they're Asian, not African. Over.</Original>
               <Chinese>Alpha呼叫"守護者"。狀況有點不對勁。死去的廣協同盟戰車隊員-是亞洲人，不是非洲人。完畢。</Chinese>
-              <Chinesesimp>Alpha呼叫"守护者"。有件事不大对劲。看到了阵亡的广协坦克兵-他们是亚洲人，不是非洲人。完毕，请回复。</Chinesesimp>
+              <Chinesesimp>Alpha 呼叫"守护者"。有件事不大对劲。看到了阵亡的广协坦克兵-他们是亚洲人，不是非洲人。完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_082_eve_inf_tank_crew_discovered_guardian_0">
               <Original>That's good intel, Alpha, we'll get it to INSCOM. Out.</Original>
@@ -3997,7 +3997,7 @@
             <Key ID="str_a3_to_c02_m02_081_eve_inf_tank_fire_out_charlie_1">
               <Original>Guardian, this is Charlie. Enemy armor destroyed. Over.</Original>
               <Chinese>"守護者"，這是Charlie。已摧毀敵方裝甲。完畢。</Chinese>
-              <Chinesesimp>"守护者"，这里是Charlie。敌军装甲车已摧毁。完毕，请回复。</Chinesesimp>
+              <Chinesesimp>"守护者"，这里是 Charlie。敌军装甲车已摧毁。完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_081_eve_inf_tank_fire_out_guardian_0">
               <Original>Good spot, Charlie - carry on, out.</Original>
@@ -4091,7 +4091,7 @@
             <Key ID="str_a3_to_c02_m02_074_loc_inf_information_alphaspeaker_1">
               <Original>Alpha to Guardian.</Original>
               <Chinese>Alpha呼叫"守護者"。</Chinese>
-              <Chinesesimp>Alpha呼叫"守护者"。</Chinesesimp>
+              <Chinesesimp>Alpha 呼叫"守护者"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_074_loc_inf_information_alphaspeaker_2">
               <Original>I think we've found something here!</Original>
@@ -4229,7 +4229,7 @@
             <Key ID="str_a3_to_c02_m02_065_eve_sf_nato_at_bravo_in_bravospeaker_0">
               <Original>Guardian, Bravo - Alpha's taking AT fire from the tree line!</Original>
               <Chinese>"守護者"，這是Bravo-Alpha受到反戰車攻擊，攻擊者在林線上!</Chinese>
-              <Chinesesimp>"守护者"，Bravo呼叫-林木线那里有反坦克火力向Alpha射击!</Chinesesimp>
+              <Chinesesimp>"守护者"，Bravo 呼叫-林木线那里有反坦克火力向 Alpha 射击!</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_065_eve_sf_nato_at_bravo_in_bravospeaker_1">
               <Original>Advise! Over.</Original>
@@ -4241,12 +4241,12 @@
             <Key ID="str_a3_to_c02_m02_064_eve_sf_nato_at_alphaspeaker_in_alphaspeaker_0">
               <Original>Alpha to Guardian - flash!</Original>
               <Chinese>Alpha呼叫"守護者"-緊急訊息!</Chinese>
-              <Chinesesimp>Alpha呼叫"守护者"-重要情况!</Chinesesimp>
+              <Chinesesimp>Alpha 呼叫"守护者"-重要情况!</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_064_eve_sf_nato_at_alphaspeaker_in_alphaspeaker_1">
               <Original>Bravo's hit!</Original>
               <Chinese>Bravo中彈了!</Chinese>
-              <Chinesesimp>Bravo中弹!</Chinesesimp>
+              <Chinesesimp>Bravo 中弹!</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_064_eve_sf_nato_at_alphaspeaker_in_alphaspeaker_2">
               <Original>Must've been a fucking RPG or Titan launcher, I dunno!</Original>
@@ -4280,12 +4280,12 @@
             <Key ID="str_a3_to_c02_m02_062_eve_sf_nato_ambushed_bravo_tank_bravospeaker_0">
               <Original>Contact! Contact! Guardian, this is Bravo!</Original>
               <Chinese>接敵!接敵!"守護者"，這是Bravo!</Chinese>
-              <Chinesesimp>遇敌!遇敌!"守护者"，这里是Bravo!</Chinesesimp>
+              <Chinesesimp>遇敌!遇敌!"守护者"，这里是 Bravo!</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_062_eve_sf_nato_ambushed_bravo_tank_bravospeaker_1">
               <Original>Alpha's hit!</Original>
               <Chinese>Alpha中彈了!</Chinese>
-              <Chinesesimp>Alpha中弹!</Chinesesimp>
+              <Chinesesimp>Alpha 中弹!</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_062_eve_sf_nato_ambushed_bravo_tank_bravospeaker_2">
               <Original>I - I don't know what the hell just happened, wait.</Original>
@@ -4307,12 +4307,12 @@
             <Key ID="str_a3_to_c02_m02_061_eve_sf_nato_ambushed_alpha_tank_alphaspeaker_0">
               <Original>Alpha to Guardian - flash!</Original>
               <Chinese>Alpha呼叫"守護者"-緊急訊息!</Chinese>
-              <Chinesesimp>Alpha呼叫"守护者"-紧急情况!</Chinesesimp>
+              <Chinesesimp>Alpha 呼叫"守护者"-紧急情况!</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_061_eve_sf_nato_ambushed_alpha_tank_alphaspeaker_1">
               <Original>Bravo's hit!</Original>
               <Chinese>Bravo中彈了!</Chinese>
-              <Chinesesimp>Bravo中弹!</Chinesesimp>
+              <Chinesesimp>Bravo 中弹!</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_061_eve_sf_nato_ambushed_alpha_tank_alphaspeaker_2">
               <Original>It's an MBT! Advise! Over.</Original>
@@ -4499,7 +4499,7 @@
             <Key ID="str_a3_to_c02_m02_050_eve_sf_change_of_plan_b_alt_guardian_0">
               <Original>Listen, Sergeant. Delta team have a Falcon drone online.</Original>
               <Chinese>聽我說，中士。Delta小隊有架"獵鷹"無人機正在值勤。</Chinese>
-              <Chinesesimp>听着，中士。Delta小组有一架"猎鹰"无人机已连线。</Chinesesimp>
+              <Chinesesimp>听着，中士。Delta 小组有一架"猎鹰"无人机已连线。</Chinesesimp>
             </Key>
           </Container>
           <Container name="049_eve_sf_change_of_plan_b" audioFilePath="\a3\dubbing_f_tacops\to_c02_m02" dialogName="049_eve_sf_change_of_plan_b" dubbingLanguage="english" namePrefix="to_c02_m02_049_eve_sf_change_of_plan_b" note="" participants="TO_pariah;TO_guardian;" situation="hq warn player's special forces group about a counterattack. a uav is inbound. player is tasked with using it to destroy the enemy's armored assets.">
@@ -4521,7 +4521,7 @@
             <Key ID="str_a3_to_c02_m02_049_eve_sf_change_of_plan_b_guardian_2">
               <Original>Listen, Sergeant. Delta team have a Greyhawk drone online.</Original>
               <Chinese>聽我說，中士。Delta小隊有架"獵鷹"無人機正在值勤。</Chinese>
-              <Chinesesimp>听着，中士。Delta小组有一架"猎鹰"无人机已连线。</Chinesesimp>
+              <Chinesesimp>听着，中士。Delta 小组有一架"猎鹰"无人机已连线。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_049_eve_sf_change_of_plan_b_guardian_3">
               <Original>If you have a terminal, then you can get command authority.</Original>
@@ -4575,7 +4575,7 @@
             <Key ID="str_a3_to_c02_m02_047_ta_all_first_town_captured_charliespeaker_0">
               <Original>Charlie to Guardian.</Original>
               <Chinese>Charlie呼叫"守護者"。</Chinese>
-              <Chinesesimp>Charlie呼叫"守护者"。</Chinesesimp>
+              <Chinesesimp>Charlie 呼叫"守护者"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_047_ta_all_first_town_captured_charliespeaker_1">
               <Original>Houdan and Point Katmai are secure.</Original>
@@ -4719,7 +4719,7 @@
             <Key ID="str_a3_to_c02_m02_040_ta_sf_support_infantry_alone_a_guardian_1">
               <Original>Join Alpha and Bravo. Lend whatever support you can and help them seize Houdan. Out.</Original>
               <Chinese>和Alpha與Bravo會合。盡你所能支援他們佔領胡丹。結束通話。</Chinese>
-              <Chinesesimp>加入Alpha和Bravo。给予你能给的任何支援，帮助他们夺取胡丹。完毕。</Chinesesimp>
+              <Chinesesimp>加入 Alpha 和 Bravo。给予你能给的任何支援，帮助他们夺取胡丹。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_040_ta_sf_support_infantry_alone_a_pariah_0">
               <Original>I'm already a step ahead, Guardian.</Original>
@@ -4751,7 +4751,7 @@
             <Key ID="str_a3_to_c02_m02_039_ta_sf_support_infantry_guardian_1">
               <Original>Join Alpha and Bravo. Support their attack on Houdan. Out.</Original>
               <Chinese>和Alpha與Bravo會合。支援他們攻擊胡丹。結束通話。</Chinese>
-              <Chinesesimp>加入Alpha和Bravo。支援他们攻击胡丹。完毕。</Chinesesimp>
+              <Chinesesimp>加入 Alpha 和 Bravo。支援他们攻击胡丹。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_039_ta_sf_support_infantry_pariah_0">
               <Original>One step ahead of you, Guardian. We already cleaned house.</Original>
@@ -4927,7 +4927,7 @@
             <Key ID="str_a3_to_c02_m02_026_eve_all_first_support_fail_alphaspeaker_0">
               <Original>Charlie, this is Alpha, do you read me...? Over.</Original>
               <Chinese>Charlie，這是Alpha，你收到嗎...?完畢。</Chinese>
-              <Chinesesimp>Charlie，这里是Alpha，你收到了吗...?完毕，请回复。</Chinesesimp>
+              <Chinesesimp>Charlie，这里是 Alpha，你收到了吗...?完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_026_eve_all_first_support_fail_alphaspeaker_1">
               <Original>Charlie, come in!</Original>
@@ -4968,7 +4968,7 @@
             <Key ID="str_a3_to_c02_m02_023_eve_inf_enemy_in_houses_cleared_alphaspeaker_0">
               <Original>Guardian, this is Alpha, we're back on track.</Original>
               <Chinese>"守護者"，這是Alpha，我們繼續進行任務。</Chinese>
-              <Chinesesimp>"守护者"，这里是Alpha，我们回到正轨了。</Chinesesimp>
+              <Chinesesimp>"守护者"，这里是 Alpha，我们回到正轨了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_023_eve_inf_enemy_in_houses_cleared_alphaspeaker_1">
               <Original>All hostiles at that problem building have been neutralized. Over.</Original>
@@ -5002,21 +5002,21 @@
             <Key ID="str_a3_to_c02_m02_021_eve_point_yellowstone_out_no_bravo_guardian_0">
               <Original>Bravo have been completely wiped out but Charlie's engaging from the south. Out.</Original>
               <Chinese>Bravo整隊陣亡，但Charlie正從南方接近。結束通話。</Chinese>
-              <Chinesesimp>Bravo已经全部阵亡，不过Charlie正从南面接战。完毕。</Chinesesimp>
+              <Chinesesimp>Bravo 已经全部阵亡，不过 Charlie 正从南面接战。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="020_eve_point_yellowstone_out" audioFilePath="\a3\dubbing_f_tacops\to_c02_m02" dialogName="020_eve_point_yellowstone_out" dubbingLanguage="english" namePrefix="to_c02_m02_020_eve_point_yellowstone_out" note="" participants="TO_guardian;" situation="hq reminds player that both bravo and charlie are attacking from the south.">
             <Key ID="str_a3_to_c02_m02_020_eve_point_yellowstone_out_guardian_0">
               <Original>Bravo and Charlie teams will follow suit from the south... out.</Original>
               <Chinese>Bravo和Charlie隨後會從南方跟上...結束通話。</Chinese>
-              <Chinesesimp>Bravo和Charlie小组将从南面也这么做...完毕。</Chinesesimp>
+              <Chinesesimp>Bravo 和 Charlie 小组将从南面也这么做...完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="019_eve_point_yellowstone" audioFilePath="\a3\dubbing_f_tacops\to_c02_m02" dialogName="019_eve_point_yellowstone" dubbingLanguage="english" namePrefix="to_c02_m02_019_eve_point_yellowstone" note="" participants="TO_alphaspeaker;TO_guardian;" situation="player arrives at point yellowstone and joins bravo and charlie for the attack on dourdan.">
             <Key ID="str_a3_to_c02_m02_019_eve_point_yellowstone_alphaspeaker_0">
               <Original>Guardian, Alpha - we made it, we're in position outside Dourdan. Do you copy? Over.</Original>
               <Chinese>"守護者"，這是Alpha-我們到了，現在在胡丹外的定點。你收到沒?完畢。</Chinese>
-              <Chinesesimp>"守护者"，Alpha叫-我们到了，我们已在胡丹镇外就位。收到了吗?完毕，请回复。</Chinesesimp>
+              <Chinesesimp>"守护者"，Alpha 叫-我们到了，我们已在胡丹镇外就位。收到了吗?完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_019_eve_point_yellowstone_guardian_0">
               <Original>Guardian copies all.</Original>
@@ -5038,12 +5038,12 @@
             <Key ID="str_a3_to_c02_m02_018_eve_bravo_gone_charliespeaker_1">
               <Original>Bravo, it's Charlie. Respond! Over.</Original>
               <Chinese>Bravo，這是Charlie。請回話!完畢。</Chinese>
-              <Chinesesimp>Bravo，这里是Charlie。请回复!完毕，请回复。</Chinesesimp>
+              <Chinesesimp>Bravo，这里是 Charlie。请回复!完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_018_eve_bravo_gone_charliespeaker_2">
               <Original>Charlie to Guardian, we can't raise Bravo.</Original>
               <Chinese>Charlie呼叫"守護者"，我們聯絡不上Bravo。</Chinese>
-              <Chinesesimp>Charlie呼叫"守护者"，我们没法联系上Bravo。</Chinesesimp>
+              <Chinesesimp>Charlie 呼叫"守护者"，我们没法联系上 Bravo。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_018_eve_bravo_gone_guardian_0">
               <Original>Shit... that was a six-man team! Focus on the mission, we'll send in a MEDEVAC. Out.</Original>
@@ -5055,7 +5055,7 @@
             <Key ID="str_a3_to_c02_m02_017_ta_inf_supply_cleared_alphaspeaker_0">
               <Original>Alpha to Guardian, we're at Point Carlsbad - looks like we've hit the jackpot, sir!</Original>
               <Chinese>Alpha呼叫"守護者"，我們在卡爾斯巴德點這裡-看來找對地方了，長官!</Chinese>
-              <Chinesesimp>Alpha呼叫"守护者"，我们在卡尔斯巴德点-看来我们撞大运了，长官!</Chinesesimp>
+              <Chinesesimp>Alpha 呼叫"守护者"，我们在卡尔斯巴德点-看来我们撞大运了，长官!</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_017_ta_inf_supply_cleared_alphaspeaker_1">
               <Original>There's enough weapons and ammo here to start World War fucking Three, over.</Original>
@@ -5082,7 +5082,7 @@
             <Key ID="str_a3_to_c02_m02_016_ta_inf_second_town_captured_alphaspeaker_0">
               <Original>Guardian, it's Alpha.</Original>
               <Chinese>"守護者"，這是Alpha。</Chinese>
-              <Chinesesimp>"守护者"，这里是Alpha。</Chinesesimp>
+              <Chinesesimp>"守护者"，这里是 Alpha。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_016_ta_inf_second_town_captured_alphaspeaker_1">
               <Original>All tasks complete - both towns are in our control.</Original>
@@ -5119,14 +5119,14 @@
             <Key ID="str_a3_to_c02_m02_015_ta_inf_alpha_to_supply_guardian_1">
               <Original>Once it's out the way, we'll get an APC to you from Foxtrot.</Original>
               <Chinese>解決這件事後，我們會從Foxtrot派一臺裝甲運兵車去你那裡。</Chinese>
-              <Chinesesimp>一旦搞定了它，我们就从Foxtrot派一辆装甲输送车去你那。</Chinesesimp>
+              <Chinesesimp>一旦搞定了它，我们就从 Foxtrot 派一辆装甲输送车去你那。</Chinesesimp>
             </Key>
           </Container>
           <Container name="014_ta_inf_town_captured" audioFilePath="\a3\dubbing_f_tacops\to_c02_m02" dialogName="014_ta_inf_town_captured" dubbingLanguage="english" namePrefix="to_c02_m02_014_ta_inf_town_captured" note="" participants="TO_alphaspeaker;TO_charliespeaker;" situation="player informs hq that his group has captured the town. some enemy's have surrendered. hq tells player that a truck is on its way and that us special forces group will take care of them.">
             <Key ID="str_a3_to_c02_m02_014_ta_inf_town_captured_alphaspeaker_0">
               <Original>Alpha to Charlie.</Original>
               <Chinese>Alpha呼叫Charlie。</Chinese>
-              <Chinesesimp>Alpha呼叫Charlie。</Chinesesimp>
+              <Chinesesimp>Alpha 呼叫 Charlie。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_014_ta_inf_town_captured_alphaspeaker_1">
               <Original>I think we're on top of this, bring it in.</Original>
@@ -5143,7 +5143,7 @@
             <Key ID="str_a3_to_c02_m02_013_ta_inf_enter_town_alphaspeaker_0">
               <Original>Guardian, it's Alpha, we're at Point Redwood, advancing on Katmai, over.</Original>
               <Chinese>"守護者"，這是Alpha，我們在紅木點了，正朝卡特邁前進，完畢。</Chinese>
-              <Chinesesimp>"守护者"，这里是Alpha，我们在红木点，往卡特迈进发，完毕，请回复。</Chinesesimp>
+              <Chinesesimp>"守护者"，这里是 Alpha，我们在红木点，往卡特迈进发，完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_013_ta_inf_enter_town_alphaspeaker_1">
               <Original>Solid copy - we'll be careful. Out.</Original>
@@ -5337,7 +5337,7 @@
             <Key ID="str_a3_to_c02_m02_006_br_sf_briefing_out_guardian_3">
               <Original>Finally - continue east, supporting Alpha and Bravo.</Original>
               <Chinese>最後-繼續往東，支援Alpha和Bravo。</Chinese>
-              <Chinesesimp>最后-继续向东，支援Alpha和Bravo。</Chinesesimp>
+              <Chinesesimp>最后-继续向东，支援 Alpha 和 Bravo。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_006_br_sf_briefing_out_guardian_4">
               <Original>Okay, gentlemen.</Original>
@@ -5373,7 +5373,7 @@
             <Key ID="str_a3_to_c02_m02_003_br_sf_briefing_in_guardian_1">
               <Original>Alpha, Bravo, and Charlie are hitting the town from Point Redwood here, to the south.</Original>
               <Chinese>Alpha、Bravo和Charlie正從南邊的紅木點，攻擊城鎮。</Chinese>
-              <Chinesesimp>Alpha、Bravo和Charlie从红木点这儿往南攻击城镇。</Chinesesimp>
+              <Chinesesimp>Alpha、Bravo 和 Charlie 从红木点这儿往南攻击城镇。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_003_br_sf_briefing_in_guardian_2">
               <Original>Our concern is the approach road...</Original>
@@ -5390,7 +5390,7 @@
             <Key ID="str_a3_to_c02_m02_002_br_inf_briefing_guardian_0">
               <Original>Alpha and Bravo, you will move with Charlie to here, Point Redwood, and strike from the south.</Original>
               <Chinese>Alpha和Bravo，你們和Charlie一起移動到這裡，紅木點，從南方發動攻擊。</Chinese>
-              <Chinesesimp>Alpha和Bravo，你们和Charlie一起前往红木点，从南面发起进攻。</Chinesesimp>
+              <Chinesesimp>Alpha 和 Bravo，你们和 Charlie 一起前往红木点，从南面发起进攻。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_002_br_inf_briefing_guardian_1">
               <Original>Special forces, near Point Everglades, will have already taken care of any possible AT threats.</Original>
@@ -5425,7 +5425,7 @@
             <Key ID="str_a3_to_c02_m02_002_br_inf_briefing_guardian_5">
               <Original>An APC from Echo will RV soon after, near the crossroads, here...</Original>
               <Chinese>Echo的裝甲運兵車很快會與你會合，碰面地點在十字路附近，這裡...</Chinese>
-              <Chinesesimp>一辆从Echo来的装甲输送车不久将在交叉路口附近会合，这儿...</Chinesesimp>
+              <Chinesesimp>一辆从 Echo 来的装甲输送车不久将在交叉路口附近会合，这儿...</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_002_br_inf_briefing_guardian_6">
               <Original>Together, you'll head towards Point Yellowstone, eliminating any resistance you may encounter there.</Original>
@@ -5435,7 +5435,7 @@
             <Key ID="str_a3_to_c02_m02_002_br_inf_briefing_guardian_7">
               <Original>Bravo and Charlie will then prepare for the attack on Dourdan.</Original>
               <Chinese>而後，Bravo和Charlie準備攻擊Dourdan。</Chinese>
-              <Chinesesimp>Bravo和Charlie随后将准备对杜尔丹发起进攻。</Chinesesimp>
+              <Chinesesimp>Bravo 和 Charlie 随后将准备对杜尔丹发起进攻。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_002_br_inf_briefing_guardian_8">
               <Original>Point Zion is our last objective...</Original>
@@ -5445,7 +5445,7 @@
             <Key ID="str_a3_to_c02_m02_002_br_inf_briefing_guardian_9">
               <Original>All three teams will assault the town, with Alpha coming in from the east, here.</Original>
               <Chinese>三組人馬一齊攻擊城鎮，Alpha從東邊切近，位置在這裡。</Chinese>
-              <Chinesesimp>三个小组全都将进攻城镇，Alpha从东面进攻，这儿。</Chinesesimp>
+              <Chinesesimp>三个小组全都将进攻城镇，Alpha 从东面进攻，这儿。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_002_br_inf_briefing_guardian_12">
               <Original>Alright.</Original>
@@ -5555,7 +5555,7 @@
           <Key ID="str_a3_to_marker_pointcharleston">
             <Original>Point Charleston</Original>
             <Chinese>Charlie斯頓點</Chinese>
-            <Chinesesimp>Charlie斯顿点</Chinesesimp>
+            <Chinesesimp>Charlie 斯顿点</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_marker_pointborah">
             <Original>Point Borah</Original>
@@ -5740,7 +5740,7 @@
           <Key ID="str_a3_to_c02m01_radio_delta">
             <Original>Delta Go</Original>
             <Chinese>Delta行動</Chinese>
-            <Chinesesimp>Delta行動</Chinesesimp>
+            <Chinesesimp>Delta 行動</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c02m01_overviewtext">
             <Original>NATO forces strike strategic positions south of La Trinité.</Original>
@@ -5808,7 +5808,7 @@
             <Key ID="str_a3_to_c02_m01_076_eve_all_hurry_up_c_out_bravospeaker_0">
               <Original>Guardian, it's Bravo, we got intel on that mortar.</Original>
               <Chinese>"守護者"，這是Bravo，我們有迫擊砲的情報。</Chinese>
-              <Chinesesimp>"守护者"，这里是Bravo，我们收到了关于那门迫击炮的情报。</Chinesesimp>
+              <Chinesesimp>"守护者"，这里是 Bravo，我们收到了关于那门迫击炮的情报。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_076_eve_all_hurry_up_c_out_bravospeaker_1">
               <Original>Local CIVPOP, sir!</Original>
@@ -5908,7 +5908,7 @@
             <Key ID="str_a3_to_c02_m01_070_loc_inf_cache_discovered_alphaspeaker_0">
               <Original>Alpha to Guardian. Come in. Over.</Original>
               <Chinese>Alpha呼叫"守護者"。請回答。完畢。</Chinese>
-              <Chinesesimp>Alpha呼叫"守护者"。请回答。完毕。</Chinesesimp>
+              <Chinesesimp>Alpha 呼叫"守护者"。请回答。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_070_loc_inf_cache_discovered_alphaspeaker_1">
               <Original>Seeing some pretty high-end shit here.</Original>
@@ -5966,7 +5966,7 @@
             <Key ID="str_a3_to_c02_m01_036_eve_sf_hurry_up_c_alphaspeaker_0">
               <Original>Guardian, Alpha!</Original>
               <Chinese>"守護者"，這是Alpha!</Chinese>
-              <Chinesesimp>"守护者"，Alpha呼叫!</Chinesesimp>
+              <Chinesesimp>"守护者"，Alpha 呼叫!</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_036_eve_sf_hurry_up_c_alphaspeaker_1">
               <Original>Taking serious casualties, we - fuck...! We can't take much more of this!</Original>
@@ -5993,7 +5993,7 @@
             <Key ID="str_a3_to_c02_m01_028_eve_inf_delta_clear_deltaspeaker_0">
               <Original>Alpha, this is Delta.</Original>
               <Chinese>Alpha，這是Delta。</Chinese>
-              <Chinesesimp>Alpha，这里是Delta。</Chinesesimp>
+              <Chinesesimp>Alpha，这里是 Delta。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_028_eve_inf_delta_clear_deltaspeaker_1">
               <Original>The harbor's taken, we're moving in on Point Massive - so y'know, check your fire, out.</Original>
@@ -6010,7 +6010,7 @@
             <Key ID="str_a3_to_c02_m01_027_eve_inf_delta_retreating_deltaspeaker_0">
               <Original>Alpha, this is Delta, we can't hold our position.</Original>
               <Chinese>Alpha，這是Delta，我們守不住了。</Chinese>
-              <Chinesesimp>Alpha，这里是Delta，我们守不住了。</Chinesesimp>
+              <Chinesesimp>Alpha，这里是 Delta，我们守不住了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_027_eve_inf_delta_retreating_deltaspeaker_1">
               <Original>Taking too many casualties... we're falling back. Over.</Original>
@@ -6022,7 +6022,7 @@
             <Key ID="str_a3_to_c02_m01_026_eve_inf_delta_attacking_deltaspeaker_0">
               <Original>Delta to Alpha, contact! We're attacking the harbour now, out.</Original>
               <Chinese>Delta呼叫Alpha，接敵!我們正在攻擊港口，結束通話。</Chinese>
-              <Chinesesimp>Delta呼叫Alpha，遇敌!我们正在进攻港口，完毕。</Chinesesimp>
+              <Chinesesimp>Delta 呼叫 Alpha，遇敌!我们正在进攻港口，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="025_eve_inf_delta_on_approach" audioFilePath="\a3\dubbing_f_tacops\to_c02_m01" dialogName="025_eve_inf_delta_on_approach" dubbingLanguage="english" namePrefix="to_c02_m01_025_eve_inf_delta_on_approach" note="" participants="TO_DeltaSpeaker;TO_AlphaSpeaker;" situation="delta team tell player's group that they are one minute away from attacking the harbor.">
@@ -6034,7 +6034,7 @@
             <Key ID="str_a3_to_c02_m01_025_eve_inf_delta_on_approach_deltaspeaker_0">
               <Original>Alpha, it's Delta.</Original>
               <Chinese>Alpha，這是Delta。</Chinese>
-              <Chinesesimp>Alpha，这里是Delta。</Chinesesimp>
+              <Chinesesimp>Alpha，这里是 Delta。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_025_eve_inf_delta_on_approach_deltaspeaker_1">
               <Original>Almost there, one mike, over.</Original>
@@ -6046,7 +6046,7 @@
             <Key ID="str_a3_to_c02_m01_024_sup_inf_delta_go_alphaspeaker_0">
               <Original>Alpha to Delta.</Original>
               <Chinese>Alpha呼叫Delta。</Chinese>
-              <Chinesesimp>Alpha呼叫Delta。</Chinesesimp>
+              <Chinesesimp>Alpha 呼叫 Delta。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_024_sup_inf_delta_go_alphaspeaker_1">
               <Original>Begin the assault on Point Massive, over.</Original>
@@ -6068,7 +6068,7 @@
             <Key ID="str_a3_to_c02_m01_023_sup_inf_delta_available_guardian_0">
               <Original>Guardian to Alpha. Delta are set to create that diversion.</Original>
               <Chinese>"守護者"呼叫Alpha。Delta準備就緒，隨時可以引起騷亂。</Chinese>
-              <Chinesesimp>"守护者"呼叫Alpha。Delta准备发起牵制攻击。</Chinesesimp>
+              <Chinesesimp>"守护者"呼叫 Alpha。Delta 准备发起牵制攻击。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_023_sup_inf_delta_available_guardian_1">
               <Original>They'll strike the harbor at Cancon on your signal.</Original>
@@ -6095,7 +6095,7 @@
             <Key ID="str_a3_to_c02_m01_021_eve_inf_medical_camp_support_c_guardian_1">
               <Original>Alpha's down to a man and could use some help.</Original>
               <Chinese>Alpha戰到只剩一人，需要幫助。</Chinese>
-              <Chinesesimp>Alpha只剩下一个人了，也许需要帮忙。</Chinesesimp>
+              <Chinesesimp>Alpha 只剩下一个人了，也许需要帮忙。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_021_eve_inf_medical_camp_support_c_echospeaker_1">
               <Original>Sure, and our APC? And the fillings outta my fucking teeth?</Original>
@@ -6117,7 +6117,7 @@
             <Key ID="str_a3_to_c02_m01_020_eve_inf_medical_camp_support_b_guardian_0">
               <Original>A casualty collection point - Alpha could use some help.</Original>
               <Chinese>傷患收集-Alpha需要幫助。</Chinese>
-              <Chinesesimp>一个伤亡人员收集点-Alpha也许需要帮忙。</Chinesesimp>
+              <Chinesesimp>一个伤亡人员收集点-Alpha 也许需要帮忙。</Chinesesimp>
             </Key>
           </Container>
           <Container name="019_eve_inf_medical_camp_support_a" audioFilePath="\a3\dubbing_f_tacops\to_c02_m01" dialogName="019_eve_inf_medical_camp_support_a" dubbingLanguage="english" namePrefix="to_c02_m01_019_eve_inf_medical_camp_support_a" note="" participants="TO_guardian;TO_EchoSpeaker;" situation="hq contacts echo team. to follow ta_inf_secure_medical_camp_c.">
@@ -6136,7 +6136,7 @@
             <Key ID="str_a3_to_c02_m01_018_ta_inf_medical_camp_secured_alphaspeaker_0">
               <Original>Alpha to Guardian.</Original>
               <Chinese>Alpha呼叫"守護者"。</Chinese>
-              <Chinesesimp>Alpha呼叫"守护者"。</Chinesesimp>
+              <Chinesesimp>Alpha 呼叫"守护者"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_018_ta_inf_medical_camp_secured_alphaspeaker_1">
               <Original>I think we're done here, sir.</Original>
@@ -6146,14 +6146,14 @@
             <Key ID="str_a3_to_c02_m01_018_ta_inf_medical_camp_secured_guardian_0">
               <Original>Good job, Sergeant. RV with Charlie at Point Palisade and prep for next phase of the operation - out.</Original>
               <Chinese>幹得好，中士。到帕利薩德點和Charlie會合，準備下一階段行動-結束通話。</Chinese>
-              <Chinesesimp>干得漂亮，中士。在帕利萨德点与Charlie会合，准备下一阶段行动。完毕。</Chinesesimp>
+              <Chinesesimp>干得漂亮，中士。在帕利萨德点与 Charlie 会合，准备下一阶段行动。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="016_ta_inf_secure_medical_camp_b" audioFilePath="\a3\dubbing_f_tacops\to_c02_m01" dialogName="016_ta_inf_secure_medical_camp_b" dubbingLanguage="english" namePrefix="to_c02_m01_016_ta_inf_secure_medical_camp_b" note="" participants="TO_AlphaSpeaker;TO_guardian;" situation="player's group reports to hq that the fuel dump has been caputred. however, the rest of the squad is dead.">
             <Key ID="str_a3_to_c02_m01_016_ta_inf_secure_medical_camp_b_alphaspeaker_0">
               <Original>Guardian. It's Alpha.</Original>
               <Chinese>"守護者"。這是Alpha。</Chinese>
-              <Chinesesimp>"守护者"，这里是Alpha。</Chinesesimp>
+              <Chinesesimp>"守护者"，这里是 Alpha。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_016_ta_inf_secure_medical_camp_b_alphaspeaker_1">
               <Original>The fuel dump's ours, but, the rest of the squad... shit, sir.</Original>
@@ -6175,7 +6175,7 @@
             <Key ID="str_a3_to_c02_m01_015_ta_inf_secure_medical_camp_a_alphaspeaker_0">
               <Original>This is Alpha.</Original>
               <Chinese>這是Alpha。</Chinese>
-              <Chinesesimp>这里是Alpha。</Chinesesimp>
+              <Chinesesimp>这里是 Alpha。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_015_ta_inf_secure_medical_camp_a_alphaspeaker_1">
               <Original>Guardian, the fuel dump's ours. Over.</Original>
@@ -6199,7 +6199,7 @@
             <Key ID="str_a3_to_c02_m01_013_ta_inf_reinforcements_cleared_a_alphaspeaker_0">
               <Original>Guardian, Alpha - Point Blackburn's all taken care of. Over.</Original>
               <Chinese>"守護者"，這是Alpha-已經拿下布萊克本點了。完畢。</Chinese>
-              <Chinesesimp>"守护者"，Alpha叫-布莱克本点全都搞定了。完毕，请回复。</Chinesesimp>
+              <Chinesesimp>"守护者"，Alpha 叫-布莱克本点全都搞定了。完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_013_ta_inf_reinforcements_cleared_a_guardian_0">
               <Original>Keep it up, Alpha.</Original>
@@ -6209,7 +6209,7 @@
             <Key ID="str_a3_to_c02_m01_013_ta_inf_reinforcements_cleared_a_guardian_1">
               <Original>The fuel depot at Point Charlston's next. Lock it down. Out.</Original>
               <Chinese>下個目標是Charlie斯頓點的燃料儲藏庫。封鎖那區。結束通話。</Chinese>
-              <Chinesesimp>下一个目标是Charlie斯顿点的燃料仓库。夺取它。完毕。</Chinesesimp>
+              <Chinesesimp>下一个目标是 Charlie 斯顿点的燃料仓库。夺取它。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="012_ta_inf_friendlies_arrived" audioFilePath="\a3\dubbing_f_tacops\to_c02_m01" dialogName="012_ta_inf_friendlies_arrived" dubbingLanguage="english" namePrefix="to_c02_m01_012_ta_inf_friendlies_arrived" note="" participants="TO_AlphaSpeaker;TO_foxtrot;" situation="player greets friendly reinforcements.">
@@ -6258,7 +6258,7 @@
             <Key ID="str_a3_to_c02_m01_011_ta_inf_attack_reinforcements_c_guardian_1">
               <Original>Dispatching fireteam Foxtrot. RV at grid 065-035 - regroup, and proceed on task. Guardian, out.</Original>
               <Chinese>已經派出Foxtrot小組。你們在方格坐標065-035碰頭-重新整隊，然後繼續任務。Guardian，結束通話。</Chinese>
-              <Chinesesimp>派遣Foxtrot火力组。在坐标065-035会合-重新集结并执行任务。"守护者"，通话完毕。</Chinesesimp>
+              <Chinesesimp>派遣 Foxtrot 火力组。在坐标065-035会合-重新集结并执行任务。"守护者"，通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="010_ta_inf_attack_reinforcements_b" audioFilePath="\a3\dubbing_f_tacops\to_c02_m01" dialogName="010_ta_inf_attack_reinforcements_b" dubbingLanguage="english" namePrefix="to_c02_m01_010_ta_inf_attack_reinforcements_b" note="" participants="TO_AlphaSpeaker;" situation="player's group responds to hq's task assignment and explain they are able to engage.">
@@ -6277,7 +6277,7 @@
             <Key ID="str_a3_to_c02_m01_008_eve_all_mortars_firing_alphaspeaker_1">
               <Original>Guardian, Alpha! Message, over.</Original>
               <Chinese>"守護者"，這是Alpha!有消息，完畢。</Chinese>
-              <Chinesesimp>"守护者"，Alpha叫!报告消息，完毕，请回复。</Chinesesimp>
+              <Chinesesimp>"守护者"，Alpha 叫!报告消息，完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_008_eve_all_mortars_firing_alphaspeaker_2">
               <Original>We got incoming artillery fire! Can you do anything about it? Over.</Original>
@@ -6299,7 +6299,7 @@
             <Key ID="str_a3_to_c02_m01_007_ta_all_at_neutralized_alphaspeaker_0">
               <Original>Alpha to Guardian. Point Crestone's clear.</Original>
               <Chinese>Alpha呼叫"守護者"。克列斯通點安全了。</Chinese>
-              <Chinesesimp>Alpha呼叫"守护者"。克列斯通点安全。</Chinesesimp>
+              <Chinesesimp>Alpha 呼叫"守护者"。克列斯通点安全。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_007_ta_all_at_neutralized_alphaspeaker_1">
               <Original>CSAT are pulling back... over.</Original>
@@ -6319,14 +6319,14 @@
             <Key ID="str_a3_to_c02_m01_007_ta_all_at_neutralized_guardian_1">
               <Original>Charlie, you're good to go. Support Bravo.</Original>
               <Chinese>Charlie，準許行動。支援Bravo。</Chinese>
-              <Chinesesimp>Charlie，你可以动身了。支援Bravo。</Chinesesimp>
+              <Chinesesimp>Charlie，你可以动身了。支援 Bravo。</Chinesesimp>
             </Key>
           </Container>
           <Container name="006_in_inf_point_mitchell" audioFilePath="\a3\dubbing_f_tacops\to_c02_m01" dialogName="006_in_inf_point_mitchell" dubbingLanguage="english" namePrefix="to_c02_m01_006_in_inf_point_mitchell" note="" participants="TO_BravoSpeaker;" situation="">
             <Key ID="str_a3_to_c02_m01_006_in_inf_point_mitchell_bravospeaker_0">
               <Original>Guardian, it's Bravo here.</Original>
               <Chinese>"守護者"，這是Bravo。</Chinese>
-              <Chinesesimp>"守护者"，这里是Bravo。</Chinesesimp>
+              <Chinesesimp>"守护者"，这里是 Bravo。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_006_in_inf_point_mitchell_bravospeaker_1">
               <Original>We're in control of Point Mitchell, out.</Original>
@@ -6360,7 +6360,7 @@
             <Key ID="str_a3_to_c02_m01_004_ta_inf_opening_bravospeaker_0">
               <Original>Bravo team, advancing.</Original>
               <Chinese>Bravo小隊前進中。</Chinese>
-              <Chinesesimp>Bravo小组，正在前进。</Chinesesimp>
+              <Chinesesimp>Bravo 小组，正在前进。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_004_ta_inf_opening_guardian_0">
               <Original>Guardian to all callsigns.</Original>
@@ -6375,7 +6375,7 @@
             <Key ID="str_a3_to_c02_m01_004_ta_inf_opening_charliespeaker_0">
               <Original>This is Charlie, starting engines.</Original>
               <Chinese>這是Charlie，開始動作。</Chinese>
-              <Chinesesimp>这里是Charlie，正在启动发动机。</Chinesesimp>
+              <Chinesesimp>这里是 Charlie，正在启动发动机。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_004_ta_inf_opening_deltaspeaker_0">
               <Original>Delta - on mission.</Original>
@@ -6385,7 +6385,7 @@
             <Key ID="str_a3_to_c02_m01_004_ta_inf_opening_echospeaker_0">
               <Original>Echo here, rolling.</Original>
               <Chinese>這是Echo，行動中。</Chinese>
-              <Chinesesimp>这里是Echo，正在推进。</Chinesesimp>
+              <Chinesesimp>这里是 Echo，正在推进。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_004_ta_inf_opening_foxtrotspeaker_0">
               <Original>Foxtrot, stepping off.</Original>
@@ -6454,27 +6454,27 @@
             <Key ID="str_a3_to_c02_m01_002_br_inf_briefing_b_guardian_2">
               <Original>Meanwhile, Bravo will overrun Point Mitchell and then, together with Charlie, take Point Foraker... just here.</Original>
               <Chinese>Bravo同時間攻擊布拉克本點，之後與Charlie一起攻擊福拉克點...就在這裡。</Chinese>
-              <Chinesesimp>同时，Bravo将占领米切尔点，随后与Charlie一道，夺取福拉克点...就在这儿。</Chinesesimp>
+              <Chinesesimp>同时，Bravo 将占领米切尔点，随后与 Charlie 一道，夺取福拉克点...就在这儿。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_002_br_inf_briefing_b_guardian_3">
               <Original>Echo squad, you'll head up to Point Elbert and block any reinforcements from Houdan.</Original>
               <Chinese>Echo分隊，你們前往"艾爾伯特"點，封鎖任何從胡丹來襲的敵方援軍。</Chinese>
-              <Chinesesimp>Echo班，你将前往"艾尔伯特"点，阻挡从胡丹来的任何增援部队。</Chinesesimp>
+              <Chinesesimp>Echo 班，你将前往"艾尔伯特"点，阻挡从胡丹来的任何增援部队。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_002_br_inf_briefing_b_guardian_4">
               <Original>Foxtrot will reinforce the town and Delta, you'll edge towards Cancon's harbor at Point Massive.</Original>
               <Chinese>Foxtrot負責防衛城鎮;Delta前往麥西夫點，朝康孔港緩緩推進。</Chinese>
-              <Chinesesimp>Foxtrot将增援城镇，而Delta，你将从侧翼往麦西夫点的康孔港口移动。</Chinesesimp>
+              <Chinesesimp>Foxtrot 将增援城镇，而 Delta，你将从侧翼往麦西夫点的康孔港口移动。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_002_br_inf_briefing_b_guardian_5">
               <Original>Alpha will then continue, accompanied by Bravo and Charlie, hitting a strategic fuel dump, here, at Point Charleston.</Original>
               <Chinese>Alpha之後將在Bravo和Charlie的配合下繼續行動，進攻查爾斯頓據點這兒的一個重要燃料庫。</Chinese>
-              <Chinesesimp>Alpha之后将在Bravo和Charlie的配合下继续行动，进攻查尔斯顿点这儿的一个重要燃料库。</Chinesesimp>
+              <Chinesesimp>Alpha 之后将在 Bravo 和 Charlie 的配合下继续行动，进攻查尔斯顿点这儿的一个重要燃料库。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_002_br_inf_briefing_b_guardian_6">
               <Original>Once that's ours, they will contact Delta, who will create some sort of diversion.</Original>
               <Chinese>只要拿下燃料庫就通知Delta製造騷亂。</Chinese>
-              <Chinesesimp>一旦夺取了那儿，他们将联系Delta，Delta将发起某种牵制性进攻。</Chinesesimp>
+              <Chinesesimp>一旦夺取了那儿，他们将联系 Delta，Delta 将发起某种牵制性进攻。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_002_br_inf_briefing_b_guardian_7">
               <Original>This will draw troops from Point Crillon - where we believe a lot of CSAT's wounded are.</Original>
@@ -6484,7 +6484,7 @@
             <Key ID="str_a3_to_c02_m01_002_br_inf_briefing_b_guardian_8">
               <Original>Alpha can then approach from Chapoi and secure the site.</Original>
               <Chinese>這樣Alpha就能接近沙普瓦，肅清當地。</Chinese>
-              <Chinesesimp>Alpha随后可以从沙普瓦接近，夺取那个地点。</Chinesesimp>
+              <Chinesesimp>Alpha 随后可以从沙普瓦接近，夺取那个地点。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_002_br_inf_briefing_b_guardian_9">
               <Original>Okay - you all know what you got to do out there...? Great... let's put it into action. Dismissed.</Original>
@@ -6761,7 +6761,7 @@
             <Key ID="str_a3_to_c02_m01_075_eve_all_hurry_up_c_in_guardian_0">
               <Original>Guardian to Pariah, flash! Alpha is in the rain.</Original>
               <Chinese>"守護者"呼叫"賤民"，緊急訊息!Alpha遭遇猛烈攻擊。</Chinese>
-              <Chinesesimp>"守护者"呼叫"贱民"，紧急情况!Alpha遭到猛烈攻击。</Chinesesimp>
+              <Chinesesimp>"守护者"呼叫"贱民"，紧急情况!Alpha 遭到猛烈攻击。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_075_eve_all_hurry_up_c_in_guardian_1">
               <Original>Neutralize that gun, ASAP!</Original>
@@ -6899,7 +6899,7 @@
             <Key ID="str_a3_to_c02_m01_062_eve_sf_cas_approaches_i_pariah_0">
               <Original>Alpha needs this! Out.</Original>
               <Chinese>Alpha就靠這個了!結束通話。</Chinese>
-              <Chinesesimp>Alpha正需要这个!完毕。</Chinesesimp>
+              <Chinesesimp>Alpha 正需要这个!完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="061_eve_sf_cas_approaches_h" audioFilePath="\a3\dubbing_f_tacops\to_c02_m01" dialogName="061_eve_sf_cas_approaches_h" dubbingLanguage="english" namePrefix="to_c02_m01_061_eve_sf_cas_approaches_h" note="" participants="TO_pariah;" situation="air support approaches target for a second time. player informs hq that they are leaving strike zone. player is on their own and all the rest of their squad is dead. to follow eve_sf_cas_approaches_a.">
@@ -7129,7 +7129,7 @@
             <Key ID="str_a3_to_c02_m01_042_ta_sf_second_mortar_destroyed_pariah_0">
               <Original>Guardian, second mortar eliminated. Alpha's home free.</Original>
               <Chinese>"守護者"，已經殲滅第二處迫擊砲。Alpha安全了。</Chinese>
-              <Chinesesimp>"守护者"，第二门迫击炮已消灭。Alpha安全啦。</Chinesesimp>
+              <Chinesesimp>"守护者"，第二门迫击炮已消灭。Alpha 安全啦。</Chinesesimp>
             </Key>
           </Container>
           <Container name="041_ta_sf_second_mortar_fail_out" audioFilePath="\a3\dubbing_f_tacops\to_c02_m01" dialogName="041_ta_sf_second_mortar_fail_out" dubbingLanguage="english" namePrefix="to_c02_m01_041_ta_sf_second_mortar_fail_out" note="" participants="TO_guardian;TO_pariah;" situation="after player challenges hq over airstrike, hq explains that there are now no other options. to follow either ta_sf_second_mortar_fail or ta_sf_second_mortar_fail_twice.">
@@ -7153,7 +7153,7 @@
             <Key ID="str_a3_to_c02_m01_040_ta_sf_second_mortar_fail_twice_guardian_1">
               <Original>Alpha's getting hit, bad. Avenger's going to have to return and provide close air support.</Original>
               <Chinese>Alpha被擊中了，很嚴重。"復仇者"必須回來進行密接空中支援。</Chinese>
-              <Chinesesimp>Alpha被击中，打得很惨。"复仇者"将不得不返回提供近距离空中支援。</Chinesesimp>
+              <Chinesesimp>Alpha 被击中，打得很惨。"复仇者"将不得不返回提供近距离空中支援。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_040_ta_sf_second_mortar_fail_twice_pariah_0">
               <Original>Another airstrike? Christ, we could have civilians down there!</Original>
@@ -7327,7 +7327,7 @@
             <Key ID="str_a3_to_c02_m01_009_eve_all_mortars_destroyed_a_guardian_0">
               <Original>Alpha team, enemy mortar destroyed. Continue on objective.</Original>
               <Chinese>Alpha聽著，敵方迫擊砲已經毀了。你繼續任務。</Chinese>
-              <Chinesesimp>Alpha小组，敌军迫击炮已被摧毁。继续攻击目标。</Chinesesimp>
+              <Chinesesimp>Alpha 小组，敌军迫击炮已被摧毁。继续攻击目标。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_009_eve_all_mortars_destroyed_a_guardian_1">
               <Original>Seize Point Blackburn and interdict any CSAT troops located there.</Original>
@@ -7532,7 +7532,7 @@
             <Key ID="str_a3_to_c03_m03_033_ta_enemy_reinforcements_maverick_0">
               <Original>Guardian, flash! AAF armored column is counterattacking from the north.</Original>
               <Chinese>"守護者"，緊急訊息!阿爾蒂斯武裝力量的裝甲縱隊從北方反攻過來。</Chinese>
-              <Chinesesimp>"守护者"，紧急消息!AAF装甲纵队正在从北方发动反攻。</Chinesesimp>
+              <Chinesesimp>"守护者"，紧急消息!AAF 装甲纵队正在从北方发动反攻。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_033_ta_enemy_reinforcements_maverick_1">
               <Original>We can delay them, but not for long.</Original>
@@ -7549,7 +7549,7 @@
             <Key ID="str_a3_to_c03_m03_032_ta_chalkeia_captured_guardian_1">
               <Original>More importantly, higher's just sent word: the AAF are retreating from the airport and withdrawing to Pyrgos, the capital.</Original>
               <Chinese>重點是，我們剛收到上級的消息:阿爾蒂斯武裝力量正退出機場，退到首都皮爾戈斯。</Chinese>
-              <Chinesesimp>更重要的是，指挥部刚刚通知说:AAF正在从机场撤退，并撤退到首都皮尔戈斯。</Chinesesimp>
+              <Chinesesimp>更重要的是，指挥部刚刚通知说:AAF 正在从机场撤退，并撤退到首都皮尔戈斯。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_032_ta_chalkeia_captured_guardian_2">
               <Original>Boys, you did it...</Original>
@@ -7578,7 +7578,7 @@
             <Key ID="str_a3_to_c03_m03_030_eve_tigris_attacking_collins_0">
               <Original>Sierra, Alpha!</Original>
               <Chinese>Sierra，這是Alpha!</Chinese>
-              <Chinesesimp>Sierra，我是Alpha!</Chinesesimp>
+              <Chinesesimp>Sierra，我是 Alpha!</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_030_eve_tigris_attacking_collins_1">
               <Original>That AA gun, you have to get an angle on it!</Original>
@@ -7595,7 +7595,7 @@
             <Key ID="str_a3_to_c03_m03_029_eve_tigris_attacking_charlie_0">
               <Original>Sierra! Come in! This is Charlie! That SPAAG's tearing us to pieces - take it out, hurry!</Original>
               <Chinese>Sierra!請回答!這是Charlie!那臺自走防空武器要把我們分屍了-快點解決它!</Chinese>
-              <Chinesesimp>Sierra!接收!我是Charlie!那个自行高射炮要把我们撕碎了-摧毁它，快点!</Chinesesimp>
+              <Chinesesimp>Sierra!接收!我是 Charlie!那个自行高射炮要把我们撕碎了-摧毁它，快点!</Chinesesimp>
             </Key>
           </Container>
           <Container name="028_ta_tigris_advice_lt_alive" audioFilePath="\a3\dubbing_f_tacops\to_c03_m03" dialogName="028_ta_tigris_advice_lt_alive" dubbingLanguage="english" namePrefix="to_c03_m03_028_ta_tigris_advice_lt_alive" note="" participants="TO_collins;" situation="collins informs the player of the enemy vehicle's weakspot. to follow ta_tigris_spotted_sierra or ta_tigris_spotted_charlie.">
@@ -7614,7 +7614,7 @@
             <Key ID="str_a3_to_c03_m03_027_ta_tigris_spotted_charlie_charlie_0">
               <Original>Charlie to all callsigns - we gotta goddamn Tigris here!</Original>
               <Chinese>Charlie呼叫所有呼號-這裡有臺"底格里斯"，天殺的!</Chinese>
-              <Chinesesimp>Charlie呼叫全体呼号-我们在这儿发现了辆见鬼的"底格里斯"!</Chinesesimp>
+              <Chinesesimp>Charlie 呼叫全体呼号-我们在这儿发现了辆见鬼的"底格里斯"!</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_027_ta_tigris_spotted_charlie_charlie_1">
               <Original>Advise! Over.</Original>
@@ -7648,7 +7648,7 @@
             <Key ID="str_a3_to_c03_m03_025_eve_position_captured_h_charlie_0">
               <Original>Guardian, it's Charlie, we just got Houston. Over.</Original>
               <Chinese>"守護者"，這是Charlie，我們剛拿下休斯頓點。完畢。</Chinese>
-              <Chinesesimp>"守护者"，我是Charlie，我们刚刚夺取了休斯顿点。完毕，请回复。</Chinesesimp>
+              <Chinesesimp>"守护者"，我是 Charlie，我们刚刚夺取了休斯顿点。完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_025_eve_position_captured_h_guardian_0">
               <Original>Copy, you're on a roll, good going! Out.</Original>
@@ -7660,7 +7660,7 @@
             <Key ID="str_a3_to_c03_m03_024_eve_position_captured_g_collins_0">
               <Original>Guardian, this is Alpha. Message. Over.</Original>
               <Chinese>"守護者"，這是Alpha。有消息。完畢。</Chinese>
-              <Chinesesimp>"守护者"，我是Alpha。有消息。完毕，请回复。</Chinesesimp>
+              <Chinesesimp>"守护者"，我是 Alpha。有消息。完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_024_eve_position_captured_g_collins_1">
               <Original>Atlanta's secure, I say again, Point Atlanta is secure, over.</Original>
@@ -7682,7 +7682,7 @@
             <Key ID="str_a3_to_c03_m03_023_eve_position_captured_f_charlie_0">
               <Original>Charlie to Guardian, we're at Point Dallas. Over.</Original>
               <Chinese>Charlie呼叫"守護者"，我們到了達拉斯點了。完畢。</Chinese>
-              <Chinesesimp>Charlie呼叫"守护者"，我们在达拉斯点。完毕，请回复。</Chinesesimp>
+              <Chinesesimp>Charlie 呼叫"守护者"，我们在达拉斯点。完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_023_eve_position_captured_f_guardian_0">
               <Original>Solid copy, Charlie, follow through and hit Point Houston. Out.</Original>
@@ -7694,7 +7694,7 @@
             <Key ID="str_a3_to_c03_m03_022_eve_position_captured_e_bravo_0">
               <Original>Guardian, Bravo here, we've arrived at Point Boston.</Original>
               <Chinese>"守護者"，這是Bravo，我們到了波士頓點。</Chinese>
-              <Chinesesimp>"守护者"，我是Bravo，我们已到达波士顿点。</Chinesesimp>
+              <Chinesesimp>"守护者"，我是 Bravo，我们已到达波士顿点。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_022_eve_position_captured_e_guardian_0">
               <Original>Excellent, keep up this momentum. Out.</Original>
@@ -7706,7 +7706,7 @@
             <Key ID="str_a3_to_c03_m03_021_eve_position_captured_d_bravo_0">
               <Original>Guardian, Bravo, Miami's ours, over.</Original>
               <Chinese>"守護者"，這是Bravo，我們攻下邁阿密點了，完畢。</Chinese>
-              <Chinesesimp>"守护者"，我是Bravo，迈阿密点是我们的了，完毕，请回复。</Chinesesimp>
+              <Chinesesimp>"守护者"，我是 Bravo，迈阿密点是我们的了，完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_021_eve_position_captured_d_guardian_0">
               <Original>Copy, well done, Bravo - proceed to Point Boston. Out.</Original>
@@ -7718,7 +7718,7 @@
             <Key ID="str_a3_to_c03_m03_020_eve_position_captured_c_collins_0">
               <Original>Guardian, this is Alpha. The church at San José's clear, over.</Original>
               <Chinese>"守護者"，這是Alpha。聖荷西的教堂安全了，完畢。</Chinese>
-              <Chinesesimp>"守护者"，我是Alpha。圣荷西的教堂安全了，完毕，请回复。</Chinesesimp>
+              <Chinesesimp>"守护者"，我是 Alpha。圣荷西的教堂安全了，完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_020_eve_position_captured_c_guardian_0">
               <Original>Roger, Alpha, we're gaining ground. Out.</Original>
@@ -7742,7 +7742,7 @@
             <Key ID="str_a3_to_c03_m03_018_eve_position_captured_a_collins_0">
               <Original>Alpha to Guardian, we just captured Point Phoenix, over.</Original>
               <Chinese>Alpha呼叫"守護者"，我們剛佔領鳳凰城點，完畢。</Chinese>
-              <Chinesesimp>Alpha呼叫"守护者"，我们刚刚夺取了凤凰城点，完毕，请回复。</Chinesesimp>
+              <Chinesesimp>Alpha 呼叫"守护者"，我们刚刚夺取了凤凰城点，完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_018_eve_position_captured_a_guardian_0">
               <Original>Nice work, Alpha, St. Louis is next, out.</Original>
@@ -7769,14 +7769,14 @@
             <Key ID="str_a3_to_c03_m03_017_eve_lost_chalkeia_bravo_guardian_3">
               <Original>Guardian to all teams, we can't reach Bravo. Bravo is non-responsive... out.</Original>
               <Chinese>"守護者"呼叫各部隊，我們聯絡不上Bravo。Bravo失聯...結束通話。</Chinese>
-              <Chinesesimp>"守护者"呼叫所有小组，我们联系不上Bravo了。Bravo没有回应...完毕。</Chinesesimp>
+              <Chinesesimp>"守护者"呼叫所有小组，我们联系不上 Bravo 了。Bravo 没有回应...完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="016_eve_lost_chalkeia_alpha" audioFilePath="\a3\dubbing_f_tacops\to_c03_m03" dialogName="016_eve_lost_chalkeia_alpha" dubbingLanguage="english" namePrefix="to_c03_m03_016_eve_lost_chalkeia_alpha" note="" participants="TO_collins;TO_guardian;" situation="alpha are rendered combat ineffective.">
             <Key ID="str_a3_to_c03_m03_016_eve_lost_chalkeia_alpha_collins_0">
               <Original>Guardian, Alpha, my whole squad are gone! I - I can't - everyone's dead or dying!</Original>
               <Chinese>"守護者"，這是Alpha，我們整隊都沒了!我-我不-大家要不是死了，就是剩一口氣而已!</Chinese>
-              <Chinesesimp>"守护者"，我是Alpha，我的班全完了!我-我不能-所有人不是死了就是快死了!</Chinesesimp>
+              <Chinesesimp>"守护者"，我是 Alpha，我的班全完了!我-我不能-所有人不是死了就是快死了!</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_016_eve_lost_chalkeia_alpha_guardian_0">
               <Original>Copy, Alpha, focus!</Original>
@@ -7793,12 +7793,12 @@
             <Key ID="str_a3_to_c03_m03_015_eve_lost_chalkeia_charlie_guardian_0">
               <Original>Guardian to Charlie - report in. Over.</Original>
               <Chinese>"守護者"呼叫Charlie-回報，完畢。</Chinese>
-              <Chinesesimp>"守护者"呼叫Charlie-报告情况。完毕，请回复。</Chinesesimp>
+              <Chinesesimp>"守护者"呼叫 Charlie-报告情况。完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_015_eve_lost_chalkeia_charlie_guardian_1">
               <Original>Charlie squad...?</Original>
               <Chinese>Charlie分隊...?</Chinese>
-              <Chinesesimp>Charlie班...?</Chinesesimp>
+              <Chinesesimp>Charlie 班...?</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_015_eve_lost_chalkeia_charlie_guardian_2">
               <Original>Nothing heard.</Original>
@@ -7808,14 +7808,14 @@
             <Key ID="str_a3_to_c03_m03_015_eve_lost_chalkeia_charlie_guardian_3">
               <Original>All troops in combat... seems we've lost comms with Charlie. Out.</Original>
               <Chinese>各部隊注意...我們和Charlie失去聯繫。結束通話。</Chinese>
-              <Chinesesimp>所有战斗部队...我们与Charlie的通信似乎中断了。完毕。</Chinesesimp>
+              <Chinesesimp>所有战斗部队...我们与 Charlie 的通信似乎中断了。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="014_eve_casualties_chalkeia_bravo" audioFilePath="\a3\dubbing_f_tacops\to_c03_m03" dialogName="014_eve_casualties_chalkeia_bravo" dubbingLanguage="english" namePrefix="to_c03_m03_014_eve_casualties_chalkeia_bravo" note="" participants="TO_bravo;TO_guardian;" situation="bravo report they are taking casualties.">
             <Key ID="str_a3_to_c03_m03_014_eve_casualties_chalkeia_bravo_bravo_0">
               <Original>Guardian, Bravo, we can't take much more of this!</Original>
               <Chinese>"守護者"，這是Bravo，我們撐不住了!</Chinese>
-              <Chinesesimp>"守护者"，我是Bravo，我们无法继续攻占了!</Chinesesimp>
+              <Chinesesimp>"守护者"，我是 Bravo，我们无法继续攻占了!</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_014_eve_casualties_chalkeia_bravo_guardian_0">
               <Original>Copy, hang tough - don't give these SOBs an inch.</Original>
@@ -7832,14 +7832,14 @@
             <Key ID="str_a3_to_c03_m03_013_eve_casualties_chalkeia_alpha_collins_0">
               <Original>Sierra, it's Alpha, we're taking major casualties.</Original>
               <Chinese>Sierra，這是Alpha，我們死傷慘重。</Chinese>
-              <Chinesesimp>Sierra，我是Alpha，我们现在伤亡十分惨重。</Chinesesimp>
+              <Chinesesimp>Sierra，我是 Alpha，我们现在伤亡十分惨重。</Chinesesimp>
             </Key>
           </Container>
           <Container name="012_eve_casualties_chalkeia_charlie" audioFilePath="\a3\dubbing_f_tacops\to_c03_m03" dialogName="012_eve_casualties_chalkeia_charlie" dubbingLanguage="english" namePrefix="to_c03_m03_012_eve_casualties_chalkeia_charlie" note="" participants="TO_charlie;TO_guardian;" situation="charlie report they are taking casualties.">
             <Key ID="str_a3_to_c03_m03_012_eve_casualties_chalkeia_charlie_charlie_0">
               <Original>Charlie to Guardian, we're getting jacked up, like, real fucking good here.</Original>
               <Chinese>Charlie呼叫"守護者"，我們快不行了，受到嚴重傷害。</Chinese>
-              <Chinesesimp>Charlie呼叫"守护者"，我们已经筋疲力尽，嗯，这里可真他妈的好。</Chinesesimp>
+              <Chinesesimp>Charlie 呼叫"守护者"，我们已经筋疲力尽，嗯，这里可真他妈的好。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_012_eve_casualties_chalkeia_charlie_charlie_1">
               <Original>My team need support, right quick! Over.</Original>
@@ -7856,7 +7856,7 @@
             <Key ID="str_a3_to_c03_m03_011_eve_contact_chalkeia_bravo_bravo_0">
               <Original>Guardian, it's Bravo, these fuckers have got us pinned.</Original>
               <Chinese>"守護者"，這是Bravo，我們被這些混球困住了。</Chinese>
-              <Chinesesimp>"守护者"，我是Bravo，这些混蛋把我们困住了。</Chinesesimp>
+              <Chinesesimp>"守护者"，我是 Bravo，这些混蛋把我们困住了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_011_eve_contact_chalkeia_bravo_bravo_1">
               <Original>If anyone can assist - well... we'd be mighty grateful, over.</Original>
@@ -7873,14 +7873,14 @@
             <Key ID="str_a3_to_c03_m03_010_eve_contact_chalkeia_alpha_collins_0">
               <Original>Alpha to Guardian, we're engaging!</Original>
               <Chinese>Alpha呼叫"守護者"，開始交戰!</Chinese>
-              <Chinesesimp>Alpha呼叫"守护者"，我们正在攻击!</Chinesesimp>
+              <Chinesesimp>Alpha 呼叫"守护者"，我们正在攻击!</Chinesesimp>
             </Key>
           </Container>
           <Container name="009_eve_contact_chalkeia_charlie" audioFilePath="\a3\dubbing_f_tacops\to_c03_m03" dialogName="009_eve_contact_chalkeia_charlie" dubbingLanguage="english" namePrefix="to_c03_m03_009_eve_contact_chalkeia_charlie" note="" participants="TO_charlie;TO_guardian;" situation="charlie make contact with the enemy.">
             <Key ID="str_a3_to_c03_m03_009_eve_contact_chalkeia_charlie_charlie_0">
               <Original>Guardian, this is Charlie, we're copping some fire.</Original>
               <Chinese>"守護者"，這是Charlie，我們受到攻擊。</Chinese>
-              <Chinesesimp>"守护者"，我是Charlie，我们遭到射击。</Chinesesimp>
+              <Chinesesimp>"守护者"，我是 Charlie，我们遭到射击。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_009_eve_contact_chalkeia_charlie_charlie_1">
               <Original>Could definitely do with some help. Over.</Original>
@@ -7895,7 +7895,7 @@
             <Key ID="str_a3_to_c03_m03_009_eve_contact_chalkeia_charlie_guardian_1">
               <Original>Guardian to Sierra, if you're able, provide assistance. Out.</Original>
               <Chinese>"守護者"呼叫Sierra，可以的話請進行支援。結束通話。</Chinese>
-              <Chinesesimp>"守护者"呼叫Sierra，如果可以，请提供援助。完毕。</Chinesesimp>
+              <Chinesesimp>"守护者"呼叫 Sierra，如果可以，请提供援助。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="008_ta_intro_start" audioFilePath="\a3\dubbing_f_tacops\to_c03_m03" dialogName="008_ta_intro_start" dubbingLanguage="english" namePrefix="to_c03_m03_008_ta_intro_start" note="" participants="TO_collins;TO_barklem;" situation="player is ordered to support infantry groups.">
@@ -7977,12 +7977,12 @@
             <Key ID="str_a3_to_c03_m03_003_br_briefing_b_guardian_0">
               <Original>Now, after we've regained the initiative, Bravo will secure Miami and continue to Boston, and Charlie will climb to Houston and then head to Dallas.</Original>
               <Chinese>在首波攻擊後，Bravo必須掃蕩邁阿密點，並繼續前往波士頓點;Charlie朝向波士頓點，然後前往達拉斯點。</Chinese>
-              <Chinesesimp>现在，在我们重新获得主动权之后，Bravo将夺取迈阿密点，继续前往波士顿点，Charlie会爬到休斯顿点，然后前往达拉斯点。</Chinesesimp>
+              <Chinesesimp>现在，在我们重新获得主动权之后，Bravo 将夺取迈阿密点，继续前往波士顿点，Charlie 会爬到休斯顿点，然后前往达拉斯点。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_003_br_briefing_b_guardian_1">
               <Original>Lieutenant. Alpha will go from Point Phoenix to St. Louis, on to San José, and then finally to here, Atlanta.</Original>
               <Chinese>少尉。Alpha必須從鳳凰城點前往聖路易点，然後到聖荷西，最後到這裡，亞特蘭大点。</Chinese>
-              <Chinesesimp>少尉。Alpha将从"凤凰城点到圣路易斯点，再到圣荷西，最后到这里，亚特兰大点。</Chinesesimp>
+              <Chinesesimp>少尉。Alpha 将从"凤凰城点到圣路易斯点，再到圣荷西，最后到这里，亚特兰大点。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_003_br_briefing_b_guardian_2">
               <Original>How are your numbers...?</Original>
@@ -8031,7 +8031,7 @@
             <Key ID="str_a3_to_c03_m03_001_br_briefing_a_guardian_2">
               <Original>Our initial attack was stopped before we reached the town itself. Bravo and Charlie are hunkered down here, and here, and cannot move forward.</Original>
               <Chinese>我們的首波攻擊還沒到城鎮就結束了。Bravo和Charlie躲在這裡、還有這裡，無法繼續前進。</Chinese>
-              <Chinesesimp>我们最初的攻击在到达城镇之前就被阻止了。Bravo和Charlie被困在这里，还有这里，无法前进了。</Chinesesimp>
+              <Chinesesimp>我们最初的攻击在到达城镇之前就被阻止了。Bravo 和 Charlie 被困在这里，还有这里，无法前进了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_001_br_briefing_a_guardian_3">
               <Original>We need to get things moving again.</Original>
@@ -8041,17 +8041,17 @@
             <Key ID="str_a3_to_c03_m03_001_br_briefing_a_guardian_4">
               <Original>So, Lieutenant Collins, I'm merging your forces together. You will re-establish group Alpha.</Original>
               <Chinese>所以，柯林斯少尉，我要整合你的部隊。重組成Alpha。</Chinese>
-              <Chinesesimp>因此，柯林斯少尉，我正在把你的部队合并在一起。你将重新组建Alpha。</Chinesesimp>
+              <Chinesesimp>因此，柯林斯少尉，我正在把你的部队合并在一起。你将重新组建 Alpha。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_001_br_briefing_a_guardian_5">
               <Original>And Corporal Barlem, you'll resume command of your APC and retain your current callsign, Sierra.</Original>
               <Chinese>還有巴勒姆下士，你照樣指揮那臺裝甲運兵車，而且繼續維持目前的呼號，Sierra。</Chinese>
-              <Chinesesimp>巴勒姆下士，你将继续控制装甲输送车，并保留当前的呼号Sierra。</Chinesesimp>
+              <Chinesesimp>巴勒姆下士，你将继续控制装甲输送车，并保留当前的呼号 Sierra。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_001_br_briefing_a_guardian_6">
               <Original>Alpha will retake point Phoenix for us, and with Sierra, suppress enemy defenses.</Original>
               <Chinese>Alpha負責奪回鳳凰城點，並連同Sierra一塊削弱敵方防線。</Chinese>
-              <Chinesesimp>Alpha将为我们夺回凤凰城点，并与Sierra一起压制敌军的防御。</Chinesesimp>
+              <Chinesesimp>Alpha 将为我们夺回凤凰城点，并与 Sierra 一起压制敌军的防御。</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -8099,7 +8099,7 @@
             <Key ID="str_a3_to_c03_m02_018_ta_retreat_complete_barklem_0">
               <Original>Sierra to November Actual.</Original>
               <Chinese>Sierra呼叫November隊長。</Chinese>
-              <Chinesesimp>Sierra呼叫November领队。</Chinesesimp>
+              <Chinesesimp>Sierra 呼叫 November 领队。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_018_ta_retreat_complete_barklem_1">
               <Original>Approaching your position, don't light us up.</Original>
@@ -8158,7 +8158,7 @@
             <Key ID="str_a3_to_c03_m02_016_ta_retreat_in_collins_0">
               <Original>November to Sierra, we're home-free, fall back!</Original>
               <Chinese>November呼叫Sierra，可以回去了，撤!</Chinese>
-              <Chinesesimp>November呼叫Sierra，我们大功告成，撤退!</Chinesesimp>
+              <Chinesesimp>November 呼叫 Sierra，我们大功告成，撤退!</Chinesesimp>
             </Key>
           </Container>
           <Container name="015_am_no_mans_land_not_cleared" audioFilePath="\a3\dubbing_f_tacops\to_c03_m02" dialogName="015_am_no_mans_land_not_cleared" dubbingLanguage="english" namePrefix="to_c03_m02_015_am_no_mans_land_not_cleared" note="" participants="TO_collins;TO_pariah;" situation="november are pinned down by enemy fire while heading to the landing zone. collins orders special forces to intervene and flank the enemy.">
@@ -8192,7 +8192,7 @@
             <Key ID="str_a3_to_c03_m02_014_ta_defending_point_superior_oscar_0">
               <Original>Oscar to November, sighting.</Original>
               <Chinese>"奧斯卡"呼叫November，發現敵人。</Chinese>
-              <Chinesesimp>Oscar呼叫November，看到了。</Chinesesimp>
+              <Chinesesimp>Oscar 呼叫 November，看到了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_014_ta_defending_point_superior_oscar_1">
               <Original>Got intel on APC, two armored cars, and an indeterminate number of foot mobiles.</Original>
@@ -8214,7 +8214,7 @@
             <Key ID="str_a3_to_c03_m02_013_am_oscar_to_point_superior_collins_0">
               <Original>November to Sierra - can you manage a rearguard action?</Original>
               <Chinese>November呼叫Sierra-你可以斷後嗎?</Chinese>
-              <Chinesesimp>November呼叫Sierra-你能组织一次后卫行动吗?</Chinesesimp>
+              <Chinesesimp>November 呼叫 Sierra-你能组织一次后卫行动吗?</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_013_am_oscar_to_point_superior_collins_1">
               <Original>Here, at, uh, Superior, for as long as it takes.</Original>
@@ -8234,7 +8234,7 @@
             <Key ID="str_a3_to_c03_m02_013_am_oscar_to_point_superior_oscar_0">
               <Original>November, it's Oscar, we're already behind, count us in.</Original>
               <Chinese>November，這是"奧斯卡"，我們跟上來了，算我們一份。</Chinese>
-              <Chinesesimp>November，我是Oscar，我们已经落后了，算上我们吧。</Chinesesimp>
+              <Chinesesimp>November，我是 Oscar，我们已经落后了，算上我们吧。</Chinesesimp>
             </Key>
           </Container>
           <Container name="012_ta_lz_blazer" audioFilePath="\a3\dubbing_f_tacops\to_c03_m02" dialogName="012_ta_lz_blazer" dubbingLanguage="english" namePrefix="to_c03_m02_012_ta_lz_blazer" note="" participants="TO_barklem;TO_oscar;TO_collins;" situation="player unloads the wounded at the landing zone and is told to return to point superior.">
@@ -8251,7 +8251,7 @@
             <Key ID="str_a3_to_c03_m02_012_ta_lz_blazer_barklem_2">
               <Original>Sierra to Oscar - we made it, over.</Original>
               <Chinese>Sierra呼叫"奧斯卡"-我們到了，完畢。</Chinese>
-              <Chinesesimp>Sierra呼叫Oscar-我们成功了，完毕，请回复。</Chinesesimp>
+              <Chinesesimp>Sierra 呼叫 Oscar-我们成功了，完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_012_ta_lz_blazer_collins_0">
               <Original>Break, break!</Original>
@@ -8261,7 +8261,7 @@
             <Key ID="str_a3_to_c03_m02_012_ta_lz_blazer_collins_1">
               <Original>November to all units, we're taking fire at Point Superior!</Original>
               <Chinese>November呼叫所有單位，我們在蘇必利爾點受到攻擊!</Chinese>
-              <Chinesesimp>November呼叫所有单位，我们在苏必利尔点遭到射击!</Chinesesimp>
+              <Chinesesimp>November 呼叫所有单位，我们在苏必利尔点遭到射击!</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_012_ta_lz_blazer_oscar_0">
               <Original>That's fan-fucking-tastic, we'll be -</Original>
@@ -8283,7 +8283,7 @@
             <Key ID="str_a3_to_c03_m02_011_ta_scouting_friendlies_barklem_0">
               <Original>November, Sierra - we've spotted some friendlies.</Original>
               <Chinese>November，這是Sierra-我們發現了友軍。</Chinese>
-              <Chinesesimp>November，我是Sierra-我们发现了一些友军。</Chinesesimp>
+              <Chinesesimp>November，我是 Sierra-我们发现了一些友军。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_011_ta_scouting_friendlies_barklem_1">
               <Original>They're pinned down, we're gonna try and assist, over.</Original>
@@ -8300,7 +8300,7 @@
             <Key ID="str_a3_to_c03_m02_010_ta_scouting_logistics_barklem_0">
               <Original>November, Sierra, there's some kinda supply point ahead.</Original>
               <Chinese>November，這是Sierra，前面好像有個補給點。</Chinese>
-              <Chinesesimp>November，我是Sierra，前面有个补给点。</Chinesesimp>
+              <Chinesesimp>November，我是 Sierra，前面有个补给点。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_010_ta_scouting_logistics_barklem_1">
               <Original>Looks like our artillery's given it a bit of a pounding, over.</Original>
@@ -8322,7 +8322,7 @@
             <Key ID="str_a3_to_c03_m02_009_ta_scouting_collins_0">
               <Original>November to Sierra, message, over.</Original>
               <Chinese>November呼叫Sierra，有消息，完畢。</Chinese>
-              <Chinesesimp>November呼叫Sierra，有消息，完毕，请回复。</Chinesesimp>
+              <Chinesesimp>November 呼叫 Sierra，有消息，完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_009_ta_scouting_collins_1">
               <Original>Conduct your route recon, prosecute any hostiles, and continue on to LZ Blazer.</Original>
@@ -8368,7 +8368,7 @@
             <Key ID="str_a3_to_c03_m02_006_ta_return_to_erv_oscar_0">
               <Original>Sierra, this is Oscar, hell, are we glad to see you.</Original>
               <Chinese>Sierra，這是"奧斯卡"，老天，真高興見到你。</Chinese>
-              <Chinesesimp>Sierra，我是Oscar，见鬼，见到你们真高兴。</Chinesesimp>
+              <Chinesesimp>Sierra，我是 Oscar，见鬼，见到你们真高兴。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_006_ta_return_to_erv_oscar_1">
               <Original>We'll get you loaded, the rest of us can follow on foot, over.</Original>
@@ -8390,7 +8390,7 @@
             <Key ID="str_a3_to_c03_m02_005_ta_wounded_comrades_collins_0">
               <Original>Pariah, this is November.</Original>
               <Chinese>"游牧民"，這是November。</Chinese>
-              <Chinesesimp>"游牧民"，我是November。</Chinesesimp>
+              <Chinesesimp>"游牧民"，我是 November。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_005_ta_wounded_comrades_collins_1">
               <Original>The village is secure, set up a perimeter - we'll start checking these houses.</Original>
@@ -8566,7 +8566,7 @@
             <Key ID="str_a3_to_c03_m02_002_ta_apc_nearby_collins_0">
               <Original>Pariah, November. I think I can see a Blackfish wreck.</Original>
               <Chinese>"游牧民"，這是November。我看見一架墜毀的"黑魚"。</Chinese>
-              <Chinesesimp>"游牧民"，我是November。我想我能看到"黑鱼"的残骸。</Chinesesimp>
+              <Chinesesimp>"游牧民"，我是 November。我想我能看到"黑鱼"的残骸。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_002_ta_apc_nearby_collins_1">
               <Original>Just beyond the tree line... bearing zero three five. About, six hundred meters.</Original>
@@ -8598,7 +8598,7 @@
             <Key ID="str_a3_to_c03_m02_001_br_briefing_collins_0">
               <Original>Alright, okay, Oscar's here. So. Let's go through this.</Original>
               <Chinese>嗯，好，"奧斯卡"到了。那麼。我們順一遍計畫。</Chinese>
-              <Chinesesimp>好吧，好，我是Oscar。所以。我们来渡过这个难关吧。</Chinesesimp>
+              <Chinesesimp>好吧，好，我是 Oscar。所以。我们来渡过这个难关吧。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_001_br_briefing_collins_1">
               <Original>The situation isn't good; we've got next to no supplies and our armor's missing.</Original>
@@ -8628,7 +8628,7 @@
             <Key ID="str_a3_to_c03_m02_001_br_briefing_collins_4">
               <Original>In fact, the AAF are tightening the noose, even as I speak - we need to act, now.</Original>
               <Chinese>老實說，就在這個當下，阿爾蒂斯武裝力量也在加緊收網-我們必須行動，就是現在。</Chinese>
-              <Chinesesimp>事实上，AAF正在收紧绞索，即使在我说话的时候-我们必须采取行动，马上。</Chinesesimp>
+              <Chinesesimp>事实上，AAF 正在收紧绞索，即使在我说话的时候-我们必须采取行动，马上。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_001_br_briefing_collins_5">
               <Original>Fortunately, LZ Blazer, here, faired better than ourselves.</Original>
@@ -8673,12 +8673,12 @@
             <Key ID="str_a3_to_c03_m02_001_br_briefing_pariah_3">
               <Original>My suggestion is as follows - November will edge towards these buildings and engage the enemy with suppressive fire.</Original>
               <Chinese>我的建議如下-November朝建築緩緩推進，依賴後方火力壓制直接交戰敵人。</Chinese>
-              <Chinesesimp>我的建议是这样的-November向这些建筑缓缓逼近，并以压制火力攻击敌军。</Chinesesimp>
+              <Chinesesimp>我的建议是这样的-November 向这些建筑缓缓逼近，并以压制火力攻击敌军。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_001_br_briefing_pariah_4">
               <Original>Meanwhile, Oscar will stay with the wounded while my squad and everyone else advances through these ancient ruins.</Original>
               <Chinese>同時，"奧斯卡"留下保護受傷的弟兄，我的隊伍連同其他人一起穿過這處古跡。</Chinese>
-              <Chinesesimp>同时，Oscar将和伤员呆在一起，而我的班和其他所有人都穿过这些古老的废墟向前推进。</Chinesesimp>
+              <Chinesesimp>同时，Oscar 将和伤员呆在一起，而我的班和其他所有人都穿过这些古老的废墟向前推进。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_001_br_briefing_pariah_5">
               <Original>On the other side, we'll flank left and strike west.</Original>
@@ -8716,12 +8716,12 @@
           <Key ID="str_a3_to_c03m03_tsksupporttitle">
             <Original>Help Bravo and Charlie</Original>
             <Chinese>幫助Bravo和Charlie</Chinese>
-            <Chinesesimp>帮助Bravo和Charlie</Chinesesimp>
+            <Chinesesimp>帮助 Bravo 和 Charlie</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m03_tsksupportdesc">
             <Original>Eliminate all enemy forces near Bravo and Charlie's positions.</Original>
             <Chinese>殲滅位在Bravo和Charlie附近的所有敵人。</Chinese>
-            <Chinesesimp>消灭Bravo和Charlie的阵地附近的所有敌军。</Chinesesimp>
+            <Chinesesimp>消灭 Bravo 和 Charlie 的阵地附近的所有敌军。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m03_tskevactitle">
             <Original>Escape</Original>
@@ -8766,7 +8766,7 @@
           <Key ID="str_a3_to_c03m03_situation">
             <Original>Our initial attack began before your group arrived, but it's come to a halt %2outside the town%1 - we need to overrun the AAF's %3defensive positions%1, now!&lt;br/&gt;&lt;br/&gt;Enemy armor from %4Pyrgos%1 may arrive at any moment, so it's vital we get things moving. They can't catch our forces on open ground.&lt;br/&gt;&lt;br/&gt;In terms of air support, it's a no-go, at least until we know for sure there's no active AA threats in the area.</Original>
             <Chinese>在你的隊伍到達戰場前，首波攻擊便已展開，但卻在%2城外%1停滯住了-我們必須擊潰阿爾蒂斯武裝力量的%3防線%1，立刻!&lt;br/&gt;&lt;br/&gt;敵方在%4皮爾戈斯%1的裝甲部隊隨時可能來襲，所以我們務必盡快行動。這一路上地形開闊，我們絕不能被裝甲部隊追上。&lt;br/&gt;&lt;br/&gt;目前暫時無法呼叫空中支援，至少得先確認地區內沒有敵方防空威脅活動才行。</Chinese>
-            <Chinesesimp>我们的首次进攻在你的团队到达之前开始，但进攻在%2城外%1停止了-我们得占领AAF的%3防御阵地%1，立即行动!&lt;br/&gt;&lt;br/&gt;敌军在%4皮尔戈斯%1的装甲部队随时可能抵达，因此当务之急是继续前进。他们不能在开阔的地面上赶上我们的部队。&lt;br/&gt;&lt;br/&gt;因为有空中支援，这根本行不通，至少在我们确定此区域内没有有效防空火力时是这样的。</Chinesesimp>
+            <Chinesesimp>我们的首次进攻在你的团队到达之前开始，但进攻在%2城外%1停止了-我们得占领 AAF 的%3防御阵地%1，立即行动!&lt;br/&gt;&lt;br/&gt;敌军在%4皮尔戈斯%1的装甲部队随时可能抵达，因此当务之急是继续前进。他们不能在开阔的地面上赶上我们的部队。&lt;br/&gt;&lt;br/&gt;因为有空中支援，这根本行不通，至少在我们确定此区域内没有有效防空火力时是这样的。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m03_signal">
             <Original>%2Alpha%1 - Group led by Lt. Collins.&lt;br/&gt;&lt;br/&gt;%3Bravo%1 - Infantry element.&lt;br/&gt;&lt;br/&gt;%4Charlie%1 - Infantry element.&lt;br/&gt;&lt;br/&gt;%5Sierra%1 - Your team.&lt;br/&gt;&lt;br/&gt;%6Guardian%1 - Command.&lt;br/&gt;&lt;br/&gt;%7Maverick%1 - Special forces group.</Original>
@@ -8781,7 +8781,7 @@
           <Key ID="str_a3_to_c03m03_outrotext09">
             <Original>Cpl. Barklem was later transferred to Charlie Company of the 1st Mechanized Battalion and witnessed the formal surrender of Altis Armed Forces, one day later...</Original>
             <Chinese>巴克勒姆隨後被調往第一機械營Charlie連，一天後便目睹了阿爾蒂斯武裝力量正式投降...</Chinese>
-            <Chinesesimp>巴克勒姆下士转调到第1机械化营的Charlie连，一天后目睹了阿尔蒂斯武装力量的正式投降...</Chinesesimp>
+            <Chinesesimp>巴克勒姆下士转调到第1机械化营的 Charlie 连，一天后目睹了阿尔蒂斯武装力量的正式投降...</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m03_outrotext08c">
             <Original>Only a single wounded soldier collected from the emergency rendezvous point survived the conflict.</Original>
@@ -8796,7 +8796,7 @@
           <Key ID="str_a3_to_c03m03_outrotext08a">
             <Original>Of the %1 wounded soldiers, captured by the AAF at the emergency rendezvous point, only %2 survived.</Original>
             <Chinese>緊急集合點被阿爾蒂斯武裝力量占領後，該處的%1位負傷弟兄只有%2位倖免於難，成功生還。</Chinese>
-            <Chinesesimp>在紧急会合点被AAF俘虏的%1位伤兵中，只有%2位幸存。</Chinesesimp>
+            <Chinesesimp>在紧急会合点被 AAF 俘虏的%1位伤兵中，只有%2位幸存。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m03_outrotext07b">
             <Original>As for Sgt. Sturrock, he received a Bronze Star for heroic achievement, posthumously.</Original>
@@ -8831,7 +8831,7 @@
           <Key ID="str_a3_to_c03m03_outrotext03">
             <Original>During the battle, all sides suffered heavy losses. The AAF reported %1 casualties, while NATO counted %2.</Original>
             <Chinese>在行動中，各派系都傷亡慘重。阿爾蒂斯武裝力量折損%1名士兵，而北約折損%2名士兵。</Chinese>
-            <Chinesesimp>在战斗中，各方均遭受重大损失。AAF报告%1人伤亡，而北约的伤亡统计是%2。</Chinesesimp>
+            <Chinesesimp>在战斗中，各方均遭受重大损失。AAF 报告%1人伤亡，而北约的伤亡统计是%2。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m03_outrotext02b">
             <Original>At %1, after %2 of fighting, the 21st Combat Group retreated from Chalkeia.</Original>
@@ -8931,7 +8931,7 @@
           <Key ID="str_a3_to_c03m03_mission">
             <Original>%2Chalkeia's%1 on a knife-edge! We must push forwards and assist Bravo and Charlie before %3enemy reinforcements%1 arrive and drive us into the sea.</Original>
             <Chinese>%2哈爾基亞%1的情勢相當危急!我們必須向前推進，在%3敵方援軍%1把我們逼進海裡以前支援Bravo和Charlie。</Chinese>
-            <Chinesesimp>%2哈尔基亚%1的前景未卜!我们在%3敌军增援%1抵达并将我们赶入大海之前，必须继续推进并援助Bravo和Charlie。</Chinesesimp>
+            <Chinesesimp>%2哈尔基亚%1的前景未卜!我们在%3敌军增援%1抵达并将我们赶入大海之前，必须继续推进并援助 Bravo 和 Charlie。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m03_execution">
             <Original>1. Support %2Bravo%1 and %3Charlie%1 and help them continue the assault.&lt;br/&gt;2. Provide covering fire for infantry units advancing on the %4town%1.&lt;br/&gt;3. Capture %4Chalkeia%1.&lt;br/&gt;4. Wait for CAS to destroy any enemy %5counterattack%1.&lt;br/&gt;</Original>
@@ -9041,7 +9041,7 @@
           <Key ID="str_a3_to_c03m02_situation">
             <Original>So far, we've managed to reform at the %2emergency rendezvous point%1. Oscar has just arrived too, adding to our numbers. However, we're completely surrounded and hamstrung by our many wounded. Relocating to a safer position isn't going to be easy.</Original>
             <Chinese>目前我軍設法在%2緊急會合點%1整隊。"奧斯卡"剛剛也到了這裡，人多就是力量。但是，我們被完全包圍了，還有很多人負傷，我們能做的有限。要轉往更安全的地點不是件容易事。</Chinese>
-            <Chinesesimp>到目前为止，我们已经在%2紧急会合点%1完成重组。Oscar也刚刚抵达，增加了我们的人数。然而，我们被完全包围了，还有许多伤员拖我们的后腿。</Chinesesimp>
+            <Chinesesimp>到目前为止，我们已经在%2紧急会合点%1完成重组。Oscar 也刚刚抵达，增加了我们的人数。然而，我们被完全包围了，还有许多伤员拖我们的后腿。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m02_signal">
             <Original>%2November%1 - Group led by Lt. Collins.&lt;br/&gt;%3Pariah%1 - Special forces.&lt;br/&gt;%4Oscar%1 - Infantry element.&lt;br/&gt;%5Guardian%1 - Command.</Original>
@@ -9156,7 +9156,7 @@
           <Key ID="str_a3_to_c03m01_tsksupplies01title">
             <Original>Retrieve Mortar (Optional)</Original>
             <Chinese>找回迫擊炮(可選)</Chinese>
-            <Chinesesimp>找回迫击炮(可选)</Chinesesimp>
+            <Chinesesimp>找回迫击炮（可选）</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m01_tsksupplies01desc">
             <Original>Find the missing mortar for Lieutenant Collins.</Original>
@@ -9176,7 +9176,7 @@
           <Key ID="str_a3_to_c03m01_tskrecontitle">
             <Original>Help Recon Group (Optional)</Original>
             <Chinese>幫助偵察團隊(可選)</Chinese>
-            <Chinesesimp>帮助侦察团队(可选)</Chinesesimp>
+            <Chinesesimp>帮助侦察团队（可选）</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m01_tskrecondesc">
             <Original>Assist the special forces team and help them hold their position.</Original>
@@ -9246,12 +9246,12 @@
           <Key ID="str_a3_to_c03m01_mrkogstallion">
             <Original>Operation group Bravo</Original>
             <Chinese>作戰團隊Bravo</Chinese>
-            <Chinesesimp>战役集群Bravo</Chinesesimp>
+            <Chinesesimp>战役集群 Bravo</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m01_mrkogmustang">
             <Original>Operation group Alpha</Original>
             <Chinese>作戰團隊Alpha</Chinese>
-            <Chinesesimp>战役集群Alpha</Chinesesimp>
+            <Chinesesimp>战役集群 Alpha</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m01_missionname">
             <Original>LZ Nowhere</Original>
@@ -9362,7 +9362,7 @@
             <Key ID="str_a3_to_c03_m01_001_br_briefing_bowker_14">
               <Original>A second front here, close to Pyrgos, will leave the AAF no choice.</Original>
               <Chinese>在皮爾戈斯附近拉起第二陣線，不留給阿爾蒂斯武裝力量任何餘地。</Chinese>
-              <Chinesesimp>在皮尔戈斯附近的第二战场，将让AAF别无选择。</Chinesesimp>
+              <Chinesesimp>在皮尔戈斯附近的第二战场，将让 AAF 别无选择。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_001_br_briefing_bowker_15">
               <Original>They will have to weaken their grip on the main airport.</Original>
@@ -9548,7 +9548,7 @@
             <Key ID="str_a3_to_c03_m01_030_am_aaf_sniper_team_in_c_soldiera_0">
               <Original>Again, sector Alpha.</Original>
               <Chinese>一樣，Alpha分區。</Chinese>
-              <Chinesesimp>又是防区Alpha。</Chinesesimp>
+              <Chinesesimp>又是防区 Alpha。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_030_am_aaf_sniper_team_in_c_soldiera_1">
               <Original>One o'clock, eleven mils.</Original>
@@ -9560,7 +9560,7 @@
             <Key ID="str_a3_to_c03_m01_029_am_aaf_sniper_team_in_b_soldiera_0">
               <Original>Sector Alpha.</Original>
               <Chinese>Alpha分區。</Chinese>
-              <Chinesesimp>防区Alpha。</Chinesesimp>
+              <Chinesesimp>防区 Alpha。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_029_am_aaf_sniper_team_in_b_soldiera_1">
               <Original>Go to the twelve o'clock, ten mils.</Original>
@@ -9572,7 +9572,7 @@
             <Key ID="str_a3_to_c03_m01_028_am_aaf_sniper_team_in_a_soldiera_0">
               <Original>Okay, sector Delta.</Original>
               <Chinese>好，Delta分區。</Chinese>
-              <Chinesesimp>好，防区Delta。</Chinesesimp>
+              <Chinesesimp>好，防区 Delta。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_028_am_aaf_sniper_team_in_a_soldiera_1">
               <Original>Three o'clock, four mils.</Original>
@@ -9584,7 +9584,7 @@
             <Key ID="str_a3_to_c03_m01_027_ta_regroup_defended_fail_collins_0">
               <Original>Guardian, it's November Actual.</Original>
               <Chinese>"守護者"，這是November隊長。</Chinese>
-              <Chinesesimp>"守护者"，我是November领队。</Chinesesimp>
+              <Chinesesimp>"守护者"，我是 November 领队。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_027_ta_regroup_defended_fail_collins_1">
               <Original>I don't know how much longer we can hold here!</Original>
@@ -9616,7 +9616,7 @@
             <Key ID="str_a3_to_c03_m01_026_ta_regroup_defended_collins_1">
               <Original>Once Oscar and Pariah arrive, we'll assess our options. Perhaps, we can still turn this around. Out.</Original>
               <Chinese>等"奧斯卡"和"賤民"也到了，我們就評估狀況。或許還有機會扭轉戰局。結束通話。</Chinese>
-              <Chinesesimp>在Oscar和"贱民"到达之后，我们将对我们的选择进行评估。也许，我们仍然可以扭转这个局面。完毕。</Chinesesimp>
+              <Chinesesimp>在 Oscar 和"贱民"到达之后，我们将对我们的选择进行评估。也许，我们仍然可以扭转这个局面。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="025_ta_regroup_point_out_mortar" audioFilePath="\a3\dubbing_f_tacops\to_c03_m01" dialogName="025_ta_regroup_point_out_mortar" dubbingLanguage="english" namePrefix="to_c03_m01_025_ta_regroup_point_out_mortar" note="" participants="TO_barklem;TO_collins;" situation="player is assigned defence task at the regroup point and has salvaged the mortar. to follow ta_regroup_point_out if applicable.">
@@ -9640,7 +9640,7 @@
             <Key ID="str_a3_to_c03_m01_024_ta_regroup_point_out_collins_1">
               <Original>That's our last line of defence, we can't let the AAF take it.</Original>
               <Chinese>教堂是我們的最後防線，絕對不能落入阿爾蒂斯武裝力量手裡。</Chinese>
-              <Chinesesimp>那是我们的最后一道防线，不能让AAF攻破。</Chinesesimp>
+              <Chinesesimp>那是我们的最后一道防线，不能让 AAF 攻破。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_024_ta_regroup_point_out_collins_2">
               <Original>There's some ammo boxes up there...</Original>
@@ -9657,7 +9657,7 @@
             <Key ID="str_a3_to_c03_m01_023_ta_regroup_point_group_collins_0">
               <Original>Okay, well, with Romeo, on the hill behind me.</Original>
               <Chinese>好，呃，你跟著Romeo，在我身後的山丘上。</Chinese>
-              <Chinesesimp>好的，嗯，和Romeo一起，在我身后的山上。</Chinesesimp>
+              <Chinesesimp>好的，嗯，和 Romeo 一起，在我身后的山上。</Chinesesimp>
             </Key>
           </Container>
           <Container name="022_ta_regroup_point" audioFilePath="\a3\dubbing_f_tacops\to_c03_m01" dialogName="022_ta_regroup_point" dubbingLanguage="english" namePrefix="to_c03_m01_022_ta_regroup_point" note="" participants="TO_barklem;TO_collins;" situation="player is assigned defence task at the regroup point.">
@@ -9669,7 +9669,7 @@
             <Key ID="str_a3_to_c03_m01_022_ta_regroup_point_collins_0">
               <Original>Okay, well, you're not injured, you can join the rest of November. They're on the hill behind me.</Original>
               <Chinese>好，嗯，你沒受傷，你去加入November。他們在我身後的山丘上。</Chinese>
-              <Chinesesimp>好的，嗯，你没受伤，你可以加入November的余部。他们在我身后的山上。</Chinesesimp>
+              <Chinesesimp>好的，嗯，你没受伤，你可以加入 November 的余部。他们在我身后的山上。</Chinesesimp>
             </Key>
           </Container>
           <Container name="021_ta_regroup_point_in" audioFilePath="\a3\dubbing_f_tacops\to_c03_m01" dialogName="021_ta_regroup_point_in" dubbingLanguage="english" namePrefix="to_c03_m01_021_ta_regroup_point_in" note="" participants="TO_collins;" situation="player is assigned defence task at the regroup point.">
@@ -9693,7 +9693,7 @@
             <Key ID="str_a3_to_c03_m01_020_am_oscar_late_oscar_0">
               <Original>Oscar to November Actual, we're coming to you... we're about half a klick from Point Superior. Over.</Original>
               <Chinese>"奧斯卡"呼叫November隊長，我們正往你那邊過去...目前距離蘇必利爾點大概半公里。完畢。</Chinese>
-              <Chinesesimp>Oscar呼叫November领队，我们正往你这边来...我们距离苏必利尔点约零点五千米。完毕，请回复。</Chinesesimp>
+              <Chinesesimp>Oscar 呼叫 November 领队，我们正往你这边来...我们距离苏必利尔点约零点五千米。完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_020_am_oscar_late_oscar_1">
               <Original>Ten mikes, give or take... we gotta lotta wounded here, it's slowing us down, we can't...</Original>
@@ -9710,7 +9710,7 @@
             <Key ID="str_a3_to_c03_m01_019_am_regroup_point_under_fire_a_collins_0">
               <Original>All units, this is November Actual.</Original>
               <Chinese>各單位注意，這是November隊長。</Chinese>
-              <Chinesesimp>所有单元，我是November领队。</Chinesesimp>
+              <Chinesesimp>所有单元，我是 November 领队。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_019_am_regroup_point_under_fire_a_collins_1">
               <Original>Repair to the Surf Club, immediately.</Original>
@@ -9720,14 +9720,14 @@
             <Key ID="str_a3_to_c03_m01_019_am_regroup_point_under_fire_a_collins_2">
               <Original>The AAF are attacking our position!</Original>
               <Chinese>阿爾蒂斯武裝力量正在攻擊這裡!</Chinese>
-              <Chinesesimp>AAF正在攻击我们的阵地!</Chinesesimp>
+              <Chinesesimp>AAF 正在攻击我们的阵地!</Chinesesimp>
             </Key>
           </Container>
           <Container name="018_eve_mortar_secured_in" audioFilePath="\a3\dubbing_f_tacops\to_c03_m01" dialogName="018_eve_mortar_secured_in" dubbingLanguage="english" namePrefix="to_c03_m01_018_eve_mortar_secured_in" note="" participants="TO_barklem;TO_collins;" situation="player acquires the mortar.">
             <Key ID="str_a3_to_c03_m01_018_eve_mortar_secured_in_barklem_0">
               <Original>Sierra One-Four to November, Lieutenant Collins... I've got that mortar.</Original>
               <Chinese>Sierra1-4"呼叫November，柯林斯少尉...我找到迫擊砲了。</Chinese>
-              <Chinesesimp>Sierra1-4"呼叫November，柯林斯少尉...我拿到那门迫击炮了。</Chinesesimp>
+              <Chinesesimp>Sierra1-4"呼叫 November，柯林斯少尉...我拿到那门迫击炮了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_018_eve_mortar_secured_in_barklem_1">
               <Original>Thing weighs a ton. Over.</Original>
@@ -9744,12 +9744,12 @@
             <Key ID="str_a3_to_c03_m01_017_ta_mortar_needed_collins_0">
               <Original>Sierra Actual, report! Where's that mortar? Over.</Original>
               <Chinese>Sierra隊長，回報!迫擊砲在哪?完畢。</Chinese>
-              <Chinesesimp>Sierra队长，请报告!那个迫击炮在哪里?完毕。</Chinesesimp>
+              <Chinesesimp>Sierra 队长，请报告!那个迫击炮在哪里?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_017_ta_mortar_needed_collins_1">
               <Original>Sierra Actual this is November Actual, what's your status...?</Original>
               <Chinese>Sierra隊長，這是November隊長，你那邊狀況如何...?</Chinese>
-              <Chinesesimp>Sierra队长，我是November领队，你现在什么状态...?</Chinesesimp>
+              <Chinesesimp>Sierra 队长，我是 November 领队，你现在什么状态...?</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_017_ta_mortar_needed_collins_2">
               <Original>Sergeant Ramírez, key the radio if you can't talk, over.</Original>
@@ -9781,7 +9781,7 @@
             <Key ID="str_a3_to_c03_m01_016_ta_recon_position_pariah_1">
               <Original>Shit - I guess November didn't send you then...?</Original>
               <Chinese>可惡-你不是November派來的吧...?</Chinese>
-              <Chinesesimp>狗屁-我想November并没派你...?</Chinesesimp>
+              <Chinesesimp>狗屁-我想 November 并没派你...?</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_016_ta_recon_position_pariah_2">
               <Original>Motherfucker!</Original>
@@ -9798,7 +9798,7 @@
             <Key ID="str_a3_to_c03_m01_015_eve_equipment_needed_barklem_0">
               <Original>Sierra One-Four to November, do you read me?</Original>
               <Chinese>Sierra1-4"呼叫November，你收到嗎?</Chinese>
-              <Chinesesimp>Sierra1-4"呼叫November，你收到了吗?</Chinesesimp>
+              <Chinesesimp>Sierra1-4"呼叫 November，你收到了吗?</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_015_eve_equipment_needed_barklem_1">
               <Original>It's Corporal Louis Barklem.</Original>
@@ -9840,7 +9840,7 @@
             <Key ID="str_a3_to_c03_m01_014_am_pariah_argument_pariah_0">
               <Original>Pariah to November Actual, we're at Point Erie. It's, uh, getting kinda lively here.</Original>
               <Chinese>"賤民"呼叫November隊長，我們在伊利點。這裡的狀況，嗯，相當激烈。</Chinese>
-              <Chinesesimp>"贱民"呼叫November领队，我们在伊利点。这里，嗯，战斗相当激烈。</Chinesesimp>
+              <Chinesesimp>"贱民"呼叫 November 领队，我们在伊利点。这里，嗯，战斗相当激烈。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_014_am_pariah_argument_pariah_1">
               <Original>Could do with some support. Over.</Original>
@@ -9912,12 +9912,12 @@
             <Key ID="str_a3_to_c03_m01_013_ta_contact_reestablished_guardian_0">
               <Original>Guardian to November Actual, do you copy? Over.</Original>
               <Chinese>"守護者"呼叫November隊長，你收到嗎?完畢。</Chinese>
-              <Chinesesimp>"守护者"呼叫November领队，你收到了吗?完毕，请回复。</Chinesesimp>
+              <Chinesesimp>"守护者"呼叫 November 领队，你收到了吗?完毕，请回复。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_013_ta_contact_reestablished_collins_2">
               <Original>Quebec never landed, and Sierra are scattered... I - I don't know about Oscar and Papa. Over.</Original>
               <Chinese>我軍並未降落在Quebec點，Sierra剩下幾位弟兄而已...我-我不清楚"奧斯卡"和Papa的狀況。完畢。</Chinese>
-              <Chinesesimp>Quebec从未着陆，Sierra被击溃了...我-我不知道Oscar和Papa的情况。完毕。</Chinesesimp>
+              <Chinesesimp>Quebec 从未着陆，Sierra 被击溃了...我-我不知道 Oscar 和 Papa 的情况。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_013_ta_contact_reestablished_collins_3">
               <Original>Acknowledged, we'll, uh, reassemble and... reassess, out.</Original>
@@ -9927,12 +9927,12 @@
             <Key ID="str_a3_to_c03_m01_013_ta_contact_reestablished_collins_4">
               <Original>All callsigns, November. Lieutenant Collins.</Original>
               <Chinese>各呼號注意，這是November。我是柯林斯少尉。</Chinese>
-              <Chinesesimp>全体呼号，我是November。柯林斯少尉。</Chinesesimp>
+              <Chinesesimp>全体呼号，我是 November。柯林斯少尉。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_013_ta_contact_reestablished_guardian_1">
               <Original>Copy, Papa's VTOL didn't make it so don't expect much company.</Original>
               <Chinese>收到，Papa的垂直升降飛行器沒撐過攻擊，別期待太高。</Chinese>
-              <Chinesesimp>收到，Papa的垂直起降飞机没有及时到达，所以你不要期待会有很多人陪你。</Chinesesimp>
+              <Chinesesimp>收到，Papa 的垂直起降飞机没有及时到达，所以你不要期待会有很多人陪你。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_013_ta_contact_reestablished_guardian_2">
               <Original>You may be a Third Lieutenant, but you're in charge now.</Original>
@@ -10214,7 +10214,7 @@
             <Key ID="str_a3_to_c03_m01_002_int_crash_site_barklem_9">
               <Original>Sierra Actual, it's Barklem, do you copy?</Original>
               <Chinese>Sierra隊長，這是巴克勒姆，你收到嗎?</Chinese>
-              <Chinesesimp>Sierra队长，我是巴克勒姆，你收到了吗?</Chinesesimp>
+              <Chinesesimp>Sierra 队长，我是巴克勒姆，你收到了吗?</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -10244,7 +10244,7 @@
       <Key ID="str_a3_to_c03_outro_text07a">
         <Original>Cpl. Barklem was transferred into Charlie Company of 1st mechanized battalion and witnessed surrender of Altis Armed forces the next day.</Original>
         <Chinese>下士巴克勒姆被調往第一機械營Charlie連的第二天，他便目睹了阿爾蒂斯武裝力量投降。</Chinese>
-        <Chinesesimp>巴克勒姆下士转入第1机械化营的Charlie连，次日目睹了阿尔蒂斯武装力量的投降。</Chinesesimp>
+        <Chinesesimp>巴克勒姆下士转入第1机械化营的 Charlie 连，次日目睹了阿尔蒂斯武装力量的投降。</Chinesesimp>
       </Key>
       <Key ID="str_a3_to_c03_outro_text06b">
         <Original>%1 injured soldiers gathered at the emergency rendezvous point were evacuated and survived the war.</Original>
@@ -10254,12 +10254,12 @@
       <Key ID="str_a3_to_c03_outro_text06a">
         <Original>From %1 injured soldiers gathered at the emergency rendezvous captured by AAF, only %2 survived.</Original>
         <Chinese>緊急集合點被阿爾蒂斯武裝力量佔領後，該處的%1名負傷士兵，只存活了%2名。</Chinese>
-        <Chinesesimp>在AAF夺取的紧急会合点聚集的%1名受伤士兵中，只有%2名存活下来。</Chinesesimp>
+        <Chinesesimp>在 AAF 夺取的紧急会合点聚集的%1名受伤士兵中，只有%2名存活下来。</Chinesesimp>
       </Key>
       <Key ID="str_a3_to_c03_outro_text05a">
         <Original>Lt. Collins was promoted to 1st Lieutenant (in memoriam). Sgt. Sturrock was (posthumously) awarded Bronze Star for heroic achievements in the operation.</Original>
         <Chinese>柯林斯少尉被提拔為中尉(追封)。死去的斯塔羅克中士獲頒銅星勳章，以紀念他在行動中的英勇表現。</Chinese>
-        <Chinesesimp>柯林斯少尉被追晋为中尉。斯塔罗克中士因在该行动计划中的英雄业绩被(追)授青铜星章。</Chinesesimp>
+        <Chinesesimp>柯林斯少尉被追晋为中尉。斯塔罗克中士因在该行动计划中的英雄业绩被（追）授青铜星章。</Chinesesimp>
       </Key>
       <Key ID="str_a3_to_c03_outro_text04a">
         <Original>But the operation fulfilled its goal. Deadlock at the airfield was broken. Altis capital, Pyrgos fell that night.</Original>
@@ -10269,7 +10269,7 @@
       <Key ID="str_a3_to_c03_outro_text03a">
         <Original>Both sides suffered heavy losses. During the operation, AAF lost %1 men. NATO suffered %2 casualties.</Original>
         <Chinese>雙方都傷亡慘重。在本次行動中，阿爾蒂斯武裝力量折損%1名士兵。北約折損%2名士兵。</Chinese>
-        <Chinesesimp>双方都损失惨重。在作战期间，AAF损失了%1名士兵。北约有%2人伤亡。</Chinesesimp>
+        <Chinesesimp>双方都损失惨重。在作战期间，AAF 损失了%1名士兵。北约有%2人伤亡。</Chinesesimp>
       </Key>
       <Key ID="str_a3_to_c03_outro_text02a">
         <Original>At %1:%2, after %3 hours of fighting, 21th combat group evacuated from Chalkeia.</Original>
@@ -10909,7 +10909,7 @@
       <Key ID="str_a3_to_tooltipaar_campaigncompleted">
         <Original>Watch After Action Report on YouTube</Original>
         <Chinese>前往YouTube查看"行動後報告"</Chinese>
-        <Chinesesimp>在YouTube上看行动后报告</Chinesesimp>
+        <Chinesesimp>在 YouTube 上看行动后报告</Chinesesimp>
       </Key>
       <Key ID="str_a3_to_tooltipaar_campaigntodo">
         <Original>Complete campaign to unlock After Action Report</Original>

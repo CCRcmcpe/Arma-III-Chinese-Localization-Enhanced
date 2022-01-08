@@ -10,22 +10,22 @@
       <Key ID="str_a3_orange_cfgmods_weaponprevnotiftext">
         <Original>This weapon is part of Laws of War DLC. Please purchase the DLC to use it.</Original>
         <Chinese>該武器是戰爭法資料片的一部分，請購買該資料片再使用。</Chinese>
-        <Chinesesimp>该武器是战争法DLC的一部分，请购买该DLC再使用。</Chinesesimp>
+        <Chinesesimp>该武器是战争法 DLC 的一部分，请购买该 DLC 再使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_vehprevmsgtext">
         <Original>This vehicle is part of Laws of War DLC. Please purchase the DLC to enter as crew.</Original>
         <Chinese>該車輛是戰爭法資料片的一部分。請購買該資料片再進入車輛。</Chinese>
-        <Chinesesimp>该车辆是战争法DLC的一部分。请购买该DLC再进入车辆。</Chinesesimp>
+        <Chinesesimp>该车辆是战争法 DLC 的一部分。请购买该 DLC 再进入车辆。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_uxo_description">
         <Original>As a direct consequence of using cluster munitions, the small bomblets don't always detonate and leave behind lethal unexploded ordnance (UXO). Unique UXO for NATO, CSAT and AAF let you identify who has deployed these weapons. Several trigger behavior variants exist as well.</Original>
         <Chinese>作為使用集束彈藥的直接後果，這些小型子炸彈不總會爆炸，並會遺留下致命性的未爆兵器(UXO)。北約、廣協同盟和阿爾蒂斯武裝力量使用的此類武器都會留下獨特的未爆兵器，能讓你辨識其來源。同時還存在多種不同的觸發方式。</Chinese>
-        <Chinesesimp>作为使用集束弹药的直接后果，这些小型子炸弹不总会爆炸，并会遗留下致命性的未爆兵器(UXO)。北约、广协和AAF使用的此类武器都会留下独特的未爆兵器，能让你辨识其来源。同时还存在多种不同的触发方式。</Chinesesimp>
+        <Chinesesimp>作为使用集束弹药的直接后果，这些小型子炸弹不总会爆炸，并会遗留下致命性的未爆兵器（UXO）。北约、广协和 AAF 使用的此类武器都会留下独特的未爆兵器，能让你辨识其来源。同时还存在多种不同的触发方式。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_tooltip">
         <Original>Arma 3 Laws of War DLC is now available. Click to purchase it.</Original>
         <Chinese>武裝突襲3戰爭法資料片現在可用。點擊購買。</Chinese>
-        <Chinesesimp>武装突袭3战争法DLC现在可用。点击购买。</Chinesesimp>
+        <Chinesesimp>武装突袭3战争法 DLC 现在可用。点击购买。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_tentobjects_displayname">
         <Original>Tent Objects</Original>
@@ -35,7 +35,7 @@
       <Key ID="str_a3_orange_cfgmods_tentobjects_description">
         <Original>In addition to (medical) shelter tents and separate floor canvases, a portable air-conditioning unit and plastic net fences are also available.</Original>
         <Chinese>除了(醫療)掩體帳篷和獨立帆布地鋪外，還有了便攜式空調單元和塑料網柵欄。</Chinese>
-        <Chinesesimp>除了(医疗)掩体帐篷和独立帆布地铺外，还有了便携式空调单元和塑料网栅栏。</Chinesesimp>
+        <Chinesesimp>除了（医疗）掩体帐篷和独立帆布地铺外，还有了便携式空调单元和塑料网栅栏。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_showcase_lawsofwar_displayname">
         <Original>Showcase Laws of War</Original>
@@ -85,7 +85,7 @@
       <Key ID="str_a3_orange_cfgmods_popupmsgtext">
         <Original>You are using premium content. Please purchase Laws of War DLC to remove these messages.</Original>
         <Chinese>你在使用附加內容。請購買戰爭法資料片以去掉這些信息。</Chinese>
-        <Chinesesimp>你在使用附加内容。请购买战争法DLC以去掉这些信息。</Chinesesimp>
+        <Chinesesimp>你在使用附加内容。请购买战争法 DLC 以去掉这些信息。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_paramedicoutfit_description">
         <Original>Ambulance crews wear these outfits while performing their life-saving duties. Special patches allow for increased visibility by reflecting light.</Original>
@@ -95,17 +95,17 @@
       <Key ID="str_a3_orange_cfgmods_overviewfootnote">
         <Original>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;This content is exclusive to Arma 3 Laws of War DLC.&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;Left Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; to open the store page for more information.&lt;t /&gt;</Original>
         <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;該內容專屬於武裝突襲3戰爭法資料片。&lt;br/&gt;按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打開商店頁面獲取更多信息。&lt;t/&gt;</Chinese>
-        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;该内容专属于武装突袭3战争法DLC。&lt;br/&gt;按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打开商店页面获取更多信息。&lt;t/&gt;</Chinesesimp>
+        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;该内容专属于武装突袭3战争法 DLC。&lt;br/&gt;按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左 Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打开商店页面获取更多信息。&lt;t/&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_overview">
         <Original>Explore a different perspective on the battlefield with the addition of a humanitarian faction, van, drone, mini-campaign, and much more, in the Arma 3 Laws of War DLC.</Original>
         <Chinese>探索戰場的另外一面，在武裝突襲3戰爭法資料片中獲得新的人道主義派別，麵包車，無人機，小戰役以及其他內容。</Chinese>
-        <Chinesesimp>探索战场的另外一面，在武装突袭3战争法DLC中获得新的人道主义派别，面包车，无人机，小战役以及其他内容。</Chinesesimp>
+        <Chinesesimp>探索战场的另外一面，在武装突袭3战争法 DLC 中获得新的人道主义派别，面包车，无人机，小战役以及其他内容。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_namedlc">
         <Original>Laws of War DLC</Original>
         <Chinese>戰爭法資料片</Chinese>
-        <Chinesesimp>战争法DLC</Chinesesimp>
+        <Chinesesimp>战争法 DLC</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_name">
         <Original>Arma 3 Laws of War</Original>
@@ -140,7 +140,7 @@
       <Key ID="str_a3_orange_cfgmods_messengerbag_description">
         <Original>Available in a range of colors, the messenger bag is a convenient piece of gear for couriers, journalists and many other professionals. IDAP has commissioned a special version for its staff and volunteers.</Original>
         <Chinese>擁有不同配色選項的郵包是一種為通訊員、記者和許多其他專業人士提供的便攜裝備。國際發展援助工程組織(國發援)為其員工和志願者設計了一種特殊型號。</Chinese>
-        <Chinesesimp>拥有不同配色选项的邮包是一种为通信员、记者和许多其他专业人士提供的便携装备。国际发展援助工程组织(国发援)为其员工和志愿者设计了一种特殊型号。</Chinesesimp>
+        <Chinesesimp>拥有不同配色选项的邮包是一种为通信员、记者和许多其他专业人士提供的便携装备。国际发展援助工程组织（国发援）为其员工和志愿者设计了一种特殊型号。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_medicalobjects_displayname">
         <Original>Medical Objects</Original>
@@ -160,7 +160,7 @@
       <Key ID="str_a3_orange_cfgmods_loac_description">
         <Original>The Laws of Armed Conflict (LOAC) are covered by extensive Field Manual records, improvements to features, and smaller tweaks to the sandbox.</Original>
         <Chinese>武裝衝突的法則(LOAC)包括了大量的野戰手冊記錄，關於遊戲性的改進和對沙盒的微調。</Chinese>
-        <Chinesesimp>武装冲突的法则(LOAC)包括了大量的野战手册记录，关于游戏性的改进和对沙盒的微调。</Chinesesimp>
+        <Chinesesimp>武装冲突的法则（LOAC）包括了大量的野战手册记录，关于游戏性的改进和对沙盒的微调。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_legstrapbag_displayname">
         <Original>Leg Strap Bag</Original>
@@ -185,7 +185,7 @@
       <Key ID="str_a3_orange_cfgmods_itemprevnotiftext">
         <Original>This item is part of Laws of War DLC. Please purchase the DLC to use it.</Original>
         <Chinese>該物體是戰爭法資料片的一部分。請購買該資料片再使用。</Chinese>
-        <Chinesesimp>该物体是战争法DLC的一部分。请购买该DLC再使用。</Chinesesimp>
+        <Chinesesimp>该物体是战争法 DLC 的一部分。请购买该 DLC 再使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_identificationvest_displayname">
         <Original>Identification Vest</Original>
@@ -205,7 +205,7 @@
       <Key ID="str_a3_orange_cfgmods_idapvehicles_description">
         <Original>IDAP has purchased a range of commercial vehicles, including drones, for humanitarian missions. Clearly distinguishable markings are applied in order to operate in high-risk areas as an unarmed neutral party. For activities requiring airlifts, they lease aircraft temporarily.</Original>
         <Chinese>國際發展援助工程組織(國發援)購買了一系列商用車型以及無人機用於人道主義使命。為了在高危地區作為非武裝中立派別活動，它們全都塗有顯著的標誌。在執行空運任務時它們會臨時租借飛機。</Chinese>
-        <Chinesesimp>国际发展援助工程组织(国发援)购买了一系列商用车型以及无人机用于人道主义使命。为了在高危地区作为非武装中立派别活动，它们全都涂有显着的标志。在执行空运任务时它们会临时租借飞机。</Chinesesimp>
+        <Chinesesimp>国际发展援助工程组织（国发援）购买了一系列商用车型以及无人机用于人道主义使命。为了在高危地区作为非武装中立派别活动，它们全都涂有显着的标志。在执行空运任务时它们会临时租借飞机。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_idapobjects_displayname">
         <Original>IDAP Objects</Original>
@@ -295,7 +295,7 @@
       <Key ID="str_a3_orange_cfgmods_droneprevnotiftext">
         <Original>This drone is part of Laws of War DLC. Please purchase the DLC to control it.</Original>
         <Chinese>該無人機是戰爭法資料片的一部分。請購買該資料片以控制它。</Chinese>
-        <Chinesesimp>该无人机是战争法DLC的一部分。请购买该DLC以控制它。</Chinesesimp>
+        <Chinesesimp>该无人机是战争法 DLC 的一部分。请购买该 DLC 以控制它。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_constructioncoveralls_displayname">
         <Original>Construction Coveralls</Original>
@@ -325,7 +325,7 @@
       <Key ID="str_a3_orange_cfgmods_clusterbombs_description">
         <Original>Even though they have been banned for causing unnecessary suffering, cluster bombs are still used in warfare. New aircraft-deployed bomblet canisters are available for NATO, CSAT and AAF.</Original>
         <Chinese>即便已因其不必要損害而被禁止，集束炸彈仍然在戰爭中使用。北約、廣協同盟和阿爾蒂斯武裝力量都有了新式的機載子彈藥布撒器。</Chinese>
-        <Chinesesimp>即便已因其不必要损害而被禁止，集束炸弹仍然在战争中使用。北约、广协和AAF都有了新式的机载子弹药布撒器。</Chinesesimp>
+        <Chinesesimp>即便已因其不必要损害而被禁止，集束炸弹仍然在战争中使用。北约、广协和 AAF 都有了新式的机载子弹药布撒器。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_basichelmet_displayname">
         <Original>Basic Helmet</Original>
@@ -477,7 +477,7 @@
       <Key ID="str_a3_rscdisplayaanarticle_copyright">
         <Original>©%1 AAN News Network or its affiliated companies. All rights reserved.</Original>
         <Chinese>©%1 AAN新聞網及其相關公司。所有權利保留。</Chinese>
-        <Chinesesimp>©% 1AAN新闻网及其相关公司。所有权利保留。</Chinesesimp>
+        <Chinesesimp>©% 1AAN 新闻网及其相关公司。所有权利保留。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplayaanarticle_box">
         <Original>Read more</Original>
@@ -487,12 +487,12 @@
       <Key ID="str_a3_rscdisplayaanarticle_author">
         <Original>AAN World News</Original>
         <Chinese>AAN世界新聞</Chinese>
-        <Chinesesimp>AAN世界新闻</Chinesesimp>
+        <Chinesesimp>AAN 世界新闻</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgunitinsignia_aaf_3rdregiment">
         <Original>AAF 3rd Support Regiment</Original>
         <Chinese>阿爾蒂斯武裝力量第3支援團</Chinese>
-        <Chinesesimp>AAF第3支援团</Chinesesimp>
+        <Chinesesimp>AAF 第3支援团</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfguicolors_subtitles_yellowbackground">
         <Original>Yellow with Background</Original>
@@ -586,13 +586,13 @@
         <Key ID="str_a3_orange_cfgleaflets_aaf_special">
           <Original>There is STILL TIME to SURRENDER!&lt;br /&gt;CEASE RESISTANCE. Further acts of&lt;br /&gt;AGGRESSION against ALTIS ARMED&lt;br /&gt;FORCES will be the DEATH OF YOU!</Original>
           <Chinese>現在投降還來得及!&lt;br/&gt;停止抵抗。針對阿爾蒂斯武裝力量&lt;br/&gt;&lt;br/&gt;的任何反抗行為的下場都只有滅亡!</Chinese>
-          <Chinesesimp>现在投降还来得及!&lt;br/&gt;停止抵抗。针对AAF&lt;br/&gt;&lt;br/&gt;的任何反抗行为的下场都只有灭亡!</Chinesesimp>
+          <Chinesesimp>现在投降还来得及!&lt;br/&gt;停止抵抗。针对 AAF&lt;br/&gt;&lt;br/&gt;的任何反抗行为的下场都只有灭亡!</Chinesesimp>
         </Key>
       </Container>
       <Key ID="str_a3_rscmsgboxkeyspresetcustominfopanel_text">
         <Original>The Left and Right panels are used to display modules such as GPS, sensor display or mine detector, depending on the vehicle or items. They are unmapped from your current control preset. In order to ensure the best experience, it is recommended to have at least [%1] and [%2] mapped, in the control category %3.</Original>
         <Chinese>左右介面可顯示GPS、偵測器螢幕或地雷偵測器等模組，依據當時的載具或持有物品而異。當前操控方式中並未綁定這些按鍵。為達到最佳遊戲效果，建議您至少於控制選項中綁定[%1]與[%2]鍵%3。</Chinese>
-        <Chinesesimp>左右面板用于显示GPS、传感器显示或地雷探测器等模块，具体取决于载具或物品。它们与当前的控件预设无映射关系。为了确保最佳体验，建议在控件类别%3中至少对[%1]和[%2]进行映射。</Chinesesimp>
+        <Chinesesimp>左右面板用于显示 GPS、传感器显示或地雷探测器等模块，具体取决于载具或物品。它们与当前的控件预设无映射关系。为了确保最佳体验，建议在控件类别%3中至少对[%1]和[%2]进行映射。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Weapons_F">
@@ -604,7 +604,7 @@
       <Key ID="str_a3_pylonrack_4rnd_bombdemine_01_dummy_f0">
         <Original>Demining Charge (Dummy)</Original>
         <Chinese>排雷炸藥(訓練彈)</Chinese>
-        <Chinesesimp>排雷炸药(训练弹)</Chinesesimp>
+        <Chinesesimp>排雷炸药（训练弹）</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylonrack_2rnd_bombcluster_03_f0">
         <Original>BL778 Cluster x2</Original>
@@ -634,72 +634,72 @@
       <Key ID="str_a3_pylon_1rnd_leaflets_west_f0">
         <Original>Leaflets (NATO)</Original>
         <Chinese>傳單(NATO)</Chinese>
-        <Chinesesimp>传单(北约)</Chinesesimp>
+        <Chinesesimp>传单（北约）</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_guer_f0">
         <Original>Leaflets (AAF)</Original>
         <Chinese>傳單(阿爾蒂斯武裝力量)</Chinese>
-        <Chinesesimp>传单(AAF)</Chinesesimp>
+        <Chinesesimp>传单（AAF）</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_east_f0">
         <Original>Leaflets (CSAT)</Original>
         <Chinese>傳單(CSAT)</Chinese>
-        <Chinesesimp>传单(广协)</Chinesesimp>
+        <Chinesesimp>传单（广协）</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_custom_10_f0">
         <Original>Leaflets (Custom 10)</Original>
         <Chinese>傳單(自訂10)</Chinese>
-        <Chinesesimp>传单(自定义10)</Chinesesimp>
+        <Chinesesimp>传单（自定义10）</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_custom_09_f0">
         <Original>Leaflets (Custom 09)</Original>
         <Chinese>傳單(自訂09)</Chinese>
-        <Chinesesimp>传单(自定义09)</Chinesesimp>
+        <Chinesesimp>传单（自定义09）</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_custom_08_f0">
         <Original>Leaflets (Custom 08)</Original>
         <Chinese>傳單(自訂08)</Chinese>
-        <Chinesesimp>传单(自定义08)</Chinesesimp>
+        <Chinesesimp>传单（自定义08）</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_custom_07_f0">
         <Original>Leaflets (Custom 07)</Original>
         <Chinese>傳單(自訂07)</Chinese>
-        <Chinesesimp>传单(自定义07)</Chinesesimp>
+        <Chinesesimp>传单（自定义07）</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_custom_06_f0">
         <Original>Leaflets (Custom 06)</Original>
         <Chinese>傳單(自訂06)</Chinese>
-        <Chinesesimp>传单(自定义06)</Chinesesimp>
+        <Chinesesimp>传单（自定义06）</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_custom_05_f0">
         <Original>Leaflets (Custom 05)</Original>
         <Chinese>傳單(自訂05)</Chinese>
-        <Chinesesimp>传单(自定义05)</Chinesesimp>
+        <Chinesesimp>传单（自定义05）</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_custom_04_f0">
         <Original>Leaflets (Custom 04)</Original>
         <Chinese>傳單(自訂04)</Chinese>
-        <Chinesesimp>传单(自定义04)</Chinesesimp>
+        <Chinesesimp>传单（自定义04）</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_custom_03_f0">
         <Original>Leaflets (Custom 03)</Original>
         <Chinese>傳單(自訂03)</Chinese>
-        <Chinesesimp>传单(自定义03)</Chinesesimp>
+        <Chinesesimp>传单（自定义03）</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_custom_02_f0">
         <Original>Leaflets (Custom 02)</Original>
         <Chinese>傳單(自訂02)</Chinese>
-        <Chinesesimp>传单(自定义02)</Chinesesimp>
+        <Chinesesimp>传单（自定义02）</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_custom_01_f0">
         <Original>Leaflets (Custom 01)</Original>
         <Chinese>傳單(自訂01)</Chinese>
-        <Chinesesimp>传单(自定义01)</Chinesesimp>
+        <Chinesesimp>传单（自定义01）</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_civ_f0">
         <Original>Leaflets (IDAP)</Original>
         <Chinese>傳單(IDAP)</Chinese>
-        <Chinesesimp>传单(国发援)</Chinesesimp>
+        <Chinesesimp>传单（国发援）</Chinesesimp>
       </Key>
       <Key ID="str_a3_item_c_uavterminal0">
         <Original>UAV Terminal [Civilians]</Original>
@@ -729,17 +729,17 @@
       <Key ID="str_a3_cfgvehicles_leaflet_05_stack_f0">
         <Original>Leaflet (Stack)</Original>
         <Chinese>傳單(成捆的)</Chinese>
-        <Chinesesimp>传单(成捆的)</Chinesesimp>
+        <Chinesesimp>传单（成捆的）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_leaflet_05_old_f0">
         <Original>Leaflet (Old)</Original>
         <Chinese>傳單(舊)</Chinese>
-        <Chinesesimp>传单(旧)</Chinesesimp>
+        <Chinesesimp>传单（旧）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_leaflet_05_new_f0">
         <Original>Leaflet (New)</Original>
         <Chinese>傳單(新)</Chinese>
-        <Chinesesimp>传单(新)</Chinesesimp>
+        <Chinesesimp>传单（新）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_leaflet_05_f0">
         <Original>Leaflet</Original>
@@ -800,7 +800,7 @@
         <Key ID="str_a3_cfgvehicles_b_uav_01_backpack_f20">
           <Original>UAV Bag (AR-2) [NATO]</Original>
           <Chinese>無人機背包(AR-2)[北約]</Chinese>
-          <Chinesesimp>无人机背包(AR-2)[北约]</Chinesesimp>
+          <Chinesesimp>无人机背包（AR-2）[北约]</Chinesesimp>
         </Key>
       </Container>
       <Container name="Explosives">
@@ -822,12 +822,12 @@
         <Key ID="str_a3_cfgvehicles_modulebombcluster_03_uxo4_f0">
           <Original>UXO (Delayed) [AAF]</Original>
           <Chinese>未爆兵器(延爆)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>未爆兵器(延爆)[AAF]</Chinesesimp>
+          <Chinesesimp>未爆兵器（延爆）[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_03_uxo3_f0">
           <Original>UXO (Tough) [AAF]</Original>
           <Chinese>未爆兵器(硬質)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>未爆兵器(硬质)[AAF]</Chinesesimp>
+          <Chinesesimp>未爆兵器（硬质）[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduletrainingmine_01_f0">
           <Original>Training mine</Original>
@@ -837,52 +837,52 @@
         <Key ID="str_a3_cfgvehicles_modulebombcluster_03_uxo2_f0">
           <Original>UXO (Sensitive) [AAF]</Original>
           <Chinese>未爆兵器(敏感)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>未爆兵器(敏感)[AAF]</Chinesesimp>
+          <Chinesesimp>未爆兵器（敏感）[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_03_uxo1_f0">
           <Original>UXO (Common) [AAF]</Original>
           <Chinese>未爆兵器(一般)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>未爆兵器(一般)[AAF]</Chinesesimp>
+          <Chinesesimp>未爆兵器（一般）[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_02_uxo4_f0">
           <Original>UXO (Delayed) [CSAT]</Original>
           <Chinese>未爆兵器(延爆)[廣協同盟]</Chinese>
-          <Chinesesimp>未爆兵器(延爆)[广协]</Chinesesimp>
+          <Chinesesimp>未爆兵器（延爆）[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_02_uxo3_f0">
           <Original>UXO (Tough) [CSAT]</Original>
           <Chinese>未爆兵器(硬質)[廣協同盟]</Chinese>
-          <Chinesesimp>未爆兵器(硬质)[广协]</Chinesesimp>
+          <Chinesesimp>未爆兵器（硬质）[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_02_uxo2_f0">
           <Original>UXO (Sensitive) [CSAT]</Original>
           <Chinese>未爆兵器(敏感)[廣協同盟]</Chinese>
-          <Chinesesimp>未爆兵器(敏感)[广协]</Chinesesimp>
+          <Chinesesimp>未爆兵器（敏感）[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_02_uxo1_f0">
           <Original>UXO (Common) [CSAT]</Original>
           <Chinese>未爆兵器(一般)[廣協同盟]</Chinese>
-          <Chinesesimp>未爆兵器(一般)[广协]</Chinesesimp>
+          <Chinesesimp>未爆兵器（一般）[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_01_uxo4_f0">
           <Original>UXO (Delayed) [NATO]</Original>
           <Chinese>未爆兵器(延爆)[北約]</Chinese>
-          <Chinesesimp>未爆兵器(延爆)[北约]</Chinesesimp>
+          <Chinesesimp>未爆兵器（延爆）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_01_uxo3_f0">
           <Original>UXO (Tough) [NATO]</Original>
           <Chinese>未爆兵器(硬質)[北約]</Chinese>
-          <Chinesesimp>未爆兵器(硬质)[北约]</Chinesesimp>
+          <Chinesesimp>未爆兵器（硬质）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_01_uxo2_f0">
           <Original>UXO (Sensitive) [NATO]</Original>
           <Chinese>未爆兵器(敏感)[北約]</Chinese>
-          <Chinesesimp>未爆兵器(敏感)[北约]</Chinesesimp>
+          <Chinesesimp>未爆兵器（敏感）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulebombcluster_01_uxo1_f0">
           <Original>UXO (Common) [NATO]</Original>
           <Chinese>未爆兵器(一般)[北約]</Chinese>
-          <Chinesesimp>未爆兵器(一般)[北约]</Chinesesimp>
+          <Chinesesimp>未爆兵器（一般）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleapersminedispenser_mine_f0">
           <Original>APERS Mine Dispenser Mine</Original>
@@ -892,22 +892,22 @@
         <Key ID="str_a3_cfgvehicles_bombcluster_03_uxo4_f0">
           <Original>UXO (Delayed) [AAF]</Original>
           <Chinese>未爆兵器(延爆)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>未爆兵器(延爆)[AAF]</Chinesesimp>
+          <Chinesesimp>未爆兵器（延爆）[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_03_uxo3_f0">
           <Original>UXO (Tough) [AAF]</Original>
           <Chinese>未爆兵器(硬質)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>未爆兵器(硬质)[AAF]</Chinesesimp>
+          <Chinesesimp>未爆兵器（硬质）[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_trainingmine_01_used_f0">
           <Original>Training Mine (used)</Original>
           <Chinese>訓練地雷(使用過的)</Chinese>
-          <Chinesesimp>训练地雷(使用过的)</Chinesesimp>
+          <Chinesesimp>训练地雷（使用过的）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_03_uxo2_f0">
           <Original>UXO (Sensitive) [AAF]</Original>
           <Chinese>未爆兵器(敏感)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>未爆兵器(敏感)[AAF]</Chinesesimp>
+          <Chinesesimp>未爆兵器（敏感）[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_trainingmine_01_f0">
           <Original>Training Mine</Original>
@@ -917,47 +917,47 @@
         <Key ID="str_a3_cfgvehicles_bombcluster_03_uxo1_f0">
           <Original>UXO (Common) [AAF]</Original>
           <Chinese>未爆彈(一般)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>未爆弹(一般)[AAF]</Chinesesimp>
+          <Chinesesimp>未爆弹（一般）[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_02_uxo4_f0">
           <Original>UXO (Delayed) [CSAT]</Original>
           <Chinese>未爆兵器(延爆)[廣協同盟]</Chinese>
-          <Chinesesimp>未爆兵器(延爆)[广协]</Chinesesimp>
+          <Chinesesimp>未爆兵器（延爆）[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_02_uxo3_f0">
           <Original>UXO (Tough) [CSAT]</Original>
           <Chinese>未爆兵器(硬質)[廣協同盟]</Chinese>
-          <Chinesesimp>未爆兵器(硬质)[广协]</Chinesesimp>
+          <Chinesesimp>未爆兵器（硬质）[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_02_uxo2_f0">
           <Original>UXO (Sensitive) [CSAT]</Original>
           <Chinese>未爆兵器(敏感)[廣協同盟]</Chinese>
-          <Chinesesimp>未爆兵器(敏感)[广协]</Chinesesimp>
+          <Chinesesimp>未爆兵器（敏感）[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_02_uxo1_f0">
           <Original>UXO (Common) [CSAT]</Original>
           <Chinese>未爆兵器(一般)[廣協同盟]</Chinese>
-          <Chinesesimp>未爆兵器(一般)[广协]</Chinesesimp>
+          <Chinesesimp>未爆兵器（一般）[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_01_uxo4_f0">
           <Original>UXO (Delayed) [NATO]</Original>
           <Chinese>未爆兵器(延爆)[北約]</Chinese>
-          <Chinesesimp>未爆兵器(延爆)[北约]</Chinesesimp>
+          <Chinesesimp>未爆兵器（延爆）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_01_uxo3_f0">
           <Original>UXO (Tough) [NATO]</Original>
           <Chinese>未爆兵器(硬質)[北約]</Chinese>
-          <Chinesesimp>未爆兵器(硬质)[北约]</Chinesesimp>
+          <Chinesesimp>未爆兵器（硬质）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_01_uxo2_f0">
           <Original>UXO (Sensitive) [NATO]</Original>
           <Chinese>未爆兵器(敏感)[北約]</Chinese>
-          <Chinesesimp>未爆兵器(敏感)[北约]</Chinesesimp>
+          <Chinesesimp>未爆兵器（敏感）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_01_uxo1_f0">
           <Original>UXO (Common) [NATO]</Original>
           <Chinese>未爆兵器(一般)[北約]</Chinese>
-          <Chinesesimp>未爆兵器(一般)[北约]</Chinesesimp>
+          <Chinesesimp>未爆兵器（一般）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_apersminedispenser_mine_f0">
           <Original>APERS Mine Dispenser Mine</Original>
@@ -1024,27 +1024,27 @@
           <Key ID="str_a3_cfgvehicles_land_stretcher_01_sand_f0">
             <Original>Stretcher (Sand)</Original>
             <Chinese>擔架(沙色)</Chinese>
-            <Chinesesimp>担架(沙色)</Chinesesimp>
+            <Chinesesimp>担架（沙色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_stretcher_01_olive_f0">
             <Original>Stretcher (Olive)</Original>
             <Chinese>擔架(橄欖色)</Chinese>
-            <Chinesesimp>担架(橄榄色)</Chinesesimp>
+            <Chinesesimp>担架（橄榄色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_stretcher_01_folded_sand_f0">
             <Original>Stretcher (Sand, Folded)</Original>
             <Chinese>擔架(沙色，折疊)</Chinese>
-            <Chinesesimp>担架(沙色，折叠)</Chinesesimp>
+            <Chinesesimp>担架（沙色，折叠）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_stretcher_01_folded_olive_f0">
             <Original>Stretcher (Olive, Folded)</Original>
             <Chinese>擔架(橄欖色，折疊)</Chinese>
-            <Chinesesimp>担架(橄榄色，折叠)</Chinesesimp>
+            <Chinesesimp>担架（橄榄色，折叠）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_stretcher_01_folded_f0">
             <Original>Stretcher (Folded)</Original>
             <Chinese>擔架(折疊)</Chinese>
-            <Chinesesimp>担架(折叠)</Chinesesimp>
+            <Chinesesimp>担架（折叠）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_stretcher_01_f0">
             <Original>Stretcher</Original>
@@ -1059,52 +1059,52 @@
           <Key ID="str_a3_cfgvehicles_land_intravenstand_01_empty_f0">
             <Original>IV Stand (Empty)</Original>
             <Chinese>血包箱(空)</Chinese>
-            <Chinesesimp>血包箱(空)</Chinesesimp>
+            <Chinesesimp>血包箱（空）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_intravenstand_01_2bags_f0">
             <Original>IV Stand (2 Bags)</Original>
             <Chinese>血包箱(2包)</Chinese>
-            <Chinesesimp>血包箱(2包)</Chinesesimp>
+            <Chinesesimp>血包箱（2包）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_intravenstand_01_1bag_f0">
             <Original>IV Stand (1 Bag)</Original>
             <Chinese>血包箱(1包)</Chinese>
-            <Chinesesimp>血包箱(1包)</Chinesesimp>
+            <Chinesesimp>血包箱（1包）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_intravenbag_01_full_f0">
             <Original>IV Bag (Full)</Original>
             <Chinese>血包(滿)</Chinese>
-            <Chinesesimp>血包(满)</Chinesesimp>
+            <Chinesesimp>血包（满）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_intravenbag_01_empty_f0">
             <Original>IV Bag (Empty)</Original>
             <Chinese>血包(空)</Chinese>
-            <Chinesesimp>血包(空)</Chinesesimp>
+            <Chinesesimp>血包（空）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_firstaidkit_01_open_f0">
             <Original>First Aid Box (Open)</Original>
             <Chinese>急救箱(打開)</Chinese>
-            <Chinesesimp>急救箱(打开)</Chinesesimp>
+            <Chinesesimp>急救箱（打开）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_firstaidkit_01_closed_f0">
             <Original>First Aid Box (Closed)</Original>
             <Chinese>急救箱(關閉)</Chinese>
-            <Chinesesimp>急救箱(关闭)</Chinesesimp>
+            <Chinesesimp>急救箱（关闭）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_emergencyblanket_02_stack_f0">
             <Original>Emergency Blankets (Thermal)</Original>
             <Chinese>緊急救生毯(隔熱)</Chinese>
-            <Chinesesimp>紧急救生毯(隔热)</Chinesesimp>
+            <Chinesesimp>紧急救生毯（隔热）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_emergencyblanket_02_f0">
             <Original>Emergency Blanket (Thermal)</Original>
             <Chinese>緊急救生毯(隔熱)</Chinese>
-            <Chinesesimp>紧急救生毯(隔热)</Chinesesimp>
+            <Chinesesimp>紧急救生毯（隔热）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_emergencyblanket_02_discarded_f0">
             <Original>Emergency Blanket (Thermal, Discarded)</Original>
             <Chinese>緊急救生毯(隔熱，拆開)</Chinese>
-            <Chinesesimp>紧急救生毯(隔热，拆开)</Chinesesimp>
+            <Chinesesimp>紧急救生毯（隔热，拆开）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_emergencyblanket_01_stack_f0">
             <Original>Emergency Blankets</Original>
@@ -1119,102 +1119,102 @@
           <Key ID="str_a3_cfgvehicles_land_emergencyblanket_01_discarded_f0">
             <Original>Emergency Blanket (Discarded)</Original>
             <Chinese>緊急救生毯(拆開)</Chinese>
-            <Chinesesimp>紧急救生毯(拆开)</Chinesesimp>
+            <Chinesesimp>紧急救生毯（拆开）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_canvascover_02_idap_f0">
             <Original>Canvas Cover (Small) [IDAP]</Original>
             <Chinese>帆布罩(小)[國發援]</Chinese>
-            <Chinesesimp>帆布罩(小)[国发援]</Chinesesimp>
+            <Chinesesimp>帆布罩（小）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_canvascover_02_f0">
             <Original>Canvas Cover (Small)</Original>
             <Chinese>帆布罩(小)</Chinese>
-            <Chinesesimp>帆布罩(小)</Chinesesimp>
+            <Chinesesimp>帆布罩（小）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_canvascover_01_idap_f0">
             <Original>Canvas Cover (Large) [IDAP]</Original>
             <Chinese>帆布罩(大)[國發援]</Chinese>
-            <Chinesesimp>帆布罩(大)[国发援]</Chinesesimp>
+            <Chinesesimp>帆布罩（大）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_canvascover_01_f0">
             <Original>Canvas Cover (Large)</Original>
             <Chinese>帆布罩(大)</Chinese>
-            <Chinesesimp>帆布罩(大)</Chinesesimp>
+            <Chinesesimp>帆布罩（大）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_campingtable_white_f0">
             <Original>Camping Table (White)</Original>
             <Chinese>野餐桌(白色)</Chinese>
-            <Chinesesimp>野餐桌(白色)</Chinesesimp>
+            <Chinesesimp>野餐桌（白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_campingtable_small_white_f0">
             <Original>Camping Table (Small, White)</Original>
             <Chinese>野餐桌(小，白色)</Chinese>
-            <Chinesesimp>野餐桌(小，白色)</Chinesesimp>
+            <Chinesesimp>野餐桌（小，白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_campingchair_v2_white_f0">
             <Original>Camping Chair (White)</Original>
             <Chinese>野餐椅(白色)</Chinese>
-            <Chinesesimp>野餐椅(白色)</Chinesesimp>
+            <Chinesesimp>野餐椅（白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_bodybag_01_white_f0">
             <Original>Body Bag (White)</Original>
             <Chinese>裝屍袋(白色)</Chinese>
-            <Chinesesimp>装尸袋(白色)</Chinesesimp>
+            <Chinesesimp>装尸袋（白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_bodybag_01_folded_white_f0">
             <Original>Body Bag (White, Folded)</Original>
             <Chinese>裝屍袋(白色，折疊)</Chinese>
-            <Chinesesimp>装尸袋(白色，折叠)</Chinesesimp>
+            <Chinesesimp>装尸袋（白色，折叠）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_bodybag_01_folded_blue_f0">
             <Original>Body Bag (Blue, Folded)</Original>
             <Chinese>裝屍袋(藍色，折疊)</Chinese>
-            <Chinesesimp>装尸袋(蓝色，折叠)</Chinesesimp>
+            <Chinesesimp>装尸袋（蓝色，折叠）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_bodybag_01_folded_black_f0">
             <Original>Body Bag (Black, Folded)</Original>
             <Chinese>裝屍袋(黑色，折疊)</Chinese>
-            <Chinesesimp>装尸袋(黑色，折叠)</Chinesesimp>
+            <Chinesesimp>装尸袋（黑色，折叠）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_bodybag_01_empty_white_f0">
             <Original>Body Bag (White, Empty)</Original>
             <Chinese>裝屍袋(白色，空)</Chinese>
-            <Chinesesimp>装尸袋(白色，空)</Chinesesimp>
+            <Chinesesimp>装尸袋（白色，空）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_bodybag_01_empty_blue_f0">
             <Original>Body Bag (Blue, Empty)</Original>
             <Chinese>裝屍袋(藍色，空)</Chinese>
-            <Chinesesimp>装尸袋(蓝色，空)</Chinesesimp>
+            <Chinesesimp>装尸袋（蓝色，空）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_bodybag_01_empty_black_f0">
             <Original>Body Bag (Black, Empty)</Original>
             <Chinese>裝屍袋(黑色，空)</Chinese>
-            <Chinesesimp>装尸袋(黑色，空)</Chinesesimp>
+            <Chinesesimp>装尸袋（黑色，空）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_bodybag_01_blue_f0">
             <Original>Body Bag (Blue)</Original>
             <Chinese>裝屍袋(藍色)</Chinese>
-            <Chinesesimp>装尸袋(蓝色)</Chinesesimp>
+            <Chinesesimp>装尸袋（蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_bodybag_01_black_f0">
             <Original>Body Bag (Black)</Original>
             <Chinese>裝屍袋(黑色)</Chinese>
-            <Chinesesimp>装尸袋(黑色)</Chinesesimp>
+            <Chinesesimp>装尸袋（黑色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_airconditioner_04_f0">
             <Original>Air Conditioning Unit (Hoses, Short)</Original>
             <Chinese>空調單元(軟管，短)</Chinese>
-            <Chinesesimp>空调单元(软管，短)</Chinesesimp>
+            <Chinesesimp>空调单元（软管，短）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_airconditioner_03_f0">
             <Original>Air Conditioning Unit (Hose, Short)</Original>
             <Chinese>空調單元(軟管，短)</Chinese>
-            <Chinesesimp>空调单元(软管，短)</Chinesesimp>
+            <Chinesesimp>空调单元（软管，短）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_airconditioner_02_f0">
             <Original>Air Conditioning Unit (Hose, Long)</Original>
             <Chinese>空調單元(軟管，長)</Chinese>
-            <Chinesesimp>空调单元(软管，长)</Chinesesimp>
+            <Chinesesimp>空调单元（软管，长）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_airconditioner_01_f0">
             <Original>Air Conditioning Unit</Original>
@@ -1236,17 +1236,17 @@
           <Key ID="str_a3_cfgvehicles_land_waterbottle_01_full_f0">
             <Original>Water Bottle (Full)</Original>
             <Chinese>瓶裝水(滿)</Chinese>
-            <Chinesesimp>瓶装水(满)</Chinesesimp>
+            <Chinesesimp>瓶装水（满）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_waterbottle_01_empty_f0">
             <Original>Water Bottle (Empty)</Original>
             <Chinese>瓶裝水(空)</Chinese>
-            <Chinesesimp>瓶装水(空)</Chinesesimp>
+            <Chinesesimp>瓶装水（空）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_waterbottle_01_compressed_f0">
             <Original>Water Bottle (Empty, Compressed)</Original>
             <Chinese>瓶裝水(空，被壓過)</Chinese>
-            <Chinesesimp>瓶装水(空，被压过)</Chinesesimp>
+            <Chinesesimp>瓶装水（空，被压过）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_waterbottle_01_cap_f0">
             <Original>Water Bottle Cap</Original>
@@ -1261,132 +1261,132 @@
           <Key ID="str_a3_cfgvehicles_land_plasticcase_01_small_idap_f0">
             <Original>Plastic Case (Small, White) [IDAP]</Original>
             <Chinese>塑料箱(小，白色)[國發援]</Chinese>
-            <Chinesesimp>塑料箱(小，白色)[国发援]</Chinesesimp>
+            <Chinesesimp>塑料箱（小，白色）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_plasticcase_01_small_gray_f0">
             <Original>Plastic Case (Small, Gray)</Original>
             <Chinese>塑料箱(小，灰色)</Chinese>
-            <Chinesesimp>塑料箱(小，灰色)</Chinesesimp>
+            <Chinesesimp>塑料箱（小，灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_plasticcase_01_medium_idap_f0">
             <Original>Plastic Case (Medium, White) [IDAP]</Original>
             <Chinese>塑料箱(中，白色)[國發援]</Chinese>
-            <Chinesesimp>塑料箱(中，白色)[国发援]</Chinesesimp>
+            <Chinesesimp>塑料箱（中，白色）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_plasticcase_01_medium_gray_f0">
             <Original>Plastic Case (Medium, Gray)</Original>
             <Chinese>塑料箱(中，灰色)</Chinese>
-            <Chinesesimp>塑料箱(中，灰色)</Chinesesimp>
+            <Chinesesimp>塑料箱（中，灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_plasticcase_01_large_idap_f0">
             <Original>Plastic Case (Large, White) [IDAP]</Original>
             <Chinese>塑料箱(大，白色)[國發援]</Chinese>
-            <Chinesesimp>塑料箱(大，白色)[国发援]</Chinesesimp>
+            <Chinesesimp>塑料箱（大，白色）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_plasticcase_01_large_gray_f0">
             <Original>Plastic Case (Large, Gray)</Original>
             <Chinese>塑料箱(大，灰色)</Chinese>
-            <Chinesesimp>塑料箱(大，灰色)</Chinesesimp>
+            <Chinesesimp>塑料箱（大，灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_plasticbucket_01_open_f0">
             <Original>Plastic Bucket (Open)</Original>
             <Chinese>塑料桶(打開)</Chinese>
-            <Chinesesimp>塑料桶(打开)</Chinesesimp>
+            <Chinesesimp>塑料桶（打开）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_plasticbucket_01_closed_f0">
             <Original>Plastic Bucket (Closed)</Original>
             <Chinese>塑料桶(關閉)</Chinese>
-            <Chinesesimp>塑料桶(关闭)</Chinesesimp>
+            <Chinesesimp>塑料桶（关闭）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_small_stacked_f0">
             <Original>Cardboard Boxes (Brown) [IDAP]</Original>
             <Chinese>硬紙箱(棕色)[國發援]</Chinese>
-            <Chinesesimp>硬纸箱(棕色)[国发援]</Chinesesimp>
+            <Chinesesimp>硬纸箱（棕色）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_small_ransacked_white_idap_f0">
             <Original>Cardboard Box (White, Ransacked) [IDAP]</Original>
             <Chinese>硬紙箱(白色，打包的)[國發援]</Chinese>
-            <Chinesesimp>硬纸箱(白色，打包的)[国发援]</Chinesesimp>
+            <Chinesesimp>硬纸箱（白色，打包的）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_small_ransacked_brown_idap_f0">
             <Original>Cardboard Box (Brown, Ransacked) [IDAP]</Original>
             <Chinese>硬紙箱(棕色，打包的)[國發援]</Chinese>
-            <Chinesesimp>硬纸箱(棕色，打包的)[国发援]</Chinesesimp>
+            <Chinesesimp>硬纸箱（棕色，打包的）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_small_ransacked_brown_f0">
             <Original>Cardboard Box (Brown, Ransacked)</Original>
             <Chinese>硬紙箱(棕色，打包的)</Chinese>
-            <Chinesesimp>硬纸箱(棕色，打包的)</Chinesesimp>
+            <Chinesesimp>硬纸箱（棕色，打包的）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_small_open_white_idap_f0">
             <Original>Cardboard Box (White, Open) [IDAP]</Original>
             <Chinese>硬紙箱(白色，打開)[國發援]</Chinese>
-            <Chinesesimp>硬纸箱(白色，打开)[国发援]</Chinesesimp>
+            <Chinesesimp>硬纸箱（白色，打开）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_small_open_brown_idap_f0">
             <Original>Cardboard Box (Brown, Open) [IDAP]</Original>
             <Chinese>硬紙箱(棕色，打開)[國發援]</Chinese>
-            <Chinesesimp>硬纸箱(棕色，打开)[国发援]</Chinesesimp>
+            <Chinesesimp>硬纸箱（棕色，打开）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_small_open_brown_f0">
             <Original>Cardboard Box (Brown, Open)</Original>
             <Chinese>硬紙箱(棕色，打開)</Chinese>
-            <Chinesesimp>硬纸箱(棕色，打开)</Chinesesimp>
+            <Chinesesimp>硬纸箱（棕色，打开）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_small_destroyed_white_idap_f0">
             <Original>Cardboard Box (White, Destroyed) [IDAP]</Original>
             <Chinese>硬紙箱(白色，被毀)[國發援]</Chinese>
-            <Chinesesimp>硬纸箱(白色，被毁)[国发援]</Chinesesimp>
+            <Chinesesimp>硬纸箱（白色，被毁）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_small_destroyed_brown_idap_f0">
             <Original>Cardboard Box (Brown, Destroyed) [IDAP]</Original>
             <Chinese>硬紙箱(棕色，被毀)[國發援]</Chinese>
-            <Chinesesimp>硬纸箱(棕色，被毁)[国发援]</Chinesesimp>
+            <Chinesesimp>硬纸箱（棕色，被毁）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_small_destroyed_brown_f0">
             <Original>Cardboard Box (Brown, Destroyed)</Original>
             <Chinese>硬紙箱(棕色，被毀)</Chinese>
-            <Chinesesimp>硬纸箱(棕色，被毁)</Chinesesimp>
+            <Chinesesimp>硬纸箱（棕色，被毁）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_small_closed_white_med_f0">
             <Original>Cardboard Box (Medical) [IDAP]</Original>
             <Chinese>硬紙箱(醫用)[國發援]</Chinese>
-            <Chinesesimp>硬纸箱(医用)[国发援]</Chinesesimp>
+            <Chinesesimp>硬纸箱（医用）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_small_closed_white_idap_f0">
             <Original>Cardboard Box (White) [IDAP]</Original>
             <Chinese>硬紙箱(白色)[國發援]</Chinese>
-            <Chinesesimp>硬纸箱(白色)[国发援]</Chinesesimp>
+            <Chinesesimp>硬纸箱（白色）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_small_closed_brown_idap_f0">
             <Original>Cardboard Box (Brown) [IDAP]</Original>
             <Chinese>硬紙箱(棕色)[國發援]</Chinese>
-            <Chinesesimp>硬纸箱(棕色)[国发援]</Chinesesimp>
+            <Chinesesimp>硬纸箱（棕色）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_small_closed_brown_food_f0">
             <Original>Cardboard Box (Food) [IDAP]</Original>
             <Chinese>硬紙箱(食物)[國發援]</Chinese>
-            <Chinesesimp>硬纸箱(食物)[国发援]</Chinesesimp>
+            <Chinesesimp>硬纸箱（食物）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_small_closed_brown_f0">
             <Original>Cardboard Box (Brown)</Original>
             <Chinese>硬紙箱(棕色)</Chinese>
-            <Chinesesimp>硬纸箱(棕色)</Chinesesimp>
+            <Chinesesimp>硬纸箱（棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_open_water_f0">
             <Original>Box (Open, Water) [IDAP]</Original>
             <Chinese>箱子(打開，水)[國發援]</Chinese>
-            <Chinesesimp>箱子(打开，水)[国发援]</Chinesesimp>
+            <Chinesesimp>箱子（打开，水）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_open_empty_f0">
             <Original>Box (Open, Empty)</Original>
             <Chinese>箱子(打開，空)</Chinese>
-            <Chinesesimp>箱子(打开，空)</Chinesesimp>
+            <Chinesesimp>箱子（打开，空）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_paperbox_01_open_boxes_f0">
             <Original>Box (Open, Boxes) [IDAP]</Original>
             <Chinese>箱子(打開，子母箱)[國發援]</Chinese>
-            <Chinesesimp>箱子(打开，子母箱)[国发援]</Chinesesimp>
+            <Chinesesimp>箱子（打开，子母箱）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_orange_01_f0">
             <Original>Orange</Original>
@@ -1401,249 +1401,249 @@
           <Key ID="str_a3_cfgvehicles_land_foodsacks_01_small_brown_f0">
             <Original>Food Sacks (Small Heap, Brown)</Original>
             <Chinese>食物包(小堆，棕色)</Chinese>
-            <Chinesesimp>食物包(小堆，棕色)</Chinesesimp>
+            <Chinesesimp>食物包（小堆，棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsacks_01_large_brown_f0">
             <Original>Food Sacks (Large Heap, Brown)</Original>
             <Chinese>食物包(大堆，棕色)</Chinese>
-            <Chinesesimp>食物包(大堆，棕色)</Chinesesimp>
+            <Chinesesimp>食物包（大堆，棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsacks_01_cargo_brown_f0">
             <Original>Cargo Net (Sacks, Brown)</Original>
             <Chinese>貨物網(打包，棕色)</Chinese>
-            <Chinesesimp>货物网(打包，棕色)</Chinesesimp>
+            <Chinesesimp>货物网（打包，棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsack_01_full_brown_f0">
             <Original>Food Sack (Brown, Full)</Original>
             <Chinese>食物包(棕色，滿的)</Chinese>
-            <Chinesesimp>食物包(棕色，满的)</Chinesesimp>
+            <Chinesesimp>食物包（棕色，满的）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsack_01_empty_brown_f0">
             <Original>Food Sack (Brown, Empty)</Original>
             <Chinese>食物包(棕色，空的)</Chinese>
-            <Chinesesimp>食物包(棕色，空的)</Chinesesimp>
+            <Chinesesimp>食物包（棕色，空的）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsack_01_dmg_brown_f0">
             <Original>Food Sack (Brown, Destroyed)</Original>
             <Chinese>食物包(棕色，被毀)</Chinese>
-            <Chinesesimp>食物包(棕色，被毁)</Chinesesimp>
+            <Chinesesimp>食物包（棕色，被毁）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodcontainer_01_white_f0">
             <Original>Food Container (Large, White)</Original>
             <Chinese>食物容器(大，白色)</Chinese>
-            <Chinesesimp>食物容器(大，白色)</Chinesesimp>
+            <Chinesesimp>食物容器（大，白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_canisterplastic_red_f0">
             <Original>Canister (Plastic, Red)</Original>
             <Chinese>罐子(塑料，紅色)</Chinese>
-            <Chinesesimp>罐子(塑料，红色)</Chinesesimp>
+            <Chinesesimp>罐子（塑料，红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_canisterplastic_blue_f0">
             <Original>Canister (Plastic, Blue)</Original>
             <Chinese>罐子(塑料，藍色)</Chinese>
-            <Chinesesimp>罐子(塑料，蓝色)</Chinesesimp>
+            <Chinesesimp>罐子（塑料，蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_canisterfuel_white_f0">
             <Original>Canister (Fuel, White)</Original>
             <Chinese>罐子(燃料，白色)</Chinese>
-            <Chinesesimp>罐子(燃料，白色)</Chinesesimp>
+            <Chinesesimp>罐子（燃料，白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_canisterfuel_red_f0">
             <Original>Canister (Fuel, Red)</Original>
             <Chinese>罐子(燃料，紅色)</Chinese>
-            <Chinesesimp>罐子(燃料，红色)</Chinesesimp>
+            <Chinesesimp>罐子（燃料，红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_canisterfuel_blue_f0">
             <Original>Canister (Fuel, Blue)</Original>
             <Chinese>罐子(塑料，藍色)</Chinese>
-            <Chinesesimp>罐子(塑料，蓝色)</Chinesesimp>
+            <Chinesesimp>罐子（塑料，蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsack_01_dmg_brown_idap_f0">
             <Original>Food Sack (Brown, Destroyed) [IDAP]</Original>
             <Chinese>食物包(棕色，被毀)[國發援]</Chinese>
-            <Chinesesimp>食物包(棕色，被毁)[国发援]</Chinesesimp>
+            <Chinesesimp>食物包（棕色，被毁）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsack_01_dmg_white_idap_f0">
             <Original>Food Sack (White, Destroyed) [IDAP]</Original>
             <Chinese>食物包(白色，被毀)[國發援]</Chinese>
-            <Chinesesimp>食物包(白色，被毁)[国发援]</Chinesesimp>
+            <Chinesesimp>食物包（白色，被毁）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsack_01_empty_brown_idap_f0">
             <Original>Food Sack (Brown, Empty) [IDAP]</Original>
             <Chinese>食物包(棕色，空)[國發援]</Chinese>
-            <Chinesesimp>食物包(棕色，空)[国发援]</Chinesesimp>
+            <Chinesesimp>食物包（棕色，空）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsack_01_empty_white_idap_f0">
             <Original>Food Sack (White, Empty) [IDAP]</Original>
             <Chinese>食物包(白色，空)[國發援]</Chinese>
-            <Chinesesimp>食物包(白色，空)[国发援]</Chinesesimp>
+            <Chinesesimp>食物包（白色，空）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsack_01_full_brown_idap_f0">
             <Original>Food Sack (Brown, Full) [IDAP]</Original>
             <Chinese>食物包(棕色，滿)[國發援]</Chinese>
-            <Chinesesimp>食物包(棕色，满)[国发援]</Chinesesimp>
+            <Chinesesimp>食物包（棕色，满）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsack_01_full_white_idap_f0">
             <Original>Food Sack (White, Full) [IDAP]</Original>
             <Chinese>食物包(白色，滿)[國發援]</Chinese>
-            <Chinesesimp>食物包(白色，满)[国发援]</Chinesesimp>
+            <Chinesesimp>食物包（白色，满）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsacks_01_cargo_brown_idap_f0">
             <Original>Cargo Net (Sacks, Brown) [IDAP]</Original>
             <Chinese>貨物網(打包，棕色)[國發援]</Chinese>
-            <Chinesesimp>货物网(打包，棕色)[国发援]</Chinesesimp>
+            <Chinesesimp>货物网（打包，棕色）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsacks_01_cargo_white_idap_f0">
             <Original>Cargo Net (Sacks, White) [IDAP]</Original>
             <Chinese>貨物網(打包，白色)[國發援]</Chinese>
-            <Chinesesimp>货物网(打包，白色)[国发援]</Chinesesimp>
+            <Chinesesimp>货物网（打包，白色）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsacks_01_large_brown_idap_f0">
             <Original>Food Sacks (Large Heap, Brown) [IDAP]</Original>
             <Chinese>食物包(大堆，棕色)[國發援]</Chinese>
-            <Chinesesimp>食物包(大堆，棕色)[国发援]</Chinesesimp>
+            <Chinesesimp>食物包（大堆，棕色）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsacks_01_large_white_idap_f0">
             <Original>Food Sacks (Large Heap, White) [IDAP]</Original>
             <Chinese>食物包(大包，白色)[國發援]</Chinese>
-            <Chinesesimp>食物包(大包，白色)[国发援]</Chinesesimp>
+            <Chinesesimp>食物包（大包，白色）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsacks_01_small_brown_idap_f0">
             <Original>Food Sacks (Small Heap, Brown) [IDAP]</Original>
             <Chinese>食物包(小堆，棕色)[國發援]</Chinese>
-            <Chinesesimp>食物包(小堆，棕色)[国发援]</Chinesesimp>
+            <Chinesesimp>食物包（小堆，棕色）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_foodsacks_01_small_white_idap_f0">
             <Original>Food Sacks (Small Heap, White) [IDAP]</Original>
             <Chinese>食物包(小堆，白色)[國發援]</Chinese>
-            <Chinesesimp>食物包(小堆，白色)[国发援]</Chinesesimp>
+            <Chinesesimp>食物包（小堆，白色）[国发援]</Chinesesimp>
           </Key>
         </Container>
         <Container name="Garbage">
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_packaging_f0">
             <Original>Medical Garbage (Packaging)</Original>
             <Chinese>醫療垃圾(打包)</Chinese>
-            <Chinesesimp>医疗垃圾(打包)</Chinesesimp>
+            <Chinesesimp>医疗垃圾（打包）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodpool_01_large_new_f0">
             <Original>Blood Pool (Large, New)</Original>
             <Chinese>血泊(大，新鮮)</Chinese>
-            <Chinesesimp>血泊(大，新鲜)</Chinesesimp>
+            <Chinesesimp>血泊（大，新鲜）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_injector_f0">
             <Original>Medical Garbage (Injector)</Original>
             <Chinese>醫療垃圾(注射器)</Chinese>
-            <Chinesesimp>医疗垃圾(注射器)</Chinesesimp>
+            <Chinesesimp>医疗垃圾（注射器）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodpool_01_large_old_f0">
             <Original>Blood Pool (Large, Old)</Original>
             <Chinese>血泊(大，舊)</Chinese>
-            <Chinesesimp>血泊(大，旧)</Chinesesimp>
+            <Chinesesimp>血泊（大，旧）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_gloves_f0">
             <Original>Medical Garbage (Gloves)</Original>
             <Chinese>醫療垃圾(手套)</Chinese>
-            <Chinesesimp>医疗垃圾(手套)</Chinesesimp>
+            <Chinesesimp>医疗垃圾（手套）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodpool_01_medium_new_f0">
             <Original>Blood Pool (Medium, New)</Original>
             <Chinese>血泊(中，新鮮)</Chinese>
-            <Chinesesimp>血泊(中，新鲜)</Chinesesimp>
+            <Chinesesimp>血泊（中，新鲜）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_firstaidkit_f0">
             <Original>Medical Garbage (First Aid Kit)</Original>
             <Chinese>醫療垃圾(急救包)</Chinese>
-            <Chinesesimp>医疗垃圾(急救包)</Chinesesimp>
+            <Chinesesimp>医疗垃圾（急救包）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodpool_01_medium_old_f0">
             <Original>Blood Pool (Medium, Old)</Original>
             <Chinese>血泊(中，舊)</Chinese>
-            <Chinesesimp>血泊(中，旧)</Chinesesimp>
+            <Chinesesimp>血泊（中，旧）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_bandage_f0">
             <Original>Medical Garbage (Bandage)</Original>
             <Chinese>醫療垃圾(繃帶)</Chinese>
-            <Chinesesimp>医疗垃圾(绷带)</Chinesesimp>
+            <Chinesesimp>医疗垃圾（绷带）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodsplatter_01_large_new_f0">
             <Original>Blood Splatter (Large, New)</Original>
             <Chinese>血濺(大，新鮮)</Chinese>
-            <Chinesesimp>血溅(大，新鲜)</Chinesesimp>
+            <Chinesesimp>血溅（大，新鲜）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_5x5_v1_f0">
             <Original>Medical Garbage (5x5)</Original>
             <Chinese>醫療垃圾(5x5)</Chinese>
-            <Chinesesimp>医疗垃圾(5x5)</Chinesesimp>
+            <Chinesesimp>医疗垃圾（5x5）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodsplatter_01_large_old_f0">
             <Original>Blood Splatter (Large, Old)</Original>
             <Chinese>血濺(大，舊)</Chinese>
-            <Chinesesimp>血溅(大，旧)</Chinesesimp>
+            <Chinesesimp>血溅（大，旧）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_3x3_v2_f0">
             <Original>Medical Garbage (3x3, v2)</Original>
             <Chinese>醫療垃圾(3x3，2型)</Chinese>
-            <Chinesesimp>医疗垃圾(3x3，2型)</Chinesesimp>
+            <Chinesesimp>医疗垃圾（3x3，2型）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodsplatter_01_medium_new_f0">
             <Original>Blood Splatter (Medium, New)</Original>
             <Chinese>血濺(中，新鮮)</Chinese>
-            <Chinesesimp>血溅(中，新鲜)</Chinesesimp>
+            <Chinesesimp>血溅（中，新鲜）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_3x3_v1_f0">
             <Original>Medical Garbage (3x3, v1)</Original>
             <Chinese>醫療垃圾(3x3，1型)</Chinese>
-            <Chinesesimp>医疗垃圾(3x3，1型)</Chinesesimp>
+            <Chinesesimp>医疗垃圾（3x3，1型）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodsplatter_01_medium_old_f0">
             <Original>Blood Splatter (Medium, Old)</Original>
             <Chinese>血濺(中，舊)</Chinese>
-            <Chinesesimp>血溅(中，旧)</Chinesesimp>
+            <Chinesesimp>血溅（中，旧）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_1x1_v3_f0">
             <Original>Medical Garbage (1x1, v3)</Original>
             <Chinese>醫療垃圾(1x1，3型)</Chinese>
-            <Chinesesimp>医疗垃圾(1x1，3型)</Chinesesimp>
+            <Chinesesimp>医疗垃圾（1x1，3型）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodsplatter_01_small_new_f0">
             <Original>Blood Splatter (Small, New)</Original>
             <Chinese>血濺(小，新鮮)</Chinese>
-            <Chinesesimp>血溅(小，新鲜)</Chinesesimp>
+            <Chinesesimp>血溅（小，新鲜）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_1x1_v2_f0">
             <Original>Medical Garbage (1x1, v2)</Original>
             <Chinese>醫療垃圾(1x1，2型)</Chinese>
-            <Chinesesimp>医疗垃圾(1x1，2型)</Chinesesimp>
+            <Chinesesimp>医疗垃圾（1x1，2型）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodsplatter_01_small_old_f0">
             <Original>Blood Splatter (Small, Old)</Original>
             <Chinese>血濺(小，舊)</Chinese>
-            <Chinesesimp>血溅(小，旧)</Chinesesimp>
+            <Chinesesimp>血溅（小，旧）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_1x1_v1_f0">
             <Original>Medical Garbage (1x1, v1)</Original>
             <Chinese>醫療垃圾(1x1，1型)</Chinese>
-            <Chinesesimp>医疗垃圾(1x1，1型)</Chinesesimp>
+            <Chinesesimp>医疗垃圾（1x1，1型）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodspray_01_new_f0">
             <Original>Blood Spray (New)</Original>
             <Chinese>血霧(新)</Chinese>
-            <Chinesesimp>血雾(新)</Chinesesimp>
+            <Chinesesimp>血雾（新）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodtrail_01_old_f0">
             <Original>Blood Trail (Old)</Original>
             <Chinese>血跡(舊)</Chinese>
-            <Chinesesimp>血迹(旧)</Chinesesimp>
+            <Chinesesimp>血迹（旧）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodspray_01_old_f0">
             <Original>Blood Spray (Old)</Original>
             <Chinese>血霧(舊)</Chinese>
-            <Chinesesimp>血雾(旧)</Chinesesimp>
+            <Chinesesimp>血雾（旧）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodtrail_01_new_f0">
             <Original>Blood Trail (New)</Original>
             <Chinese>血跡(新鮮)</Chinese>
-            <Chinesesimp>血迹(新鲜)</Chinesesimp>
+            <Chinesesimp>血迹（新鲜）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -1652,12 +1652,12 @@
           <Key ID="str_a3_cfgvehicles_land_pcset_01_mousepad_idap_f0">
             <Original>PC Set (Mouse Pad, IDAP)</Original>
             <Chinese>個人電腦(鼠標墊，國發援)</Chinese>
-            <Chinesesimp>个人电脑(鼠标垫，国发援)</Chinesesimp>
+            <Chinesesimp>个人电脑（鼠标垫，国发援）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_pcset_01_mousepad_f0">
             <Original>PC Set (Mouse Pad)</Original>
             <Chinese>個人電腦(鼠標墊)</Chinese>
-            <Chinesesimp>个人电脑(鼠标垫)</Chinesesimp>
+            <Chinesesimp>个人电脑（鼠标垫）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Documents">
@@ -1676,17 +1676,17 @@
           <Key ID="str_a3_cfgvehicles_land_photoframe_01_broken_f0">
             <Original>Photoframe (broken)</Original>
             <Chinese>相框(破碎的)</Chinese>
-            <Chinesesimp>相框(破碎的)</Chinesesimp>
+            <Chinesesimp>相框（破碎的）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_flowerpot_01_flower_f0">
             <Original>Flowerpot (Plant)</Original>
             <Chinese>花盆(植物)</Chinese>
-            <Chinesesimp>花盆(植物)</Chinesesimp>
+            <Chinesesimp>花盆（植物）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_flowerpot_01_f0_0">
             <Original>Flowerpot (Soil)</Original>
             <Chinese>花盆(土)</Chinese>
-            <Chinesesimp>花盆(土)</Chinesesimp>
+            <Chinesesimp>花盆（土）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Tools">
@@ -1714,27 +1714,27 @@
           <Key ID="str_a3_cfgvehicles_land_mapboard_01_wall_tanoa_f0">
             <Original>Whiteboard (Map of Tanoa, Wall)</Original>
             <Chinese>白板(塔諾亞地圖，靠牆)</Chinese>
-            <Chinesesimp>白板(塔诺亚地图，靠墙)</Chinesesimp>
+            <Chinesesimp>白板（塔诺亚地图，靠墙）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_mapboard_01_wall_stratis_f0">
             <Original>Whiteboard (Map of Stratis, Wall)</Original>
             <Chinese>白板(斯特拉蒂斯地圖，靠牆)</Chinese>
-            <Chinesesimp>白板(斯特拉蒂斯地图，靠墙)</Chinesesimp>
+            <Chinesesimp>白板（斯特拉蒂斯地图，靠墙）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_mapboard_01_wall_malden_f0">
             <Original>Whiteboard (Map of Malden, Wall)</Original>
             <Chinese>白板(馬爾登地圖，靠牆)</Chinese>
-            <Chinesesimp>白板(马尔登地图，靠墙)</Chinesesimp>
+            <Chinesesimp>白板（马尔登地图，靠墙）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_mapboard_01_wall_f0">
             <Original>Whiteboard (Empty, Wall)</Original>
             <Chinese>白板(空，靠牆)</Chinese>
-            <Chinesesimp>白板(空，靠墙)</Chinesesimp>
+            <Chinesesimp>白板（空，靠墙）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_mapboard_01_wall_altis_f0">
             <Original>Whiteboard (Map of Altis, Wall)</Original>
             <Chinese>白板(阿爾蒂斯地圖，靠牆)</Chinese>
-            <Chinesesimp>白板(阿尔蒂斯地图，靠墙)</Chinesesimp>
+            <Chinesesimp>白板（阿尔蒂斯地图，靠墙）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -1742,7 +1742,7 @@
         <Key ID="str_a3_cfgvehicles_land_woodenbed_01_f0">
           <Original>Bed (Double, Wooden)</Original>
           <Chinese>床(雙人，木製)</Chinese>
-          <Chinesesimp>床(双人，木制)</Chinesesimp>
+          <Chinesesimp>床（双人，木制）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_tablesmall_01_f0">
           <Original>Coffee Table</Original>
@@ -1762,17 +1762,17 @@
         <Key ID="str_a3_cfgvehicles_land_rug_01_traditional_f0">
           <Original>Rug (Brown, Traditional)</Original>
           <Chinese>地毯(棕色，傳統)</Chinese>
-          <Chinesesimp>地毯(棕色，传统)</Chinesesimp>
+          <Chinesesimp>地毯（棕色，传统）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_rug_01_f0">
           <Original>Rug (Brown)</Original>
           <Chinese>地毯(棕色)</Chinese>
-          <Chinesesimp>地毯(棕色)</Chinesesimp>
+          <Chinesesimp>地毯（棕色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_officecabinet_02_f0">
           <Original>Office Cabinet (Old)</Original>
           <Chinese>辦公櫥(舊)</Chinese>
-          <Chinesesimp>办公橱(旧)</Chinesesimp>
+          <Chinesesimp>办公橱（旧）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_armchair_01_f0">
           <Original>Armchair</Original>
@@ -1792,27 +1792,27 @@
           <Key ID="str_a3_cfgvehicles_land_plasticnetfence_01_short_d_f0">
             <Original>Plastic Net Fence (Destroyed)</Original>
             <Chinese>塑料網牆(被毀)</Chinese>
-            <Chinesesimp>塑料网墙(被毁)</Chinesesimp>
+            <Chinesesimp>塑料网墙（被毁）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_plasticnetfence_01_roll_f0">
             <Original>Plastic Net Fence (Roll)</Original>
             <Chinese>塑料網牆(捲起)</Chinese>
-            <Chinesesimp>塑料网墙(卷起)</Chinesesimp>
+            <Chinesesimp>塑料网墙（卷起）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_plasticnetfence_01_pole_f0">
             <Original>Plastic Net Fence (Pole)</Original>
             <Chinese>塑料網牆(桿子)</Chinese>
-            <Chinesesimp>塑料网墙(杆子)</Chinesesimp>
+            <Chinesesimp>塑料网墙（杆子）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_plasticnetfence_01_long_f0">
             <Original>Plastic Net Fence (Long)</Original>
             <Chinese>塑料網牆(長)</Chinese>
-            <Chinesesimp>塑料网墙(长)</Chinesesimp>
+            <Chinesesimp>塑料网墙（长）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_plasticnetfence_01_long_d_f0">
             <Original>Plastic Net Fence (Long, Destroyed)</Original>
             <Chinese>塑料網牆(長，被毀)</Chinese>
-            <Chinesesimp>塑料网墙(长，被毁)</Chinesesimp>
+            <Chinesesimp>塑料网墙（长，被毁）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -1821,12 +1821,12 @@
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_white_idap_outer_f0">
             <Original>Tent (Shelter, Outer) [IDAP]</Original>
             <Chinese>帳篷(掩體，向外)[國發援]</Chinese>
-            <Chinesesimp>帐篷(掩体，向外)[国发援]</Chinesesimp>
+            <Chinesesimp>帐篷（掩体，向外）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_white_idap_open_f0">
             <Original>Tent (Shelter, Open) [IDAP]</Original>
             <Chinese>帳篷(掩體，開放)[國發援]</Chinese>
-            <Chinesesimp>帐篷(掩体，开放)[国发援]</Chinesesimp>
+            <Chinesesimp>帐篷（掩体，开放）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_white_idap_med_closed_f0">
             <Original>Medical Tent [IDAP]</Original>
@@ -1836,27 +1836,27 @@
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_white_idap_closed_f0">
             <Original>Tent (Shelter, Closed) [IDAP]</Original>
             <Chinese>帳篷(掩體，關閉)[國發援]</Chinese>
-            <Chinesesimp>帐篷(掩体，关闭)[国发援]</Chinesesimp>
+            <Chinesesimp>帐篷（掩体，关闭）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_white_generic_outer_f0">
             <Original>Tent (Shelter, Outer)</Original>
             <Chinese>帳篷(掩體，向外)</Chinese>
-            <Chinesesimp>帐篷(掩体，向外)</Chinesesimp>
+            <Chinesesimp>帐篷（掩体，向外）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_white_generic_open_f0">
             <Original>Tent (Shelter, Open)</Original>
             <Chinese>帳篷(掩體，開放)</Chinese>
-            <Chinesesimp>帐篷(掩体，开放)</Chinesesimp>
+            <Chinesesimp>帐篷（掩体，开放）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_white_generic_inner_f0">
             <Original>Tent (Shelter, Inner)</Original>
             <Chinese>帳篷(掩體，向內)</Chinese>
-            <Chinesesimp>帐篷(掩体，向内)</Chinesesimp>
+            <Chinesesimp>帐篷（掩体，向内）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_white_generic_closed_f0">
             <Original>Tent (Shelter, Closed)</Original>
             <Chinese>帳篷(掩體，關閉)</Chinese>
-            <Chinesesimp>帐篷(掩体，关闭)</Chinesesimp>
+            <Chinesesimp>帐篷（掩体，关闭）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_tropic_closed_f0">
             <Original>Medical Tent [NATO]</Original>
@@ -1876,12 +1876,12 @@
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_floor_light_f0">
             <Original>Tent (Shelter, Floor, Light)</Original>
             <Chinese>帳篷(掩體，有地板，明亮)</Chinese>
-            <Chinesesimp>帐篷(掩体，有地板，明亮)</Chinesesimp>
+            <Chinesesimp>帐篷（掩体，有地板，明亮）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_floor_dark_f0">
             <Original>Tent (Shelter, Floor, Dark)</Original>
             <Chinese>帳篷(掩體，有地板，黑暗)</Chinese>
-            <Chinesesimp>帐篷(掩体，有地板，黑暗)</Chinesesimp>
+            <Chinesesimp>帐篷（掩体，有地板，黑暗）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_digital_closed_f0">
             <Original>Medical Tent [AAF]</Original>
@@ -1918,22 +1918,22 @@
           <Key ID="str_a3_cfgvehicles_flag_idap_f0">
             <Original>Flag (IDAP)</Original>
             <Chinese>旗幟(國發援)</Chinese>
-            <Chinesesimp>旗帜(国发援)</Chinesesimp>
+            <Chinesesimp>旗帜（国发援）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_banner_01_nato_f0">
             <Original>Banner (NATO)</Original>
             <Chinese>橫幅(北約)</Chinese>
-            <Chinesesimp>横幅(北约)</Chinesesimp>
+            <Chinesesimp>横幅（北约）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_banner_01_idap_f0">
             <Original>Banner (IDAP)</Original>
             <Chinese>橫幅(國發援)</Chinese>
-            <Chinesesimp>横幅(国发援)</Chinesesimp>
+            <Chinesesimp>横幅（国发援）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_banner_01_fia_f0">
             <Original>Banner (FIA)</Original>
             <Chinese>橫幅(自由陣線)</Chinese>
-            <Chinesesimp>横幅(自由阵线)</Chinesesimp>
+            <Chinesesimp>横幅（自由阵线）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_banner_01_f0">
             <Original>Banner</Original>
@@ -1943,12 +1943,12 @@
           <Key ID="str_a3_cfgvehicles_banner_01_csat_f0">
             <Original>Banner (CSAT)</Original>
             <Chinese>橫幅(廣協同盟)</Chinese>
-            <Chinesesimp>横幅(广协)</Chinesesimp>
+            <Chinesesimp>横幅（广协）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_banner_01_aaf_f0">
             <Original>Banner (AAF)</Original>
             <Chinese>橫幅(阿爾蒂斯武裝力量)</Chinese>
-            <Chinesesimp>横幅(AAF)</Chinesesimp>
+            <Chinesesimp>横幅（AAF）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -1957,59 +1957,59 @@
           <Key ID="str_a3_cfgvehicles_land_sign_warningnoweapontanoa_f0">
             <Original>Sign (No Weapons, Tanoa)</Original>
             <Chinese>標誌(無武器，塔諾亞)</Chinese>
-            <Chinesesimp>标志(无武器，塔诺亚)</Chinesesimp>
+            <Chinesesimp>标志（无武器，塔诺亚）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_sign_warningnoweapon_f0">
             <Original>Sign (No Weapons, International)</Original>
             <Chinese>標誌(無武器，國際通用)</Chinese>
-            <Chinesesimp>标志(无武器，国际通用)</Chinesesimp>
+            <Chinesesimp>标志（无武器，国际通用）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_sign_warningnoweaponaltis_f0">
             <Original>Sign (No Weapons, Altis)</Original>
             <Chinese>標誌(無武器，阿爾蒂斯)</Chinese>
-            <Chinesesimp>标志(无武器，阿尔蒂斯)</Chinesesimp>
+            <Chinesesimp>标志（无武器，阿尔蒂斯）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_sign_minestall_greek_f0">
             <Original>Sign (Mines, Tall, Altis)</Original>
             <Chinese>標誌(地雷，高，阿爾蒂斯)</Chinese>
-            <Chinesesimp>标志(地雷，高，阿尔蒂斯)</Chinesesimp>
+            <Chinesesimp>标志（地雷，高，阿尔蒂斯）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_sign_minestall_english_f0">
             <Original>Sign (Mines, Tall, International)</Original>
             <Chinese>標誌(地雷，高，國際通用)</Chinese>
-            <Chinesesimp>标志(地雷，高，国际通用)</Chinesesimp>
+            <Chinesesimp>标志（地雷，高，国际通用）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_sign_minesdanger_greek_f0">
             <Original>Sign (Mines Danger, Altis)</Original>
             <Chinese>標誌(地雷危險，阿爾蒂斯)</Chinese>
-            <Chinesesimp>标志(地雷危险，阿尔蒂斯)</Chinesesimp>
+            <Chinesesimp>标志（地雷危险，阿尔蒂斯）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_sign_minesdanger_english_f0">
             <Original>Sign (Mines Danger, International)</Original>
             <Chinese>標誌(地雷危險，國際通用)</Chinese>
-            <Chinesesimp>标志(地雷危险，国际通用)</Chinesesimp>
+            <Chinesesimp>标志（地雷危险，国际通用）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_sign_minestall_f0">
             <Original>Sign (Mines, Tall)</Original>
             <Chinese>標誌(地雷，高)</Chinese>
-            <Chinesesimp>标志(地雷，高)</Chinesesimp>
+            <Chinesesimp>标志（地雷，高）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Special">
           <Key ID="str_a3_cfgvehicles_signad_sponsors_01_idap_f0">
             <Original>Sign (IDAP - Small)</Original>
             <Chinese>標誌(國發援-小)</Chinese>
-            <Chinesesimp>标志(国发援-小)</Chinesesimp>
+            <Chinesesimp>标志（国发援-小）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_signad_sponsor_idap_f0">
             <Original>Sign (IDAP)</Original>
             <Chinese>標誌(國發援)</Chinese>
-            <Chinesesimp>标志(国发援)</Chinesesimp>
+            <Chinesesimp>标志（国发援）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_signad_sponsor_01_idap_f0">
             <Original>Sign (IDAP)</Original>
             <Chinese>標誌(國發援)</Chinese>
-            <Chinesesimp>标志(国发援)</Chinesesimp>
+            <Chinesesimp>标志（国发援）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_wallsign_01_f0">
             <Original>Wall Sign</Original>
@@ -2019,17 +2019,17 @@
           <Key ID="str_a3_cfgvehicles_land_wallsign_01_chalkboard_f0">
             <Original>Wall Sign (Chalkboard)</Original>
             <Chinese>牆上標誌(黑板)</Chinese>
-            <Chinesesimp>墙上标志(黑板)</Chinesesimp>
+            <Chinesesimp>墙上标志（黑板）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_entrancegate_01_narrow_f0">
             <Original>Entrance Gate (IDAP)</Original>
             <Chinese>大門(國發援)</Chinese>
-            <Chinesesimp>大门(国发援)</Chinesesimp>
+            <Chinesesimp>大门（国发援）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_flagmarker_01_f0">
             <Original>Flag (Marker)</Original>
             <Chinese>旗幟(標記物)</Chinese>
-            <Chinesesimp>旗帜(标记物)</Chinesesimp>
+            <Chinesesimp>旗帜（标记物）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -2038,27 +2038,27 @@
           <Key ID="str_a3_cfgvehicles_land_cargo40_idap_ruins_f0">
             <Original>Cargo Container (Long, Ruin) [IDAP]</Original>
             <Chinese>貨運集裝箱(長，毀壞)[國發援]</Chinese>
-            <Chinesesimp>货运集装箱(长，毁坏)[国发援]</Chinesesimp>
+            <Chinesesimp>货运集装箱（长，毁坏）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo40_idap_f0">
             <Original>Cargo Container (Long) [IDAP]</Original>
             <Chinese>貨運集裝箱(長)[國發援]</Chinese>
-            <Chinesesimp>货运集装箱(长)[国发援]</Chinesesimp>
+            <Chinesesimp>货运集装箱（长）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo20_idap_ruins_f0">
             <Original>Cargo Container (Medium, Ruin) [IDAP]</Original>
             <Chinese>貨運集裝箱(中，毀壞)[國發援]</Chinese>
-            <Chinesesimp>货运集装箱(中，毁坏)[国发援]</Chinesesimp>
+            <Chinesesimp>货运集装箱（中，毁坏）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo20_idap_f0">
             <Original>Cargo Container (Medium) [IDAP]</Original>
             <Chinese>貨運集裝箱(中)[國發援]</Chinese>
-            <Chinesesimp>货运集装箱(中)[国发援]</Chinesesimp>
+            <Chinesesimp>货运集装箱（中）[国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo10_idap_f0">
             <Original>Cargo Container (Short) [IDAP]</Original>
             <Chinese>貨運集裝箱(短)[國發援]</Chinese>
-            <Chinesesimp>货运集装箱(短)[国发援]</Chinesesimp>
+            <Chinesesimp>货运集装箱（短）[国发援]</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -2067,22 +2067,22 @@
           <Key ID="str_a3_cfgvehicles_sign_sphere10cm_geometry_f0">
             <Original>Sphere (Geometry, 10cm)</Original>
             <Chinese>球體(幾何，10公分)</Chinese>
-            <Chinesesimp>球体(几何，10厘米)</Chinesesimp>
+            <Chinesesimp>球体（几何，10cm）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_sign_sphere25cm_geometry_f0">
             <Original>Sphere (Geometry, 25cm)</Original>
             <Chinese>球體(幾何，25公分)</Chinese>
-            <Chinesesimp>球体(几何，25厘米)</Chinesesimp>
+            <Chinesesimp>球体（几何，25cm）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_sign_sphere100cm_geometry_f0">
             <Original>Sphere (Geometry, 100cm)</Original>
             <Chinese>球體(幾何，100公分)</Chinese>
-            <Chinesesimp>球体(几何，100厘米)</Chinesesimp>
+            <Chinesesimp>球体（几何，100cm）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_sign_sphere200cm_geometry_f0">
             <Original>Sphere (Geometry, 200cm)</Original>
             <Chinese>球體(幾何，200公分)</Chinese>
-            <Chinesesimp>球体(几何，200厘米)</Chinesesimp>
+            <Chinesesimp>球体（几何，200cm）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -2114,102 +2114,102 @@
         <Key ID="str_a3_cfgvehicles_o_uav_06_medical_backpack_f_assembleinfo0">
           <Original>UAV Bag (AL-6, Medical) [CSAT]</Original>
           <Chinese>無人機背包(AL-6，醫療)[廣協同盟]</Chinese>
-          <Chinesesimp>无人机背包(AL-6，医疗)[广协]</Chinesesimp>
+          <Chinesesimp>无人机背包（AL-6，医疗）[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_uav_06_medical_backpack_f0">
           <Original>UAV Bag (AL-6, Medical) [CSAT]</Original>
           <Chinese>無人機背包(AL-6，醫療)[廣協同盟]</Chinese>
-          <Chinesesimp>无人机背包(AL-6，医疗)[广协]</Chinesesimp>
+          <Chinesesimp>无人机背包（AL-6，医疗）[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_uav_06_backpack_f_assembleinfo0">
           <Original>UAV Bag (AL-6) [CSAT]</Original>
           <Chinese>無人機背包(AL-6)[廣協同盟]</Chinese>
-          <Chinesesimp>无人机背包(AL-6)[广协]</Chinesesimp>
+          <Chinesesimp>无人机背包（AL-6）[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_uav_06_backpack_f0">
           <Original>UAV Bag (AL-6) [CSAT]</Original>
           <Chinese>無人機背包(AL-6)[廣協同盟]</Chinese>
-          <Chinesesimp>无人机背包(AL-6)[广协]</Chinesesimp>
+          <Chinesesimp>无人机背包（AL-6）[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_uav_01_backpack_f0">
           <Original>UAV Bag (AR-2) [CSAT]</Original>
           <Chinese>無人機背包(AR-2)[廣協同盟]</Chinese>
-          <Chinesesimp>无人机背包(AR-2)[广协]</Chinesesimp>
+          <Chinesesimp>无人机背包（AR-2）[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_uav_06_medical_backpack_f_assembleinfo0">
           <Original>UAV Bag (AL-6, Medical) [AAF]</Original>
           <Chinese>無人機背包(AL-6，醫療)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>无人机背包(AL-6，医疗)[AAF]</Chinesesimp>
+          <Chinesesimp>无人机背包（AL-6，医疗）[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_uav_06_medical_backpack_f0">
           <Original>UAV Bag (AL-6, Medical) [AAF]</Original>
           <Chinese>無人機背包(AL-6，醫療)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>无人机背包(AL-6，医疗)[AAF]</Chinesesimp>
+          <Chinesesimp>无人机背包（AL-6，医疗）[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_uav_06_backpack_f_assembleinfo0">
           <Original>UAV Bag (AL-6) [AAF]</Original>
           <Chinese>無人機背包(AL-6)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>无人机背包(AL-6)[AAF]</Chinesesimp>
+          <Chinesesimp>无人机背包（AL-6）[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_uav_06_backpack_f0">
           <Original>UAV Bag (AL-6) [AAF]</Original>
           <Chinese>無人機背包(AL-6)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>无人机背包(AL-6)[AAF]</Chinesesimp>
+          <Chinesesimp>无人机背包（AL-6）[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_uav_01_backpack_f0">
           <Original>UAV Bag (AR-2) [AAF]</Original>
           <Chinese>無人機背包(AR-2)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>无人机背包(AR-2)[AAF]</Chinesesimp>
+          <Chinesesimp>无人机背包（AR-2）[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_uav_06_medical_backpack_f_assembleinfo0">
           <Original>UAV Bag (Utility, Medical)</Original>
           <Chinese>無人機背包(通用，醫療)</Chinese>
-          <Chinesesimp>无人机背包(通用，医疗)</Chinesesimp>
+          <Chinesesimp>无人机背包（通用，医疗）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_uav_06_medical_backpack_f0">
           <Original>UAV Bag (Utility, Medical)</Original>
           <Chinese>無人機背包(通用，醫療)</Chinese>
-          <Chinesesimp>无人机背包(通用，医疗)</Chinesesimp>
+          <Chinesesimp>无人机背包（通用，医疗）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_uav_06_backpack_f_assembleinfo0">
           <Original>UAV Bag (Utility)</Original>
           <Chinese>無人機背包(通用)</Chinese>
-          <Chinesesimp>无人机背包(通用)</Chinesesimp>
+          <Chinesesimp>无人机背包（通用）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_uav_06_backpack_f0">
           <Original>UAV Bag (Utility)</Original>
           <Chinese>無人機背包(通用)</Chinese>
-          <Chinesesimp>无人机背包(通用)</Chinesesimp>
+          <Chinesesimp>无人机背包（通用）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_idap_uav_06_medical_backpack_f_assembleinfo0">
           <Original>UAV Bag (Utility, Medical) [IDAP]</Original>
           <Chinese>無人機背包(通用，醫療)[國發援]</Chinese>
-          <Chinesesimp>无人机背包(通用，医疗)[国发援]</Chinesesimp>
+          <Chinesesimp>无人机背包（通用，医疗）[国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_idap_uav_06_medical_backpack_f0">
           <Original>UAV Bag (AL-6, Medical) [IDAP]</Original>
           <Chinese>無人機背包(AL-6，醫療)[國發援]</Chinese>
-          <Chinesesimp>无人机背包(AL-6，医疗)[国发援]</Chinesesimp>
+          <Chinesesimp>无人机背包（AL-6，医疗）[国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_idap_uav_06_backpack_f_assembleinfo0">
           <Original>UAV Bag (Utility) [IDAP]</Original>
           <Chinese>無人機背包(通用)[國發援]</Chinese>
-          <Chinesesimp>无人机背包(通用)[国发援]</Chinesesimp>
+          <Chinesesimp>无人机背包（通用）[国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_idap_uav_06_backpack_f0">
           <Original>UAV Bag (Utility) [IDAP]</Original>
           <Chinese>無人機背包(通用)[國發援]</Chinese>
-          <Chinesesimp>无人机背包(通用)[国发援]</Chinesesimp>
+          <Chinesesimp>无人机背包（通用）[国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_idap_uav_06_antimine_backpack_f_assembleinfo0">
           <Original>UAV Bag (Demining) [IDAP]</Original>
           <Chinese>無人機背包(排雷)[國發援]</Chinese>
-          <Chinesesimp>无人机背包(排雷)[国发援]</Chinesesimp>
+          <Chinesesimp>无人机背包（排雷）[国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_idap_uav_06_antimine_backpack_f0">
           <Original>UAV Bag (Demining) [IDAP]</Original>
           <Chinese>無人機背包(排雷)[國發援]</Chinese>
-          <Chinesesimp>无人机背包(排雷)[国发援]</Chinesesimp>
+          <Chinesesimp>无人机背包（排雷）[国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_idap_uav_01_backpack_f_assembleinfo0">
           <Original>UAV Bag [IDAP]</Original>
@@ -2224,47 +2224,47 @@
         <Key ID="str_a3_cfgvehicles_b_uav_06_medical_backpack_f_assembleinfo0">
           <Original>UAV Bag (AL-6, Medical) [NATO]</Original>
           <Chinese>無人機背包(AL-6，醫療)[北約]</Chinese>
-          <Chinesesimp>无人机背包(AL-6，医疗)[北约]</Chinesesimp>
+          <Chinesesimp>无人机背包（AL-6，医疗）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_uav_06_medical_backpack_f0">
           <Original>UAV Bag (AL-6, Medical) [NATO]</Original>
           <Chinese>無人機背包(AL-6，醫療)[北約]</Chinese>
-          <Chinesesimp>无人机背包(AL-6，医疗)[北约]</Chinesesimp>
+          <Chinesesimp>无人机背包（AL-6，医疗）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_uav_06_backpack_f_assembleinfo0">
           <Original>UAV Bag (AL-6) [NATO]</Original>
           <Chinese>無人機背包(AL-6)[北約]</Chinese>
-          <Chinesesimp>无人机背包(AL-6)[北约]</Chinesesimp>
+          <Chinesesimp>无人机背包（AL-6）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_uav_06_backpack_f0">
           <Original>UAV Bag (AL-6) [NATO]</Original>
           <Chinese>無人機背包(AL-6)[北約]</Chinese>
-          <Chinesesimp>无人机背包(AL-6)[北约]</Chinesesimp>
+          <Chinesesimp>无人机背包（AL-6）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_uav_01_backpack_f0_0">
           <Original>UAV Bag (AR-2) [NATO]</Original>
           <Chinese>無人機背包(AR-2)[北約]</Chinese>
-          <Chinesesimp>无人机背包(AR-2)[北约]</Chinesesimp>
+          <Chinesesimp>无人机背包（AR-2）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_messenger_olive_f0">
           <Original>Messenger Bag (Olive)</Original>
           <Chinese>郵包(橄欖色)</Chinese>
-          <Chinesesimp>邮包(橄榄色)</Chinesesimp>
+          <Chinesesimp>邮包（橄榄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_messenger_gray_f0">
           <Original>Messenger Bag (Gray)</Original>
           <Chinese>郵包(灰色)</Chinese>
-          <Chinesesimp>邮包(灰色)</Chinesesimp>
+          <Chinesesimp>邮包（灰色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_messenger_coyote_f0">
           <Original>Messenger Bag (Coyote)</Original>
           <Chinese>郵包(狼棕色)</Chinese>
-          <Chinesesimp>邮包(狼棕色)</Chinesesimp>
+          <Chinesesimp>邮包（狼棕色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_messenger_black_f0">
           <Original>Messenger Bag (Black)</Original>
           <Chinese>郵包(黑色)</Chinese>
-          <Chinesesimp>邮包(黑色)</Chinesesimp>
+          <Chinesesimp>邮包（黑色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_messenger_idap_f0">
           <Original>Messenger Bag [IDAP]</Original>
@@ -2284,12 +2284,12 @@
       <Key ID="str_a3_o_t_soldier_uav_06_medical_f0">
         <Original>UAV Operator (AL-6, Medical)</Original>
         <Chinese>無人機操作員(AL-6，醫療)</Chinese>
-        <Chinesesimp>无人机操作员(AL-6，医疗)</Chinesesimp>
+        <Chinesesimp>无人机操作员（AL-6，医疗）</Chinesesimp>
       </Key>
       <Key ID="str_a3_o_t_soldier_uav_06_f0">
         <Original>UAV Operator (AL-6)</Original>
         <Chinese>無人機操作員(AL-6)</Chinese>
-        <Chinesesimp>无人机操作员(AL-6)</Chinesesimp>
+        <Chinesesimp>无人机操作员（AL-6）</Chinesesimp>
       </Key>
       <Key ID="str_a3_o_t_soldier_mine_f0">
         <Original>Mine Specialist</Original>
@@ -2299,12 +2299,12 @@
       <Key ID="str_a3_o_soldier_uav_06_medical_f0">
         <Original>UAV Operator (AL-6, Medical)</Original>
         <Chinese>無人機操作員(AL-6，醫療)</Chinese>
-        <Chinesesimp>无人机操作员(AL-6，医疗)</Chinesesimp>
+        <Chinesesimp>无人机操作员（AL-6，医疗）</Chinesesimp>
       </Key>
       <Key ID="str_a3_o_soldier_uav_06_f0">
         <Original>UAV Operator (AL-6)</Original>
         <Chinese>無人機操作員(AL-6)</Chinese>
-        <Chinesesimp>无人机操作员(AL-6)</Chinesesimp>
+        <Chinesesimp>无人机操作员（AL-6）</Chinesesimp>
       </Key>
       <Key ID="str_a3_o_soldier_mine_f0">
         <Original>Mine Specialist</Original>
@@ -2314,12 +2314,12 @@
       <Key ID="str_a3_i_soldier_uav_06_medical_f0">
         <Original>UAV Operator (AL-6, Medical)</Original>
         <Chinese>無人機操作員(AL-6，醫療)</Chinese>
-        <Chinesesimp>无人机操作员(AL-6，医疗)</Chinesesimp>
+        <Chinesesimp>无人机操作员（AL-6，医疗）</Chinesesimp>
       </Key>
       <Key ID="str_a3_i_soldier_uav_06_f0">
         <Original>UAV Operator (AL-6)</Original>
         <Chinese>無人機操作員(AL-6)</Chinese>
-        <Chinesesimp>无人机操作员(AL-6)</Chinesesimp>
+        <Chinesesimp>无人机操作员（AL-6）</Chinesesimp>
       </Key>
       <Key ID="str_a3_i_soldier_mine_f0">
         <Original>Mine Specialist</Original>
@@ -2349,12 +2349,12 @@
       <Key ID="str_a3_c_man_uav_06_medical_f0">
         <Original>UAV Operator (Utility, Medical)</Original>
         <Chinese>無人機操作員(通用，醫療)</Chinese>
-        <Chinesesimp>无人机操作员(通用，医疗)</Chinesesimp>
+        <Chinesesimp>无人机操作员（通用，医疗）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_man_uav_06_f0">
         <Original>UAV Operator (Utility)</Original>
         <Chinese>無人機操作員(通用)</Chinese>
-        <Chinesesimp>无人机操作员(通用)</Chinesesimp>
+        <Chinesesimp>无人机操作员（通用）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_man_messenger_01_f0">
         <Original>Messenger</Original>
@@ -2369,27 +2369,27 @@
       <Key ID="str_a3_c_man_constructionworker_01_vrana_f0">
         <Original>Construction Worker (Vrana)</Original>
         <Chinese>建築工人(沃爾納企業)</Chinese>
-        <Chinesesimp>建筑工人(沃尔纳企业)</Chinesesimp>
+        <Chinesesimp>建筑工人（沃尔纳企业）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_man_constructionworker_01_red_f0">
         <Original>Construction Worker (Red)</Original>
         <Chinese>建築工人(紅色)</Chinese>
-        <Chinesesimp>建筑工人(红色)</Chinesesimp>
+        <Chinesesimp>建筑工人（红色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_man_constructionworker_01_blue_f0">
         <Original>Construction Worker (Blue)</Original>
         <Chinese>建築工人(藍色)</Chinese>
-        <Chinesesimp>建筑工人(蓝色)</Chinesesimp>
+        <Chinesesimp>建筑工人（蓝色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_man_constructionworker_01_black_f0">
         <Original>Construction Worker (Black)</Original>
         <Chinese>建築工人(黑色)</Chinese>
-        <Chinesesimp>建筑工人(黑色)</Chinesesimp>
+        <Chinesesimp>建筑工人（黑色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_journalist_01_war_f0">
         <Original>Journalist (War)</Original>
         <Chinese>記者(戰地)</Chinese>
-        <Chinesesimp>记者(战地)</Chinesesimp>
+        <Chinesesimp>记者（战地）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_idap_pilot_01_f0">
         <Original>Pilot</Original>
@@ -2399,22 +2399,22 @@
       <Key ID="str_a3_c_idap_man_uav_06_medical_f0">
         <Original>UAV Operator (Utility, Medical)</Original>
         <Chinese>無人機操作員(通用，醫療)</Chinese>
-        <Chinesesimp>无人机操作员(通用，医疗)</Chinesesimp>
+        <Chinesesimp>无人机操作员（通用，医疗）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_idap_man_uav_06_f0">
         <Original>UAV Operator (Utility)</Original>
         <Chinese>無人機操作員(通用)</Chinese>
-        <Chinesesimp>无人机操作员(通用)</Chinesesimp>
+        <Chinesesimp>无人机操作员（通用）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_idap_man_uav_06_antimine_f0">
         <Original>UAV Operator (Demining)</Original>
         <Chinese>無人機操作員(排雷)</Chinese>
-        <Chinesesimp>无人机操作员(排雷)</Chinesesimp>
+        <Chinesesimp>无人机操作员（排雷）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_idap_man_uav_01_f0">
         <Original>UAV Operator (Drone)</Original>
         <Chinese>無人機操作員(無人機)</Chinese>
-        <Chinesesimp>无人机操作员(无人机)</Chinesesimp>
+        <Chinesesimp>无人机操作员（无人机）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_idap_man_eod_01_f0">
         <Original>EOD Specialist</Original>
@@ -2424,57 +2424,57 @@
       <Key ID="str_a3_c_idap_man_aidworker_09_f0">
         <Original>Aid Worker (Field) 3</Original>
         <Chinese>援助工作者(野外)3</Chinese>
-        <Chinesesimp>援助工作者(野外)3</Chinesesimp>
+        <Chinesesimp>援助工作者（野外）3</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_idap_man_aidworker_08_f0">
         <Original>Aid Worker (Field) 2</Original>
         <Chinese>援助工作者(野外)2</Chinese>
-        <Chinesesimp>援助工作者(野外)2</Chinesesimp>
+        <Chinesesimp>援助工作者（野外）2</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_idap_man_aidworker_07_f0">
         <Original>Aid Worker (Field) 1</Original>
         <Chinese>援助工作者(野外)1</Chinese>
-        <Chinesesimp>援助工作者(野外)1</Chinesesimp>
+        <Chinesesimp>援助工作者（野外）1</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_idap_man_aidworker_06_f0">
         <Original>Aid Worker (Polo, Shorts)</Original>
         <Chinese>援助工作者(Polo衫，短褲)</Chinese>
-        <Chinesesimp>援助工作者(Polo衫，短裤)</Chinesesimp>
+        <Chinesesimp>援助工作者（Polo 衫，短裤）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_idap_man_aidworker_05_f0">
         <Original>Aid Worker (Polo)</Original>
         <Chinese>援助工作者(Polo衫)</Chinese>
-        <Chinesesimp>援助工作者(Polo衫)</Chinesesimp>
+        <Chinesesimp>援助工作者（Polo 衫）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_idap_man_aidworker_04_f0">
         <Original>Aid Worker (Tee)</Original>
         <Chinese>援助工作者(T恤)</Chinese>
-        <Chinesesimp>援助工作者(T恤)</Chinesesimp>
+        <Chinesesimp>援助工作者（T恤）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_idap_man_aidworker_03_f0">
         <Original>Aid Worker (Tee, Shorts)</Original>
         <Chinese>援助工作者(T恤，短褲)</Chinese>
-        <Chinesesimp>援助工作者(T恤，短裤)</Chinesesimp>
+        <Chinesesimp>援助工作者（T恤，短裤）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_idap_man_aidworker_02_f0">
         <Original>Aid Worker (Jeans)</Original>
         <Chinese>援助工作者(牛仔褲)</Chinese>
-        <Chinesesimp>援助工作者(牛仔裤)</Chinesesimp>
+        <Chinesesimp>援助工作者（牛仔裤）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_idap_man_aidworker_01_f0">
         <Original>Aid Worker (Cargo)</Original>
         <Chinese>援助工作者(運貨)</Chinese>
-        <Chinesesimp>援助工作者(运货)</Chinesesimp>
+        <Chinesesimp>援助工作者（运货）</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_t_soldier_uav_06_medical_f0">
         <Original>UAV Operator (AL-6, Medical)</Original>
         <Chinese>無人機操作員(AL-6，醫療)</Chinese>
-        <Chinesesimp>无人机操作员(AL-6，医疗)</Chinesesimp>
+        <Chinesesimp>无人机操作员（AL-6，医疗）</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_t_soldier_uav_06_f0">
         <Original>UAV Operator (AL-6)</Original>
         <Chinese>無人機操作員(AL-6)</Chinese>
-        <Chinesesimp>无人机操作员(AL-6)</Chinesesimp>
+        <Chinesesimp>无人机操作员（AL-6）</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_t_soldier_mine_f0">
         <Original>Mine Specialist</Original>
@@ -2484,12 +2484,12 @@
       <Key ID="str_a3_b_soldier_uav_06_medical_f0">
         <Original>UAV Operator (AL-6, Medical)</Original>
         <Chinese>無人機操作員(AL-6，醫療)</Chinese>
-        <Chinesesimp>无人机操作员(AL-6，医疗)</Chinesesimp>
+        <Chinesesimp>无人机操作员（AL-6，医疗）</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_soldier_uav_06_f0">
         <Original>UAV Operator (AL-6)</Original>
         <Chinese>無人機操作員(AL-6)</Chinese>
-        <Chinesesimp>无人机操作员(AL-6)</Chinesesimp>
+        <Chinesesimp>无人机操作员（AL-6）</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_soldier_mine_f0">
         <Original>Mine Specialist</Original>
@@ -2510,17 +2510,17 @@
         <Key ID="str_a3_cfgglasses_g_respirator_yellow_f0">
           <Original>Respirator (Yellow)</Original>
           <Chinese>口罩(黃色)</Chinese>
-          <Chinesesimp>口罩(黄色)</Chinesesimp>
+          <Chinesesimp>口罩（黄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgglasses_g_respirator_white_f0">
           <Original>Respirator (White)</Original>
           <Chinese>口罩(白色)</Chinese>
-          <Chinesesimp>口罩(白色)</Chinesesimp>
+          <Chinesesimp>口罩（白色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgglasses_g_respirator_blue_f0">
           <Original>Respirator (Blue)</Original>
           <Chinese>口罩(藍色)</Chinese>
-          <Chinesesimp>口罩(蓝色)</Chinesesimp>
+          <Chinesesimp>口罩（蓝色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgglasses_g_eyeprotectors_f0">
           <Original>Safety Goggles</Original>
@@ -2530,7 +2530,7 @@
         <Key ID="str_a3_cfgglasses_g_eyeprotectors_earpiece_f0">
           <Original>Safety Goggles (Earpiece)</Original>
           <Chinese>安全眼鏡(護耳)</Chinese>
-          <Chinesesimp>安全眼镜(护耳)</Chinesesimp>
+          <Chinesesimp>安全眼镜（护耳）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Heads">
@@ -2564,17 +2564,17 @@
         <Key ID="str_a3_cfgweapons_h_pasgt_neckprot_blue_press_f0">
           <Original>Press Helmet (Neck Protection)</Original>
           <Chinese>新聞頭盔(護頸)</Chinese>
-          <Chinesesimp>新闻头盔(护颈)</Chinesesimp>
+          <Chinesesimp>新闻头盔（护颈）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_pasgt_basic_white_f0">
           <Original>Basic Helmet (White)</Original>
           <Chinese>基本頭盔(白色)</Chinese>
-          <Chinesesimp>基本头盔(白色)</Chinesesimp>
+          <Chinesesimp>基本头盔（白色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_pasgt_basic_olive_f0">
           <Original>Basic Helmet (Olive)</Original>
           <Chinese>基本頭盔(橄欖色)</Chinese>
-          <Chinesesimp>基本头盔(橄榄色)</Chinesesimp>
+          <Chinesesimp>基本头盔（橄榄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_pasgt_basic_blue_press_f0">
           <Original>Press Helmet</Original>
@@ -2584,192 +2584,192 @@
         <Key ID="str_a3_cfgweapons_h_pasgt_basic_blue_f0">
           <Original>Basic Helmet (Blue)</Original>
           <Chinese>基本頭盔(藍色)</Chinese>
-          <Chinesesimp>基本头盔(蓝色)</Chinesesimp>
+          <Chinesesimp>基本头盔（蓝色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_pasgt_basic_black_f0">
           <Original>Basic Helmet (Black)</Original>
           <Chinese>基本頭盔(黑色)</Chinese>
-          <Chinesesimp>基本头盔(黑色)</Chinesesimp>
+          <Chinesesimp>基本头盔（黑色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_headset_yellow_f0">
           <Original>Headset (Yellow)</Original>
           <Chinese>耳機(黃色)</Chinese>
-          <Chinesesimp>耳机(黄色)</Chinesesimp>
+          <Chinesesimp>耳机（黄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_headset_white_f0">
           <Original>Headset (White)</Original>
           <Chinese>耳機(白色)</Chinese>
-          <Chinesesimp>耳机(白色)</Chinesesimp>
+          <Chinesesimp>耳机（白色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_headset_red_f0">
           <Original>Headset (Red)</Original>
           <Chinese>耳機(紅色)</Chinese>
-          <Chinesesimp>耳机(红色)</Chinesesimp>
+          <Chinesesimp>耳机（红色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_headset_orange_f0">
           <Original>Headset (Orange)</Original>
           <Chinese>耳機(橙色)</Chinese>
-          <Chinesesimp>耳机(橙色)</Chinesesimp>
+          <Chinesesimp>耳机（橙色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_headset_black_f0">
           <Original>Headset (Black)</Original>
           <Chinese>耳機(黑色)</Chinese>
-          <Chinesesimp>耳机(黑色)</Chinesesimp>
+          <Chinesesimp>耳机（黑色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_headbandage_stained_f0">
           <Original>Head Bandage (Moderate)</Original>
           <Chinese>頭部繃帶(較輕)</Chinese>
-          <Chinesesimp>头部绷带(较轻)</Chinesesimp>
+          <Chinesesimp>头部绷带（较轻）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_headbandage_clean_f0">
           <Original>Head Bandage (Clean)</Original>
           <Chinese>頭部繃帶(乾淨)</Chinese>
-          <Chinesesimp>头部绷带(干净)</Chinesesimp>
+          <Chinesesimp>头部绷带（干净）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_headbandage_bloody_f0">
           <Original>Head Bandage (Severe)</Original>
           <Chinese>頭部繃帶(嚴重)</Chinese>
-          <Chinesesimp>头部绷带(严重)</Chinesesimp>
+          <Chinesesimp>头部绷带（严重）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_hat_safari_sand_f0">
           <Original>Safari Hat (Sand)</Original>
           <Chinese>遊獵帽(沙色)</Chinese>
-          <Chinesesimp>游猎帽(沙色)</Chinesesimp>
+          <Chinesesimp>游猎帽（沙色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_hat_safari_olive_f0">
           <Original>Safari Hat (Olive)</Original>
           <Chinese>遊獵帽(橄欖色)</Chinese>
-          <Chinesesimp>游猎帽(橄榄色)</Chinesesimp>
+          <Chinesesimp>游猎帽（橄榄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_earprotectors_yellow_f0">
           <Original>Ear Protectors (Yellow)</Original>
           <Chinese>護耳(黃色)</Chinese>
-          <Chinesesimp>护耳(黄色)</Chinesesimp>
+          <Chinesesimp>护耳（黄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_earprotectors_white_f0">
           <Original>Ear Protectors (White)</Original>
           <Chinese>護耳(白色)</Chinese>
-          <Chinesesimp>护耳(白色)</Chinesesimp>
+          <Chinesesimp>护耳（白色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_earprotectors_red_f0">
           <Original>Ear Protectors (Red)</Original>
           <Chinese>護耳(紅色)</Chinese>
-          <Chinesesimp>护耳(红色)</Chinesesimp>
+          <Chinesesimp>护耳（红色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_earprotectors_orange_f0">
           <Original>Ear Protectors (Orange)</Original>
           <Chinese>護耳(橙色)</Chinese>
-          <Chinesesimp>护耳(橙色)</Chinesesimp>
+          <Chinesesimp>护耳（橙色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_earprotectors_black_f0">
           <Original>Ear Protectors (Black)</Original>
           <Chinese>護耳(黑色)</Chinese>
-          <Chinesesimp>护耳(黑色)</Chinesesimp>
+          <Chinesesimp>护耳（黑色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_headset_yellow_f0">
           <Original>Hard Hat (Yellow, Headset)</Original>
           <Chinese>安全帽(黃色，耳機)</Chinese>
-          <Chinesesimp>安全帽(黄色，耳机)</Chinesesimp>
+          <Chinesesimp>安全帽（黄色，耳机）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_headset_white_f0">
           <Original>Hard Hat (White, Headset)</Original>
           <Chinese>安全帽(白色，耳機)</Chinese>
-          <Chinesesimp>安全帽(白色，耳机)</Chinesesimp>
+          <Chinesesimp>安全帽（白色，耳机）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_headset_vrana_f0">
           <Original>Hard Hat (Vrana, Headset)</Original>
           <Chinese>安全帽(沃爾納企業，耳機)</Chinese>
-          <Chinesesimp>安全帽(沃尔纳企业，耳机)</Chinesesimp>
+          <Chinesesimp>安全帽（沃尔纳企业，耳机）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_headset_red_f0">
           <Original>Hard Hat (Red, Headset)</Original>
           <Chinese>安全帽(紅色，耳機)</Chinese>
-          <Chinesesimp>安全帽(红色，耳机)</Chinesesimp>
+          <Chinesesimp>安全帽（红色，耳机）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_headset_orange_f0">
           <Original>Hard Hat (Orange, Headset)</Original>
           <Chinese>安全帽(橙色，耳機)</Chinese>
-          <Chinesesimp>安全帽(橙色，耳机)</Chinesesimp>
+          <Chinesesimp>安全帽（橙色，耳机）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_headset_black_f0">
           <Original>Hard Hat (Black, Headset)</Original>
           <Chinese>安全帽(黑色，耳機)</Chinese>
-          <Chinesesimp>安全帽(黑色，耳机)</Chinesesimp>
+          <Chinesesimp>安全帽（黑色，耳机）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_earprot_yellow_f0">
           <Original>Hard Hat (Yellow, Ear Protectors)</Original>
           <Chinese>安全帽(黃色，護耳)</Chinese>
-          <Chinesesimp>安全帽(黄色，护耳)</Chinesesimp>
+          <Chinesesimp>安全帽（黄色，护耳）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_earprot_white_f0">
           <Original>Hard Hat (White, Ear Protectors)</Original>
           <Chinese>安全帽(白色，護耳)</Chinese>
-          <Chinesesimp>安全帽(白色，护耳)</Chinesesimp>
+          <Chinesesimp>安全帽（白色，护耳）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_earprot_vrana_f0">
           <Original>Hard Hat (Vrana, Ear Protectors)</Original>
           <Chinese>安全帽(沃爾納企業，護耳)</Chinese>
-          <Chinesesimp>安全帽(沃尔纳企业，护耳)</Chinesesimp>
+          <Chinesesimp>安全帽（沃尔纳企业，护耳）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_earprot_red_f0">
           <Original>Hard Hat (Red, Ear Protectors)</Original>
           <Chinese>安全帽(紅色，護耳)</Chinese>
-          <Chinesesimp>安全帽(红色，护耳)</Chinesesimp>
+          <Chinesesimp>安全帽（红色，护耳）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_earprot_orange_f0">
           <Original>Hard Hat (Orange, Ear Protectors)</Original>
           <Chinese>安全帽(橙色，護耳)</Chinese>
-          <Chinesesimp>安全帽(橙色，护耳)</Chinesesimp>
+          <Chinesesimp>安全帽（橙色，护耳）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_earprot_black_f0">
           <Original>Hard Hat (Black, Ear Protectors)</Original>
           <Chinese>安全帽(黑色，護耳)</Chinese>
-          <Chinesesimp>安全帽(黑色，护耳)</Chinesesimp>
+          <Chinesesimp>安全帽（黑色，护耳）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_basic_yellow_f0">
           <Original>Hard Hat (Yellow)</Original>
           <Chinese>安全帽(黃色)</Chinese>
-          <Chinesesimp>安全帽(黄色)</Chinesesimp>
+          <Chinesesimp>安全帽（黄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_basic_white_f0">
           <Original>Hard Hat (White)</Original>
           <Chinese>安全帽(白色)</Chinese>
-          <Chinesesimp>安全帽(白色)</Chinesesimp>
+          <Chinesesimp>安全帽（白色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_basic_vrana_f0">
           <Original>Hard Hat (Vrana)</Original>
           <Chinese>安全帽(沃爾納企業)</Chinese>
-          <Chinesesimp>安全帽(沃尔纳企业)</Chinesesimp>
+          <Chinesesimp>安全帽（沃尔纳企业）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_basic_red_f0">
           <Original>Hard Hat (Red)</Original>
           <Chinese>安全帽(紅色)</Chinese>
-          <Chinesesimp>安全帽(红色)</Chinesesimp>
+          <Chinesesimp>安全帽（红色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_basic_orange_f0">
           <Original>Hard Hat (Orange)</Original>
           <Chinese>安全帽(橙色)</Chinese>
-          <Chinesesimp>安全帽(橙色)</Chinesesimp>
+          <Chinesesimp>安全帽（橙色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_basic_black_f0">
           <Original>Hard Hat (Black)</Original>
           <Chinese>安全帽(黑色)</Chinese>
-          <Chinesesimp>安全帽(黑色)</Chinesesimp>
+          <Chinesesimp>安全帽（黑色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_cap_white_idap_f0">
           <Original>Cap (White) [IDAP]</Original>
           <Chinese>便帽(白色)[國發援]</Chinese>
-          <Chinesesimp>便帽(白色)[国发援]</Chinesesimp>
+          <Chinesesimp>便帽（白色）[国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_cap_orange_idap_f0">
           <Original>Cap (Orange) [IDAP]</Original>
           <Chinese>便帽(橙色)[國發援]</Chinese>
-          <Chinesesimp>便帽(橙色)[国发援]</Chinesesimp>
+          <Chinesesimp>便帽（橙色）[国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_cap_black_idap_f0">
           <Original>Cap (Black) [IDAP]</Original>
           <Chinese>便帽(黑色)[國發援]</Chinese>
-          <Chinesesimp>便帽(黑色)[国发援]</Chinesesimp>
+          <Chinesesimp>便帽（黑色）[国发援]</Chinesesimp>
         </Key>
       </Container>
       <Container name="Uniforms">
@@ -2786,104 +2786,104 @@
         <Key ID="str_a3_cfgweapons_u_c_idap_man_teeshorts_f0">
           <Original>Aid Worker Clothes (Tee, Shorts) [IDAP]</Original>
           <Chinese>援助工作者制服(T恤，短褲)[國發援]</Chinese>
-          <Chinesesimp>援助工作者制服(T恤，短裤)[国发援]</Chinesesimp>
+          <Chinesesimp>援助工作者制服（T恤，短裤）[国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_u_c_idap_man_tee_f0">
           <Original>Aid Worker Clothes (Tee) [IDAP]</Original>
           <Chinese>援助工作者制服(T恤)[國發援]</Chinese>
-          <Chinesesimp>援助工作者制服(T恤)[国发援]</Chinesesimp>
+          <Chinesesimp>援助工作者制服（T恤）[国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_u_c_idap_man_shorts_f0">
           <Original>Aid Worker Clothes (Polo, Shorts) [IDAP]</Original>
           <Chinese>援助工作者制服(Polo衫，短褲)[國發援]</Chinese>
-          <Chinesesimp>援助工作者制服(Polo衫，短裤)[国发援]</Chinesesimp>
+          <Chinesesimp>援助工作者制服（Polo 衫，短裤）[国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_u_c_idap_man_jeans_f0">
           <Original>Aid Worker Clothes (Jeans) [IDAP]</Original>
           <Chinese>援助工作者制服(牛仔褲)[國發援]</Chinese>
-          <Chinesesimp>援助工作者制服(牛仔裤)[国发援]</Chinesesimp>
+          <Chinesesimp>援助工作者制服（牛仔裤）[国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_u_c_idap_man_casual_f0">
           <Original>Aid Worker Clothes (Polo) [IDAP]</Original>
           <Chinese>援助工作者制服(Polo衫)[國發援]</Chinese>
-          <Chinesesimp>援助工作者制服(Polo衫)[国发援]</Chinesesimp>
+          <Chinesesimp>援助工作者制服（Polo 衫）[国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_u_c_idap_man_cargo_f0">
           <Original>Aid Worker Clothes (Cargo) [IDAP]</Original>
           <Chinese>援助工作者制服(貨運)[國發援]</Chinese>
-          <Chinesesimp>援助工作者制服(货运)[国发援]</Chinesesimp>
+          <Chinesesimp>援助工作者制服（货运）[国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_u_bg_guerilla1_2_f0">
           <Original>Guerilla Garment (Olive)</Original>
           <Chinese>游擊隊制服(橄欖色)</Chinese>
-          <Chinesesimp>游击队制服(橄榄色)</Chinesesimp>
+          <Chinesesimp>游击队制服（橄榄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_u_c_constructioncoverall_black_f0">
           <Original>Construction Coverall (Black)</Original>
           <Chinese>建築工工作服(黑色)</Chinese>
-          <Chinesesimp>建筑工工作服(黑色)</Chinesesimp>
+          <Chinesesimp>建筑工工作服（黑色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_u_c_constructioncoverall_blue_f0">
           <Original>Construction Coverall (Blue)</Original>
           <Chinese>建築工工作服(藍色)</Chinese>
-          <Chinesesimp>建筑工工作服(蓝色)</Chinesesimp>
+          <Chinesesimp>建筑工工作服（蓝色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_u_c_constructioncoverall_red_f0">
           <Original>Construction Coverall (Red)</Original>
           <Chinese>建築工工作服(紅色)</Chinese>
-          <Chinesesimp>建筑工工作服(红色)</Chinesesimp>
+          <Chinesesimp>建筑工工作服（红色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_u_c_constructioncoverall_vrana_f0">
           <Original>Construction Coverall (Vrana)</Original>
           <Chinese>建築工工作服(沃爾納企業)</Chinese>
-          <Chinesesimp>建筑工工作服(沃尔纳企业)</Chinesesimp>
+          <Chinesesimp>建筑工工作服（沃尔纳企业）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Vests">
         <Key ID="STR_A3_V_EOD_blue0">
           <Original>EOD Vest (Blue)</Original>
           <Chinese>排爆背心(藍色)</Chinese>
-          <Chinesesimp>排爆背心(蓝色)</Chinesesimp>
+          <Chinesesimp>排爆背心（蓝色）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_V_EOD_coyote0">
           <Original>EOD Vest (Coyote)</Original>
           <Chinese>排爆背心(狼棕色)</Chinese>
-          <Chinesesimp>排爆背心(狼棕色)</Chinesesimp>
+          <Chinesesimp>排爆背心（狼棕色）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_V_EOD_olive0">
           <Original>EOD Vest (Olive)</Original>
           <Chinese>排爆背心(橄欖色)</Chinese>
-          <Chinesesimp>排爆背心(橄榄色)</Chinesesimp>
+          <Chinesesimp>排爆背心（橄榄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_v_safety_yellow_f0">
           <Original>Safety Vest (Yellow)</Original>
           <Chinese>安全背心(黃色)</Chinese>
-          <Chinesesimp>安全背心(黄色)</Chinesesimp>
+          <Chinesesimp>安全背心（黄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_v_safety_orange_f0">
           <Original>Safety Vest (Orange)</Original>
           <Chinese>安全背心(橙色)</Chinese>
-          <Chinesesimp>安全背心(橙色)</Chinesesimp>
+          <Chinesesimp>安全背心（橙色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_v_safety_blue_f0">
           <Original>Safety Vest (Blue)</Original>
           <Chinese>安全背心(藍色)</Chinese>
-          <Chinesesimp>安全背心(蓝色)</Chinesesimp>
+          <Chinesesimp>安全背心（蓝色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_v_pocketed_olive_f0">
           <Original>Multi-Pocket Vest (Olive)</Original>
           <Chinese>多兜背心(橄欖色)</Chinese>
-          <Chinesesimp>多兜背心(橄榄色)</Chinesesimp>
+          <Chinesesimp>多兜背心（橄榄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_v_pocketed_coyote_f0">
           <Original>Multi-Pocket Vest (Coyote)</Original>
           <Chinese>多兜背心(狼棕色)</Chinese>
-          <Chinesesimp>多兜背心(狼棕色)</Chinesesimp>
+          <Chinesesimp>多兜背心（狼棕色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_v_pocketed_black_f0">
           <Original>Multi-Pocket Vest (Black)</Original>
           <Chinese>多兜背心(黑色)</Chinese>
-          <Chinesesimp>多兜背心(黑色)</Chinesesimp>
+          <Chinesesimp>多兜背心（黑色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_v_plain_medical_f0">
           <Original>Identification Vest [IDAP]</Original>
@@ -2893,27 +2893,27 @@
         <Key ID="str_a3_cfgweapons_v_legstrapbag_olive_f0">
           <Original>Leg Strap Bag (Olive)</Original>
           <Chinese>腿包(橄欖色)</Chinese>
-          <Chinesesimp>腿包(橄榄色)</Chinesesimp>
+          <Chinesesimp>腿包（橄榄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_v_legstrapbag_coyote_f0">
           <Original>Leg Strap Bag (Coyote)</Original>
           <Chinese>腿包(狼棕色)</Chinese>
-          <Chinesesimp>腿包(狼棕色)</Chinesesimp>
+          <Chinesesimp>腿包（狼棕色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_v_legstrapbag_black_f0">
           <Original>Leg Strap Bag (Black)</Original>
           <Chinese>腿包(黑色)</Chinese>
-          <Chinesesimp>腿包(黑色)</Chinesesimp>
+          <Chinesesimp>腿包（黑色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_v_eod_idap_blue_f0">
           <Original>EOD Vest (Blue) [IDAP]</Original>
           <Chinese>爆裂物處理小隊背心(藍色)(IDAP)</Chinese>
-          <Chinesesimp>爆裂物处理小组背心(蓝色)[IDAP]</Chinesesimp>
+          <Chinesesimp>爆裂物处理小组背心（蓝色）[IDAP]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_v_plain_crystal_f0">
           <Original>Identification Vest (Red Crystal)</Original>
           <Chinese>身份背心(紅水晶)</Chinese>
-          <Chinesesimp>身份背心(红水晶)</Chinesesimp>
+          <Chinesesimp>身份背心（红水晶）</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -2936,12 +2936,12 @@
         <Key ID="str_a3_tire_van_02_transport_f0">
           <Original>Van Tire (Rim, Transport)</Original>
           <Chinese>麵包車輪胎(有緣，運輸)</Chinese>
-          <Chinesesimp>面包车轮胎(有缘，运输)</Chinesesimp>
+          <Chinesesimp>面包车轮胎（有缘，运输）</Chinesesimp>
         </Key>
         <Key ID="str_a3_tire_van_02_spare_f0">
           <Original>Van Tire (Spare)</Original>
           <Chinese>麵包車輪胎(備胎)</Chinese>
-          <Chinesesimp>面包车轮胎(备胎)</Chinesesimp>
+          <Chinesesimp>面包车轮胎（备胎）</Chinesesimp>
         </Key>
         <Key ID="str_a3_tire_van_02_f0">
           <Original>Van Tire</Original>
@@ -2951,12 +2951,12 @@
         <Key ID="str_a3_tire_van_02_cargo_f0">
           <Original>Van Tire (Rim, Cargo)</Original>
           <Chinese>麵包車輪胎(有緣，運輸)</Chinese>
-          <Chinesesimp>面包车轮胎(有缘，运输)</Chinesesimp>
+          <Chinesesimp>面包车轮胎（有缘，运输）</Chinesesimp>
         </Key>
         <Key ID="str_a3_syndikat0">
           <Original>Brown (Syndikat)</Original>
           <Chinese>棕色(辛迪加)</Chinese>
-          <Chinesesimp>棕色(辛迪加)</Chinesesimp>
+          <Chinesesimp>棕色（辛迪加）</Chinesesimp>
         </Key>
         <Key ID="str_a3_masked0">
           <Original>Masked</Original>
@@ -2966,7 +2966,7 @@
         <Key ID="str_a3_fia2u0">
           <Original>Guerrilla 02 (unfinished)</Original>
           <Chinese>游擊隊02(未完成)</Chinese>
-          <Chinesesimp>游击队02(未完成)</Chinesesimp>
+          <Chinesesimp>游击队02（未完成）</Chinesesimp>
         </Key>
         <Key ID="str_a3_daltgreen1">
           <Original>Daltgreen</Original>
@@ -2986,12 +2986,12 @@
         <Key ID="str_a3_cfgvehicles_van_02_vehicle_base_f0">
           <Original>Van (Cargo)</Original>
           <Chinese>麵包車(運輸)</Chinese>
-          <Chinesesimp>面包车(运输)</Chinesesimp>
+          <Chinesesimp>面包车（运输）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_van_02_transport_viv_base_f0">
           <Original>Van Transport (ViV)</Original>
           <Chinese>運輸麵包車(車運車)</Chinese>
-          <Chinesesimp>运输面包车(车运车)</Chinesesimp>
+          <Chinesesimp>运输面包车（车运车）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_van_02_transport_base_f0">
           <Original>Van Transport</Original>
@@ -3006,7 +3006,7 @@
         <Key ID="str_a3_cfgvehicles_van_02_service_base_f0">
           <Original>Van (Services)</Original>
           <Chinese>麵包車(勤務)</Chinese>
-          <Chinesesimp>面包车(勤务)</Chinesesimp>
+          <Chinesesimp>面包车（勤务）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_van_02_medevac_base_f_texturesources_idapambulance0">
           <Original>IDAP Ambulance</Original>
@@ -3021,7 +3021,7 @@
         <Key ID="str_a3_cfgvehicles_van_02_medevac_base_f0">
           <Original>Van (Ambulance)</Original>
           <Chinese>麵包車(救護)</Chinese>
-          <Chinesesimp>面包车(救护)</Chinesesimp>
+          <Chinesesimp>面包车（救护）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_Van_02_Base_Library0">
           <Original>The standard van can be used for a huge variety of practical purposes. This particular model features a long load length and excellent roof height, allowing for the transport of passengers, cargo, or even some smaller vehicles. Several aftermarket exterior components, such as a ladder, protective guards and a roof rack, can be fitted where appropriate. Specialized variants are used for emergency healthcare, patient evacuation and various utility services.</Original>
@@ -3154,32 +3154,32 @@
       <Key ID="str_a3_cfgvehicles_o_plane_fighter_02_cluster_f0">
         <Original>To-201 Shikra (Cluster)</Original>
         <Chinese>To-201"褐耳鷹"(集束炸彈)</Chinese>
-        <Chinesesimp>To-201"褐耳鹰"(集束炸弹)</Chinesesimp>
+        <Chinesesimp>To-201"褐耳鹰"（集束炸弹）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_plane_fighter_04_cluster_f0">
         <Original>A-149 Gryphon (Cluster)</Original>
         <Chinese>A-149"獅鷲"(集束炸彈)</Chinese>
-        <Chinesesimp>A-149"狮鹫"(集束炸弹)</Chinesesimp>
+        <Chinesesimp>A-149"狮鹫"（集束炸弹）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_plane_cas_02_cluster_f0">
         <Original>To-199 Neophron (Cluster)</Original>
         <Chinese>To-199"禿鷲"(集束炸彈)</Chinese>
-        <Chinesesimp>To-199"秃鹫"(集束炸弹)</Chinesesimp>
+        <Chinesesimp>To-199"秃鹫"（集束炸弹）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_plane_fighter_03_cluster_f0">
         <Original>A-143 Buzzard (Cluster)</Original>
         <Chinese>A-143"禿鷹"(集束炸彈)</Chinese>
-        <Chinesesimp>A-143"秃鹰"(集束炸弹)</Chinesesimp>
+        <Chinesesimp>A-143"秃鹰"（集束炸弹）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_plane_fighter_01_cluster_f0">
         <Original>F/A-181 Black Wasp II (Cluster)</Original>
         <Chinese>F/A-181"黑蜂"II(集束炸彈)</Chinese>
-        <Chinesesimp>F/A-181"黑蜂"II(集束炸弹)</Chinesesimp>
+        <Chinesesimp>F/A-181"黑蜂"II（集束炸弹）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_plane_cas_01_cluster_f0">
         <Original>A-164 Wipeout (Cluster)</Original>
         <Chinese>A-164"抹殺者"(集束炸彈)</Chinese>
-        <Chinesesimp>A-164"抹杀者"(集束炸弹)</Chinesesimp>
+        <Chinesesimp>A-164"抹杀者"（集束炸弹）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_pylons_presets_cluster0">
         <Original>Cluster</Original>
@@ -3208,7 +3208,7 @@
         <Key ID="str_a3_cfgvehicles_uav_06_base_f_library0">
           <Original>This commercial off-the-shelf utility drone is flown by civilian and military (as the AL-6 line) organizations across the globe. Developed by the same manufacturer as the AR-2 series, this larger model uses 6 rotors to transport small payloads inside its external cargo case. Using this drone to deliver emergency medical supplies is rapidly gaining popularity in recent times.</Original>
           <Chinese>這種商用通用無人機有民用和軍用(代號AL-6)型號，在全球範圍都有使用。由和AR-2系列相同的生產商研製，這種更大的型號採用6軸螺旋槳以在其外掛載荷箱內運輸小型貨物。最近開始流行用這種無人機運輸緊急醫療補給。</Chinese>
-          <Chinesesimp>这种商用通用无人机有民用和军用(代号AL-6)型号，在全球范围都有使用。由和AR-2系列相同的生产商研制，这种更大的型号采用6轴螺旋桨以在其外挂载荷箱内运输小型货物。最近开始流行用这种无人机运输紧急医疗补给。</Chinesesimp>
+          <Chinesesimp>这种商用通用无人机有民用和军用（代号 AL-6）型号，在全球范围都有使用。由和 AR-2系列相同的生产商研制，这种更大的型号采用6轴螺旋桨以在其外挂载荷箱内运输小型货物。最近开始流行用这种无人机运输紧急医疗补给。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_06_base_f_animationsources_lights_em_hide0">
           <Original>Start beacon lights</Original>
@@ -3233,7 +3233,7 @@
         <Key ID="str_a3_cfgvehicles_o_uav_06_medical_f0">
           <Original>Jinaah AL-6 (Medical)</Original>
           <Chinese>"真納"AL-6(醫療)</Chinese>
-          <Chinesesimp>"真纳"AL-6(医疗)</Chinesesimp>
+          <Chinesesimp>"真纳"AL-6（医疗）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_uav_06_f0">
           <Original>Jinaah AL-6</Original>
@@ -3243,7 +3243,7 @@
         <Key ID="str_a3_cfgvehicles_i_uav_06_medical_f0">
           <Original>AL-6 Pelican (Medical)</Original>
           <Chinese>AL-6"鵜鶘"(醫療)</Chinese>
-          <Chinesesimp>AL-6"鹈鹕"(医疗)</Chinesesimp>
+          <Chinesesimp>AL-6"鹈鹕"（医疗）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_uav_06_f0">
           <Original>AL-6 Pelican</Original>
@@ -3253,7 +3253,7 @@
         <Key ID="str_a3_cfgvehicles_c_uav_06_medical_f0">
           <Original>Utility Drone (Medical)</Original>
           <Chinese>通用無人機(醫療)</Chinese>
-          <Chinesesimp>通用无人机(医疗)</Chinesesimp>
+          <Chinesesimp>通用无人机（医疗）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_uav_06_f0">
           <Original>Utility Drone</Original>
@@ -3263,7 +3263,7 @@
         <Key ID="str_a3_cfgvehicles_c_idap_uav_06_medical_f0">
           <Original>Utility Drone (Medical)</Original>
           <Chinese>通用無人機(醫療)</Chinese>
-          <Chinesesimp>通用无人机(医疗)</Chinesesimp>
+          <Chinesesimp>通用无人机（医疗）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_idap_uav_06_f0">
           <Original>Utility Drone</Original>
@@ -3283,7 +3283,7 @@
         <Key ID="str_a3_cfgvehicles_b_uav_06_medical_f0">
           <Original>AL-6 Pelican (Medical)</Original>
           <Chinese>AL-6"鵜鶘"(醫療)</Chinese>
-          <Chinesesimp>AL-6"鹈鹕"(医疗)</Chinesesimp>
+          <Chinesesimp>AL-6"鹈鹕"（医疗）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_uav_06_f0">
           <Original>AL-6 Pelican</Original>
@@ -3293,7 +3293,7 @@
         <Key ID="str_a3_box_o_uav_06_medical_f0">
           <Original>AL-6 Case (Medical) [CSAT]</Original>
           <Chinese>AL-6箱子(醫療)[廣協同盟]</Chinese>
-          <Chinesesimp>AL-6箱子(医疗)[广协]</Chinesesimp>
+          <Chinesesimp>AL-6箱子（医疗）[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_box_o_uav_06_f0">
           <Original>AL-6 Case [CSAT]</Original>
@@ -3303,7 +3303,7 @@
         <Key ID="str_a3_box_i_uav_06_medical_f0">
           <Original>AL-6 Case (Medical) [AAF]</Original>
           <Chinese>AL-6箱子(醫療)[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>AL-6箱子(医疗)[AAF]</Chinesesimp>
+          <Chinesesimp>AL-6箱子（医疗）[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_box_i_uav_06_f0">
           <Original>AL-6 Case [AAF]</Original>
@@ -3313,12 +3313,12 @@
         <Key ID="str_a3_box_c_uav_06_swifd_f0">
           <Original>Utility Drone Case (Swifd)</Original>
           <Chinese>通用無人機箱子("雨燕")</Chinese>
-          <Chinesesimp>通用无人机箱子("雨燕")</Chinesesimp>
+          <Chinesesimp>通用无人机箱子（"雨燕"）</Chinesesimp>
         </Key>
         <Key ID="str_a3_box_c_uav_06_medical_f0">
           <Original>Utility Drone Case (Medical)</Original>
           <Chinese>通用無人機箱子(醫療)</Chinese>
-          <Chinesesimp>通用无人机箱子(医疗)</Chinesesimp>
+          <Chinesesimp>通用无人机箱子（医疗）</Chinesesimp>
         </Key>
         <Key ID="str_a3_box_c_uav_06_f0">
           <Original>Utility Drone Case</Original>
@@ -3328,7 +3328,7 @@
         <Key ID="str_a3_box_c_idap_uav_06_medical_f0">
           <Original>Utility Drone Case (Medical) [IDAP]</Original>
           <Chinese>通用無人機箱子(醫療)[國發援]</Chinese>
-          <Chinesesimp>通用无人机箱子(医疗)[国发援]</Chinesesimp>
+          <Chinesesimp>通用无人机箱子（医疗）[国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_box_c_idap_uav_06_f0">
           <Original>Utility Drone Case [IDAP]</Original>
@@ -3338,7 +3338,7 @@
         <Key ID="str_a3_box_b_uav_06_medical_f0">
           <Original>AL-6 Case (Medical) [NATO]</Original>
           <Chinese>AL-6箱子(醫療)[北約]</Chinese>
-          <Chinesesimp>AL-6箱子(医疗)[北约]</Chinesesimp>
+          <Chinesesimp>AL-6箱子（医疗）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_box_b_uav_06_f0">
           <Original>AL-6 Case [NATO]</Original>
@@ -3376,7 +3376,7 @@
       <Key ID="str_a3_orange_cfghints_uxo_description">
         <Original>There are many types of unexploded ordnance (UXO), also know as explosive remnants of war, which stay behind on battlefields for indefinite periods of time. These can have devastating effects on the local population long after a conflict has ended. It is the duty of armed forces to do all they can to catalog and remove UXO, but this often fails to happen. A common source of UXO is the use of cluster bombs, which are canisters that disperse smaller bomblets over a large area. Depending on factors such as dispersal height, a significant number of these bomblets fail to detonate.</Original>
         <Chinese>未爆兵器(UXO)有很多種類，也稱戰爭殘留爆炸物，會被遺留在戰場上不定時間。在衝突結束後它們對當地平民有重大威脅。記錄並處理所有未爆兵器應當是武裝力量的職責，然而他們經常失職。常見的未爆兵器的來源是集束炸彈，它們會在廣闊的地域布撒子彈藥。根據諸如布撒高度一類的具體因素，此類子彈藥中的很大一部分未能爆炸。</Chinese>
-        <Chinesesimp>未爆兵器(UXO)有很多种类，也称战争残留爆炸物，会被遗留在战场上不定时间。在冲突结束后它们对当地平民有重大威胁。记录并处理所有未爆兵器应当是武装力量的职责，然而他们经常失职。常见的未爆兵器的来源是集束炸弹，它们会在广阔的地域布撒子弹药。根据诸如布撒高度一类的具体因素，此类子弹药中的很大一部分未能爆炸。</Chinesesimp>
+        <Chinesesimp>未爆兵器（UXO）有很多种类，也称战争残留爆炸物，会被遗留在战场上不定时间。在冲突结束后它们对当地平民有重大威胁。记录并处理所有未爆兵器应当是武装力量的职责，然而他们经常失职。常见的未爆兵器的来源是集束炸弹，它们会在广阔的地域布撒子弹药。根据诸如布撒高度一类的具体因素，此类子弹药中的很大一部分未能爆炸。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_uxo2_tip">
         <Original>The explosive behavior of UXO is hard to predict. Some of it is hyper sensitive to manipulation, and some will not detonate anymore at all.</Original>
@@ -3386,7 +3386,7 @@
       <Key ID="str_a3_orange_cfghints_uxo2_description">
         <Original>After &lt;t %5&gt;cluster munition&lt;/t&gt; deployment, it is likely not all &lt;t %5&gt;submunitions&lt;/t&gt; will have exploded. The target area may now contain hard-to-find &lt;t %5&gt;unexploded ordnance&lt;/t&gt; (&lt;t %5&gt;UXO&lt;/t&gt;). Like other &lt;t %5&gt;explosive remnants of war&lt;/t&gt; (&lt;t %5&gt;ERW&lt;/t&gt;), these explosives can cause harm to anyone in the area after deployment, including the original user and civilians.%1%1UXO can be carefully found and cleared by &lt;t %5&gt;specialists&lt;/t&gt; using &lt;t %5&gt;Mine Detectors&lt;/t&gt; and &lt;t %5&gt;Toolkits&lt;/t&gt;.</Original>
         <Chinese>在&lt;t%5&gt;集束彈藥&lt;/t&gt;使用過後，很可能不是所有&lt;t%5&gt;子彈藥&lt;/t&gt;都會爆炸。目標地域可能還存在有難以發現的&lt;t%5&gt;未爆兵器&lt;/t&gt;(&lt;t%5&gt;UXO&lt;/t&gt;)。就像其他&lt;t%5&gt;戰爭殘留爆炸物&lt;/t&gt;(&lt;t%5&gt;ERW&lt;/t&gt;)一樣，這些爆炸物可能在使用之後對地區內的任何人造成傷害，包括使用者本身和平民。%1%1未爆兵器可以由&lt;t%5&gt;專業人士&lt;/t&gt;使用&lt;t%5&gt;地雷探測器&lt;/t&gt;和&lt;t%5&gt;工具包&lt;/t&gt;進行發現和清理。</Chinese>
-        <Chinesesimp>在&lt;t%5&gt;集束弹药&lt;/t&gt;使用过后，很可能不是所有&lt;t%5&gt;子弹药&lt;/t&gt;都会爆炸。目标地域可能还存在有难以发现的&lt;t%5&gt;未爆兵器&lt;/t&gt;(&lt;t%5&gt;UXO&lt;/t&gt;)。就像其他&lt;t%5&gt;战争残留爆炸物&lt;/t&gt;(&lt;t%5&gt;ERW&lt;/t&gt;)一样，这些爆炸物可能在使用之后对地区内的任何人造成伤害，包括使用者本身和平民。%1%1未爆兵器可以由&lt;t%5&gt;专业人士&lt;/t&gt;使用&lt;t%5&gt;地雷探测器&lt;/t&gt;和&lt;t%5&gt;工具包&lt;/t&gt;进行发现和清理。</Chinesesimp>
+        <Chinesesimp>在&lt;t%5&gt;集束弹药&lt;/t&gt;使用过后，很可能不是所有&lt;t%5&gt;子弹药&lt;/t&gt;都会爆炸。目标地域可能还存在有难以发现的&lt;t%5&gt;未爆兵器&lt;/t&gt;(&lt;t%5&gt;UXO&lt;/t&gt;)。就像其他&lt;t%5&gt;战争残留爆炸物&lt;/t&gt;（&lt;t%5&gt;ERW&lt;/t&gt;）一样，这些爆炸物可能在使用之后对地区内的任何人造成伤害，包括使用者本身和平民。%1%1未爆兵器可以由&lt;t%5&gt;专业人士&lt;/t&gt;使用&lt;t%5&gt;地雷探测器&lt;/t&gt;和&lt;t%5&gt;工具包&lt;/t&gt;进行发现和清理。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_targetingcamera_tip">
         <Original>Coupled with a laser designator, these cameras can be used to 'paint' targets for your weaponry or for other friendly units.</Original>
@@ -3421,12 +3421,12 @@
       <Key ID="str_a3_orange_cfghints_premiumorange_description">
         <Original>%11%1%12%1%2"Remnants of War" - a singleplayer mini-campaign that explores the laws of armed conflict (LOAC)%1%2Showcases - a humanitarian NGO's open day, and VR LOAC instruction%1%2Time Trials - races against the clock using several types of vehicle%1%2International Development &amp;amp; Aid Project - the new civilian humanitarian Armaverse faction (IDAP)%1%2Van - a range of medium-sized wheeled transport vehicles, including ambulances%1%2Utility &amp;amp; Demining Drones - unmanned aerial vehicles for small payload delivery and remote minefield clearance%1%2APERS Mine Dispenser - an effective but controversial area denial weapon system%1%2Cluster Bombs &amp;amp; UXO - aircraft-delivered submunition containers that may leave behind unexploded ordnance after strikes%1%2Vests - safety, identification, multi-pocket and EOD vests%1%2Bags - messenger and leg strap bags%1%2Headgear - safari and hard hats, head bandages, basic and press helmets, ear protectors and a wireless earpiece%1%2Facewear - respirators and safety goggles%1%2Humanitarian Aid Objects - cardboard boxes, food sacks, water bottle packages, emergency blankets, and more%1%2Tent Objects - (medical) shelter tents, separate floor canvases, an air-conditioning unit, and plastic net fences%1%2Medical Objects - stretchers, IV bags, body bags, and more%1%2Furniture Objects - tables, a sofa, an armchair, a bed, and more%1%2Miscellaneous - a paramedic outfit, construction coveralls, and a training mine%1%2Official Soundtrack - newly composed music tracks%1%2Achievements - a set of extra &lt;a href='%13'&gt;Steam Achievements&lt;/a&gt;</Original>
         <Chinese>%11%1%12%1%2"戰爭殘留"——一個單人迷你戰役，探索武裝衝突法則(LOAC)%1%2演示任務——一個人道主義非政府組織的開放日，以及虛擬真實的武裝衝突法則指導課程%1%2計時賽——使用多種車輛進行計時競速賽%1%2國際發展&amp;amp;援助工程——新的民間人道主義武裝突襲世界派別(囯發援)%1%2麵包車——一系列中型輪式運輸車輛，包括救護車%1%2通用&amp;amp;排雷無人機——用於小型載荷投送和遙控雷場清理的無人機%1%2反人員地雷布撒器——一種有效但爭議較大的區域阻斷武器系統%1%2集束炸彈&amp;amp;未爆兵器——航空投送的子彈藥容器可能在空襲後留下未爆彈藥%1%2背心——安全，身份，多兜和排爆背心%1%2背包-郵包和腿包%1%2帽子——遊獵帽和安全帽，頭部繃帶，基本和新聞頭盔，護耳和無線耳機%1%2臉部佩戴——口罩和安全眼鏡%1%2人道主義援助物體——硬紙箱，食品包，瓶裝水包，緊急救生毯，以及其他%1%2帳篷物體——(醫療)掩體帳篷，獨立帆布地鋪，空調組建，以及塑料網牆%1%2醫療物體——擔架，血包，裝屍袋，以及其他%1%2傢俱物體——桌子，沙發，扶手椅，床，以及其他%1%2雜項——急救員服裝，建築工服裝，訓練地雷%1%2官方原聲大碟——新作的音樂%1%2成就——增加了幾個&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;</Chinese>
-        <Chinesesimp>%11%1%12%1%2"战争残留"——一个单人迷你战役，探索武装冲突法则(LOAC)%1%2演示任务——一个人道主义非政府组织的开放日，以及虚拟真实的武装冲突法则指导课程%1%2计时赛——使用多种车辆进行计时竞速赛%1%2国际发展&amp;amp;援助工程——新的民间人道主义武装突袭世界派别(国发援)%1%2面包车——一系列中型轮式运输车辆，包括救护车%1%2通用&amp;amp;排雷无人机——用于小型载荷投送和遥控雷场清理的无人机%1%2反人员地雷布撒器——一种有效但争议较大的区域阻断武器系统%1%2集束炸弹&amp;amp;未爆兵器——航空投送的子弹药容器可能在空袭后留下未爆弹药%1%2背心——安全，身份，多兜和排爆背心%1%2背包-邮包和腿包%1%2帽子——游猎帽和安全帽，头部绷带，基本和新闻头盔，护耳和无线耳机%1%2脸部佩戴——口罩和安全眼镜%1%2人道主义援助物体——硬纸箱，食品包，瓶装水包，紧急救生毯，以及其他%1%2帐篷物体——(医疗)掩体帐篷，独立帆布地铺，空调组建，以及塑料网墙%1%2医疗物体——担架，血包，装尸袋，以及其他%1%2家具物体——桌子，沙发，扶手椅，床，以及其他%1%2杂项——急救员服装，建筑工服装，训练地雷%1%2官方原声大碟——新作的音乐%1%2成就——增加了几个&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;</Chinesesimp>
+        <Chinesesimp>%11%1%12%1%2"战争残留"——一个单人迷你战役，探索武装冲突法则(LOAC)%1%2演示任务——一个人道主义非政府组织的开放日，以及虚拟真实的武装冲突法则指导课程%1%2计时赛——使用多种车辆进行计时竞速赛%1%2国际发展&amp;amp;援助工程——新的民间人道主义武装突袭世界派别(国发援)%1%2面包车——一系列中型轮式运输车辆，包括救护车%1%2通用&amp;amp;排雷无人机——用于小型载荷投送和遥控雷场清理的无人机%1%2反人员地雷布撒器——一种有效但争议较大的区域阻断武器系统%1%2集束炸弹&amp;amp;未爆兵器——航空投送的子弹药容器可能在空袭后留下未爆弹药%1%2背心——安全，身份，多兜和排爆背心%1%2背包-邮包和腿包%1%2帽子——游猎帽和安全帽，头部绷带，基本和新闻头盔，护耳和无线耳机%1%2脸部佩戴——口罩和安全眼镜%1%2人道主义援助物体——硬纸箱，食品包，瓶装水包，紧急救生毯，以及其他%1%2帐篷物体——（医疗）掩体帐篷，独立帆布地铺，空调组建，以及塑料网墙%1%2医疗物体——担架，血包，装尸袋，以及其他%1%2家具物体——桌子，沙发，扶手椅，床，以及其他%1%2杂项——急救员服装，建筑工服装，训练地雷%1%2官方原声大碟——新作的音乐%1%2成就——增加了几个&lt;ahref='%13'&gt;Steam 成就&lt;/a&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_premiumbundle2_overview">
         <Original>Save more than 25&amp;#37; by purchasing the Arma 3 DLC Bundle 2, which includes the upcoming Arma 3 Jets, Arma 3 Laws of War, Arma 3 Tac-Ops, and Arma 3 Tanks DLC!%1%2Press %11 to open the store page.</Original>
         <Chinese>通過購買武裝突襲3資料片大包2節約超過25&amp;#37;，其包含武裝突襲3噴氣機，武裝突襲3戰爭法，武裝突襲3戰術行動和武裝突襲3坦克資料片!%1%2按%11打開商店頁面。</Chinese>
-        <Chinesesimp>通过购买武装突袭3DLC合集2节约超过25&amp;#37;，其包含武装突袭3喷气机，武装突袭3战争法，武装突袭3战术行动和武装突袭3坦克DLC!%1%2按%11打开商店页面。</Chinesesimp>
+        <Chinesesimp>通过购买武装突袭3DLC 合集2节约超过25&amp;#37;，其包含武装突袭3喷气机，武装突袭3战争法，武装突袭3战术行动和武装突袭3坦克 DLC!%1%2按%11打开商店页面。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_minesweep_description">
         <Original>Nearby &lt;t %5&gt;mines&lt;/5&gt; can be &lt;t %5&gt;detected&lt;/t&gt; by &lt;t %5&gt;moving slowly&lt;/t&gt; and carefully &lt;t %5&gt;looking around&lt;/t&gt; you. %14 Having a &lt;t %5&gt;Mine Detector&lt;/t&gt; in your inventory will locate even well-hidden mines in your vicinity. Audio cues may alert you to such threats.%1%2Use %11 or %12 to bring up the Mines info panel to see approximate mine locations and identified mines.%1%2Carefully approach, look at, and identify unknown mines using %13.%1Depending on difficulty options, known mines are marked &lt;img size='1' %15 image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca.paa' /&gt;.</Original>
@@ -3481,7 +3481,7 @@
       <Key ID="str_a3_orange_cfghints_leaflets_hintdrop_description">
         <Original>%12%1%1%2Specially equipped vehicles, such as Utility Drones, can release a stack of leaflets over an area.%1%2Fly to a reasonable altitude (around 30 meters), and release the leaflets by pressing %11.</Original>
         <Chinese>%12%1%1%2特別設置的載具，諸如通用無人機，可以在區域上空釋放成捆的傳單。%1%2飛到合理的高度(如30公尺)，然後按%11釋放傳單。</Chinese>
-        <Chinesesimp>%12%1%1%2特别设置的载具，诸如通用无人机，可以在区域上空释放成捆的传单。%1%2飞到合理的高度(如30米)，然后按%11释放传单。</Chinesesimp>
+        <Chinesesimp>%12%1%1%2特别设置的载具，诸如通用无人机，可以在区域上空释放成捆的传单。%1%2飞到合理的高度（如30米），然后按%11释放传单。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_leaflets_displayname">
         <Original>Leaflets</Original>
@@ -3491,12 +3491,12 @@
       <Key ID="str_a3_orange_cfghints_leaflets_description">
         <Original>%13%1%1%2Specially equipped vehicles, such as Utility Drones, can release a stack of leaflets over an area.%1%2Fly to a reasonable altitude (around 30 meters), and release the leaflets by pressing %11.%1%1Leaflets found on the ground can be inspected by holding %12.</Original>
         <Chinese>%13%1%1%2特別設置的載具，諸如通用無人機，可以在區域上空釋放成捆的傳單。%1%2飛到合理的高度(如30公尺)，然後按%11釋放傳單。%1%1在地上找到的傳單可以通過按%12查看。</Chinese>
-        <Chinesesimp>%13%1%1%2特别设置的载具，诸如通用无人机，可以在区域上空释放成捆的传单。%1%2飞到合理的高度(如30米)，然后按%11释放传单。%1%1在地上找到的传单可以通过按%12查看。</Chinesesimp>
+        <Chinesesimp>%13%1%1%2特别设置的载具，诸如通用无人机，可以在区域上空释放成捆的传单。%1%2飞到合理的高度（如30米），然后按%11释放传单。%1%1在地上找到的传单可以通过按%12查看。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_leaflets_arg13">
         <Original>Simple paper leaflets can be distributed to &lt;t %5&gt;provide (mis)information&lt;/t&gt; to anyone reading them.</Original>
         <Chinese>簡單的紙質傳單可為任何閱讀他們的人&lt;t%5&gt;提供信息(或干擾信息)&lt;/t&gt;。</Chinese>
-        <Chinesesimp>简单的纸质传单可为任何阅读他们的人&lt;t%5&gt;提供信息(或干扰信息)&lt;/t&gt;。</Chinesesimp>
+        <Chinesesimp>简单的纸质传单可为任何阅读他们的人&lt;t%5&gt;提供信息（或干扰信息）&lt;/t&gt;。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_internationalhumanitarianlaw_displayname">
         <Original>International Humanitarian Law</Original>
@@ -3506,7 +3506,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_treatiesprotocols_tip">
         <Original>IHL can also be referred to as jus in bello - the law which regulates the conduct of war. Serious violations are called war crimes. States must establish laws to try and punish those who commit grave breaches of IHL. Military commanders should instruct IHL and report violations. The rules seem straightforward, but the application of IHL to real-life situations of conflict often creates dilemmas.</Original>
         <Chinese>《國際人道主義法》(IHL)也稱戰時法(Jus in bello)——規範戰爭執行程序的法律。嚴重違法被稱為戰爭犯罪。各國必須制定法律懲罰凡有嚴重違反《國際人道主義法》的罪犯。軍事指揮官必須遵照《國際人道主義法》並報告違法狀況。規則看起來簡明易懂，但國際人道主義法在實際情況中的執行往往會帶來一系列困境。</Chinese>
-        <Chinesesimp>《国际人道主义法》(IHL)也称战时法(Jus in bello)——规范战争执行程序的法律。严重违法被称为戰争犯罪。各国必须制定法律惩罚凡有严重违反《国际人道主义法》的罪犯。军事指挥官必须遵照《国际人道主义法》并报告违法状况。规则看起来简明易懂，但国际人道主义法在实际情况中的执行往往会带来一系列困境。</Chinesesimp>
+        <Chinesesimp>《国际人道主义法》(IHL)也称战时法（Jus in bello）——规范战争执行程序的法律。严重违法被称为戰争犯罪。各国必须制定法律惩罚凡有严重违反《国际人道主义法》的罪犯。军事指挥官必须遵照《国际人道主义法》并报告违法状况。规则看起来简明易懂，但国际人道主义法在实际情况中的执行往往会带来一系列困境。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_treatiesprotocols_displayname">
         <Original>Treaties and Protocols</Original>
@@ -3521,7 +3521,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_protectionprohibitions_tip">
         <Original>When civilians take a direct part in fighting, they lose their protection from attack (when in doubt, they should be considered civilian). When a civilian object is used in support of military action, it becomes a legitimate military target and loses its protection (when in doubt, it should be considered civilian). Protect the most vulnerable: civilians, wounded and sick, detainees, and health-care workers (such as IDAP)!</Original>
         <Chinese>當平民直接參與到戰鬥中後，他們就失去了在攻擊中被保護的權力(在有懷疑時應被視為平民)。在平民目標被用於軍事行動時，它便成為了合法的軍事目標，失去被保護權(在有懷疑時應被視為平民目標)。保護最脆弱的目標:平民、傷患、囚犯和健康護理工作者(比如國發援)!</Chinese>
-        <Chinesesimp>当平民直接参与到战斗中后，他们就失去了在攻击中被保护的权力(在有怀疑时应被视为平民)。在平民目标被用于军事行动时，它便成为了合法的军事目标，失去被保护权(在有怀疑时应被视为平民目标)。保护最脆弱的目标:平民、伤患、囚犯和健康护理工作者(比如国发援)!</Chinesesimp>
+        <Chinesesimp>当平民直接参与到战斗中后，他们就失去了在攻击中被保护的权力(在有怀疑时应被视为平民)。在平民目标被用于军事行动时，它便成为了合法的军事目标，失去被保护权(在有怀疑时应被视为平民目标)。保护最脆弱的目标:平民、伤患、囚犯和健康护理工作者（比如国发援）!</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_protectionprohibitions_displayname">
         <Original>Protection - Prohibitions</Original>
@@ -3531,7 +3531,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_protectionprohibitions_description">
         <Original>It is &lt;t %5&gt;forbidden&lt;/t&gt; to:%1%2 attack civilians and civilian objects (houses, schools, places of worship, cultural or historic monuments, etc.)%1%2 commit murder or torture%1%2 commit acts of sexual violence%1%2 forcibly displace and starve civilians%1%2 attack hospitals, ambulances and health-care workers%1%2 use human shields%1%2 destroy stocks of food, farming areas, and the water supply%1%2 recruit or use children under the age of 15 in armed conflict%1%2 misuse the Red Crystal, Red Cross and Red Crescent%1%2 interfere with the delivery of humanitarian aid%1%2 damage the environment</Original>
         <Chinese>&lt;t%5&gt;禁止&lt;/t&gt;:%1%2攻擊平民和平民目標(房屋、學校、宗教場所、文化或歷史紀念物、等等)%1%2實施謀殺或酷刑%1%2實施性犯罪%1%2強迫平民遷居或使其陷入饑饉%1%2攻擊醫院、救護車和健康護理工作者%1%2使用人盾%1%2摧毀糧食儲備、農牧場和水源%1%2徵募或使用15歲以下兒童參與武裝衝突%1%2錯誤使用紅水晶、紅十字或紅新月標誌%1%2干擾人道主義援助的送達%1%2破壞環境</Chinese>
-        <Chinesesimp>&lt;t%5&gt;禁止&lt;/t&gt;:%1%2攻击平民和平民目标(房屋、学校、宗教场所、文化或历史纪念物、等等)%1%2实施谋杀或酷刑%1%2实施性犯罪%1%2强迫平民迁居或使其陷入饥馑%1%2攻击医院、救护车和健康护理工作者%1%2使用人盾%1%2摧毁粮食储备、农牧场和水源%1%2征募或使用15岁以下儿童参与武装冲突%1%2错误使用红水晶、红十字或红新月标志%1%2干扰人道主义援助的送达%1%2破坏环境</Chinesesimp>
+        <Chinesesimp>&lt;t%5&gt;禁止&lt;/t&gt;:%1%2攻击平民和平民目标（房屋、学校、宗教场所、文化或历史纪念物、等等）%1%2实施谋杀或酷刑%1%2实施性犯罪%1%2强迫平民迁居或使其陷入饥馑%1%2攻击医院、救护车和健康护理工作者%1%2使用人盾%1%2摧毁粮食储备、农牧场和水源%1%2征募或使用15岁以下儿童参与武装冲突%1%2错误使用红水晶、红十字或红新月标志%1%2干扰人道主义援助的送达%1%2破坏环境</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_protectionobligations_tip">
         <Original>Respect human dignity!</Original>
@@ -3551,7 +3551,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_proportionality_tip">
         <Original>A target must still be military (legitimate)!</Original>
         <Chinese>一個目標肯定還是軍用(合法)的!</Chinese>
-        <Chinesesimp>一个目标肯定还是军用(合法)的!</Chinesesimp>
+        <Chinesesimp>一个目标肯定还是军用（合法）的!</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_proportionality_displayname">
         <Original>Proportionality</Original>
@@ -3581,7 +3581,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_overview_tip">
         <Original>IHL is often also referred to as rules of war, laws of war, or laws of armed conflict (LOAC).</Original>
         <Chinese>《國際人道主義法》通常被稱為戰爭法，戰爭規則和武裝衝突法則(LOAC)</Chinese>
-        <Chinesesimp>《国际人道主义法》通常被称为战争法，战争规则和武装冲突法则(LOAC)</Chinesesimp>
+        <Chinesesimp>《国际人道主义法》通常被称为战争法，战争规则和武装冲突法则（LOAC）</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_overview_displayname">
         <Original>Overview</Original>
@@ -3596,7 +3596,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_overview_arg11">
         <Original>&lt;t %5&gt;International Humanitarian Law (IHL)&lt;/t&gt; is a set of rules that aim to preserve &lt;t %5&gt;human dignity&lt;/t&gt; in &lt;t %5&gt;armed conflict&lt;/t&gt; by &lt;t %5&gt;protecting&lt;/t&gt; the most vulnerable persons and by &lt;t %5&gt;limiting&lt;/t&gt; the way in which war is conducted.</Original>
         <Chinese>&lt;t%5&gt;《國際人道主義法》(IHL)&lt;/t&gt;是一系列借由&lt;t%5&gt;保護&lt;/t&gt;最易受傷害的人群和&lt;t%5&gt;限制&lt;/t&gt;戰爭實施的具體方式，以在&lt;t%5&gt;武裝衝突&lt;/t&gt;中保衛&lt;t%5&gt;人類尊嚴&lt;/t&gt;的法規。</Chinese>
-        <Chinesesimp>&lt;t%5&gt;《国际人道主义法》(IHL)&lt;/t&gt;是一系列借由&lt;t%5&gt;保护&lt;/t&gt;最易受伤害的人群和&lt;t%5&gt;限制&lt;/t&gt;战争实施的具体方式，以在&lt;t%5&gt;武装冲突&lt;/t&gt;中保卫&lt;t%5&gt;人类尊严&lt;/t&gt;的法规。</Chinesesimp>
+        <Chinesesimp>&lt;t%5&gt;《国际人道主义法》（IHL）&lt;/t&gt;是一系列借由&lt;t%5&gt;保护&lt;/t&gt;最易受伤害的人群和&lt;t%5&gt;限制&lt;/t&gt;战争实施的具体方式，以在&lt;t%5&gt;武装冲突&lt;/t&gt;中保卫&lt;t%5&gt;人类尊严&lt;/t&gt;的法规。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_moreinfo_tip">
         <Original>The in-game descriptions of IHL do not cover all details and complexities of the topic; they are merely an introduction. Please refer to other sources for a more comprehensive overview.</Original>
@@ -3626,7 +3626,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_limitsprohibitions_description">
         <Original>It is &lt;t %5&gt;forbidden&lt;/t&gt; to:%1%2 use weapons that cause unnecessary suffering (such as poison, blinding laser weapons or nuclear weapons)%1%2 use weapons that cannot distinguish between civilians and military targets (such as landmines)%1%2 take hostages%1%2 pretend to be a civilian while attempting to kill, injure or capture an adversary%1%2 order or threaten that there shall be no survivors</Original>
         <Chinese>&lt;t%5&gt;禁止&lt;/t&gt;:%1%2使用造成不必要痛苦的武器(諸如毒氣、激光致盲武器或核武器)%1%2使用無法區分平民和軍事目標的武器(如地雷)%1%2使用人質%1%2在試圖殺害、殺傷或捕獲敵人時偽裝成平民%1%2命令或威脅不留活口</Chinese>
-        <Chinesesimp>&lt;t%5&gt;禁止&lt;/t&gt;:%1%2使用造成不必要痛苦的武器(诸如毒气、激光致盲武器或核武器)%1%2使用无法区分平民和军事目标的武器(如地雷)%1%2使用人质%1%2在试图杀害、杀伤或捕获敌人时伪装成平民%1%2命令或威胁不留活口</Chinesesimp>
+        <Chinesesimp>&lt;t%5&gt;禁止&lt;/t&gt;:%1%2使用造成不必要痛苦的武器(诸如毒气、激光致盲武器或核武器)%1%2使用无法区分平民和军事目标的武器（如地雷）%1%2使用人质%1%2在试图杀害、杀伤或捕获敌人时伪装成平民%1%2命令或威胁不留活口</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_limitsobligations_tip">
         <Original>Minimize collateral damage!</Original>
@@ -3676,7 +3676,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_definitions_tip">
         <Original>When civilians take a direct part in fighting, they lose their protection from attack (when in doubt, they should be considered civilian). When a civilian object is used in support of military action, it becomes a legitimate military target and loses its protection (when in doubt, it should be considered civilian).</Original>
         <Chinese>當平民直接參與到戰鬥中後，他們就失去了在攻擊中的被保護權(當有懷疑時，視為平民處理)。當平民目標用於支援軍事行動時，它就成為合法軍事目標，失去被保護權(當有懷疑時，視為平民目標處理)。</Chinese>
-        <Chinesesimp>当平民直接参与到战斗中后，他们就失去了在攻击中的被保护权(当有怀疑时，视为平民处理)。当平民目标用于支援军事行动时，它就成为合法军事目标，失去被保护权(当有怀疑时，视为平民目标处理)。</Chinesesimp>
+        <Chinesesimp>当平民直接参与到战斗中后，他们就失去了在攻击中的被保护权(当有怀疑时，视为平民处理)。当平民目标用于支援军事行动时，它就成为合法军事目标，失去被保护权（当有怀疑时，视为平民目标处理）。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_definitions_displayname">
         <Original>Definitions</Original>
@@ -3686,7 +3686,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_definitions_description">
         <Original>%2 &lt;t %5&gt;Combatant&lt;/t&gt;: members of armed forces, members of any armed group under the orders of a party to a conflict%1%2 &lt;t %5&gt;Hors de combat&lt;/t&gt;: "out of fight" - combatants who have been captured or wounded or who are sick or shipwrecked and thus no longer in a position to fight%1%2 &lt;t %5&gt;Civilian&lt;/t&gt;: any person who is not a combatant%1%2 &lt;t %5&gt;Armed conflict&lt;/t&gt;: fighting between countries (international) or between a country's armed forces and armed groups (non-international) or between such groups%1%2 &lt;t %5&gt;Military objective&lt;/t&gt;: an object that by its nature, location, purpose or use makes an effective contribution to military action and whose destruction offers a definite military advantage%1%2 &lt;t %5&gt;Non-reciprocity&lt;/t&gt;: breaches of IHL by one party to a conflict do not justify breaches by other parties%1%2 &lt;t %5&gt;Equality&lt;/t&gt;: IHL applies to all parties of an armed conflict equally</Original>
         <Chinese>武裝力量的%2&lt;t%5&gt;戰鬥人員&lt;/t&gt;:成員，任何在任意一方控制下的武裝組織的成員%1%2&lt;t%5&gt;Horsdecombat&lt;/t&gt;:"失去戰鬥力"——戰鬥人員被俘、受傷或因患病或船隻遇難而無法繼續戰鬥%1%2&lt;t%5&gt;平民&lt;/t&gt;:任何不是戰鬥人員的人%1%2&lt;t%5&gt;武裝衝突&lt;/t&gt;:在國家間(國際性)或一國內的武裝力量和武裝組織(國內性)或此類組織之間爆發的戰鬥%1%2&lt;t%5&gt;軍事目標&lt;/t&gt;:根據其性質、地點、意圖或用途能為軍事行動作出顯著貢獻以及其損毀會達成特定軍事目的的目標%1%2&lt;t%5&gt;非對等性&lt;/t&gt;:衝突中的一方違反《國際人道主義法》不構成另一方違反該法的正當理由%1%2&lt;t%5&gt;平等性&lt;/t&gt;:《國際人道主義法》對武裝衝突中的所有派別一視同仁</Chinese>
-        <Chinesesimp>武装力量的%2&lt;t%5&gt;战斗人员&lt;/t&gt;:成员，任何在任意一方控制下的武装组织的成员%1%2&lt;t%5&gt;Horsdecombat&lt;/t&gt;:"失去战斗力"——战斗人员被俘、受伤或因患病或船只遇难而无法继续战斗%1%2&lt;t%5&gt;平民&lt;/t&gt;:任何不是战斗人员的人%1%2&lt;t%5&gt;武装冲突&lt;/t&gt;:在国家间(国际性)或一国内的武装力量和武装组织(国内性)或此类组织之间爆发的战斗%1%2&lt;t%5&gt;军事目标&lt;/t&gt;:根据其性质、地点、意图或用途能为军事行动作出显着贡献以及其损毁会达成特定军事目的的目标%1%2&lt;t%5&gt;非对等性&lt;/t&gt;:冲突中的一方违反《国际人道主义法》不构成另一方违反该法的正当理由%1%2&lt;t%5&gt;平等性&lt;/t&gt;:《国际人道主义法》对武装冲突中的所有派别一视同仁</Chinesesimp>
+        <Chinesesimp>武装力量的%2&lt;t%5&gt;战斗人员&lt;/t&gt;:成员，任何在任意一方控制下的武装组织的成员%1%2&lt;t%5&gt;Horsdecombat&lt;/t&gt;:"失去战斗力"——战斗人员被俘、受伤或因患病或船只遇难而无法继续战斗%1%2&lt;t%5&gt;平民&lt;/t&gt;:任何不是战斗人员的人%1%2&lt;t%5&gt;武装冲突&lt;/t&gt;:在国家间(国际性)或一国内的武装力量和武装组织（国内性）或此类组织之间爆发的战斗%1%2&lt;t%5&gt;军事目标&lt;/t&gt;:根据其性质、地点、意图或用途能为军事行动作出显着贡献以及其损毁会达成特定军事目的的目标%1%2&lt;t%5&gt;非对等性&lt;/t&gt;:冲突中的一方违反《国际人道主义法》不构成另一方违反该法的正当理由%1%2&lt;t%5&gt;平等性&lt;/t&gt;:《国际人道主义法》对武装冲突中的所有派别一视同仁</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_dlcstrategy_tip">
         <Original>You can try premium assets in the Virtual Arsenal mode without restriction!</Original>
@@ -3696,12 +3696,12 @@
       <Key ID="str_a3_orange_cfghints_dlcstrategy_displayname">
         <Original>DLC Strategy</Original>
         <Chinese>資料片策略</Chinese>
-        <Chinesesimp>DLC策略</Chinesesimp>
+        <Chinesesimp>DLC 策略</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_dlcstrategy_description">
         <Original>Arma 3's &lt;a href='%11'&gt;DLC strategy&lt;/a&gt;﻿ is based on 3 main pillars:%1%2 Providing free platform updates%1%2 Offering new premium content%1%2 Preventing multiplayer fragmentation%1%1With this approach, &lt;t %5&gt;every Arma 3 player gets all the DLC data&lt;/t&gt; and is &lt;t %5&gt;able to see everything in-game&lt;/t&gt;. Generally speaking, &lt;t %5&gt;features&lt;/t&gt; continue expanding the platform and are &lt;t %5&gt;free&lt;/t&gt; for all to enjoy, while the &lt;t %5&gt;premium content&lt;/t&gt; may be &lt;t %5&gt;limited&lt;/t&gt; for non-owners. By purchasing DLC you are &lt;t %5&gt;contributing&lt;/t&gt; to further development of a consistent Arma 3 platform for everyone and the Arma series in general. Thank you!</Original>
         <Chinese>武裝突襲3的&lt;ahref='%11'&gt;資料片策略&lt;/a&gt;?基於三個基本點:%1%2提供免費平臺升級%1%2提供新的附加內容%1%2避免多人遊戲衝突%1%1基於以上三點，&lt;t%5&gt;所有武裝突襲3萬家都會得到全部資料片數據&lt;/t&gt;並可&lt;t%5&gt;在遊戲內部看到全部內容&lt;/t&gt;。一言以蔽之，用於擴展平臺的&lt;t%5&gt;特性&lt;/t&gt;會被&lt;t%5&gt;免費&lt;/t&gt;提供給所有人，而&lt;t%5&gt;附加內容&lt;/t&gt;可能在未購買玩家身上被&lt;t%5&gt;限制&lt;/t&gt;。通過購買資料片你可以為武裝突襲3系列的未來發展，換言之是武裝突襲3平臺的全部玩家和整個Arma系列作出&lt;t%5&gt;貢獻&lt;/t&gt;。謝謝你!</Chinese>
-        <Chinesesimp>武装突袭3的&lt;ahref='%11'&gt;DLC策略&lt;/a&gt;?基于三个基本点:%1%2提供免费平台升级%1%2提供新的附加内容%1%2避免多人游戏冲突%1%1基于以上三点，&lt;t%5&gt;所有武装突袭3玩家都会得到全部DLC数据&lt;/t&gt;并可&lt;t%5&gt;在游戏内部看到全部内容&lt;/t&gt;。一言以蔽之，用于扩展平台的&lt;t%5&gt;特性&lt;/t&gt;会被&lt;t%5&gt;免费&lt;/t&gt;提供给所有人，而&lt;t%5&gt;附加内容&lt;/t&gt;可能在未购买玩家身上被&lt;t%5&gt;限制&lt;/t&gt;。通过购买DLC你可以为武装突袭3系列的未来发展，换言之是武装突袭3平台的全部玩家和整个武装突袭系列作出&lt;t%5&gt;贡献&lt;/t&gt;。谢谢你!</Chinesesimp>
+        <Chinesesimp>武装突袭3的&lt;ahref='%11'&gt;DLC 策略&lt;/a&gt;?基于三个基本点:%1%2提供免费平台升级%1%2提供新的附加内容%1%2避免多人游戏冲突%1%1基于以上三点，&lt;t%5&gt;所有武装突袭3玩家都会得到全部 DLC 数据&lt;/t&gt;并可&lt;t%5&gt;在游戏内部看到全部内容&lt;/t&gt;。一言以蔽之，用于扩展平台的&lt;t%5&gt;特性&lt;/t&gt;会被&lt;t%5&gt;免费&lt;/t&gt;提供给所有人，而&lt;t%5&gt;附加内容&lt;/t&gt;可能在未购买玩家身上被&lt;t%5&gt;限制&lt;/t&gt;。通过购买 DLC 你可以为武装突袭3系列的未来发展，换言之是武装突袭3平台的全部玩家和整个武装突袭系列作出&lt;t%5&gt;贡献&lt;/t&gt;。谢谢你!</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_combatmodes_tip">
         <Original>Controlling RoE will let you set ambushes and avoid undesired escalations.</Original>
@@ -3736,7 +3736,7 @@
       <Key ID="str_a3_orange_cfghints_combatmodes_arg12">
         <Original>As commander you have control over the &lt;t %5&gt;combat mode&lt;/t&gt; (&lt;t %5&gt;Rules of Engagement&lt;/t&gt;) of your subordinate units:</Original>
         <Chinese>作為指揮員你控制著你下屬單位的&lt;t%5&gt;戰鬥模式&lt;/t&gt;(&lt;t%5&gt;交戰規則&lt;/t&gt;):</Chinese>
-        <Chinesesimp>作为指挥员你控制着你下属单位的&lt;t%5&gt;战斗模式&lt;/t&gt;(&lt;t%5&gt;交战规则&lt;/t&gt;):</Chinesesimp>
+        <Chinesesimp>作为指挥员你控制着你下属单位的&lt;t%5&gt;战斗模式&lt;/t&gt;（&lt;t%5&gt;交战规则&lt;/t&gt;）:</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_clustermunitions_tip">
         <Original>Depending on the munition, dispersal altitude and other factors, many submunitions do not initially explode. They stay behind on the battlefield and cause harm for long periods of time.</Original>
@@ -3751,7 +3751,7 @@
       <Key ID="str_a3_orange_cfghints_clustermunitions_description">
         <Original>Cluster munitions are &lt;t %5&gt;containers&lt;/t&gt; which are launched over a target area, and then opened to disperse a large number of smaller &lt;t %5&gt;bomblets&lt;/t&gt; (&lt;t %5&gt;submunitions&lt;/t&gt;). Methods of container delivery include dropping as &lt;t %5&gt;aircraft cluster bomb&lt;/t&gt; or firing as &lt;t %5&gt;artillery shell&lt;/t&gt;. These munitions have a large area of effect and cause &lt;t %5&gt;indiscriminate destruction&lt;/t&gt;.</Original>
         <Chinese>集束彈藥是&lt;t%5&gt;一種容器&lt;/t&gt;，在目標地域上空啟動，繼而打開撒布大量的小型&lt;t%5&gt;子炸彈&lt;/t&gt;(&lt;t%5&gt;子彈藥&lt;/t&gt;)。投送此類容器的方法包括&lt;t%5&gt;航空集束炸彈&lt;/t&gt;或作為&lt;t%5&gt;炮彈&lt;/t&gt;發射。此類目標有很大的殺傷範圍，也會造成&lt;t%5&gt;不加區分的損害&lt;/t&gt;。</Chinese>
-        <Chinesesimp>集束弹药是&lt;t%5&gt;一种容器&lt;/t&gt;，在目标地域上空启动，继而打开撒布大量的小型&lt;t%5&gt;子炸弹&lt;/t&gt;(&lt;t%5&gt;子弹药&lt;/t&gt;)。投送此类容器的方法包括&lt;t%5&gt;航空集束炸弹&lt;/t&gt;或作为&lt;t%5&gt;炮弹&lt;/t&gt;发射。此类目标有很大的杀伤范围，也会造成&lt;t%5&gt;不加区分的损害&lt;/t&gt;。</Chinesesimp>
+        <Chinesesimp>集束弹药是&lt;t%5&gt;一种容器&lt;/t&gt;，在目标地域上空启动，继而打开撒布大量的小型&lt;t%5&gt;子炸弹&lt;/t&gt;（&lt;t%5&gt;子弹药&lt;/t&gt;）。投送此类容器的方法包括&lt;t%5&gt;航空集束炸弹&lt;/t&gt;或作为&lt;t%5&gt;炮弹&lt;/t&gt;发射。此类目标有很大的杀伤范围，也会造成&lt;t%5&gt;不加区分的损害&lt;/t&gt;。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ccoc_protectivesymbols_tip">
         <Original>Respect the protective signs!</Original>
@@ -3796,7 +3796,7 @@
       <Key ID="str_a3_orange_cfghints_ccoc_horsdecombat_description">
         <Original>When combatants are &lt;t %5&gt;hors de combat&lt;/t&gt; ("out of fight": e.g. wounded, captured, sick or shipwrecked), they should &lt;t %5&gt;not be targeted&lt;/t&gt;.%1%1%2 Collect them.%1%2 Care for them.%1%2 Hand them over to a superior or nearest medical personnel.%1%2 Respect medical personnel, facilities and any civilians helping.</Original>
         <Chinese>當戰鬥人員&lt;t%5&gt;失去戰鬥力&lt;/t&gt;("horsdecombat":如受傷、被俘、患病或遭遇海難)時，他們應當&lt;t%5&gt;不被作為目標對待&lt;/t&gt;。%1%1%2收容他們。%1%2照顧他們。%1%2把他們交給上級機關或最近的醫務工作人員。%1%2尊重提供幫助的醫療人員、設施和任何平民。</Chinese>
-        <Chinesesimp>当战斗人员&lt;t%5&gt;失去战斗力&lt;/t&gt;("horsdecombat":如受伤、被俘、患病或遭遇海难)时，他们应当&lt;t%5&gt;不被作为目标对待&lt;/t&gt;。%1%1%2收容他们。%1%2照顾他们。%1%2把他们交给上级机关或最近的医务工作人员。%1%2尊重提供帮助的医疗人员、设施和任何平民。</Chinesesimp>
+        <Chinesesimp>当战斗人员&lt;t%5&gt;失去战斗力&lt;/t&gt;（"horsdecombat":如受伤、被俘、患病或遭遇海难）时，他们应当&lt;t%5&gt;不被作为目标对待&lt;/t&gt;。%1%1%2收容他们。%1%2照顾他们。%1%2把他们交给上级机关或最近的医务工作人员。%1%2尊重提供帮助的医疗人员、设施和任何平民。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ccoc_displayname">
         <Original>Code of Conduct for Combatants</Original>
@@ -3856,7 +3856,7 @@
       <Key ID="str_a3_orange_cfghints_premiumbundle2_overview_expansion">
         <Original>Save more than 25&amp;#37; by purchasing the Arma 3 DLC Bundle 2, which includes Arma 3 Jets, Arma 3 Laws of War, Arma 3 Tac-Ops, and Arma 3 Tanks DLC!</Original>
         <Chinese>透過購買武裝突襲3資料片資料片2(包括武裝突襲3戰機、武裝突襲3戰爭法、武裝突襲3戰術行動和武裝突襲3坦克資料片)，省25&amp;#37;以上的費用!</Chinese>
-        <Chinesesimp>通过购买武装突袭3DLC合集2(包括武装突袭3战机、武装突袭3战争法、武装突袭3战术行动和武装突袭3坦克DLC)，节省25&amp;#37;以上的费用!</Chinesesimp>
+        <Chinesesimp>通过购买武装突袭3DLC 合集2（包括武装突袭3战机、武装突袭3战争法、武装突袭3战术行动和武装突袭3坦克 DLC），节省25&amp;#37;以上的费用!</Chinesesimp>
       </Key>
     </Container>
     <Container name="Welcome">
@@ -3928,12 +3928,12 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_pare_list20">
         <Original>unlock a set of extra &lt;a href='%2' color='%1'&gt;Steam Achievements&lt;/a&gt;.</Original>
         <Chinese>解鎖一些新的&lt;ahref='%2'color='%1'&gt;Steam成就&lt;/a&gt;。</Chinese>
-        <Chinesesimp>解锁一些新的&lt;ahref='%2'color='%1'&gt;Steam成就&lt;/a&gt;。</Chinesesimp>
+        <Chinesesimp>解锁一些新的&lt;ahref='%2'color='%1'&gt;Steam 成就&lt;/a&gt;。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_pare_list2">
         <Original>IDAP is hosting several timed vehicle races for their best drivers (some are a bonus for &lt;a href='%2' color='%1'&gt;Apex&lt;/a&gt; owners).</Original>
         <Chinese>國際發展援助工程組織舉辦了一系列車輛計時賽，評選其最佳司機(一些是&lt;ahref='%2'color='%1'&gt;頂尖&lt;/a&gt;用戶專屬)。</Chinese>
-        <Chinesesimp>国际发展援助工程组织举办了一系列车辆计时赛，评选其最佳司机(一些是&lt;ahref='%2'color='%1'&gt;Apex&lt;/a&gt;用户专属)。</Chinesesimp>
+        <Chinesesimp>国际发展援助工程组织举办了一系列车辆计时赛，评选其最佳司机（一些是&lt;ahref='%2'color='%1'&gt;Apex&lt;/a&gt;用户专属）。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_pare_list1_title">
         <Original>"Remnants of War"</Original>
@@ -3958,7 +3958,7 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_pare_list16">
         <Original>utilize (medical) shelter tents, separate floor canvases, an air-conditioning unit, and plastic net fences.</Original>
         <Chinese>通用(醫療)掩體帳篷，獨立帆布地鋪，空調單元和塑料網牆。</Chinese>
-        <Chinesesimp>通用(医疗)掩体帐篷，独立帆布地铺，空调单元和塑料网墙。</Chinesesimp>
+        <Chinesesimp>通用（医疗）掩体帐篷，独立帆布地铺，空调单元和塑料网墙。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_pare_list15">
         <Original>place cardboard boxes, food sacks, water bottle packages, emergency blankets, and more.</Original>
@@ -4023,7 +4023,7 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_pard_list4">
         <Original>we've added Field Manual records covering the Laws of Armed Conflict, and made small sandbox tweaks to improve our representation of LOAC.</Original>
         <Chinese>我們在野戰手冊中加入了涵蓋軍事衝突法則(LOAC)的內容，並微調了沙盒以表現我們的軍事衝突法則。</Chinese>
-        <Chinesesimp>我们在野战手册中加入了涵盖军事冲突法则(LOAC)的内容，并微调了沙盒以表现我们的军事冲突法则。</Chinesesimp>
+        <Chinesesimp>我们在野战手册中加入了涵盖军事冲突法则（LOAC）的内容，并微调了沙盒以表现我们的军事冲突法则。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_pard_list3_title">
         <Original>Leaflets</Original>
@@ -4058,7 +4058,7 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_pard">
         <Original>Above all, this DLC set out to add assets and content, but we have also done some modest &lt;t color='%1'&gt;feature extensions&lt;/t&gt; and improvements during its development, free for everyone, of course:</Original>
         <Chinese>總體來看，本資料片用於增加一系列特性和內容，但我們也做了一些對所有人都免費的&lt;tcolor='%1'&gt;屬性更新&lt;/t&gt;和改進:</Chinese>
-        <Chinesesimp>总体来看，本DLC用于增加一系列特性和内容，但我们也做了一些对所有人都免费的&lt;tcolor='%1'&gt;属性更新&lt;/t&gt;和改进:</Chinesesimp>
+        <Chinesesimp>总体来看，本 DLC 用于增加一系列特性和内容，但我们也做了一些对所有人都免费的&lt;tcolor='%1'&gt;属性更新&lt;/t&gt;和改进:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parc_footer">
         <Original>More about Arma 3 Laws of War</Original>
@@ -4068,7 +4068,7 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_parc">
         <Original>Continuing our established &lt;a href='%3' color='%2'&gt;DLC strategy&lt;/a&gt;, we are bringing DLC owners a varied collection of premium content. While portions of the new civilian &lt;t color='%1'&gt;International Development &amp;amp; Aid Project&lt;/t&gt; (IDAP) faction are free for the platform, we've selected several new assets to make them a special and worthwhile addition. IDAP's primary ground vehicle is a large &lt;t color='%1'&gt;Van&lt;/t&gt;, available for passenger transport, cargo hauling and medical evacuations. In order to safely carry out their activities in high-risk areas, IDAP also uses several drones. The &lt;t color='%1'&gt;Utility Drone&lt;/t&gt; is its latest acquisition and they have even modified it for remote mine clearance. A wide range of IDAP and other &lt;t color='%1'&gt;character gear&lt;/t&gt; is further available for anyone wishing to wear it. Much to IDAP's frustration, military factions have started to use a particularly nasty weapon: the &lt;t color='%1'&gt;APERS Mine Dispenser&lt;/t&gt;. These and all the extra platform additions are showcased in the singleplayer &lt;t color='%1'&gt;"Remnants of War" mini-campaign&lt;/t&gt;, and as always: get a hands-on preview without restriction in the Virtual Arsenal mode.</Original>
         <Chinese>基於我們已經構建的lt;ahref='%3'color='%2'&gt;資料片策略&lt;/a&gt;，我們將為資料片的擁有者提供一系列附加內容的集合。在新的平民組織&lt;tcolor='%1'&gt;國際發展&amp;amp;援助工程&lt;/t&gt;(IDAP)組織對平臺的所有人免費的同時，我們也選擇了一些新特性作為特別且值得一買的內容。國發援的基本地面車輛是一種大型&lt;tcolor='%1'&gt;麵包車&lt;/t&gt;，可以運輸人員、物資和執行醫療後送。為了安全在高危地區執行任務，國發援還使用多種無人機。&lt;tcolor='%1'&gt;通用無人機&lt;/t&gt;是其最新採購的型號，並被改裝為遙控地雷清障型號。一系列國發援和其他組織的&lt;tcolor='%1'&gt;人物裝備&lt;/t&gt;也對任何想要穿著它們的人可用。讓國發援非常頭痛的是，軍事組織開始使用一種特別令人不齒的武器:&lt;tcolor='%1'&gt;反人員地雷布撒器&lt;/t&gt;。這些都是平臺附加內容，並在單人的&lt;tcolor='%1'&gt;"戰爭遺留物"迷你戰役&lt;/t&gt;予以展示。像往常一樣:在虛擬軍械庫模式下不受限制地瀏覽這些東西。</Chinese>
-        <Chinesesimp>基于我们已经构建的lt;ahref='%3'color='%2'&gt;DLC策略&lt;/a&gt;，我们将为DLC的拥有者提供一系列附加内容的集合。在新的平民组织&lt;tcolor='%1'&gt;国际发展&amp;amp;援助工程&lt;/t&gt;(国发援)组织对平台的所有人免费的同时，我们也选择了一些新特性作为特别且值得一买的内容。国发援的基本地面车辆是一种大型&lt;tcolor='%1'&gt;面包车&lt;/t&gt;，可以运输人员、物资和执行医疗后送。为了安全在高危地区执行任务，国发援还使用多种无人机。&lt;tcolor='%1'&gt;通用无人机&lt;/t&gt;是其最新采购的型号，并被改装为遥控地雷清障型号。一系列国发援和其他组织的&lt;tcolor='%1'&gt;人物装备&lt;/t&gt;也对任何想要穿着它们的人可用。让国发援非常头痛的是，军事组织开始使用一种特别令人不齿的武器:&lt;tcolor='%1'&gt;反人员地雷布撒器&lt;/t&gt;。这些都是平台附加内容，并在单人的&lt;tcolor='%1'&gt;"战争遗留物"迷你战役&lt;/t&gt;予以展示。像往常一样:在虚拟军械库模式下不受限制地浏览这些东西。</Chinesesimp>
+        <Chinesesimp>基于我们已经构建的 lt;ahref='%3'color='%2'&gt;DLC 策略&lt;/a&gt;，我们将为 DLC 的拥有者提供一系列附加内容的集合。在新的平民组织&lt;tcolor='%1'&gt;国际发展&amp;amp;援助工程&lt;/t&gt;（国发援）组织对平台的所有人免费的同时，我们也选择了一些新特性作为特别且值得一买的内容。国发援的基本地面车辆是一种大型&lt;tcolor='%1'&gt;面包车&lt;/t&gt;，可以运输人员、物资和执行医疗后送。为了安全在高危地区执行任务，国发援还使用多种无人机。&lt;tcolor='%1'&gt;通用无人机&lt;/t&gt;是其最新采购的型号，并被改装为遥控地雷清障型号。一系列国发援和其他组织的&lt;tcolor='%1'&gt;人物装备&lt;/t&gt;也对任何想要穿着它们的人可用。让国发援非常头痛的是，军事组织开始使用一种特别令人不齿的武器:&lt;tcolor='%1'&gt;反人员地雷布撒器&lt;/t&gt;。这些都是平台附加内容，并在单人的&lt;tcolor='%1'&gt;"战争遗留物"迷你战役&lt;/t&gt;予以展示。像往常一样:在虚拟军械库模式下不受限制地浏览这些东西。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parb_title">
         <Original>INTERNATIONAL HUMANITARIAN LAW</Original>
@@ -4083,17 +4083,17 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_parb2">
         <Original>We've always admired this pragmatic approach to a complex topic. Rather than frustrate players with punishments and mandatory lessons, our mutual goal has been to find ways of raising awareness of IHL, while creating an even deeper and more authentic Arma experience. To that end we decided to build a DLC around IHL, which primarily delivers an Armaverse humanitarian NGO faction and gameplay to showcase them. We will also be donating a portion of the 2017 DLC proceeds to the ICRC so that they may continue their good real-world work. Thank you for your support!</Original>
         <Chinese>我們始終贊同針對複雜議題的這種實用主義態度。與其通過嚴厲懲罰和長篇大論折磨玩家，我們的本來目的是為了尋找提高對《國際人道主義法》的注意程度的方式，從而創造更深刻、更可信的武裝突襲遊戲體驗。最終我們決定圍繞《國際人道主義法》製作一個資料片，主要表現武裝突襲世界觀中的非政府組織，並展示他們。我們也會為國際紅十字會捐出此次資料片的部分收入，以便他們在真實世界繼續進行他們的高尚工作。感謝你的支持!</Chinese>
-        <Chinesesimp>我们始终赞同针对复杂议题的这种实用主义态度。与其通过严厉惩罚和长篇大论折磨玩家，我们的本来目的是为了寻找提高对《国际人道主义法》的注意程度的方式，从而创造更深刻、更可信的武装突袭游戏体验。最终我们决定围绕《国际人道主义法》制作一个DLC，主要表现武装突袭世界观中的非政府组织，并展示他们。我们也会为国际红十字会捐出此次DLC的部分收入，以便他们在真实世界继续进行他们的高尚工作。感谢你的支持!</Chinesesimp>
+        <Chinesesimp>我们始终赞同针对复杂议题的这种实用主义态度。与其通过严厉惩罚和长篇大论折磨玩家，我们的本来目的是为了寻找提高对《国际人道主义法》的注意程度的方式，从而创造更深刻、更可信的武装突袭游戏体验。最终我们决定围绕《国际人道主义法》制作一个 DLC，主要表现武装突袭世界观中的非政府组织，并展示他们。我们也会为国际红十字会捐出此次 DLC 的部分收入，以便他们在真实世界继续进行他们的高尚工作。感谢你的支持!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parb">
         <Original>For some time now we've had an inspirational working relationship with the &lt;t color='%1'&gt;International Committee of the Red Cross&lt;/t&gt; (ICRC). Especially in recent years, they have identified games as a valid vehicle to spread awareness of a topic that both makes sense to everyone, yet can be very complicated to explain, implement and safeguard. We're talking about &lt;t color='%1'&gt;International Humanitarian Law&lt;/t&gt; (IHL), also known as the laws of armed conflict, the rules of war, or the laws of war. Its most widely known component is perhaps the Geneva Conventions. The ICRC has helped our developers to be educated on this important aspect of warfare, and they have pointed out how we might improve our games to include IHL elements, without taking fun away from players.</Original>
         <Chinese>一段時間以來我們一直在跟&lt;tcolor='%1'&gt;國際紅十字委員會&lt;/t&gt;(ICRC)維持著良好的關係。特別是在近些年來，他們認為遊戲是一種把此類對所有人都有意義，但很難解釋、執行並保衛的議題介紹給大家的渠道。我們在本篇中討論的是&lt;tcolor='%1'&gt;《國際人道主義法》&lt;/t&gt;(IHL)，也稱武裝衝突法則，戰爭法則，或者戰爭法。它最為人所知的組成部分大概是《日內瓦公約》。國際紅十字會幫助我們的研發者理解戰爭中的這一重要議題，他們還指出我們應當在不影響玩家樂趣的前提下在遊戲中加入《國際人道主義法》的成分。</Chinese>
-        <Chinesesimp>一段时间以来我们一直在跟&lt;tcolor='%1'&gt;国际红十字委员会&lt;/t&gt;(ICRC)维持着良好的关系。特别是在近些年来，他们认为游戏是一种把此类对所有人都有意义，但很难解释、执行并保卫的议题介绍给大家的渠道。我们在本篇中讨论的是&lt;tcolor='%1'&gt;《国际人道主义法》&lt;/t&gt;(IHL)，也称武装冲突法则，战争法则，或者战争法。它最为人所知的组成部分大概是《日内瓦公约》。国际红十字会帮助我们的研发者理解战争中的这一重要议题，他们还指出我们应当在不影响玩家乐趣的前提下在游戏中加入《国际人道主义法》的成分。</Chinesesimp>
+        <Chinesesimp>一段时间以来我们一直在跟&lt;tcolor='%1'&gt;国际红十字委员会&lt;/t&gt;(ICRC)维持着良好的关系。特别是在近些年来，他们认为游戏是一种把此类对所有人都有意义，但很难解释、执行并保卫的议题介绍给大家的渠道。我们在本篇中讨论的是&lt;tcolor='%1'&gt;《国际人道主义法》&lt;/t&gt;（IHL），也称武装冲突法则，战争法则，或者战争法。它最为人所知的组成部分大概是《日内瓦公约》。国际红十字会帮助我们的研发者理解战争中的这一重要议题，他们还指出我们应当在不影响玩家乐趣的前提下在游戏中加入《国际人道主义法》的成分。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_para">
         <Original>It is with some pride that we welcome you to the release of the &lt;t color='%1'&gt;Arma 3 Laws of War&lt;/t&gt; DLC. Known for some time under code name "Orange" on our &lt;a href='%3' color='%2'&gt;2017 roadmap&lt;/a&gt;, we have recently revealed the unique theme of this asset and content pack to you all. We feel there is something for everyone to be found in this DLC and the accompanying platform update. So we invite you to keep reading for more information, or to dive straight into the game and explore the additions for yourself. This is war!</Original>
         <Chinese>如今我們驕傲地向諸位推出&lt;tcolor='%1'&gt;武裝突襲3戰爭法&lt;/t&gt;資料片。曾經該資料片在我們的&lt;ahref='%3'color='%2'&gt;2017進度計劃表&lt;/a&gt;，中也以"橙色"資料片代稱。我們最近公開揭示了這一部分內容和特性的獨特主基調。我們意識到每個人都能在這個資料片和隨後的平臺更新中體悟到一些什麼。所以我們邀請您閱讀更多信息，或者認真挖掘遊戲並探索更多內容。這就是戰爭!</Chinese>
-        <Chinesesimp>如今我们骄傲地向诸位推出&lt;tcolor='%1'&gt;武装突袭3战争法&lt;/t&gt;DLC。曾经该DLC在我们的&lt;ahref='%3'color='%2'&gt;2017进度计划表&lt;/a&gt;，中也以"橙色"DLC代称。我们最近公开揭示了这一部分内容和特性的独特主基调。我们意识到每个人都能在这个DLC和随后的平台更新中体悟到一些什么。所以我们邀请您阅读更多信息，或者认真挖掘游戏并探索更多内容。这就是战争!</Chinesesimp>
+        <Chinesesimp>如今我们骄傲地向诸位推出&lt;tcolor='%1'&gt;武装突袭3战争法&lt;/t&gt;DLC。曾经该 DLC 在我们的&lt;ahref='%3'color='%2'&gt;2017进度计划表&lt;/a&gt;，中也以"橙色"DLC 代称。我们最近公开揭示了这一部分内容和特性的独特主基调。我们意识到每个人都能在这个 DLC 和随后的平台更新中体悟到一些什么。所以我们邀请您阅读更多信息，或者认真挖掘游戏并探索更多内容。这就是战争!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_pare_list11_title_plain">
         <Original>International Development &amp; Aid Project</Original>
@@ -4177,27 +4177,27 @@
       <Key ID="STR_A3_CfgMusic_LeadTrack01_F_Orange">
         <Original>This Is War (Laws of War Remix)</Original>
         <Chinese>這是戰爭(戰爭法混音版)</Chinese>
-        <Chinesesimp>这是战争(战争法混音版)</Chinesesimp>
+        <Chinesesimp>这是战争（战争法混音版）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack01_F_Orange">
         <Original>Laws of War DLC: Ambient</Original>
         <Chinese>戰爭法資料片:周遭環境</Chinese>
-        <Chinesesimp>战争法DLC:周边局势</Chinesesimp>
+        <Chinesesimp>战争法 DLC:周边局势</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02_F_Orange">
         <Original>Laws of War DLC: Remnants of War</Original>
         <Chinese>戰爭法資料片:戰後殘局</Chinese>
-        <Chinesesimp>战争法DLC:战争遗留物</Chinesesimp>
+        <Chinesesimp>战争法 DLC:战争遗留物</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack01_F_Orange">
         <Original>Laws of War DLC: Escalation</Original>
         <Chinese>戰爭法資料片:漸趨緊張</Chinese>
-        <Chinesesimp>战争法DLC:事态升级</Chinesesimp>
+        <Chinesesimp>战争法 DLC:事态升级</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack02_F_Orange">
         <Original>Laws of War DLC: Scenario Completed</Original>
         <Chinese>戰爭法資料片:大功告成</Chinese>
-        <Chinesesimp>战争法DLC:场景已完成</Chinesesimp>
+        <Chinesesimp>战争法 DLC:场景已完成</Chinesesimp>
       </Key>
     </Container>
   </Package>

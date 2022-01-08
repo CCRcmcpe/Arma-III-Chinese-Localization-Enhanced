@@ -96,7 +96,7 @@
         <Key ID="str_a3_showcase_jets_briefing_situation_text">
           <Original>After the AAF surrender, NATO continue to clean up remnants of CSAT forces to the northeast. Progress has been halted after CSAT brought in fast-air assets to interdict our ground assault. &lt;br/&gt;&lt;br/&gt;Air superiority is vital for victory. USS Freedom has been deployed to Altis. As an F/A-181 fighter pilot, your task is to secure the %4airspace%1 to allow ground assets to continue their attack.</Original>
           <Chinese>在阿爾蒂斯政府軍投降以後，北約繼續肅清北面殘存的廣協同盟部隊。但攻勢被迫在廣協同盟高速戰鬥機的威脅下暫時停止了腳步。&lt;br/&gt;&lt;br/&gt;掌握空優將是這場戰役的關鍵。美國海軍"自由"號已經被佈署到阿爾蒂斯周邊。做為一名F/A-181"黑蜂"2型戰鬥攻擊機的飛行員，你的任務將是去肅清整片%4空域%1來讓我們的地面部隊得以繼續進攻。</Chinese>
-          <Chinesesimp>在AAF投降以后，北约继续肃清北面残存的广协部队。但攻势在广协高速战斗机的威胁下被迫暂时停止了脚步。&lt;br/&gt;&lt;br/&gt;掌握空优将是这场战役的关键。美国海军"自由"号已经被布署到阿尔蒂斯岛周边。做为一名F/A-181"黑蜂"2型战斗攻击机的飞行员，你的任务是肃清整片%4空域%1来让我们的地面部队得以继续进攻。</Chinesesimp>
+          <Chinesesimp>在 AAF 投降以后，北约继续肃清北面残存的广协部队。但攻势在广协高速战斗机的威胁下被迫暂时停止了脚步。&lt;br/&gt;&lt;br/&gt;掌握空优将是这场战役的关键。美国海军"自由"号已经被布署到阿尔蒂斯岛周边。做为一名F/A-181"黑蜂"2型战斗攻击机的飞行员，你的任务是肃清整片%4空域%1来让我们的地面部队得以继续进攻。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_briefing_signal_text">
           <Original>Hornet - Your squadron &lt;br/&gt;Eagle - Friendly squadron &lt;br/&gt;Freeway - USS Freedom</Original>
@@ -136,7 +136,7 @@
         <Key ID="str_a3_showcase_jets_bis_tskrepair_title">
           <Original>(Optional) Repair</Original>
           <Chinese>維修(可選)</Chinese>
-          <Chinesesimp>维修(可选)</Chinesesimp>
+          <Chinesesimp>维修（可选）</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_bis_tskrepair_desc">
           <Original>Land at %2Altis International Airport%1 for %3emergency repairs%1.</Original>
@@ -151,7 +151,7 @@
         <Key ID="str_a3_showcase_jets_bis_tskrearm_title">
           <Original>(Optional) Rearm</Original>
           <Chinese>彈藥補給(可選)</Chinese>
-          <Chinesesimp>弹药补给(可选)</Chinesesimp>
+          <Chinesesimp>弹药补给（可选）</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_bis_tskrearm_desc">
           <Original>Land at %2Altis International Airport%1 for %3rearm%1.</Original>
@@ -484,7 +484,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list7_title">
         <Original>USS Freedom (CVN-83)</Original>
         <Chinese>美國海軍自由號(CVN-83)</Chinese>
-        <Chinesesimp>美国海军"自由"号(CVN-83)</Chinesesimp>
+        <Chinesesimp>美国海军"自由"号（CVN-83）</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list7">
         <Original>a static functional aircraft carrier that can be placed as an object in Eden Editor</Original>
@@ -529,7 +529,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list3">
         <Original>an advanced fourth generation AAF fighter jet</Original>
         <Chinese>阿爾蒂斯武裝力量的一臺先進第四代戰鬥機</Chinese>
-        <Chinesesimp>AAF的一种先进第四代战斗机</Chinesesimp>
+        <Chinesesimp>AAF 的一种先进第四代战斗机</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list2_title">
         <Original>To-201 Shikra</Original>
@@ -559,7 +559,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_pare">
         <Original>Arma 3 Jets takes to the skies with the following premium content and platform additions:</Original>
         <Chinese>武裝突襲3戰機資料片為天空帶來了以下優質付費內容:</Chinese>
-        <Chinesesimp>武装突袭3战机DLC为天空带来了以下优质付费内容:</Chinesesimp>
+        <Chinesesimp>武装突袭3战机 DLC 为天空带来了以下优质付费内容:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pard_unmapped">
         <Original>Unmapped</Original>
@@ -579,7 +579,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_pard_list7">
         <Original>%1 and %2 (same as for flaps) now control the VTOL vectoring angle in manual mode</Original>
         <Chinese>%1與%2(同控制襟翼)現在能在手動模式下控制垂直起降機的向量噴嘴角度</Chinese>
-        <Chinesesimp>%1与%2(同控制襟翼)现在能在手动模式下控制垂直起降机的向量喷嘴角度</Chinesesimp>
+        <Chinesesimp>%1与%2（同控制襟翼）现在能在手动模式下控制垂直起降机的向量喷嘴角度</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pard_list6_title">
         <Original>Speedbrake</Original>
@@ -589,7 +589,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_pard_list6">
         <Original>%1 deploys available air brakes (this was decoupled from throttling)</Original>
         <Chinese>按下%1來展開減速板(這功能與油門分開了)</Chinese>
-        <Chinesesimp>按下%1来展开减速板(这功能与油门分开了)</Chinesesimp>
+        <Chinesesimp>按下%1来展开减速板（这功能与油门分开了）</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pard_list5_title">
         <Original>Lase Range</Original>
@@ -609,7 +609,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_pard_list4">
         <Original>%1 switches any available active radar on or off (an active radar can also reveal your position to more threats)</Original>
         <Chinese>%1可用來開啟或關閉雷達(開啟中的雷達有可能會暴露出你的位置給敵人)</Chinese>
-        <Chinesesimp>%1可用来开启或关闭雷达(开启中的雷达有可能会暴露出你的位置给敌人)</Chinesesimp>
+        <Chinesesimp>%1可用来开启或关闭雷达（开启中的雷达有可能会暴露出你的位置给敌人）</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pard_list3_title">
         <Original>Info Panel Miscellaneous</Original>
@@ -629,7 +629,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_pard_list2">
         <Original>%1 or %2 switch the mode of the left or right info panels where available (e.g. zoom)</Original>
         <Chinese>%1或%2可以來切換左右多功能面板的不同模式(像是改變雷達搜索距離)</Chinese>
-        <Chinesesimp>%1或%2可以来切换左右多功能面板的不同模式(像是改变雷达搜索距离)</Chinesesimp>
+        <Chinesesimp>%1或%2可以来切换左右多功能面板的不同模式（像是改变雷达搜索距离）</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pard_list1_title">
         <Original>Info Panel Module</Original>
@@ -639,12 +639,12 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_pard_list1">
         <Original>%3 or %4 switch the left or right &lt;a href='%2' color='%1'&gt;info panels&lt;/a&gt; to the next module where available (GPS, radar, off, etc.)</Original>
         <Chinese>%3或%4可以來切換左右多功能面板&lt;ahref='%2'color='%1'&gt;infopanels&lt;/a&gt;到下一個可用的類型(GPS，雷達，關閉等等...)</Chinese>
-        <Chinesesimp>%3或%4可以来切换左右多功能面板&lt;ahref='%2'color='%1'&gt;infopanels&lt;/a&gt;到下一个可用的类型(GPS，雷达，关闭等等...)</Chinesesimp>
+        <Chinesesimp>%3或%4可以来切换左右多功能面板&lt;ahref='%2'color='%1'&gt;infopanels&lt;/a&gt;到下一个可用的类型（GPS，雷达，关闭等等...）</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pard">
         <Original>With the addition of these new features and deepening of existing gameplay, there have been several &lt;t color='%1'&gt;control additions and tweaks&lt;/t&gt;. You can inspect these in the CONTROLS section of the OPTIONS menu. It's also possible to reset to the Arma 3 or now standard Arma 3 Apex PRESETS, but please be aware that doing so will remove any customized control bindings.</Original>
         <Chinese>隨著新功能的登場與更加細緻的遊戲體驗，我們&lt;tcolor='%1'&gt;新增與調整了一些控制按鍵&lt;/t&gt;。你可以到選項中的按鍵設定進行調整。你也可以直接重設按鍵設定到標準的武裝突襲3頂尖按鍵配置，但如果這樣做，你的那些自定按鍵就會全部不見。</Chinese>
-        <Chinesesimp>随着新功能的登场与更加细致的游戏体验，我们&lt;tcolor='%1'&gt;新增与调整了一些控制按键&lt;/t&gt;。你可以到选项中的按键设定进行调整。你也可以直接重设按键设定到标准的武装突袭3 Apex按键配置，但如果这样做，你的那些自定义按键就会全部不见。</Chinesesimp>
+        <Chinesesimp>随着新功能的登场与更加细致的游戏体验，我们&lt;tcolor='%1'&gt;新增与调整了一些控制按键&lt;/t&gt;。你可以到选项中的按键设定进行调整。你也可以直接重设按键设定到标准的武装突袭3 Apex 按键配置，但如果这样做，你的那些自定义按键就会全部不见。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_parc_list8">
         <Original>optional new throttle behavior, new airplane animation and &lt;a href='%2' color='%1'&gt;MFD&lt;/a&gt; sources for modders, tweaked controls, and more!</Original>
@@ -699,7 +699,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_parc_list3">
         <Original>customize variable vehicle loadouts in Eden Editor (selecting aircraft pylon ordnance being the highlight)</Original>
         <Chinese>在伊甸編輯器中使用動態裝備來隨意調整載具的武器配置(調整不同武器掛架的裝備)</Chinese>
-        <Chinesesimp>在伊甸编辑器中使用动态装备来随意调整载具的武器配置(调整不同武器挂架的装备)</Chinesesimp>
+        <Chinesesimp>在伊甸编辑器中使用动态装备来随意调整载具的武器配置（调整不同武器挂架的装备）</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_parc_list2_title">
         <Original>Data Link</Original>
@@ -719,7 +719,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_parc_list1">
         <Original>a new radar interface for targeting guided weapons (used by a variety of vehicles, including jets, helicopters and tanks), powered by advanced Active Radar and Infrared sensor technology</Original>
         <Chinese>新的雷達介面來給導引武器使用(各種載具皆可使用，像是飛機，直升機與坦克等)，此科技使用到先進的主動式雷達與紅外線傳感器</Chinese>
-        <Chinesesimp>新的雷达界面来给制导武器使用(各种载具皆可使用，像是飞机，直升机与坦克等)，此科技使用到先进的主动式雷达与红外线传感器</Chinesesimp>
+        <Chinesesimp>新的雷达界面来给制导武器使用（各种载具皆可使用，像是飞机，直升机与坦克等），此科技使用到先进的主动式雷达与红外线传感器</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_parc">
         <Original>We're pleased to have been able to provide the entire Arma 3 player-base with a solid set of features in the form of a &lt;t color='%1'&gt;free platform update&lt;/t&gt;. Not only do these improvements complement the premium aircraft splendidly, but they can and will be deployed for certain other existing vehicle types and (we hope!) by mod teams as well:</Original>
@@ -739,17 +739,17 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_parb">
         <Original>As you've come to expect from our DLC strategy, this major release brings great new &lt;t color='%1'&gt;premium content&lt;/t&gt; for DLC owners and enhances the sandbox for all Arma 3 players. With Arma 3 Jets, our goal was to deliver air superiority jets capable of combat beyond visual ranges. Owners will gain unrestricted access to &lt;t color='%1'&gt;3 new fighter aircraft&lt;/t&gt; and an &lt;t color='%1'&gt;Unmanned Combat Air Vehicle&lt;/t&gt;. You can experience the enhanced aerial gameplay in the dedicated &lt;t color='%1'&gt;Showcase&lt;/t&gt;, or if you're looking for a quick hands-on preview, boot up the Virtual Arsenal mode to try the assets without restriction.</Original>
         <Chinese>如同我們往常的資料片政策，這次除了有優質的&lt;tcolor='%1'&gt;付費內容&lt;/t&gt;外，我們也提供免費的系統升級給所有的武裝突襲3玩家。在武裝突襲3戰機中，我們主要的目標就是提供玩家一個超視距空優戰鬥的體驗。資料片買家將能直接擁有&lt;tcolor='%1'&gt;3款新戰機&lt;/t&gt;以及&lt;tcolor='%1'&gt;1臺無人戰機&lt;/t&gt;。你可以直接到&lt;tcolor='%1'&gt;任務展示&lt;/t&gt;中體驗全新的空中戰鬥，沒有資料片的玩家也可以直接到虛擬軍火庫中免費體驗這些新載具。</Chinese>
-        <Chinesesimp>如同我们往常的DLC政策，这次除了有优质的&lt;tcolor='%1'&gt;付费内容&lt;/t&gt;外，我们也提供免费的系统升级给所有的武装突袭3玩家。在武装突袭3战机中，我们主要的目标就是提供玩家一个超视距空优战斗的体验。DLC买家将能直接拥有&lt;tcolor='%1'&gt;3款新战机&lt;/t&gt;以及&lt;tcolor='%1'&gt;1台无人战机&lt;/t&gt;。你可以直接到&lt;tcolor='%1'&gt;任务展示&lt;/t&gt;中体验全新的空中战斗，没有DLC的玩家也可以直接到虚拟军火库中免费体验这些新载具。</Chinesesimp>
+        <Chinesesimp>如同我们往常的 DLC 政策，这次除了有优质的&lt;tcolor='%1'&gt;付费内容&lt;/t&gt;外，我们也提供免费的系统升级给所有的武装突袭3玩家。在武装突袭3战机中，我们主要的目标就是提供玩家一个超视距空优战斗的体验。DLC 买家将能直接拥有&lt;tcolor='%1'&gt;3款新战机&lt;/t&gt;以及&lt;tcolor='%1'&gt;1台无人战机&lt;/t&gt;。你可以直接到&lt;tcolor='%1'&gt;任务展示&lt;/t&gt;中体验全新的空中战斗，没有 DLC 的玩家也可以直接到虚拟军火库中免费体验这些新载具。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_para">
         <Original>Scrambling all pilots! We've launched the &lt;t color='%1'&gt;Arma 3 Jets&lt;/t&gt; DLC for immediate interdiction. We hope this first huge milestone on our &lt;a href='%3' color='%2'&gt;2017 roadmap&lt;/a&gt; will please fans of vehicle gameplay and those looking for an even deeper combined arms experience. For the first time in Arma 3's development, this DLC was created together with a third-party external team: &lt;t color='%1'&gt;BRAVO ZERO ONE Studios&lt;/t&gt;, led by &lt;a href='%4' color='%2'&gt;Make Arma Not War&lt;/a&gt; winner Joshua "Saul" Carpenter. We would like to thank these talented developers for their hard work! Inspect the strong line-up of new assets and features below, or jump right into the cockpit for takeoff!</Original>
         <Chinese>通告所有飛行員!我們已經讓&lt;tcolor='%1'&gt;武裝突襲3戰機&lt;/t&gt;資料片正式上市。我們希望這個&lt;ahref='%3'color='%2'&gt;2017規劃藍圖&lt;/a&gt;的第一個里程碑能讓那些載具愛好者與想要更加擬真體驗的玩家有所感受。關於這次資料片的開發，我們是第一次與其他第三方團隊合作:&lt;tcolor='%1'&gt;BRAVO ZERO ONE工作室&lt;/t&gt;，是由&lt;ahref='%4'color='%2'&gt;讓武裝突襲不要戰爭&lt;/a&gt;的贏家Joshua"Saul"Carpenter所領軍。我們很感謝這些厲害的作者做出如此厲害的內容!你可以看看底下的訊息來了解新載具與新特色，或是現在立刻進入遊戲中直接體驗!</Chinese>
-        <Chinesesimp>通告所有飞行员!我们已经让&lt;tcolor='%1'&gt;武装突袭3战机&lt;/t&gt;DLC正式上市。我们希望这个&lt;ahref='%3'color='%2'&gt;2017规划蓝图&lt;/a&gt;的第一个里程碑能让那些载具爱好者与想要更加拟真体验的玩家有所感受。关于这次DLC的开发，我们是第一次与其他第三方团队合作:&lt;tcolor='%1'&gt;BRAVO ZERO ONE工作室&lt;/t&gt;，是由&lt;ahref='%4'color='%2'&gt;让武装突袭不要战争&lt;/a&gt;的赢家Joshua"Saul"Carpenter所领军。我们很感谢这些厉害的作者做出如此厉害的内容!你可以看看底下的信息来了解新载具与新特色，或是现在立刻进入游戏中直接体验!</Chinesesimp>
+        <Chinesesimp>通告所有飞行员!我们已经让&lt;tcolor='%1'&gt;武装突袭3战机&lt;/t&gt;DLC 正式上市。我们希望这个&lt;ahref='%3'color='%2'&gt;2017规划蓝图&lt;/a&gt;的第一个里程碑能让那些载具爱好者与想要更加拟真体验的玩家有所感受。关于这次 DLC 的开发，我们是第一次与其他第三方团队合作:&lt;tcolor='%1'&gt;BRAVO ZERO ONE 工作室&lt;/t&gt;，是由&lt;ahref='%4'color='%2'&gt;让武装突袭不要战争&lt;/a&gt;的赢家 Joshua"Saul"Carpenter 所领军。我们很感谢这些厉害的作者做出如此厉害的内容!你可以看看底下的信息来了解新载具与新特色，或是现在立刻进入游戏中直接体验!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list10">
         <Original>use the Y-32 Xi'an aircraft to support friendly troops on Tanoa against NATO forces (bonus for &lt;a href='%2'&gt;Apex&lt;/a&gt; owners)</Original>
         <Chinese>駕駛Y-32"西安"垂直起降機支援友軍對抗塔諾亞上的北約部隊(此內容屬於&lt;ahref='%2'&gt;頂尖&lt;/a&gt;的一部分)</Chinese>
-        <Chinesesimp>驾驶Y-32"西安"垂直起降机支援友军对抗塔诺亚岛上的北约部队(此内容属于&lt;ahref='%2'&gt;Apex&lt;/a&gt;的一部分)</Chinesesimp>
+        <Chinesesimp>驾驶Y-32"西安"垂直起降机支援友军对抗塔诺亚岛上的北约部队（此内容属于&lt;ahref='%2'&gt;Apex&lt;/a&gt;的一部分）</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list10_title">
         <Original>Showcase VTOL</Original>
@@ -761,7 +761,7 @@
       <Key ID="STR_A3_CfgHints_PremiumContent_PremiumJets1">
         <Original>Dominate the skies over the battlefield in 3 new fighter aircraft and an Unmanned Combat Air Vehicle. Fly fast and agile air superiority jets to provide air support in the dedicated Showcase, and more, in the Arma 3 Jets DLC.%1&lt;img size='9' shadow='0' image='A3\Data_F_Jets\Images\jets_fm_overview_co' /&gt;%1%2F/A-181 Black Wasp II - a fifth generation NATO carrier-based fighter jet%1%2To-201 Shikra - a fifth generation CSAT air superiority fighter jet%1%2A-149 Gryphon - an advanced fourth generation AAF fighter jet%1%2Sentinel - a NATO carrier-based Unmanned Combat Air Vehicle%1%2Deck Crew Vests - colored vests for various characters roles on the carrier%1%2Showcase Fighter Jets - take to the skies over Altis and engage in Air-to-Air and Air-to-Ground operations%1%2Official Sound Track - a new music track befitting the jets theme%1%2Achievements - a set of extra &lt;a href='http://steamcommunity.com/stats/107410/achievements'&gt;Steam Achievements&lt;/a&gt;%1</Original>
         <Chinese>駕馭全新的3款戰機與1款無人戰機，你就可以稱霸整個戰場的領空。你可以在任務展示中體驗到新飛機的高速與敏捷性，讓你獲得絕對的空優，這些盡在武裝突襲3戰機資料片中。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Jets\Images\jets_fm_overview_co'/&gt;%1%2F/A-181"黑蜂"2型戰鬥攻擊機-北約的一臺第五代艦載戰鬥攻擊機%1%2To-201"褐耳鷹"戰鬥機-廣協同盟的一臺第五代空優戰鬥機%1%2A-149"獅鷲"戰鬥機-阿爾蒂斯武裝力量的一臺先進第四代戰鬥機%1%2"哨兵"無人戰機-北約的一臺艦載無人戰機%1%2甲板人員背心-數種不同顏色的背心供航空母艦的甲板人員使用%1%2戰鬥機任務展示-前往阿爾蒂斯體驗空對空與空對地的飛行任務%1%2官方原聲帶-一首配合戰機主題的曲子%1%2成就-新的一組&lt;ahref='http://steamcommunity.com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinese>
-        <Chinesesimp>驾驭全新的3款战机与1款无人战机，你就可以称霸整个战场的领空。你可以在任务展示中体验到新飞机的高速与敏捷性，让你获得绝对的空优，这些尽在武装突袭3战机DLC中。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Jets\Images\jets_fm_overview_co'/&gt;%1%2F/A-181"黑蜂"2型战斗攻击机-北约的一台第五代舰载战斗攻击机%1%2To-201"褐耳鹰"战斗机-广协的一台第五代空优战斗机%1%2A-149"狮鹫"战斗机-AAF的一台先进第四代战斗机%1%2"哨兵"无人战机-北约的一台舰载无人战机%1%2甲板人员背心-数种不同颜色的背心供航空母舰的甲板人员使用%1%2战斗机任务展示-前往阿尔蒂斯体验空对空与空对地的飞行任务%1%2官方原声带-一首配合战机主题的曲子%1%2成就-新的一组&lt;ahref='http://steamcommunity.com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinesesimp>
+        <Chinesesimp>驾驭全新的3款战机与1款无人战机，你就可以称霸整个战场的领空。你可以在任务展示中体验到新飞机的高速与敏捷性，让你获得绝对的空优，这些尽在武装突袭3战机 DLC 中。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Jets\Images\jets_fm_overview_co'/&gt;%1%2F/A-181"黑蜂"2型战斗攻击机-北约的一台第五代舰载战斗攻击机%1%2To-201"褐耳鹰"战斗机-广协的一台第五代空优战斗机%1%2A-149"狮鹫"战斗机-AAF 的一台先进第四代战斗机%1%2"哨兵"无人战机-北约的一台舰载无人战机%1%2甲板人员背心-数种不同颜色的背心供航空母舰的甲板人员使用%1%2战斗机任务展示-前往阿尔蒂斯体验空对空与空对地的飞行任务%1%2官方原声带-一首配合战机主题的曲子%1%2成就-新的一组&lt;ahref='http://steamcommunity.com/stats/107410/achievements'&gt;Steam 成就&lt;/a&gt;%1</Chinesesimp>
       </Key>
     </Container>
   </Package>

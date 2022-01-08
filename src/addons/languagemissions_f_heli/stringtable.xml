@@ -1566,7 +1566,7 @@
             <Key ID="str_a3_showcase_slingloading_x20_basefallen_tow_0">
               <Original>November, we've lost comms with the locals. Guess the AAF got to them first.</Original>
               <Chinese>November，我們已與反抗軍失去通訊。我們猜阿爾蒂斯武裝力量應該已經先逮到他們了。</Chinese>
-              <Chinesesimp>November，我们已与反抗军失去通信。猜测AAF应该已经先逮到他们了。</Chinesesimp>
+              <Chinesesimp>November，我们已与反抗军失去通信。猜测 AAF 应该已经先逮到他们了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_x20_basefallen_tow_1">
               <Original>RTB. We'll sort it out.</Original>
@@ -1590,7 +1590,7 @@
             <Key ID="str_a3_showcase_slingloading_x10_mayday_pil_1">
               <Original>November is going down! I repeat, we're going down!</Original>
               <Chinese>November正在失去高度!我重複一遍，我們正在失去高度!</Chinese>
-              <Chinesesimp>November正在坠落!我重复一遍，我们正在坠落!</Chinesesimp>
+              <Chinesesimp>November 正在坠落!我重复一遍，我们正在坠落!</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_x10_mayday_tow_0">
               <Original>Copy, November. Dispatching search and rescue to your grid.</Original>
@@ -1674,12 +1674,12 @@
             <Key ID="str_a3_showcase_slingloading_30_changeofplan_pil_0">
               <Original>November copies. Standing by.</Original>
               <Chinese>November收到。等待中。</Chinese>
-              <Chinesesimp>November收到。等待中。</Chinesesimp>
+              <Chinesesimp>November 收到。等待中。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_30_changeofplan_pil_1">
               <Original>Solid copy. Changing course now. November out.</Original>
               <Chinese>完整收到。現在改變路線。November通話完畢。</Chinese>
-              <Chinesesimp>完整收到。现在改变路线。November通话完毕。</Chinesesimp>
+              <Chinesesimp>完整收到。现在改变路线。November 通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_30_changeofplan_tow_0">
               <Original>Change of plan, November. Standby for tasking.</Original>
@@ -1689,7 +1689,7 @@
             <Key ID="str_a3_showcase_slingloading_30_changeofplan_tow_1">
               <Original>Some locals took a Greenback outpost on the southern peninsula, and now they're surrounded. You're being re-tasked to help them out.</Original>
               <Chinese>一些當地反叛軍從阿爾蒂斯武裝力量那奪得了一個前哨基地，而現在他們陷入了包圍。你將被重新指派去協助他們。</Chinese>
-              <Chinesesimp>一些当地反叛军从AAF手中夺得了一个前哨基地，而现在他们陷入了包围。你将被重新指派去协助他们。</Chinesesimp>
+              <Chinesesimp>一些当地反叛军从 AAF 手中夺得了一个前哨基地，而现在他们陷入了包围。你将被重新指派去协助他们。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_30_changeofplan_tow_2">
               <Original>Friendlies are waiting on the tarmac at the airfield. You are to insert them at the outpost to support the locals.</Original>
@@ -1711,12 +1711,12 @@
             <Key ID="str_a3_showcase_slingloading_25_striderdropped_pil_1">
               <Original>Roger that. November out.</Original>
               <Chinese>收到。November通話完畢。</Chinese>
-              <Chinesesimp>收到。November通话完毕。</Chinesesimp>
+              <Chinesesimp>收到。November 通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_25_striderdropped_tow_0">
               <Original>Copy, November. Proceed to Whiskey.</Original>
               <Chinese>收到，November。請前往Whiskey。</Chinese>
-              <Chinesesimp>收到，November。请前往Whiskey。</Chinesesimp>
+              <Chinesesimp>收到，November。请前往 Whiskey。</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_StriderLoaded" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="20_StriderLoaded" dubbingLanguage="english" namePrefix="showcase_slingloading_20_striderloaded" note="" participants="HELI B Pilot;HELI B Tower;" situation="player has just loaded the floating strider">
@@ -1728,7 +1728,7 @@
             <Key ID="str_a3_showcase_slingloading_20_striderloaded_pil_1">
               <Original>Understood. November out.</Original>
               <Chinese>了解。November通話完畢。</Chinese>
-              <Chinesesimp>了解。November通话完毕。</Chinesesimp>
+              <Chinesesimp>了解。November 通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_20_striderloaded_tow_0">
               <Original>Understood, November.</Original>
@@ -1750,7 +1750,7 @@
             <Key ID="str_a3_showcase_slingloading_17_confirm_pil_0">
               <Original>Solid copy. En route. November out.</Original>
               <Chinese>完整收到。在路上了。November通話完畢。</Chinese>
-              <Chinesesimp>完整收到。在路上了。November通话完毕。</Chinesesimp>
+              <Chinesesimp>完整收到。在路上了。November 通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_17_confirm_pil_1">
               <Original>It's gonna be a long day...</Original>
@@ -1767,7 +1767,7 @@
             <Key ID="str_a3_showcase_slingloading_16_newtask_tow_1">
               <Original>We've got an AAF MRAP stuck in the Gulf of Pyrgos. Crossroads wants you to deliver it to Pyrgos for inspection.</Original>
               <Chinese>一輛阿爾蒂斯武裝力量的載具被困在皮爾戈斯灣裡。"Crossroads"想要你運送他到皮爾戈斯進行檢查。</Chinese>
-              <Chinesesimp>一辆AAF的防地雷反伏击车被困在皮尔戈斯湾里。"十字路口"想要你把它运送到皮尔戈斯进行检查。</Chinesesimp>
+              <Chinesesimp>一辆 AAF 的防地雷反伏击车被困在皮尔戈斯湾里。"十字路口"想要你把它运送到皮尔戈斯进行检查。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_16_newtask_tow_2">
               <Original>Recovery crews are already on station and have the crew members in custody. They'll assist with the pickup.</Original>
@@ -1806,7 +1806,7 @@
             <Key ID="str_a3_showcase_slingloading_10_ammoloaded_pil_1">
               <Original>Copy. Keep me updated. November out.</Original>
               <Chinese>收到。請保持聯絡。November通話完畢。</Chinese>
-              <Chinesesimp>收到。请保持联络。November通话完毕。</Chinesesimp>
+              <Chinesesimp>收到。请保持联络。November 通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_10_ammoloaded_tow_0">
               <Original>Copy. Boots on the ground will deploy blue smoke to mark your LZ.</Original>
@@ -1828,7 +1828,7 @@
             <Key ID="str_a3_showcase_slingloading_05_takeoff_pil_1">
               <Original>November copies all. Heading out.</Original>
               <Chinese>November完整收到。開始出發。</Chinese>
-              <Chinesesimp>November完整收到。开始出发。</Chinesesimp>
+              <Chinesesimp>November 完整收到。开始出发。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_05_takeoff_tow_0">
               <Original>Copy, November. Today's forecast - clear skies with a weak westerly wind. That's gonna run up at about 5 knots.</Original>
@@ -1881,7 +1881,7 @@
           <Key ID="STR_A3_Showcase_SlingLoading_SITREP_text">
             <Original>FOB Whiskey, Central Altis</Original>
             <Chinese>Whiskey前線作戰基地，阿爾蒂斯中部</Chinese>
-            <Chinesesimp>Whiskey前进作战基地，阿尔蒂斯中部</Chinesesimp>
+            <Chinesesimp>Whiskey 前进作战基地，阿尔蒂斯中部</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_Titlecard">
             <Original>SHOWCASE: SLING LOADING - New transport helicopters, Sling Load Assistant, Logistical support</Original>
@@ -1911,7 +1911,7 @@
           <Key ID="STR_A3_Showcase_SlingLoading_FOBWhiskey">
             <Original>FOB Whiskey</Original>
             <Chinese>Whiskey前線作戰基地</Chinese>
-            <Chinesesimp>Whiskey前进作战基地</Chinesesimp>
+            <Chinesesimp>Whiskey 前进作战基地</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskAmmoLoad_title">
             <Original>Collect the Ammunition</Original>
@@ -1921,7 +1921,7 @@
           <Key ID="STR_A3_Showcase_SlingLoading_Briefing_Situation_text">
             <Original>We have successfully carried out phase two of our three-phase assault against joint AAF-CSAT forces stationed on Altis. The AAF have been split in two, with entire companies pulling back far to the north-east and south-east ends of the island. CSAT forces, on the other hand, seem to have disappeared entirely. &lt;br /&gt;&lt;br /&gt;However, logistics continue to present an obstacle. With phase two culminating in the seizure of the main airbase, along with several surrounding Forward Operating Bases (FOBs), we stand prepared to overcome this obstacle.</Original>
             <Chinese>在我們對付阿爾蒂斯武裝力量-廣協同盟聯軍的三階段步驟中，我們已經執行到了第二步驟。阿爾蒂斯武裝力量被一分為二，一隊撤往東北方，另一隊撤往東南方。而另一方面，廣協同盟部隊就像是完全消失一樣。&lt;br/&gt;&lt;br/&gt;然而，我們的後勤出現了點困難。在第二步驟的最後，我們控制住了主機場與周邊的前線作戰基地，導致我們的後勤補給分散，這必須是我們得想辦法克服的問題。</Chinese>
-            <Chinesesimp>在我们对付AAF-广协联军的三阶段步骤中，我们已经执行到了第二步骤。AAF被一分为二，整连地撤往东北方和东南方。另一方面，广协部队就像是完全消失一样。&lt;br/&gt;&lt;br/&gt;然而，我们的后勤出现了点困难。在第二步骤的最后，我们控制住了主机场与周边的前线作战基地，导致我们的后勤补给分散，这必须是我们得想办法克服的问题。</Chinesesimp>
+            <Chinesesimp>在我们对付 AAF-广协联军的三阶段步骤中，我们已经执行到了第二步骤。AAF 被一分为二，整连地撤往东北方和东南方。另一方面，广协部队就像是完全消失一样。&lt;br/&gt;&lt;br/&gt;然而，我们的后勤出现了点困难。在第二步骤的最后，我们控制住了主机场与周边的前线作战基地，导致我们的后勤补给分散，这必须是我们得想办法克服的问题。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskAmmoLoad_WP">
             <Original>COLLECT</Original>
@@ -1936,12 +1936,12 @@
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskGetIn_description">
             <Original>Board your CH-67 Huron as the Pilot.</Original>
             <Chinese>搭乘你的CH-67"休倫"並擔當駕駛。</Chinese>
-            <Chinesesimp>搭乘你的CH-67"休伦"并担当驾驶。</Chinesesimp>
+            <Chinesesimp>搭乘你的 CH-67"休伦"并担当驾驶。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_Briefing_Execution_text">
             <Original>1. Board your CH-67 Huron heavy transport helicopter. &lt;br /&gt;2. Collect the ammunition from %2the AAC airfield%1. &lt;br /&gt;3. Transport the ammunition to the %3artillery platoon%1. &lt;br /&gt;4. Return to %4FOB Whiskey%1 and land.</Original>
             <Chinese>1. 搭乘你的CH-67"休倫"重型運輸直升機。&lt;br/&gt;2. 吊掛在%2阿爾蒂斯空中俱樂部%1的彈藥。&lt;br/&gt;3. 運送彈藥前往%3火炮排%1那邊。&lt;br/&gt;4. 返回%4Whiskey前線作戰基地%1並降落。</Chinese>
-            <Chinesesimp>1. 搭乘你的CH-67"休伦"重型运输直升机。&lt;br/&gt;2. 吊挂在%2阿尔蒂斯空中俱乐部机场%1的弹药。&lt;br/&gt;3. 运送弹药前往%3自行火炮排%1那边。&lt;br/&gt;4. 返回%4Whiskey前线作战基地%1并降落。</Chinesesimp>
+            <Chinesesimp>1. 搭乘你的 CH-67"休伦"重型运输直升机。&lt;br/&gt;2. 吊挂在%2阿尔蒂斯空中俱乐部机场%1的弹药。&lt;br/&gt;3. 运送弹药前往%3自行火炮排%1那边。&lt;br/&gt;4. 返回%4Whiskey 前线作战基地%1并降落。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_Briefing_Intel_text">
             <Original>Weather: Clear with good visibility. &lt;br /&gt;Wind: West-to-East, 2-4m/s.</Original>
@@ -2031,12 +2031,12 @@
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskRTB_description">
             <Original>Return to %2FOB Whiskey%1 and land.</Original>
             <Chinese>返回%2Whiskey前線作戰基地%1並降落。</Chinese>
-            <Chinesesimp>返回%2Whiskey前进作战基地%1并降落。</Chinesesimp>
+            <Chinesesimp>返回%2Whiskey 前进作战基地%1并降落。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskRTB_title">
             <Original>Land at FOB Whiskey</Original>
             <Chinese>降落在Whiskey前線作戰基地</Chinese>
-            <Chinesesimp>降落在Whiskey前进作战基地</Chinesesimp>
+            <Chinesesimp>降落在 Whiskey 前进作战基地</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskRTB_WP">
             <Original>LAND</Original>
@@ -2103,7 +2103,7 @@
           <Key ID="STR_A3_TIME_TRIALS_DIARY_REC5_TEXT">
             <Original>There are several special Check Point features: timeouts, on-ground requirements and omni-directionality.&lt;br /&gt;&lt;br /&gt;Timeouts require you to keep your vehicle within the Check Point area until the timer runs out. This could be to force a hover or landing.&lt;br /&gt;&lt;br /&gt;Normal Check Points require you to fly through them from the front to the back. Some Check Points don't have this requirement and can be entered and exited from any direction.&lt;br /&gt;&lt;br /&gt;Some Check Points require you to be on the ground (landed). Note that you don't necessarily need to be standing still!</Original>
             <Chinese>以下有幾個特別的檢查點:計時，落地，指向性等檢查點。&lt;br/&gt;&lt;br/&gt;計時類的檢查點你必須把載具停在檢查點的感應範圍內直到檢定結束。你可以使用懸停或落地來達到此一條件。&lt;br/&gt;&lt;br/&gt;普通的檢查點你必須從進入點飛入，並從出口出來才算完成檢定。但有些檢查點並無方向的限制。&lt;br/&gt;&lt;br/&gt;有些檢查點需要你降落才算完成檢定。(但你並不一定需要完全等到停止不動)</Chinese>
-            <Chinesesimp>以下有几个特别的检查点:计时，落地，指向性等检查点。&lt;br/&gt;&lt;br/&gt;计时类的检查点你必须把载具停在检查点的感应范围内直到检定结束。你可以使用悬停或落地来达到此一条件。&lt;br/&gt;&lt;br/&gt;普通的检查点你必须从进入点飞入，并从出口出来才算完成检定。但有些检查点并无方向的限制。&lt;br/&gt;&lt;br/&gt;有些检查点需要你降落才算完成检定。(但你并不一定需要完全等到停止不动)</Chinesesimp>
+            <Chinesesimp>以下有几个特别的检查点:计时，落地，指向性等检查点。&lt;br/&gt;&lt;br/&gt;计时类的检查点你必须把载具停在检查点的感应范围内直到检定结束。你可以使用悬停或落地来达到此一条件。&lt;br/&gt;&lt;br/&gt;普通的检查点你必须从进入点飞入，并从出口出来才算完成检定。但有些检查点并无方向的限制。&lt;br/&gt;&lt;br/&gt;有些检查点需要你降落才算完成检定。（但你并不一定需要完全等到停止不动）</Chinesesimp>
           </Key>
           <Key ID="STR_A3_TIME_TRIALS_DIARY_REC5_TITLE">
             <Original>Helicopter Check Points</Original>
@@ -2235,12 +2235,12 @@
           <Key ID="str_a3_vr_heli_weapons_task4_title">
             <Original>Select DAR Missiles</Original>
             <Chinese>選擇對地飛彈(DAR)</Chinese>
-            <Chinesesimp>选择对地导弹(DAR)</Chinesesimp>
+            <Chinesesimp>选择对地导弹（DAR）</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_heli_weapons_task4_text">
             <Original>Select air-to-ground missiles (DAR).</Original>
             <Chinese>選擇對地飛彈(DAR)。</Chinese>
-            <Chinesesimp>选择对地导弹(DAR)。</Chinesesimp>
+            <Chinesesimp>选择对地导弹（DAR）。</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_heli_weapons_task3_title">
             <Original>Destroy 5 Targets</Original>
@@ -2265,12 +2265,12 @@
           <Key ID="str_a3_vr_heli_weapons_task1_title">
             <Original>Select DAGR Missiles</Original>
             <Chinese>選擇對地飛彈(DAGR)</Chinese>
-            <Chinesesimp>选择对地导弹(DAGR)</Chinesesimp>
+            <Chinesesimp>选择对地导弹（DAGR）</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_heli_weapons_task1_text">
             <Original>Order your gunner to select air-to-ground missiles (DAGR).</Original>
             <Chinese>命令你的槍手選擇對地飛彈(DAGR)。</Chinese>
-            <Chinesesimp>命令你的枪手选择对地导弹(DAGR)。</Chinesesimp>
+            <Chinesesimp>命令你的枪手选择对地导弹（DAGR）。</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_heli_weapons_stage4_title">
             <Original>Autocannon</Original>
@@ -2704,12 +2704,12 @@
           <Key ID="STR_A3_MP_GS_SC_02_Briefing_Situation_text">
             <Original>Having successfully routed the AAF, forcing them to retreat to the north-east and south-east corners of Altis, NATO forces prepare to deliver the final blow. However, the AAF are far from defeated. As NATO prepare to launch their assault from Delfinaki, the AAF are consolidating their forces around Molos in the hope of stopping NATO in their tracks.</Original>
             <Chinese>在成功擊退阿爾蒂斯武裝力量之後，阿爾蒂斯武裝力量撤退到阿爾蒂斯的東北與東南方的角落，而北約部隊正準備對他們發動最後一次總攻擊。然而，想要打敗阿爾蒂斯武裝力量還遠遠早的很。當北約正準備對澤爾菲納基發動攻擊之時，阿爾蒂斯武裝力量開始鞏固莫洛斯附近的防禦，期望半路攔截北約的部隊。</Chinese>
-            <Chinesesimp>在被迫退却后，AAF退守阿尔蒂斯岛东北与东南方的角落，而北约部队正准备对他们发动最后一次总攻击。然而，要打败AAF还远早的很。当北约部队正准备对泽尔菲纳基发动攻击之时，AAF开始在莫洛斯周边组织力量，企图半路拦截北约部队。</Chinesesimp>
+            <Chinesesimp>在被迫退却后，AAF 退守阿尔蒂斯岛东北与东南方的角落，而北约部队正准备对他们发动最后一次总攻击。然而，要打败 AAF 还远早的很。当北约部队正准备对泽尔菲纳基发动攻击之时，AAF 开始在莫洛斯周边组织力量，企图半路拦截北约部队。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_SC_02_Overview_text">
             <Original>Retreating AAF defend themselves from a NATO offensive.</Original>
             <Chinese>撤退中的阿爾蒂斯武裝力量必須抵禦住北約的攻勢。</Chinese>
-            <Chinesesimp>撤退中的AAF必须抵御住北约的攻势。</Chinesesimp>
+            <Chinesesimp>撤退中的 AAF 必须抵御住北约的攻势。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_SC_02_Load_name">
             <Original>Sofia</Original>
@@ -2751,12 +2751,12 @@
           <Key ID="STR_A3_MP_GS_SC_03_Briefing_Situation_text">
             <Original>For reasons that are, as of yet, unclear, AAF and CSAT forces have declared an immediate dissolution of their alliance and a commencement of hostilities. The capital of Altis, Pyrgos, remains a no-man's land, holding immense value to both sides. The AAF prepare to launch their assault from the north, while CSAT intend to counter from the south.</Original>
             <Chinese>不知為何，阿爾蒂斯武裝力量和廣協同盟突然宣布解除聯盟關係，並立即進入對立狀態。阿爾蒂斯的首都皮爾戈斯，仍然是塊無人之地，它的價值對兩邊陣營來說都是非常重要的。阿爾蒂斯武裝力量部隊打算從北方發動攻勢，同時廣協同盟也準備從南方發動攻擊。</Chinese>
-            <Chinesesimp>不知为何，AAF和广协突然宣布解除联盟关系，并立即进入对立状态。阿尔蒂斯的首府皮尔戈斯仍然是块无主之地，它的价值对两边阵营来说都是非常重要的。阿爾蒂斯武裝力量部队打算从北方发动攻势，同时广协也准备从南方发动攻击。</Chinesesimp>
+            <Chinesesimp>不知为何，AAF 和广协突然宣布解除联盟关系，并立即进入对立状态。阿尔蒂斯的首府皮尔戈斯仍然是块无主之地，它的价值对两边阵营来说都是非常重要的。阿爾蒂斯武裝力量部队打算从北方发动攻势，同时广协也准备从南方发动攻击。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_SC_03_Overview_text">
             <Original>CSAT-AAF relations have disintegrated. Both sides prepare to stake it all on Pyrgos, the capital.</Original>
             <Chinese>廣協同盟與阿爾蒂斯武裝力量的關係已經瓦解。兩邊都亟欲想獲得首都皮爾戈斯。</Chinese>
-            <Chinesesimp>广协与AAF的关系已经瓦解。两边都亟欲想获得首都皮尔戈斯。</Chinesesimp>
+            <Chinesesimp>广协与 AAF 的关系已经瓦解。两边都亟欲想获得首都皮尔戈斯。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_SC_03_Load_name">
             <Original>Pyrgos</Original>
@@ -2798,12 +2798,12 @@
           <Key ID="STR_A3_MP_GS_COOP_01_Briefing_Situation_text">
             <Original>Labelled an insurgency by the local government, the FIA have reveled in a string of victories against the AAF, seizing major ground in the process. The AAF have called upon CSAT for assistance. In response, elements of one of CSAT's elite Airborne Battalions have been deployed to the region to launch counter-insurgency operations against the FIA.</Original>
             <Chinese>當反叛軍自由獨立同盟正沉浸在對阿爾蒂斯武裝力量的勝利時。阿爾蒂斯武裝力量轉頭向廣協同盟請求協助。當作回應，廣協同盟的菁英空降營被部屬到該區，開始對自由獨立同盟執行反叛亂行動。</Chinese>
-            <Chinesesimp>正当FIA沉浸在对AAF的胜利中时。AAF向广协请求协助。作为回应，广协的精锐空降营被部属到该区，开始对FIA执行反叛乱行动。</Chinesesimp>
+            <Chinesesimp>正当 FIA 沉浸在对 AAF 的胜利中时。AAF 向广协请求协助。作为回应，广协的精锐空降营被部属到该区，开始对 FIA 执行反叛乱行动。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_COOP_01_Overview_text">
             <Original>Members of an elite CSAT Airborne Battalion launch an offensive against the FIA.</Original>
             <Chinese>廣協同盟的菁英空降營開始對自由獨立同盟發動攻勢。</Chinese>
-            <Chinesesimp>广协的精锐空降营开始对FIA发动攻势。</Chinesesimp>
+            <Chinesesimp>广协的精锐空降营开始对 FIA 发动攻势。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_COOP_01_Load_name">
             <Original>Rodopoli</Original>
@@ -2855,7 +2855,7 @@
           <Key ID="STR_A3_MP_GS_COOP_02_Briefing_Situation_text">
             <Original>Months after Task Force Aegis went dark, the 111th Division have successfully commenced their invasion of Stratis with the capture of the Stratis Air Base. However, the rest of the island remains under AAF control, with defenses strategically positioned at all major installations. As a result, the 111th are coming at them from the north-west, supported by the FIA from the south, with the intention of catching the AAF off-guard.</Original>
             <Chinese>在”神盾"特遣隊失聯後一個月，第111師成功登陸了斯特拉蒂斯島並控制住上面的空軍基地。然而島上的其餘部分還是被阿爾蒂斯武裝力量控制住，包括主要的設施都被嚴密的保護著。為此，第111師打算從西北方發動攻勢，並在南方自由獨立同盟的幫助之下，希望能打的阿爾蒂斯武裝力量一個措手不及。</Chinese>
-            <Chinesesimp>在"宙斯盾"特遣队失联后一个月，第111师成功在斯特拉蒂斯岛实施登陆并控制了岛上的空军基地。然而岛上的其余部分还在AAF手中，其防御主要围绕各重点设施展开。为此，第111师打算从西北方发动攻势，并在南方FIA的帮助之下，希望能给AAF一个措手不及。</Chinesesimp>
+            <Chinesesimp>在"宙斯盾"特遣队失联后一个月，第111师成功在斯特拉蒂斯岛实施登陆并控制了岛上的空军基地。然而岛上的其余部分还在 AAF 手中，其防御主要围绕各重点设施展开。为此，第111师打算从西北方发动攻势，并在南方 FIA 的帮助之下，希望能给 AAF 一个措手不及。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_COOP_02_Overview_text">
             <Original>The 111th Division launch their invasion of Stratis.</Original>
@@ -3418,7 +3418,7 @@
         <Key ID="str_a3_mp_groundsupport_hints_transport_request_main_text">
           <Original>A transport request was registered and a new task was added. To complete the task, land close to the group leader and wait until the group gets in. Afterwards, transport the group to the designated sector (marked by the waypoint) %3OR%4 any other sector that is not under our control.</Original>
           <Chinese>收到一個新的運輸請求，該任務已被新增。前往指定地點接送隊伍。然後運輸部隊前往指定的佔領區(已標記在路徑點上)，%3或者%4其他任一個不是我們佔領的佔領區。</Chinese>
-          <Chinesesimp>收到一个新的运输请求，该任务已被新增。前往指定地点接送队伍。然后运输部队前往指定的占领区(已标记在路径点上)，%3或者%4其他任一个不是我们占领的占领区。</Chinesesimp>
+          <Chinesesimp>收到一个新的运输请求，该任务已被新增。前往指定地点接送队伍。然后运输部队前往指定的占领区（已标记在路径点上），%3或者%4其他任一个不是我们占领的占领区。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_hints_transport_request_xtra_text">
           <Original>This is the most common task. It has lower priority then the other tasks as the units can reach their destinations unassisted. Although, transport logistics can be of high tactical significance.</Original>

@@ -319,12 +319,12 @@
           <Key ID="STR_A3_MP_ZR_8_Karts01_briefingName_short">
             <Original>Race on Altis (Karts)</Original>
             <Chinese>阿爾蒂斯賽車(卡丁車)</Chinese>
-            <Chinesesimp>阿尔蒂斯赛车(卡丁车)</Chinesesimp>
+            <Chinesesimp>阿尔蒂斯赛车（卡丁车）</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_ZR_8_Karts01_briefingName">
             <Original>Zeus 8+1 Race on Altis (Karts)</Original>
             <Chinese>宙斯8+1阿爾蒂斯賽車(卡丁車)</Chinese>
-            <Chinesesimp>宙斯8+1阿尔蒂斯赛车(卡丁车)</Chinesesimp>
+            <Chinesesimp>宙斯8+1阿尔蒂斯赛车（卡丁车）</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_ZR_8_Karts01_obj02_text">
             <Original>Set up the race. When you're satisfied with the Check Points, place the 'Race - Finish' Objective to start the race.</Original>
@@ -351,12 +351,12 @@
           <Key ID="STR_A3_MP_ZR_8_Karts02_briefingName_short">
             <Original>Race on Stratis (Karts)</Original>
             <Chinese>斯特拉蒂斯賽車(卡丁車)</Chinese>
-            <Chinesesimp>斯特拉蒂斯赛车(卡丁车)</Chinesesimp>
+            <Chinesesimp>斯特拉蒂斯赛车（卡丁车）</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_ZR_8_Karts02_briefingName">
             <Original>Zeus 8+1 Race on Stratis (Karts)</Original>
             <Chinese>宙斯8+1斯特拉蒂斯賽車(卡丁車)</Chinese>
-            <Chinesesimp>宙斯8+1斯特拉蒂斯赛车(卡丁车)</Chinesesimp>
+            <Chinesesimp>宙斯8+1斯特拉蒂斯赛车（卡丁车）</Chinesesimp>
           </Key>
         </Container>
       </Container>

@@ -479,7 +479,7 @@
             <Key ID="str_a3_exp_m04_sp_051_lostcomms_grm_0">
               <Original>My GPS is out, we're being jammed!</Original>
               <Chinese>我的GPS沒有畫面了，我們的訊號正在被干擾!</Chinese>
-              <Chinesesimp>我的GPS没有画面了，我们被干扰了!</Chinesesimp>
+              <Chinesesimp>我的 GPS 没有画面了，我们被干扰了!</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_sp_051_lostcomms_rik_0">
               <Original>Say again, over.</Original>
@@ -564,7 +564,7 @@
           <Key ID="str_a3_showcase_vtol_tsk_pilots_desc">
             <Original>Find Lion 5, a downed To-199 Neophron pilot. He should be %2somewhere in the vicinity of Vagalala%1. Look for a red smoke signal and land nearby. &lt;br /&gt;&lt;br /&gt;Exercise caution, as the enemy will be searching for Lion 5 as well. Try to make the CSAR as fast as possible - we won't have anyone available to search for you, if you suffer a similar fate...</Original>
             <Chinese>找到"獅子5"，他是一名To-199"禿鷲"攻擊機的飛行員。他應該在%2瓦加拉拉的附近%1. 找到紅色煙霧並降落在旁邊。&lt;br/&gt;&lt;br/&gt;你們要小心，敵人也正在尋找"獅子5"。請盡快搜索並救出他-我們沒有任何餘力能幫你進行搜索。</Chinese>
-            <Chinesesimp>找到"狮子5"，他是一名To-199"秃鹫"攻击机的飞行员。他应该在%2瓦加拉拉附近%1. 找到红色烟雾并降落在旁边。&lt;br/&gt;&lt;br/&gt;你们要小心，敌人也正在寻找"狮子5"。请尽快搜索并救出他-我们没有任何余力能帮你进行搜索。</Chinesesimp>
+            <Chinesesimp>找到"狮子5"，他是一名 To-199"秃鹫"攻击机的飞行员。他应该在%2瓦加拉拉附近%1. 找到红色烟雾并降落在旁边。&lt;br/&gt;&lt;br/&gt;你们要小心，敌人也正在寻找"狮子5"。请尽快搜索并救出他-我们没有任何余力能帮你进行搜索。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vtol_tsk_pickup_title">
             <Original>Load Rhino 3</Original>
@@ -589,7 +589,7 @@
           <Key ID="str_a3_showcase_vtol_tsk_maintenance_title">
             <Original>Maintenance (optional)</Original>
             <Chinese>維修補給(可選)</Chinese>
-            <Chinesesimp>维修补给(可选)</Chinesesimp>
+            <Chinesesimp>维修补给（可选）</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vtol_tsk_maintenance_desc">
             <Original>Land at the airport and follow the %2maintenance%1 procedure to repair, refuel and rearm your VTOL.</Original>
@@ -599,17 +599,17 @@
           <Key ID="str_a3_showcase_vtol_tsk_ifvs_title">
             <Original>Destroy Enemy IFVs (optional)</Original>
             <Chinese>摧毀敵人的步兵戰車(可選)</Chinese>
-            <Chinesesimp>摧毁敌人的步兵战车(可选)</Chinesesimp>
+            <Chinesesimp>摧毁敌人的步兵战车（可选）</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vtol_tsk_ifvs_desc">
             <Original>NATO has the upper hand when it comes to armored combat vehicles - our Marids are no match for their AMV-7s and 40mm cannons. Locate and destroy at least two of them to improve the strategic situation on the ground and elevate the morale of our troops. &lt;br /&gt;&lt;br /&gt;Locations: &lt;br /&gt;%2Sugarcane factory%1 - one confirmed, another possible &lt;br /&gt;%3Harcourt%1 - one damaged during an assault on the city &lt;br /&gt;%4Georgetown%1 - one spotted near the harbor, but it might have relocated &lt;br /&gt;&lt;br /&gt;Take great care when you deal with these IFVs - their FCS can easily track low and slow-flying aircraft.</Original>
             <Chinese>北約在裝甲車的質量上佔有優勢，我們的"馬里德"裝甲運兵車無法應付他們AMV-7的40公厘火炮。尋找並摧毀至少兩輛敵人的AMV-7，這可以有效增加我軍地面部隊的士氣與戰術優勢。&lt;br/&gt;&lt;br/&gt;地點:&lt;br/&gt;%2甘蔗工廠%1-確認至少有一臺，可能還有另外一臺&lt;br/&gt;%3哈爾庫爾%1-附近有一臺在進攻城市的行動中受損的步兵戰車&lt;br/&gt;%4Georgetown%1-有一臺被發現在港口附近，但他很有可能已經移動位置了&lt;br/&gt;&lt;br/&gt;在你應付這些步兵戰車時要小心，他們的火控系統能有效追蹤並打擊低空低速的飛行載具。</Chinese>
-            <Chinesesimp>北约在装甲车的质量上占有优势，我们的"马里德"装甲运兵车无法应付他们AMV-7的40mm 火炮。寻找并摧毁至少两辆敌人的AMV-7，这可以有效增加我军地面部队的士气与战术优势。&lt;br/&gt;&lt;br/&gt;地点:&lt;br/&gt;%2甘蔗工厂%1-确认至少有一台，可能还有另外一台&lt;br/&gt;%3哈尔库尔%1-附近有一台在进攻城市的行动中受损的步兵战车&lt;br/&gt;%4Georgetown%1-有一台被发现在港口附近，但他很有可能已经移动位置了&lt;br/&gt;&lt;br/&gt;在你应付这些步兵战车时要小心，他们的火控系统能有效追踪并打击低空低速的飞行载具。</Chinesesimp>
+            <Chinesesimp>北约在装甲车的质量上占有优势，我们的"马里德"装甲运兵车无法应付他们 AMV-7的40mm 火炮。寻找并摧毁至少两辆敌人的 AMV-7，这可以有效增加我军地面部队的士气与战术优势。&lt;br/&gt;&lt;br/&gt;地点:&lt;br/&gt;%2甘蔗工厂%1-确认至少有一台，可能还有另外一台&lt;br/&gt;%3哈尔库尔%1-附近有一台在进攻城市的行动中受损的步兵战车&lt;br/&gt;%4Georgetown%1-有一台被发现在港口附近，但他很有可能已经移动位置了&lt;br/&gt;&lt;br/&gt;在你应付这些步兵战车时要小心，他们的火控系统能有效追踪并打击低空低速的飞行载具。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vtol_tsk_gunship_title">
             <Original>Destroy Attack Heli (optional)</Original>
             <Chinese>摧毀攻擊直升機(可選)</Chinese>
-            <Chinesesimp>摧毁攻击直升机(可选)</Chinesesimp>
+            <Chinesesimp>摧毁攻击直升机（可选）</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vtol_tsk_gunship_desc">
             <Original>Shoot down the enemy attack helicopter. Or else, attempt to lure it towards our own anti-air defences.</Original>
@@ -2705,7 +2705,7 @@
           <Key ID="str_a3_exp_m06_missiontitle">
             <Original>Apex Protocol</Original>
             <Chinese>頂尖協議</Chinese>
-            <Chinesesimp>Apex协议</Chinesesimp>
+            <Chinesesimp>Apex 协议</Chinesesimp>
           </Key>
           <Container name="x20_Drone_Info" audioFilePath="\a3\dubbing_f_exp\exp_m06" dialogName="x20_Drone_Info" dubbingLanguage="english" namePrefix="exp_m06_x20_drone_info" note="" participants="EXC B Miller;" situation="miller still relays the information about the drones">
             <Key ID="str_a3_exp_m06_x20_drone_info_mil_0">
@@ -4104,7 +4104,7 @@
           <Key ID="str_a3_exp_m02_tasks_bis_exfil_description">
             <Original>Board the UH-80 Ghosthawk %2at the LZ%1 and exfil from the AO.</Original>
             <Chinese>在%2降落點%1搭乘UH-80"鬼鷹"運輸直升機並撤離戰場。</Chinese>
-            <Chinesesimp>在%2降落点%1搭乘UH-80"幽灵鹰"运输直升机并撤离战场。</Chinesesimp>
+            <Chinesesimp>在%2降落点%1搭乘 UH-80"幽灵鹰"运输直升机并撤离战场。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m02_tasks_bis_ambush_title">
             <Original>Ambush the Convoy</Original>
@@ -4500,7 +4500,7 @@
             <Key ID="str_a3_exp_m02_b01_tanoasituation_aan_1">
               <Original>AAN's Mark Cole is in the region with this special report.</Original>
               <Chinese>接下來請看AAN世界新聞馬克·科爾為您在這個國家所帶來的特別報導。</Chinese>
-              <Chinesesimp>接下来请看AAN世界新闻马克·科尔为您在这个国家所带来的特别报导。</Chinesesimp>
+              <Chinesesimp>接下来请看 AAN 世界新闻马克·科尔为您在这个国家所带来的特别报导。</Chinesesimp>
             </Key>
           </Container>
           <Container name="95_Search_Wreck" audioFilePath="\a3\dubbing_f_exp\exp_m02" dialogName="95_Search_Wreck" dubbingLanguage="english" namePrefix="exp_m02_95_search_wreck" note="" participants="EXC B Riker;" situation="players ordered to investigate a weapons cache">
@@ -5800,7 +5800,7 @@
           <Key ID="str_a3_exp_m07_taskevactext">
             <Original>Move to the extraction point and board the UH-80 Ghosthawk.</Original>
             <Chinese>移動到撤離點並搭乘UH-80"鬼鷹"運輸直升機。</Chinese>
-            <Chinesesimp>移动到撤离点并搭乘UH-80"幽灵鹰"运输直升机。</Chinesesimp>
+            <Chinesesimp>移动到撤离点并搭乘 UH-80"幽灵鹰"运输直升机。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m07_taskdisarmtitle">
             <Original>Disarm the Eastwind Device</Original>
@@ -5985,7 +5985,7 @@
           <Key ID="str_a3_exp_m07_end01">
             <Original>As a direct result of the extensive efforts of CTRG, CSAT's Apex Protocol was exposed to the world. With the fragile alliance now on the brink of collapse, the world is slowly returning to the status quo.</Original>
             <Chinese>由於戰研小組的努力不懈，使得廣協同盟的頂尖協議被公諸於世。在這個脆弱的組織走向滅亡之際，世界也終於重新走向和平。</Chinese>
-            <Chinesesimp>由于战研大队的努力不懈，使得广协的Apex协议被公诸于世。在这个脆弱的组织走向灭亡之际，世界也终于重新走向和平。</Chinesesimp>
+            <Chinesesimp>由于战研大队的努力不懈，使得广协的 Apex 协议被公诸于世。在这个脆弱的组织走向灭亡之际，世界也终于重新走向和平。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m07_callsignwatchtower">
             <Original>Watchtower</Original>
@@ -6297,7 +6297,7 @@
             <Key ID="str_a3_exp_m07_o01_apexsoundbite_revelation_aan_1">
               <Original>Documents seen by AAN investigative journalists - the so-called 'Apex Protocol Papers' - have exposed a global network of illegal CSAT operations.</Original>
               <Chinese>AAN的調查記者看到了一份文件-一份叫做'頂尖協議書'的文件-披露了廣協同盟在世界上各種違法的行動。</Chinese>
-              <Chinesesimp>AAN的调查记者看到了一份文件-一份叫做'Apex协议'的文件-披露了广协的全球非法活动网络。</Chinesesimp>
+              <Chinesesimp>AAN 的调查记者看到了一份文件-一份叫做'Apex 协议'的文件-披露了广协的全球非法活动网络。</Chinesesimp>
             </Key>
           </Container>
           <Container name="b30_SilentStrike" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="b30_SilentStrike" dubbingLanguage="english" namePrefix="exp_m07_b30_silentstrike" note="" participants="EXC B CTRG Commander;EXC B SOF Liaison;EXC B Miller MIL;" situation="commander reveals syndikat plan">
@@ -6496,7 +6496,7 @@
             <Key ID="str_a3_exp_m07_b05_basilexposition_com_2">
               <Original>This strategy - the so-called 'Apex Protocol' - it's a pretext for CSAT diplomats, special advisors - even peacekeeping forces - to deploy.</Original>
               <Chinese>這個戰略-他們稱之為'頂尖協議'-用來當作所有外交官，特別顧問-甚至是維和部隊的佈署藉口。</Chinese>
-              <Chinesesimp>这个战略-他们称之为'Apex协议'-用来当作所有外交官，特别顾问-甚至是维和部队的布署借口。</Chinesesimp>
+              <Chinesesimp>这个战略-他们称之为'Apex 协议'-用来当作所有外交官，特别顾问-甚至是维和部队的布署借口。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_b05_basilexposition_com_3">
               <Original>Correct. Grooming a network of pro-CSAT governments.</Original>
@@ -8127,49 +8127,49 @@
           <Key ID="STR_A3_MasterTanoaB_loadName">
             <Original>Master Tanoa (NATO)</Original>
             <Chinese>主宰塔諾亞(北約)</Chinese>
-            <Chinesesimp>主宰塔诺亚(北约)</Chinesesimp>
+            <Chinesesimp>主宰塔诺亚（北约）</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MasterTanoaB_missionName">
             <Original>Zeus 16+2 Master Tanoa (NATO)</Original>
             <Chinese>宙斯16+2主宰塔諾亞(北約)</Chinese>
-            <Chinesesimp>宙斯16+2主宰塔诺亚(北约)</Chinesesimp>
+            <Chinesesimp>宙斯16+2主宰塔诺亚（北约）</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MasterTanoaO_missionName">
             <Original>Zeus 16+2 Master Tanoa (CSAT)</Original>
             <Chinese>宙斯16+2主宰塔諾亞(廣協同盟)</Chinese>
-            <Chinesesimp>宙斯16+2主宰塔诺亚(广协)</Chinesesimp>
+            <Chinesesimp>宙斯16+2主宰塔诺亚（广协）</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MasterTanoaI_loadName">
             <Original>Master Tanoa (Syndikat)</Original>
             <Chinese>主宰塔諾亞(辛迪加)</Chinese>
-            <Chinesesimp>主宰塔诺亚(辛迪加)</Chinesesimp>
+            <Chinesesimp>主宰塔诺亚（辛迪加）</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MasterTanoaO_loadName">
             <Original>Master Tanoa (CSAT)</Original>
             <Chinese>主宰塔諾亞(廣協同盟)</Chinese>
-            <Chinesesimp>主宰塔诺亚(广协)</Chinesesimp>
+            <Chinesesimp>主宰塔诺亚（广协）</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MasterTanoaI_missionName">
             <Original>Zeus 16+2 Master Tanoa (Syndikat)</Original>
             <Chinese>宙斯16+2主宰塔諾亞(辛迪加)</Chinese>
-            <Chinesesimp>宙斯16+2主宰塔诺亚(辛迪加)</Chinesesimp>
+            <Chinesesimp>宙斯16+2主宰塔诺亚（辛迪加）</Chinesesimp>
           </Key>
         </Container>
         <Container name="EscapeFromTanoa">
           <Key ID="str_a3_escape_param_respawnloadouts03">
             <Original>Survivor (25% ammo, no optics)</Original>
             <Chinese>倖存者(25%彈藥，無瞄準鏡)</Chinese>
-            <Chinesesimp>幸存者(25%弹药，无瞄准镜)</Chinesesimp>
+            <Chinesesimp>幸存者（25%弹药，无瞄准镜）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_respawnloadouts02">
             <Original>Limited (50% ammo, limited equipment)</Original>
             <Chinese>限制(50%彈藥，有限的裝備)</Chinese>
-            <Chinesesimp>限制(50%弹药，有限的装备)</Chinesesimp>
+            <Chinesesimp>限制（50%弹药，有限的装备）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_respawnloadouts01">
             <Original>Standard (100% ammo, full equipment)</Original>
             <Chinese>標準(100%彈藥，完整的裝備)</Chinese>
-            <Chinesesimp>标准(100%弹药，完整的装备)</Chinesesimp>
+            <Chinesesimp>标准（100%弹药，完整的装备）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_respawnloadouts">
             <Original>Respawn loadouts</Original>
@@ -8179,62 +8179,62 @@
           <Key ID="str_a3_escape_param_respawnindividual10">
             <Original>10 (for each player)</Original>
             <Chinese>10(玩家各自計算)</Chinese>
-            <Chinesesimp>10(玩家各自计算)</Chinesesimp>
+            <Chinesesimp>10（玩家各自计算）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_respawnindividual05">
             <Original>5 (for each player)</Original>
             <Chinese>5(玩家各自計算)</Chinese>
-            <Chinesesimp>5(玩家各自计算)</Chinesesimp>
+            <Chinesesimp>5（玩家各自计算）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_respawnindividual04">
             <Original>4 (for each player)</Original>
             <Chinese>4(玩家各自計算)</Chinese>
-            <Chinesesimp>4(玩家各自计算)</Chinesesimp>
+            <Chinesesimp>4（玩家各自计算）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_respawnindividual03">
             <Original>3 (for each player)</Original>
             <Chinese>3(玩家各自計算)</Chinese>
-            <Chinesesimp>3(玩家各自计算)</Chinesesimp>
+            <Chinesesimp>3（玩家各自计算）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_respawnindividual02">
             <Original>2 (for each player)</Original>
             <Chinese>2(玩家各自計算)</Chinese>
-            <Chinesesimp>2(玩家各自计算)</Chinesesimp>
+            <Chinesesimp>2（玩家各自计算）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_respawnindividual01">
             <Original>1 (for each player)</Original>
             <Chinese>1(玩家各自計算)</Chinese>
-            <Chinesesimp>1(玩家各自计算)</Chinesesimp>
+            <Chinesesimp>1（玩家各自计算）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_respawngroup50">
             <Original>50 (for group)</Original>
             <Chinese>50(全隊共用)</Chinese>
-            <Chinesesimp>50(全队共用)</Chinesesimp>
+            <Chinesesimp>50（全队共用）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_respawngroup40">
             <Original>40 (for group)</Original>
             <Chinese>40(全隊共用)</Chinese>
-            <Chinesesimp>40(全队共用)</Chinesesimp>
+            <Chinesesimp>40（全队共用）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_respawngroup30">
             <Original>30 (for group)</Original>
             <Chinese>30(全隊共用)</Chinese>
-            <Chinesesimp>30(全队共用)</Chinesesimp>
+            <Chinesesimp>30（全队共用）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_respawngroup20">
             <Original>20 (for group)</Original>
             <Chinese>20(全隊共用)</Chinese>
-            <Chinesesimp>20(全队共用)</Chinesesimp>
+            <Chinesesimp>20（全队共用）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_respawngroup100">
             <Original>100 (for group)</Original>
             <Chinese>100(全隊共用)</Chinese>
-            <Chinesesimp>100(全队共用)</Chinesesimp>
+            <Chinesesimp>100（全队共用）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_respawngroup10">
             <Original>10 (for group)</Original>
             <Chinese>10(全隊共用)</Chinese>
-            <Chinesesimp>10(全队共用)</Chinesesimp>
+            <Chinesesimp>10（全队共用）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_fubarstay">
             <Original>Stay inside</Original>
@@ -8254,7 +8254,7 @@
           <Key ID="str_a3_escape_param_enemysupportson">
             <Original>Enabled (artillery and air support)</Original>
             <Chinese>啟用(火炮與空中支援)</Chinese>
-            <Chinesesimp>启用(火炮与空中支援)</Chinesesimp>
+            <Chinesesimp>启用（火炮与空中支援）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_enemysupports">
             <Original>Enemy supports</Original>
@@ -8264,12 +8264,12 @@
           <Key ID="str_a3_escape_param_enemyequipment02">
             <Original>Limited (limited ammo and equipment)</Original>
             <Chinese>限制(限制彈藥與裝備)</Chinese>
-            <Chinesesimp>限制(限制弹药与装备)</Chinesesimp>
+            <Chinesesimp>限制（限制弹药与装备）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_enemyequipment01">
             <Original>Standard (full ammo and equipment)</Original>
             <Chinese>標準(完整的彈藥與裝備)</Chinese>
-            <Chinesesimp>标准(完整的弹药与装备)</Chinesesimp>
+            <Chinesesimp>标准（完整的弹药与装备）</Chinesesimp>
           </Key>
           <Key ID="str_a3_escape_param_enemyequipment">
             <Original>Enemy equipment</Original>
@@ -8565,12 +8565,12 @@
       <Key ID="STR_A3_CoopCampaignName">
         <Original>Apex Protocol</Original>
         <Chinese>頂尖協議</Chinese>
-        <Chinesesimp>Apex协议</Chinesesimp>
+        <Chinesesimp>Apex 协议</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CoopCampaignOverview">
         <Original>Take on the role of a NATO CTRG special operator in the 1-4 player "Apex Protocol" co-op campaign. It consists of highly replayable missions, featuring a drop-in / drop-out multiplayer structure, and the difficulty scales up or down based on the number of players.</Original>
         <Chinese>為您帶來全新的1-4人"頂尖協議"合作戰役，你將擔當北約的戰研小組特種部隊的一員。這系列任務具有高度重玩性，中途加入/離開的多人遊戲架構，以及隨著參與人數而自動調整難易度的系統。</Chinese>
-        <Chinesesimp>为您带来全新的1-4人"Apex协议"合作战役，你将担当北约的战研大队特种部队的一员。这系列任务具有高度重玩性，中途加入/离开的多人游戏架构，以及随着参与人数而自动调整难易度的系统。</Chinesesimp>
+        <Chinesesimp>为您带来全新的1-4人"Apex 协议"合作战役，你将担当北约的战研大队特种部队的一员。这系列任务具有高度重玩性，中途加入/离开的多人游戏架构，以及随着参与人数而自动调整难易度的系统。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_exp_briefing_CTRGVideo">
         <Original>CTRG // VIDEO /</Original>

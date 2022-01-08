@@ -7,290 +7,290 @@
         <Key ID="str_a3_cfgvehicles_land_bargate_01_open_f0">
           <Original>Bar Gate (Open)</Original>
           <Chinese>檢查哨閘門(開啟)</Chinese>
-          <Chinesesimp>检查哨闸门(开启)</Chinesesimp>
+          <Chinesesimp>检查哨闸门（开启）</Chinesesimp>
         </Key>
         <Container name="City">
           <Key ID="str_a3_land_wallcity_01_pillar_yellow_f0">
             <Original>City Wall (Pillar, Yellow &amp; White)</Original>
             <Chinese>城市牆壁(支柱，黃色&amp;白色)</Chinese>
-            <Chinesesimp>城市墙壁(支柱，黄色&amp;白色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（支柱，黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_pillar_whiteblue_f0">
             <Original>City Wall (Pillar, White &amp; Blue)</Original>
             <Chinese>城市牆壁(支柱，白色&amp;藍色)</Chinese>
-            <Chinesesimp>城市墙壁(支柱，白色&amp;蓝色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（支柱，白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_pillar_plain_dmg_yellow_f0">
             <Original>Wall (Pillar, Yellow &amp; White)</Original>
             <Chinese>牆壁(支柱，黃色&amp;白色)</Chinese>
-            <Chinesesimp>墙壁(支柱，黄色&amp;白色)</Chinesesimp>
+            <Chinesesimp>墙壁（支柱，黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_pillar_plain_dmg_whiteblue_f0">
             <Original>Wall (Pillar, White &amp; Blue)</Original>
             <Chinese>牆壁(支柱，白色&amp;藍色)</Chinese>
-            <Chinesesimp>墙壁(支柱，白色&amp;蓝色)</Chinesesimp>
+            <Chinesesimp>墙壁（支柱，白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_pillar_plain_dmg_pink_f0">
             <Original>Wall (Pillar, Pink)</Original>
             <Chinese>牆壁(支柱，粉紅色)</Chinese>
-            <Chinesesimp>墙壁(支柱，粉红色)</Chinesesimp>
+            <Chinesesimp>墙壁（支柱，粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_pillar_plain_dmg_grey_f0">
             <Original>Wall (Pillar, Grey)</Original>
             <Chinese>牆壁(支柱，灰色)</Chinese>
-            <Chinesesimp>墙壁(支柱，灰色)</Chinesesimp>
+            <Chinesesimp>墙壁（支柱，灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_pillar_plain_dmg_blue_f0">
             <Original>Wall (Pillar, Blue)</Original>
             <Chinese>牆壁(支柱，藍色)</Chinese>
-            <Chinesesimp>墙壁(支柱，蓝色)</Chinesesimp>
+            <Chinesesimp>墙壁（支柱，蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_pillar_pink_f0">
             <Original>City Wall (Pillar, Pink)</Original>
             <Chinese>城市牆壁(支柱，粉紅色)</Chinese>
-            <Chinesesimp>城市墙壁(支柱，粉红色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（支柱，粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_pillar_grey_f0">
             <Original>City Wall (Pillar, Grey)</Original>
             <Chinese>城市牆壁(支柱，灰色)</Chinese>
-            <Chinesesimp>城市墙壁(支柱，灰色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（支柱，灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_pillar_blue_f0">
             <Original>City Wall (Pillar, Blue)</Original>
             <Chinese>城市牆壁(支柱，藍色)</Chinese>
-            <Chinesesimp>城市墙壁(支柱，蓝色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（支柱，蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_gate_yellow_f0">
             <Original>City Wall (Gate, Yellow &amp; White)</Original>
             <Chinese>城市牆壁(門，黃色&amp;白色)</Chinese>
-            <Chinesesimp>城市墙壁(门，黄色&amp;白色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（门，黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_gate_whiteblue_f0">
             <Original>City Wall (Gate, White &amp; Blue)</Original>
             <Chinese>城市牆壁(門，白色&amp;藍色)</Chinese>
-            <Chinesesimp>城市墙壁(门，白色&amp;蓝色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（门，白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_gate_pink_f0">
             <Original>City Wall (Gate, Pink)</Original>
             <Chinese>城市牆壁(門，粉紅色)</Chinese>
-            <Chinesesimp>城市墙壁(门，粉红色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（门，粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_gate_grey_f0">
             <Original>City Wall (Gate, Grey)</Original>
             <Chinese>城市牆壁(門，灰色)</Chinese>
-            <Chinesesimp>城市墙壁(门，灰色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（门，灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_gate_blue_f0">
             <Original>City Wall (Gate, Blue)</Original>
             <Chinese>城市牆壁(門，藍色)</Chinese>
-            <Chinesesimp>城市墙壁(门，蓝色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（门，蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_8m_yellow_f0">
             <Original>City Wall (Long, Yellow &amp; White)</Original>
             <Chinese>城市牆壁(長，黃色&amp;白色)</Chinese>
-            <Chinesesimp>城市墙壁(长，黄色&amp;白色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（长，黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_8m_whiteblue_f0">
             <Original>City Wall (Long, White &amp; Blue)</Original>
             <Chinese>城市牆壁(長，白色&amp;藍色)</Chinese>
-            <Chinesesimp>城市墙壁(长，白色&amp;蓝色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（长，白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_8m_plain_yellow_f0">
             <Original>Wall (Long, Yellow &amp; White)</Original>
             <Chinese>牆壁(長，黃色&amp;白色)</Chinese>
-            <Chinesesimp>墙壁(长，黄色&amp;白色)</Chinesesimp>
+            <Chinesesimp>墙壁（长，黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_8m_plain_whiteblue_f0">
             <Original>Wall (Long, White &amp; Blue)</Original>
             <Chinese>牆壁(長，白色&amp;藍色)</Chinese>
-            <Chinesesimp>墙壁(长，白色&amp;蓝色)</Chinesesimp>
+            <Chinesesimp>墙壁（长，白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_8m_plain_pink_f0">
             <Original>Wall (Long, Pink)</Original>
             <Chinese>牆壁(長，粉紅色)</Chinese>
-            <Chinesesimp>墙壁(长，粉红色)</Chinesesimp>
+            <Chinesesimp>墙壁（长，粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_8m_plain_grey_f0">
             <Original>Wall (Long, Grey)</Original>
             <Chinese>牆壁(長，灰色)</Chinese>
-            <Chinesesimp>墙壁(长，灰色)</Chinesesimp>
+            <Chinesesimp>墙壁（长，灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_8m_plain_blue_f0">
             <Original>Wall (Long, Blue)</Original>
             <Chinese>牆壁(長，藍色)</Chinese>
-            <Chinesesimp>墙壁(长，蓝色)</Chinesesimp>
+            <Chinesesimp>墙壁（长，蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_8m_pink_f0">
             <Original>City Wall (Long, Pink)</Original>
             <Chinese>城市牆壁(長，粉紅色)</Chinese>
-            <Chinesesimp>城市墙壁(长，粉红色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（长，粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_8m_grey_f0">
             <Original>City Wall (Long, Grey)</Original>
             <Chinese>城市牆壁(長，灰色)</Chinese>
-            <Chinesesimp>城市墙壁(长，灰色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（长，灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_8m_dmg_yellow_f0">
             <Original>City Wall (Long, Destroyed, Yellow &amp; White)</Original>
             <Chinese>城市牆壁(長，損毀，黃色&amp;白色)</Chinese>
-            <Chinesesimp>城市墙壁(长，损毁，黄色&amp;白色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（长，损毁，黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_8m_dmg_whiteblue_f0">
             <Original>City Wall (Long, Destroyed, White &amp; Blue)</Original>
             <Chinese>城市牆壁(長，損毀，白色&amp;藍色)</Chinese>
-            <Chinesesimp>城市墙壁(长，损毁，白色&amp;蓝色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（长，损毁，白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_8m_dmg_pink_f0">
             <Original>City Wall (Long, Destroyed, Pink)</Original>
             <Chinese>城市牆壁(長，損毀，粉紅色)</Chinese>
-            <Chinesesimp>城市墙壁(长，损毁，粉红色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（长，损毁，粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_8m_dmg_grey_f0">
             <Original>City Wall (Long, Destroyed, Grey)</Original>
             <Chinese>城市牆壁(長，損毀，灰色)</Chinese>
-            <Chinesesimp>城市墙壁(长，损毁，灰色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（长，损毁，灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_8m_dmg_blue_f0">
             <Original>City Wall (Long, Destroyed, Blue)</Original>
             <Chinese>城市牆壁(長，損毀，藍色)</Chinese>
-            <Chinesesimp>城市墙壁(长，损毁，蓝色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（长，损毁，蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_8m_blue_f0">
             <Original>City Wall (Long, Blue)</Original>
             <Chinese>城市牆壁(長，藍色)</Chinese>
-            <Chinesesimp>城市墙壁(长，蓝色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（长，蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_4m_yellow_f0">
             <Original>City Wall (Yellow &amp; White)</Original>
             <Chinese>城市牆壁(黃色&amp;白色)</Chinese>
-            <Chinesesimp>城市墙壁(黄色&amp;白色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_4m_whiteblue_f0">
             <Original>City Wall (White &amp; Blue)</Original>
             <Chinese>城市牆壁(白色&amp;藍色)</Chinese>
-            <Chinesesimp>城市墙壁(白色&amp;蓝色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_4m_plain_yellow_f0">
             <Original>Wall (Yellow &amp; White)</Original>
             <Chinese>牆壁(黃色&amp;白色)</Chinese>
-            <Chinesesimp>墙壁(黄色&amp;白色)</Chinesesimp>
+            <Chinesesimp>墙壁（黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_4m_plain_whiteblue_f0">
             <Original>Wall (White &amp; Blue)</Original>
             <Chinese>牆壁(白色&amp;藍色)</Chinese>
-            <Chinesesimp>墙壁(白色&amp;蓝色)</Chinesesimp>
+            <Chinesesimp>墙壁（白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_4m_plain_pink_f0">
             <Original>Wall (Pink)</Original>
             <Chinese>牆壁(粉紅色)</Chinese>
-            <Chinesesimp>墙壁(粉红色)</Chinesesimp>
+            <Chinesesimp>墙壁（粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_4m_plain_grey_f0">
             <Original>Wall (Grey)</Original>
             <Chinese>牆壁(灰色)</Chinese>
-            <Chinesesimp>墙壁(灰色)</Chinesesimp>
+            <Chinesesimp>墙壁（灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_4m_plain_dmg_yellow_f0">
             <Original>Wall (Destroyed, Yellow &amp; White)</Original>
             <Chinese>牆壁(損毀，黃色&amp;白色)</Chinese>
-            <Chinesesimp>墙壁(损毁，黄色&amp;白色)</Chinesesimp>
+            <Chinesesimp>墙壁（损毁，黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_4m_plain_dmg_whiteblue_f0">
             <Original>Wall (Destroyed, White &amp; Blue)</Original>
             <Chinese>牆壁(損毀，白色&amp;藍色)</Chinese>
-            <Chinesesimp>墙壁(损毁，白色&amp;蓝色)</Chinesesimp>
+            <Chinesesimp>墙壁（损毁，白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_4m_plain_dmg_pink_f0">
             <Original>Wall (Destroyed, Pink)</Original>
             <Chinese>牆壁(損毀，粉紅色)</Chinese>
-            <Chinesesimp>墙壁(损毁，粉红色)</Chinesesimp>
+            <Chinesesimp>墙壁（损毁，粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_4m_plain_dmg_grey_f0">
             <Original>Wall (Destroyed, Grey)</Original>
             <Chinese>牆壁(損毀，灰色)</Chinese>
-            <Chinesesimp>墙壁(损毁，灰色)</Chinesesimp>
+            <Chinesesimp>墙壁（损毁，灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_4m_plain_dmg_blue_f0">
             <Original>Wall (Destroyed, Blue)</Original>
             <Chinese>牆壁(損毀，藍色)</Chinese>
-            <Chinesesimp>墙壁(损毁，蓝色)</Chinesesimp>
+            <Chinesesimp>墙壁（损毁，蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_4m_plain_blue_f0">
             <Original>Wall (Blue)</Original>
             <Chinese>牆壁(藍色)</Chinese>
-            <Chinesesimp>墙壁(蓝色)</Chinesesimp>
+            <Chinesesimp>墙壁（蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_4m_pink_f0">
             <Original>City Wall (Pink)</Original>
             <Chinese>城市牆壁(粉紅色)</Chinese>
-            <Chinesesimp>城市墙壁(粉红色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_4m_grey_f0">
             <Original>City Wall (Grey)</Original>
             <Chinese>城市牆壁(灰色)</Chinese>
-            <Chinesesimp>城市墙壁(灰色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_wallcity_01_4m_blue_f0">
             <Original>City Wall (Blue)</Original>
             <Chinese>城市牆壁(藍色)</Chinese>
-            <Chinesesimp>城市墙壁(蓝色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_city_pillar_f0">
             <Original>City Wall (Pillar, White)</Original>
             <Chinese>城市牆壁(支柱，白色)</Chinese>
-            <Chinesesimp>城市墙壁(支柱，白色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（支柱，白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_city_gate_f0">
             <Original>City Wall (Gate, White)</Original>
             <Chinese>城市牆壁(門，白色)</Chinese>
-            <Chinesesimp>城市墙壁(门，白色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（门，白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_city_8m_f0">
             <Original>City Wall (Long, White)</Original>
             <Chinese>城市牆壁(長，白色)</Chinese>
-            <Chinesesimp>城市墙壁(长，白色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（长，白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_city_8md_f0">
             <Original>City Wall (Long, Destroyed, White)</Original>
             <Chinese>城市牆壁(長，損毀，白色)</Chinese>
-            <Chinesesimp>城市墙壁(长，损毁，白色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（长，损毁，白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_city_4m_f0">
             <Original>City Wall (White)</Original>
             <Chinese>城市牆壁(白色)</Chinese>
-            <Chinesesimp>城市墙壁(白色)</Chinesesimp>
+            <Chinesesimp>城市墙壁（白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_city2_pillard_f0">
             <Original>Wall (Pillar, White)</Original>
             <Chinese>牆壁(支柱，白色)</Chinese>
-            <Chinesesimp>墙壁(支柱，白色)</Chinesesimp>
+            <Chinesesimp>墙壁（支柱，白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_city2_8m_f0">
             <Original>Wall (Long, White)</Original>
             <Chinese>牆壁(長，白色)</Chinese>
-            <Chinesesimp>墙壁(长，白色)</Chinesesimp>
+            <Chinesesimp>墙壁（长，白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_city2_8md_f0">
             <Original>Wall (Destroyed, White)</Original>
             <Chinese>牆壁(損毀，白色)</Chinese>
-            <Chinesesimp>墙壁(损毁，白色)</Chinesesimp>
+            <Chinesesimp>墙壁（损毁，白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_city2_4m_f0">
             <Original>Wall (White)</Original>
             <Chinese>牆壁(白色)</Chinese>
-            <Chinesesimp>墙壁(白色)</Chinesesimp>
+            <Chinesesimp>墙壁（白色）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Military">
           <Key ID="str_a3_land_mil_wallbig_gate_f0">
             <Original>Military Base Wall (Gate)</Original>
             <Chinese>軍事基地牆壁(門)</Chinese>
-            <Chinesesimp>军事基地墙壁(门)</Chinesesimp>
+            <Chinesesimp>军事基地墙壁（门）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_mil_wallbig_corner_f0">
             <Original>Military Base Wall (Corner)</Original>
             <Chinese>軍事基地牆壁(轉角)</Chinese>
-            <Chinesesimp>军事基地墙壁(转角)</Chinesesimp>
+            <Chinesesimp>军事基地墙壁（转角）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_mil_wallbig_4m_f0">
             <Original>Military Base Wall</Original>
@@ -300,32 +300,32 @@
           <Key ID="str_a3_cfgvehicles_land_mil_wallbig_debris_f0">
             <Original>Military Base Wall (Debris)</Original>
             <Chinese>軍事基地牆壁(碎片)</Chinese>
-            <Chinesesimp>军事基地墙壁(碎片)</Chinesesimp>
+            <Chinesesimp>军事基地墙壁（碎片）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_mil_wallbig_corner_battered_f0">
             <Original>Military Base Wall (Corner, Battered)</Original>
             <Chinese>軍事基地牆壁(轉角，破損)</Chinese>
-            <Chinesesimp>军事基地墙壁(转角，破损)</Chinesesimp>
+            <Chinesesimp>军事基地墙壁（转角，破损）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_mil_wallbig_4m_damaged_right_f0">
             <Original>Military Base Wall (Damaged Right)</Original>
             <Chinese>軍事基地牆壁(右邊破損)</Chinese>
-            <Chinesesimp>军事基地墙壁(右边破损)</Chinesesimp>
+            <Chinesesimp>军事基地墙壁（右边破损）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_mil_wallbig_4m_damaged_left_f0">
             <Original>Military Base Wall (Damaged Left)</Original>
             <Chinese>軍事基地牆壁(左邊破損)</Chinese>
-            <Chinesesimp>军事基地墙壁(左边破损)</Chinesesimp>
+            <Chinesesimp>军事基地墙壁（左边破损）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_mil_wallbig_4m_damaged_center_f0">
             <Original>Military Base Wall (Damaged Center)</Original>
             <Chinese>軍事基地牆壁(中間破損)</Chinese>
-            <Chinesesimp>军事基地墙壁(中间破损)</Chinesesimp>
+            <Chinesesimp>军事基地墙壁（中间破损）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_mil_wallbig_4m_battered_f0">
             <Original>Military Base Wall (Battered)</Original>
             <Chinese>軍事基地牆壁(破損)</Chinese>
-            <Chinesesimp>军事基地墙壁(破损)</Chinesesimp>
+            <Chinesesimp>军事基地墙壁（破损）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -334,333 +334,333 @@
           <Key ID="str_a3_cfgvehicles_land_busstop_01_sign_f0">
             <Original>Bus Stop (Sign)</Original>
             <Chinese>公車站(標誌)</Chinese>
-            <Chinesesimp>巴士站(标志)</Chinesesimp>
+            <Chinesesimp>巴士站（标志）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_busstop_01_shelter_f0">
             <Original>Bus Stop (Shelter)</Original>
             <Chinese>公車站(遮棚)</Chinese>
-            <Chinesesimp>巴士站(遮棚)</Chinesesimp>
+            <Chinesesimp>巴士站（遮棚）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Addons">
           <Key ID="str_a3_cfgvehicles_land_i_addon_02_b_white_f0">
             <Original>House Addon (v2)</Original>
             <Chinese>房屋組件(2型)</Chinese>
-            <Chinesesimp>房屋组件(2型)</Chinesesimp>
+            <Chinesesimp>房屋组件（2型）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_addon_02_b_white_ruins_f0">
             <Original>House Addon (v2, Ruin)</Original>
             <Chinese>房屋組件(2型，廢墟)</Chinese>
-            <Chinesesimp>房屋组件(2型，废墟)</Chinesesimp>
+            <Chinesesimp>房屋组件（2型，废墟）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Garbage">
           <Key ID="str_a3_land_garbagebarrel_01_f0">
             <Original>Garbage Barrel (Smiley, Greek)</Original>
             <Chinese>垃圾桶(笑臉，希臘語)</Chinese>
-            <Chinesesimp>垃圾桶(笑脸，希腊语)</Chinesesimp>
+            <Chinesesimp>垃圾桶（笑脸，希腊语）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_garbagebarrel_01_english_f0">
             <Original>Garbage Barrel (Smiley, English)</Original>
             <Chinese>垃圾桶(笑臉，英語)</Chinese>
-            <Chinesesimp>垃圾桶(笑脸，英语)</Chinesesimp>
+            <Chinesesimp>垃圾桶（笑脸，英语）</Chinesesimp>
           </Key>
         </Container>
         <Container name="House_Big01">
           <Key ID="str_a3_cfgvehicles_land_i_house_big_01_b_yellow_f0">
             <Original>House (Large, Yellow &amp; White)</Original>
             <Chinese>屋子(特大型，黃色&amp;白色)</Chinese>
-            <Chinesesimp>屋子(特大型，黄色&amp;白色)</Chinesesimp>
+            <Chinesesimp>屋子（特大型，黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_big_01_b_white_f0">
             <Original>House (Large, White &amp; Brown)</Original>
             <Chinese>屋子(特大型，白色&amp;棕色)</Chinese>
-            <Chinesesimp>屋子(特大型，白色&amp;棕色)</Chinesesimp>
+            <Chinesesimp>屋子（特大型，白色&amp;棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_big_01_b_whiteblue_f0">
             <Original>House (Large, White &amp; Blue)</Original>
             <Chinese>屋子(特大型，白色&amp;藍色)</Chinese>
-            <Chinesesimp>屋子(特大型，白色&amp;蓝色)</Chinesesimp>
+            <Chinesesimp>屋子（特大型，白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_big_01_b_pink_f0">
             <Original>House (Large, Pink)</Original>
             <Chinese>屋子(特大型，粉紅色)</Chinese>
-            <Chinesesimp>屋子(特大型，粉红色)</Chinesesimp>
+            <Chinesesimp>屋子（特大型，粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_big_01_b_brown_f0">
             <Original>House (Large, Yellow &amp; Brown)</Original>
             <Chinese>屋子(特大型，黃色&amp;棕色)</Chinese>
-            <Chinesesimp>屋子(特大型，黄色&amp;棕色)</Chinesesimp>
+            <Chinesesimp>屋子（特大型，黄色&amp;棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_big_01_b_blue_f0">
             <Original>House (Large, Blue)</Original>
             <Chinese>屋子(特大型，藍色)</Chinese>
-            <Chinesesimp>屋子(特大型，蓝色)</Chinesesimp>
+            <Chinesesimp>屋子（特大型，蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_big_01_b_yellow_ruins_f0">
             <Original>House (Large, Yellow &amp; White, Ruin)</Original>
             <Chinese>屋子(特大型，黃色&amp;白色，廢墟)</Chinese>
-            <Chinesesimp>屋子(特大型，黄色&amp;白色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（特大型，黄色&amp;白色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_big_01_b_pink_ruins_f0">
             <Original>House (Large, Pink, Ruin)</Original>
             <Chinese>屋子(特大型，粉紅色，廢墟)</Chinese>
-            <Chinesesimp>屋子(特大型，粉红色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（特大型，粉红色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_big_01_b_brown_ruins_f0">
             <Original>House (Large, Yellow &amp; Brown, Ruin)</Original>
             <Chinese>屋子(特大型，黃色&amp;棕色，廢墟)</Chinese>
-            <Chinesesimp>屋子(特大型，黄色&amp;棕色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（特大型，黄色&amp;棕色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_big_01_b_blue_ruins_f0">
             <Original>House (Large, Blue, Ruin)</Original>
             <Chinese>屋子(特大型，藍色，廢墟)</Chinese>
-            <Chinesesimp>屋子(特大型，蓝色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（特大型，蓝色，废墟）</Chinesesimp>
           </Key>
         </Container>
         <Container name="House_Big02">
           <Key ID="str_a3_cfgvehicles_land_i_house_big_02_b_yellow_f0">
             <Original>House (Big, Yellow &amp; White)</Original>
             <Chinese>屋子(大型，黃色&amp;白色)</Chinese>
-            <Chinesesimp>屋子(大型，黄色&amp;白色)</Chinesesimp>
+            <Chinesesimp>屋子（大型，黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_big_02_b_white_f0">
             <Original>House (Big, White &amp; Brown)</Original>
             <Chinese>屋子(大型，白色&amp;棕色)</Chinese>
-            <Chinesesimp>屋子(大型，白色&amp;棕色)</Chinesesimp>
+            <Chinesesimp>屋子（大型，白色&amp;棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_big_02_b_whiteblue_f0">
             <Original>House (Big, White &amp; Blue)</Original>
             <Chinese>屋子(大型，白色&amp;藍色)</Chinese>
-            <Chinesesimp>屋子(大型，白色&amp;蓝色)</Chinesesimp>
+            <Chinesesimp>屋子（大型，白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_big_02_b_pink_f0">
             <Original>House (Big, Pink)</Original>
             <Chinese>屋子(大型，粉紅色)</Chinese>
-            <Chinesesimp>屋子(大型，粉红色)</Chinesesimp>
+            <Chinesesimp>屋子（大型，粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_big_02_b_brown_f0">
             <Original>House (Big, Yellow &amp; Brown)</Original>
             <Chinese>屋子(大型，黃色&amp;棕色)</Chinese>
-            <Chinesesimp>屋子(大型，黄色&amp;棕色)</Chinesesimp>
+            <Chinesesimp>屋子（大型，黄色&amp;棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_big_02_b_blue_f0">
             <Original>House (Big, Blue)</Original>
             <Chinese>屋子(大型，藍色)</Chinese>
-            <Chinesesimp>屋子(大型，蓝色)</Chinesesimp>
+            <Chinesesimp>屋子（大型，蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_big_02_b_yellow_ruins_f0">
             <Original>House (Big, Yellow &amp; White, Ruin)</Original>
             <Chinese>屋子(大型，黃色&amp;白色，廢墟)</Chinese>
-            <Chinesesimp>屋子(大型，黄色&amp;白色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（大型，黄色&amp;白色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_big_02_b_pink_ruins_f0">
             <Original>House (Big, Pink, Ruin)</Original>
             <Chinese>屋子(大型，粉紅色，廢墟)</Chinese>
-            <Chinesesimp>屋子(大型，粉红色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（大型，粉红色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_big_02_b_brown_ruins_f0">
             <Original>House (Big, Yellow &amp; Brown, Ruin)</Original>
             <Chinese>屋子(大型，黃色&amp;棕色，廢墟)</Chinese>
-            <Chinesesimp>屋子(大型，黄色&amp;棕色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（大型，黄色&amp;棕色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_big_02_b_blue_ruins_f0">
             <Original>House (Big, Blue, Ruin)</Original>
             <Chinese>屋子(大型，藍色，廢墟)</Chinese>
-            <Chinesesimp>屋子(大型，蓝色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（大型，蓝色，废墟）</Chinesesimp>
           </Key>
         </Container>
         <Container name="House_Small01">
           <Key ID="str_a3_cfgvehicles_land_i_house_small_01_b_yellow_f0">
             <Original>House (Yellow &amp; White)</Original>
             <Chinese>屋子(黃色&amp;白色)</Chinese>
-            <Chinesesimp>屋子(黄色&amp;白色)</Chinesesimp>
+            <Chinesesimp>屋子（黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_01_b_white_f0">
             <Original>House (White &amp; Brown)</Original>
             <Chinese>屋子(白色&amp;棕色)</Chinese>
-            <Chinesesimp>屋子(白色&amp;棕色)</Chinesesimp>
+            <Chinesesimp>屋子（白色&amp;棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_01_b_whiteblue_f0">
             <Original>House (White &amp; Blue)</Original>
             <Chinese>屋子(白色&amp;藍色)</Chinese>
-            <Chinesesimp>屋子(白色&amp;蓝色)</Chinesesimp>
+            <Chinesesimp>屋子（白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_01_b_pink_f0">
             <Original>House (Pink)</Original>
             <Chinese>屋子(粉紅色)</Chinese>
-            <Chinesesimp>屋子(粉红色)</Chinesesimp>
+            <Chinesesimp>屋子（粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_01_b_brown_f0">
             <Original>House (Yellow &amp; Brown)</Original>
             <Chinese>屋子(黃色&amp;棕色)</Chinese>
-            <Chinesesimp>屋子(黄色&amp;棕色)</Chinesesimp>
+            <Chinesesimp>屋子（黄色&amp;棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_01_b_blue_f0">
             <Original>House (Blue)</Original>
             <Chinese>屋子(藍色)</Chinese>
-            <Chinesesimp>屋子(蓝色)</Chinesesimp>
+            <Chinesesimp>屋子（蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_small_01_b_yellow_ruins_f0">
             <Original>House (Yellow &amp; White, Ruin)</Original>
             <Chinese>屋子(黃色&amp;白色，廢墟)</Chinese>
-            <Chinesesimp>屋子(黄色&amp;白色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（黄色&amp;白色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_small_01_b_pink_ruins_f0">
             <Original>House (Pink, Ruin)</Original>
             <Chinese>屋子(粉紅色，廢墟)</Chinese>
-            <Chinesesimp>屋子(粉红色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（粉红色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_small_01_b_brown_ruins_f0">
             <Original>House (Yellow &amp; Brown, Ruin)</Original>
             <Chinese>屋子(黃色&amp;棕色，廢墟)</Chinese>
-            <Chinesesimp>屋子(黄色&amp;棕色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（黄色&amp;棕色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_small_01_b_blue_ruins_f0">
             <Original>House (Blue, Ruin)</Original>
             <Chinese>屋子(藍色，廢墟)</Chinese>
-            <Chinesesimp>屋子(蓝色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（蓝色，废墟）</Chinesesimp>
           </Key>
         </Container>
         <Container name="House_Small02">
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_c_yellow_f0">
             <Original>House (Small, v3, Yellow &amp; White)</Original>
             <Chinese>屋子(小型，3型，黃色&amp;白色)</Chinese>
-            <Chinesesimp>屋子(小型，3型，黄色&amp;白色)</Chinesesimp>
+            <Chinesesimp>屋子（小型，3型，黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_c_white_f0">
             <Original>House (Small, v3, White &amp; Brown)</Original>
             <Chinese>屋子(小型，3型，白色&amp;棕色)</Chinese>
-            <Chinesesimp>屋子(小型，3型，白色&amp;棕色)</Chinesesimp>
+            <Chinesesimp>屋子（小型，3型，白色&amp;棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_c_whiteblue_f0">
             <Original>House (Small, v3, White &amp; Blue)</Original>
             <Chinese>屋子(小型，3型，白色&amp;藍色)</Chinese>
-            <Chinesesimp>屋子(小型，3型，白色&amp;蓝色)</Chinesesimp>
+            <Chinesesimp>屋子（小型，3型，白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_c_pink_f0">
             <Original>House (Small, v3, Pink)</Original>
             <Chinese>屋子(小型，3型，粉紅色)</Chinese>
-            <Chinesesimp>屋子(小型，3型，粉红色)</Chinesesimp>
+            <Chinesesimp>屋子（小型，3型，粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_c_brown_f0">
             <Original>House (Small, v3, Yellow &amp; Brown)</Original>
             <Chinese>屋子(小型，3型，黃色&amp;棕色)</Chinese>
-            <Chinesesimp>屋子(小型，3型，黄色&amp;棕色)</Chinesesimp>
+            <Chinesesimp>屋子（小型，3型，黄色&amp;棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_c_blue_f0">
             <Original>House (Small, v3, Blue)</Original>
             <Chinese>屋子(小型，3型，藍色)</Chinese>
-            <Chinesesimp>屋子(小型，3型，蓝色)</Chinesesimp>
+            <Chinesesimp>屋子（小型，3型，蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_b_yellow_f0">
             <Original>House (Small, v2, Yellow &amp; White)</Original>
             <Chinese>屋子(小型，2型，黃色&amp;白色)</Chinese>
-            <Chinesesimp>屋子(小型，2型，黄色&amp;白色)</Chinesesimp>
+            <Chinesesimp>屋子（小型，2型，黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_b_white_f0">
             <Original>House (Small, v2, White &amp; Brown)</Original>
             <Chinese>屋子(小型，2型，白色&amp;棕色)</Chinese>
-            <Chinesesimp>屋子(小型，2型，白色&amp;棕色)</Chinesesimp>
+            <Chinesesimp>屋子（小型，2型，白色&amp;棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_b_whiteblue_f0">
             <Original>House (Small, v2, White &amp; Blue)</Original>
             <Chinese>屋子(小型，2型，白色&amp;藍色)</Chinese>
-            <Chinesesimp>屋子(小型，2型，白色&amp;蓝色)</Chinesesimp>
+            <Chinesesimp>屋子（小型，2型，白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_b_pink_f0">
             <Original>House (Small, v2, Pink)</Original>
             <Chinese>屋子(小型，2型，粉紅色)</Chinese>
-            <Chinesesimp>屋子(小型，2型，粉红色)</Chinesesimp>
+            <Chinesesimp>屋子（小型，2型，粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_b_brown_f0">
             <Original>House (Small, v2, Yellow &amp; Brown)</Original>
             <Chinese>屋子(小型，2型，黃色&amp;棕色)</Chinese>
-            <Chinesesimp>屋子(小型，2型，黄色&amp;棕色)</Chinesesimp>
+            <Chinesesimp>屋子（小型，2型，黄色&amp;棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_b_blue_f0">
             <Original>House (Small, v2, Blue)</Original>
             <Chinese>屋子(小型，2型，藍色)</Chinese>
-            <Chinesesimp>屋子(小型，2型，蓝色)</Chinesesimp>
+            <Chinesesimp>屋子（小型，2型，蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_small_02_b_yellow_ruins_f0">
             <Original>House (Small, v2, Yellow &amp; White, Ruin)</Original>
             <Chinese>屋子(小型，2型，黃色&amp;白色，廢墟)</Chinese>
-            <Chinesesimp>屋子(小型，2型，黄色&amp;白色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（小型，2型，黄色&amp;白色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_small_02_b_v1_ruins_f0">
             <Original>House (Small, v2, White, Ruin)</Original>
             <Chinese>屋子(小型，2型，白色，廢墟)</Chinese>
-            <Chinesesimp>屋子(小型，2型，白色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（小型，2型，白色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_small_02_b_pink_ruins_f0">
             <Original>House (Small, v2, Pink, Ruin)</Original>
             <Chinese>屋子(小型，2型，粉紅色，廢墟)</Chinese>
-            <Chinesesimp>屋子(小型，2型，粉红色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（小型，2型，粉红色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_small_02_b_brown_ruins_f0">
             <Original>House (Small, v2, Yellow &amp; Brown, Ruin)</Original>
             <Chinese>屋子(小型，2型，黃色&amp;棕色，廢墟)</Chinese>
-            <Chinesesimp>屋子(小型，2型，黄色&amp;棕色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（小型，2型，黄色&amp;棕色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_small_02_b_blue_ruins_f0">
             <Original>House (Small, v2, Blue, Ruin)</Original>
             <Chinese>屋子(小型，2型，藍色，廢墟)</Chinese>
-            <Chinesesimp>屋子(小型，2型，蓝色，废墟)</Chinesesimp>
+            <Chinesesimp>屋子（小型，2型，蓝色，废墟）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Stone_House_Big_01">
           <Key ID="str_a3_cfgvehicles_land_i_stone_house_big_01_b_clay_f0">
             <Original>Stone House (Big, v2, Brown)</Original>
             <Chinese>石造房屋(大型，2型，棕色)</Chinese>
-            <Chinesesimp>石造房屋(大型，2型，棕色)</Chinesesimp>
+            <Chinesesimp>石造房屋（大型，2型，棕色）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Stone_Shed_01">
           <Key ID="str_a3_cfgvehicles_land_stone_shed_01_b_white_ruins_f0">
             <Original>Stone House (Small, v2, White, Ruin)</Original>
             <Chinese>石造房屋(小型，2型，白色，廢墟)</Chinese>
-            <Chinesesimp>石造房屋(小型，2型，白色，废墟)</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，2型，白色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_stone_shed_01_b_raw_ruins_f0">
             <Original>Stone House (Small, v2, Grey, Ruin)</Original>
             <Chinese>石造房屋(小型，2型，灰色，廢墟)</Chinese>
-            <Chinesesimp>石造房屋(小型，2型，灰色，废墟)</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，2型，灰色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_stone_shed_01_b_clay_ruins_f0">
             <Original>Stone House (Small, v2, Brown, Ruin)</Original>
             <Chinese>石造房屋(小型，2型，棕色，廢墟)</Chinese>
-            <Chinesesimp>石造房屋(小型，2型，棕色，废墟)</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，2型，棕色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_stone_shed_01_c_white_f0">
             <Original>Stone House (Small, v3, White)</Original>
             <Chinese>石造房屋(小型，3型，白色)</Chinese>
-            <Chinesesimp>石造房屋(小型，3型，白色)</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，3型，白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_stone_shed_01_c_raw_f0">
             <Original>Stone House (Small, v3, Grey)</Original>
             <Chinese>石造房屋(小型，3型，灰色)</Chinese>
-            <Chinesesimp>石造房屋(小型，3型，灰色)</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，3型，灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_stone_shed_01_c_clay_f0">
             <Original>Stone House (Small, v3, Brown)</Original>
             <Chinese>石造房屋(小型，3型，棕色)</Chinese>
-            <Chinesesimp>石造房屋(小型，3型，棕色)</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，3型，棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_stone_shed_01_b_white_f0">
             <Original>Stone House (Small, v2, White)</Original>
             <Chinese>石造房屋(小型，2型，白色)</Chinese>
-            <Chinesesimp>石造房屋(小型，2型，白色)</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，2型，白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_stone_shed_01_b_raw_f0">
             <Original>Stone House (Small, v2, Grey)</Original>
             <Chinese>石造房屋(小型，2型，灰色)</Chinese>
-            <Chinesesimp>石造房屋(小型，2型，灰色)</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，2型，灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_stone_shed_01_b_clay_f0">
             <Original>Stone House (Small, v2, Brown)</Original>
             <Chinese>石造房屋(小型，2型，棕色)</Chinese>
-            <Chinesesimp>石造房屋(小型，2型，棕色)</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，2型，棕色）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -669,310 +669,310 @@
           <Key ID="str_a3_land_phonebooth_02_f0">
             <Original>Phone Booth (Altis, Tagged)</Original>
             <Chinese>電話亭(阿爾蒂斯，塗鴉)</Chinese>
-            <Chinesesimp>电话亭(阿尔蒂斯，涂鸦)</Chinesesimp>
+            <Chinesesimp>电话亭（阿尔蒂斯，涂鸦）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_phonebooth_01_f0">
             <Original>Phone Booth (Altis, Clean)</Original>
             <Chinese>電話亭(阿爾蒂斯，乾淨)</Chinese>
-            <Chinesesimp>电话亭(阿尔蒂斯，干净)</Chinesesimp>
+            <Chinesesimp>电话亭（阿尔蒂斯，干净）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_atm_02_f0">
             <Original>ATM (Altis, Sheltered)</Original>
             <Chinese>ATM提款機(阿爾蒂斯，遮棚)</Chinese>
-            <Chinesesimp>ATM提款机(阿尔蒂斯，遮棚)</Chinesesimp>
+            <Chinesesimp>ATM 提款机（阿尔蒂斯，遮棚）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_atm_01_f0">
             <Original>ATM (Altis)</Original>
             <Chinese>ATM提款機(阿爾蒂斯)</Chinese>
-            <Chinesesimp>ATM提款机(阿尔蒂斯)</Chinesesimp>
+            <Chinesesimp>ATM 提款机（阿尔蒂斯）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_phonebooth_02_malden_f0">
             <Original>Phone Booth (Malden, Tagged)</Original>
             <Chinese>電話亭(馬爾登，塗鴉)</Chinese>
-            <Chinesesimp>电话亭(马尔登，涂鸦)</Chinesesimp>
+            <Chinesesimp>电话亭（马尔登，涂鸦）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_phonebooth_01_malden_f0">
             <Original>Phone Booth (Malden, Clean)</Original>
             <Chinese>電話亭(馬爾登，乾淨)</Chinese>
-            <Chinesesimp>电话亭(马尔登，干净)</Chinesesimp>
+            <Chinesesimp>电话亭（马尔登，干净）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_atm_02_malden_f0">
             <Original>ATM (Malden, Sheltered)</Original>
             <Chinese>ATM提款機(馬爾登，遮棚)</Chinese>
-            <Chinesesimp>ATM提款机(马尔登，遮棚)</Chinesesimp>
+            <Chinesesimp>ATM 提款机（马尔登，遮棚）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_atm_01_malden_f0">
             <Original>ATM (Malden)</Original>
             <Chinese>ATM提款機(馬爾登)</Chinese>
-            <Chinesesimp>ATM提款机(马尔登)</Chinesesimp>
+            <Chinesesimp>ATM 提款机（马尔登）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Billboards">
           <Key ID="str_a3_land_billboard_f0">
             <Original>Billboard 1 (Blank)</Original>
             <Chinese>廣告板1(空白)</Chinese>
-            <Chinesesimp>广告牌1(空白)</Chinesesimp>
+            <Chinesesimp>广告牌1（空白）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_04_supermarket_maskrtnik_f0">
             <Original>Billboard 4 (Supermarket &amp; Maskrtnik)</Original>
             <Chinese>廣告板4(超級市場&amp;Maskrtnik)</Chinese>
-            <Chinesesimp>广告牌4(超级市场&amp;Maskrtnik)</Chinesesimp>
+            <Chinesesimp>广告牌4（超级市场&amp;Maskrtnik）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_04_mars_lyfe_f0">
             <Original>Billboard 4 (Mars &amp; Lyfe)</Original>
             <Chinese>廣告板4(火星&amp;Lyfe)</Chinese>
-            <Chinesesimp>广告牌4(火星&amp;Lyfe)</Chinesesimp>
+            <Chinesesimp>广告牌4（火星&amp;Lyfe）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_04_koke_redstone_f0">
             <Original>Billboard 4 (Burstkoke &amp; Redstone)</Original>
             <Chinese>廣告板4(爆破口樂&amp;紅石)</Chinese>
-            <Chinesesimp>广告牌4(爆破口乐&amp;红石)</Chinesesimp>
+            <Chinesesimp>广告牌4（爆破口乐&amp;红石）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_04_blank_f0">
             <Original>Billboard 4 (Blank)</Original>
             <Chinese>廣告板4(空白)</Chinese>
-            <Chinesesimp>广告牌4(空白)</Chinesesimp>
+            <Chinesesimp>广告牌4（空白）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_ygont_f0">
             <Original>Billboard 3 (Ygont)</Original>
             <Chinese>廣告板3(Ygont)</Chinese>
-            <Chinesesimp>广告牌3(Ygont)</Chinesesimp>
+            <Chinesesimp>广告牌3（Ygont）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_winery_f0">
             <Original>Billboard 3 (Winery)</Original>
             <Chinese>廣告板3(酒廠)</Chinese>
-            <Chinesesimp>广告牌3(酒厂)</Chinesesimp>
+            <Chinesesimp>广告牌3（酒厂）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_supermarket_f0">
             <Original>Billboard 3 (Supermarket)</Original>
             <Chinese>廣告板3(超級市場)</Chinese>
-            <Chinesesimp>广告牌3(超级市场)</Chinesesimp>
+            <Chinesesimp>广告牌3（超级市场）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_plane_f0">
             <Original>Billboard 3 (Plane)</Original>
             <Chinese>廣告板3(飛機)</Chinese>
-            <Chinesesimp>广告牌3(飞机)</Chinesesimp>
+            <Chinesesimp>广告牌3（飞机）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_pills_f0">
             <Original>Billboard 3 (Pills)</Original>
             <Chinese>廣告板3(藥)</Chinese>
-            <Chinesesimp>广告牌3(药)</Chinesesimp>
+            <Chinesesimp>广告牌3（药）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_pate_f0">
             <Original>Billboard 3 (Pate)</Original>
             <Chinese>廣告板3(肉醬)</Chinese>
-            <Chinesesimp>广告牌3(肉酱)</Chinesesimp>
+            <Chinesesimp>广告牌3（肉酱）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_olives_f0">
             <Original>Billboard 3 (Olives)</Original>
             <Chinese>廣告板3(橄欖)</Chinese>
-            <Chinesesimp>广告牌3(橄榄)</Chinesesimp>
+            <Chinesesimp>广告牌3（橄榄）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_maskrtnik_f0">
             <Original>Billboard 3 (Maskrtnik)</Original>
             <Chinese>廣告板3(Maskrtnik)</Chinese>
-            <Chinesesimp>广告牌3(Maskrtnik)</Chinesesimp>
+            <Chinesesimp>广告牌3（Maskrtnik）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_mars_f0">
             <Original>Billboard 3 (Mars)</Original>
             <Chinese>廣告板3(火星)</Chinese>
-            <Chinesesimp>广告牌3(火星)</Chinesesimp>
+            <Chinesesimp>广告牌3（火星）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_lyfe_f0">
             <Original>Billboard 3 (Lyfe)</Original>
             <Chinese>廣告板3(Lyfe)</Chinese>
-            <Chinesesimp>广告牌3(Lyfe)</Chinesesimp>
+            <Chinesesimp>广告牌3（Lyfe）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_koke_f0">
             <Original>Billboard 3 (Burstkoke)</Original>
             <Chinese>廣告板3(爆破口樂)</Chinese>
-            <Chinesesimp>广告牌3(爆破口乐)</Chinesesimp>
+            <Chinesesimp>广告牌3（爆破口乐）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_ionbase_f0">
             <Original>Billboard 3 (ION 2)</Original>
             <Chinese>廣告板3(ION傭兵公司2)</Chinese>
-            <Chinesesimp>广告牌3(ION佣兵公司2)</Chinesesimp>
+            <Chinesesimp>广告牌3（ION 佣兵公司2）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_getlost_f0">
             <Original>Billboard 3 (Get Lost)</Original>
             <Chinese>廣告板3(迷路)</Chinese>
-            <Chinesesimp>广告牌3(迷路)</Chinesesimp>
+            <Chinesesimp>广告牌3（迷路）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_duckit_f0">
             <Original>Billboard 3 (Duck It)</Original>
             <Chinese>廣告板3(鴨子)</Chinese>
-            <Chinesesimp>广告牌3(鸭子)</Chinesesimp>
+            <Chinesesimp>广告牌3（鸭子）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_chevre_f0">
             <Original>Billboard 3 (Goat Farm 2)</Original>
             <Chinese>廣告板3(山羊農場2)</Chinese>
-            <Chinesesimp>广告牌3(山羊农场2)</Chinesesimp>
+            <Chinesesimp>广告牌3（山羊农场2）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_cheese_f0">
             <Original>Billboard 3 (Cheese)</Original>
             <Chinese>廣告板3(起司)</Chinese>
-            <Chinesesimp>广告牌3(起司)</Chinesesimp>
+            <Chinesesimp>广告牌3（起司）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_bluking_f0">
             <Original>Billboard 3 (Bluking)</Original>
             <Chinese>廣告板3(Bluking企業)</Chinese>
-            <Chinesesimp>广告牌3(Bluking企业)</Chinesesimp>
+            <Chinesesimp>广告牌3（Bluking 企业）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_blank_f0">
             <Original>Billboard 3 (Blank)</Original>
             <Chinese>廣告板3(空白)</Chinese>
-            <Chinesesimp>广告牌3(空白)</Chinesesimp>
+            <Chinesesimp>广告牌3（空白）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_argois_f0">
             <Original>Billboard 3 (Le Argois)</Original>
             <Chinese>廣告板3(LeArgois)</Chinese>
-            <Chinesesimp>广告牌3(LeArgois)</Chinesesimp>
+            <Chinesesimp>广告牌3（LeArgois）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_action_f0">
             <Original>Billboard 3 (Malden Tours)</Original>
             <Chinese>廣告板3(馬爾登旅遊)</Chinese>
-            <Chinesesimp>广告牌3(马尔登旅游)</Chinesesimp>
+            <Chinesesimp>广告牌3（马尔登旅游）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_aan_f0">
             <Original>Billboard 3 (AAN)</Original>
             <Chinese>廣告板3(AAN新聞)</Chinese>
-            <Chinesesimp>广告牌3(AAN新闻)</Chinesesimp>
+            <Chinesesimp>广告牌3（AAN 新闻）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_02_wine_f0">
             <Original>Billboard 2 (Wine)</Original>
             <Chinese>廣告板2(紅酒)</Chinese>
-            <Chinesesimp>广告牌2(红酒)</Chinesesimp>
+            <Chinesesimp>广告牌2（红酒）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_02_surreal_f0">
             <Original>Billboard 2 (SurRealité)</Original>
             <Chinese>廣告板2(超現實)</Chinese>
-            <Chinesesimp>广告牌2(超现实)</Chinesesimp>
+            <Chinesesimp>广告牌2（超现实）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_02_redstone_f0">
             <Original>Billboard 2 (Redstone)</Original>
             <Chinese>廣告板2(紅石)</Chinese>
-            <Chinesesimp>广告牌2(红石)</Chinesesimp>
+            <Chinesesimp>广告牌2（红石）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_02_monte_f0">
             <Original>Billboard 2 (Monte)</Original>
             <Chinese>廣告板2(Monte)</Chinese>
-            <Chinesesimp>广告牌2(Monte)</Chinesesimp>
+            <Chinesesimp>广告牌2（Monte）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_02_mars2_f0">
             <Original>Billboard 2 (MarsX)</Original>
             <Chinese>廣告板2(火星X)</Chinese>
-            <Chinesesimp>广告牌2(火星X)</Chinesesimp>
+            <Chinesesimp>广告牌2（火星X）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_02_leader_f0">
             <Original>Billboard 2 (Leader)</Original>
             <Chinese>廣告板2(領袖)</Chinese>
-            <Chinesesimp>广告牌2(领袖)</Chinesesimp>
+            <Chinesesimp>广告牌2（领袖）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_02_ion_f0">
             <Original>Billboard 2 (ION)</Original>
             <Chinese>廣告板2(ION傭兵公司)</Chinese>
-            <Chinesesimp>广告牌2(ION佣兵公司)</Chinesesimp>
+            <Chinesesimp>广告牌2（ION 佣兵公司）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_02_chevre2_f0">
             <Original>Billboard 2 (Goat Farm)</Original>
             <Chinese>廣告板2(山羊農場)</Chinese>
-            <Chinesesimp>广告牌2(山羊农场)</Chinesesimp>
+            <Chinesesimp>广告牌2（山羊农场）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_02_chernarus_f0">
             <Original>Billboard 2 (Chernarus)</Original>
             <Chinese>廣告板2(Chernarus)</Chinese>
-            <Chinesesimp>广告牌2(Chernarus)</Chinesesimp>
+            <Chinesesimp>广告牌2（Chernarus）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_02_carrental_f0">
             <Original>Billboard 2 (Car Rental)</Original>
             <Chinese>廣告板2(汽車出租)</Chinese>
-            <Chinesesimp>广告牌2(汽车出租)</Chinesesimp>
+            <Chinesesimp>广告牌2（汽车出租）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_02_blank_f0">
             <Original>Billboard 2 (Blank)</Original>
             <Chinese>廣告板2(空白)</Chinese>
-            <Chinesesimp>广告牌2(空白)</Chinesesimp>
+            <Chinesesimp>广告牌2（空白）</Chinesesimp>
           </Key>
         </Container>
         <Container name="FuelStation_01">
           <Key ID="str_a3_cfgvehicles_land_fuelstation_01_roof_malevil_f0">
             <Original>Gas Station (Malevil, Roof)</Original>
             <Chinese>加油站(Malevil公司，屋頂)</Chinese>
-            <Chinesesimp>加油站(Malevil公司，屋顶)</Chinesesimp>
+            <Chinesesimp>加油站（Malevil 公司，屋顶）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_fuelstation_01_pump_malevil_f0">
             <Original>Gas Station (Malevil, Pump)</Original>
             <Chinese>加油站(Malevil公司，加油機)</Chinese>
-            <Chinesesimp>加油站(Malevil公司，加油机)</Chinesesimp>
+            <Chinesesimp>加油站（Malevil 公司，加油机）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_fuelstation_01_prices_malevil_f0">
             <Original>Gas Station (Malevil, Sign)</Original>
             <Chinese>加油站(Malevil公司，招牌)</Chinese>
-            <Chinesesimp>加油站(Malevil公司，招牌)</Chinesesimp>
+            <Chinesesimp>加油站（Malevil 公司，招牌）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Shop_02">
           <Key ID="str_a3_cfgvehicles_land_shop_02_b_yellow_ruins_f0">
             <Original>Shop (Yellow &amp; White, Ruin)</Original>
             <Chinese>商店(黃色&amp;白色，廢墟)</Chinese>
-            <Chinesesimp>商店(黄色&amp;白色，废墟)</Chinesesimp>
+            <Chinesesimp>商店（黄色&amp;白色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_shop_02_b_pink_ruins_f0">
             <Original>Shop (Pink, Ruin)</Original>
             <Chinese>商店(粉紅色，廢墟)</Chinese>
-            <Chinesesimp>商店(粉红色，废墟)</Chinesesimp>
+            <Chinesesimp>商店（粉红色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_shop_02_b_brown_ruins_f0">
             <Original>Shop (Yellow &amp; Brown, Ruin)</Original>
             <Chinese>商店(黃色&amp;棕色，廢墟)</Chinese>
-            <Chinesesimp>商店(黄色&amp;棕色，废墟)</Chinesesimp>
+            <Chinesesimp>商店（黄色&amp;棕色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_shop_02_b_blue_ruins_f0">
             <Original>Shop (Blue, Ruin)</Original>
             <Chinese>商店(藍色，廢墟)</Chinese>
-            <Chinesesimp>商店(蓝色，废墟)</Chinesesimp>
+            <Chinesesimp>商店（蓝色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_shop_02_b_yellow_f0">
             <Original>Shop (Yellow &amp; White)</Original>
             <Chinese>商店(黃色&amp;白色)</Chinese>
-            <Chinesesimp>商店(黄色&amp;白色)</Chinesesimp>
+            <Chinesesimp>商店（黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_shop_02_b_white_f0">
             <Original>Shop (White &amp; Brown)</Original>
             <Chinese>商店(白色&amp;棕色)</Chinese>
-            <Chinesesimp>商店(白色&amp;棕色)</Chinesesimp>
+            <Chinesesimp>商店（白色&amp;棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_shop_02_b_whiteblue_f0">
             <Original>Shop (White &amp; Blue)</Original>
             <Chinese>商店(白色&amp;藍色)</Chinese>
-            <Chinesesimp>商店(白色&amp;蓝色)</Chinesesimp>
+            <Chinesesimp>商店（白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_shop_02_b_pink_f0">
             <Original>Shop (Pink)</Original>
             <Chinese>商店(粉紅色)</Chinese>
-            <Chinesesimp>商店(粉红色)</Chinesesimp>
+            <Chinesesimp>商店（粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_shop_02_b_brown_f0">
             <Original>Shop (Yellow &amp; Brown)</Original>
             <Chinese>商店(黃色&amp;棕色)</Chinese>
-            <Chinesesimp>商店(黄色&amp;棕色)</Chinesesimp>
+            <Chinesesimp>商店（黄色&amp;棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_shop_02_b_blue_f0">
             <Original>Shop (Blue)</Original>
             <Chinese>商店(藍色)</Chinese>
-            <Chinesesimp>商店(蓝色)</Chinesesimp>
+            <Chinesesimp>商店（蓝色）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Supermarket_01">
           <Key ID="str_a3_land_supermarket_01_f0">
             <Original>Supermarket (Tanoa)</Original>
             <Chinese>超級市場(塔諾亞)</Chinese>
-            <Chinesesimp>超级市场(塔诺亚)</Chinesesimp>
+            <Chinesesimp>超级市场（塔诺亚）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_supermarket_01_malden_f0">
             <Original>Supermarket (Malden)</Original>
             <Chinese>超級市場(馬爾登)</Chinese>
-            <Chinesesimp>超级市场(马尔登)</Chinesesimp>
+            <Chinesesimp>超级市场（马尔登）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -981,12 +981,12 @@
           <Key ID="str_a3_land_church_01_v1_f0">
             <Original>Church (White)</Original>
             <Chinese>教堂(白色)</Chinese>
-            <Chinesesimp>教堂(白色)</Chinesesimp>
+            <Chinesesimp>教堂（白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_church_01_v2_f0">
             <Original>Church (Yellow)</Original>
             <Chinese>教堂(黃色)</Chinese>
-            <Chinesesimp>教堂(黄色)</Chinesesimp>
+            <Chinesesimp>教堂（黄色）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Statues">
@@ -998,7 +998,7 @@
           <Key ID="str_a3_land_maroula_base_f0">
             <Original>Maroula Statue (Pedestal)</Original>
             <Chinese>馬羅拉雕像(底座)</Chinese>
-            <Chinesesimp>马罗拉雕像(底座)</Chinesesimp>
+            <Chinesesimp>马罗拉雕像（底座）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_statue_02_f0">
             <Original>Bronze Statue</Original>
@@ -1013,17 +1013,17 @@
           <Key ID="str_a3_cfgvehicles_land_pedestal_02_f0">
             <Original>Sandstone Statue (Pedestal)</Original>
             <Chinese>砂巖雕像(底座)</Chinese>
-            <Chinesesimp>砂岩雕像(底座)</Chinesesimp>
+            <Chinesesimp>砂岩雕像（底座）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_pedestal_01_f0">
             <Original>Bronze Statue (Pedestal)</Original>
             <Chinese>青銅雕像(底座)</Chinese>
-            <Chinesesimp>青铜雕像(底座)</Chinesesimp>
+            <Chinesesimp>青铜雕像（底座）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_monument_01_f0">
             <Original>Statue (Bushlurker)</Original>
             <Chinese>雕像(Bushlurker)</Chinese>
-            <Chinesesimp>雕像(Bushlurker)</Chinesesimp>
+            <Chinesesimp>雕像（Bushlurker）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -1031,32 +1031,32 @@
         <Key ID="str_a3_cfgvehicles_land_roadcrack_01_6x2_f0">
           <Original>Crack (6x2)</Original>
           <Chinese>裂紋(6x2)</Chinese>
-          <Chinesesimp>裂纹(6x2)</Chinesesimp>
+          <Chinesesimp>裂纹（6x2）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_roadcrack_01_4x4_f0">
           <Original>Crack (4x4)</Original>
           <Chinese>裂紋(4x4)</Chinese>
-          <Chinesesimp>裂纹(4x4)</Chinesesimp>
+          <Chinesesimp>裂纹（4x4）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_roadcrack_01_2x2_f0">
           <Original>Crack (2x2)</Original>
           <Chinese>裂紋(2x2)</Chinese>
-          <Chinesesimp>裂纹(2x2)</Chinesesimp>
+          <Chinesesimp>裂纹（2x2）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_puddle_02_f0">
           <Original>Puddle (Large)</Original>
           <Chinese>水坑(大型)</Chinese>
-          <Chinesesimp>水坑(大型)</Chinesesimp>
+          <Chinesesimp>水坑（大型）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_puddle_01_f0">
           <Original>Puddle (Small)</Original>
           <Chinese>水坑(小型)</Chinese>
-          <Chinesesimp>水坑(小型)</Chinesesimp>
+          <Chinesesimp>水坑（小型）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pedestriancrossing_01_8m_10str_f0">
           <Original>Pedestrian Crossing (Long)</Original>
           <Chinese>斑馬線(長)</Chinese>
-          <Chinesesimp>斑马线(长)</Chinesesimp>
+          <Chinesesimp>斑马线（长）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pedestriancrossing_01_6m_6str_f0">
           <Original>Pedestrian Crossing</Original>
@@ -1066,17 +1066,17 @@
         <Key ID="str_a3_cfgvehicles_land_pedestriancrossing_01_6m_4str_f0">
           <Original>Pedestrian Crossing (Short)</Original>
           <Chinese>斑馬線(短)</Chinese>
-          <Chinesesimp>斑马线(短)</Chinesesimp>
+          <Chinesesimp>斑马线（短）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_dirtpatch_01_6x8_f0">
           <Original>Dirt Patch (Large)</Original>
           <Chinese>泥濘(大型)</Chinese>
-          <Chinesesimp>泥泞(大型)</Chinesesimp>
+          <Chinesesimp>泥泞（大型）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_dirtpatch_01_4x4_f0">
           <Original>Dirt Patch (Small)</Original>
           <Chinese>泥濘(小型)</Chinese>
-          <Chinesesimp>泥泞(小型)</Chinesesimp>
+          <Chinesesimp>泥泞（小型）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Industrial">
@@ -1089,64 +1089,64 @@
           <Key ID="str_a3_cfgvehicles_land_shed_08_grey_ruins_f0">
             <Original>Shed (Grey, Ruin)</Original>
             <Chinese>鐵皮屋(灰色，廢墟)</Chinese>
-            <Chinesesimp>铁皮屋(灰色，废墟)</Chinesesimp>
+            <Chinesesimp>铁皮屋（灰色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_shed_08_grey_f0">
             <Original>Shed (Grey)</Original>
             <Chinese>鐵皮屋(灰色)</Chinese>
-            <Chinesesimp>铁皮屋(灰色)</Chinesesimp>
+            <Chinesesimp>铁皮屋（灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_shed_08_brown_ruins_f0">
             <Original>Shed (Brown, Ruin)</Original>
             <Chinese>鐵皮屋(棕色，廢墟)</Chinese>
-            <Chinesesimp>铁皮屋(棕色，废墟)</Chinesesimp>
+            <Chinesesimp>铁皮屋（棕色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_shed_08_brown_f0">
             <Original>Shed (Brown)</Original>
             <Chinese>鐵皮屋(棕色)</Chinese>
-            <Chinesesimp>铁皮屋(棕色)</Chinesesimp>
+            <Chinesesimp>铁皮屋（棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_barn_01_grey_ruins_f0">
             <Original>Barn (Grey, Ruin)</Original>
             <Chinese>穀倉(灰色，廢墟)</Chinese>
-            <Chinesesimp>谷仓(灰色，废墟)</Chinesesimp>
+            <Chinesesimp>谷仓（灰色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_barn_01_grey_f0">
             <Original>Barn (Grey)</Original>
             <Chinese>穀倉(灰色)</Chinese>
-            <Chinesesimp>谷仓(灰色)</Chinesesimp>
+            <Chinesesimp>谷仓（灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_barn_01_brown_ruins_f0">
             <Original>Barn (Brown, Ruin)</Original>
             <Chinese>穀倉(棕色，廢墟)</Chinese>
-            <Chinesesimp>谷仓(棕色，废墟)</Chinesesimp>
+            <Chinesesimp>谷仓（棕色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_barn_01_brown_f0">
             <Original>Barn (Brown)</Original>
             <Chinese>穀倉(棕色)</Chinese>
-            <Chinesesimp>谷仓(棕色)</Chinesesimp>
+            <Chinesesimp>谷仓（棕色）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Materials">
           <Key ID="str_a3_land_woodenplanks_01_messy_f0">
             <Original>Stack of Planks (Kauri, Unfinished)</Original>
             <Chinese>木板堆(考里松，未完成)</Chinese>
-            <Chinesesimp>木板堆(考里松，未完成)</Chinesesimp>
+            <Chinesesimp>木板堆（考里松，未完成）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_woodenplanks_01_f0">
             <Original>Stack of Planks (Kauri)</Original>
             <Chinese>木板堆(考里松)</Chinese>
-            <Chinesesimp>木板堆(考里松)</Chinesesimp>
+            <Chinesesimp>木板堆（考里松）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_woodenplanks_01_pine_f0">
             <Original>Stack of Planks (Pine)</Original>
             <Chinese>木板堆(松樹)</Chinese>
-            <Chinesesimp>木板堆(松树)</Chinesesimp>
+            <Chinesesimp>木板堆（松树）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_woodenplanks_01_messy_pine_f0">
             <Original>Stack of Planks (Pine, Unfinished)</Original>
             <Chinese>木板堆(松樹，未完成)</Chinese>
-            <Chinesesimp>木板堆(松树，未完成)</Chinesesimp>
+            <Chinesesimp>木板堆（松树，未完成）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -1155,29 +1155,29 @@
           <Key ID="str_a3_land_lighthouse_f0">
             <Original>Lighthouse (Tall)</Original>
             <Chinese>燈塔(高)</Chinese>
-            <Chinesesimp>灯塔(高)</Chinesesimp>
+            <Chinesesimp>灯塔（高）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_lighthouse_03_red_f0">
             <Original>Lighthouse (Red)</Original>
             <Chinese>燈塔(紅色)</Chinese>
-            <Chinesesimp>灯塔(红色)</Chinesesimp>
+            <Chinesesimp>灯塔（红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_lighthouse_03_green_f0">
             <Original>Lighthouse (Green)</Original>
             <Chinese>燈塔(綠色)</Chinese>
-            <Chinesesimp>灯塔(绿色)</Chinesesimp>
+            <Chinesesimp>灯塔（绿色）</Chinesesimp>
           </Key>
         </Container>
         <Container name="WaterSupply">
           <Key ID="str_a3_cfgvehicles_land_reservoirtank_01_military_ruins_f0">
             <Original>Reservoir Tank (Military, Ruin)</Original>
             <Chinese>蓄水槽(軍事，廢墟)</Chinese>
-            <Chinesesimp>蓄水槽(军事，废墟)</Chinesesimp>
+            <Chinesesimp>蓄水槽（军事，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_reservoirtank_01_military_f0">
             <Original>Reservoir Tank (Military)</Original>
             <Chinese>蓄水槽(軍事)</Chinese>
-            <Chinesesimp>蓄水槽(军事)</Chinesesimp>
+            <Chinesesimp>蓄水槽（军事）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -1186,118 +1186,118 @@
           <Key ID="str_a3_cfgvehicles_land_bunker_01_tall_f0">
             <Original>Modular Bunker (Tall)</Original>
             <Chinese>模塊化掩體(高)</Chinese>
-            <Chinesesimp>模块化掩体(高)</Chinesesimp>
+            <Chinesesimp>模块化掩体（高）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_bunker_01_small_f0">
             <Original>Modular Bunker (Small)</Original>
             <Chinese>模塊化掩體(小型)</Chinese>
-            <Chinesesimp>模块化掩体(小型)</Chinesesimp>
+            <Chinesesimp>模块化掩体（小型）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_bunker_01_hq_f0">
             <Original>Modular Bunker (HQ)</Original>
             <Chinese>模塊化掩體(總部)</Chinese>
-            <Chinesesimp>模块化掩体(总部)</Chinesesimp>
+            <Chinesesimp>模块化掩体（总部）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_bunker_01_blocks_3_f0">
             <Original>Modular Bunker (3 Blocks)</Original>
             <Chinese>模塊化掩體(3個)</Chinese>
-            <Chinesesimp>模块化掩体(3个)</Chinesesimp>
+            <Chinesesimp>模块化掩体（3个）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_bunker_01_blocks_1_f0">
             <Original>Modular Bunker (Block)</Original>
             <Chinese>模塊化掩體(1個)</Chinese>
-            <Chinesesimp>模块化掩体(1个)</Chinesesimp>
+            <Chinesesimp>模块化掩体（1个）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_bunker_01_big_f0">
             <Original>Modular Bunker (Big)</Original>
             <Chinese>模塊化掩體(大型)</Chinese>
-            <Chinesesimp>模块化掩体(大型)</Chinesesimp>
+            <Chinesesimp>模块化掩体（大型）</Chinesesimp>
           </Key>
         </Container>
         <Container name="ContainerBases">
           <Key ID="str_a3_cfgvehicles_land_cargo_tower_v3_derelict_f0">
             <Original>Military Cargo Tower (Rusty, Derelict)</Original>
             <Chinese>軍用貨櫃哨塔(生鏽，廢棄)</Chinese>
-            <Chinesesimp>军用货柜哨塔(生锈，废弃)</Chinesesimp>
+            <Chinesesimp>军用货柜哨塔（生锈，废弃）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo_patrol_v3_derelict_f0">
             <Original>Military Cargo Post (Rusty, Derelict)</Original>
             <Chinese>軍用貨櫃警戒哨(生鏽，廢棄)</Chinese>
-            <Chinesesimp>军用货柜警戒哨(生锈，废弃)</Chinesesimp>
+            <Chinesesimp>军用货柜警戒哨（生锈，废弃）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo_hq_v3_derelict_f0">
             <Original>Military Cargo HQ (Rusty, Derelict)</Original>
             <Chinese>軍用貨櫃總部(生鏽，廢棄)</Chinese>
-            <Chinesesimp>军用货柜总部(生锈，废弃)</Chinesesimp>
+            <Chinesesimp>军用货柜总部（生锈，废弃）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo_house_v3_derelict_f0">
             <Original>Military Cargo House (Rusty, Derelict)</Original>
             <Chinese>軍用貨櫃屋(生鏽，廢棄)</Chinese>
-            <Chinesesimp>军用货柜屋(生锈，废弃)</Chinesesimp>
+            <Chinesesimp>军用货柜屋（生锈，废弃）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Domes">
           <Key ID="str_a3_land_dome_small_f0">
             <Original>Dome (White)</Original>
             <Chinese>圓屋頂(白色)</Chinese>
-            <Chinesesimp>圆屋顶(白色)</Chinesesimp>
+            <Chinesesimp>圆屋顶（白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_dome_big_f0">
             <Original>Dome (Big, White)</Original>
             <Chinese>圓屋頂(大型，白色)</Chinese>
-            <Chinesesimp>圆屋顶(大型，白色)</Chinesesimp>
+            <Chinesesimp>圆屋顶（大型，白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_domedebris_01_struts_small_green_f0">
             <Original>Dome Struts (Camo)</Original>
             <Chinese>圓屋頂支架(迷彩)</Chinese>
-            <Chinesesimp>圆屋顶支架(迷彩)</Chinesesimp>
+            <Chinesesimp>圆屋顶支架（迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_domedebris_01_struts_large_green_f0">
             <Original>Dome Debris (Camo)</Original>
             <Chinese>圓屋頂殘骸(迷彩)</Chinese>
-            <Chinesesimp>圆屋顶残骸(迷彩)</Chinesesimp>
+            <Chinesesimp>圆屋顶残骸（迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_domedebris_01_hex_green_f0">
             <Original>Dome Panel (Camo)</Original>
             <Chinese>圓屋頂面板(迷彩)</Chinese>
-            <Chinesesimp>圆屋顶面板(迷彩)</Chinesesimp>
+            <Chinesesimp>圆屋顶面板（迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_domedebris_01_hex_damaged_green_f0">
             <Original>Dome Panel Shards (Camo)</Original>
             <Chinese>圓屋頂面板碎片(迷彩)</Chinese>
-            <Chinesesimp>圆屋顶面板碎片(迷彩)</Chinesesimp>
+            <Chinesesimp>圆屋顶面板碎片（迷彩）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_dome_01_small_green_ruins_f0">
             <Original>Dome (Camo, Ruin)</Original>
             <Chinese>圓屋頂(迷彩，廢墟)</Chinese>
-            <Chinesesimp>圆屋顶(迷彩，废墟)</Chinesesimp>
+            <Chinesesimp>圆屋顶（迷彩，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_dome_01_big_green_ruins_v2_f0">
             <Original>Dome (Big, Camo, Ruin)</Original>
             <Chinese>圓屋頂(大型，迷彩，廢墟)</Chinese>
-            <Chinesesimp>圆屋顶(大型，迷彩，废墟)</Chinesesimp>
+            <Chinesesimp>圆屋顶（大型，迷彩，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_dome_01_big_green_ruins_v1_f0">
             <Original>Dome (Big, Camo, Damaged)</Original>
             <Chinese>圓屋頂(大型，迷彩，損毀)</Chinese>
-            <Chinesesimp>圆屋顶(大型，迷彩，损毁)</Chinesesimp>
+            <Chinesesimp>圆屋顶（大型，迷彩，损毁）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Fortifications">
           <Key ID="str_a3_cfgvehicles_land_sandbagbarricade_01_hole_f0">
             <Original>Sandbag Barricade (Tall, Hole)</Original>
             <Chinese>沙包路障(高，缺口)</Chinese>
-            <Chinesesimp>沙包路障(高，缺口)</Chinesesimp>
+            <Chinesesimp>沙包路障（高，缺口）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_sandbagbarricade_01_half_f0">
             <Original>Sandbag Barricade (Short)</Original>
             <Chinese>沙包路障(矮)</Chinese>
-            <Chinesesimp>沙包路障(矮)</Chinesesimp>
+            <Chinesesimp>沙包路障（矮）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_sandbagbarricade_01_f0">
             <Original>Sandbag Barricade (Tall)</Original>
             <Chinese>沙包路障(高)</Chinese>
-            <Chinesesimp>沙包路障(高)</Chinesesimp>
+            <Chinesesimp>沙包路障（高）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_czechhedgehog_01_f0">
             <Original>Czech Hedgehog</Original>
@@ -1307,19 +1307,19 @@
           <Key ID="str_a3_cfgvehicles_land_barricade_01_4m_f0">
             <Original>Junk Barricade (4 m)</Original>
             <Chinese>垃圾路障(4公尺)</Chinese>
-            <Chinesesimp>垃圾路障(4米)</Chinesesimp>
+            <Chinesesimp>垃圾路障（4米）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_barricade_01_10m_f0">
             <Original>Junk Barricade (10 m)</Original>
             <Chinese>垃圾路障(10公尺)</Chinese>
-            <Chinesesimp>垃圾路障(10米)</Chinesesimp>
+            <Chinesesimp>垃圾路障（10米）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Turrets">
           <Key ID="str_a3_cfgvehicles_land_turret_01_ruins_f0">
             <Original>AA Turret (Ruin)</Original>
             <Chinese>防空炮塔(廢墟)</Chinese>
-            <Chinesesimp>防空炮塔(废墟)</Chinesesimp>
+            <Chinesesimp>防空炮塔（废墟）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -1328,47 +1328,47 @@
           <Key ID="str_a3_land_sign_warningmilitaryvehicles_f0">
             <Original>Sign (Military Vehicles, Greek &amp; English)</Original>
             <Chinese>標誌(軍事載具，希臘語&amp;英語)</Chinese>
-            <Chinesesimp>标志(军事载具，希腊语&amp;英语)</Chinesesimp>
+            <Chinesesimp>标志（军事载具，希腊语&amp;英语）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_sign_warningmilitaryarea_f0">
             <Original>Sign (Military Area, Greek &amp; English)</Original>
             <Chinese>標誌(軍事用地，希臘語&amp;英語)</Chinese>
-            <Chinesesimp>标志(军事用地，希腊语&amp;英语)</Chinesesimp>
+            <Chinesesimp>标志（军事用地，希腊语&amp;英语）</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_sign_warningmilareasmall_f0">
             <Original>Sign (Military Area, Small, Greek &amp; English)</Original>
             <Chinese>標誌(軍事用地，小型，希臘語&amp;英語)</Chinese>
-            <Chinesesimp>标志(军事用地，小型，希腊语&amp;英语)</Chinesesimp>
+            <Chinesesimp>标志（军事用地，小型，希腊语&amp;英语）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_signm_warningmilitaryvehicles_english_f0">
             <Original>Sign (Military Vehicles, English)</Original>
             <Chinese>標誌(軍事載具，英語)</Chinese>
-            <Chinesesimp>标志(军事载具，英语)</Chinesesimp>
+            <Chinesesimp>标志（军事载具，英语）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_signm_warningmilitaryarea_english_f0">
             <Original>Sign (Military Area, English)</Original>
             <Chinese>標誌(軍事用地，英語)</Chinese>
-            <Chinesesimp>标志(军事用地，英语)</Chinesesimp>
+            <Chinesesimp>标志（军事用地，英语）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_signm_warningmilareasmall_english_f0">
             <Original>Sign (Military Area, Small, English)</Original>
             <Chinese>標誌(軍事用地，小型，英語)</Chinese>
-            <Chinesesimp>标志(军事用地，小型，英语)</Chinesesimp>
+            <Chinesesimp>标志（军事用地，小型，英语）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_signm_taxi_f0">
             <Original>Sign (Taxi)</Original>
             <Chinese>標誌(計程車)</Chinese>
-            <Chinesesimp>标志(计程车)</Chinesesimp>
+            <Chinesesimp>标志（计程车）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_signm_forsale_f0">
             <Original>Sign (For Sale)</Original>
             <Chinese>標誌(販售中)</Chinese>
-            <Chinesesimp>标志(贩售中)</Chinesesimp>
+            <Chinesesimp>标志（贩售中）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_signm_forrent_f0">
             <Original>Sign (For Rent)</Original>
             <Chinese>標誌(出租中)</Chinese>
-            <Chinesesimp>标志(出租中)</Chinesesimp>
+            <Chinesesimp>标志（出租中）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -1378,47 +1378,47 @@
         <Key ID="str_a3_cfgvehicles_land_limestone_01_wallv_f0">
           <Original>Tall Rock (Limestone)</Original>
           <Chinese>高的石頭(石灰巖)</Chinese>
-          <Chinesesimp>高的石头(石灰岩)</Chinesesimp>
+          <Chinesesimp>高的石头（石灰岩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_limestone_01_wallh_f0">
           <Original>Long Rock (Limestone)</Original>
           <Chinese>長的石頭(石灰巖)</Chinese>
-          <Chinesesimp>长的石头(石灰岩)</Chinesesimp>
+          <Chinesesimp>长的石头（石灰岩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_limestone_01_spike_f0">
           <Original>Rock (Limestone)</Original>
           <Chinese>石頭(石灰巖)</Chinese>
-          <Chinesesimp>石头(石灰岩)</Chinesesimp>
+          <Chinesesimp>石头（石灰岩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_limestone_01_monolith_f0">
           <Original>Flat Rock (Limestone)</Original>
           <Chinese>扁的石頭(石灰巖)</Chinese>
-          <Chinesesimp>扁的石头(石灰岩)</Chinesesimp>
+          <Chinesesimp>扁的石头（石灰岩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_limestone_01_erosion_f0">
           <Original>Cluster of Small Stones (Limestone)</Original>
           <Chinese>一群小型石頭(石灰巖)</Chinese>
-          <Chinesesimp>一群小型石头(石灰岩)</Chinesesimp>
+          <Chinesesimp>一群小型石头（石灰岩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_limestone_01_apart_f0">
           <Original>Cluster of Big Stones (Limestone)</Original>
           <Chinese>一群大型石頭(石灰巖)</Chinese>
-          <Chinesesimp>一群大型石头(石灰岩)</Chinesesimp>
+          <Chinesesimp>一群大型石头（石灰岩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_limestone_01_03_f0">
           <Original>Small Stone (Limestone)</Original>
           <Chinese>小型石頭(石灰巖)</Chinese>
-          <Chinesesimp>小型石头(石灰岩)</Chinesesimp>
+          <Chinesesimp>小型石头（石灰岩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_limestone_01_02_f0">
           <Original>Big Stone (Limestone)</Original>
           <Chinese>大型石頭(石灰巖)</Chinese>
-          <Chinesesimp>大型石头(石灰岩)</Chinesesimp>
+          <Chinesesimp>大型石头（石灰岩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_limestone_01_01_f0">
           <Original>Medium Stone (Limestone)</Original>
           <Chinese>中型石頭(石灰巖)</Chinese>
-          <Chinesesimp>中型石头(石灰岩)</Chinesesimp>
+          <Chinesesimp>中型石头（石灰岩）</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -1492,17 +1492,17 @@
       <Key ID="str_a3_cfgeditorcategories_edcat_structures_malden0">
         <Original>Structures (Malden)</Original>
         <Chinese>建築物(馬爾登)</Chinese>
-        <Chinesesimp>建筑物(马尔登)</Chinesesimp>
+        <Chinesesimp>建筑物（马尔登）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgeditorcategories_edcat_ruins_malden0">
         <Original>Ruins (Malden)</Original>
         <Chinese>廢墟(馬爾登)</Chinese>
-        <Chinesesimp>废墟(马尔登)</Chinesesimp>
+        <Chinesesimp>废墟（马尔登）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_argo_Overview0">
         <Original>Everyone is invited to celebrate the 16th Armaversary on a modern re-imagination of the classic Malden terrain. Dive into the authentic and dynamic Combat Patrol multiplayer mode and complete tactical objectives on all vanilla terrains. This DLC is free for all players as token of appreciation to the best community in the world.</Original>
         <Chinese>我們誠摯的邀請大家參與慶祝武裝突襲系列16週年慶的活動，希望大家能好好享受這個現代化的馬爾登地圖。挑戰真正且動態的戰鬥巡邏多人任務，你可以在所有官方原版地圖上遊玩這個模式。這個資料片是免費送給全世界最讚的玩家社群的禮物。</Chinese>
-        <Chinesesimp>我们诚挚的邀请大家参与庆祝武装突袭系列16周年庆的活动，希望大家能好好享受这个现代化的马尔登地图。挑战真正且动态的战斗巡逻多人任务，你可以在所有官方原版地图上游玩这个模式。这个DLC是免费送给全世界最赞的玩家社区的礼物。</Chinesesimp>
+        <Chinesesimp>我们诚挚的邀请大家参与庆祝武装突袭系列16周年庆的活动，希望大家能好好享受这个现代化的马尔登地图。挑战真正且动态的战斗巡逻多人任务，你可以在所有官方原版地图上游玩这个模式。这个 DLC 是免费送给全世界最赞的玩家社区的礼物。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_argo_nameshort0">
         <Original>Malden</Original>
@@ -1576,7 +1576,7 @@
       <Key ID="str_a3_rscdisplaywelcome_malden_pard">
         <Original>Arma 3 Malden DLC contains the following free content for everyone who owns the base game:</Original>
         <Chinese>武裝突襲3馬爾登資料片包含了以下免費內容給任何擁有主程式的玩家:</Chinese>
-        <Chinesesimp>武装突袭3马尔登DLC包含了以下免费内容给任何拥有主程序的玩家:</Chinesesimp>
+        <Chinesesimp>武装突袭3马尔登 DLC 包含了以下免费内容给任何拥有主程序的玩家:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_parc_title">
         <Original>MULTIPLAYER MODES</Original>
@@ -1586,7 +1586,7 @@
       <Key ID="str_a3_rscdisplaywelcome_malden_parc">
         <Original>To (re)introduce Malden to you in a fun way, we are releasing a completely new &lt;t color='%1'&gt;multiplayer&lt;/t&gt; mode, Combat Patrol, as well as instances of the Escape mode for our two most recent terrains (Tanoa and Malden). &lt;a href='%3' color='%2'&gt;Combat Patrol&lt;/a&gt; is a quick and dynamic cooperative multiplayer mode in which you are a member of an infantry team with the possibility to select the Area of Operations. Each play-through will be different thanks to the mode's heavily randomized nature and behavior. If you want to experience authentic Arma gameplay, then Combat Patrol is a great starting point. The mode is available for all of our official terrains, including Malden. &lt;t color='%1'&gt;Escape&lt;/t&gt; is the multiplayer mode known from its original Altis variant, now also available for Malden and Tanoa (as a bonus for &lt;a href='%4' color='%2'&gt;Apex&lt;/a&gt; owners). Can you handle the challenge and escape the islands together against overwhelming odds?</Original>
         <Chinese>為了以有趣的方式重新向你介紹馬爾登，我們釋出了一個全新的&lt;tcolor='%1'&gt;多人遊戲&lt;/t&gt;模式，戰鬥巡邏，同時也讓逃離的任務模式增加到最新的兩個地圖上(塔諾亞和馬爾登)。&lt;ahref='%3'color='%2'&gt;戰鬥巡邏&lt;/a&gt;是個快速且動態的多人合作遊戲模式，你跟你的隊友可以自行選擇要出任務的地點。感謝模組高度化的隨機性，在你每次遊玩任務的時候都會有不一樣的體驗。如果你想體驗正宗的武裝突襲遊戲體驗的話，那麼戰鬥巡邏就是個不錯的開始。這個模式是可以在我們所有原版的地圖上遊玩，包括新推出的馬爾登。&lt;tcolor='%1'&gt;逃離&lt;/t&gt;這個多人遊戲模式是從原本阿爾蒂斯上的任務變化而來的，現在也可以在馬爾登與塔諾亞上玩到此模式(也當作是給擁有&lt;ahref='%4'color='%2'&gt;頂尖&lt;/a&gt;資料片玩家的額外內容)。你能突破所有挑戰並成功逃離這些島嗎?</Chinese>
-        <Chinesesimp>为了以有趣的方式重新向你介绍马尔登，我们放出了一个全新的&lt;tcolor='%1'&gt;多人游戏&lt;/t&gt;模式，战斗巡逻，同时也让逃离的任务模式增加到最新的两个地图上(塔诺亚和马尔登)。&lt;ahref='%3'color='%2'&gt;战斗巡逻&lt;/a&gt;是个快速且动态的多人合作游戏模式，你跟你的队友可以自行选择执行任务的地点。感谢模组高度化的随机性，在你每次游玩任务的时候都会有不一样的体验。如果你想体验正宗的武装突袭游戏体验的话，那么战斗巡逻就是个不错的开始。这个模式是可以在我们所有原版的地图上游玩，包括新推出的马尔登。&lt;tcolor='%1'&gt;逃离&lt;/t&gt;这个多人游戏模式是从原本阿尔蒂斯上的任务变化而来的，现在也可以在马尔登与塔诺亚上玩到此模式(也当作是给拥有&lt;ahref='%4'color='%2'&gt;Apex&lt;/a&gt;DLC玩家的额外内容)。你能完成所有挑战并成功逃离这些岛吗?</Chinesesimp>
+        <Chinesesimp>为了以有趣的方式重新向你介绍马尔登，我们放出了一个全新的&lt;tcolor='%1'&gt;多人游戏&lt;/t&gt;模式，战斗巡逻，同时也让逃离的任务模式增加到最新的两个地图上(塔诺亚和马尔登)。&lt;ahref='%3'color='%2'&gt;战斗巡逻&lt;/a&gt;是个快速且动态的多人合作游戏模式，你跟你的队友可以自行选择执行任务的地点。感谢模组高度化的随机性，在你每次游玩任务的时候都会有不一样的体验。如果你想体验正宗的武装突袭游戏体验的话，那么战斗巡逻就是个不错的开始。这个模式是可以在我们所有原版的地图上游玩，包括新推出的马尔登。&lt;tcolor='%1'&gt;逃离&lt;/t&gt;这个多人游戏模式是从原本阿尔蒂斯上的任务变化而来的，现在也可以在马尔登与塔诺亚上玩到此模式（也当作是给拥有&lt;ahref='%4'color='%2'&gt;Apex&lt;/a&gt;DLC 玩家的额外内容）。你能完成所有挑战并成功逃离这些岛吗?</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_parb_title">
         <Original>NEW TERRAIN_</Original>
@@ -1606,34 +1606,34 @@
       <Key ID="str_a3_rscdisplaywelcome_malden_para">
         <Original>Welcome back to Malden, soldier! Sixteen years ago, we started our amazing journey with the Arma franchise here. We hope you'll enjoy this recreation of &lt;t color='%1'&gt;Malden&lt;/t&gt;, which is sure to bring back many memories of a certain flashpoint occurring on the island. Alongside the new terrain, we are also releasing a new cooperative mode: &lt;t color='%1'&gt;Combat Patrol&lt;/t&gt;. Please enjoy this free DLC as a token of our appreciation to the best community in the world. You have been with us every step of the way and got Arma to where it is now. &lt;t color='%1'&gt;Thank you!&lt;/t&gt;</Original>
         <Chinese>歡迎回到馬爾登，大兵!16年前，我們從這邊開始了武裝突襲系列的奇幻旅程。我們希望你能享受這個重新製作的&lt;tcolor='%1'&gt;Malden&lt;/t&gt;，這島肯定能為你帶來許多以前經典的回憶。除了新的地形，我們也釋出了新的多人合作遊戲模式:&lt;tcolor='%1'&gt;戰鬥巡邏&lt;/t&gt;。這個資料片是免費送給全世界最讚的玩家社群的禮物。謝謝你們一直以來陪伴武裝突襲走到今天。&lt;tcolor='%1'&gt;感謝你們!&lt;/t&gt;</Chinese>
-        <Chinesesimp>欢迎回到马尔登，大兵!16年前，我们从这边开始了武装突袭3系列的奇幻旅程。我们希望你能享受这个重新制作的&lt;tcolor='%1'&gt;马尔登&lt;/t&gt;，马尔登岛肯定能为你带来许多以前经典的回忆。除了新的地形，我们也放出了新的多人合作游戏模式:&lt;tcolor='%1'&gt;战斗巡逻&lt;/t&gt;。这个DLC是免费送给全世界最赞的玩家社区的礼物。谢谢你们一直以来陪伴武装突袭走到今天。&lt;tcolor='%1'&gt;感谢你们!&lt;/t&gt;</Chinesesimp>
+        <Chinesesimp>欢迎回到马尔登，大兵!16年前，我们从这边开始了武装突袭3系列的奇幻旅程。我们希望你能享受这个重新制作的&lt;tcolor='%1'&gt;马尔登&lt;/t&gt;，马尔登岛肯定能为你带来许多以前经典的回忆。除了新的地形，我们也放出了新的多人合作游戏模式:&lt;tcolor='%1'&gt;战斗巡逻&lt;/t&gt;。这个 DLC 是免费送给全世界最赞的玩家社区的礼物。谢谢你们一直以来陪伴武装突袭走到今天。&lt;tcolor='%1'&gt;感谢你们!&lt;/t&gt;</Chinesesimp>
       </Key>
     </Container>
     <Container name="Props_F_Argo">
       <Key ID="str_a3_cfgvehicles_mapboard_tanoa_f0">
         <Original>Whiteboard (Map of Tanoa)</Original>
         <Chinese>白板(塔諾亞地圖)</Chinese>
-        <Chinesesimp>白板(塔诺亚地图)</Chinesesimp>
+        <Chinesesimp>白板（塔诺亚地图）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_mapboard_malden_f0">
         <Original>Whiteboard (Map of Malden)</Original>
         <Chinese>白板(馬爾登地圖)</Chinese>
-        <Chinesesimp>白板(马尔登地图)</Chinesesimp>
+        <Chinesesimp>白板（马尔登地图）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_map_unfolded_tanoa_f0">
         <Original>Sleeved Map (Tanoa)</Original>
         <Chinese>便攜型地圖(塔諾亞)</Chinese>
-        <Chinesesimp>便携型地图(塔诺亚)</Chinesesimp>
+        <Chinesesimp>便携型地图（塔诺亚）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_map_unfolded_malden_f0">
         <Original>Sleeved Map (Malden)</Original>
         <Chinese>便攜型地圖(馬爾登)</Chinese>
-        <Chinesesimp>便携型地图(马尔登)</Chinesesimp>
+        <Chinesesimp>便携型地图（马尔登）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_map_unfolded_altis_f0">
         <Original>Sleeved Map (Altis)</Original>
         <Chinese>便攜型地圖(阿爾蒂斯)</Chinese>
-        <Chinesesimp>便携型地图(阿尔蒂斯)</Chinesesimp>
+        <Chinesesimp>便携型地图（阿尔蒂斯）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_map_tanoa_f0">
         <Original>Map of Tanoa</Original>
@@ -1648,12 +1648,12 @@
       <Key ID="str_a3_cfgvehicles_land_laptop_02_unfolded_f0">
         <Original>Old Laptop (Open)</Original>
         <Chinese>舊筆記型電腦(開啟)</Chinese>
-        <Chinesesimp>旧笔记型电脑(开启)</Chinesesimp>
+        <Chinesesimp>旧笔记型电脑（开启）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_laptop_02_f0">
         <Original>Old Laptop (Closed)</Original>
         <Chinese>舊筆記型電腦(關閉)</Chinese>
-        <Chinesesimp>旧笔记型电脑(关闭)</Chinesesimp>
+        <Chinesesimp>旧笔记型电脑（关闭）</Chinesesimp>
       </Key>
     </Container>
     <Container name="FieldManual">
@@ -1717,7 +1717,7 @@
       <Key ID="str_a3_cfghints_maldendlc_malden0">
         <Original>Malden Free DLC</Original>
         <Chinese>馬爾登免費資料片</Chinese>
-        <Chinesesimp>马尔登免费DLC</Chinesesimp>
+        <Chinesesimp>马尔登免费 DLC</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_maldendlc_combatpatrol1">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Argo\Images\argo_contentBrowserPicture_co.paa' /&gt;
@@ -1735,7 +1735,7 @@
       <Key ID="str_a3_cfghints_maldendlc0">
         <Original>Malden DLC</Original>
         <Chinese>馬爾登資料片</Chinese>
-        <Chinesesimp>马尔登DLC</Chinesesimp>
+        <Chinesesimp>马尔登 DLC</Chinesesimp>
       </Key>
     </Container>
     <Container name="UI_F_Argo">
@@ -2022,7 +2022,7 @@
         <Key ID="str_a3_cfgworlds_malden_loadingtext130">
           <Original>National tree of Malden is the stone pine (Pinus pinea).</Original>
           <Chinese>馬爾登的國樹是石松樹(學名:Pinuspinea)。</Chinese>
-          <Chinesesimp>马尔登的国树是石松树(学名:Pinuspinea)。</Chinesesimp>
+          <Chinesesimp>马尔登的国树是石松树（学名:Pinuspinea）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext120">
           <Original>Saint Martin chapel near La Rivière is being visited by the pilgrims from all the Malden Islands.</Original>

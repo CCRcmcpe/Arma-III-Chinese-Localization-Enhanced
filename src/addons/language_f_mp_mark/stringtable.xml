@@ -72,7 +72,7 @@
       <Key ID="STR_A3_MP_GroupMarkers2">
         <Original>Group Markers allow you to visualize friendly groups near your location.%1%2Press %3[L CTRL]%4 + %11 to toggle group markers on and off</Original>
         <Chinese>小隊標幟功能可以讓你簡單的檢視附近友軍小隊的位置。%1%2按下%3[左CTRL]%4+%11來開啟或關閉小隊標幟</Chinese>
-        <Chinesesimp>小队标帜功能可以让你简单的检视附近友军小队的位置。%1%2按下%3[左CTRL]%4+%11来开启或关闭小队标帜</Chinesesimp>
+        <Chinesesimp>小队标帜功能可以让你简单的检视附近友军小队的位置。%1%2按下%3[左 CTRL]%4+%11来开启或关闭小队标帜</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MP_GroupMarkers3">
         <Original>****TO TRANSLATE****</Original>
@@ -191,7 +191,7 @@
       <Key ID="STR_A3_Revive_MSG_INCAPACITATED_BY_FF">
         <Original>%1 was incapacitated by %2 (friendly fire)</Original>
         <Chinese>%2讓%1無行動能力(友軍誤擊)</Chinese>
-        <Chinesesimp>%2让%1无行动能力(友军误击)</Chinesesimp>
+        <Chinesesimp>%2让%1无行动能力（友军误击）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Revive_MSG_KILLED">
         <Original>%1 was killed</Original>
@@ -206,7 +206,7 @@
       <Key ID="STR_A3_Revive_MSG_KILLED_BY_FF">
         <Original>%1 was killed by %2 (friendly fire)</Original>
         <Chinese>%1被%2擊殺(友軍誤擊)</Chinese>
-        <Chinesesimp>%1被%2击杀(友军误击)</Chinesesimp>
+        <Chinesesimp>%1被%2击杀（友军误击）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Revive_MSG_EXECUTED_BY">
         <Original>%1 was executed by %2</Original>
@@ -216,7 +216,7 @@
       <Key ID="STR_A3_Revive_MSG_EXECUTED_BY_FF">
         <Original>%1 was executed by %2 (friendly fire)</Original>
         <Chinese>%1被%2處決(友軍誤擊)</Chinese>
-        <Chinesesimp>%1被%2处决(友军误击)</Chinesesimp>
+        <Chinesesimp>%1被%2处决（友军误击）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Revive_MSG_FORCED_RESPAWN">
         <Original>%1 forced respawn</Original>
@@ -236,7 +236,7 @@
       <Key ID="STR_A3_Revive_MSG_NAME_TEMPLATE_AI">
         <Original>%1 (AI)</Original>
         <Chinese>%1(AI)</Chinese>
-        <Chinesesimp>%1(AI)</Chinesesimp>
+        <Chinesesimp>%1（AI）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Revive_MSG_SUICIDED">
         <Original>%1 suicided</Original>
@@ -465,7 +465,7 @@
       <Key ID="str_a3_endgame_tips">
         <Original>Establish FOB&lt;br/&gt;* Establishing your FOB first will give you an advantage against the enemy forces&lt;br/&gt;* Vehicles respawn at the FOB when destroyed&lt;br/&gt;&lt;br/&gt;Download Intel&lt;br/&gt;* Plan to approach Download Intel objectives carefully but quickly, or the enemy might get there first, destroy the Intel, and you won't be able to download&lt;br/&gt;* After downloading Intel from an objective, try to destroy to prevent the opposing side from downloading it themselves&lt;br/&gt;* Use the Dynamic Groups (Press U) to split in teams, and cover multiple objectives at the same time&lt;br/&gt;&lt;br/&gt;Secure Schematics&lt;br/&gt;* If your team needs to prevent the opposing team from uploading the schematics make sure to set up good defenses at the enemy upload site&lt;br/&gt;* Hunting the carrier can be a good approach, but remember not to leave the enemy's upload site unprotected&lt;br/&gt;* If your team needs to upload the schematics, make sure to protect the Carrier at all times, the success of the operation is in his hands&lt;br/&gt;&lt;br/&gt;Carrier&lt;br/&gt;* When carrying the schematics, if you are on the open, you are visible to the enemy&lt;br/&gt;* Try to move through buildings, trees and other structures so the enemy is not able to pinpoint your current location&lt;br/&gt;* Friendly forces are always able to track the carrier's location</Original>
         <Chinese>建立前線作戰基地&lt;br/&gt;*首先建立你的前線作戰基地，將能為你帶來戰術優勢好對付你的敵人&lt;br/&gt;*載具被摧毀時將自動重生於前線作戰基地&lt;br/&gt;&lt;br/&gt;下載情報&lt;br/&gt;*小心並迅速的前往情報地點，搶先在敵軍得到之前下載情報，如被敵軍摧毀情報的話，你將無法得到該情報&lt;br/&gt;*在下載情報完成之後，建議你摧毀該情報，避免其落入敵人之手&lt;br/&gt;*使用動態小隊(按下U)來組建小隊，藉此同時掌握複數目標&lt;br/&gt;&lt;br/&gt;奪取武器藍圖&lt;br/&gt;*假使你的小隊要阻止敵人上傳武器藍圖，建議你們前往敵軍的上傳地點並設好防守&lt;br/&gt;*獵殺情報攜帶者或許是個不錯的主意，但請不要忘記防守住敵軍的上傳地點&lt;br/&gt;*假使你的小隊要上傳武器藍圖，請確保藍圖攜帶者安全，成功的關鍵就掌握在他手上&lt;br/&gt;&lt;br/&gt;攜帶者&lt;br/&gt;*當你攜帶藍圖時，假如你身處無遮掩環境，你將容易被敵人獵殺&lt;br/&gt;*嘗試藉由建築物，樹木與其他掩體來隱藏自身的行蹤，確保敵人無法有效追蹤你&lt;br/&gt;*友軍部隊永遠都知道藍圖攜帶者的當前位置</Chinese>
-        <Chinesesimp>建立前进作战基地&lt;br/&gt;*首先建立你的前进作战基地，将能为你带来战术优势以便对付你的敌人&lt;br/&gt;*载具被摧毁时将自动重生于前进作战基地&lt;br/&gt;&lt;br/&gt;下载情报&lt;br/&gt;*小心并迅速的前往情报地点，抢先在敌军得到之前下载情报，如被敌军摧毁情报的话，你将无法得到该情报&lt;br/&gt;*在下载情报完成之后，建议你摧毁该情报，避免其落入敌人之手&lt;br/&gt;*使用动态小队(按下U)来组建小队，藉此同时掌握复数目标&lt;br/&gt;&lt;br/&gt;夺取武器蓝图&lt;br/&gt;*假使你的小队要阻止敌人上传武器蓝图，建议你们前往敌军的上传地点并设好防守&lt;br/&gt;*猎杀情报携带者或许是个不错的主意，但请不要忘记防守住敌军的上传地点&lt;br/&gt;*假使你的小队要上传武器蓝图，请确保蓝图携带者安全，成功的关键就掌握在他手上&lt;br/&gt;&lt;br/&gt;携带者&lt;br/&gt;*当你携带蓝图时，假如你身处无遮掩环境，你将容易被敌人猎杀&lt;br/&gt;*尝试藉由建筑物，树木与其他掩体来隐藏自身的行踪，确保敌人无法有效追踪你&lt;br/&gt;*友军部队永远都知道蓝图携带者的当前位置</Chinesesimp>
+        <Chinesesimp>建立前进作战基地&lt;br/&gt;*首先建立你的前进作战基地，将能为你带来战术优势以便对付你的敌人&lt;br/&gt;*载具被摧毁时将自动重生于前进作战基地&lt;br/&gt;&lt;br/&gt;下载情报&lt;br/&gt;*小心并迅速的前往情报地点，抢先在敌军得到之前下载情报，如被敌军摧毁情报的话，你将无法得到该情报&lt;br/&gt;*在下载情报完成之后，建议你摧毁该情报，避免其落入敌人之手&lt;br/&gt;*使用动态小队（按下U）来组建小队，藉此同时掌握复数目标&lt;br/&gt;&lt;br/&gt;夺取武器蓝图&lt;br/&gt;*假使你的小队要阻止敌人上传武器蓝图，建议你们前往敌军的上传地点并设好防守&lt;br/&gt;*猎杀情报携带者或许是个不错的主意，但请不要忘记防守住敌军的上传地点&lt;br/&gt;*假使你的小队要上传武器蓝图，请确保蓝图携带者安全，成功的关键就掌握在他手上&lt;br/&gt;&lt;br/&gt;携带者&lt;br/&gt;*当你携带蓝图时，假如你身处无遮掩环境，你将容易被敌人猎杀&lt;br/&gt;*尝试藉由建筑物，树木与其他掩体来隐藏自身的行踪，确保敌人无法有效追踪你&lt;br/&gt;*友军部队永远都知道蓝图携带者的当前位置</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_tasks_waypoint_upload">
         <Original>UPLOAD</Original>
@@ -545,7 +545,7 @@
       <Key ID="str_a3_endgame_tasks_description_laptop">
         <Original>Raid the AAF outpost and retrieve any intel you find.</Original>
         <Chinese>突襲阿爾蒂斯武裝力量的前哨，取回任何你找到的情報。</Chinese>
-        <Chinesesimp>突袭AAF的前哨，取回任何你找到的情报。</Chinesesimp>
+        <Chinesesimp>突袭 AAF 的前哨，取回任何你找到的情报。</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_tasks_description_fob">
         <Original>Establish a Forward Operating Base (FOB) at the designated location.</Original>
@@ -970,7 +970,7 @@
       <Key ID="STR_A3_EndGame_RespawnDelayLast">
         <Original>Respawn delay (Last phase)</Original>
         <Chinese>重生延遲(最終階段)</Chinese>
-        <Chinesesimp>重生延迟(最终阶段)</Chinesesimp>
+        <Chinesesimp>重生延迟（最终阶段）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_EndGame_RespawnDelayLast_20">
         <Original>20 seconds</Original>

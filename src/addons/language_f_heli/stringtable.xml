@@ -95,7 +95,7 @@
       <Key ID="str_a3_helitrim_main_desc">
         <Original>%1The Advanced flight model allows you to trim the controls.%1The so-called Auto-trim feature is a game difficulty option that handles anti-torque pedal input.%1Enabling Manual Trim allows control over the center position offset (incl. pedals). When you have established your new desired flight attitude, you can disable Manual Trim %11 and return controls to neutral position. There are other keys that can be used to adjust each controller offset gradually.</Original>
         <Chinese>%1在進階飛行模式中，你可以對操縱桿進行微調。%1在遊戲難度選項中，自動微調將幫助你抵抗旋翼所產生的扭力。%1開啟手動微調將使你可以設定操縱桿的偏移量(包括尾翼)。當你調整好你的飛行姿態後，你可以使用%11來關閉微調，並回歸原始操縱桿位置。還有很多其他按鍵用來進行操縱桿的微調。</Chinese>
-        <Chinesesimp>%1在进阶飞行模式中，你可以对操纵杆进行微调。%1在游戏难度选项中，自动微调将帮助你抵抗旋翼所产生的扭力。%1开启手动微调将使你可以设定操纵杆的偏移量(包括尾翼)。当你调整好你的飞行姿态后，你可以使用%11来关闭微调，并回归原始操纵杆位置。还有很多其它按键用来进行操纵杆的微调。</Chinesesimp>
+        <Chinesesimp>%1在进阶飞行模式中，你可以对操纵杆进行微调。%1在游戏难度选项中，自动微调将帮助你抵抗旋翼所产生的扭力。%1开启手动微调将使你可以设定操纵杆的偏移量（包括尾翼）。当你调整好你的飞行姿态后，你可以使用%11来关闭微调，并回归原始操纵杆位置。还有很多其它按键用来进行操纵杆的微调。</Chinesesimp>
       </Key>
       <Key ID="str_a3_helitranslationallift_main_title">
         <Original>Translational Lift</Original>
@@ -130,7 +130,7 @@
       <Key ID="str_a3_helistressdamage_main_desc">
         <Original>The Advanced flight model calculates both the force on the rotors (drag) and the transmission (torque). The pilot can exceed construction limits and break each component. Those limits can be turned off in the game difficulty settings, but forces on rotors will still be simulated and may result in the loss of main rotor RPM. This will cause the helicopter to stall. The pilot must lower the collective %11 in order to recover.</Original>
         <Chinese>進階飛行模式將會計算旋翼(阻力)和傳動裝置(扭矩)。駕駛飛行時，可能會做出一些太超過設計上所能承受的應力，這將使這些部件產生損壞。這些限制可在遊戲難度中進行調整，但旋翼的效果還是會在，如果發生損害，會使你的轉速降低，因而導致失速。駕駛必須降低集體桿%11來恢復。</Chinese>
-        <Chinesesimp>进阶飞行模式将会计算旋翼(阻力)和传动装置(扭矩)。驾驶飞行时，可能会做出一些太超过设计上所能承受的应力，这将使这些部件产生损坏。这些限制可在游戏难度中进行调整，但旋翼的效果还是会在，如果发生损害，会使你的转速降低，因而导致失速。驾驶必须降低集体杆%11来恢复。</Chinesesimp>
+        <Chinesesimp>进阶飞行模式将会计算旋翼(阻力)和传动装置（扭矩）。驾驶飞行时，可能会做出一些太超过设计上所能承受的应力，这将使这些部件产生损坏。这些限制可在游戏难度中进行调整，但旋翼的效果还是会在，如果发生损害，会使你的转速降低，因而导致失速。驾驶必须降低集体杆%11来恢复。</Chinesesimp>
       </Key>
       <Key ID="str_a3_heliroll_sub3_title">
         <Original>Cyclic - Sharp Turns</Original>
@@ -170,7 +170,7 @@
       <Key ID="str_a3_heliroll_main_desc">
         <Original>With the helicopter in a hover, moving the cyclic left or right will cause helicopter to slip sideways. If the helicopter flies at higher speeds it will roll, turning to the left or the right (similar to the behavior of fixed wing aircraft).%1%1%2To roll to the left, push the cyclic left %11.%1%2To roll to the right, push the cyclic right %12.</Original>
         <Chinese>當直升機盤旋時，使操縱桿向左或向右，會使直升機產生側滑。假如是在帶有一定速度下進行此動作，將使直升機進行翻滾(大致上跟固定翼飛機一樣)。%1%1%2使用%11來向左滾翻。%1%2使用%12來向右滾翻。</Chinese>
-        <Chinesesimp>当直升机盘旋时，使操纵杆向左或向右，会使直升机产生侧滑。假如是在带有一定速度下进行此动作，将使直升机进行翻滚(大致上跟固定翼飞机一样)。%1%1%2使用%11来向左滚翻。%1%2使用%12来向右滚翻。</Chinesesimp>
+        <Chinesesimp>当直升机盘旋时，使操纵杆向左或向右，会使直升机产生侧滑。假如是在带有一定速度下进行此动作，将使直升机进行翻滚（大致上跟固定翼飞机一样）。%1%1%2使用%11来向左滚翻。%1%2使用%12来向右滚翻。</Chinesesimp>
       </Key>
       <Key ID="str_a3_helipitch_sub4_title">
         <Original>Cyclic - Hover</Original>
@@ -290,7 +290,7 @@
       <Key ID="str_a3_heligroundeffect_main_desc">
         <Original>While hovering your helicopter near the ground (within 1/2 the diameter of the rotor), it will be influenced by ground effect. Ground effect is due to interference of the surface with the airflow pattern of the rotor. The aerodynamics change, requiring the pilot to compensate.</Original>
         <Chinese>當你盤旋在地面的附近時(距離旋翼1個半徑的距離)，你將感受到地面效應的影響。地面效應是由於地面影響了旋翼的空氣流動。空氣動力學將會發生改變，這必須靠駕駛來進行修正。</Chinese>
-        <Chinesesimp>当你盘旋在地面的附近时(距离旋翼1个半径的距离)，你将感受到地面效应的影响。地面效应是由于地面影响了旋翼的空气流动。空气动力学将会发生改变，这必须靠驾驶来进行修正。</Chinesesimp>
+        <Chinesesimp>当你盘旋在地面的附近时（距离旋翼1个半径的距离），你将感受到地面效应的影响。地面效应是由于地面影响了旋翼的空气流动。空气动力学将会发生改变，这必须靠驾驶来进行修正。</Chinesesimp>
       </Key>
       <Key ID="str_a3_helicollective_sub2_title">
         <Original>Collective - Flight</Original>
@@ -355,12 +355,12 @@
       <Key ID="str_a3_cfghints_premiumcontent_premiumheli1">
         <Original>Start the engines! Jump into new cargo helicopters and master a new sling loading feature to gain an advantage on the battlefield in the Arma 3 Helicopters DLC.%1&lt;img size='9' shadow='0' image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa' /&gt;%1%2CH-67 Huron - NATO's twin-engine, tandem rotor heavy-lift helicopter%1%2Mi-290 Taru - CSAT heavy utility helicopter using a coaxial rotor design%1%2M-900 - Civilian variant of the existing H-9 family of helicopters%1%2Sling Loading Objects%1%2Helicopter Objects%1%2F.O.B. Objects%1%2Support Multiplayer - a new mode in which battlefield logistics play a major role%1%2&lt;t&gt;&lt;/t&gt;4 VR Helicopter Training Course%1%2Showcase Sling Loading%1%2&lt;t&gt;&lt;/t&gt;5 Singleplayer Time Trial Challenges%1%2Set of extra Steam Achievements</Original>
         <Chinese>啟動引擎!駕駛新的運輸直升機，投入武裝突襲3戰場中體驗新的吊掛系統，一切盡在直升機資料片中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67"休倫"-北約的雙引擎，綜列式旋翼，重型吊掛直升機。%1%2米-290"塔魯"-廣協同盟的重型多用途直升機，使用同軸式旋翼設計%1%2M-900-現有的H-9系列的民用版本%1%2吊掛物件%1%2直升機物件%1%2前線作戰基地物件%1%2多人支援任務-一個新的多人遊戲模式，你將在這邊體驗到支援的樂趣%1%2&lt;t&gt;&lt;/t&gt;4虛擬直升機訓練課程%1%2吊掛任務展示%1%2&lt;t&gt;&lt;/t&gt;5個單人計時挑戰賽%1%2一組額外的Steam成就</Chinese>
-        <Chinesesimp>启动引擎!驾驶新的运输直升机，投入武装突袭3战场中体验新的吊挂系统，一切尽在直升机DLC中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67"休伦"-北约的双引擎，综列式旋翼，重型吊挂直升机。%1%2米-290"塔鲁"-广协的重型多用途直升机，使用同轴式旋翼设计%1%2M-900-现有的H-9系列的民用版本%1%2吊挂物件%1%2直升机物件%1%2前线作战基地物件%1%2多人支援任务-一个新的多人游戏模式，你将在这边体验到支援的乐趣%1%2&lt;t&gt;&lt;/t&gt;4虚拟直升机训练课程%1%2吊挂任务展示%1%2&lt;t&gt;&lt;/t&gt;5个单人计时挑战赛%1%2一组额外的Steam成就</Chinesesimp>
+        <Chinesesimp>启动引擎!驾驶新的运输直升机，投入武装突袭3战场中体验新的吊挂系统，一切尽在直升机 DLC 中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67"休伦"-北约的双引擎，综列式旋翼，重型吊挂直升机。%1%2米-290"塔鲁"-广协的重型多用途直升机，使用同轴式旋翼设计%1%2M-900-现有的H-9系列的民用版本%1%2吊挂物件%1%2直升机物件%1%2前线作战基地物件%1%2多人支援任务-一个新的多人游戏模式，你将在这边体验到支援的乐趣%1%2&lt;t&gt;&lt;/t&gt;4虚拟直升机训练课程%1%2吊挂任务展示%1%2&lt;t&gt;&lt;/t&gt;5个单人计时挑战赛%1%2一组额外的 Steam 成就</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumheli0">
         <Original>Helicopters DLC</Original>
         <Chinese>直升機資料片</Chinese>
-        <Chinesesimp>直升机DLC</Chinesesimp>
+        <Chinesesimp>直升机 DLC</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AutoHover1">
         <Original>Auto-hover</Original>
@@ -405,7 +405,7 @@
       <Key ID="STR_A3_CFGVEHICLES_B_HELI_LIGHT_01_ARMORY1">
         <Original>A light single-engine helicopter used in special operations by the US Army since the Vietnam War. It now exists in several variants used by both military and civilian transport. The AH-9 Pawnee variant is a light helicopter with the ability to carry anti-ground fixed forward-firing weapons such as unguided rockets and machine guns to provide direct air-support for the special operations forces. The MH-9 Hummingbird is mostly used as a special forces troop transport with two outboard benches. The M-900 is a civilian version. Closed cabin and comfortable interior provides space for two passengers.</Original>
         <Chinese>一種單引擎輕型直升機，最早是被美軍用在越戰的特種行動中。現存許多不同的版本，有軍用也有民用的。AH-9Pawnee的版本是能用來掛載空對地無導引火箭與機槍，使他能為特種部隊提供優勢的空中支援。而MH-9Hummingbird則廣泛的被特種部隊用在運輸用途上，他的外側有加掛兩個乘坐用板凳。M-900則是民用的版本，有著封閉式的內艙與舒適的內裝，除了駕駛外，他可以再搭載兩名乘客。</Chinese>
-        <Chinesesimp>一种单引擎轻型直升机，最早是被美军用在越战的特种行动中。现存许多不同的版本，有军用也有民用的。AH-9"波尼"的版本能用来挂载空对地无制导火箭弹与机枪，使它能为特种部队提供强大的空中支援。而MH-9"蜂鸟"则广泛的被特种部队用在运输用途上，它的外侧有加挂两个乘坐用板凳。M-900则是民用的版本，有着封闭式的内舱与舒适的内衬，除了驾驶外，它可以再搭载两名乘客。</Chinesesimp>
+        <Chinesesimp>一种单引擎轻型直升机，最早是被美军用在越战的特种行动中。现存许多不同的版本，有军用也有民用的。AH-9"波尼"的版本能用来挂载空对地无制导火箭弹与机枪，使它能为特种部队提供强大的空中支援。而 MH-9"蜂鸟"则广泛的被特种部队用在运输用途上，它的外侧有加挂两个乘坐用板凳。M-900则是民用的版本，有着封闭式的内舱与舒适的内衬，除了驾驶外，它可以再搭载两名乘客。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FieldManualLink">
         <Original>Some hints point to entries in the %3Field Manual%4. There, you will find more detailed information on the topic. %1%2Open the map by pressing %11.%1%2Select the Log tab from the list on the left.%1%2Select the Hints tab from the list that appears.%1%2Click the topic you want know more about.%1You will then be taken to the associated entry in the Field Manual.</Original>
@@ -435,7 +435,7 @@
       <Key ID="STR_A3_TimeTrials_HelicopterCPs2">
         <Original>Timeouts require you to keep your vehicle within the Check Point area until the timer runs out. This could be to force a hover or landing.%1%1Normal Check Points require you to fly through them from the front to the back. Some Check Points don't have this requirement and can be entered and exited from any direction.%1%1Some Check Points require you to be on the ground (landed). Note that you don't necessarily need to be standing still!</Original>
         <Chinese>計時類的檢查點你必須把載具停在檢查點的感應範圍內直到檢定結束。你可以使用懸停或落地來達到此一條件。%1%1普通的檢查點你必須從進入點飛入，並從出口出來才算完成檢定。但有些檢查點並無方向的限制。%1%1有些檢查點需要你降落才算完成檢定。(但你並不一定需要完全等到停止不動)</Chinese>
-        <Chinesesimp>计时类的检查点你必须把载具停在检查点的感应范围内直到检查结束。你可以使用悬停或落地来达到此一条件。%1%1普通的检查点你必须从进入点飞入，并从出口出来才算完成检定。但有些检查点并无方向的限制。%1%1有些检查点需要你降落才算完成检查。(但你并不一定需要完全等到停止不动)</Chinesesimp>
+        <Chinesesimp>计时类的检查点你必须把载具停在检查点的感应范围内直到检查结束。你可以使用悬停或落地来达到此一条件。%1%1普通的检查点你必须从进入点飞入，并从出口出来才算完成检定。但有些检查点并无方向的限制。%1%1有些检查点需要你降落才算完成检查。（但你并不一定需要完全等到停止不动）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_TimeTrials_SL0">
         <Original>Helicopter Sling Loading</Original>
@@ -535,7 +535,7 @@
       <Key ID="STR_A3_TARU_DESC_F0">
         <Original>The Mi-290 Taru is a CSAT heavy utility helicopter with coaxial rotors and a unique modular construction. Its design is inspired by both Kamov Ka-226 and S-64 Skycrane aircraft. Various mission pods allow Taru to serve many different roles. Primarily it can transport cargo (up to 13,500 kg), troops (up to 16 passengers), and provide battlefield supplies (ammunition, fuel, repair facilities, and medical equipment). The helicopter can also transport light vehicles thanks to Sling Loading capabilities. While the Taru is unarmed, it does have countermeasure launchers.</Original>
         <Chinese>Mi-290"塔魯"是一臺廣協同盟的重型多用途直升機，此機採用同軸式旋翼設計，並帶有特殊的模組化結構。他的設計是採用由卡莫夫設計局所研發的Ka-226和S-64S"西科斯基"。多種不同的吊倉，使"塔魯"能擔任不同的任務角色。他主要能運輸貨物(上限是13500公斤)，步兵(上限是16名乘員)，和多種戰地補給(彈藥，燃油，維修設施，醫療裝備)。感謝吊掛系統的能力，此直升機也可掛載一些輕型載具。即使"塔魯"本身是無武裝的，但它有裝設反制措施在機上。</Chinese>
-        <Chinesesimp>米-290"塔鲁"是广协的一种重型多用途直升机，此机采用同轴式旋翼设计，并采取独特的模块化结构。它的设计来源于卡莫夫设计局的卡-226和"西科斯基"S-64"天空吊车"。多种不同的吊舱，使"塔鲁"能担任不同的任务职责。它主要能运输货物(上限是13500千克)，步兵(上限是16名乘员)，还能提供多种战地补给(弹药，燃油，维修设施，医疗装备)。凭借吊挂系统的能力，此直升机也可挂载一些轻型载具。虽然"塔鲁"本身是无武装的，但它配备了干扰弹。</Chinesesimp>
+        <Chinesesimp>米-290"塔鲁"是广协的一种重型多用途直升机，此机采用同轴式旋翼设计，并采取独特的模块化结构。它的设计来源于卡莫夫设计局的卡-226和"西科斯基"S-64"天空吊车"。多种不同的吊舱，使"塔鲁"能担任不同的任务职责。它主要能运输货物(上限是13500千克)，步兵(上限是16名乘员)，还能提供多种战地补给（弹药，燃油，维修设施，医疗装备）。凭借吊挂系统的能力，此直升机也可挂载一些轻型载具。虽然"塔鲁"本身是无武装的，但它配备了干扰弹。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_helivelocityvector_main_title">
         <Original>Velocity Vector</Original>
@@ -545,7 +545,7 @@
       <Key ID="STR_A3_HURON_DESC_F0">
         <Original>The CH-67 Huron is a twin-engine, tandem rotor heavy-lift helicopter used by NATO. Its primary role is the transportation of troops, vehicles and cargo. The maximum weight of cargo it's able to lift is 12 tons. The Huron is a modernized version of the CH-47 Chinook and exists in two variants. The armed variant with two side gunners manning 6.5 mm Miniguns offers some defensive capabilities, while the transport version replaces the gunners with additional two passengers positions.</Original>
         <Chinese>CH-67"休倫"是一臺雙引擎，綜列式旋翼的重型吊掛直升機，服役於北約軍中。他主要的功能是用來運輸步兵，載具和貨物。他能應付的貨物重量是12噸。"休倫"是CH-47"支奴乾"的現代化版本，同時他有兩種不一樣的版本。武裝的版本配有兩名槍手，裝設著6.5公厘的"米尼岡"速射機槍，使直升機有一定的防禦手段，而純運輸的版本則把槍手的位置置換成兩個乘員座位。</Chinese>
-        <Chinesesimp>CH-67"休伦"是北约部队使用一种双发动机，串联旋翼的重型吊挂直升机。它基本职责是用来运输步兵，载具和货物。它的最大搭载重量是12吨。"休伦"是CH-47"支奴干"的现代化版本，有两种型号。武装型配有两名侧门机枪手，操作两台6.5mm 转管机枪，使直升机有一定的防御手段，而纯运输的版本则把机枪手的位置置换成两个乘员座位。</Chinesesimp>
+        <Chinesesimp>CH-67"休伦"是北约部队使用一种双发动机，串联旋翼的重型吊挂直升机。它基本职责是用来运输步兵，载具和货物。它的最大搭载重量是12吨。"休伦"是 CH-47"支奴干"的现代化版本，有两种型号。武装型配有两名侧门机枪手，操作两台6.5 mm 转管机枪，使直升机有一定的防御手段，而纯运输的版本则把机枪手的位置置换成两个乘员座位。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_HURON_TITLE_F0">
         <Original>CH-67 Huron</Original>
@@ -587,7 +587,7 @@
       <Key ID="str_a3_c_heli_light_01_wave_f0">
         <Original>M-900 (Wave)</Original>
         <Chinese>M-900運輸直升機(波浪)</Chinese>
-        <Chinesesimp>M-900运输直升机(波浪)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（波浪）</Chinesesimp>
       </Key>
       <Key ID="str_a3_land_heli_transport_04_medevac_proxy_f0">
         <Original>Taru Medical Pod</Original>
@@ -597,7 +597,7 @@
       <Key ID="str_a3_c_heli_light_01_wasp_f0">
         <Original>M-900 (Wasp)</Original>
         <Chinese>M-900運輸直升機(黃蜂)</Chinese>
-        <Chinesesimp>M-900运输直升机(黄蜂)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（黄蜂）</Chinesesimp>
       </Key>
       <Key ID="str_a3_land_heli_transport_04_fuel_proxy_f0">
         <Original>Taru Fuel Pod</Original>
@@ -607,7 +607,7 @@
       <Key ID="str_a3_c_heli_light_01_vrana_f0">
         <Original>M-900 (VRANA)</Original>
         <Chinese>M-900運輸直升機(沃爾納企業)</Chinese>
-        <Chinesesimp>M-900运输直升机(沃尔纳企业)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（沃尔纳企业）</Chinesesimp>
       </Key>
       <Key ID="str_a3_land_heli_transport_04_covered_proxy_f0">
         <Original>Taru Transport Pod</Original>
@@ -617,7 +617,7 @@
       <Key ID="str_a3_c_heli_light_01_sunset_f0">
         <Original>M-900 (Sunset)</Original>
         <Chinese>M-900運輸直升機(日落)</Chinese>
-        <Chinesesimp>M-900运输直升机(日落)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（日落）</Chinesesimp>
       </Key>
       <Key ID="str_a3_land_heli_transport_04_box_proxy_f0">
         <Original>Taru Cargo Pod</Original>
@@ -627,7 +627,7 @@
       <Key ID="str_a3_c_heli_light_01_speedy_f0">
         <Original>M-900 (Speedy)</Original>
         <Chinese>M-900運輸直升機(迅速)</Chinese>
-        <Chinesesimp>M-900运输直升机(迅速)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（迅速）</Chinesesimp>
       </Key>
       <Key ID="str_a3_land_heli_transport_04_bench_proxy_f0">
         <Original>Taru Bench Pod</Original>
@@ -637,7 +637,7 @@
       <Key ID="str_a3_c_heli_light_01_sheriff_f0">
         <Original>M-900 (Sheriff)</Original>
         <Chinese>M-900運輸直升機(警長)</Chinese>
-        <Chinesesimp>M-900运输直升机(警长)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（警长）</Chinesesimp>
       </Key>
       <Key ID="str_a3_land_heli_transport_04_ammo_proxy_f0">
         <Original>Taru Ammo Pod</Original>
@@ -647,7 +647,7 @@
       <Key ID="str_a3_c_heli_light_01_shadow_f0">
         <Original>M-900 (Shadow)</Original>
         <Chinese>M-900運輸直升機(陰影)</Chinese>
-        <Chinesesimp>M-900运输直升机(阴影)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（阴影）</Chinesesimp>
       </Key>
       <Key ID="str_a3_heli_transport_04_pods_base_f0">
         <Original>Taru Pod</Original>
@@ -657,92 +657,92 @@
       <Key ID="str_a3_c_heli_light_01_red_f0">
         <Original>M-900 (Red)</Original>
         <Chinese>M-900運輸直升機(紅色)</Chinese>
-        <Chinesesimp>M-900运输直升机(红色)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（红色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_heli_light_01_light_f0">
         <Original>M-900 (Light)</Original>
         <Chinese>M-900運輸直升機(淺)</Chinese>
-        <Chinesesimp>M-900运输直升机(浅)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（浅）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_heli_light_01_jeans_f0">
         <Original>M-900 (Jeans)</Original>
         <Chinese>M-900運輸直升機(牛仔褲)</Chinese>
-        <Chinesesimp>M-900运输直升机(牛仔裤)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（牛仔裤）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_heli_light_01_ion_f0">
         <Original>M-900 (ION)</Original>
         <Chinese>M-900運輸直升機(ION傭兵公司)</Chinese>
-        <Chinesesimp>M-900运输直升机(ION佣兵公司)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（ION 佣兵公司）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_heli_light_01_graywatcher_f0">
         <Original>M-900 (GrayWatcher)</Original>
         <Chinese>M-900運輸直升機(灰色守望者)</Chinese>
-        <Chinesesimp>M-900运输直升机(灰色守望者)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（灰色守望者）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_heli_light_01_furious_f0">
         <Original>M-900 (Furious)</Original>
         <Chinese>M-900運輸直升機(狂怒)</Chinese>
-        <Chinesesimp>M-900运输直升机(狂怒)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（狂怒）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_heli_light_01_elliptical_f0">
         <Original>M-900 (Elliptical)</Original>
         <Chinese>M-900運輸直升機(橢圓)</Chinese>
-        <Chinesesimp>M-900运输直升机(椭圆)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（椭圆）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_heli_light_01_digital_f0">
         <Original>M-900 (Digital)</Original>
         <Chinese>M-900運輸直升機(數位)</Chinese>
-        <Chinesesimp>M-900运输直升机(数位)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（数位）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_heli_light_01_blueline_f0">
         <Original>M-900 (BlueLine)</Original>
         <Chinese>M-900運輸直升機(藍線)</Chinese>
-        <Chinesesimp>M-900运输直升机(蓝线)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（蓝线）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_heli_light_01_blue_f0">
         <Original>M-900 (Blue)</Original>
         <Chinese>M-900運輸直升機(藍)</Chinese>
-        <Chinesesimp>M-900运输直升机(蓝)</Chinesesimp>
+        <Chinesesimp>M-900运输直升机（蓝）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_transport_04_repair_f0">
         <Original>Mi-290 Taru (Repair)</Original>
         <Chinese>Mi-290"塔魯"重型運輸直升機(維修)</Chinese>
-        <Chinesesimp>米-290"塔鲁"重型运输直升机(维修)</Chinesesimp>
+        <Chinesesimp>米-290"塔鲁"重型运输直升机（维修）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_transport_04_medevac_f0">
         <Original>Mi-290 Taru (Medical)</Original>
         <Chinese>Mi-290"塔魯"重型運輸直升機(醫療)</Chinese>
-        <Chinesesimp>米-290"塔鲁"重型运输直升机(医疗)</Chinesesimp>
+        <Chinesesimp>米-290"塔鲁"重型运输直升机（医疗）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_transport_04_fuel_f0">
         <Original>Mi-290 Taru (Fuel)</Original>
         <Chinese>Mi-290"塔魯"重型運輸直升機(燃油)</Chinese>
-        <Chinesesimp>米-290"塔鲁"重型运输直升机(燃油)</Chinesesimp>
+        <Chinesesimp>米-290"塔鲁"重型运输直升机（燃油）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_transport_04_covered_f0">
         <Original>Mi-290 Taru (Transport)</Original>
         <Chinese>Mi-290"塔魯"重型運輸直升機(運輸)</Chinese>
-        <Chinesesimp>米-290"塔鲁"重型运输直升机(运输)</Chinesesimp>
+        <Chinesesimp>米-290"塔鲁"重型运输直升机（运输）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_transport_04_box_f0">
         <Original>Mi-290 Taru (Cargo)</Original>
         <Chinese>Mi-290"塔魯"重型運輸直升機(貨物)</Chinese>
-        <Chinesesimp>米-290"塔鲁"重型运输直升机(货物)</Chinesesimp>
+        <Chinesesimp>米-290"塔鲁"重型运输直升机（货物）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_transport_04_bench_f0">
         <Original>Mi-290 Taru (Bench)</Original>
         <Chinese>Mi-290"塔魯"重型運輸直升機(板凳)</Chinese>
-        <Chinesesimp>米-290"塔鲁"重型运输直升机(板凳)</Chinesesimp>
+        <Chinesesimp>米-290"塔鲁"重型运输直升机（板凳）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_transport_04_ammo_f0">
         <Original>Mi-290 Taru (Ammo)</Original>
         <Chinese>Mi-290"塔魯"重型運輸直升機(彈藥)</Chinese>
-        <Chinesesimp>米-290"塔鲁"重型运输直升机(弹药)</Chinesesimp>
+        <Chinesesimp>米-290"塔鲁"重型运输直升机（弹药）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_light_02_v2_f0">
         <Original>PO-30 Orca (Black &amp; White)</Original>
         <Chinese>PO-30"逆戟鲸"武裝直升機(黑&amp;白)</Chinese>
-        <Chinesesimp>PO-30"逆戟鲸"武装直升机(黑&amp;白)</Chinesesimp>
+        <Chinesesimp>PO-30"逆戟鲸"武装直升机（黑&amp;白）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_heli_transport_04_base_f_turrets_loadmasterturret0">
         <Original>Loadmaster</Original>
@@ -757,7 +757,7 @@
       <Key ID="str_a3_cfgvehicles_b_heli_transport_03_unarmed_base_f0">
         <Original>CH-67 Huron (Unarmed)</Original>
         <Chinese>CH-67"休倫"重型運輸直升機(無武裝)</Chinese>
-        <Chinesesimp>CH-67"休伦"重型运输直升机(无武装)</Chinesesimp>
+        <Chinesesimp>CH-67"休伦"重型运输直升机（无武装）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_heli_transport_03_base_f0">
         <Original>CH-67 Huron</Original>
@@ -769,22 +769,22 @@
       <Key ID="STR_A3_dlc_scenario_notification_heli">
         <Original>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;This content is exclusive to Arma 3 Helicopters DLC.&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;Left Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; to open the store page for more information.&lt;t /&gt;</Original>
         <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此內容屬於武裝突襲3直升機資料片所有。&lt;br/&gt;請按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;來開啟商店頁面獲得更多訊息。&lt;t/&gt;</Chinese>
-        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此内容属于武装突袭3直升机DLC所有。&lt;br/&gt;请按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;来开启商店页面获得更多信息。&lt;t/&gt;</Chinesesimp>
+        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此内容属于武装突袭3直升机 DLC 所有。&lt;br/&gt;请按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左 Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;来开启商店页面获得更多信息。&lt;t/&gt;</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CFGVEHICLECLASSES_STRUCTURES_AIRPORT0">
         <Original>Structures (Airport)</Original>
         <Chinese>建築物(機場)</Chinese>
-        <Chinesesimp>建筑物(机场)</Chinesesimp>
+        <Chinesesimp>建筑物（机场）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CFGVEHICLECLASSES_OBJECTS_AIRPORT0">
         <Original>Objects (Airport)</Original>
         <Chinese>物件(機場)</Chinese>
-        <Chinesesimp>物件(机场)</Chinesesimp>
+        <Chinesesimp>物件（机场）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_dlcBundleOverview_loading_screen">
         <Original>Save more than 25&amp;#37; and complete your Arma 3 experience. Including the Karts, Helicopters and Marksmen DLCs, the bundle offers the best value for money to fans.</Original>
         <Chinese>節省超過25&amp;#37;並更加完整你的武裝突襲3遊戲體驗。你將擁有卡丁車，直升機與精準射手等資料片，此組合包將以最優惠的價格來回饋各為粉絲。</Chinese>
-        <Chinesesimp>节省超过25&amp;#37;并更加完整你的武装突袭3游戏体验。你将拥有卡丁车，直升机与精准射手等DLC，此组合包将以最优惠的价格来回馈各位粉丝。</Chinesesimp>
+        <Chinesesimp>节省超过25&amp;#37;并更加完整你的武装突袭3游戏体验。你将拥有卡丁车，直升机与精准射手等 DLC，此组合包将以最优惠的价格来回馈各位粉丝。</Chinesesimp>
       </Key>
     </Container>
     <Container name="GroundSupport">
@@ -826,12 +826,12 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnai_syncronization">
         <Original>If an AI group is synchronized with the [Spawn AI] module, the module will handle the group the same as if it was spawned by it.</Original>
         <Chinese>假如一個AI小隊與[生成AI]模塊相連，如果小隊也是由此模塊所生成，模塊將掌控該小隊的行為。</Chinese>
-        <Chinesesimp>假如一个AI小队与[生成AI]模块相连，如果小队也是由此模块所生成，模块将掌控该小队的行为。</Chinesesimp>
+        <Chinesesimp>假如一个 AI 小队与[生成 AI]模块相连，如果小队也是由此模块所生成，模块将掌控该小队的行为。</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_spawntillcapreached">
         <Original>Periodically creates groups of non-player units and vehicles until the manpower cap is reached. Can also be synchronized to 1 or more [Spawn AI: Spawnpoint] modules to add further potential spawnpoints. If this is the case, the spawn position will be selected at random.</Original>
         <Chinese>模塊將定期重生電腦操控的單位及載具，當達到人力資源限制時，重生將暫停。模塊可與數個[生成AI:重生點]模塊相連，使單位的重生點更具隨機性。</Chinese>
-        <Chinesesimp>模块将定期重生电脑操控的单位及载具，当达到人力资源限制时，重生将暂停。模块可与数个[生成AI:重生点]模块相连，使单位的重生点更具随机性。</Chinesesimp>
+        <Chinesesimp>模块将定期重生电脑操控的单位及载具，当达到人力资源限制时，重生将暂停。模块可与数个[生成 AI:重生点]模块相连，使单位的重生点更具随机性。</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_spawnrate">
         <Original>Spawn Rate</Original>
@@ -846,7 +846,7 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnai_spawnai">
         <Original>Spawn AI</Original>
         <Chinese>生成AI</Chinese>
-        <Chinesesimp>生成AI</Chinesesimp>
+        <Chinesesimp>生成 AI</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_side">
         <Original>Side</Original>
@@ -856,12 +856,12 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnaisectortactic_tactics">
         <Original>Spawn AI: Sector Tactics</Original>
         <Chinese>生成AI:區域戰術</Chinese>
-        <Chinesesimp>生成AI:区域战术</Chinesesimp>
+        <Chinesesimp>生成 AI:区域战术</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnaisectortactic_description">
         <Original>Controls the tactics used by groups spawned by the [Spawn AI] module. If no [Spawn AI] modules are synchronized to the module, the module controls all spawned groups. If there are synchronized [Spawn AI] modules, only groups belonging to those synchronized modules will be controlled.</Original>
         <Chinese>本模塊用來控制[生成AI]模塊的AI行為。假如沒有[生成AI]模塊與之相連，此模塊將控制所有被生成出來的單位。假如同時有數個[生成AI]模塊與之相連，此模塊只會對同屬同一個組別的模塊有作用。</Chinese>
-        <Chinesesimp>本模块用来控制[生成AI]模块的AI行为。假如没有[生成AI]模块与之相连，此模块将控制所有被生成出来的单位。假如同时有数个[生成AI]模块与之相连，此模块只会对同属同一个组别的模块有作用。</Chinesesimp>
+        <Chinesesimp>本模块用来控制[生成 AI]模块的 AI 行为。假如没有[生成 AI]模块与之相连，此模块将控制所有被生成出来的单位。假如同时有数个[生成 AI]模块与之相连，此模块只会对同属同一个组别的模块有作用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_quarterminute">
         <Original>15 seconds</Original>
@@ -871,22 +871,22 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnaipoint_tip">
         <Original>NOTE: If all group weights (Infantry/Motorized/Mechanized/Armored) are set to 0, the spawnpoint will be disabled.</Original>
         <Chinese>注意:假如所有的權重(步兵/摩托化/機械化/裝甲)設置到0，此重生點將被關閉。</Chinese>
-        <Chinesesimp>注意:假如所有的权重(步兵/摩托化/机械化/装甲)设置到0，此重生点将被关闭。</Chinesesimp>
+        <Chinesesimp>注意:假如所有的权重（步兵/摩托化/机械化/装甲）设置到0，此重生点将被关闭。</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnaipoint_point">
         <Original>Spawn AI: Spawnpoint</Original>
         <Chinese>生成AI:重生點</Chinese>
-        <Chinesesimp>生成AI:重生点</Chinesesimp>
+        <Chinesesimp>生成 AI:重生点</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnaipoint_description">
         <Original>Defines a spawnpoint for AI groups, namely the faction, position, direction and type of groups that can be spawned there. Must be synchronized to a [Spawn AI] module to work. If there are several [Spawn AI: Spawnpoint] modules synchronized to a [Spawn AI] module, a single spawnpoint is chosen at random every time a group should be spawned.</Original>
         <Chinese>此模塊用來定義AI小隊，他們的陣營，重生位置，方向以及能重生的種類。此模塊必須與[生成AI]模塊相同步。假如有數個[生成AI:重生點]模塊與[生成AI]模塊相連，在每次重生機會時，電腦將自動隨機選擇一個當作重生點。</Chinese>
-        <Chinesesimp>此模块用来定义AI小队，他们的阵营，重生位置，方向以及能重生的种类。此模块必须与[生成AI]模块相同步。假如有数个[生成AI:重生点]模块与[生成AI]模块相连，在每次重生机会时，电脑将自动随机选择一个当作重生点。</Chinesesimp>
+        <Chinesesimp>此模块用来定义 AI 小队，他们的阵营，重生位置，方向以及能重生的种类。此模块必须与[生成 AI]模块相同步。假如有数个[生成 AI:重生点]模块与[生成 AI]模块相连，在每次重生机会时，电脑将自动随机选择一个当作重生点。</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnaioptions_options">
         <Original>Spawn AI: Options</Original>
         <Chinese>生成AI:選項</Chinese>
-        <Chinesesimp>生成AI:选项</Chinesesimp>
+        <Chinesesimp>生成 AI:选项</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnaioptions_deletewrecks">
         <Original>Delete Wrecks After</Original>
@@ -911,12 +911,12 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnai_noteweights">
         <Original>NOTE: If all group weights (Infantry/Motorized/Mechanized/Armored) are set to 0, no groups will spawn at the position of the [Spawn AI] module.</Original>
         <Chinese>注意:假如所有的權重(步兵/摩托化/機械化/裝甲)設置到0，沒有單位將可在[生成AI]模塊上進行重生。</Chinese>
-        <Chinesesimp>注意:假如所有的权重(步兵/摩托化/机械化/装甲)设置到0，没有单位将可在[生成AI]模块上进行重生。</Chinesesimp>
+        <Chinesesimp>注意:假如所有的权重（步兵/摩托化/机械化/装甲）设置到0，没有单位将可在[生成 AI]模块上进行重生。</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_nato">
         <Original>NATO (BLUFOR)</Original>
         <Chinese>北約(藍方)</Chinese>
-        <Chinesesimp>北约(蓝方)</Chinesesimp>
+        <Chinesesimp>北约（蓝方）</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_motorizedweighting">
         <Original>Motorized Weighting</Original>
@@ -976,7 +976,7 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnai_fia">
         <Original>FIA (BLUFOR)</Original>
         <Chinese>自由獨立同盟(藍方)</Chinese>
-        <Chinesesimp>FIA(蓝方)</Chinesesimp>
+        <Chinesesimp>FIA（蓝方）</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_factiongroups">
         <Original>The faction of groups to be spawned at this location.</Original>
@@ -1006,7 +1006,7 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnai_csat">
         <Original>CSAT (OPFOR)</Original>
         <Chinese>廣協同盟(紅方)</Chinese>
-        <Chinesesimp>广协(红方)</Chinesesimp>
+        <Chinesesimp>广协（红方）</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_blacklistedgroups">
         <Original>Blacklisted Groups</Original>
@@ -1016,7 +1016,7 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnai_blacklistedclassnames">
         <Original>Classnames of blacklisted groups (eg. 'BUS_InfTeam_AA', 'BUS_ReconPatrol').</Original>
         <Chinese>要被黑名單小隊的Classnames(例如'BUS_InfTeam_AA'，'BUS_ReconPatrol')。</Chinese>
-        <Chinesesimp>要被黑名单小队的Classnames(例如'BUS_InfTeam_AA'，'BUS_ReconPatrol')。</Chinesesimp>
+        <Chinesesimp>要被黑名单小队的 Classnames（例如'BUS_InfTeam_AA'，'BUS_ReconPatrol'）。</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_armoredweighting">
         <Original>Armored Weighting</Original>
@@ -1026,7 +1026,7 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnai_aaf">
         <Original>AAF (Independent)</Original>
         <Chinese>阿爾蒂斯武裝力量(中立方)</Chinese>
-        <Chinesesimp>AAF(中立方)</Chinesesimp>
+        <Chinesesimp>AAF（中立方）</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulemptypegroundsupport_transporttasks">
         <Original>Transport Tasks</Original>
@@ -1139,22 +1139,22 @@
         <Key ID="str_a3_cfgvehicles_modulespawnaisectortactic_f_moduledescription0">
           <Original>Module controls behavior of groups spawned by [Spawn AI] module. If no [Spawn AI] modules are synced to the module, the module controls all of the spawned groups. If there are some [Spawn AI] modules synced with the module, only groups belonging to those synced modules are being controlled.</Original>
           <Chinese>本模塊用來控制[生成AI]模塊的AI行為。假如沒有[生成AI]模塊與之相連，此模塊將控制所有被生成出來的單位。假如同時有數個[生成AI]模塊與之相連，此模塊只會對同屬同一個組別的模塊有作用。</Chinese>
-          <Chinesesimp>本模块用来控制[生成AI]模块的AI行为。假如没有[生成AI]模块与之相连，此模块将控制所有被生成出来的单位。假如同时有数个[生成AI]模块与之相连，此模块只会对同属同一个组别的模块有作用。</Chinesesimp>
+          <Chinesesimp>本模块用来控制[生成 AI]模块的 AI 行为。假如没有[生成 AI]模块与之相连，此模块将控制所有被生成出来的单位。假如同时有数个[生成 AI]模块与之相连，此模块只会对同属同一个组别的模块有作用。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulespawnaisectortactic_f0">
           <Original>Spawn AI: Sector Tactic</Original>
           <Chinese>生成AI:區域戰術</Chinese>
-          <Chinesesimp>生成AI:区域战术</Chinesesimp>
+          <Chinesesimp>生成 AI:区域战术</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulespawnaipoint_f_moduledescription2">
           <Original>NOTE: If all group weights (Infantry/Motorized/Mechanized/Armored) set to 0, the spawnpoint will be disabled.</Original>
           <Chinese>注意:假如所有的權重(步兵/摩托化/機械化/裝甲)設置到0，此重生點將被關閉。</Chinese>
-          <Chinesesimp>注意:假如所有的权重(步兵/摩托化/机械化/装甲)设置到0，此重生点将被关闭。</Chinesesimp>
+          <Chinesesimp>注意:假如所有的权重（步兵/摩托化/机械化/装甲）设置到0，此重生点将被关闭。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulespawnaipoint_f_moduledescription0">
           <Original>Module defines spawnpoint for AI groups, namely their faction, position, direction and type of groups that can be spawned there. Module needs to be synced to a [Spawn AI] module to work. If there are several [Spawn AI: Spawnpoint] modules synced to [Spawn AI] module, single spawnpoint is chosen at random every time a group should be spawned.</Original>
           <Chinese>此模塊用來定義AI小隊，他們的陣營，重生位置，方向以及能重生的種類。此模塊必須與[生成AI]模塊相同步。假如有數個[生成AI:重生點]模塊與[生成AI]模塊相連，在每次重生機會時，電腦將自動隨機選擇一個當作重生點。</Chinese>
-          <Chinesesimp>此模块用来定义AI小队，他们的阵营，重生位置，方向以及能重生的种类。此模块必须与[生成AI]模块相同步。假如有数个[生成AI:重生点]模块与[生成AI]模块相连，在每次重生机会时，电脑将自动随机选择一个当作重生点。</Chinesesimp>
+          <Chinesesimp>此模块用来定义 AI 小队，他们的阵营，重生位置，方向以及能重生的种类。此模块必须与[生成 AI]模块相同步。假如有数个[生成 AI:重生点]模块与[生成 AI]模块相连，在每次重生机会时，电脑将自动随机选择一个当作重生点。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulespawnaipoint_f_arguments_motorized0">
           <Original>Motorized Infantry</Original>
@@ -1184,7 +1184,7 @@
         <Key ID="str_a3_cfgvehicles_modulespawnaipoint_f0">
           <Original>Spawn AI: Spawnpoint</Original>
           <Chinese>生成AI:重生點</Chinese>
-          <Chinesesimp>生成AI:重生点</Chinesesimp>
+          <Chinesesimp>生成 AI:重生点</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulespawnaioptions_f_arguments_wreckdeletetime0">
           <Original>Delete Wrecks After</Original>
@@ -1199,7 +1199,7 @@
         <Key ID="str_a3_cfgvehicles_modulespawnaioptions_f0">
           <Original>Spawn AI: Options</Original>
           <Chinese>生成AI:選項</Chinese>
-          <Chinesesimp>生成AI:选项</Chinesesimp>
+          <Chinesesimp>生成 AI:选项</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulespawnai_f_moduledescription_startgroup1">
           <Original>NOTE: The code expression that is executed on spawned group will also be executed on the synced group.</Original>
@@ -1214,12 +1214,12 @@
         <Key ID="str_a3_cfgvehicles_modulespawnai_f_moduledescription2">
           <Original>NOTE: If all group weights (Infantry/Motorized/Mechanized/Armored) set to 0, no groups will spawn on position of the [Spawn AI] module.</Original>
           <Chinese>注意:假如所有的權重(步兵/摩托化/機械化/裝甲)設置到0，沒有單位將可在[生成AI]模塊上進行重生。</Chinese>
-          <Chinesesimp>注意:假如所有的权重(步兵/摩托化/机械化/装甲)设置到0，没有单位将可在[生成AI]模块上进行重生。</Chinesesimp>
+          <Chinesesimp>注意:假如所有的权重（步兵/摩托化/机械化/装甲）设置到0，没有单位将可在[生成 AI]模块上进行重生。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulespawnai_f_moduledescription0">
           <Original>Module periodically creates groups of non-player units and vehicles until set manpower cap is reached. Module can also be synced with 1 or more [Spawn AI: Spawnpoint] modules to add more possible spawnpoints. In that case spawn position is selected at random.</Original>
           <Chinese>模塊將定期重生電腦操控的單位及載具，當達到人力資源限制時，重生將暫停。模塊可與數個[生成AI:重生點]模塊相連，使單位的重生點更具隨機性。</Chinese>
-          <Chinesesimp>模块将定期重生电脑操控的单位及载具，当达到人力资源限制时，重生将暂停。模块可与数个[生成AI:重生点]模块相连，使单位的重生点更具随机性。</Chinesesimp>
+          <Chinesesimp>模块将定期重生电脑操控的单位及载具，当达到人力资源限制时，重生将暂停。模块可与数个[生成 AI:重生点]模块相连，使单位的重生点更具随机性。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulespawnai_f_arguments_vehiclesingroup0">
           <Original>Max. Vehicles per Group</Original>
@@ -1284,7 +1284,7 @@
         <Key ID="str_a3_cfgvehicles_modulespawnai_f0">
           <Original>Spawn AI</Original>
           <Chinese>生成AI</Chinese>
-          <Chinesesimp>生成AI</Chinesesimp>
+          <Chinesesimp>生成 AI</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_ModuleSlingload_F_0">
           <Original>Sling Load</Original>
@@ -1314,7 +1314,7 @@
         <Key ID="STR_A3_CFGVEHICLES_MODULESPAWNAI_F_ARGUMENTS_BLACKLISTEDGROUPS1">
           <Original>Classnames of blacklisted groups.</Original>
           <Chinese>要被黑名單小隊的Classnames。</Chinese>
-          <Chinesesimp>要被黑名单小队的Classnames。</Chinesesimp>
+          <Chinesesimp>要被黑名单小队的 Classnames。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_MODULESPAWNAI_F_ARGUMENTS_EXPRESSION1">
           <Original>Code executed when group is spawned. Passed arguments are [&lt;group&gt;,&lt;module&gt;,&lt;groupData&gt;].</Original>
@@ -1374,12 +1374,12 @@
         <Key ID="STR_A3_CFGVEHICLES_MODULESPAWNAIPOINT_F_ARGUMENTS_ARMORED1">
           <Original>Weighted chance to spawn an armored group. Number of vehicles per spawn can be limited in [Spawn AI] module. Valid values are 0-10.</Original>
           <Chinese>設置裝甲部隊的重生權重。載具的重生數量可在[生成AI]中設定數量限制。數值可從0到10。</Chinese>
-          <Chinesesimp>设置装甲部队的重生权重。载具的重生数量可在[生成AI]中设定数量限制。数值可从0到10。</Chinesesimp>
+          <Chinesesimp>设置装甲部队的重生权重。载具的重生数量可在[生成 AI]中设定数量限制。数值可从0到10。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_MODULESPAWNAIPOINT_F_ARGUMENTS_FACTION1">
           <Original>Faction of groups spawned at the point. It needs to match the side of the [Spawn AI] module for the point to work.</Original>
           <Chinese>設定小隊重生點的派別。他必須與[生成AI]模塊中的派別選項一致才會有效用。</Chinese>
-          <Chinesesimp>设定小队重生点的派别。他必须与[生成AI]模块中的派别选项一致才会有效用。</Chinesesimp>
+          <Chinesesimp>设定小队重生点的派别。他必须与[生成 AI]模块中的派别选项一致才会有效用。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_MODULESPAWNAIPOINT_F_ARGUMENTS_MOTORIZED1">
           <Original>Weighted chance to spawn a motorized infantry group. Valid values are 0-10.</Original>
@@ -1589,7 +1589,7 @@
       <Key ID="str_a3_rscdisplaywelcome_heli_pard_list2">
         <Original>the CSAT heavy utility helicopter using a coaxial rotor design (mission pod variants: passenger, ammo, fuel, repair, medical, cargo, fast-assault bench)</Original>
         <Chinese>廣協同盟的重型同軸式直升機(因應任務能有以下功能:人員運輸，彈藥，燃油，維修，醫療，貨物，快速突擊板凳)</Chinese>
-        <Chinesesimp>广协的重型同轴式直升机(因应任务能有以下功能:人员运输，弹药，燃油，维修，医疗，货物，快速突击板凳)</Chinesesimp>
+        <Chinesesimp>广协的重型同轴式直升机（因应任务能有以下功能:人员运输，弹药，燃油，维修，医疗，货物，快速突击板凳）</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_heli_pard_list1_title">
         <Original>CH-67 Huron</Original>
@@ -1604,7 +1604,7 @@
       <Key ID="str_a3_rscdisplaywelcome_heli_pard_list11">
         <Original>a set of extra Steam Achievements</Original>
         <Chinese>一組新的Steam成就</Chinese>
-        <Chinesesimp>一组新的Steam成就</Chinesesimp>
+        <Chinesesimp>一组新的 Steam 成就</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_heli_pard_list10_title">
         <Original>Time Trials</Original>
@@ -1619,7 +1619,7 @@
       <Key ID="str_a3_rscdisplaywelcome_heli_pard_list1">
         <Original>NATO's twin-engine, tandem rotor heavy-lift helicopter (with ammo, fuel, repair, medical and cargo containers)</Original>
         <Chinese>北約的雙引擎，綜列式雙旋翼，重型吊掛直升機(可運輸彈藥，燃油，維修，醫療與貨物)</Chinese>
-        <Chinesesimp>北约的双发串联双旋翼重型吊挂直升机(可运输弹药，燃油，维修，医疗与货物)</Chinesesimp>
+        <Chinesesimp>北约的双发串联双旋翼重型吊挂直升机（可运输弹药，燃油，维修，医疗与货物）</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_heli_pard_footer2">
         <Original>Enjoy your time in the skies over Altis and Stratis!</Original>
@@ -1634,7 +1634,7 @@
       <Key ID="str_a3_rscdisplaywelcome_heli_pard">
         <Original>Arma 3 Helicopters arrives with the following premium content and platform additions:</Original>
         <Chinese>武裝突襲3直升機資料片將帶來以下優質內容與改變:</Chinese>
-        <Chinesesimp>武装突袭3直升机DLC将带来以下优质内容与改变:</Chinesesimp>
+        <Chinesesimp>武装突袭3直升机 DLC 将带来以下优质内容与改变:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_heli_parc_title">
         <Original>FEATURES</Original>
@@ -1679,7 +1679,7 @@
       <Key ID="str_a3_rscdisplaywelcome_heli_parc_list1">
         <Original>Opt into the alternative flight dynamics powered by RotorLib for all official helicopters.</Original>
         <Chinese>你可選擇開啟進階飛行模式，來替換不一樣的飛行動力學，藉此體驗更真實的直升機飛行，本功能由RotorLib提供給所有官方直升機使用。</Chinese>
-        <Chinesesimp>你可选择开启高级飞行模式，来替换不一样的飞行动力学，藉此体验更真实的直升机飞行，本功能由RotorLib提供给所有官方直升机使用。</Chinesesimp>
+        <Chinesesimp>你可选择开启高级飞行模式，来替换不一样的飞行动力学，藉此体验更真实的直升机飞行，本功能由 RotorLib 提供给所有官方直升机使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_heli_parc">
         <Original>Our approach is that new gameplay features are available to everyone who owns Arma 3. We've selected features that complement the premium content and vice versa. Based on some of the top-voted requests, we think you'll like these improvements to the sandbox:</Original>
@@ -1694,29 +1694,29 @@
       <Key ID="str_a3_rscdisplaywelcome_heli_parb_footer">
         <Original>More about Arma 3 Helicopters</Original>
         <Chinese>更多關於武裝突襲3直升機資料片</Chinese>
-        <Chinesesimp>更多关于武装突袭3直升机DLC</Chinesesimp>
+        <Chinesesimp>更多关于武装突袭3直升机 DLC</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_heli_parb">
         <Original>Arma 3 Helicopters is a content pack. With our &lt;a href="%3" color="%2"&gt;Karts testing DLC&lt;/a&gt;, we introduced &lt;a href="%4" color="%2"&gt;a strategy&lt;/a&gt; for premium content. Based on your feedback and results from our survey, we've iterated the 'try before you buy' approach and will continue to do so. Owners get full access to &lt;t color='%1'&gt;2 brand-new detailed rotary-wing aircraft&lt;/t&gt;: the CH-67 Huron, Mi-290 Taru, and their variants. These helicopters were selected and designed to fulfill an important logistical role on the battlefield. Combined with new features, they can carry more troops than previous aircraft as well as carry more cargo. A range of official playable modes demonstrates the helicopters and generally focuses on aerial movement, combat and logistics.</Original>
         <Chinese>武裝突襲3直升機資料片是一個加值內容。我們之前透過&lt;ahref="%3"color="%2"&gt;卡丁車資料片&lt;/a&gt;，使用一種&lt;ahref="%4"color="%2"&gt;手法&lt;/a&gt;來跟你們介紹這些優質內容。我們是透過'先試玩再購買'的方法來介紹這些資料片。已購買者可獲得&lt;tcolor='%1'&gt;2種新的直升機&lt;/t&gt;:CH-67Huron，Mi-290Taru，以及它們的變種版本。這些直升機被設計來在戰場中提供重要的後勤支援。結合新的吊掛功能，它们可以載運除了步兵以外更多的貨物。為此我們提供了一個新的多人合作模式，你可在裡面完整體驗到直升機後勤支援的任務與其重要性。</Chinese>
-        <Chinesesimp>武装突袭3直升机DLC是一个加值内容。我们之前通过&lt;ahref="%3"color="%2"&gt;卡丁车DLC&lt;/a&gt;，使用一种&lt;ahref="%4"color="%2"&gt;手法&lt;/a&gt;来跟你们介绍这些优质内容。我们是通过'先试玩再购买'的方法来介绍这些DLC。已购买者可获得&lt;tcolor='%1'&gt;2种新的直升机&lt;/t&gt;:CH-67Huron，Mi-290Taru，以及它们的变种版本。这些直升机被设计来在战场中提供重要的后勤支援。结合新的吊挂功能，它们可以载运除了步兵以外更多的货物。为此我们提供了一个新的多人合作模式，你可以在里面完整体验到直升机后勤支援的任务与其重要性。</Chinesesimp>
+        <Chinesesimp>武装突袭3直升机 DLC 是一个加值内容。我们之前通过&lt;ahref="%3"color="%2"&gt;卡丁车 DLC&lt;/a&gt;，使用一种&lt;ahref="%4"color="%2"&gt;手法&lt;/a&gt;来跟你们介绍这些优质内容。我们是通过'先试玩再购买'的方法来介绍这些 DLC。已购买者可获得&lt;tcolor='%1'&gt;2种新的直升机&lt;/t&gt;:CH-67Huron，Mi-290Taru，以及它们的变种版本。这些直升机被设计来在战场中提供重要的后勤支援。结合新的吊挂功能，它们可以载运除了步兵以外更多的货物。为此我们提供了一个新的多人合作模式，你可以在里面完整体验到直升机后勤支援的任务与其重要性。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_heli_para">
         <Original>Greetings rotorheads! The &lt;t color='%1'&gt;Arma 3 Helicopters&lt;/t&gt; DLC has been released, bringing cool new content for DLC owners, while also enriching the Arma 3 sandbox for everyone else. Take a look below at what assets we've added and the huge features that were implemented, or just give it a whirl right here, right now!</Original>
         <Chinese>各位飛友好!&lt;tcolor='%1'&gt;武裝突襲3直升機&lt;/t&gt;資料片現在正式推出，將帶來許多酷炫的新內容給各位買家，同時也提供給那些未購買者可在編輯器中試玩。讓我們來看看到底有那些改變，請繼續閱讀下面介紹!</Chinese>
-        <Chinesesimp>各位飞友好!&lt;tcolor='%1'&gt;武装突袭3直升机&lt;/t&gt;DLC现在正式推出，将带来许多酷炫的新内容给各位买家，同时也提供给那些未购买者可在编辑器中试玩。让我们来看看到底有那些改变，请继续阅读下面介绍!</Chinesesimp>
+        <Chinesesimp>各位飞友好!&lt;tcolor='%1'&gt;武装突袭3直升机&lt;/t&gt;DLC 现在正式推出，将带来许多酷炫的新内容给各位买家，同时也提供给那些未购买者可在编辑器中试玩。让我们来看看到底有那些改变，请继续阅读下面介绍!</Chinesesimp>
       </Key>
     </Container>
     <Container name="DLC_Content_Browser">
       <Key ID="str_a3_cfgmods_heli7">
         <Original>This content is part of Helicopters DLC. Purchase it to enter this vehicle as crew.</Original>
         <Chinese>此內容屬於直升機資料片。想要進入此載具擔當操作員，請先購買本資料片。</Chinese>
-        <Chinesesimp>此内容属于直升机DLC。想要进入此载具担任操作员，请先购买本DLC。</Chinesesimp>
+        <Chinesesimp>此内容属于直升机 DLC。想要进入此载具担任操作员，请先购买本 DLC。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_heli6">
         <Original>This content is part of Helicopters DLC. Purchase it to enter this vehicle as crew.</Original>
         <Chinese>此內容屬於直升機資料片。想要進入此載具擔當操作員，請先購買本資料片。</Chinese>
-        <Chinesesimp>此内容属于直升机DLC。想要进入此载具担任操作员，请先购买本DLC。</Chinesesimp>
+        <Chinesesimp>此内容属于直升机 DLC。想要进入此载具担任操作员，请先购买本 DLC。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_heli5">
         <Original>Arma 3 Helicopters</Original>
@@ -1726,7 +1726,7 @@
       <Key ID="str_a3_cfgmods_heli3">
         <Original>Fly the brand-new CH-67 Huron and Mi-290 Taru heavy-lift helicopters, and master Sling Loading to provide ground support in the Arma 3 Helicopters DLC.</Original>
         <Chinese>在武裝突襲3直升機資料片中駕駛全新的CH-67"休倫"和米-290"塔魯"重型吊掛直升機，並使用吊掛系統來為地面部隊提供協助。</Chinese>
-        <Chinesesimp>在武装突袭3直升机DLC中驾驶全新的CH-67"休伦"和米-290"塔鲁"重型吊挂直升机，并使用吊挂系统来为地面部队提供协助。</Chinesesimp>
+        <Chinesesimp>在武装突袭3直升机 DLC 中驾驶全新的 CH-67"休伦"和米-290"塔鲁"重型吊挂直升机，并使用吊挂系统来为地面部队提供协助。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_heli2">
         <Original>Arma 3 Helicopters</Original>
@@ -1736,7 +1736,7 @@
       <Key ID="str_a3_cfgmods_heli0">
         <Original>Arma 3 Helicopters DLC now available. Click to purchase</Original>
         <Chinese>武裝突襲3直升機資料片現正熱烈販售中。請點擊來購買</Chinese>
-        <Chinesesimp>武装突袭3直升机DLC现正火热出售中。请点击来购买</Chinesesimp>
+        <Chinesesimp>武装突袭3直升机 DLC 现正火热出售中。请点击来购买</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_dlcbfeatures_dlcbslingload1">
         <Original>Carry externally slung loads under helicopters, and use the rope technology for other cool purposes.</Original>
@@ -1751,7 +1751,7 @@
       <Key ID="str_a3_cfgmods_dlcbfeatures_dlcbflightmodel1">
         <Original>Opt into the alternative flight dynamics powered by RotorLib for all official helicopters.</Original>
         <Chinese>你可選擇開啟進階飛行模式，來替換不一樣的飛行動力學，藉此體驗更真實的直升機飛行，本功能由RotorLib提供給所有官方直升機使用。</Chinese>
-        <Chinesesimp>你可选择开启进阶飞行模式，来替换不一样的飞行动力学，藉此体验更真实的直升机飞行，本功能由RotorLib提供给所有官方直升机使用。</Chinesesimp>
+        <Chinesesimp>你可选择开启进阶飞行模式，来替换不一样的飞行动力学，藉此体验更真实的直升机飞行，本功能由 RotorLib 提供给所有官方直升机使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_dlcbfeatures_dlcbflightmodel0">
         <Original>Advanced Flight Model</Original>
@@ -1786,7 +1786,7 @@
       <Key ID="str_a3_cfgmods_dlcbassets_dlcbvehicles_dlcbraceobjects1">
         <Original>Various (plastic) barriers used to build racetracks.</Original>
         <Chinese>各類(塑膠)障礙，可用來建構賽車場。</Chinese>
-        <Chinesesimp>各类(塑料)障碍，可用来构建赛车场。</Chinesesimp>
+        <Chinesesimp>各类（塑料）障碍，可用来构建赛车场。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_dlcbassets_dlcbvehicles_dlcbraceobjects0">
         <Original>Race Objects</Original>
@@ -1821,7 +1821,7 @@
       <Key ID="STR_A3_dlc_popup_helicopters">
         <Original>You are using premium content. Purchase Arma 3 Helicopters to remove the message.</Original>
         <Chinese>你正在使用付費內容。請先購買武裝突襲3直升機資料片來移除本訊息。</Chinese>
-        <Chinesesimp>你正在使用付费内容。请先购买武装突袭3直升机DLC来移除本信息。</Chinesesimp>
+        <Chinesesimp>你正在使用付费内容。请先购买武装突袭3直升机 DLC 来移除本信息。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Air_F_RTD" />
@@ -1829,7 +1829,7 @@
       <Key ID="str_a3_cfgmusic_leadtrack01_f_heli0">
         <Original>This is War (Heli Remix)</Original>
         <Chinese>這是戰爭(直升機混音版)</Chinese>
-        <Chinesesimp>这就是战争(直升机混音版)</Chinesesimp>
+        <Chinesesimp>这就是战争（直升机混音版）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Params">
@@ -1849,22 +1849,22 @@
         <Key ID="str_a3_cfgvehicles_storagebladder_02_water_sand_f0">
           <Original>Water Bladder (Sand)</Original>
           <Chinese>儲水袋(沙)</Chinese>
-          <Chinesesimp>储水袋(沙)</Chinesesimp>
+          <Chinesesimp>储水袋（沙）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_storagebladder_02_water_forest_f0">
           <Original>Water Bladder (Forest)</Original>
           <Chinese>儲水袋(森林)</Chinese>
-          <Chinesesimp>储水袋(森林)</Chinesesimp>
+          <Chinesesimp>储水袋（森林）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_storagebladder_01_fuel_sand_f0">
           <Original>Fuel Bladder (Sand)</Original>
           <Chinese>儲油袋(沙)</Chinese>
-          <Chinesesimp>储油袋(沙)</Chinesesimp>
+          <Chinesesimp>储油袋（沙）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_storagebladder_01_fuel_forest_f0">
           <Original>Fuel Bladder (Forest)</Original>
           <Chinese>儲油袋(森林)</Chinese>
-          <Chinesesimp>储油袋(森林)</Chinesesimp>
+          <Chinesesimp>储油袋（森林）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_containmentarea_base_f0">
           <Original>Containment Berm</Original>
@@ -1874,22 +1874,22 @@
         <Key ID="str_a3_cfgvehicles_containmentarea_01_sand_f0">
           <Original>Secondary Containment Berm (Large, Sand)</Original>
           <Chinese>次要圍堵護堤(大，沙)</Chinese>
-          <Chinesesimp>次要围堵护堤(大，沙)</Chinesesimp>
+          <Chinesesimp>次要围堵护堤（大，沙）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_containmentarea_02_forest_f0">
           <Original>Secondary Containment Berm (Small, Forest)</Original>
           <Chinese>次要圍堵護堤(小，森林)</Chinese>
-          <Chinesesimp>次要围堵护堤(小，森林)</Chinesesimp>
+          <Chinesesimp>次要围堵护堤（小，森林）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_containmentarea_02_sand_f0">
           <Original>Secondary Containment Berm (Small, Sand)</Original>
           <Chinese>次要圍堵護堤(小，沙)</Chinese>
-          <Chinesesimp>次要围堵护堤(小，沙)</Chinesesimp>
+          <Chinesesimp>次要围堵护堤（小，沙）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_containmentarea_01_forest_f0">
           <Original>Secondary Containment Berm (Large, Forest)</Original>
           <Chinese>次要圍堵護堤(大，森林)</Chinese>
-          <Chinesesimp>次要围堵护堤(大，森林)</Chinesesimp>
+          <Chinesesimp>次要围堵护堤（大，森林）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Slingload">
@@ -1938,7 +1938,7 @@
         <Key ID="str_a3_cfgvehicles_cargonet_01_box_f0">
           <Original>Cargo Net (Box)</Original>
           <Chinese>貨物網(箱)</Chinese>
-          <Chinesesimp>货物网(箱)</Chinesesimp>
+          <Chinesesimp>货物网（箱）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_cargonet_01_base_f0">
           <Original>Cargo Net</Original>
@@ -1948,7 +1948,7 @@
         <Key ID="str_a3_cfgvehicles_cargonet_01_barrels_f0">
           <Original>Cargo Net (Barrels)</Original>
           <Chinese>貨物網(桶)</Chinese>
-          <Chinesesimp>货物网(桶)</Chinesesimp>
+          <Chinesesimp>货物网（桶）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_cargonet_01_ammo_base_f0">
           <Original>Ammoboxes</Original>
@@ -1965,12 +1965,12 @@
         <Key ID="str_a3_cfgvehicles_flexibletank_01_sand_f0">
           <Original>Flexible Fuel Tank (Sand)</Original>
           <Chinese>便攜式油箱(沙)</Chinese>
-          <Chinesesimp>便携式油箱(沙)</Chinesesimp>
+          <Chinesesimp>便携式油箱（沙）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flexibletank_01_forest_f0">
           <Original>Flexible Fuel Tank (Forest)</Original>
           <Chinese>便攜式油箱(森林)</Chinese>
-          <Chinesesimp>便携式油箱(森林)</Chinesesimp>
+          <Chinesesimp>便携式油箱（森林）</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -1998,12 +1998,12 @@
           <Key ID="str_a3_cfgvehicles_land_helicopterwheels_01_assembled_f0">
             <Original>Helicopter Wheels (Assembled)</Original>
             <Chinese>直升機機輪(組裝)</Chinese>
-            <Chinesesimp>直升机机轮(组装)</Chinesesimp>
+            <Chinesesimp>直升机机轮（组装）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_helicopterwheels_01_disassembled_f0">
             <Original>Helicopter Wheels (Disassembled)</Original>
             <Chinese>直升機機輪(未組裝)</Chinese>
-            <Chinesesimp>直升机机轮(未组装)</Chinesesimp>
+            <Chinesesimp>直升机机轮（未组装）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_portablehelipadlight_01_f0">
             <Original>Portable Helipad Light</Original>
@@ -2013,27 +2013,27 @@
           <Key ID="str_a3_cfgvehicles_portablehelipadlight_01_blue_f0">
             <Original>Portable Helipad Light (Blue)</Original>
             <Chinese>便攜式停機坪燈光(藍色)</Chinese>
-            <Chinesesimp>便携式停机坪灯光(蓝色)</Chinesesimp>
+            <Chinesesimp>便携式停机坪灯光（蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_portablehelipadlight_01_green_f0">
             <Original>Portable Helipad Light (Green)</Original>
             <Chinese>便攜式停機坪燈光(綠色)</Chinese>
-            <Chinesesimp>便携式停机坪灯光(绿色)</Chinesesimp>
+            <Chinesesimp>便携式停机坪灯光（绿色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_portablehelipadlight_01_red_f0">
             <Original>Portable Helipad Light (Red)</Original>
             <Chinese>便攜式停機坪燈光(紅色)</Chinese>
-            <Chinesesimp>便携式停机坪灯光(红色)</Chinesesimp>
+            <Chinesesimp>便携式停机坪灯光（红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_portablehelipadlight_01_white_f0">
             <Original>Portable Helipad Light (White)</Original>
             <Chinese>便攜式停機坪燈光(白色)</Chinese>
-            <Chinesesimp>便携式停机坪灯光(白色)</Chinesesimp>
+            <Chinesesimp>便携式停机坪灯光（白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_portablehelipadlight_01_yellow_f0">
             <Original>Portable Helipad Light (Yellow)</Original>
             <Chinese>便攜式停機坪燈光(黃色)</Chinese>
-            <Chinesesimp>便携式停机坪灯光(黄色)</Chinesesimp>
+            <Chinesesimp>便携式停机坪灯光（黄色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_rotorcoversbag_01_f0">
             <Original>Rotor Covers Bag</Original>
@@ -2043,27 +2043,27 @@
           <Key ID="str_a3_cfgvehicles_land_airintakeplug_05_f0">
             <Original>Air Intake Plug (Hellcat)</Original>
             <Chinese>進氣口保護蓋("潑婦")</Chinese>
-            <Chinesesimp>进气口保护盖("泼妇")</Chinesesimp>
+            <Chinesesimp>进气口保护盖（"泼妇"）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_airintakeplug_04_f0">
             <Original>Air Intake Plug (Taru)</Original>
             <Chinese>進氣口保護蓋("塔魯")</Chinese>
-            <Chinesesimp>进气口保护盖("塔鲁")</Chinesesimp>
+            <Chinesesimp>进气口保护盖（"塔鲁"）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_airintakeplug_03_f0">
             <Original>Air Intake Plug (Kajman)</Original>
             <Chinese>進氣口保護蓋("鰐魚")</Chinese>
-            <Chinesesimp>进气口保护盖("鳄鱼")</Chinesesimp>
+            <Chinesesimp>进气口保护盖（"鳄鱼"）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_airintakeplug_02_f0">
             <Original>Air Intake Plug (Huron)</Original>
             <Chinese>進氣口保護蓋("休倫")</Chinese>
-            <Chinesesimp>进气口保护盖("休伦")</Chinesesimp>
+            <Chinesesimp>进气口保护盖（"休伦"）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_airintakeplug_01_f0">
             <Original>Air Intake Plug (Ghosthawk)</Original>
             <Chinese>進氣口保護蓋("鬼鷹")</Chinese>
-            <Chinesesimp>进气口保护盖("幽灵鹰")</Chinesesimp>
+            <Chinesesimp>进气口保护盖（"幽灵鹰"）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_airintakeplug_base_f0">
             <Original>Air Intake Plug</Original>
@@ -2090,32 +2090,32 @@
           <Key ID="str_a3_cfgvehicles_land_plasticcase_01_small_f0">
             <Original>Plastic Case (Small)</Original>
             <Chinese>塑膠殼(小)</Chinese>
-            <Chinesesimp>塑料箱(小)</Chinesesimp>
+            <Chinesesimp>塑料箱（小）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_plasticcase_01_medium_f0">
             <Original>Plastic Case (Medium)</Original>
             <Chinese>塑膠殼(中)</Chinese>
-            <Chinesesimp>塑料箱(中)</Chinesesimp>
+            <Chinesesimp>塑料箱（中）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_plasticcase_01_large_f0">
             <Original>Plastic Case (Large)</Original>
             <Chinese>塑膠殼(大)</Chinese>
-            <Chinesesimp>塑料箱(大)</Chinesesimp>
+            <Chinesesimp>塑料箱（大）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_metalcase_01_small_f0">
             <Original>Metal Case (Small)</Original>
             <Chinese>金屬殼(小)</Chinese>
-            <Chinesesimp>金属箱(小)</Chinesesimp>
+            <Chinesesimp>金属箱（小）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_metalcase_01_medium_f0">
             <Original>Metal Case (Medium)</Original>
             <Chinese>金屬殼(中)</Chinese>
-            <Chinesesimp>金属箱(中)</Chinesesimp>
+            <Chinesesimp>金属箱（中）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_metalcase_01_large_f0">
             <Original>Metal Case (Large)</Original>
             <Chinese>金屬殼(大)</Chinese>
-            <Chinesesimp>金属箱(大)</Chinesesimp>
+            <Chinesesimp>金属箱（大）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Electronics">
@@ -2142,22 +2142,22 @@
           <Key ID="str_a3_cfgvehicles_land_pcset_01_screen_f0">
             <Original>PC Set (Screen)</Original>
             <Chinese>電腦套件(螢幕)</Chinese>
-            <Chinesesimp>电脑套件(荧幕)</Chinesesimp>
+            <Chinesesimp>电脑套件（荧幕）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_pcset_01_mouse_f0">
             <Original>PC Set (Mouse)</Original>
             <Chinese>電腦套件(滑鼠)</Chinese>
-            <Chinesesimp>电脑套件(鼠标)</Chinesesimp>
+            <Chinesesimp>电脑套件（鼠标）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_pcset_01_keyboard_f0">
             <Original>PC Set (Keyboard)</Original>
             <Chinese>電腦套件(鍵盤)</Chinese>
-            <Chinesesimp>电脑套件(键盘)</Chinesesimp>
+            <Chinesesimp>电脑套件（键盘）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_pcset_01_case_f0">
             <Original>PC Set (Case)</Original>
             <Chinese>電腦套件(機殼)</Chinese>
-            <Chinesesimp>电脑套件(机壳)</Chinesesimp>
+            <Chinesesimp>电脑套件（机壳）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_microwave_01_f0">
             <Original>Microwave Oven</Original>
@@ -2167,27 +2167,27 @@
           <Key ID="str_a3_cfgvehicles_land_hdmicable_01_f0">
             <Original>HDMI Cable</Original>
             <Chinese>HDMI線</Chinese>
-            <Chinesesimp>HDMI线</Chinesesimp>
+            <Chinesesimp>HDMI 线</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_gamingset_01_powersupply_f0">
             <Original>Gaming Set (Power Supply)</Original>
             <Chinese>遊戲主機套件(電源供應器)</Chinese>
-            <Chinesesimp>游戏主机套件(电源供应器)</Chinesesimp>
+            <Chinesesimp>游戏主机套件（电源供应器）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_gamingset_01_controller_f0">
             <Original>Gaming Set (Controller)</Original>
             <Chinese>遊戲主機套件(控制器)</Chinese>
-            <Chinesesimp>游戏主机套件(控制器)</Chinesesimp>
+            <Chinesesimp>游戏主机套件（控制器）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_gamingset_01_console_f0">
             <Original>Gaming Set (Console)</Original>
             <Chinese>遊戲主機套件(主機)</Chinese>
-            <Chinesesimp>游戏主机套件(主机)</Chinesesimp>
+            <Chinesesimp>游戏主机套件（主机）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_gamingset_01_camera_f0">
             <Original>Gaming Set (Camera)</Original>
             <Chinese>遊戲主機套件(攝影機)</Chinese>
-            <Chinesesimp>游戏主机套件(摄影机)</Chinesesimp>
+            <Chinesesimp>游戏主机套件（摄影机）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_fridge_01_f0">
             <Original>Refrigerator</Original>
@@ -2207,12 +2207,12 @@
           <Key ID="str_a3_cfgvehicles_fridge_01_open_f0">
             <Original>Refrigerator (Open)</Original>
             <Chinese>冰箱(開啟)</Chinese>
-            <Chinesesimp>冰箱(开启)</Chinesesimp>
+            <Chinesesimp>冰箱（开启）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_fridge_01_closed_f0">
             <Original>Refrigerator (Closed)</Original>
             <Chinese>冰箱(關閉)</Chinese>
-            <Chinesesimp>冰箱(关闭)</Chinesesimp>
+            <Chinesesimp>冰箱（关闭）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Food">
@@ -2312,7 +2312,7 @@
           <Key ID="str_a3_cfgvehicles_waterpump_01_sand_f0">
             <Original>Water Pump (Sand)</Original>
             <Chinese>抽水機(沙)</Chinese>
-            <Chinesesimp>抽水机(沙)</Chinesesimp>
+            <Chinesesimp>抽水机（沙）</Chinesesimp>
           </Key>
           <Key ID="STR_A3_LAND_ENGINECRANE_01_F0">
             <Original>Portable Engine Crane</Original>
@@ -2327,7 +2327,7 @@
           <Key ID="str_a3_cfgvehicles_waterpump_01_forest_f0">
             <Original>Water Pump (Forest)</Original>
             <Chinese>抽水機(森林)</Chinese>
-            <Chinesesimp>抽水机(森林)</Chinesesimp>
+            <Chinesesimp>抽水机（森林）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_waterpump_01_f0">
             <Original>Water Pump</Original>
@@ -2354,67 +2354,67 @@
           <Key ID="str_a3_cfgvehicles_land_cargo20_yellow_f0">
             <Original>Cargo Container (Medium, Yellow)</Original>
             <Chinese>貨櫃(中，黃色)</Chinese>
-            <Chinesesimp>货柜(中，黄色)</Chinesesimp>
+            <Chinesesimp>货柜（中，黄色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo20_white_f0">
             <Original>Cargo Container (Medium, White)</Original>
             <Chinese>貨櫃(中，白色)</Chinese>
-            <Chinesesimp>货柜(中，白色)</Chinesesimp>
+            <Chinesesimp>货柜（中，白色）</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CFGVEHICLES_LAND_CARGO20_VR_F0">
             <Original>Cargo Container (Medium, VR)</Original>
             <Chinese>貨櫃(中，虛擬實境)</Chinese>
-            <Chinesesimp>货柜(中，虚拟实境)</Chinesesimp>
+            <Chinesesimp>货柜（中，虚拟实境）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo20_sand_f0">
             <Original>Cargo Container (Medium, Sand)</Original>
             <Chinese>貨櫃(中，沙)</Chinese>
-            <Chinesesimp>货柜(中，沙)</Chinesesimp>
+            <Chinesesimp>货柜（中，沙）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo20_red_f0">
             <Original>Cargo Container (Medium, Red)</Original>
             <Chinese>貨櫃(中，紅色)</Chinese>
-            <Chinesesimp>货柜(中，红色)</Chinesesimp>
+            <Chinesesimp>货柜（中，红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo20_orange_f0">
             <Original>Cargo Container (Medium, Orange)</Original>
             <Chinese>貨櫃(中，橘色)</Chinese>
-            <Chinesesimp>货柜(中，橘色)</Chinesesimp>
+            <Chinesesimp>货柜（中，橘色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo20_military_green_f0">
             <Original>Cargo Container (Medium, Military Green)</Original>
             <Chinese>貨櫃(中，軍綠色)</Chinese>
-            <Chinesesimp>货柜(中，军绿色)</Chinesesimp>
+            <Chinesesimp>货柜（中，军绿色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo20_light_green_f0">
             <Original>Cargo Container (Medium, Light Green)</Original>
             <Chinese>貨櫃(中，淺綠色)</Chinese>
-            <Chinesesimp>货柜(中，浅绿色)</Chinesesimp>
+            <Chinesesimp>货柜（中，浅绿色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo20_light_blue_f0">
             <Original>Cargo Container (Medium, Light Blue)</Original>
             <Chinese>貨櫃(中，淺藍色)</Chinese>
-            <Chinesesimp>货柜(中，浅蓝色)</Chinesesimp>
+            <Chinesesimp>货柜（中，浅蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo20_grey_f0">
             <Original>Cargo Container (Medium, Grey)</Original>
             <Chinese>貨櫃(中，灰色)</Chinese>
-            <Chinesesimp>货柜(中，灰色)</Chinesesimp>
+            <Chinesesimp>货柜（中，灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo20_cyan_f0">
             <Original>Cargo Container (Medium, Cyan)</Original>
             <Chinese>貨櫃(中，青綠色)</Chinese>
-            <Chinesesimp>货柜(中，青绿色)</Chinesesimp>
+            <Chinesesimp>货柜（中，青绿色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo20_brick_red_f0">
             <Original>Cargo Container (Medium, Brick Red)</Original>
             <Chinese>貨櫃(中，磚紅色)</Chinese>
-            <Chinesesimp>货柜(中，砖红色)</Chinesesimp>
+            <Chinesesimp>货柜（中，砖红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_cargo20_blue_f0">
             <Original>Cargo Container (Medium, Blue)</Original>
             <Chinese>貨櫃(中，藍色)</Chinese>
-            <Chinesesimp>货柜(中，蓝色)</Chinesesimp>
+            <Chinesesimp>货柜（中，蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_cargo10_base_f0">
             <Original>Cargo Container</Original>
@@ -2445,12 +2445,12 @@
           <Key ID="STR_A3_LAND_TOOLTROLLEY_01_F0">
             <Original>Tool Cart (Red)</Original>
             <Chinese>工具車(紅色)</Chinese>
-            <Chinesesimp>工具车(红色)</Chinesesimp>
+            <Chinesesimp>工具车（红色）</Chinesesimp>
           </Key>
           <Key ID="STR_A3_LAND_TOOLTROLLEY_02_F0">
             <Original>Tool Cart (Blue)</Original>
             <Chinese>工具車(藍色)</Chinese>
-            <Chinesesimp>工具车(蓝色)</Chinesesimp>
+            <Chinesesimp>工具车（蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_tooltrolley_base_f0">
             <Original>Tool Cart</Original>
@@ -2472,17 +2472,17 @@
           <Key ID="str_a3_cfgvehicles_land_gastank_01_yellow_f0">
             <Original>Gas Tank (Yellow)</Original>
             <Chinese>瓦斯罐(黃色)</Chinese>
-            <Chinesesimp>燃气罐(黄色)</Chinesesimp>
+            <Chinesesimp>燃气罐（黄色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_gastank_01_khaki_f0">
             <Original>Gas Tank (Khaki)</Original>
             <Chinese>瓦斯罐(卡其色)</Chinese>
-            <Chinesesimp>燃气罐(卡其色)</Chinesesimp>
+            <Chinesesimp>燃气罐（卡其色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_gastank_01_blue_f0">
             <Original>Gas Tank (Blue)</Original>
             <Chinese>瓦斯罐(藍色)</Chinese>
-            <Chinesesimp>燃气罐(蓝色)</Chinesesimp>
+            <Chinesesimp>燃气罐（蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_gastank_01_base_f0">
             <Original>Gas Tank</Original>
@@ -2513,12 +2513,12 @@
           <Key ID="str_a3_cfgvehicles_land_pallettrolley_01_yellow_f0">
             <Original>Pallet Trolley (Yellow)</Original>
             <Chinese>托盤車(黃色)</Chinese>
-            <Chinesesimp>托盘车(黄色)</Chinesesimp>
+            <Chinesesimp>托盘车（黄色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_pallettrolley_01_khaki_f0">
             <Original>Pallet Trolley (Khaki)</Original>
             <Chinese>托盤車(卡其色)</Chinese>
-            <Chinesesimp>托盘车(卡其色)</Chinesesimp>
+            <Chinesesimp>托盘车（卡其色）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -2526,12 +2526,12 @@
         <Key ID="str_a3_cfgvehicles_officetable_01_old_f0">
           <Original>Office Table (Old)</Original>
           <Chinese>辦公桌(舊)</Chinese>
-          <Chinesesimp>办公桌(旧)</Chinesesimp>
+          <Chinesesimp>办公桌（旧）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_officetable_01_new_f0">
           <Original>Office Table (New)</Original>
           <Chinese>辦公桌(新)</Chinese>
-          <Chinesesimp>办公桌(新)</Chinesesimp>
+          <Chinesesimp>办公桌（新）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_workbench_01_f0">
           <Original>Workbench</Original>
@@ -2569,7 +2569,7 @@
           <Key ID="str_a3_cfgvehicles_sign_sphere200cm_f0">
             <Original>Sphere (200cm)</Original>
             <Chinese>球面(200公分)</Chinese>
-            <Chinesesimp>球面(200厘米)</Chinesesimp>
+            <Chinesesimp>球面（200cm）</Chinesesimp>
           </Key>
         </Container>
       </Container>

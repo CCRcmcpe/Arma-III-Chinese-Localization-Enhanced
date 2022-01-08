@@ -87,7 +87,7 @@
       <Key ID="STR_A3_Missile_mim145_datalink_x4_magazine_description">
         <Original>Defender Surface-to-Air Missile (MIM-145 with data-link)</Original>
         <Chinese>"防禦者"地空飛彈(安裝數據鏈的MIM-145)</Chinese>
-        <Chinesesimp>"防御者"地空导弹(安装数据链的MIM-145)</Chinesesimp>
+        <Chinesesimp>"防御者"地空导弹（安装数据链的 MIM-145）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_mim145_x4_magazine_shortName">
         <Original>SAM LR</Original>
@@ -97,7 +97,7 @@
       <Key ID="STR_A3_Missile_mim145_datalink_x4_magazine_name">
         <Original>Defender AA (data-link)</Original>
         <Chinese>"防禦者"防空系統(數據鏈)</Chinese>
-        <Chinesesimp>"防御者"防空系统(数据链)</Chinesesimp>
+        <Chinesesimp>"防御者"防空系统（数据链）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_mim145_datalink_x4_magazine_shortName">
         <Original>SAM LR</Original>
@@ -107,7 +107,7 @@
       <Key ID="STR_A3_Missile_mim145_x4_magazine_description">
         <Original>Defender Surface-to-Air Missile (MIM-145)</Original>
         <Chinese>"防禦者"地空飛彈(MIM-145)</Chinese>
-        <Chinesesimp>"防御者"地空导弹(MIM-145)</Chinesesimp>
+        <Chinesesimp>"防御者"地空导弹（MIM-145）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_S750_x4_magazine_name">
         <Original>Rhea AA</Original>
@@ -122,17 +122,17 @@
       <Key ID="STR_A3_Missile_S750_datalink_x4_magazine_description">
         <Original>Rhea Surface-to-Air Missile (S-750 with data-link)</Original>
         <Chinese>"美洲鴕"地空飛彈(S-750安裝數據鏈)</Chinese>
-        <Chinesesimp>"美洲鸵"地空导弹(S-750安装数据链)</Chinesesimp>
+        <Chinesesimp>"美洲鸵"地空导弹（S-750安装数据链）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_S750_datalink_x4_magazine_name">
         <Original>Rhea AA (data-link)</Original>
         <Chinese>"美洲鴕"空空飛彈(數據鏈)</Chinese>
-        <Chinesesimp>"美洲鸵"空空导弹(数据链)</Chinesesimp>
+        <Chinesesimp>"美洲鸵"空空导弹（数据链）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_S750_x4_magazine_description">
         <Original>Rhea Surface-to-Air Missile (S-750)</Original>
         <Chinese>"美洲鴕"地空飛彈(S-750)</Chinese>
-        <Chinesesimp>"美洲鸵"地空导弹(S-750)</Chinesesimp>
+        <Chinesesimp>"美洲鸵"地空导弹（S-750）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_S750_datalink_x4_magazine_shortName">
         <Original>SAM LR</Original>
@@ -213,7 +213,7 @@
       <Key ID="STR_A3_Radar_System_01_hint_description">
         <Original>The AN/MPQ-105 radar system is designed for medium-to-long-range aerial threat detection. Its companion MIM-145 Defender Surface-Air-Missile system was designed to protect NATO airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats.</Original>
         <Chinese>AN/MPQ-105雷達系統用於中遠距離對空威脅探測。其搭配使用的MIM-145"防禦者"地空飛彈系統被用於保衛北約領空免遭敵國入侵。通常配置在高價值目標如機場和軍事基地附近以保護其免遭敵遠程空中威脅。</Chinese>
-        <Chinesesimp>AN/MPQ-105雷达系统用于中远距离对空威胁探测。其搭配使用的MIM-145"防御者"地空导弹系统被用于保卫北约领空免遭敌国入侵。通常配置在高价值目标如机场和军事基地附近以保护其免遭敌远程空中威胁。</Chinesesimp>
+        <Chinesesimp>AN/MPQ-105雷达系统用于中远距离对空威胁探测。其搭配使用的 MIM-145"防御者"地空导弹系统被用于保卫北约领空免遭敌国入侵。通常配置在高价值目标如机场和军事基地附近以保护其免遭敌远程空中威胁。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Radar_System_01_DLCbrowser_description">
         <Original>One of four Surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Original>
@@ -243,7 +243,7 @@
       <Key ID="STR_A3_SAM_System_03_hint_description">
         <Original>The MIM-145 Defender Surface-Air-Missile system was designed to protect NATO airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. Armed with long-range Defender missiles, and connected to AN/MPQ-105 radar via data-link, this system is a serious threat to any opponent.</Original>
         <Chinese>MIM-145"防禦者"地空飛彈系統被用於保衛北約領空免遭敵國入侵。通常配置在高價值目標如機場和軍事基地附近以保護其免遭敵遠程空中威脅。裝備遠程的"防禦者"飛彈，並能和AN/MPQ-105雷達通過數據鏈連接，該系統對任何敵對目標都有巨大威脅。</Chinese>
-        <Chinesesimp>MIM-145"防御者"地空导弹系统被用于保卫北约领空免遭敌国入侵。通常配置在高价值目标如机场和军事基地附近以保护其免遭敌远程空中威胁。装备远程的"防御者"导弹，并能和AN/MPQ-105雷达通过数据链连接，该系统对任何敌对目标都有巨大威胁。</Chinesesimp>
+        <Chinesesimp>MIM-145"防御者"地空导弹系统被用于保卫北约领空免遭敌国入侵。通常配置在高价值目标如机场和军事基地附近以保护其免遭敌远程空中威胁。装备远程的"防御者"导弹，并能和 AN/MPQ-105雷达通过数据链连接，该系统对任何敌对目标都有巨大威胁。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_SAM_System_03_DLCbrowser_description">
         <Original>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Original>

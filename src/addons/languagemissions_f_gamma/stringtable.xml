@@ -97,7 +97,7 @@
       <Key ID="STR_A3_CampaignDescription">
         <Original>&lt;t color='#999999'&gt;CAMPAIGN INBOUND&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;The official campaign will be added in 3 Free DLC Episodes, available to everyone who owns Arma 3.&lt;br /&gt;&lt;br /&gt;'Survive and adapt to unforgiving circumstances. Fight hard to win victory over a more powerful enemy.'&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;AVAILABLE FOR FREE&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;Each of the Campaign Episodes will be downloaded automatically via a Steam update once they become available.&lt;br /&gt;&lt;br /&gt;For all the latest announcements on Arma 3's campaign and more, be sure to keep track of the in-game newsfeed, www.arma3.com, Facebook and Twitter!</Original>
         <Chinese>&lt;tcolor='#999999'&gt;戰役即將推出&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;官方戰役將在未來分成3個免費的資料片供玩家下載，只要任何擁有武裝突襲3的玩家都可以獲得。&lt;br/&gt;&lt;br/&gt;'在困境中求生存。並且跟強大的敵人對抗，運用戰術來獲得勝利。'&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;免費獲得&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;當Steam開放更新，每一個章節將會自動下載並安裝。&lt;br/&gt;&lt;br/&gt;請持續追蹤武裝突襲3戰役的相關報導，你可以觀看遊戲中的新聞摘要，亦或查看www.arma3.com，Facebook和Twitter來持續追蹤!</Chinese>
-        <Chinesesimp>&lt;tcolor='#999999'&gt;战役即将推出&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;官方战役将在未来分成3个免费的DLC供玩家下载，只要任何拥有武装突袭3的玩家都可以获得。&lt;br/&gt;&lt;br/&gt;'在困境中求生存。并且跟强大的敌人对抗，运用战术来获得胜利。'&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;免费获得&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;当Steam开放更新，每一个章节将会自动下载并安装。&lt;br/&gt;&lt;br/&gt;请持续追踪武装突袭3战役的相关报导，你可以观看游戏中的新闻摘要，亦或查看www.arma3.com，Facebook和Twitter来持续追踪!</Chinesesimp>
+        <Chinesesimp>&lt;tcolor='#999999'&gt;战役即将推出&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;官方战役将在未来分成3个免费的 DLC 供玩家下载，只要任何拥有武装突袭3的玩家都可以获得。&lt;br/&gt;&lt;br/&gt;'在困境中求生存。并且跟强大的敌人对抗，运用战术来获得胜利。'&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;免费获得&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;当 Steam 开放更新，每一个章节将会自动下载并安装。&lt;br/&gt;&lt;br/&gt;请持续追踪武装突袭3战役的相关报导，你可以观看游戏中的新闻摘要，亦或查看 www.arma3.com，Facebook 和 Twitter 来持续追踪!</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CampaignDescriptionEstimatedTime">
         <Original>&lt;br /&gt;&lt;t align='center' color='#999999'&gt;ESTIMATED DEPLOYMENT OF THE NEXT EPISODE&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;</Original>
@@ -166,7 +166,7 @@
             <Key ID="str_a3_faction_independent_20_i_weapons_exi_0">
               <Original>The Mk32 GMG is a static grenade launcher that fires 20mm grenades.</Original>
               <Chinese>Mk32 GMG是一臺固定式的榴彈發射器，發射20公厘榴彈。</Chinese>
-              <Chinesesimp>Mk32 GMG是一种固定式榴弹发射器，发射20mm 榴弹。</Chinesesimp>
+              <Chinesesimp>Mk32 GMG 是一种固定式榴弹发射器，发射20mm 榴弹。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_20_i_weapons_exi_1">
               <Original>The Mk20 is a gas-operated, rotating-bolt, selective-fire weapon designed to be highly moddable.</Original>
@@ -319,12 +319,12 @@
             <Key ID="str_a3_faction_blufor_20_b_weapons_exb_1">
               <Original>The MX is a 6.5mm assault rifle, standard issue for NATO forces.</Original>
               <Chinese>MX突擊步槍配備著6.5公厘子彈，是北約部隊的標準配備。</Chinese>
-              <Chinesesimp>MX突击步枪配备着6.5mm 子弹，是北约部队的标准配备。</Chinesesimp>
+              <Chinesesimp>MX 突击步枪配备着6.5 mm 子弹，是北约部队的标准配备。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_20_b_weapons_exb_2">
               <Original>The Special Purpose Assault Rifle series, NATO's newest, high-tech primary weapon system. 7.62mm and 5.56mm caliber variants, combined with an optional grenade launcher, make the series a fan favorite among special operations groups.</Original>
               <Chinese>北約的新型高科技特殊用途突擊步槍系列，有著7.62公厘與5.56公厘兩種口徑，可以再選配榴彈發射器來配合不同的任務，使這把武器深獲特種部隊的青睞。</Chinese>
-              <Chinesesimp>北约新式的高科技特殊用途突击步枪系列，有着7.62mm 与5.56mm 两种口径，可以再选配榴弹发射器来配合不同的任务，使这把武器深获特种部队的青睐。</Chinesesimp>
+              <Chinesesimp>北约新式的高科技特殊用途突击步枪系列，有着7.62 mm 与5.56mm 两种口径，可以再选配榴弹发射器来配合不同的任务，使这把武器深获特种部队的青睐。</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_B_Water" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="15_B_Water" dubbingLanguage="english" namePrefix="faction_blufor_15_b_water" note="" participants="RC B Expo;" situation="player visits the naval area of the expo">
@@ -358,7 +358,7 @@
             <Key ID="str_a3_faction_blufor_10_b_air_exb_2">
               <Original>The AH-9 Pawnee is an armed variant of the MH-9 Hummingbird, with DAR unguided rocket pods and two 7.62mm miniguns.</Original>
               <Chinese>AH-9"波尼"是MH-9"蜂鳥"武裝過後的版本，配備有DAR非制導火箭莢艙與兩個7.62公厘"米尼岡"機槍。</Chinese>
-              <Chinesesimp>AH-9"波尼"是MH-9"蜂鸟"的武装版本，配备有DAR非制导火箭巢与两挺7.62mm 转管机枪。</Chinesesimp>
+              <Chinesesimp>AH-9"波尼"是 MH-9"蜂鸟"的武装版本，配备有 DAR 非制导火箭巢与两挺7.62 mm 转管机枪。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_10_b_air_exb_3">
               <Original>The V-44 X Blackfish is a rotor-based, Vertical Take-off and Landing capable airframe that comes in 3 standard-issue configurations.</Original>
@@ -390,7 +390,7 @@
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_2">
               <Original>The Panther is an armored personnel carrier armed with a 12.7mm machine gun, 40mm grenade launcher, and a cargo capacity for up to eight soldiers.</Original>
               <Chinese>"黑豹"是一臺裝甲運兵車，配備有12.7公厘機槍，40公厘榴彈發射器，可以乘載8名人員的空間。</Chinese>
-              <Chinesesimp>"黑豹"是一种装甲运兵车，配备有12.7mm 机枪，40mm 榴弹发射器，可容纳8名载员。</Chinesesimp>
+              <Chinesesimp>"黑豹"是一种装甲运兵车，配备有12.7 mm 机枪，40mm 榴弹发射器，可容纳8名载员。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_3">
               <Original>The Prowler is NATO's standard-issue Light Strike Vehicle used by special operation groups, with its advantages over other vehicles being its small profile and high mobility.</Original>
@@ -480,12 +480,12 @@
             <Key ID="str_a3_faction_opfor_20_o_weapons_exo_1">
               <Original>The Katiba is a 6.5mm bullpup assault rifle known for its reliability and low recoil.</Original>
               <Chinese>"卡提巴"是一把有著6.5公厘子彈的無托突擊步槍，它因它的可靠性與低後座力而聞名。</Chinese>
-              <Chinesesimp>"卡提巴"是一把装填6.5mm 子弹的无托突击步枪，因其可靠性与低后座力而闻名。</Chinesesimp>
+              <Chinesesimp>"卡提巴"是一把装填6.5 mm 子弹的无托突击步枪，因其可靠性与低后座力而闻名。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_20_o_weapons_exo_2">
               <Original>The CAR rifle series. Capable of a firerate of 800 rounds per minute, the CAR has recently seen deployment among CSAT forces in the Pacific.</Original>
               <Chinese>CAR步槍系列的射速最高可達每分鐘800發，最近開始廣泛的裝備在廣協同盟的太平洋部隊中。</Chinese>
-              <Chinesesimp>CAR步枪系列的射速最高可达每分钟800发，最近开始广泛的装备在广协的太平洋部队中。</Chinesesimp>
+              <Chinesesimp>CAR 步枪系列的射速最高可达每分钟800发，最近开始广泛的装备在广协的太平洋部队中。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_20_o_weapons_exo_3">
               <Original>The CMR-76 is the preferred designated marksman rifle of CSAT's Pacific contingent. It is a gas operated, semi-automatic rifle of bullpup configuration.</Original>
@@ -561,7 +561,7 @@
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_4">
               <Original>The armed variant of Qilin LSV provides space for 7 soldiers and comes equipped with a 6.5mm Minigun.</Original>
               <Chinese>武裝版本的"麒麟"可以運送7名士兵，並配有一挺6.5公厘"米尼岡"機槍。</Chinese>
-              <Chinesesimp>武装版本的"麒麟"可以运送7名士兵，并配有一挺6.5mm 转管机枪。</Chinesesimp>
+              <Chinesesimp>武装版本的"麒麟"可以运送7名士兵，并配有一挺6.5 mm 转管机枪。</Chinesesimp>
             </Key>
           </Container>
           <Container name="01_O_ExpoWelcome" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="01_O_ExpoWelcome" dubbingLanguage="english" namePrefix="faction_opfor_01_o_expowelcome" note="" participants="RC O Expo;" situation="player starts the expo, offered introduction">
@@ -1104,7 +1104,7 @@
             <Key ID="str_a3_showcase_tanks_10_village_seized_bhq_0">
               <Original>Copy that. Charlie's en route. Papa Bear out.</Original>
               <Chinese>收到。"Charlie's"已開始移動。Papa Bear通話完畢。</Chinese>
-              <Chinesesimp>收到。Charlie已开始移动。Papa Bear通话完毕。</Chinesesimp>
+              <Chinesesimp>收到。Charlie 已开始移动。Papa Bear 通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_tanks_10_village_seized_nom_0">
               <Original>Papa Bear, this is Nomad. Objective one clear, you can send in the sweep team. Over.</Original>
@@ -1162,14 +1162,14 @@
             <Key ID="str_a3_showcase_armed_assault_40_joinassault_bhq_1">
               <Original>Alpha, Echo, move up and support Nomad. Papa Bear out.</Original>
               <Chinese>Alpha，Echo，移動並支援"游牧民"。Papa Bear通話完畢。</Chinese>
-              <Chinesesimp>Alpha，Echo，移动并支援"游牧民"。Papa Bear通话完毕。</Chinesesimp>
+              <Chinesesimp>Alpha，Echo，移动并支援"游牧民"。Papa Bear 通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x45_EchoDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x45_EchoDestroyed" dubbingLanguage="english" namePrefix="showcase_armed_assault_x45_echodestroyed" note="" participants="RC B HQ;" situation="hq tells player that they lost contact with echo team">
             <Key ID="str_a3_showcase_armed_assault_x45_echodestroyed_bhq_0">
               <Original>Alpha, be advised, we can't raise Echo. Presumed KIA. Papa Bear out.</Original>
               <Chinese>Alpha，請注意，我們已經與Echo失去聯繫。可能全員陣亡了。Papa Bear通話完畢。</Chinese>
-              <Chinesesimp>Alpha，请注意，我们已经与Echo失去联系。推断全员阵亡。Papa Bear通话完毕。</Chinesesimp>
+              <Chinesesimp>Alpha，请注意，我们已经与 Echo 失去联系。推断全员阵亡。Papa Bear 通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x40_MinefieldImpossible" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x40_MinefieldImpossible" dubbingLanguage="english" namePrefix="showcase_armed_assault_x40_minefieldimpossible" note="" participants="RC B Kerry;RC B Alpha Lead;" situation="hq orders player to defuse the minefield but he lost his toolkit">
@@ -1281,7 +1281,7 @@
             <Key ID="str_a3_showcase_armed_assault_x10_heavycasualtiesteamroadblock_alp_2">
               <Original>Papa Bear, be advised, Alpha's taken casualties. Road block not clear - I say again - road block is not clear.</Original>
               <Chinese>Papa Bear，請注意，Alpha有重大傷亡。路障未肅清-我重覆一次-路障未肅清。</Chinese>
-              <Chinesesimp>Papa Bear，请注意，Alpha有重大伤亡。路障未肃清-我重复一次-路障未肃清。</Chinesesimp>
+              <Chinesesimp>Papa Bear，请注意，Alpha 有重大伤亡。路障未肃清-我重复一次-路障未肃清。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x05_HeavyCasualtiesTeamFactory" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x05_HeavyCasualtiesTeamFactory" dubbingLanguage="english" namePrefix="showcase_armed_assault_x05_heavycasualtiesteamfactory" note="" participants="RC B Kerry;RC B Alpha Lead;" situation="player tells alpha squad leader that all his team members are dead">
@@ -1303,7 +1303,7 @@
             <Key ID="str_a3_showcase_armed_assault_x05_heavycasualtiesteamfactory_alp_2">
               <Original>Papa Bear, be advised, Alpha's taken casualties. Industrial complex not clear - I say again - complex is not clear. AT threat remains. Over.</Original>
               <Chinese>Papa Bear，請注意，Alpha有重大傷亡。工業區未肅清-我重覆一次-工業區未肅清。反坦克威脅依然存在。完畢。</Chinese>
-              <Chinesesimp>Papa Bear，请注意，Alpha有重大伤亡。工业区未肃清-我重复一次-工业区未肃清。反坦克威胁依然存在。完毕。</Chinesesimp>
+              <Chinesesimp>Papa Bear，请注意，Alpha 有重大伤亡。工业区未肃清-我重复一次-工业区未肃清。反坦克威胁依然存在。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x00_HeavyCasualtiesSquad" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x00_HeavyCasualtiesSquad" dubbingLanguage="english" namePrefix="showcase_armed_assault_x00_heavycasualtiessquad" note="" participants="RC B HQ;RC B Alpha Lead;" situation="alpha leader tells hq that his squad has taken too many casualties, hq orders them to fall back">
@@ -1327,7 +1327,7 @@
             <Key ID="str_a3_showcase_armed_assault_95_ending_bhq_1">
               <Original>Get these trucks moving; we're pushing north! Papa Bear out.</Original>
               <Chinese>讓那些卡車開始移動;我們要開始向北推進了!Papa Bear通話完畢。</Chinese>
-              <Chinesesimp>让那些卡车开始移动;我们要开始向北推进了!Papa Bear通话完毕。</Chinesesimp>
+              <Chinesesimp>让那些卡车开始移动;我们要开始向北推进了!Papa Bear 通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="90_MinefieldDefused" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="90_MinefieldDefused" dubbingLanguage="english" namePrefix="showcase_armed_assault_90_minefielddefused" note="" participants="RC B HQ;RC B Kerry;" situation="player tells hq that the minefield is defused">
@@ -1356,7 +1356,7 @@
             <Key ID="str_a3_showcase_armed_assault_85_minefield_pla_0">
               <Original>Papa Bear, this is Alpha-5, I'm in the vicinity and on hand if needed. Over.</Original>
               <Chinese>Papa Bear，這裡是Alpha-5，如果有需要幫忙的話我人在附近。完畢。</Chinese>
-              <Chinesesimp>Papa Bear，这里是Alpha-5，如果有需要帮忙的话我人在附近。完毕。</Chinesesimp>
+              <Chinesesimp>Papa Bear，这里是 Alpha-5，如果有需要帮忙的话我人在附近。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="80_LogisticsMinefield" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="80_LogisticsMinefield" dubbingLanguage="english" namePrefix="showcase_armed_assault_80_logisticsminefield" note="" participants="RC B HQ;RC B Kerry;RC B Kilo Lead;" situation="logistics hit a mine field and find that more mines are still active in the area, player is sent to defuse them">
@@ -1373,7 +1373,7 @@
             <Key ID="str_a3_showcase_armed_assault_80_logisticsminefield_kil_0">
               <Original>Shit! Papa Bear, this is Kilo! Our lead vehicle's just hit a mine, over.</Original>
               <Chinese>天殺的!Papa Bear，這裡是Kilo!我們的領頭車剛被一個地雷擊中，完畢。</Chinese>
-              <Chinesesimp>天杀的!Papa Bear，这里是Kilo!我们的头车刚压中了地雷，完毕。</Chinesesimp>
+              <Chinesesimp>天杀的!Papa Bear，这里是 Kilo!我们的头车刚压中了地雷，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_80_logisticsminefield_kil_1">
               <Original>We're fine - Kilo-2's a mess - but no casualties. Looks like we've got a minefield, Papa Bear. Orders?</Original>
@@ -1385,7 +1385,7 @@
             <Key ID="str_a3_showcase_armed_assault_75_logistics_alp_0">
               <Original>Affirmative, Papa Bear. Dispatching Alpha-5.</Original>
               <Chinese>可以的，Papa Bear。將派出"Alpha-5"。</Chinese>
-              <Chinesesimp>可以的，Papa Bear。将派出Alpha-5"。</Chinesesimp>
+              <Chinesesimp>可以的，Papa Bear。将派出 Alpha-5"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_75_logistics_alp_1">
               <Original>Kerry, link up with the convoy at the main base. How copy? Over.</Original>
@@ -1451,7 +1451,7 @@
             <Key ID="str_a3_showcase_armed_assault_60_roadblock_alp_3">
               <Original>Echo, this is Alpha, be advised, we're advancing. Are you ready to assist? Over.</Original>
               <Chinese>Echo，這裡是Alpha，請注意，我們開始推進了。你們準備好支援了嗎?完畢。</Chinese>
-              <Chinesesimp>Echo，这里是Alpha，请注意，我们开始推进了。你们准备好支援了吗?完毕。</Chinesesimp>
+              <Chinesesimp>Echo，这里是 Alpha，请注意，我们开始推进了。你们准备好支援了吗?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_60_roadblock_pla_0">
               <Original>Yes, sir. Just give the order, sir. Over.</Original>
@@ -1461,12 +1461,12 @@
             <Key ID="str_a3_showcase_armed_assault_60_roadblock_alp_4">
               <Original>Kerry, Echo is in support if necessary. Make damn sure that it's clear for the IFVs before calling them in. Understood? Over.</Original>
               <Chinese>克里，假如你有需要的話，Echo可以隨時支援。請務必確認該區已無可以對裝甲運兵車造成威脅的武器，在請求他們的支援。了解嗎?完畢。</Chinese>
-              <Chinesesimp>克里，假如你有需要的话，Echo可以随时支援。请务必确认该区已无可以对装甲运兵车造成威胁的武器，再请求他们的支援。了解吗?完毕。</Chinesesimp>
+              <Chinesesimp>克里，假如你有需要的话，Echo 可以随时支援。请务必确认该区已无可以对装甲运兵车造成威胁的武器，再请求他们的支援。了解吗?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_60_roadblock_ech_0">
               <Original>Affirmative, Alpha, Echo standing by.</Original>
               <Chinese>是的，Alpha，Echo已經準備好了。</Chinese>
-              <Chinesesimp>是的，Alpha，Echo已经准备好了。</Chinesesimp>
+              <Chinesesimp>是的，Alpha，Echo 已经准备好了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_60_roadblock_pla_1">
               <Original>Copy that, sir. We're on it. Out.</Original>
@@ -1483,7 +1483,7 @@
             <Key ID="str_a3_showcase_armed_assault_55_factoryclear_alp_1">
               <Original>Echo-lead this is Alpha. Route is secure; you're clear to move up. Acknowledge, over.</Original>
               <Chinese>Echo隊長，這裡是Alpha。路已安全;你們可以開始移動了。是否收到，完畢。</Chinese>
-              <Chinesesimp>Echo领队，这里是Alpha。路已安全;你们可以开始移动了。是否收到，完毕。</Chinesesimp>
+              <Chinesesimp>Echo 领队，这里是 Alpha。路已安全;你们可以开始移动了。是否收到，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_55_factoryclear_pla_0">
               <Original>Sir, AT threat neutralized! Over.</Original>
@@ -1493,14 +1493,14 @@
             <Key ID="str_a3_showcase_armed_assault_55_factoryclear_ech_0">
               <Original>Roger that, we're rolling. Thanks for the assist, Alpha. Echo out.</Original>
               <Chinese>了解，我們正在移動。感謝你們的支援，Alpha。Echo通話完畢。</Chinese>
-              <Chinesesimp>了解，我们正在移动。感谢你们的支援，Alpha。Echo通话完毕。</Chinesesimp>
+              <Chinesesimp>了解，我们正在移动。感谢你们的支援，Alpha。Echo 通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="50_SplitTeam" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="50_SplitTeam" dubbingLanguage="english" namePrefix="showcase_armed_assault_50_splitteam" note="" participants="RC B Alpha Lead;RC B Kerry;" situation="alpha squad leader gives player the command of half the squad so he can lead them and engage anti-tank position">
             <Key ID="str_a3_showcase_armed_assault_50_splitteam_alp_0">
               <Original>Ok, new orders! We've got to clear a path for Echo.</Original>
               <Chinese>Ok，新命令!我們必須為Echo清理道路。</Chinese>
-              <Chinesesimp>Ok，新命令!我们必须为Echo清理道路。</Chinesesimp>
+              <Chinesesimp>Ok，新命令!我们必须为 Echo 清理道路。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_50_splitteam_alp_1">
               <Original>Kerry! Take Ryan, Lacey and Taylor. Advance and secure the AT position to our north east. Understood?</Original>
@@ -1522,12 +1522,12 @@
             <Key ID="str_a3_showcase_armed_assault_45_factory_alp_0">
               <Original>Solid copy, Papa Bear. We're on it. Alpha out.</Original>
               <Chinese>完整收到，Papa Bear。我們在路上了。Alpha通話完畢。</Chinese>
-              <Chinesesimp>完整收到，Papa Bear。我们在路上了。Alpha通话完毕。</Chinesesimp>
+              <Chinesesimp>完整收到，Papa Bear。我们在路上了。Alpha 通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_45_factory_bhq_0">
               <Original>Alpha, priority. We've got anti-tank units blocking Echo's advance.</Original>
               <Chinese>Alpha，優先級任務。我們發現有反坦克單位擋在Echo的必經之路上。</Chinese>
-              <Chinesesimp>Alpha，优先级任务。我们发现有反坦克单位挡在Echo的必经之路上。</Chinesesimp>
+              <Chinesesimp>Alpha，优先级任务。我们发现有反坦克单位挡在 Echo 的必经之路上。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_45_factory_bhq_1">
               <Original>We need that route clear, ASAP. They're holed up in two areas of the industrial district.</Original>
@@ -1549,7 +1549,7 @@
             <Key ID="str_a3_showcase_armed_assault_43_assaultplan_alp_1">
               <Original>We'll move up with Echo in support of the main assault from the south. Move out!</Original>
               <Chinese>我們要與Echo一同從南方支援主要攻擊。開始移動!</Chinese>
-              <Chinesesimp>我们要与Echo一同从南方支援主要攻击。开始移动!</Chinesesimp>
+              <Chinesesimp>我们要与 Echo 一同从南方支援主要攻击。开始移动!</Chinesesimp>
             </Key>
           </Container>
           <Container name="37_MainAssault" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="37_MainAssault" dubbingLanguage="english" namePrefix="showcase_armed_assault_37_mainassault" note="" participants="RC B HQ;" situation="main assault is signalled">
@@ -1563,7 +1563,7 @@
             <Key ID="str_a3_showcase_armed_assault_35_outpostsitrep_alp_0">
               <Original>Alpha to Papa Bear, support vehicles neutralized, outpost secure. Over.</Original>
               <Chinese>Alpha致Papa Bear，支援載具已摧毀，前哨已肅清。完畢。</Chinese>
-              <Chinesesimp>Alpha致Papa Bear，支援载具已摧毁，前哨已肃清。完毕。</Chinesesimp>
+              <Chinesesimp>Alpha 致 Papa Bear，支援载具已摧毁，前哨已肃清。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_35_outpostsitrep_bhq_0">
               <Original>Outstanding, Alpha. Stand by for further orders. Out.</Original>
@@ -1606,7 +1606,7 @@
             <Key ID="str_a3_showcase_armed_assault_20_stagingarea_alp_0">
               <Original>Papa Bear, this is Alpha. In position at the staging area. Over.</Original>
               <Chinese>Papa Bear，這裡是Alpha。已經在等待區就定位了。完畢。</Chinese>
-              <Chinesesimp>Papa Bear，这里是Alpha。已经在等待区就定位了。完毕。</Chinesesimp>
+              <Chinesesimp>Papa Bear，这里是 Alpha。已经在等待区就定位了。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_20_stagingarea_bhq_0">
               <Original>Copy that. Alpha, Bravo, Echo, move in!</Original>
@@ -1661,7 +1661,7 @@
             <Key ID="str_a3_showcase_armed_assault_03_objectivesoverview_ech_0">
               <Original>Papa Bear, this is Echo, approaching objective. Over.</Original>
               <Chinese>Papa Bear，這裡是Echo，靠近目標中。完畢。</Chinese>
-              <Chinesesimp>Papa Bear，这里是Echo，靠近目标中。完毕。</Chinesesimp>
+              <Chinesesimp>Papa Bear，这里是 Echo，靠近目标中。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_03_objectivesoverview_bhq_1">
               <Original>Alpha, be advised, all callsigns in position. Move to staging area and report in. Over.</Original>
@@ -1914,7 +1914,7 @@
         <Key ID="str_a3_mp_coop_06_briefing_execution_text">
           <Original>1. Seize Alpha&lt;br /&gt;2. Seize Bravo&lt;br /&gt;3. Seize Charlie&lt;br /&gt;4. Seize Delta&lt;br /&gt;5. Seize Echo</Original>
           <Chinese>1. 佔領Alpha&lt;br/&gt;2. 佔領Bravo&lt;br/&gt;3. 佔領Charlie&lt;br/&gt;4. 佔領Delta&lt;br/&gt;5. 佔領Echo</Chinese>
-          <Chinesesimp>1. 占领Alpha&lt;br/&gt;2. 占领Bravo&lt;br/&gt;3. 占领Charlie&lt;br/&gt;4. 占领Delta&lt;br/&gt;5. 占领Echo</Chinesesimp>
+          <Chinesesimp>1. 占领 Alpha&lt;br/&gt;2. 占领 Bravo&lt;br/&gt;3. 占领 Charlie&lt;br/&gt;4. 占领 Delta&lt;br/&gt;5. 占领 Echo</Chinesesimp>
         </Key>
       </Container>
       <Container name="Firing_Drills">
@@ -1961,7 +1961,7 @@
         <Key ID="str_a3_firing_drills_sp_fd06_overview">
           <Original>Clear a smaller course before driving to a primary objective near the mines.</Original>
           <Chinese>先清理一個小型靶場，之後駕駛車輛到主要目標(在地雷區附近)。</Chinese>
-          <Chinesesimp>先清理一个小型靶场，之后驾驶车辆到主要目标(在地雷区附近)。</Chinesesimp>
+          <Chinesesimp>先清理一个小型靶场，之后驾驶车辆到主要目标（在地雷区附近）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_firing_drills_sp_fd06_name">
           <Original>CoF: Red 3</Original>
@@ -2110,7 +2110,7 @@
         <Key ID="str_a3_mp_coop_07_briefing_execution_text">
           <Original>1. Seize Alpha&lt;br /&gt;2. Seize Bravo&lt;br /&gt;3. Seize Charlie&lt;br /&gt;4. Seize Delta&lt;br /&gt;5. Seize Echo</Original>
           <Chinese>1. 佔領Alpha&lt;br/&gt;2. 佔領Bravo&lt;br/&gt;3. 佔領Charlie&lt;br/&gt;4. 佔領Delta&lt;br/&gt;5。佔領Echo</Chinese>
-          <Chinesesimp>1. 占领Alpha&lt;br/&gt;2. 占领Bravo&lt;br/&gt;3. 占领Charlie&lt;br/&gt;4. 占领Delta&lt;br/&gt;5。占领Echo</Chinesesimp>
+          <Chinesesimp>1. 占领 Alpha&lt;br/&gt;2. 占领 Bravo&lt;br/&gt;3. 占领 Charlie&lt;br/&gt;4. 占领 Delta&lt;br/&gt;5。占领 Echo</Chinesesimp>
         </Key>
       </Container>
       <Key ID="STR_A3_Faction_showcase_task_text">
@@ -2429,7 +2429,7 @@
         <Key ID="str_a3_showcase_gunships_bis_tskrearm_title">
           <Original>Rearm (optional)</Original>
           <Chinese>重新補給(支線任務)</Chinese>
-          <Chinesesimp>重新补给(支线任务)</Chinesesimp>
+          <Chinesesimp>重新补给（支线任务）</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_gunships_bis_tskrearm_marker">
           <Original>REARM</Original>
@@ -2556,7 +2556,7 @@
         <Key ID="str_a3_showcase_arma_briefing_situation_text">
           <Original>Having seized Kavala - the largest settlement on the west coast - with surprisingly little resistance, our forces pushed north and were met with a heavily fortified &lt;marker name='BIS_base'&gt;position&lt;/marker&gt;. At the same time, we have opened up a new front, with the goal of flanking the enemy and, ultimately, securing the entire west coast of the island.&lt;br /&gt;&lt;br /&gt;An armored platoon, &lt;marker name='BIS_friendlies'&gt;Nomad&lt;/marker&gt;, has moved into position to the north west - securing a key &lt;marker name='BIS_friendlies_1'&gt;power station&lt;/marker&gt; - and is poised to strike against our primary objective, the &lt;marker name='BIS_base'&gt;main base&lt;/marker&gt;. However, we must first secure a key outpost to the south, so as to remove the risk of our forces being outflanked.&lt;br /&gt;&lt;br /&gt;Mechanized infantry, callsign &lt;marker name='BIS_start'&gt;Echo&lt;/marker&gt;, will push north and deploy infantry squads, &lt;marker name='BIS_startOne'&gt;Alpha&lt;/marker&gt;, your team, and &lt;marker name='BIS_startTwo'&gt;Bravo&lt;/marker&gt;, near the &lt;marker name='BIS_outpost'&gt;Outpost&lt;/marker&gt;. Together, they'll execute a coordinated assault and, with armored support, immediately strike against the &lt;marker name='BIS_base'&gt;main base&lt;/marker&gt; before the enemy can regroup and counterattack.&lt;br /&gt;&lt;br /&gt;Once the Area of Operation is under our control, a logistics convoy, Kilo, will move up and establish a supply route in support of our forces in the north. It's vital that we maintain the momentum of our offensive.</Original>
           <Chinese>在佔領卡瓦拉(西海岸最大的城鎮)的時候，我們出乎意料只遇到了一些零星的反擊，在我們部隊繼續向北挺進的時候，我們卻遇到了一個戒備森嚴的敵軍&lt;markername='BIS_base'&gt;防禦工事&lt;/marker&gt;。與此同時，我們在敵軍的側翼開闢了一條新戰線，期望最終能把整個西海岸給拿下。&lt;br/&gt;&lt;br/&gt;一個呼號為&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;的裝甲排，已經移動到了西北方(確保一個關鍵的&lt;markername='BIS_friendlies_1'&gt;發電站&lt;/marker&gt;)並且準備開始突擊我們的首要目標，&lt;markername='BIS_base'&gt;敵軍主基地&lt;/marker&gt;。然而，我們必須先佔領一座敵軍的前哨，以移除我們被包抄的危險。&lt;br/&gt;&lt;br/&gt;呼號為&lt;markername='BIS_start'&gt;Echo&lt;/marker&gt;的多功能步兵車，將會向北挺進並部屬兩支步兵小隊在&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;附近，包括你的小隊&lt;markername='BIS_startOne'&gt;Alpha&lt;/marker&gt;，與前來支援的&lt;markername='BIS_startTwo'&gt;Bravo&lt;/marker&gt;。你們兩隊，將一起突擊該前哨，然後與裝甲部隊協同，在敵人反應過來之前攻擊他們的&lt;markername='BIS_base'&gt;主基地&lt;/marker&gt;。&lt;br/&gt;&lt;br/&gt;一旦區域落入我們的控制，呼號為Kilo的後勤車隊即會開始北上，為我們建立起補給線。他們非常重要，因為這樣我們才能維持我們的攻勢。</Chinese>
-          <Chinesesimp>在占领卡瓦拉(西海岸最大的城镇)的过程中，我们出乎意料地只遇到了一些零星的反击，在我们部队继续向北挺进的时候，我们却遇到了一支戒备森严的敌军&lt;markername='BIS_base'&gt;防御工事&lt;/marker&gt;。与此同时，我们在敌军的侧翼开辟了一条新战线，期望最终能把整个西海岸给拿下。&lt;br/&gt;&lt;br/&gt;一个呼号为&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;的装甲排，已经移动到了西北方(确保一个关键的&lt;markername='BIS_friendlies_1'&gt;发电站&lt;/marker&gt;)并且准备开始突击我们的首要目标，&lt;markername='BIS_base'&gt;敌军主基地&lt;/marker&gt;。然而，我们必须先占领一座敌军的前哨，以移除我们被包抄的危险。&lt;br/&gt;&lt;br/&gt;呼号为&lt;markername='BIS_start'&gt;Echo&lt;/marker&gt;的多功能步兵车，将会向北挺进并部属两支步兵小队在&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;附近，包括你的小队&lt;markername='BIS_startOne'&gt;Alpha&lt;/marker&gt;，与前来支援的&lt;markername='BIS_startTwo'&gt;Bravo&lt;/marker&gt;。你们两队，将一起突击该前哨，然后与装甲部队协同，在敌人反应过来之前攻击他们的&lt;markername='BIS_base'&gt;主基地&lt;/marker&gt;。&lt;br/&gt;&lt;br/&gt;一旦区域落入我们的控制，呼号为Kilo的后勤车队即会开始北上，为我们建立起补给线。他们非常重要，因为这样我们才能维持我们的攻势。</Chinesesimp>
+          <Chinesesimp>在占领卡瓦拉(西海岸最大的城镇)的过程中，我们出乎意料地只遇到了一些零星的反击，在我们部队继续向北挺进的时候，我们却遇到了一支戒备森严的敌军&lt;markername='BIS_base'&gt;防御工事&lt;/marker&gt;。与此同时，我们在敌军的侧翼开辟了一条新战线，期望最终能把整个西海岸给拿下。&lt;br/&gt;&lt;br/&gt;一个呼号为&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;的装甲排，已经移动到了西北方（确保一个关键的&lt;markername='BIS_friendlies_1'&gt;发电站&lt;/marker&gt;）并且准备开始突击我们的首要目标，&lt;markername='BIS_base'&gt;敌军主基地&lt;/marker&gt;。然而，我们必须先占领一座敌军的前哨，以移除我们被包抄的危险。&lt;br/&gt;&lt;br/&gt;呼号为&lt;markername='BIS_start'&gt;Echo&lt;/marker&gt;的多功能步兵车，将会向北挺进并部属两支步兵小队在&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;附近，包括你的小队&lt;markername='BIS_startOne'&gt;Alpha&lt;/marker&gt;，与前来支援的&lt;markername='BIS_startTwo'&gt;Bravo&lt;/marker&gt;。你们两队，将一起突击该前哨，然后与装甲部队协同，在敌人反应过来之前攻击他们的&lt;markername='BIS_base'&gt;主基地&lt;/marker&gt;。&lt;br/&gt;&lt;br/&gt;一旦区域落入我们的控制，呼号为 Kilo 的后勤车队即会开始北上，为我们建立起补给线。他们非常重要，因为这样我们才能维持我们的攻势。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_arma_briefing_signal_text">
           <Original>Papa Bear - HQ&lt;br /&gt;&lt;marker name='BIS_startOne'&gt;Alpha&lt;/marker&gt; - Your team&lt;br /&gt;&lt;marker name='BIS_startTwo'&gt;Bravo&lt;/marker&gt; - Infantry Squad&lt;br /&gt;&lt;marker name='BIS_start'&gt;Echo&lt;/marker&gt; - 2 IFVs&lt;br /&gt;&lt;marker name='BIS_friendlies'&gt;Nomad&lt;/marker&gt; - Armored Platoon&lt;br /&gt;Kilo - Logistics Convoy</Original>
@@ -2746,12 +2746,12 @@
         <Key ID="str_a3_showcase_arma2_titlecard">
           <Original>SHOWCASE: COMBINED ARMS II - Large-Scale Attack, Combined Arms, Overwhelming Force</Original>
           <Chinese>任務展示:聯合作戰II-大規模作戰，聯合作戰，優勢的軍力</Chinese>
-          <Chinesesimp>任务展示:合成作战II-大规模作战，合成作战，压倒性军力</Chinesesimp>
+          <Chinesesimp>任务展示:合成作战 II-大规模作战，合成作战，压倒性军力</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_arma_support">
           <Original>Echo Support</Original>
           <Chinese>呼叫Echo支援</Chinese>
-          <Chinesesimp>呼叫Echo支援</Chinesesimp>
+          <Chinesesimp>呼叫 Echo 支援</Chinesesimp>
         </Key>
       </Container>
       <Container name="MP_COOP_m08">
@@ -2770,7 +2770,7 @@
         <Key ID="STR_A3_Showcase_Showcase_Faction_INDEPENDENT_Summary_text">
           <Original>Review Arma 3's AAF faction and attend the fixed-wing demonstration.</Original>
           <Chinese>體驗武裝突襲3的阿爾蒂斯武裝力量陣營，並參觀固定翼飛機的演習。</Chinese>
-          <Chinesesimp>体验武装突袭3的AAF阵营，并参观固定翼飞机的演习。</Chinesesimp>
+          <Chinesesimp>体验武装突袭3的 AAF 阵营，并参观固定翼飞机的演习。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_independent_weapons_title">
           <Original>Weapons</Original>
@@ -2785,7 +2785,7 @@
         <Key ID="str_a3_showcase_faction_independent_weapons_description">
           <Original>Fire a range of the AAF's pistols, rifles, launchers and static weapons.</Original>
           <Chinese>阿爾蒂斯武裝力量的靶場，可以使用手槍，步槍，發射器與固定武器。</Chinese>
-          <Chinesesimp>AAF的靶场，可以使用手枪，步枪，发射器与固定武器。</Chinesesimp>
+          <Chinesesimp>AAF 的靶场，可以使用手枪，步枪，发射器与固定武器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_independent_water_title">
           <Original>Sea</Original>
@@ -2800,12 +2800,12 @@
         <Key ID="str_a3_showcase_faction_independent_water_description">
           <Original>Head out to the water and navigate the AAF's surface craft and submarines.</Original>
           <Chinese>體驗阿爾蒂斯武裝力量的水上船隻與潛水艇。</Chinese>
-          <Chinesesimp>体验AAF的水上船只与潜水艇。</Chinesesimp>
+          <Chinesesimp>体验 AAF 的水上船只与潜水艇。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_independent_mission">
           <Original>Visit each exhibition area and experience the AAF forces by land, air and sea.</Original>
           <Chinese>參觀並體驗阿爾蒂斯武裝力量的陸上，天空，海上載具與武器。</Chinese>
-          <Chinesesimp>参观并体验AAF的陆上，天空，海上载具与武器。</Chinesesimp>
+          <Chinesesimp>参观并体验 AAF 的陆上，天空，海上载具与武器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_independent_ground_title">
           <Original>Land</Original>
@@ -2825,7 +2825,7 @@
         <Key ID="str_a3_showcase_faction_independent_ground_description">
           <Original>Try out the AAF's vehicles, including MRAPS, Supply trucks and Armored Personnel Carriers.</Original>
           <Chinese>嘗試阿爾蒂斯武裝力量的車輛載具，包括防地雷反伏擊車，補給卡車與裝甲運兵車。</Chinese>
-          <Chinesesimp>尝试AAF的车辆，包括防地雷反伏击车，补给卡车与装甲运兵车。</Chinesesimp>
+          <Chinesesimp>尝试 AAF 的车辆，包括防地雷反伏击车，补给卡车与装甲运兵车。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_independent_expo_title">
           <Original>Expo</Original>
@@ -2870,7 +2870,7 @@
         <Key ID="str_a3_showcase_faction_independent_air_description">
           <Original>Get to grips with the AAF's rotor- and fixed-wing aircraft.</Original>
           <Chinese>體驗阿爾蒂斯武裝力量的旋翼與固定翼飛行器。</Chinese>
-          <Chinesesimp>体验AAF的旋翼与固定翼飞行器。</Chinesesimp>
+          <Chinesesimp>体验 AAF 的旋翼与固定翼飞行器。</Chinesesimp>
         </Key>
       </Container>
       <Container name="Faction_OPFOR">
@@ -3198,7 +3198,7 @@
         <Key ID="str_a3_showcase_tanks_diary_situation_text">
           <Original>Now that we've taken control of the %2main airport%1 and its %3military base%1, the enemy has pulled back and established a strong - borderline impenetrable - %4defensive line%1. Rather than risking any more casualties in a frontal assault, we've elected to open a new front on the %5eastern peninsula%1.%6%6Shortly before dawn, we deployed a small but powerful expeditionary force two klicks from the %7northernmost settlement on Altis%1. From this position, we're ideally placed to strike south, and disrupt their defensive line.%6%6An armored platoon, callsign Nomad, will spearhead the offensive. The plan is simple: regroup, head south, and neutralize anything that stands between you and your main objective, %7Molos%1. Charlie squad will move in to take care of any infantry you leave behind.</Original>
           <Chinese>現在我們已經成功的掌握了%2主要機場%1與%3軍事基地%1，而敵人則把戰線往後拉，並建立了一個防守嚴密的%4防守線%1。為了不在冒更多正面衝突而傷亡的危險，我們決定在%5東邊的半島%1上開闢一條新戰線。%6%6黎明之前，我們已經部屬了兩支規模不大但是威力十足的遠征軍，從%7阿爾蒂斯島最北端的村莊%1登陸。從這個位置，我們能依靠地利往南進發，順勢打破他們的防守線。%6%6一個呼號為"游牧民"的裝甲排，將是這次進攻的主力。計劃如下:集結，向南挺進，然後消滅任何站在你與主要目標%7莫洛斯%1之間的障礙。Charlie小隊會跟在你們後面，負責解決你們留下的任何敵軍步兵。</Chinese>
-          <Chinesesimp>现在我们已经成功的掌握了%2主要机场%1与%3军事基地%1，而敌人则把战线往后拉，并建立了一个防守严密的%4防守线%1。为了不在冒更多正面冲突而伤亡的危险，我们决定在%5东边的半岛%1上开辟一条新战线。%6%6黎明之前，我们已经部属了两支规模不大但是威力十足的远征军，从%7阿尔蒂斯岛最北端的村庄%1登陆。从这个位置，我们能依靠地利往南进发，顺势打破他们的防守线。%6%6一个呼号为"游牧民"的装甲排，将是这次进攻的主力。计划如下:集结，向南挺进，然后消灭任何站在你与主要目标%7莫洛斯%1之间的障碍。Charlie小队会跟在你们后面，负责解决你们留下的任何敌军步兵。</Chinesesimp>
+          <Chinesesimp>现在我们已经成功的掌握了%2主要机场%1与%3军事基地%1，而敌人则把战线往后拉，并建立了一个防守严密的%4防守线%1。为了不在冒更多正面冲突而伤亡的危险，我们决定在%5东边的半岛%1上开辟一条新战线。%6%6黎明之前，我们已经部属了两支规模不大但是威力十足的远征军，从%7阿尔蒂斯岛最北端的村庄%1登陆。从这个位置，我们能依靠地利往南进发，顺势打破他们的防守线。%6%6一个呼号为"游牧民"的装甲排，将是这次进攻的主力。计划如下:集结，向南挺进，然后消灭任何站在你与主要目标%7莫洛斯%1之间的障碍。Charlie 小队会跟在你们后面，负责解决你们留下的任何敌军步兵。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_tanks_diary_signal_text">
           <Original>Papa Bear - HQ%3%2Nomad%1 - MBT Platoon, you%3%4Charlie%1 - Mechanized Infantry squad</Original>
@@ -3252,7 +3252,7 @@
         <Key ID="str_a3_modulemptypeseize_diaryplayers4">
           <Original>Resources (e.g., time or available respawns) for taking an area are limited. When you exhaust all of them, you LOSE.</Original>
           <Chinese>資源(例子，時間與可用重生次數)是有限的。假如你用光他們，你就輸了。</Chinese>
-          <Chinesesimp>资源(例子，时间与可用重生次数)是有限的。假如你用光他们，你就输了。</Chinesesimp>
+          <Chinesesimp>资源（例子，时间与可用重生次数）是有限的。假如你用光他们，你就输了。</Chinesesimp>
         </Key>
         <Key ID="str_a3_modulemptypeseize_diaryplayers3">
           <Original>When all areas are captured, you WIN.</Original>
@@ -3282,7 +3282,7 @@
         <Key ID="str_a3_cfgvehicles_modulemptypeseize_f_moduledescription_triggerarea_0">
           <Original>Set the sector area. Enemy units will be spawned only in this area. When the sector is captured by a friendly side, the trigger will be activated, potentially triggering other modules synced to it (e.g., respawn module).</Original>
           <Chinese>設置一個區域。敵軍單位會從此區重生。當區域被友軍佔領時，觸發器將會被啟動，可能會觸發到與之同步的其他模塊(例子，重生模塊)。</Chinese>
-          <Chinesesimp>设置一个区域。敌军单位会从此区重生。当区域被友军占领时，触发器将会被启动，可能会触发到与之同步的其他模块(例子，重生模块)。</Chinesesimp>
+          <Chinesesimp>设置一个区域。敌军单位会从此区重生。当区域被友军占领时，触发器将会被启动，可能会触发到与之同步的其他模块（例子，重生模块）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulemptypeseize_f_moduledescription_sideplayers_0">
           <Original>Side of attacking players.</Original>
