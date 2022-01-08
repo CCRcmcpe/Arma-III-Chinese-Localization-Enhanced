@@ -10,12 +10,12 @@
       <Key ID="str_a3_orange_cfgmods_weaponprevnotiftext">
         <Original>This weapon is part of Laws of War DLC. Please purchase the DLC to use it.</Original>
         <Chinese>該武器是戰爭法資料片的一部分，請購買該資料片再使用。</Chinese>
-        <Chinesesimp>该武器是战争法资料片的一部分，请购买该资料片再使用。</Chinesesimp>
+        <Chinesesimp>该武器是战争法DLC的一部分，请购买该DLC再使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_vehprevmsgtext">
         <Original>This vehicle is part of Laws of War DLC. Please purchase the DLC to enter as crew.</Original>
         <Chinese>該車輛是戰爭法資料片的一部分。請購買該資料片再進入車輛。</Chinese>
-        <Chinesesimp>该车辆是战争法资料片的一部分。请购买该资料片再进入车辆。</Chinesesimp>
+        <Chinesesimp>该车辆是战争法DLC的一部分。请购买该DLC再进入车辆。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_uxo_description">
         <Original>As a direct consequence of using cluster munitions, the small bomblets don't always detonate and leave behind lethal unexploded ordnance (UXO). Unique UXO for NATO, CSAT and AAF let you identify who has deployed these weapons. Several trigger behavior variants exist as well.</Original>
@@ -25,7 +25,7 @@
       <Key ID="str_a3_orange_cfgmods_tooltip">
         <Original>Arma 3 Laws of War DLC is now available. Click to purchase it.</Original>
         <Chinese>武裝突襲3戰爭法資料片現在可用。點擊購買。</Chinese>
-        <Chinesesimp>武装突袭3战争法资料片现在可用。点击购买。</Chinesesimp>
+        <Chinesesimp>武装突袭3战争法DLC现在可用。点击购买。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_tentobjects_displayname">
         <Original>Tent Objects</Original>
@@ -85,7 +85,7 @@
       <Key ID="str_a3_orange_cfgmods_popupmsgtext">
         <Original>You are using premium content. Please purchase Laws of War DLC to remove these messages.</Original>
         <Chinese>你在使用附加內容。請購買戰爭法資料片以去掉這些信息。</Chinese>
-        <Chinesesimp>你在使用附加内容。请购买战争法资料片以去掉这些信息。</Chinesesimp>
+        <Chinesesimp>你在使用附加内容。请购买战争法DLC以去掉这些信息。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_paramedicoutfit_description">
         <Original>Ambulance crews wear these outfits while performing their life-saving duties. Special patches allow for increased visibility by reflecting light.</Original>
@@ -95,17 +95,17 @@
       <Key ID="str_a3_orange_cfgmods_overviewfootnote">
         <Original>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;This content is exclusive to Arma 3 Laws of War DLC.&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;Left Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; to open the store page for more information.&lt;t /&gt;</Original>
         <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;該內容專屬於武裝突襲3戰爭法資料片。&lt;br/&gt;按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打開商店頁面獲取更多信息。&lt;t/&gt;</Chinese>
-        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;该内容专属于武装突袭3战争法资料片。&lt;br/&gt;按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打开商店页面获取更多信息。&lt;t/&gt;</Chinesesimp>
+        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;该内容专属于武装突袭3战争法DLC。&lt;br/&gt;按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打开商店页面获取更多信息。&lt;t/&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_overview">
         <Original>Explore a different perspective on the battlefield with the addition of a humanitarian faction, van, drone, mini-campaign, and much more, in the Arma 3 Laws of War DLC.</Original>
         <Chinese>探索戰場的另外一面，在武裝突襲3戰爭法資料片中獲得新的人道主義派別，麵包車，無人機，小戰役以及其他內容。</Chinese>
-        <Chinesesimp>探索战场的另外一面，在武装突袭3战争法资料片中获得新的人道主义派别，面包车，无人机，小战役以及其他内容。</Chinesesimp>
+        <Chinesesimp>探索战场的另外一面，在武装突袭3战争法DLC中获得新的人道主义派别，面包车，无人机，小战役以及其他内容。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_namedlc">
         <Original>Laws of War DLC</Original>
         <Chinese>戰爭法資料片</Chinese>
-        <Chinesesimp>战争法资料片</Chinesesimp>
+        <Chinesesimp>战争法DLC</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_name">
         <Original>Arma 3 Laws of War</Original>
@@ -185,7 +185,7 @@
       <Key ID="str_a3_orange_cfgmods_itemprevnotiftext">
         <Original>This item is part of Laws of War DLC. Please purchase the DLC to use it.</Original>
         <Chinese>該物體是戰爭法資料片的一部分。請購買該資料片再使用。</Chinese>
-        <Chinesesimp>该物体是战争法资料片的一部分。请购买该资料片再使用。</Chinesesimp>
+        <Chinesesimp>该物体是战争法DLC的一部分。请购买该DLC再使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_identificationvest_displayname">
         <Original>Identification Vest</Original>
@@ -295,7 +295,7 @@
       <Key ID="str_a3_orange_cfgmods_droneprevnotiftext">
         <Original>This drone is part of Laws of War DLC. Please purchase the DLC to control it.</Original>
         <Chinese>該無人機是戰爭法資料片的一部分。請購買該資料片以控制它。</Chinese>
-        <Chinesesimp>该无人机是战争法资料片的一部分。请购买该资料片以控制它。</Chinesesimp>
+        <Chinesesimp>该无人机是战争法DLC的一部分。请购买该DLC以控制它。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_constructioncoveralls_displayname">
         <Original>Construction Coveralls</Original>
@@ -3426,7 +3426,7 @@
       <Key ID="str_a3_orange_cfghints_premiumbundle2_overview">
         <Original>Save more than 25&amp;#37; by purchasing the Arma 3 DLC Bundle 2, which includes the upcoming Arma 3 Jets, Arma 3 Laws of War, Arma 3 Tac-Ops, and Arma 3 Tanks DLC!%1%2Press %11 to open the store page.</Original>
         <Chinese>通過購買武裝突襲3資料片大包2節約超過25&amp;#37;，其包含武裝突襲3噴氣機，武裝突襲3戰爭法，武裝突襲3戰術行動和武裝突襲3坦克資料片!%1%2按%11打開商店頁面。</Chinese>
-        <Chinesesimp>通过购买武装突袭3资料片合集2节约超过25&amp;#37;，其包含武装突袭3喷气机，武装突袭3战争法，武装突袭3战术行动和武装突袭3坦克资料片!%1%2按%11打开商店页面。</Chinesesimp>
+        <Chinesesimp>通过购买武装突袭3DLC合集2节约超过25&amp;#37;，其包含武装突袭3喷气机，武装突袭3战争法，武装突袭3战术行动和武装突袭3坦克DLC!%1%2按%11打开商店页面。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_minesweep_description">
         <Original>Nearby &lt;t %5&gt;mines&lt;/5&gt; can be &lt;t %5&gt;detected&lt;/t&gt; by &lt;t %5&gt;moving slowly&lt;/t&gt; and carefully &lt;t %5&gt;looking around&lt;/t&gt; you. %14 Having a &lt;t %5&gt;Mine Detector&lt;/t&gt; in your inventory will locate even well-hidden mines in your vicinity. Audio cues may alert you to such threats.%1%2Use %11 or %12 to bring up the Mines info panel to see approximate mine locations and identified mines.%1%2Carefully approach, look at, and identify unknown mines using %13.%1Depending on difficulty options, known mines are marked &lt;img size='1' %15 image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca.paa' /&gt;.</Original>
@@ -3696,12 +3696,12 @@
       <Key ID="str_a3_orange_cfghints_dlcstrategy_displayname">
         <Original>DLC Strategy</Original>
         <Chinese>資料片策略</Chinese>
-        <Chinesesimp>资料片策略</Chinesesimp>
+        <Chinesesimp>DLC策略</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_dlcstrategy_description">
         <Original>Arma 3's &lt;a href='%11'&gt;DLC strategy&lt;/a&gt;﻿ is based on 3 main pillars:%1%2 Providing free platform updates%1%2 Offering new premium content%1%2 Preventing multiplayer fragmentation%1%1With this approach, &lt;t %5&gt;every Arma 3 player gets all the DLC data&lt;/t&gt; and is &lt;t %5&gt;able to see everything in-game&lt;/t&gt;. Generally speaking, &lt;t %5&gt;features&lt;/t&gt; continue expanding the platform and are &lt;t %5&gt;free&lt;/t&gt; for all to enjoy, while the &lt;t %5&gt;premium content&lt;/t&gt; may be &lt;t %5&gt;limited&lt;/t&gt; for non-owners. By purchasing DLC you are &lt;t %5&gt;contributing&lt;/t&gt; to further development of a consistent Arma 3 platform for everyone and the Arma series in general. Thank you!</Original>
         <Chinese>武裝突襲3的&lt;ahref='%11'&gt;資料片策略&lt;/a&gt;?基於三個基本點:%1%2提供免費平臺升級%1%2提供新的附加內容%1%2避免多人遊戲衝突%1%1基於以上三點，&lt;t%5&gt;所有武裝突襲3萬家都會得到全部資料片數據&lt;/t&gt;並可&lt;t%5&gt;在遊戲內部看到全部內容&lt;/t&gt;。一言以蔽之，用於擴展平臺的&lt;t%5&gt;特性&lt;/t&gt;會被&lt;t%5&gt;免費&lt;/t&gt;提供給所有人，而&lt;t%5&gt;附加內容&lt;/t&gt;可能在未購買玩家身上被&lt;t%5&gt;限制&lt;/t&gt;。通過購買資料片你可以為武裝突襲3系列的未來發展，換言之是武裝突襲3平臺的全部玩家和整個Arma系列作出&lt;t%5&gt;貢獻&lt;/t&gt;。謝謝你!</Chinese>
-        <Chinesesimp>武装突袭3的&lt;ahref='%11'&gt;资料片策略&lt;/a&gt;?基于三个基本点:%1%2提供免费平台升级%1%2提供新的附加内容%1%2避免多人游戏冲突%1%1基于以上三点，&lt;t%5&gt;所有武装突袭3玩家都会得到全部资料片数据&lt;/t&gt;并可&lt;t%5&gt;在游戏内部看到全部内容&lt;/t&gt;。一言以蔽之，用于扩展平台的&lt;t%5&gt;特性&lt;/t&gt;会被&lt;t%5&gt;免费&lt;/t&gt;提供给所有人，而&lt;t%5&gt;附加内容&lt;/t&gt;可能在未购买玩家身上被&lt;t%5&gt;限制&lt;/t&gt;。通过购买资料片你可以为武装突袭3系列的未来发展，换言之是武装突袭3平台的全部玩家和整个武装突袭系列作出&lt;t%5&gt;贡献&lt;/t&gt;。谢谢你!</Chinesesimp>
+        <Chinesesimp>武装突袭3的&lt;ahref='%11'&gt;DLC策略&lt;/a&gt;?基于三个基本点:%1%2提供免费平台升级%1%2提供新的附加内容%1%2避免多人游戏冲突%1%1基于以上三点，&lt;t%5&gt;所有武装突袭3玩家都会得到全部DLC数据&lt;/t&gt;并可&lt;t%5&gt;在游戏内部看到全部内容&lt;/t&gt;。一言以蔽之，用于扩展平台的&lt;t%5&gt;特性&lt;/t&gt;会被&lt;t%5&gt;免费&lt;/t&gt;提供给所有人，而&lt;t%5&gt;附加内容&lt;/t&gt;可能在未购买玩家身上被&lt;t%5&gt;限制&lt;/t&gt;。通过购买DLC你可以为武装突袭3系列的未来发展，换言之是武装突袭3平台的全部玩家和整个武装突袭系列作出&lt;t%5&gt;贡献&lt;/t&gt;。谢谢你!</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_combatmodes_tip">
         <Original>Controlling RoE will let you set ambushes and avoid undesired escalations.</Original>
@@ -3856,7 +3856,7 @@
       <Key ID="str_a3_orange_cfghints_premiumbundle2_overview_expansion">
         <Original>Save more than 25&amp;#37; by purchasing the Arma 3 DLC Bundle 2, which includes Arma 3 Jets, Arma 3 Laws of War, Arma 3 Tac-Ops, and Arma 3 Tanks DLC!</Original>
         <Chinese>透過購買武裝突襲3資料片資料片2(包括武裝突襲3戰機、武裝突襲3戰爭法、武裝突襲3戰術行動和武裝突襲3坦克資料片)，省25&amp;#37;以上的費用!</Chinese>
-        <Chinesesimp>通过购买武装突袭3资料片合集2(包括武装突袭3战机、武装突袭3战争法、武装突袭3战术行动和武装突袭3坦克资料片)，节省25&amp;#37;以上的费用!</Chinesesimp>
+        <Chinesesimp>通过购买武装突袭3DLC合集2(包括武装突袭3战机、武装突袭3战争法、武装突袭3战术行动和武装突袭3坦克DLC)，节省25&amp;#37;以上的费用!</Chinesesimp>
       </Key>
     </Container>
     <Container name="Welcome">
@@ -3933,7 +3933,7 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_pare_list2">
         <Original>IDAP is hosting several timed vehicle races for their best drivers (some are a bonus for &lt;a href='%2' color='%1'&gt;Apex&lt;/a&gt; owners).</Original>
         <Chinese>國際發展援助工程組織舉辦了一系列車輛計時賽，評選其最佳司機(一些是&lt;ahref='%2'color='%1'&gt;頂尖&lt;/a&gt;用戶專屬)。</Chinese>
-        <Chinesesimp>国际发展援助工程组织举办了一系列车辆计时赛，评选其最佳司机(一些是&lt;ahref='%2'color='%1'&gt;顶尖&lt;/a&gt;用户专属)。</Chinesesimp>
+        <Chinesesimp>国际发展援助工程组织举办了一系列车辆计时赛，评选其最佳司机(一些是&lt;ahref='%2'color='%1'&gt;Apex&lt;/a&gt;用户专属)。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_pare_list1_title">
         <Original>"Remnants of War"</Original>
@@ -4058,7 +4058,7 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_pard">
         <Original>Above all, this DLC set out to add assets and content, but we have also done some modest &lt;t color='%1'&gt;feature extensions&lt;/t&gt; and improvements during its development, free for everyone, of course:</Original>
         <Chinese>總體來看，本資料片用於增加一系列特性和內容，但我們也做了一些對所有人都免費的&lt;tcolor='%1'&gt;屬性更新&lt;/t&gt;和改進:</Chinese>
-        <Chinesesimp>总体来看，本资料片用于增加一系列特性和内容，但我们也做了一些对所有人都免费的&lt;tcolor='%1'&gt;属性更新&lt;/t&gt;和改进:</Chinesesimp>
+        <Chinesesimp>总体来看，本DLC用于增加一系列特性和内容，但我们也做了一些对所有人都免费的&lt;tcolor='%1'&gt;属性更新&lt;/t&gt;和改进:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parc_footer">
         <Original>More about Arma 3 Laws of War</Original>
@@ -4068,7 +4068,7 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_parc">
         <Original>Continuing our established &lt;a href='%3' color='%2'&gt;DLC strategy&lt;/a&gt;, we are bringing DLC owners a varied collection of premium content. While portions of the new civilian &lt;t color='%1'&gt;International Development &amp;amp; Aid Project&lt;/t&gt; (IDAP) faction are free for the platform, we've selected several new assets to make them a special and worthwhile addition. IDAP's primary ground vehicle is a large &lt;t color='%1'&gt;Van&lt;/t&gt;, available for passenger transport, cargo hauling and medical evacuations. In order to safely carry out their activities in high-risk areas, IDAP also uses several drones. The &lt;t color='%1'&gt;Utility Drone&lt;/t&gt; is its latest acquisition and they have even modified it for remote mine clearance. A wide range of IDAP and other &lt;t color='%1'&gt;character gear&lt;/t&gt; is further available for anyone wishing to wear it. Much to IDAP's frustration, military factions have started to use a particularly nasty weapon: the &lt;t color='%1'&gt;APERS Mine Dispenser&lt;/t&gt;. These and all the extra platform additions are showcased in the singleplayer &lt;t color='%1'&gt;"Remnants of War" mini-campaign&lt;/t&gt;, and as always: get a hands-on preview without restriction in the Virtual Arsenal mode.</Original>
         <Chinese>基於我們已經構建的lt;ahref='%3'color='%2'&gt;資料片策略&lt;/a&gt;，我們將為資料片的擁有者提供一系列附加內容的集合。在新的平民組織&lt;tcolor='%1'&gt;國際發展&amp;amp;援助工程&lt;/t&gt;(IDAP)組織對平臺的所有人免費的同時，我們也選擇了一些新特性作為特別且值得一買的內容。國發援的基本地面車輛是一種大型&lt;tcolor='%1'&gt;麵包車&lt;/t&gt;，可以運輸人員、物資和執行醫療後送。為了安全在高危地區執行任務，國發援還使用多種無人機。&lt;tcolor='%1'&gt;通用無人機&lt;/t&gt;是其最新採購的型號，並被改裝為遙控地雷清障型號。一系列國發援和其他組織的&lt;tcolor='%1'&gt;人物裝備&lt;/t&gt;也對任何想要穿著它們的人可用。讓國發援非常頭痛的是，軍事組織開始使用一種特別令人不齒的武器:&lt;tcolor='%1'&gt;反人員地雷布撒器&lt;/t&gt;。這些都是平臺附加內容，並在單人的&lt;tcolor='%1'&gt;"戰爭遺留物"迷你戰役&lt;/t&gt;予以展示。像往常一樣:在虛擬軍械庫模式下不受限制地瀏覽這些東西。</Chinese>
-        <Chinesesimp>基于我们已经构建的lt;ahref='%3'color='%2'&gt;资料片策略&lt;/a&gt;，我们将为资料片的拥有者提供一系列附加内容的集合。在新的平民组织&lt;tcolor='%1'&gt;国际发展&amp;amp;援助工程&lt;/t&gt;(国发援)组织对平台的所有人免费的同时，我们也选择了一些新特性作为特别且值得一买的内容。国发援的基本地面车辆是一种大型&lt;tcolor='%1'&gt;面包车&lt;/t&gt;，可以运输人员、物资和执行医疗后送。为了安全在高危地区执行任务，国发援还使用多种无人机。&lt;tcolor='%1'&gt;通用无人机&lt;/t&gt;是其最新采购的型号，并被改装为遥控地雷清障型号。一系列国发援和其他组织的&lt;tcolor='%1'&gt;人物装备&lt;/t&gt;也对任何想要穿着它们的人可用。让国发援非常头痛的是，军事组织开始使用一种特别令人不齿的武器:&lt;tcolor='%1'&gt;反人员地雷布撒器&lt;/t&gt;。这些都是平台附加内容，并在单人的&lt;tcolor='%1'&gt;"战争遗留物"迷你战役&lt;/t&gt;予以展示。像往常一样:在虚拟军械库模式下不受限制地浏览这些东西。</Chinesesimp>
+        <Chinesesimp>基于我们已经构建的lt;ahref='%3'color='%2'&gt;DLC策略&lt;/a&gt;，我们将为DLC的拥有者提供一系列附加内容的集合。在新的平民组织&lt;tcolor='%1'&gt;国际发展&amp;amp;援助工程&lt;/t&gt;(国发援)组织对平台的所有人免费的同时，我们也选择了一些新特性作为特别且值得一买的内容。国发援的基本地面车辆是一种大型&lt;tcolor='%1'&gt;面包车&lt;/t&gt;，可以运输人员、物资和执行医疗后送。为了安全在高危地区执行任务，国发援还使用多种无人机。&lt;tcolor='%1'&gt;通用无人机&lt;/t&gt;是其最新采购的型号，并被改装为遥控地雷清障型号。一系列国发援和其他组织的&lt;tcolor='%1'&gt;人物装备&lt;/t&gt;也对任何想要穿着它们的人可用。让国发援非常头痛的是，军事组织开始使用一种特别令人不齿的武器:&lt;tcolor='%1'&gt;反人员地雷布撒器&lt;/t&gt;。这些都是平台附加内容，并在单人的&lt;tcolor='%1'&gt;"战争遗留物"迷你战役&lt;/t&gt;予以展示。像往常一样:在虚拟军械库模式下不受限制地浏览这些东西。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parb_title">
         <Original>INTERNATIONAL HUMANITARIAN LAW</Original>
@@ -4083,7 +4083,7 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_parb2">
         <Original>We've always admired this pragmatic approach to a complex topic. Rather than frustrate players with punishments and mandatory lessons, our mutual goal has been to find ways of raising awareness of IHL, while creating an even deeper and more authentic Arma experience. To that end we decided to build a DLC around IHL, which primarily delivers an Armaverse humanitarian NGO faction and gameplay to showcase them. We will also be donating a portion of the 2017 DLC proceeds to the ICRC so that they may continue their good real-world work. Thank you for your support!</Original>
         <Chinese>我們始終贊同針對複雜議題的這種實用主義態度。與其通過嚴厲懲罰和長篇大論折磨玩家，我們的本來目的是為了尋找提高對《國際人道主義法》的注意程度的方式，從而創造更深刻、更可信的武裝突襲遊戲體驗。最終我們決定圍繞《國際人道主義法》製作一個資料片，主要表現武裝突襲世界觀中的非政府組織，並展示他們。我們也會為國際紅十字會捐出此次資料片的部分收入，以便他們在真實世界繼續進行他們的高尚工作。感謝你的支持!</Chinese>
-        <Chinesesimp>我们始终赞同针对复杂议题的这种实用主义态度。与其通过严厉惩罚和长篇大论折磨玩家，我们的本来目的是为了寻找提高对《国际人道主义法》的注意程度的方式，从而创造更深刻、更可信的武装突袭游戏体验。最终我们决定围绕《国际人道主义法》制作一个资料片，主要表现武装突袭世界观中的非政府组织，并展示他们。我们也会为国际红十字会捐出此次资料片的部分收入，以便他们在真实世界继续进行他们的高尚工作。感谢你的支持!</Chinesesimp>
+        <Chinesesimp>我们始终赞同针对复杂议题的这种实用主义态度。与其通过严厉惩罚和长篇大论折磨玩家，我们的本来目的是为了寻找提高对《国际人道主义法》的注意程度的方式，从而创造更深刻、更可信的武装突袭游戏体验。最终我们决定围绕《国际人道主义法》制作一个DLC，主要表现武装突袭世界观中的非政府组织，并展示他们。我们也会为国际红十字会捐出此次DLC的部分收入，以便他们在真实世界继续进行他们的高尚工作。感谢你的支持!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parb">
         <Original>For some time now we've had an inspirational working relationship with the &lt;t color='%1'&gt;International Committee of the Red Cross&lt;/t&gt; (ICRC). Especially in recent years, they have identified games as a valid vehicle to spread awareness of a topic that both makes sense to everyone, yet can be very complicated to explain, implement and safeguard. We're talking about &lt;t color='%1'&gt;International Humanitarian Law&lt;/t&gt; (IHL), also known as the laws of armed conflict, the rules of war, or the laws of war. Its most widely known component is perhaps the Geneva Conventions. The ICRC has helped our developers to be educated on this important aspect of warfare, and they have pointed out how we might improve our games to include IHL elements, without taking fun away from players.</Original>
@@ -4093,7 +4093,7 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_para">
         <Original>It is with some pride that we welcome you to the release of the &lt;t color='%1'&gt;Arma 3 Laws of War&lt;/t&gt; DLC. Known for some time under code name "Orange" on our &lt;a href='%3' color='%2'&gt;2017 roadmap&lt;/a&gt;, we have recently revealed the unique theme of this asset and content pack to you all. We feel there is something for everyone to be found in this DLC and the accompanying platform update. So we invite you to keep reading for more information, or to dive straight into the game and explore the additions for yourself. This is war!</Original>
         <Chinese>如今我們驕傲地向諸位推出&lt;tcolor='%1'&gt;武裝突襲3戰爭法&lt;/t&gt;資料片。曾經該資料片在我們的&lt;ahref='%3'color='%2'&gt;2017進度計劃表&lt;/a&gt;，中也以"橙色"資料片代稱。我們最近公開揭示了這一部分內容和特性的獨特主基調。我們意識到每個人都能在這個資料片和隨後的平臺更新中體悟到一些什麼。所以我們邀請您閱讀更多信息，或者認真挖掘遊戲並探索更多內容。這就是戰爭!</Chinese>
-        <Chinesesimp>如今我们骄傲地向诸位推出&lt;tcolor='%1'&gt;武装突袭3战争法&lt;/t&gt;资料片。曾经该资料片在我们的&lt;ahref='%3'color='%2'&gt;2017进度计划表&lt;/a&gt;，中也以"橙色"资料片代称。我们最近公开揭示了这一部分内容和特性的独特主基调。我们意识到每个人都能在这个资料片和随后的平台更新中体悟到一些什么。所以我们邀请您阅读更多信息，或者认真挖掘游戏并探索更多内容。这就是战争!</Chinesesimp>
+        <Chinesesimp>如今我们骄傲地向诸位推出&lt;tcolor='%1'&gt;武装突袭3战争法&lt;/t&gt;DLC。曾经该DLC在我们的&lt;ahref='%3'color='%2'&gt;2017进度计划表&lt;/a&gt;，中也以"橙色"DLC代称。我们最近公开揭示了这一部分内容和特性的独特主基调。我们意识到每个人都能在这个DLC和随后的平台更新中体悟到一些什么。所以我们邀请您阅读更多信息，或者认真挖掘游戏并探索更多内容。这就是战争!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_pare_list11_title_plain">
         <Original>International Development &amp; Aid Project</Original>
@@ -4182,22 +4182,22 @@
       <Key ID="STR_A3_CfgMusic_AmbientTrack01_F_Orange">
         <Original>Laws of War DLC: Ambient</Original>
         <Chinese>戰爭法資料片:周遭環境</Chinese>
-        <Chinesesimp>战争法资料片:周边局势</Chinesesimp>
+        <Chinesesimp>战争法DLC:周边局势</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02_F_Orange">
         <Original>Laws of War DLC: Remnants of War</Original>
         <Chinese>戰爭法資料片:戰後殘局</Chinese>
-        <Chinesesimp>战争法资料片:战争遗留物</Chinesesimp>
+        <Chinesesimp>战争法DLC:战争遗留物</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack01_F_Orange">
         <Original>Laws of War DLC: Escalation</Original>
         <Chinese>戰爭法資料片:漸趨緊張</Chinese>
-        <Chinesesimp>战争法资料片:事态升级</Chinesesimp>
+        <Chinesesimp>战争法DLC:事态升级</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack02_F_Orange">
         <Original>Laws of War DLC: Scenario Completed</Original>
         <Chinese>戰爭法資料片:大功告成</Chinese>
-        <Chinesesimp>战争法资料片:场景已完成</Chinesesimp>
+        <Chinesesimp>战争法DLC:场景已完成</Chinesesimp>
       </Key>
     </Container>
   </Package>

@@ -262,7 +262,7 @@
       <Key ID="STR_A3_FM_Welcome3">
         <Original>As compared to Arma 2, you'll find the significantly updated %3Real Virtuality™ 4.0%4 engine powering your experience. With it, we're aiming to take the elements that make Arma great, enhance them where appropriate, and deliver a robust %3platform%4 for future growth.%1%1%2Fluid new animations%1%2Upgraded sound engine%1%2Ragdoll simulation%1%2PhysX™-supported vehicles%1%1More at %3&lt;a href='http://www.arma3.com/whatsnew'&gt;arma3.com/whatsnew&lt;/a&gt;%4</Original>
         <Chinese>與武裝突襲2相比，你會發現%3Real Virtuality™ 4.0%4引擎的效能有顯著的提升。有了它，我們能加上更多的元素來使武裝突襲變得更棒，在適當的情況下對遊戲進行調整，並且發展了一個堅固的%3平臺%4以供未來成長。%1%1%2流暢的人物動作%1%2升級的聲音引擎%1%2布娃娃仿真%1%2PhysX™-物理效果運算%1%1更多訊息請登錄%3&lt;ahref='https://www.arma3.com/whatsnew'&gt;arma3.com/whatsnew&lt;/a&gt;%4來查看</Chinese>
-        <Chinesesimp>与武装突袭2相比，你会发现%3Real Virtuality™ 4.0%4引擎的效能有显着的提升。有了它，我们能加上更多的元素来使武装突袭变得更棒，在适当的情况下对游戏进行调整，并且发展了一个坚固的%3平台%4以供未来成长。%1%1%2流畅的人物动作%1%2升级的声音引擎%1%2布娃娃仿真%1%2PhysX™-物理效果运算%1%1更多信息请登录%3&lt;ahref='https://www.arma3.com/whatsnew'&gt;arma3.com/whatsnew&lt;/a&gt;%4来查看</Chinesesimp>
+        <Chinesesimp>与武装突袭2相比，你会发现%3Real Virtuality™ 4.0%4引擎的效能有显着的提升。有了它，我们能加上更多的元素来使武装突袭变得更棒，在适当的情况下对游戏进行调整，并且发展了一个坚固的%3平台%4以供未来成长。%1%1%2流畅的人物动作%1%2升级的声音引擎%1%2布娃娃仿真%1%2PhysX™-物理效果模拟%1%1更多信息请登录%3&lt;ahref='https://www.arma3.com/whatsnew'&gt;arma3.com/whatsnew&lt;/a&gt;%4来查看</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FM_Welcome4">
         <Original>Main Release</Original>
@@ -363,7 +363,7 @@
         <Key ID="str_a3_cfgvehicles_gmg_01_a_base0">
           <Original>Mk32A GMG 20 mm</Original>
           <Chinese>Mk32A 20公厘榴彈機槍</Chinese>
-          <Chinesesimp>Mk32A 20mm 榴弹机枪</Chinesesimp>
+          <Chinesesimp>Mk32A 20mm 榴弹发射器</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_gmg_01_base1">
           <Original>Mk32 Static Grenade Launcher</Original>
@@ -378,7 +378,7 @@
         <Key ID="str_a3_cfgvehicles_gmg_01_base_armory0">
           <Original>The Mk32 GMG is a static grenade launcher. It's based on the Mk30 HMG, using the same electronic targeting and tripod, but fires 20 mm grenades instead of .50 BMG. Mk32 also exists in an automatic/remotely controlled variant which is labeled Mk32A.</Original>
           <Chinese>Mk32榴彈機槍一種固定式榴彈發射器。基本架構同Mk30重機槍，使用相同的電子瞄準和腳架，但是發射20公厘榴彈而不是.50子彈。一種Mk32版本為自動/遙控，並且安裝在車頂上，被命名為Mk32A。</Chinese>
-          <Chinesesimp>Mk32榴弹机枪一种固定式榴弹发射器。基本架构同Mk30重机枪，使用相同的电子瞄准和脚架，但是发射20mm 榴弹而不是.50子弹。一种Mk32版本为自动/遥控，并且安装在车顶上，被命名为Mk32A。</Chinesesimp>
+          <Chinesesimp>Mk32榴弹发射器一种固定式榴弹发射器。基本架构同Mk30重机枪，使用相同的电子瞄准和脚架，但是发射20mm 榴弹而不是.50子弹。一种Mk32版本为自动/遥控，并且安装在车顶上，被命名为Mk32A。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_hmg_01_a_base0">
           <Original>Mk30A HMG .50</Original>
@@ -398,7 +398,7 @@
         <Key ID="str_a3_cfgvehicles_gmg_01_base0">
           <Original>Mk32 GMG 20 mm</Original>
           <Chinese>Mk32 20公厘榴彈機槍</Chinese>
-          <Chinesesimp>Mk32 20mm 榴弹机枪</Chinesesimp>
+          <Chinesesimp>Mk32 20mm 榴弹发射器</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_at_01_wpn_assembleinfo0">
           <Original>Static AT Launcher</Original>
@@ -428,7 +428,7 @@
         <Key ID="str_a3_cfgvehicles_b_gmg_01_wpn0">
           <Original>Dismantled Mk32 GMG [NATO]</Original>
           <Chinese>拆解Mk32榴彈機槍[北約]</Chinese>
-          <Chinesesimp>拆解Mk32榴弹机枪[北约]</Chinesesimp>
+          <Chinesesimp>拆解Mk32榴弹发射器[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_wpn0">
           <Original>Dismantled Mk30 HMG [NATO]</Original>
@@ -443,12 +443,12 @@
         <Key ID="str_a3_cfgvehicles_b_gmg_01_wpn1">
           <Original>Dismantled Mk32 GMG [CSAT]</Original>
           <Chinese>拆解Mk32榴彈機槍[廣協同盟]</Chinese>
-          <Chinesesimp>拆解Mk32榴弹机枪[广协]</Chinesesimp>
+          <Chinesesimp>拆解Mk32榴弹发射器[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_gmg_01_wpn2">
           <Original>Dismantled Mk32 GMG [AAF]</Original>
           <Chinese>拆解Mk32榴彈機槍[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>拆解Mk32榴弹机枪[AAF]</Chinesesimp>
+          <Chinesesimp>拆解Mk32榴弹发射器[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_support0">
           <Original>Folded Tripod [NATO]</Original>
@@ -458,27 +458,27 @@
         <Key ID="str_a3_cfgvehicles_b_gmg_01_wpn_assembleinfo0">
           <Original>Static GMG</Original>
           <Chinese>固定式榴彈機槍</Chinese>
-          <Chinesesimp>固定式榴弹机枪</Chinesesimp>
+          <Chinesesimp>固定式榴弹发射器</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_a_wpn0">
           <Original>Dismantled Autonomous GMG [NATO]</Original>
           <Chinese>拆解自動榴彈機槍[北約]</Chinese>
-          <Chinesesimp>拆解自动榴弹机枪[北约]</Chinesesimp>
+          <Chinesesimp>拆解自动榴弹发射器[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_a_wpn1">
           <Original>Dismantled Autonomous GMG [CSAT]</Original>
           <Chinese>拆解自動榴彈機槍[廣協同盟]</Chinese>
-          <Chinesesimp>拆解自动榴弹机枪[广协]</Chinesesimp>
+          <Chinesesimp>拆解自动榴弹发射器[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_a_wpn2">
           <Original>Dismantled Autonomous GMG [AAF]</Original>
           <Chinese>拆解自動榴彈機槍[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>拆解自动榴弹机枪[AAF]</Chinesesimp>
+          <Chinesesimp>拆解自动榴弹发射器[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_a_wpn_assembleinfo0">
           <Original>Static AGMG</Original>
           <Chinese>固定式自動榴彈機槍</Chinese>
-          <Chinesesimp>固定式自动榴弹机枪</Chinesesimp>
+          <Chinesesimp>固定式自动榴弹发射器</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_support1">
           <Original>Folded Tripod [CSAT]</Original>
@@ -1127,12 +1127,12 @@
         <Key ID="str_a3_cfggroups_east_opf_f_motorized_mtp_oia_motinf_gmgteam0">
           <Original>Motorized GMG Team</Original>
           <Chinese>摩托化榴彈機槍小隊</Chinese>
-          <Chinesesimp>摩托化榴弹机枪组</Chinesesimp>
+          <Chinesesimp>摩托化榴弹发射器组</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_west_blu_f_support_bus_support_gmg0">
           <Original>GMG Team</Original>
           <Chinese>榴彈機槍小隊</Chinese>
-          <Chinesesimp>榴弹机枪射组</Chinesesimp>
+          <Chinesesimp>榴弹发射器射组</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_east_opf_f_motorized_mtp_oia_motinf_mgteam0">
           <Original>Motorized HMG Team</Original>
@@ -1177,7 +1177,7 @@
         <Key ID="str_a3_cfggroups_west_blu_f_motorized_bus_motinf_gmgteam0">
           <Original>Motorized GMG Team</Original>
           <Chinese>摩托化榴彈機槍小隊</Chinese>
-          <Chinesesimp>摩托化榴弹机枪射组</Chinesesimp>
+          <Chinesesimp>摩托化榴弹发射器射组</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_east_opf_f_uinfantry_oia_guardteam0">
           <Original>Guard Patrol</Original>
@@ -1586,7 +1586,7 @@
         <Key ID="STR_A3_CfgVehicles_MBT_02_Arty_Library0">
           <Original>The 2S9 Sochor is a lightly armored self-propelled artillery piece used by the OPFOR army. It's based on the T-100 chassis and fires 155 mm projectiles. The T-100 chassis interior had to be heavily modified to allow support for the 155 mm cannon with auto-loader. Sochor is also equipped with a Remotely Controlled Weapon Systems turret fitted with 12.7 mm HMG and 40 mm GMG. The modification paid off and several Asian countries are now in the process of modernizing their heavy artillery division with the 2S9.</Original>
           <Chinese>2S9"索霍爾"是一臺紅方使用的輕裝甲自走砲。它以T-100的底盤為基礎，並發射155公厘砲彈。T-100的底盤需要進行大量改造，好來裝設155公厘大砲要用的自動裝填機。"索霍爾"也有裝設遠程遙控武器系統，上面裝有12.7公厘重機槍以及40公厘榴彈砲。其改裝是有效的，幾個亞洲國家都在使用2S9來改良他們的重型砲兵師。</Chinese>
-          <Chinesesimp>2S9"索霍尔"是红方使用的一种有轻装甲的自行火炮。它以T-100的底盘为基础，发射155mm 炮弹。T-100的底盘需要进行大量改造，以便装设155mm 火炮要用的自动装填机。"索霍尔"也有装设远程遥控武器站，上面装有12.7mm 重机枪以及40mm 榴弹机枪。其改装是有效的，几个亚洲国家都在使用2S9来改良他们的重型炮兵师。</Chinesesimp>
+          <Chinesesimp>2S9"索霍尔"是红方使用的一种有轻装甲的自行火炮。它以T-100的底盘为基础，发射155mm 炮弹。T-100的底盘需要进行大量改造，以便装设155mm 火炮要用的自动装填机。"索霍尔"也有装设远程遥控武器站，上面装有12.7mm 重机枪以及40mm 榴弹发射器。其改装是有效的，几个亚洲国家都在使用2S9来改良他们的重型炮兵师。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_01_cannon_base_f_library0">
           <Original>A licensed copy of an Israeli tank built in Central Europe. This tank is built for versatile use on the battlefield and maximal crew protection, which gained significant appreciation from western Europe armies in the 21st century. The M2A1 is armed with 120 mm cannon and a coaxial machinegun and can also be used as mobile artillery. This tank has proven itself in battle and thanks to heavy manufacture, it became the second most wide spread main battle tank of many countries in the world.</Original>
@@ -1651,12 +1651,12 @@
         <Key ID="str_a3_cfgvehicles_mbt_01_arty_base_Library0">
           <Original>Based on the licensed version of an Israeli tank chassis, The Scorcher M4 is a 155 mm self-propelled artillery at the end of its lifetime cycle. It has modules allowing indirect fire, advanced artillery computer and is able to fire guided cannon ammunition. The rear of the tank was changed from a passenger transport space to ammunition storage. Scorcher is also equipped with a Remotely Controlled Weapon Systems turret fitted with 12.7 mm HMG and 40 mm GMG.</Original>
           <Chinese>基於獲得許可的以色列坦克底盤，在其作為坦克的生命週期結束後，被改裝成了"炙烤者"M4自走砲，並裝載了155公厘迫擊砲。它有幾個重要的裝備，包括先進的火砲電腦，和可被導引的砲彈，這使它成為能夠提供間接火力支援的自走砲。原來坦克用來運輸人員的後座，則被改裝成了彈藥儲藏室。"炙烤者"也裝有遠程遙控武器系統，上有裝有12.7公厘重機槍以及40公厘榴彈砲。</Chinese>
-          <Chinesesimp>基于获得许可的以色列坦克底盘，在其作为坦克的生命周期结束后，被改装成了"炙烤者"M4 155mm 自行火炮。它能实施间接开火，拥有先进的弹道计算机，还能发射制导弹药。原来坦克用来运输人员的后座则被改装用于储存弹药。"炙烤者"也装有远程遥控武器系统，上有12.7mm 重机枪以及40mm 榴弹机枪。</Chinesesimp>
+          <Chinesesimp>基于获得许可的以色列坦克底盘，在其作为坦克的生命周期结束后，被改装成了"炙烤者"M4 155mm 自行火炮。它能实施间接开火，拥有先进的弹道计算机，还能发射制导弹药。原来坦克用来运输人员的后座则被改装用于储存弹药。"炙烤者"也装有远程遥控武器系统，上有12.7mm 重机枪以及40mm 榴弹发射器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_ugv_01_base_library0">
           <Original>The Stomper is a remote controlled unmanned ground combat vehicle designed for reconnaissance, surveillance and support. It's able to operate autonomously in large areas, while sending real-time data to the control center. Each wheel is powered by a separate electric engine, whose batteries are linked together to a diesel engine power unit. An armed variant of the Stomper is fitted with a RCWS turret carrying 40 mm cannon and 12.7 mm HMG. An OPFOR variant, designated Saif and Saif RCWS, is a cheaper and less reliable copy from the Asian region.</Original>
           <Chinese>"踐踏者"是一種設計用來偵察，監視和支援的遠程控制地面無人載具。它能夠在很大的區域內自主操作，並不間斷的發送數據回到控制中心。每個輪子是由各自的電動引擎所驅動，每個電動引擎在一起連接在柴油發電機上。武裝後的"踐踏者"裝有遙控砲臺，其上設有40公厘機砲和12.7公厘重機槍。而紅方的地面無人載具，則是被取名叫"薩夫"，是一種來自亞洲地區廉價且不太可靠的山寨版"踐踏者"。</Chinese>
-          <Chinesesimp>"践踏者"是一种设计用来侦察，监视和支援的远程控制地面无人载具。它能够在很大的区域内自主操作，并不间断地发送数据回到控制中心。每个轮子都由独立的电动机驱动，各个电动机的电池则一起连接在柴油发电机上。武装后的"践踏者"装有遥控武器站，其上设有40mm 榴弹机枪和12.7mm 重机枪。而红方的无人车则被取名叫"萨夫"，是一种来自亚洲地区廉价且不太可靠的山寨版"践踏者"。</Chinesesimp>
+          <Chinesesimp>"践踏者"是一种设计用来侦察，监视和支援的远程控制地面无人载具。它能够在很大的区域内自主操作，并不间断地发送数据回到控制中心。每个轮子都由独立的电动机驱动，各个电动机的电池则一起连接在柴油发电机上。武装后的"践踏者"装有遥控武器站，其上设有40mm 榴弹发射器和12.7mm 重机枪。而红方的无人车则被取名叫"萨夫"，是一种来自亚洲地区廉价且不太可靠的山寨版"践踏者"。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_car_base_library0">
           <Original>A four-seat hatchback car mass-produced in the Far East to satisfy increasing demand for family cars. Economical operation, enhanced safety and a roomy trunk made these cars widely popular in the whole of Europe. Also comes in a sporty version.</Original>
@@ -4809,7 +4809,7 @@
       <Key ID="str_a3_cfgvehicles_b_gmg_01_a_high_weapon_f_assembleinfo0">
         <Original>Static GMG (Raised)</Original>
         <Chinese>固定式榴彈機槍(高射腳架)</Chinese>
-        <Chinesesimp>固定式榴弹机枪(高射脚架)</Chinesesimp>
+        <Chinesesimp>固定式榴弹发射器(高射脚架)</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_static_aa_placeholder_f0">
         <Original>Static Titan Launcher (AA) [NATO]</Original>
@@ -4819,12 +4819,12 @@
       <Key ID="str_a3_cfgvehicles_b_gmg_01_high_weapon_f_assembleinfo0">
         <Original>Static GMG (Raised)</Original>
         <Chinese>固定式榴彈機槍(高射腳架)</Chinese>
-        <Chinesesimp>固定式榴弹机枪(高射脚架)</Chinesesimp>
+        <Chinesesimp>固定式榴弹发射器(高射脚架)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_gmg_01_a_high_weapon_f0">
         <Original>Dismantled Mk32A GMG (Raised)</Original>
         <Chinese>拆解Mk32A榴彈機槍(高射腳架)</Chinese>
-        <Chinesesimp>拆解的Mk32A榴弹机枪(高射脚架)</Chinesesimp>
+        <Chinesesimp>拆解的Mk32A榴弹发射器(高射脚架)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_a_high_weapon_f_assembleinfo0">
         <Original>Static MG (Raised)</Original>
@@ -4834,7 +4834,7 @@
       <Key ID="str_a3_cfgvehicles_b_gmg_01_high_weapon_f0">
         <Original>Dismantled Mk32 GMG (Raised) [NATO]</Original>
         <Chinese>拆解Mk32榴彈機槍(高射腳架)[北約]</Chinese>
-        <Chinesesimp>拆解Mk32榴弹机枪(高射脚架)[北约]</Chinesesimp>
+        <Chinesesimp>拆解Mk32榴弹发射器(高射脚架)[北约]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_high_weapon_f_assembleinfo0">
         <Original>Static MG (Raised)</Original>
@@ -4854,12 +4854,12 @@
       <Key ID="str_a3_cfgvehicles_gmg_01_a_high_base_f0">
         <Original>Mk32A GMG 20 mm (Raised)</Original>
         <Chinese>Mk32A 20公厘榴彈機槍(高射腳架)</Chinese>
-        <Chinesesimp>Mk32A 20mm 榴弹机枪(高射脚架)</Chinesesimp>
+        <Chinesesimp>Mk32A 20mm 榴弹发射器(高射脚架)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_gmg_01_high_base_f0">
         <Original>Mk32 GMG 20 mm (Raised)</Original>
         <Chinese>Mk32 20公厘榴彈機槍(高射腳架)</Chinese>
-        <Chinesesimp>Mk32 20mm 榴弹机枪(高射脚架)</Chinesesimp>
+        <Chinesesimp>Mk32 20mm 榴弹发射器(高射脚架)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_hmg_01_a_high_base_f0">
         <Original>Mk30A HMG .50 (Raised)</Original>
@@ -4899,12 +4899,12 @@
       <Key ID="str_a3_cfgvehicles_b_gmg_01_high_weapon_f1">
         <Original>Dismantled Mk32 GMG (Raised) [CSAT]</Original>
         <Chinese>拆解Mk32榴彈機槍(高射腳架)[廣協同盟]</Chinese>
-        <Chinesesimp>拆解的Mk32榴弹机枪(高射脚架)[广协]</Chinesesimp>
+        <Chinesesimp>拆解的Mk32榴弹发射器(高射脚架)[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_gmg_01_high_weapon_f2">
         <Original>Dismantled Mk32 GMG (Raised) [AAF]</Original>
         <Chinese>拆解Mk32榴彈機槍(高射腳架)[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>拆解的Mk32榴弹机枪(高射脚架)[AAF]</Chinesesimp>
+        <Chinesesimp>拆解的Mk32榴弹发射器(高射脚架)[AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_high_weapon_f1">
         <Original>Dismantled Mk30 HMG (Raised) [CSAT]</Original>

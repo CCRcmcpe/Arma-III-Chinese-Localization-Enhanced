@@ -757,7 +757,7 @@
           <Key ID="str_a3_tanks_m03_mission">
             <Original>Move up from %2Point Delta%1 and wait for the Americans; we must delay them for as long as possible - use whatever strategy you like, Captain, just don't let them get by you.&lt;br /&gt;&lt;br /&gt;As your CO was injured earlier today, you will take charge of his Angara. It is a 'command' variant and boasts an extra turret-mounted, 30mm autocannon. But remember, like the standard model, its armor plating's top secret. CSAT made it very clear. If one of their tanks is knocked out or immobilized, we must scuttle it before our enemies can investigate. After completing your mission, you will need to use the explosives, located in your storage bins, to destroy your own.&lt;br /&gt;&lt;br /&gt;Good luck.</Original>
             <Chinese>從%2德爾塔點%1開始機動並等待美國人;我們必須阻滯他們足夠長的時間-不論用什麼方法手段，上尉，一定別讓他們突破你的陣地。&lt;br/&gt;&lt;br/&gt;因為你的指揮官今天早些時候受傷了，你會接管他的"安加拉"。這是一輛"指揮型"，在車頂安裝了附加的30公厘自動炮。但請記住，就像標準型一樣，其裝甲結構是最高機密。廣協同盟的意思非常明確。如果我們的哪一輛坦克被擊毀或癱瘓，我們就必須在敵方得以調查之前將其徹底摧毀。在完成任務之後，你需要使用炸藥，這在你的裝備儲存箱中可以找到，來摧毀你自己的坦克。&lt;br/&gt;&lt;br/&gt;祝你好運。</Chinese>
-            <Chinesesimp>从%2德尔塔点%1开始机动并等待美国人;我们必须阻滞他们足够长的时间-不论用什么方法手段，上尉，一定别让他们突破你的阵地。&lt;br/&gt;&lt;br/&gt;因为你的指挥官今天早些时候受伤了，你会接管他的"安加拉"。这是一辆"指挥型"，在车顶安装了附加的30mm 机炮。但请记住，就像标准型一样，其装甲结构是最高机密。广协的意思非常明确。如果我们的哪一辆坦克被击毁或瘫痪，我们就必须在敌方得以调查之前将其彻底摧毁。在完成任务之后，你需要使用炸药，这在你的装备储存箱中可以找到，来摧毁你自己的坦克。&lt;br/&gt;&lt;br/&gt;祝你好运。</Chinesesimp>
+            <Chinesesimp>从%2Delta点%1开始机动并等待美国人;我们必须阻滞他们足够长的时间-不论用什么方法手段，上尉，一定别让他们突破你的阵地。&lt;br/&gt;&lt;br/&gt;因为你的指挥官今天早些时候受伤了，你会接管他的"安加拉"。这是一辆"指挥型"，在车顶安装了附加的30mm 机炮。但请记住，就像标准型一样，其装甲结构是最高机密。广协的意思非常明确。如果我们的哪一辆坦克被击毁或瘫痪，我们就必须在敌方得以调查之前将其彻底摧毁。在完成任务之后，你需要使用炸药，这在你的装备储存箱中可以找到，来摧毁你自己的坦克。&lt;br/&gt;&lt;br/&gt;祝你好运。</Chinesesimp>
           </Key>
           <Key ID="str_a3_tanks_m03_markersecondline">
             <Original>Second Defensive Line</Original>
@@ -782,7 +782,7 @@
           <Key ID="str_a3_tanks_m03_markerdelta">
             <Original>Point Delta</Original>
             <Chinese>德爾塔點</Chinese>
-            <Chinesesimp>德尔塔点</Chinesesimp>
+            <Chinesesimp>Delta点</Chinesesimp>
           </Key>
           <Key ID="str_a3_tanks_m03_execution">
             <Original>1. Get in your %2T-140K Angara%1.&lt;br /&gt;2. Move to a strategic position.&lt;br /&gt;3. Drive back all attacking forces.</Original>
@@ -1554,8 +1554,8 @@
           <Container name="004_ta_angara_unknown" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m03" dialogName="004_ta_angara_unknown" dubbingLanguage="english" namePrefix="ta_tanks_m03_004_ta_angara_unknown" note="" participants="TA_arhq;TA_arplayer;" situation="hq attempts to contact a friendly tank but does not receive a response. hq tasks player to investigate.">
             <Key ID="str_a3_ta_tanks_m03_004_ta_angara_unknown_arhq_0">
               <Original>Pantheon to Hera, we're not reading movement on your tracker.</Original>
-              <Chinese>"萬神殿"叫塞拉，我們注意到你的履帶不再運動了。</Chinese>
-              <Chinesesimp>"万神殿"叫塞拉，我们注意到你的履带不再运动了。</Chinesesimp>
+              <Chinese>"萬神殿"叫Sierra，我們注意到你的履帶不再運動了。</Chinese>
+              <Chinesesimp>"万神殿"叫Sierra，我们注意到你的履带不再运动了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m03_004_ta_angara_unknown_arhq_1">
               <Original>What's your status? Over.</Original>
@@ -1624,7 +1624,7 @@
             <Key ID="str_a3_ta_tanks_m03_002_ta_introduction_out_arplayer_0">
               <Original>Just checking on Point Delta, we're stepping off.</Original>
               <Chinese>注意一下德爾塔點，我們要出發了。</Chinese>
-              <Chinesesimp>注意一下德尔塔点，我们要出发了。</Chinesesimp>
+              <Chinesesimp>注意一下Delta点，我们要出发了。</Chinesesimp>
             </Key>
           </Container>
           <Container name="001_int_introduction_in" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m03" dialogName="001_int_introduction_in" dubbingLanguage="english" namePrefix="ta_tanks_m03_001_int_introduction_in" note="" participants="TA_arplayer;" situation="player passes some wounded comrades.">
@@ -3054,18 +3054,18 @@
           <Container name="037_ex_zulu_gone" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="037_ex_zulu_gone" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_037_ex_zulu_gone" note="" participants="TA_tdhq;" situation="hq reports to player that zulu have been wiped out.">
             <Key ID="str_a3_ta_showcase_tank_destroyers_037_ex_zulu_gone_tdhq_0">
               <Original>Papa Bear to Zulu, report in, over.</Original>
-              <Chinese>"熊爸爸"叫"祖魯"，回話，完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"叫"祖鲁"，回话，完毕。</Chinesesimp>
+              <Chinese>Papa Bear叫"祖魯"，回話，完畢。</Chinese>
+              <Chinesesimp>Papa Bear叫Zulu，回话，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_037_ex_zulu_gone_tdhq_1">
               <Original>Zulu? Papa Bear. Do you copy? Over.</Original>
-              <Chinese>"祖魯"?"熊爸爸"叫，你聽到了嗎?完畢。</Chinese>
-              <Chinesesimp>"祖鲁"?"熊爸爸"叫，你听到了吗?完毕。</Chinesesimp>
+              <Chinese>"祖魯"?Papa Bear叫，你聽到了嗎?完畢。</Chinese>
+              <Chinesesimp>Zulu?Papa Bear叫，你听到了吗?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_037_ex_zulu_gone_tdhq_2">
               <Original>Papa Bear to Victor, Zulu's non-responsive, we must assume they didn't make it.</Original>
-              <Chinese>"熊爸爸"叫"維克多"，"祖魯"沒有響應，我們必須推定他們沒撐下來。</Chinese>
-              <Chinesesimp>"熊爸爸"叫"维克多"，"祖鲁"没有响应，我们必须推定他们没撑下来。</Chinesesimp>
+              <Chinese>Papa Bear叫"維克多"，"祖魯"沒有響應，我們必須推定他們沒撐下來。</Chinese>
+              <Chinesesimp>Papa Bear叫Victor，Zulu没有响应，我们必须推定他们没撑下来。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_037_ex_zulu_gone_tdhq_3">
               <Original>Abort the mission - withdraw to the staging area, out.</Original>
@@ -3082,12 +3082,12 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_036_ex_fuel_leak_fail_tdhq_1">
               <Original>Goddamn it, Victor!</Original>
               <Chinese>真該死，"維克多"!</Chinese>
-              <Chinesesimp>真该死，"维克多"!</Chinesesimp>
+              <Chinesesimp>真该死，Victor!</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_036_ex_fuel_leak_fail_tdplayer_0">
               <Original>Papa Bear, it's Victor, we're outta fuel, over.</Original>
-              <Chinese>"熊爸爸"，這是"維克多"，我們沒油了，完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"，这是"维克多"，我们没油了，完毕。</Chinesesimp>
+              <Chinese>Papa Bear，這是"維克多"，我們沒油了，完畢。</Chinese>
+              <Chinesesimp>Papa Bear，这是Victor，我们没油了，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_036_ex_fuel_leak_fail_tdhq_2">
               <Original>Leave the vehicle and return to the staging area - now! Out.</Original>
@@ -3103,8 +3103,8 @@
           <Container name="034_ex_darter_destroyed" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="034_ex_darter_destroyed" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_034_ex_darter_destroyed" note="" participants="TA_tdhq;" situation="hq reports that the live-feed has been destroyed.">
             <Key ID="str_a3_ta_showcase_tank_destroyers_034_ex_darter_destroyed_tdhq_0">
               <Original>This is Papa Bear, we just lost UAV surveillance. Out.</Original>
-              <Chinese>這是"熊爸爸"，我們剛剛失去了無人機監視信號。通話完畢。</Chinese>
-              <Chinesesimp>这是"熊爸爸"，我们刚刚失去了无人机监视信号。通话完毕。</Chinesesimp>
+              <Chinese>這是Papa Bear，我們剛剛失去了無人機監視信號。通話完畢。</Chinese>
+              <Chinesesimp>这是Papa Bear，我们刚刚失去了无人机监视信号。通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="035_ex_fuel_leak" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="035_ex_fuel_leak" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_035_ex_fuel_leak" note="" participants="TA_tdplayer;" situation="player notices that they're losing fuel.">
@@ -3123,14 +3123,14 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_033_ex_left_ao_tdhq_0">
               <Original>Can't you read a map, Victor! Abort and RTB, you just Article 15'd your ass. out.</Original>
               <Chinese>你就不會看看地圖嗎，"維克多"!放棄任務返回基地，等著上軍事法庭吧，通話完畢。</Chinese>
-              <Chinesesimp>你就不会看看地图吗，"维克多"!放弃任务返回基地，等着上军事法庭吧，通话完毕。</Chinesesimp>
+              <Chinesesimp>你就不会看看地图吗，Victor!放弃任务返回基地，等着上军事法庭吧，通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="032_ex_leaving_ao" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="032_ex_leaving_ao" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_032_ex_leaving_ao" note="" participants="TA_tdhq;" situation="hq warns player that they are leaving the area of operations.">
             <Key ID="str_a3_ta_showcase_tank_destroyers_032_ex_leaving_ao_tdhq_0">
               <Original>Papa Bear to Victor, where the hell are you going?</Original>
-              <Chinese>"熊爸爸"叫"維克多"，你他媽這是往哪兒去啊?</Chinese>
-              <Chinesesimp>"熊爸爸"叫"维克多"，你他妈这是往哪儿去啊?</Chinesesimp>
+              <Chinese>Papa Bear叫"維克多"，你他媽這是往哪兒去啊?</Chinese>
+              <Chinesesimp>Papa Bear叫Victor，你他妈这是往哪儿去啊?</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_032_ex_leaving_ao_tdhq_1">
               <Original>You're leaving the AO... check your map and stay on task! Out.</Original>
@@ -3151,13 +3151,13 @@
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_031_ex_win_zulu_gone_tdplayer_0">
               <Original>Papa Bear, Victor.</Original>
-              <Chinese>"熊爸爸"，"維克多"叫。</Chinese>
-              <Chinesesimp>"熊爸爸"，"维克多"叫。</Chinesesimp>
+              <Chinese>Papa Bear，"維克多"叫。</Chinese>
+              <Chinesesimp>Papa Bear，Victor叫。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_031_ex_win_zulu_gone_tdplayer_1">
               <Original>Those tanks are history but, Zulu's been hit, bad! Requesting immediate CASEVAC, over.</Original>
               <Chinese>那些坦克被擊毀了，但是"祖魯"也中彈了，很糟!要求立刻撤出支援，完畢。</Chinese>
-              <Chinesesimp>那些坦克被击毁了，但是"祖鲁"也中弹了，很糟!要求立刻撤出支援，完毕。</Chinesesimp>
+              <Chinesesimp>那些坦克被击毁了，但是Zulu也中弹了，很糟!要求立刻撤出支援，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="030_ex_yankee_gone" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="030_ex_yankee_gone" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_030_ex_yankee_gone" note="" participants="TA_tdplayer;TA_tdhq;" situation="all friendly tanks are destroyed and player is ordered to retreat.">
@@ -3168,20 +3168,20 @@
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_030_ex_yankee_gone_tdplayer_0">
               <Original>Victor to Papa Bear, we got serious casualties!</Original>
-              <Chinese>"維克多"呼叫"熊爸爸"，我們傷亡很大!</Chinese>
-              <Chinesesimp>"维克多"呼叫"熊爸爸"，我们伤亡很大!</Chinesesimp>
+              <Chinese>"維克多"呼叫Papa Bear，我們傷亡很大!</Chinese>
+              <Chinesesimp>Victor呼叫Papa Bear，我们伤亡很大!</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_030_ex_yankee_gone_tdplayer_1">
               <Original>Yankee are combat ineffective, it's complete chaos here! Over.</Original>
               <Chinese>揚基失去戰鬥力了，這兒一團糟!完畢。</Chinese>
-              <Chinesesimp>扬基失去战斗力了，这儿一团糟!完毕。</Chinesesimp>
+              <Chinesesimp>Yankee失去战斗力了，这儿一团糟!完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="029_ex_aa_ignored" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="029_ex_aa_ignored" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_029_ex_aa_ignored" note="" participants="TA_tdhq;" situation="player ignores the task involving the enemy's anti-aircraft battery.">
             <Key ID="str_a3_ta_showcase_tank_destroyers_029_ex_aa_ignored_tdhq_0">
               <Original>Papa Bear to Victor, that AA's still active, and we can't wait any longer!</Original>
-              <Chinese>"熊爸爸"叫"維克多"，那輛自行高炮還在工作，我們等不了了。</Chinese>
-              <Chinesesimp>"熊爸爸"叫"维克多"，那辆自行高炮还在工作，我们等不了了。</Chinesesimp>
+              <Chinese>Papa Bear叫"維克多"，那輛自行高炮還在工作，我們等不了了。</Chinese>
+              <Chinesesimp>Papa Bear叫Victor，那辆自行高炮还在工作，我们等不了了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_029_ex_aa_ignored_tdhq_1">
               <Original>MARUK missiles are fire-and-forget, Sergeant, not fire-or-forget! Focus on the main objective.</Original>
@@ -3207,8 +3207,8 @@
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_028_ex_rhino_lost_tdplayer_0">
               <Original>Papa Bear, Victor.</Original>
-              <Chinese>"熊爸爸"，"維克多"叫。</Chinese>
-              <Chinesesimp>"熊爸爸"，"维克多"叫。</Chinesesimp>
+              <Chinese>Papa Bear，"維克多"叫。</Chinese>
+              <Chinesesimp>Papa Bear，Victor叫。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_028_ex_rhino_lost_tdplayer_1">
               <Original>Our Rhino, it's outta action! Over.</Original>
@@ -3225,7 +3225,7 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_027_ex_rhino_lost_accident_tdhq_0">
               <Original>Goddamn it, Victor!</Original>
               <Chinese>該死的，"維克多"!</Chinese>
-              <Chinesesimp>该死的，"维克多"!</Chinesesimp>
+              <Chinesesimp>该死的，Victor!</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_027_ex_rhino_lost_accident_tdhq_1">
               <Original>You can explain yourself in person.</Original>
@@ -3234,8 +3234,8 @@
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_027_ex_rhino_lost_accident_tdplayer_0">
               <Original>Papa Bear, Victor.</Original>
-              <Chinese>"熊爸爸"，"維克多"叫。</Chinese>
-              <Chinesesimp>"熊爸爸"，"维克多"叫。</Chinesesimp>
+              <Chinese>Papa Bear，"維克多"叫。</Chinese>
+              <Chinesesimp>Papa Bear，Victor叫。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_027_ex_rhino_lost_accident_tdplayer_1">
               <Original>I dunno how else to say this... our Rhino's wrecked, over.</Original>
@@ -3258,8 +3258,8 @@
           <Container name="025_eve_goats_killed_charlie" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="025_eve_goats_killed_charlie" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_025_eve_goats_killed_charlie" note="" participants="TA_tdcharlie;" situation="player fires at a herd of goats.">
             <Key ID="str_a3_ta_showcase_tank_destroyers_025_eve_goats_killed_charlie_tdcharlie_0">
               <Original>Victor, Charlie.</Original>
-              <Chinese>"維克多"，查理叫。</Chinese>
-              <Chinesesimp>"维克多"，查理叫。</Chinesesimp>
+              <Chinese>"維克多"，Charlie叫。</Chinese>
+              <Chinesesimp>Victor，Charlie叫。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_025_eve_goats_killed_charlie_tdcharlie_1">
               <Original>I said fire below the goats, not at 'em! Jesus, man!</Original>
@@ -3322,7 +3322,7 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_021_am_win_zulu_tdplayer_0">
               <Original>Zulu Actual, this is Victor Actual.</Original>
               <Chinese>"祖魯"領隊，這是"維克多"領隊。</Chinese>
-              <Chinesesimp>"祖鲁"领队，这是"维克多"领队。</Chinesesimp>
+              <Chinesesimp>Zulu领队，这是Victor领队。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_021_am_win_zulu_tdplayer_1">
               <Original>I reckon you're outta pocket, over.</Original>
@@ -3348,8 +3348,8 @@
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_020_ta_win_hq_in_tdplayer_0">
               <Original>Papa Bear, it's Victor.</Original>
-              <Chinese>"熊爸爸"，這是"維克多"。</Chinese>
-              <Chinesesimp>"熊爸爸"，这是"维克多"。</Chinesesimp>
+              <Chinese>Papa Bear，這是"維克多"。</Chinese>
+              <Chinesesimp>Papa Bear，这是Victor。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_020_ta_win_hq_in_tdplayer_1">
               <Original>Those tanks? They're history. Over.</Original>
@@ -3361,17 +3361,17 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_019_ta_redirect_tdhq_0">
               <Original>Acknowledged, Zulu, tasking.</Original>
               <Chinese>明白了，"祖魯"，正分配任務。</Chinese>
-              <Chinesesimp>明白了，"祖鲁"，正分配任务。</Chinesesimp>
+              <Chinesesimp>明白了，Zulu，正分配任务。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_019_ta_redirect_tdhq_1">
               <Original>Victor, you read?</Original>
               <Chinese>"維克多"，收到了嗎?</Chinese>
-              <Chinesesimp>"维克多"，收到了吗?</Chinesesimp>
+              <Chinesesimp>Victor，收到了吗?</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_019_ta_redirect_tdzulu_0">
               <Original>Zulu to Papa Bear! We got optics on enemy forces.</Original>
-              <Chinese>"祖魯"呼叫"熊爸爸"!我們目視到敵軍了。</Chinese>
-              <Chinesesimp>"祖鲁"呼叫"熊爸爸"!我们目视到敌军了。</Chinesesimp>
+              <Chinese>"祖魯"呼叫Papa Bear!我們目視到敵軍了。</Chinese>
+              <Chinesesimp>Zulu呼叫Papa Bear!我们目视到敌军了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_019_ta_redirect_tdzulu_1">
               <Original>Two tank platoons, heading straight for us, north towards Sofia!</Original>
@@ -3390,8 +3390,8 @@
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_019_ta_redirect_tdhq_4">
               <Original>Whisky 3-1 is coming to you. Link-up, rearm, then, move east and outflank them. Out.</Original>
-              <Chinese>"威士忌3-1"朝你們來了。和他們合流，補給彈藥，然後向東機動包抄他們。通話完畢。</Chinese>
-              <Chinesesimp>"威士忌3-1"朝你们来了。和他们合流，补给弹药，然后向东机动包抄他们。通话完毕。</Chinesesimp>
+              <Chinese>Whiskey3-1"朝你們來了。和他們合流，補給彈藥，然後向東機動包抄他們。通話完畢。</Chinese>
+              <Chinesesimp>Whiskey3-1"朝你们来了。和他们合流，补给弹药，然后向东机动包抄他们。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_019_ta_redirect_tdplayer_0">
               <Original>Affirmative, sir.</Original>
@@ -3402,8 +3402,8 @@
           <Container name="018_ta_destroy_aa_complete" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="018_ta_destroy_aa_complete" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_018_ta_destroy_aa_complete" note="" participants="TA_tdhq;" situation="player destroys the anti-aircraft battery.">
             <Key ID="str_a3_ta_showcase_tank_destroyers_018_ta_destroy_aa_complete_tdhq_0">
               <Original>Victor, it's Papa Bear.</Original>
-              <Chinese>"維克多"，這是"熊爸爸"。</Chinese>
-              <Chinesesimp>"维克多"，这是"熊爸爸"。</Chinesesimp>
+              <Chinese>"維克多"，這是Papa Bear。</Chinese>
+              <Chinesesimp>Victor，这是Papa Bear。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_018_ta_destroy_aa_complete_tdhq_1">
               <Original>Nicely done, we just got word: good kill on that AA. Carry on with your primary objective, out.</Original>
@@ -3414,8 +3414,8 @@
           <Container name="017_ta_destroy_aa_missed" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="017_ta_destroy_aa_missed" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_017_ta_destroy_aa_missed" note="" participants="TA_tdhq;TA_tdplayer;" situation="player wastes his maruk missiles and fails to destroy the anti-aircraft battery.">
             <Key ID="str_a3_ta_showcase_tank_destroyers_017_ta_destroy_aa_missed_tdhq_0">
               <Original>Papa Bear to Victor, that AA's still active - what's taking you so long? Over.</Original>
-              <Chinese>"熊爸爸"叫"維克多"，那輛自行高炮還沒搞定-怎麼花了這麼久?完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"叫"维克多"，那辆自行高炮还没搞定-怎么花了这么久?完毕。</Chinesesimp>
+              <Chinese>Papa Bear叫"維克多"，那輛自行高炮還沒搞定-怎麼花了這麼久?完畢。</Chinese>
+              <Chinesesimp>Papa Bear叫Victor，那辆自行高炮还没搞定-怎么花了这么久?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_017_ta_destroy_aa_missed_tdhq_1">
               <Original>Maybe, we'll just have to deal with it some other way. Out.</Original>
@@ -3437,12 +3437,12 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_016_ta_destroy_aa_no_ammo_tdhq_0">
               <Original>Never mind, Victor, we'll organize a fire mission. Focus on your primary objective, out.</Original>
               <Chinese>那算了，"維克多"，我們會組織一次火力任務。注意首要目標吧。通話完畢。</Chinese>
-              <Chinesesimp>那算了，"维克多"，我们会组织一次火力任务。注意首要目标吧。通话完毕。</Chinesesimp>
+              <Chinesesimp>那算了，Victor，我们会组织一次火力任务。注意首要目标吧。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_016_ta_destroy_aa_no_ammo_tdplayer_0">
               <Original>Ah, that's gonna be a problem, Papa Bear, we already used 'em.</Original>
-              <Chinese>啊，那可能有問題。"熊爸爸"，我們都把導彈用光了。</Chinese>
-              <Chinesesimp>啊，那可能有问题。"熊爸爸"，我们都把导弹用光了。</Chinesesimp>
+              <Chinese>啊，那可能有問題。Papa Bear，我們都把導彈用光了。</Chinese>
+              <Chinesesimp>啊，那可能有问题。Papa Bear，我们都把导弹用光了。</Chinesesimp>
             </Key>
           </Container>
           <Container name="015_ta_destroy_aa_confirmed" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="015_ta_destroy_aa_confirmed" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_015_ta_destroy_aa_confirmed" note="" participants="TA_tdplayer;" situation="player acknowledges tdhq's command.">
@@ -3455,8 +3455,8 @@
           <Container name="014_ta_destroy_aa" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="014_ta_destroy_aa" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_014_ta_destroy_aa" note="" participants="TA_tdhq;TA_tdplayer;" situation="player is told to destroy an enemy aa battery, using a maruk missile.">
             <Key ID="str_a3_ta_showcase_tank_destroyers_014_ta_destroy_aa_tdhq_0">
               <Original>Papa Bear to Victor, message, over.</Original>
-              <Chinese>"熊爸爸"叫"維克多"，有信息，完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"叫"维克多"，有信息，完毕。</Chinesesimp>
+              <Chinese>Papa Bear叫"維克多"，有信息，完畢。</Chinese>
+              <Chinesesimp>Papa Bear叫Victor，有信息，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_014_ta_destroy_aa_tdhq_1">
               <Original>There's a situation.</Original>
@@ -3470,8 +3470,8 @@
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_014_ta_destroy_aa_tdplayer_0">
               <Original>Go ahead, Papa Bear.</Original>
-              <Chinese>說吧，"熊爸爸"。</Chinese>
-              <Chinesesimp>说吧，"熊爸爸"。</Chinesesimp>
+              <Chinese>說吧，Papa Bear。</Chinese>
+              <Chinesesimp>说吧，Papa Bear。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_014_ta_destroy_aa_tdhq_3">
               <Original>They've got it painted with a laser designator.</Original>
@@ -3493,12 +3493,12 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_013_ta_counterattack_eliminated_tdhq_1">
               <Original>Support Yankee and continue towards Point Yukon.</Original>
               <Chinese>支援揚基並繼續向育空點前進。</Chinese>
-              <Chinesesimp>支援扬基并继续向育空点前进。</Chinesesimp>
+              <Chinesesimp>支援Yankee并继续向育空点前进。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_013_ta_counterattack_eliminated_tdplayer_0">
               <Original>Victor to Papa Bear, task complete. Over.</Original>
-              <Chinese>"維克多"叫"熊爸爸"，任務完成。完畢。</Chinese>
-              <Chinesesimp>"维克多"叫"熊爸爸"，任务完成。完毕。</Chinesesimp>
+              <Chinese>"維克多"叫Papa Bear，任務完成。完畢。</Chinese>
+              <Chinesesimp>Victor叫Papa Bear，任务完成。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_013_ta_counterattack_eliminated_tdhq_2">
               <Original>Load AP rounds, we suspect CSAT may have armor ahead, out.</Original>
@@ -3509,8 +3509,8 @@
           <Container name="012_ta_counterattack_out" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="012_ta_counterattack_out" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_012_ta_counterattack_out" note="" participants="TA_tdhq;" situation="hq instructs player to repel the enemy's attack.">
             <Key ID="str_a3_ta_showcase_tank_destroyers_012_ta_counterattack_out_tdhq_0">
               <Original>Drive them back, we cannot lose the initiative - Papa Bear, out.</Original>
-              <Chinese>把他們趕回去，我們不能丟掉主動權-"熊爸爸"，通話完畢。</Chinese>
-              <Chinesesimp>把他们赶回去，我们不能丢掉主动权-"熊爸爸"，通话完毕。</Chinesesimp>
+              <Chinese>把他們趕回去，我們不能丟掉主動權-Papa Bear，通話完畢。</Chinese>
+              <Chinesesimp>把他们赶回去，我们不能丢掉主动权-Papa Bear，通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="011_ta_counterattack_uav" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="011_ta_counterattack_uav" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_011_ta_counterattack_uav" note="" participants="TA_tdhq;" situation="hq informs player about a uav live feed.">
@@ -3523,20 +3523,20 @@
           <Container name="010_ta_counterattack_in" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="010_ta_counterattack_in" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_010_ta_counterattack_in" note="" participants="TA_tdhq;" situation="hq provides player with intel on the counterattack.">
             <Key ID="str_a3_ta_showcase_tank_destroyers_010_ta_counterattack_in_tdhq_0">
               <Original>Yankee, Charlie, Victor. Be advised. Hostile IFVs are advancing from the south-west.</Original>
-              <Chinese>"揚基"，"Charlie"，"維克多"。請注意，敵方步兵戰車正從西南方接近。</Chinese>
-              <Chinesesimp>"扬基"，"查理"，"维克多"。请注意，敌方步兵战车正从西南方接近。</Chinesesimp>
+              <Chinese>"揚基"，Charlie，"維克多"。請注意，敵方步兵戰車正從西南方接近。</Chinese>
+              <Chinesesimp>Yankee，Charlie，Victor。请注意，敌方步兵战车正从西南方接近。</Chinesesimp>
             </Key>
           </Container>
           <Container name="009_ta_spotter_killed" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="009_ta_spotter_killed" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_009_ta_spotter_killed" note="" participants="TA_tdplayer;TA_tdcharlie;" situation="player eliminates the spotter.">
             <Key ID="str_a3_ta_showcase_tank_destroyers_009_ta_spotter_killed_tdcharlie_0">
               <Original>Roger! Much obliged, Victor, we owe you one, out.</Original>
               <Chinese>收到!十分感謝，"維克多"，我們欠你一次，通話完畢。</Chinese>
-              <Chinesesimp>收到!十分感谢，"维克多"，我们欠你一次，通话完毕。</Chinesesimp>
+              <Chinesesimp>收到!十分感谢，Victor，我们欠你一次，通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_009_ta_spotter_killed_tdplayer_0">
               <Original>Victor to Charlie, target neutralized, you're all clear, over.</Original>
-              <Chinese>"維克多"叫"Charlie"，目標消滅，你們安全了，完畢。</Chinese>
-              <Chinesesimp>"维克多"叫"查理"，目标消灭，你们安全了，完毕。</Chinesesimp>
+              <Chinese>"維克多"叫Charlie，目標消滅，你們安全了，完畢。</Chinese>
+              <Chinesesimp>Victor叫Charlie，目标消灭，你们安全了，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="008_eve_player_target" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="008_eve_player_target" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_008_eve_player_target" note="" participants="TA_tdplayer;" situation="player's tank destroyer becomes target for artillery.">
@@ -3555,7 +3555,7 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_007_in_spotter_hurry_02_tdcharlie_0">
               <Original>Jesus Christ, Victor, do you need a fucking zip code?</Original>
               <Chinese>老天爺啊"維克多"，你特麼的需要郵政編碼嗎?</Chinese>
-              <Chinesesimp>老天爷啊"维克多"，你特么的需要邮政编码吗?</Chinesesimp>
+              <Chinesesimp>老天爷啊Victor，你特么的需要邮政编码吗?</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_007_in_spotter_hurry_02_tdcharlie_1">
               <Original>Switch to thermals, find 'em goats, move down a tad, and there - at the window of the building! Out.</Original>
@@ -3567,7 +3567,7 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_006_in_spotter_hurry_01_tdcharlie_0">
               <Original>Victor, what's the hold up? He's at grid 244-231!</Original>
               <Chinese>"維克多"，你還在愣什麼神啊，他在坐標244-231!</Chinese>
-              <Chinesesimp>"维克多"，你还在愣什么神啊，他在坐标244-231!</Chinesesimp>
+              <Chinesesimp>Victor，你还在愣什么神啊，他在坐标244-231!</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_006_in_spotter_hurry_01_tdcharlie_1">
               <Original>There's some goats, top of the hill and just below 'em. Out.</Original>
@@ -3588,8 +3588,8 @@
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_005_ta_player_at_position_tdplayer_0">
               <Original>Victor to Charlie, update, we're at your location, over.</Original>
-              <Chinese>"維克多"叫"Charlie"，狀況更新，我們在你們的位置上了，完畢。</Chinese>
-              <Chinesesimp>"维克多"叫查理，状况更新，我们在你们的位置上了，完毕。</Chinesesimp>
+              <Chinese>"維克多"叫Charlie，狀況更新，我們在你們的位置上了，完畢。</Chinese>
+              <Chinesesimp>Victor叫Charlie，状况更新，我们在你们的位置上了，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_005_ta_player_at_position_tdcharlie_2">
               <Original>Grid 244-231.</Original>
@@ -3613,15 +3613,15 @@
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_005_ta_player_at_position_tdplayer_1">
               <Original>Roger, Charlie. Hang on, we'll take care of it, out.</Original>
-              <Chinese>收到，"Charlie"。等一下，我們會解決的，通話完畢。</Chinese>
-              <Chinesesimp>收到，"查理"。等一下，我们会解决的，通话完毕。</Chinesesimp>
+              <Chinese>收到，Charlie。等一下，我們會解決的，通話完畢。</Chinese>
+              <Chinesesimp>收到，Charlie。等一下，我们会解决的，通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="004_am_task_update" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="004_am_task_update" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_004_am_task_update" note="" participants="TA_tdcharlie;TA_tdhq;" situation="hq contacts player with task update.">
             <Key ID="str_a3_ta_showcase_tank_destroyers_004_am_task_update_tdcharlie_0">
               <Original>Papa Bear, it's Charlie! Our APC is gone!</Original>
-              <Chinese>"熊爸爸"，這是查理!我們的裝輸完啦!</Chinese>
-              <Chinesesimp>"熊爸爸"，这是查理!我们的装输完啦!</Chinesesimp>
+              <Chinese>Papa Bear，這是Charlie!我們的裝輸完啦!</Chinese>
+              <Chinesesimp>Papa Bear，这是Charlie!我们的装输完啦!</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_004_am_task_update_tdcharlie_1">
               <Original>There's accurate mortar fire coming down on our position.</Original>
@@ -3640,8 +3640,8 @@
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_004_am_task_update_tdhq_0">
               <Original>Negative, Charlie.</Original>
-              <Chinese>不行，"Charlie"。</Chinese>
-              <Chinesesimp>不行，"查理"。</Chinesesimp>
+              <Chinese>不行，Charlie。</Chinese>
+              <Chinesesimp>不行，Charlie。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_004_am_task_update_tdhq_1">
               <Original>That's too big a risk for the local CIVPOP.</Original>
@@ -3651,7 +3651,7 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_004_am_task_update_tdhq_2">
               <Original>Try to get a bead on the threat and relay to Victor, out.</Original>
               <Chinese>試著找到威脅然後報告給"維克多"，完畢。</Chinese>
-              <Chinesesimp>试着找到威胁然后报告给"维克多"，完毕。</Chinesesimp>
+              <Chinesesimp>试着找到威胁然后报告给Victor，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="003_in_fcs_repaired" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="003_in_fcs_repaired" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_003_in_fcs_repaired" note="" participants="TA_tdengineer;TA_tdplayer;" situation="engineer tells player about targeting system and countermeasures.">
@@ -3685,17 +3685,17 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_002_am_player_in_rhino_tdhq_1">
               <Original>Charlie's reporting multiple contacts south of Limnichori.</Original>
               <Chinese>"Charlie's"報告稱在利姆尼霍里以南遭遇多個敵軍接觸</Chinese>
-              <Chinesesimp>"查理"报告称在利姆尼霍里以南遭遇多个敌军接触</Chinesesimp>
+              <Chinesesimp>Charlie报告称在利姆尼霍里以南遭遇多个敌军接触</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_002_am_player_in_rhino_tdplayer_0">
               <Original>Papa Bear, this is Victor. Stepping off. Over.</Original>
-              <Chinese>"熊爸爸"，這是"維克多"。出發。完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"，这是"维克多"。出发。完毕。</Chinesesimp>
+              <Chinese>Papa Bear，這是"維克多"。出發。完畢。</Chinese>
+              <Chinesesimp>Papa Bear，这是Victor。出发。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_002_am_player_in_rhino_tdhq_2">
               <Original>Get there and assist. Slammers from Yankee are also en route. ETA, four mikes. Acknowledge, over.</Original>
               <Chinese>前去支援。揚基的"重擊者"也已經在路上了，四分鐘。請查收，完畢。</Chinese>
-              <Chinesesimp>前去支援。扬基的"重击者"也已经在路上了，四分钟。请查收，完毕。</Chinesesimp>
+              <Chinesesimp>前去支援。Yankee的"重击者"也已经在路上了，四分钟。请查收，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_002_am_player_in_rhino_tdplayer_1">
               <Original>Got it, we'll hit 'em with a little shock and awe, out.</Original>
@@ -3731,8 +3731,8 @@
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_001_ta_opening_speech_tdhq_0">
               <Original>Papa Bear to all callsigns, execute plan Flagstaff, out.</Original>
-              <Chinese>"熊爸爸"呼叫全體呼號，執行計劃"弗拉格斯塔夫"，通話完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"呼叫全体呼号，执行计划"弗拉格斯塔夫"，通话完毕。</Chinesesimp>
+              <Chinese>Papa Bear呼叫全體呼號，執行計劃"弗拉格斯塔夫"，通話完畢。</Chinese>
+              <Chinesesimp>Papa Bear呼叫全体呼号，执行计划"弗拉格斯塔夫"，通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_001_ta_opening_speech_tdplayer_2">
               <Original>Oh, that's real original.</Original>
@@ -3773,7 +3773,7 @@
           <Key ID="str_a3_ta_showcase_tankdestroyers_bis_attack_desc">
             <Original>Proceed to %1Point Yukon%2 and rendezvous with Zulu.</Original>
             <Chinese>繼續前往%1育空點%2並和"祖魯"回合。</Chinese>
-            <Chinesesimp>继续前往%1育空点%2并和"祖鲁"回合。</Chinesesimp>
+            <Chinesesimp>继续前往%1育空点%2并和Zulu回合。</Chinesesimp>
           </Key>
           <Key ID="str_a3_ta_showcase_tankdestroyers_bis_attack_title">
             <Original>Move to Point Yukon</Original>
@@ -3822,8 +3822,8 @@
           </Key>
           <Key ID="str_a3_ta_showcase_tankdestroyers_bis_rearm_desc">
             <Original>Meet with Whisky 3-1 and rearm.</Original>
-            <Chinese>和"威士忌3-1"會面並補充彈藥。</Chinese>
-            <Chinesesimp>和"威士忌3-1"会面并补充弹药。</Chinesesimp>
+            <Chinese>和Whiskey3-1"會面並補充彈藥。</Chinese>
+            <Chinesesimp>和Whiskey3-1"会面并补充弹药。</Chinesesimp>
           </Key>
           <Key ID="str_a3_ta_showcase_tankdestroyers_bis_rearm_title">
             <Original>Rearm</Original>
@@ -3862,8 +3862,8 @@
           </Key>
           <Key ID="str_a3_ta_showcase_tankdestroyers_bis_supportinfantry_desc">
             <Original>Move up and assist Charlie, just %1south%2 of Limnichori.</Original>
-            <Chinese>機動並支援"Charlie"，就在利姆尼霍里%1以南%2。</Chinese>
-            <Chinesesimp>机动并支援查理，就在利姆尼霍里%1以南%2。</Chinesesimp>
+            <Chinese>機動並支援Charlie，就在利姆尼霍里%1以南%2。</Chinese>
+            <Chinesesimp>机动并支援Charlie，就在利姆尼霍里%1以南%2。</Chinesesimp>
           </Key>
           <Key ID="str_a3_ta_showcase_tankdestroyers_bis_supportinfantry_title">
             <Original>Support Infantry</Original>
@@ -3877,8 +3877,8 @@
           </Key>
           <Key ID="str_a3_ta_showcase_tankdestroyers_execution">
             <Original>1.Take command of your recently repaired Rhino MGS.&lt;br/&gt;2. Move south-west with %3Charlie%2 and %4Yankee%2 and eliminate any hostiles you encounter.&lt;br/&gt;3. Rendezvous with %5Zulu%2 at Point %6Brazos%2.</Original>
-            <Chinese>1. 接管你剛剛修好的"犀牛"機動火炮系統城市戰型。&lt;br/&gt;2. 和%3"Charlie"%2和%4"揚基"%2一起向西南開進，消滅你所遭遇的敵人。&lt;br/&gt;3. 在%6布拉索斯點%2和%5"祖魯"%2匯合。</Chinese>
-            <Chinesesimp>1. 接管你刚刚修好的"犀牛"机动火炮系统城市战型。&lt;br/&gt;2. 和%3"查理"%2和%4"扬基"%2一起向西南开进，消灭你所遭遇的敌人。&lt;br/&gt;3. 在%6布拉索斯点%2和%5"祖鲁"%2汇合。</Chinesesimp>
+            <Chinese>1. 接管你剛剛修好的"犀牛"機動火炮系統城市戰型。&lt;br/&gt;2. 和%3Charlie%2和%4"揚基"%2一起向西南開進，消滅你所遭遇的敵人。&lt;br/&gt;3. 在%6布拉索斯點%2和%5"祖魯"%2匯合。</Chinese>
+            <Chinesesimp>1. 接管你刚刚修好的"犀牛"机动火炮系统城市战型。&lt;br/&gt;2. 和%3Charlie%2和%4Yankee%2一起向西南开进，消灭你所遭遇的敌人。&lt;br/&gt;3. 在%6布拉索斯点%2和%5Zulu%2汇合。</Chinesesimp>
           </Key>
           <Key ID="str_a3_ta_showcase_tankdestroyers_marker_pointbrazos">
             <Original>Point Brazos</Original>
@@ -3962,8 +3962,8 @@
           </Key>
           <Key ID="str_a3_ta_showcase_tankdestroyers_signals">
             <Original>%3Papa Bear%2 - HQ%1%4Victor%2 - Your team%1%5Yankee%2 - Armored platoon%1%6Charlie%2 - Mechanized infantry squad%1%7Zulu%2 - Armored platoon%1%8Nomad%2 - Armored platoon%1%9Whisky%2 - Resupply Group</Original>
-            <Chinese>%3"熊爸爸"%2-指揮部%1%4"維克多"%2-你的小組%1%5"揚基"%2-裝甲排%1%6"Charlie"%2-機械化步兵班%1%7"祖魯"%2-裝甲排%1%8"遊牧民"%2-裝甲排%1%9"威士忌"%2-補給群</Chinese>
-            <Chinesesimp>%3"熊爸爸"%2-指挥部%1%4"维克多"%2-你的小组%1%5"扬基"%2-装甲排%1%6"查理"%2-机械化步兵班%1%7"祖鲁"%2-装甲排%1%8"游牧民"%2-装甲排%1%9"威士忌"%2-补给群</Chinesesimp>
+            <Chinese>%3Papa Bear%2-指揮部%1%4"維克多"%2-你的小組%1%5"揚基"%2-裝甲排%1%6Charlie%2-機械化步兵班%1%7"祖魯"%2-裝甲排%1%8"遊牧民"%2-裝甲排%1%9Whiskey%2-補給群</Chinese>
+            <Chinesesimp>%3Papa Bear%2-指挥部%1%4Victor%2-你的小组%1%5Yankee%2-装甲排%1%6Charlie%2-机械化步兵班%1%7Zulu%2-装甲排%1%8"游牧民"%2-装甲排%1%9Whiskey%2-补给群</Chinesesimp>
           </Key>
           <Key ID="str_a3_ta_showcase_tankdestroyers_overwiev">
             <Original>Take control of a tank destroyer and go head-to-head with enemy armor on the battlefield.</Original>
@@ -3979,12 +3979,12 @@
             <Chinese>在今日早先在%2東部半島%1奪取一處支撐點後，我方當前將堅決向南推進，向%3帕羅斯%1城進攻。
 %17%17位於%5主機場%1以東的敵之%4防線%1仍為我之主要目標。倘若我能在%6此處%1向其陣地發展，敵將被迫做出響應，將其兵力分散於兩條戰線上。
 %17%17我近距離空中支援已起到一些效用。該地區之%7雷達站%1和%8軍事基地%1已均遭摧毀-但敵之裝甲威脅依然健在，尤其在易造成高昂平民傷亡之地區之敵仍較強。
-%17%17來自%9"祖魯"%1之主戰坦克將向南，平行於%10主要高速路%1實施推進，而呼號%11"Charlie"%1和%12"揚基"%1，在來自%13"維克多"%1的一輛坦克殲擊車之支援下，將以縱隊沿左翼前進，向南穿越森林峽谷，向%15育空點%1推進，規避%18位於此處%1之混合雷場。
+%17%17來自%9"祖魯"%1之主戰坦克將向南，平行於%10主要高速路%1實施推進，而呼號%11Charlie%1和%12"揚基"%1，在來自%13"維克多"%1的一輛坦克殲擊車之支援下，將以縱隊沿左翼前進，向南穿越森林峽谷，向%15育空點%1推進，規避%18位於此處%1之混合雷場。
 %17%17一旦我方得以達成突破，全分隊將繼續向%16布拉索斯%1點推進，在此我方將準備第二階段行動。</Chinese>
             <Chinesesimp>在今日早先在%2东部半岛%1夺取一处支撑点后，我方当前将坚决向南推进，向%3帕罗斯%1城进攻。
 %17%17位于%5主机场%1以东的敌之%4防线%1仍为我之主要目标。倘若我能在%6此处%1向其阵地发展，敌将被迫做出响应，将其兵力分散于两条战线上。
 %17%17我近距离空中支援已起到一些效用。该地区之%7雷达站%1和%8军事基地%1已均遭摧毁-但敌之装甲威胁依然健在，尤其在易造成高昂平民伤亡之地区之敌仍较强。
-%17%17来自%9"祖鲁"%1之主战坦克将向南，平行于%10主要高速路%1实施推进，而呼号%11"查理"%1和%12"扬基"%1，在来自%13"维克多"%1的一辆坦克歼击车之支援下，将以纵队沿左翼前进，向南穿越森林峡谷，向%15育空点%1推进，规避%18位于此处%1之混合雷场。
+%17%17来自%9Zulu%1之主战坦克将向南，平行于%10主要高速路%1实施推进，而呼号%11Charlie%1和%12Yankee%1，在来自%13Victor%1的一辆坦克歼击车之支援下，将以纵队沿左翼前进，向南穿越森林峡谷，向%15育空点%1推进，规避%18位于此处%1之混合雷场。
 %17%17一旦我方得以达成突破，全分队将继续向%16布拉索斯%1点推进，在此我方将准备第二阶段行动。</Chinesesimp>
           </Key>
           <Key ID="str_a3_ta_showcase_tankdestroyers_titlecard">

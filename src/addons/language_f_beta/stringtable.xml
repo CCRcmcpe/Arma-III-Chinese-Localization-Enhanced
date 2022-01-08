@@ -491,7 +491,7 @@
           <Key ID="str_a3_cfgmagazines_40rnd_40mm_apfsds_tracer_red_shells0">
             <Original>40 mm APFSDS-T</Original>
             <Chinese>40公厘尾翼穩定脫殼穿甲曳光彈</Chinese>
-            <Chinesesimp>40mm 尾翼稳定脱壳穿甲曳光弹</Chinesesimp>
+            <Chinesesimp>40mm 尾稳脱穿曳光弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_150rnd_762x51_box0">
             <Original>7.62 mm 150Rnd Box</Original>
@@ -516,22 +516,22 @@
           <Key ID="str_a3_cfgmagazines_30mm_apfsd">
             <Original>30 mm APFSDS</Original>
             <Chinese>30公厘尾翼穩定脫殼穿甲彈</Chinese>
-            <Chinesesimp>30mm 尾翼稳定脱壳穿甲弹</Chinesesimp>
+            <Chinesesimp>30mm 尾稳脱穿弹</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgmagazines_40mm_apfsd">
             <Original>40 mm APFSDS</Original>
             <Chinese>40公厘尾翼穩定脫殼穿甲彈</Chinese>
-            <Chinesesimp>40mm 尾翼稳定脱壳穿甲弹</Chinesesimp>
+            <Chinesesimp>40mm 尾稳脱穿弹</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_40mmGPR">
             <Original>40 mm GPR</Original>
             <Chinese>40公厘通用圓形榴彈</Chinese>
-            <Chinesesimp>40mm 通用圆形榴弹</Chinesesimp>
+            <Chinesesimp>40mm 通用弹</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_40mmGPRT">
             <Original>40 mm GPR-T</Original>
             <Chinese>40公厘通用圓形曳光榴彈</Chinese>
-            <Chinesesimp>40mm 通用圆形曳光榴弹</Chinesesimp>
+            <Chinesesimp>40mm 通用曳光弹</Chinesesimp>
           </Key>
         </Container>
         <Container name="DescriptionShort">
@@ -595,12 +595,12 @@
           <Key ID="STR_A3_cfgmagazines_gpr">
             <Original>GPR</Original>
             <Chinese>通用圓形榴彈</Chinese>
-            <Chinesesimp>通用圆形榴弹</Chinesesimp>
+            <Chinesesimp>通用弹</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgmagazines_gprt">
             <Original>GPR-T</Original>
             <Chinese>通用圓形曳光榴彈</Chinese>
-            <Chinesesimp>通用圆形曳光榴弹</Chinesesimp>
+            <Chinesesimp>通用曳光弹</Chinesesimp>
           </Key>
         </Container>
         <Container name="Items">
@@ -1785,7 +1785,7 @@
           <Key ID="str_b_recon_jtac_f0">
             <Original>Recon JTAC</Original>
             <Chinese>偵察聯合戰術攻擊管制員</Chinese>
-            <Chinesesimp>侦察联合战术攻击管制员</Chinesesimp>
+            <Chinesesimp>侦察JTAC</Chinesesimp>
           </Key>
           <Key ID="str_b_recon_lat_f0">
             <Original>Recon Scout (AT)</Original>
@@ -1837,7 +1837,7 @@
           <Key ID="str_b_support_amg_f0">
             <Original>Asst. Gunner (HMG/GMG)</Original>
             <Chinese>助手。炮手(重機槍/榴彈機槍)</Chinese>
-            <Chinesesimp>机枪副手(重机枪/榴弹机枪)</Chinesesimp>
+            <Chinesesimp>机枪副手(重机枪/榴弹发射器)</Chinesesimp>
           </Key>
           <Key ID="str_b_support_amort_f0">
             <Original>Asst. Gunner (Mk6)</Original>
@@ -1847,7 +1847,7 @@
           <Key ID="str_b_support_gmg_f0">
             <Original>Gunner (GMG)</Original>
             <Chinese>炮手(榴彈機槍)</Chinese>
-            <Chinesesimp>机枪手(榴弹机枪)</Chinesesimp>
+            <Chinesesimp>机枪手(榴弹发射器)</Chinesesimp>
           </Key>
           <Key ID="str_b_support_mg_f0">
             <Original>Gunner (HMG)</Original>
@@ -2056,7 +2056,7 @@
         <Key ID="str_a3_cfgvehicles_mrap_03_rcws_base0">
           <Original>Strider GMG</Original>
           <Chinese>"挺進者"防地雷反伏擊車(榴彈機槍)</Chinese>
-          <Chinesesimp>"挺进者"防地雷反伏击车(榴弹机枪)</Chinesesimp>
+          <Chinesesimp>"挺进者"防地雷反伏击车(榴弹发射器)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mrap_03_base0">
           <Original>Strider</Original>
@@ -2128,7 +2128,7 @@
         <Key ID="str_a3_cfgvehicles_apc_tracked_01_base_library0">
           <Original>While both IFV-6c Panther and IFV-6a Cheetah are based on the Israeli armored personnel carrier chassis, they serve different roles in combat. The Panther is an APC that boasts strong armor to achieve maximal protection for the transported crew. The standard Panther is armed with an RCWS HMG, 40 mm GMG and smoke grenades and it can take up to 8 soldiers in its cargo area. The Cheetah is a dedicated AA vehicle. The cargo space is taken up by ammunition storage and vehicle is armed with two 35 mm autocannons, four long range surface-to-air missiles and smoke grenades. The CRV (Combat Recovery Vehicle) variant of the IFV-6 also exists and is used by BLUFOR, designation CRV-6e Bobcat.</Original>
           <Chinese>雖然IFV-6c"黑豹"和IFV-6a"獵豹"同樣都採用以色列裝甲運兵車的底盤，但它們在戰鬥中擔當的是不同的角色。"黑豹"是一種裝甲運兵車，具有厚重的裝甲，為乘員提供最大限度的防護。標準型的"黑豹"配有一個遙控重機槍炮塔，20公厘榴彈機槍和煙霧彈，其後座最多可運載8名士兵。"獵豹"則是專門的防空系統。其後座被用於存放彈藥，並配有兩座35公厘自動炮和煙霧彈，以及四枚遠程地空飛彈。此外藍方還使用的IFV-6衍生型為CRV(戰鬥搶救車)，名為CRV-6e"公貓"。</Chinese>
-          <Chinesesimp>虽然IFV-6c"黑豹"和IFV-6a"猎豹"同样都采用以色列装甲运兵车的底盘，但它们在战斗中担当的是不同的角色。"黑豹"是一种装甲运兵车，具有厚重的装甲，为乘员提供最大限度的防护。标准型的"黑豹"配有一个遥控重机枪炮塔，20mm 榴弹机枪和烟雾弹，其后座最多可运载8名士兵。"猎豹"则是专门的防空系统。其后座被用于存放弹药，并配有两座35mm 机炮和烟雾弹，以及四枚远程地空导弹。此外蓝方还使用的IFV-6衍生型为CRV(战斗抢救车)，名为CRV-6e"公猫"。</Chinesesimp>
+          <Chinesesimp>虽然IFV-6c"黑豹"和IFV-6a"猎豹"同样都采用以色列装甲运兵车的底盘，但它们在战斗中担当的是不同的角色。"黑豹"是一种装甲运兵车，具有厚重的装甲，为乘员提供最大限度的防护。标准型的"黑豹"配有一个遥控重机枪炮塔，20mm 榴弹发射器和烟雾弹，其后座最多可运载8名士兵。"猎豹"则是专门的防空系统。其后座被用于存放弹药，并配有两座35mm 机炮和烟雾弹，以及四枚远程地空导弹。此外蓝方还使用的IFV-6衍生型为CRV(战斗抢救车)，名为CRV-6e"公猫"。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_APC_Tracked_02_lib0">
           <Original>The infantry fighting vehicle BTR-K Kamysh and its anti-aircraft cousin ZSU-39 Tigris share the same vehicle platform. Developed by Russia with a pinch of undeniable inspiration from Israeli IFVs, they serve in the OPFOR army as a prime example of a leveling of the technology field with the West. The Kamysh is equipped with a CTWS turret fitted with a 30 mm cannon, coaxial machinegun and 2 guided AT missiles, making the vehicle significant in the infantry support role. The Tigris is fitted with a 35 mm autocannon and 4 Titan AA missiles.</Original>
@@ -2143,7 +2143,7 @@
         <Key ID="str_a3_CfgVehicles_apc_wheeled_02_library0">
           <Original>The MSE-3 Marid is an amphibious 6-wheeled APC used by the OPFOR army. It's an agile and maneuverable vehicle with a low silhouette and compact size. Its reliability and maintenance costs match the western APCs. It's fitted as standard with an RCWS turret with 40 mm GMG and 6.5 mm LMG and is able to carry up to 8 soldiers in the cargo space.</Original>
           <Chinese>MSE-3"馬里德"是一臺紅方的兩棲六輪裝甲運兵車。它是一輛低底盤和小尺寸的敏捷機動車。其可靠性和維護成本比得上西方的裝甲運兵車。它的標準配備是裝設有40公厘榴彈機槍和6.5公厘輕機槍的遙控砲塔。它能夠在後座搭載8名士兵。</Chinese>
-          <Chinesesimp>MSE-3"马里德"是一台红方的两栖六轮装甲运兵车。这是一种低底盘，小尺寸的敏捷型机动车辆。其可靠性和维护成本比得上西方的装甲运兵车。它的标准配备是装有40mm 榴弹机枪和6.5mm 轻机枪的遥控武器站。它能够在后座搭载8名士兵。</Chinesesimp>
+          <Chinesesimp>MSE-3"马里德"是一台红方的两栖六轮装甲运兵车。这是一种低底盘，小尺寸的敏捷型机动车辆。其可靠性和维护成本比得上西方的装甲运兵车。它的标准配备是装有40mm 榴弹发射器和6.5mm 轻机枪的遥控武器站。它能够在后座搭载8名士兵。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_truck_01_base_library0">
           <Original>The Heavy Expanded Mobility Tactical Truck is an 8x8 diesel-powered off-road truck. It serves as a standard heavy transport vehicle for BLUFOR armies. There are several versions covering the basic transport functions: cargo, refuel, medical, repair, and ammo resupply. </Original>
@@ -2168,7 +2168,7 @@
         <Key ID="str_a3_cfgvehicles_mrap_03_base_library0">
           <Original>The Strider is a medium all-terrain vehicle with amphibious capability and enhanced crew protection, designed for reconnaissance and troop transport roles. It has been adopted by most of the AAF as a replacement for older medium troop transports in the past decade. The unarmed version is fitted with an observation periscope package with thermal imaging and a laser marker.&lt;br /&gt;The armed version of the basic troop transporter is equipped with a Remotely Controlled Weapons System turret fitted with the universal 12.7 mm heavy machinegun or the multi-role 40 mm Grenade Machine Gun. Armed versions share the observation periscope used for reconnaissance missions. </Original>
           <Chinese>"挺進者"是一種全地形中型載具，其擁有兩棲作戰能力和增強的人員保護，專為偵察和運輸部隊的任務而生。在過去十年裡，它已經被阿爾蒂斯武裝力量逐漸用來替換老舊的中型運輸車。它的無武裝版本配備了一個觀察潛望鏡，其上面裝有熱成像和雷射標記器。&lt;br/&gt;而武裝過的版本則是被中立方拿來運輸部隊用，其使用遙控砲塔，並在上面裝上通用12.7公厘重機槍或多用途40公厘榴彈機槍。武裝過的版本同樣也具有觀察潛望鏡好來進行偵察任務。</Chinese>
-          <Chinesesimp>"挺进者"是一种中型全地形车辆，拥有两栖能力和增强的人员保护能力，专为侦察和运输部队的任务而生。在过去十年里，它已经被AAF逐渐用来替换老旧的中型运输车。它的无武装版本配备了一个观察潜望镜，其上面装有热成像和激光指示器。&lt;br/&gt;而武装过的版本则是被中立方用于运输部队，其安装含12.7mm 重机枪和40mm 榴弹机枪的遥控武器站。武装过的版本同样也具有观察潜望镜，也可以用来进行侦察任务。</Chinesesimp>
+          <Chinesesimp>"挺进者"是一种中型全地形车辆，拥有两栖能力和增强的人员保护能力，专为侦察和运输部队的任务而生。在过去十年里，它已经被AAF逐渐用来替换老旧的中型运输车。它的无武装版本配备了一个观察潜望镜，其上面装有热成像和激光指示器。&lt;br/&gt;而武装过的版本则是被中立方用于运输部队，其安装含12.7mm 重机枪和40mm 榴弹发射器的遥控武器站。武装过的版本同样也具有观察潜望镜，也可以用来进行侦察任务。</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -2495,12 +2495,12 @@
         <Key ID="str_a3_cfgvehicles_modulesimulationmanager_f_moduledescription_0">
           <Original>Keep all AI units disabled until someone from the player's group gets near.</Original>
           <Chinese>讓範圍內的所有AI單位都停止運算(節省系統效能)，直到有玩家靠近才會重新啟動。</Chinese>
-          <Chinesesimp>让范围内的所有AI单位都停止运算(节省系统效能)，直到有玩家靠近才会重新启动。</Chinesesimp>
+          <Chinesesimp>让范围内的所有AI单位都停止模拟(节省系统效能)，直到有玩家靠近才会重新启动。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleshowhide_f_moduledescription_0">
           <Original>Show/hide synced objects. They will become invisible and their simulation will be disabled.</Original>
           <Chinese>顯示/隱藏被同步的物件。他們將變成隱形狀態，並且停止運算(節省系統效能)。</Chinese>
-          <Chinesesimp>显示/隐藏被同步的物件。他们将变成隐形状态，并且停止运算(节省系统效能)。</Chinesesimp>
+          <Chinesesimp>显示/隐藏被同步的物件。他们将变成隐形状态，并且停止模拟(节省系统效能)。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleshowhide_f_arguments_state_values_show_0">
           <Original>Show units</Original>

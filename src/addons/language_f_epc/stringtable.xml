@@ -192,7 +192,7 @@
       <Key ID="str_a3_cfgmagazines_40rnd_105mm_apfsds_t0">
         <Original>105mm APFSDS-T</Original>
         <Chinese>105公厘尾翼穩定脫殼穿甲曳光彈</Chinese>
-        <Chinesesimp>105mm 尾翼稳定脱壳穿甲曳光弹</Chinesesimp>
+        <Chinesesimp>105mm 尾稳脱穿曳光弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_bomb_03_f0">
         <Original>LOM-250G</Original>
@@ -202,7 +202,7 @@
       <Key ID="str_a3_cfgmagazines_40rnd_105mm_apfsds0">
         <Original>105mm APFSDS</Original>
         <Chinese>105公厘尾翼穩定脫殼穿甲彈</Chinese>
-        <Chinesesimp>105mm 尾翼稳定脱壳穿甲弹</Chinesesimp>
+        <Chinesesimp>105mm 尾稳脱穿弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cannon_105mm0">
         <Original>Cannon 105 mm</Original>
@@ -222,7 +222,7 @@
       <Key ID="STR_A3_CfgMagazines_24nd_125mm_APFSDS_T0">
         <Original>125mm APFSDS-T</Original>
         <Chinese>125公厘尾翼穩定脫殼穿甲曳光彈</Chinese>
-        <Chinesesimp>125mm 尾翼稳定脱壳穿甲曳光弹</Chinesesimp>
+        <Chinesesimp>125mm 尾稳脱穿曳光弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgmagazines_heat_mp0">
         <Original>HEAT-MP</Original>

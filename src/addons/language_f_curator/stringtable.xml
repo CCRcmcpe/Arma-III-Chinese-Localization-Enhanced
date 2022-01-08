@@ -1041,7 +1041,7 @@
         <Key ID="str_a3_cfgcuratorchallenges_spawnlightning">
           <Original>... see a lightning bolt</Original>
           <Chinese>...見到閃電火</Chinese>
-          <Chinesesimp>...见到闪电火</Chinesesimp>
+          <Chinesesimp>...见到闪电</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgcuratorchallenges_illuminate">
           <Original>... see a flare</Original>
@@ -2276,7 +2276,7 @@
           <Key ID="str_a3_cfgtaskdescriptions_lightning_description">
             <Original>Place the 'Zeus Lightning Bolt' module on the helicopter</Original>
             <Chinese>放置'宙斯閃電火'模塊在直升機上</Chinese>
-            <Chinesesimp>放置'宙斯闪电火'模块在直升机上</Chinesesimp>
+            <Chinesesimp>放置'宙斯闪电'模块在直升机上</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgtaskdescriptions_lightning">
             <Original>Strike the helicopter</Original>
@@ -3051,7 +3051,7 @@
         <Key ID="str_a3_cfgvehicles_modulecas_f_arguments_type_values_missiles">
           <Original>CAS - Missile Strike</Original>
           <Chinese>密接空中支援-飛彈攻擊</Chinese>
-          <Chinesesimp>密接空中支援-飞弹攻击</Chinesesimp>
+          <Chinesesimp>密接空中支援-导弹攻击</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecas_f_arguments_type_values_gunmissiles">
           <Original>CAS - Gun and Missiles</Original>
@@ -3962,7 +3962,7 @@
         <Key ID="str_a3_cfgvehicles_modulelightning_f">
           <Original>Zeus Lightning Bolt</Original>
           <Chinese>宙斯閃電火</Chinese>
-          <Chinesesimp>宙斯闪电火</Chinesesimp>
+          <Chinesesimp>宙斯闪电</Chinesesimp>
         </Key>
       </Container>
       <Container name="Intel">

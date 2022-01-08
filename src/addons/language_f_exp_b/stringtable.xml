@@ -112,7 +112,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expb_pard_footer2">
         <Original>Regardless of how you play Arma 3, we hope you will enjoy this update and that you will join us on the road to the &lt;a href='%2' color='%1'&gt;Apex expansion&lt;/a&gt;!</Original>
         <Chinese>無論你怎樣遊玩武裝突襲3，我們都希望你能一起加入我們前往&lt;ahref='%2'color='%1'&gt;頂尖資料片&lt;/a&gt;的旅程!</Chinese>
-        <Chinesesimp>无论你怎样游玩武装突袭3，我们都希望你能一起加入我们前往&lt;ahref='%2'color='%1'&gt;顶尖资料片&lt;/a&gt;的旅程!</Chinesesimp>
+        <Chinesesimp>无论你怎样游玩武装突袭3，我们都希望你能一起加入我们前往&lt;ahref='%2'color='%1'&gt;Apex DLC&lt;/a&gt;的旅程!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expb_pard">
         <Original>More improvements aim to make the platform more solid and future-proof:</Original>
@@ -212,7 +212,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expb_parc">
         <Original>The old scenario editor excelled in its game integration and ease-of-use, yet it allowed designers to create complex modes as well. Eden Editor represents a massive leap forward. Both editors will be available until the platform update coinciding with the Apex expansion is released. We recommend you try the in-editor tutorials for a quick look at the basics.</Original>
         <Chinese>舊的編輯器其簡單好用的特性，為社群創造了不少的任務，但仍然有些功能上的不足。而伊甸編輯器正是為了補齊這些功能而來，它將編輯功能帶到了一個新的境界。直到頂尖資料片上市前，兩個新舊編輯器都將同時保留。我們建議你盡快透過新編輯器中的教學文件來學習新編輯器的用法。</Chinese>
-        <Chinesesimp>旧的编辑器其简单好用的特性，为社区创造了不少的任务，但仍然有些功能上的不足。而伊甸编辑器正是为了补齐这些功能而来，它将编辑功能带到了一个新的境界。直到顶尖资料片上市前，两个新旧编辑器都将同时保留。我们建议你尽快通过新编辑器中的教学文件来学习新编辑器的用法。</Chinesesimp>
+        <Chinesesimp>旧的编辑器其简单好用的特性，为社区创造了不少的任务，但仍然有些功能上的不足。而伊甸编辑器正是为了补齐这些功能而来，它将编辑功能带到了一个新的境界。直到Apex DLC上市前，两个新旧编辑器都将同时保留。我们建议你尽快通过新编辑器中的教学文件来学习新编辑器的用法。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expb_parb_title">
         <Original>EDEN UPDATE</Original>

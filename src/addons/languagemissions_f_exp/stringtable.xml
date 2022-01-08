@@ -1683,7 +1683,7 @@
           <Key ID="str_a3_exp_m05_missionname">
             <Original>05 Extraction</Original>
             <Chinese>05撤離</Chinese>
-            <Chinesesimp>05撤离</Chinesesimp>
+            <Chinesesimp>05 撤离</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m05_mission">
             <Original>Assist %2Raider 1%1 with escorting %2Keystone%1 off the island.</Original>
@@ -2635,7 +2635,7 @@
           <Key ID="str_a3_exp_m06_missionname">
             <Original>06 Apex Protocol</Original>
             <Chinese>06頂尖協議</Chinese>
-            <Chinesesimp>06顶尖协议</Chinesesimp>
+            <Chinesesimp>06 Apex 协议</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m06_mission">
             <Original>%1You%2 will %3insert%2 on %4Sosovu Island%2 and, with the assistance of Captain Miller, remove all enemy forces from its shores before proceeding to locate Viper's base of operations. The objective is the safe extraction of the Eastwind Device.&lt;br /&gt;&lt;br /&gt;%5Raider 1%2 will clear %6Yasa Island%2, concentrating on the %7enemy mortar%2 position. Once their objectives have been met, they will assist you with the capture of %4Sosovu Island%2.</Original>
@@ -2705,7 +2705,7 @@
           <Key ID="str_a3_exp_m06_missiontitle">
             <Original>Apex Protocol</Original>
             <Chinese>頂尖協議</Chinese>
-            <Chinesesimp>顶尖协议</Chinesesimp>
+            <Chinesesimp>Apex协议</Chinesesimp>
           </Key>
           <Container name="x20_Drone_Info" audioFilePath="\a3\dubbing_f_exp\exp_m06" dialogName="x20_Drone_Info" dubbingLanguage="english" namePrefix="exp_m06_x20_drone_info" note="" participants="EXC B Miller;" situation="miller still relays the information about the drones">
             <Key ID="str_a3_exp_m06_x20_drone_info_mil_0">
@@ -3422,7 +3422,7 @@
           <Key ID="str_a3_exp_m03_missionname">
             <Original>03 Firestarter</Original>
             <Chinese>03縱火者</Chinese>
-            <Chinesesimp>03纵火者</Chinesesimp>
+            <Chinesesimp>03 纵火者</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m03_debriefing_2_description">
             <Original>You successfully destroyed all of Syndikat's supply stockpiles. This will definitely bring Warlock out of hiding.</Original>
@@ -4164,7 +4164,7 @@
           <Key ID="str_a3_exp_m02_missionname">
             <Original>02 Warm Welcome</Original>
             <Chinese>02熱烈歡迎</Chinese>
-            <Chinesesimp>02热烈欢迎</Chinesesimp>
+            <Chinesesimp>02 热烈欢迎</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m02_debriefing_description">
             <Original>The convoy was destroyed and Syndikat's anti-air weaponry was disposed of. We have to figure out how CSAT weapons are making their way into Syndikat hands.</Original>
@@ -5127,7 +5127,7 @@
           <Key ID="str_a3_exp_m04_missionname">
             <Original>04 Heart of Darkness</Original>
             <Chinese>04黑暗之心</Chinese>
-            <Chinesesimp>04黑暗之心</Chinesesimp>
+            <Chinesesimp>04 黑暗之心</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m04_mission">
             <Original>You will be inserted at %1an LZ%2 south of %3the target area%2. Raider 1 will insert %4to the north-west%2 and establish %5a blocking position%2 along the north-east road.&lt;br /&gt;&lt;br /&gt;You are to move on %6the target building%2 and capture Warlock. Once he is in custody, you are to proceed to %7the primary exfil point%2 and await extraction.</Original>
@@ -5930,7 +5930,7 @@
           <Key ID="str_a3_exp_m07_missionname">
             <Original>07 End Game</Original>
             <Chinese>07終結之戰</Chinese>
-            <Chinesesimp>07终结之战</Chinesesimp>
+            <Chinesesimp>07 终结之战</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m07_mission">
             <Original>You will be inserted %4here%3, south of the Blue Pearl Industrial Port.&lt;br /&gt;&lt;br /&gt;%6Captain Miller%5 will infiltrate the facility and disable its primary power supply. At the same time, %2Raider 1%1 will hit the main power thruway ensuring the facility's multiple electricity fail-safes do not kick in.&lt;br /&gt;&lt;br /&gt;Under the cover of darkness, you are to make your way through the port, intercept Warlock, secure the disarm codes and take the Eastwind Device offline. %2Raider 1%1 and %6Captain Miller%5 will assist you once their primary objectives have been met.</Original>
@@ -5985,7 +5985,7 @@
           <Key ID="str_a3_exp_m07_end01">
             <Original>As a direct result of the extensive efforts of CTRG, CSAT's Apex Protocol was exposed to the world. With the fragile alliance now on the brink of collapse, the world is slowly returning to the status quo.</Original>
             <Chinese>由於戰研小組的努力不懈，使得廣協同盟的頂尖協議被公諸於世。在這個脆弱的組織走向滅亡之際，世界也終於重新走向和平。</Chinese>
-            <Chinesesimp>由于战研大队的努力不懈，使得广协的顶尖协议被公诸于世。在这个脆弱的组织走向灭亡之际，世界也终于重新走向和平。</Chinesesimp>
+            <Chinesesimp>由于战研大队的努力不懈，使得广协的Apex协议被公诸于世。在这个脆弱的组织走向灭亡之际，世界也终于重新走向和平。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m07_callsignwatchtower">
             <Original>Watchtower</Original>
@@ -6297,7 +6297,7 @@
             <Key ID="str_a3_exp_m07_o01_apexsoundbite_revelation_aan_1">
               <Original>Documents seen by AAN investigative journalists - the so-called 'Apex Protocol Papers' - have exposed a global network of illegal CSAT operations.</Original>
               <Chinese>AAN的調查記者看到了一份文件-一份叫做'頂尖協議書'的文件-披露了廣協同盟在世界上各種違法的行動。</Chinese>
-              <Chinesesimp>AAN的调查记者看到了一份文件-一份叫做'顶尖协议'的文件-披露了广协的全球非法活动网络。</Chinesesimp>
+              <Chinesesimp>AAN的调查记者看到了一份文件-一份叫做'Apex协议'的文件-披露了广协的全球非法活动网络。</Chinesesimp>
             </Key>
           </Container>
           <Container name="b30_SilentStrike" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="b30_SilentStrike" dubbingLanguage="english" namePrefix="exp_m07_b30_silentstrike" note="" participants="EXC B CTRG Commander;EXC B SOF Liaison;EXC B Miller MIL;" situation="commander reveals syndikat plan">
@@ -6496,7 +6496,7 @@
             <Key ID="str_a3_exp_m07_b05_basilexposition_com_2">
               <Original>This strategy - the so-called 'Apex Protocol' - it's a pretext for CSAT diplomats, special advisors - even peacekeeping forces - to deploy.</Original>
               <Chinese>這個戰略-他們稱之為'頂尖協議'-用來當作所有外交官，特別顧問-甚至是維和部隊的佈署藉口。</Chinese>
-              <Chinesesimp>这个战略-他们称之为'顶尖协议'-用来当作所有外交官，特别顾问-甚至是维和部队的布署借口。</Chinesesimp>
+              <Chinesesimp>这个战略-他们称之为'Apex协议'-用来当作所有外交官，特别顾问-甚至是维和部队的布署借口。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_b05_basilexposition_com_3">
               <Original>Correct. Grooming a network of pro-CSAT governments.</Original>
@@ -7177,7 +7177,7 @@
           <Key ID="str_a3_exp_m01_missionname">
             <Original>01 Keystone</Original>
             <Chinese>01"拱心石"</Chinese>
-            <Chinesesimp>01"拱心石"</Chinesesimp>
+            <Chinesesimp>01 Keystone</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m01_mission">
             <Original>Insertion will be via rubber assault boats.&lt;br /&gt;&lt;br /&gt;%2Raider 1%1 will insert west of the %3target location%1. %4Raider 2%1, your team, will be inserted to the north-west.&lt;br /&gt;&lt;br /&gt;From there, you are to sweep and clear all target locations with the assistance of Raider 1. Extraction will be made available upon the successful acquisition of Keystone.</Original>
@@ -7242,7 +7242,7 @@
           <Key ID="STR_A3_exp_m01_APEXSubtitle">
             <Original>A P E X</Original>
             <Chinese>頂尖</Chinese>
-            <Chinesesimp>顶尖</Chinesesimp>
+            <Chinesesimp>Apex</Chinesesimp>
           </Key>
           <Container name="x00_Orders" audioFilePath="\a3\dubbing_f_exp\exp_m01" dialogName="x00_Orders" dubbingLanguage="english" namePrefix="exp_m01_x00_orders" note="" participants="EXC B Riker;" situation="if the players go the wrong way at the start">
             <Key ID="str_a3_exp_m01_x00_orders_rik_0">
@@ -8565,12 +8565,12 @@
       <Key ID="STR_A3_CoopCampaignName">
         <Original>Apex Protocol</Original>
         <Chinese>頂尖協議</Chinese>
-        <Chinesesimp>顶尖协议</Chinesesimp>
+        <Chinesesimp>Apex协议</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CoopCampaignOverview">
         <Original>Take on the role of a NATO CTRG special operator in the 1-4 player "Apex Protocol" co-op campaign. It consists of highly replayable missions, featuring a drop-in / drop-out multiplayer structure, and the difficulty scales up or down based on the number of players.</Original>
         <Chinese>為您帶來全新的1-4人"頂尖協議"合作戰役，你將擔當北約的戰研小組特種部隊的一員。這系列任務具有高度重玩性，中途加入/離開的多人遊戲架構，以及隨著參與人數而自動調整難易度的系統。</Chinese>
-        <Chinesesimp>为您带来全新的1-4人"顶尖协议"合作战役，你将担当北约的战研大队特种部队的一员。这系列任务具有高度重玩性，中途加入/离开的多人游戏架构，以及随着参与人数而自动调整难易度的系统。</Chinesesimp>
+        <Chinesesimp>为您带来全新的1-4人"Apex协议"合作战役，你将担当北约的战研大队特种部队的一员。这系列任务具有高度重玩性，中途加入/离开的多人游戏架构，以及随着参与人数而自动调整难易度的系统。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_exp_briefing_CTRGVideo">
         <Original>CTRG // VIDEO /</Original>

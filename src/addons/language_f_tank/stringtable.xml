@@ -736,7 +736,7 @@
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list13">
         <Original>listen to new music tracks composed specifically for this DLC.</Original>
         <Chinese>聆聽為這個資料片所編寫的新音樂曲目。</Chinese>
-        <Chinesesimp>聆听为这个资料片所编写的新音乐曲目。</Chinesesimp>
+        <Chinesesimp>聆听为这个DLC所编写的新音乐曲目。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list12_title">
         <Original>Decorative Objects</Original>
@@ -841,7 +841,7 @@
       <Key ID="str_a3_rscdisplaywelcome_tank_parc">
         <Original>We're excited to once again bring a significant range of &lt;t color='%1'&gt;free new features&lt;/t&gt; to every Arma 3 player. Befitting the DLC theme, we've focused on an &lt;t color='%1'&gt;enhanced armored vehicle experience&lt;/t&gt; for all relevant vehicles in the game (existing and new). These sandbox improvements have been on many wishlists for a long time and now they are finally here!</Original>
         <Chinese>我們激動地再次為全體武裝突襲3玩家提供了一系列&lt;tcolor='%1'&gt;免費的新特性&lt;/t&gt;。基於這個資料片的主基調，我們將重心傾注在對遊戲內所有相關車輛(現存的或者新加入的)的&lt;tcolor='%1'&gt;增強的裝甲車輛體驗&lt;/t&gt;上。這些對沙盒的改進在長久以來一直被眾聲呼籲，現在他們終於實現了!</Chinese>
-        <Chinesesimp>我们激动地再次为全体武装突袭3玩家提供了一系列&lt;tcolor='%1'&gt;免费的新特性&lt;/t&gt;。基于这个资料片的主基调，我们将重心倾注在对游戏内所有相关车辆(现存的或者新加入的)的&lt;tcolor='%1'&gt;增强的装甲车辆体验&lt;/t&gt;上。这些对沙盒的改进在长久以来一直被众声呼吁，现在它们终于实现了!</Chinesesimp>
+        <Chinesesimp>我们激动地再次为全体武装突袭3玩家提供了一系列&lt;tcolor='%1'&gt;免费的新特性&lt;/t&gt;。基于这个DLC的主基调，我们将重心倾注在对游戏内所有相关车辆(现存的或者新加入的)的&lt;tcolor='%1'&gt;增强的装甲车辆体验&lt;/t&gt;上。这些对沙盒的改进在长久以来一直被众声呼吁，现在它们终于实现了!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_parb_footer">
         <Original>More about Arma 3 Tanks</Original>
@@ -851,12 +851,12 @@
       <Key ID="str_a3_rscdisplaywelcome_tank_parb">
         <Original>Just like every DLC before it, Arma 3 Tanks follows our well-established &lt;a href='%3' color='%2'&gt;DLC strategy&lt;/a&gt;. Part of this approach is a collection of premium content for owners. They will find unrestricted access to &lt;t color='%1'&gt;3 brand-new armored vehicles&lt;/t&gt;: the T-140 Angara Main Battle Tank, the Nyx Armored Weapons Carrier, and the Rhino MGS Tank Destroyer (all with multiple variants). They were designed to complement the existing factions, where each plays a specific role in the intricate armored warfare spectrum. Get to know these very different vehicles and their unique capabilities while playing the &lt;t color='%1'&gt;"Altis Requiem" mini-campaign&lt;/t&gt; and &lt;t color='%1'&gt;Showcase Tank Destroyers&lt;/t&gt;. Not an owner yet, but curious to try the premium vehicles? Boot up Virtual Garage mode to go hands-on without restriction.</Original>
         <Chinese>就像之前的所有資料片一樣，武裝突襲3:坦克採用我們此前已經制定的&lt;ahref='%3'color='%2'&gt;資料片政策&lt;/a&gt;。其中的一部分是為付費用戶提供專屬內容。他們將不受限制地使用&lt;tcolor='%1'&gt;3類全新的裝甲車輛&lt;/t&gt;:T-140"安加拉"主戰坦克，"夜神"裝甲武器載車，以及"犀牛"坦克殲擊車(每一類都有多種變型車)。他們被設計分配給現存的各個派系，每個都在裝甲戰的光譜中扮演一個不可或缺的地位。通過遊玩&lt;tcolor='%1'&gt;"阿爾蒂斯安魂曲"迷你戰役&lt;/t&gt;和&lt;tcolor='%1'&gt;坦克殲擊車演示任務&lt;/t&gt;來瞭解這些車輛和他們的獨特能力。如果你沒有購買，但又想試試這些付費車輛?在虛擬軍械庫裡可以不受限制地上手操作他們。</Chinese>
-        <Chinesesimp>就像之前的所有资料片一样，武装突袭3:坦克采用我们此前已经制定的&lt;ahref='%3'color='%2'&gt;資料片政策&lt;/a&gt;。其中的一部分是为付费用户提供专属内容。他们将不受限制地使用&lt;tcolor='%1'&gt;3类全新的装甲车辆&lt;/t&gt;:T-140"安加拉"主战坦克，"夜神"装甲武器载车，以及"犀牛"坦克歼击车(每一类都有多种变型车)。他们被设计分配给现存的各个派系，每个都在装甲战的光谱中扮演一个不可或缺的地位。通过游玩&lt;tcolor='%1'&gt;"阿尔蒂斯安魂曲"迷你战役&lt;/t&gt;和&lt;tcolor='%1'&gt;坦克歼击车演示任务&lt;/t&gt;来了解这些车辆和他们的独特能力。如果你没有购买，但又想试试这些付费车辆?在虚拟军械库里可以不受限制地上手操作他们。</Chinesesimp>
+        <Chinesesimp>就像之前的所有DLC一样，武装突袭3:坦克采用我们此前已经制定的&lt;ahref='%3'color='%2'&gt;資料片政策&lt;/a&gt;。其中的一部分是为付费用户提供专属内容。他们将不受限制地使用&lt;tcolor='%1'&gt;3类全新的装甲车辆&lt;/t&gt;:T-140"安加拉"主战坦克，"夜神"装甲武器载车，以及"犀牛"坦克歼击车(每一类都有多种变型车)。他们被设计分配给现存的各个派系，每个都在装甲战的光谱中扮演一个不可或缺的地位。通过游玩&lt;tcolor='%1'&gt;"阿尔蒂斯安魂曲"迷你战役&lt;/t&gt;和&lt;tcolor='%1'&gt;坦克歼击车演示任务&lt;/t&gt;来了解这些车辆和他们的独特能力。如果你没有购买，但又想试试这些付费车辆?在虚拟军械库里可以不受限制地上手操作他们。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_para">
         <Original>Roll in heavy firepower and take control of the battlefield with three brand new armored vehicles in the &lt;t color='%1'&gt;Arma 3 Tanks&lt;/t&gt; DLC. Read on for a peak under the hood of these metal beasts now available to the DLC owners, and to check what impressive additions and tweaks have been included within the associated platform update for each and every player. When you're done here, head on over to the in-game motor pool and start revving some engines!</Original>
         <Chinese>在&lt;tcolor='%1'&gt;武裝突襲3:坦克&lt;/t&gt;資料片中使用三種全新的裝甲車輛駕馭重型火力並控制戰場。看看這些鋼鐵猛獸內部的樣子，並查看為每個玩家提供的相關平臺升級內容都有什麼。在你完成之後，前往遊戲內部的車場開個痛快吧!</Chinese>
-        <Chinesesimp>在&lt;tcolor='%1'&gt;武装突袭3:坦克&lt;/t&gt;资料片中使用三种全新的装甲车辆驾驭重型火力并控制战场。看看这些钢铁猛兽内部的样子，并查看为每个玩家提供的相关平台升级内容都有什么。在你完成之后，前往游戏内部的车场开个痛快吧!</Chinesesimp>
+        <Chinesesimp>在&lt;tcolor='%1'&gt;武装突袭3:坦克&lt;/t&gt;DLC中使用三种全新的装甲车辆驾驭重型火力并控制战场。看看这些钢铁猛兽内部的样子，并查看为每个玩家提供的相关平台升级内容都有什么。在你完成之后，前往游戏内部的车场开个痛快吧!</Chinesesimp>
       </Key>
     </Container>
     <Container name="FieldManual">
@@ -1003,7 +1003,7 @@
       <Key ID="str_a3_tank_cfgmods_namedlc">
         <Original>Tanks DLC</Original>
         <Chinese>坦克資料片</Chinese>
-        <Chinesesimp>坦克资料片</Chinesesimp>
+        <Chinesesimp>坦克DLC</Chinesesimp>
       </Key>
     </Container>
     <Container name="UI_F">
@@ -1117,7 +1117,7 @@
       <Key ID="str_a3_ta_achtankeasymoney_description">
         <Original>Destroyed more tanks than Zulu in Showcase Tank Destroyers.</Original>
         <Chinese>在坦克殲擊車演示任務中摧毀比"祖魯"更多的坦克。</Chinese>
-        <Chinesesimp>在坦克歼击车演示任务中摧毁比"祖鲁"更多的坦克。</Chinesesimp>
+        <Chinesesimp>在坦克歼击车演示任务中摧毁比Zulu更多的坦克。</Chinesesimp>
       </Key>
       <Key ID="str_a3_ta_achtankdeathabove_title">
         <Original>Death From Above</Original>
@@ -1291,79 +1291,79 @@
       <Key ID="str_a3_cfgmods_tank_tooltip0">
         <Original>Arma 3 Tanks DLC now available. Click to purchase</Original>
         <Chinese>武裝突襲3:坦克資料片現在可用。點擊購買</Chinese>
-        <Chinesesimp>武装突袭3:坦克资料片现在可用。点击购买</Chinesesimp>
+        <Chinesesimp>武装突袭3:坦克DLC现在可用。点击购买</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_tank_itemprevnotiftext0">
         <Original>This item is part of Tanks DLC. Please purchase the DLC to use it.</Original>
         <Chinese>該項目是武裝突襲3:坦克資料片的一部分。請購買該資料片以使用它。</Chinese>
-        <Chinesesimp>该项目是武装突袭3:坦克资料片的一部分。请购买该资料片以使用它。</Chinesesimp>
+        <Chinesesimp>该项目是武装突袭3:坦克DLC的一部分。请购买该DLC以使用它。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_tank_overview0">
         <Original>Roll in heavy firepower and take control of the battlefield with three brand new armored vehicles in the Arma 3 Tanks DLC.</Original>
         <Chinese>在武裝突襲3:坦克資料片中使用三種全新的裝甲車輛駕馭重型火力並控制戰場。</Chinese>
-        <Chinesesimp>在武装突袭3:坦克资料片中使用三种全新的装甲车辆驾驭重型火力并控制战场。</Chinesesimp>
+        <Chinesesimp>在武装突袭3:坦克DLC中使用三种全新的装甲车辆驾驭重型火力并控制战场。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_tank_overviewfootnote0">
         <Original>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;This content is exclusive to Arma 3 Tanks DLC.&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;Left Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; to open the store page for more information.&lt;t /&gt;</Original>
         <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;該內容專屬於武裝突襲3:坦克資料片。&lt;br/&gt;按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;LeftShift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打開商店頁面查找更多信息。&lt;t/&gt;</Chinese>
-        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;该内容专属于武装突袭3:坦克资料片。&lt;br/&gt;按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;LeftShift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打开商店页面查找更多信息。&lt;t/&gt;</Chinesesimp>
+        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;该内容专属于武装突袭3:坦克DLC。&lt;br/&gt;按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;LeftShift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打开商店页面查找更多信息。&lt;t/&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_tank_vehprevmsgtext0">
         <Original>This vehicle is part of Tanks DLC. Please purchase the DLC to enter as crew.</Original>
         <Chinese>該車輛是坦克資料片的一部分。請購買該資料片以作為乘員進入。</Chinese>
-        <Chinesesimp>该车辆是坦克资料片的一部分。请购买该资料片以作为乘员进入。</Chinesesimp>
+        <Chinesesimp>该车辆是坦克DLC的一部分。请购买该DLC以作为乘员进入。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_tank_popupmsgtext0">
         <Original>You are using premium content. Please purchase Tanks DLC to remove these messages.</Original>
         <Chinese>你在使用專屬內容。請購買坦克資料片以消除這些信息。</Chinese>
-        <Chinesesimp>你在使用专属内容。请购买坦克资料片以消除这些信息。</Chinesesimp>
+        <Chinesesimp>你在使用专属内容。请购买坦克DLC以消除这些信息。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_tank_weaponprevnotiftext0">
         <Original>This weapon is part of Tanks DLC. Please purchase the DLC to use it.</Original>
         <Chinese>該武器是坦克資料片的一部分。請購買該資料片以使用它。</Chinese>
-        <Chinesesimp>该武器是坦克资料片的一部分。请购买该资料片以使用它。</Chinesesimp>
+        <Chinesesimp>该武器是坦克DLC的一部分。请购买该DLC以使用它。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Music_F">
       <Key ID="str_a3_cfgmusic_maintheme_f_tank">
         <Original>Tanks DLC: This is War (Tanks DLC version)</Original>
         <Chinese>坦克資料片:這是戰爭(坦克資料片版)</Chinese>
-        <Chinesesimp>坦克资料片:这是战争(坦克资料片版)</Chinesesimp>
+        <Chinesesimp>坦克DLC:这是战争(坦克DLC版)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_leadtrack06_f_tank">
         <Original>Tanks DLC: Iron Gods</Original>
         <Chinese>坦克資料片:鋼鐵之神</Chinese>
-        <Chinesesimp>坦克资料片:钢铁之神</Chinesesimp>
+        <Chinesesimp>坦克DLC:钢铁之神</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_leadtrack05_f_tank">
         <Original>Tanks DLC: Wrath of the Giants</Original>
         <Chinese>坦克資料片:巨人之怒</Chinese>
-        <Chinesesimp>坦克资料片:巨人之怒</Chinesesimp>
+        <Chinesesimp>坦克DLC:巨人之怒</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_leadtrack04_f_tank">
         <Original>Tanks DLC: Good Neighbors</Original>
         <Chinese>坦克資料片:友好鄰居</Chinese>
-        <Chinesesimp>坦克资料片:友好邻居</Chinesesimp>
+        <Chinesesimp>坦克DLC:友好邻居</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_leadtrack03_f_tank">
         <Original>Tanks DLC: Way Back</Original>
         <Chinese>坦克資料片:歸來</Chinese>
-        <Chinesesimp>坦克资料片:归来</Chinesesimp>
+        <Chinesesimp>坦克DLC:归来</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_leadtrack02_f_tank">
         <Original>Tanks DLC: Last Stand</Original>
         <Chinese>坦克資料片:最後一站</Chinese>
-        <Chinesesimp>坦克资料片:最后一站</Chinesesimp>
+        <Chinesesimp>坦克DLC:最后一站</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_leadtrack01_f_tank">
         <Original>Tanks DLC: Fight for the City</Original>
         <Chinese>坦克資料片:奪取城市</Chinese>
-        <Chinesesimp>坦克资料片:夺取城市</Chinesesimp>
+        <Chinesesimp>坦克DLC:夺取城市</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_ambienttrack01_f_tank">
         <Original>Tanks DLC: Hidden Enemy</Original>
         <Chinese>坦克資料片:隱匿之敵</Chinese>
-        <Chinesesimp>坦克资料片:隐匿之敌</Chinesesimp>
+        <Chinesesimp>坦克DLC:隐匿之敌</Chinesesimp>
       </Key>
     </Container>
   </Package>

@@ -342,7 +342,7 @@
       <Key ID="STR_A3_CloseInventory3_sub">
         <Original>Your inventory will be closed automatically if the source moves away, be it a vehicle or a soldier with a backpack.</Original>
         <Chinese>當你在察看的裝備欄位移動走時(像是士兵的背包，車輛的貨櫃)，你的裝備欄位視窗會自動關閉。</Chinese>
-        <Chinesesimp>当你在查看的装备栏位移动时(像是士兵的背包，车辆的货柜)，你的装备栏位视窗会自动关闭。</Chinesesimp>
+        <Chinesesimp>当你在查看的装备栏位移动时(像是士兵的背包，车辆的货柜)，你的装备栏位窗口会自动关闭。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_EnteringVehicle1_sub">
         <Original>Entering a Vehicle</Original>
@@ -1283,7 +1283,7 @@
         <Key ID="str_a3_commguide_zeus_title">
           <Original>Zeus DLC</Original>
           <Chinese>宙斯資料片</Chinese>
-          <Chinesesimp>宙斯资料片</Chinesesimp>
+          <Chinesesimp>宙斯DLC</Chinesesimp>
         </Key>
         <Key ID="str_a3_commguide_guerrillawarfare_overview">
           <Original>Delve into guerrilla tactics and examine the concept of asymmetrical warfare.</Original>

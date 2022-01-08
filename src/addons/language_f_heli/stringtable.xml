@@ -355,12 +355,12 @@
       <Key ID="str_a3_cfghints_premiumcontent_premiumheli1">
         <Original>Start the engines! Jump into new cargo helicopters and master a new sling loading feature to gain an advantage on the battlefield in the Arma 3 Helicopters DLC.%1&lt;img size='9' shadow='0' image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa' /&gt;%1%2CH-67 Huron - NATO's twin-engine, tandem rotor heavy-lift helicopter%1%2Mi-290 Taru - CSAT heavy utility helicopter using a coaxial rotor design%1%2M-900 - Civilian variant of the existing H-9 family of helicopters%1%2Sling Loading Objects%1%2Helicopter Objects%1%2F.O.B. Objects%1%2Support Multiplayer - a new mode in which battlefield logistics play a major role%1%2&lt;t&gt;&lt;/t&gt;4 VR Helicopter Training Course%1%2Showcase Sling Loading%1%2&lt;t&gt;&lt;/t&gt;5 Singleplayer Time Trial Challenges%1%2Set of extra Steam Achievements</Original>
         <Chinese>啟動引擎!駕駛新的運輸直升機，投入武裝突襲3戰場中體驗新的吊掛系統，一切盡在直升機資料片中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67"休倫"-北約的雙引擎，綜列式旋翼，重型吊掛直升機。%1%2米-290"塔魯"-廣協同盟的重型多用途直升機，使用同軸式旋翼設計%1%2M-900-現有的H-9系列的民用版本%1%2吊掛物件%1%2直升機物件%1%2前線作戰基地物件%1%2多人支援任務-一個新的多人遊戲模式，你將在這邊體驗到支援的樂趣%1%2&lt;t&gt;&lt;/t&gt;4虛擬直升機訓練課程%1%2吊掛任務展示%1%2&lt;t&gt;&lt;/t&gt;5個單人計時挑戰賽%1%2一組額外的Steam成就</Chinese>
-        <Chinesesimp>启动引擎!驾驶新的运输直升机，投入武装突袭3战场中体验新的吊挂系统，一切尽在直升机资料片中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67"休伦"-北约的双引擎，综列式旋翼，重型吊挂直升机。%1%2米-290"塔鲁"-广协的重型多用途直升机，使用同轴式旋翼设计%1%2M-900-现有的H-9系列的民用版本%1%2吊挂物件%1%2直升机物件%1%2前线作战基地物件%1%2多人支援任务-一个新的多人游戏模式，你将在这边体验到支援的乐趣%1%2&lt;t&gt;&lt;/t&gt;4虚拟直升机训练课程%1%2吊挂任务展示%1%2&lt;t&gt;&lt;/t&gt;5个单人计时挑战赛%1%2一组额外的Steam成就</Chinesesimp>
+        <Chinesesimp>启动引擎!驾驶新的运输直升机，投入武装突袭3战场中体验新的吊挂系统，一切尽在直升机DLC中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67"休伦"-北约的双引擎，综列式旋翼，重型吊挂直升机。%1%2米-290"塔鲁"-广协的重型多用途直升机，使用同轴式旋翼设计%1%2M-900-现有的H-9系列的民用版本%1%2吊挂物件%1%2直升机物件%1%2前线作战基地物件%1%2多人支援任务-一个新的多人游戏模式，你将在这边体验到支援的乐趣%1%2&lt;t&gt;&lt;/t&gt;4虚拟直升机训练课程%1%2吊挂任务展示%1%2&lt;t&gt;&lt;/t&gt;5个单人计时挑战赛%1%2一组额外的Steam成就</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumheli0">
         <Original>Helicopters DLC</Original>
         <Chinese>直升機資料片</Chinese>
-        <Chinesesimp>直升机资料片</Chinesesimp>
+        <Chinesesimp>直升机DLC</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AutoHover1">
         <Original>Auto-hover</Original>
@@ -769,7 +769,7 @@
       <Key ID="STR_A3_dlc_scenario_notification_heli">
         <Original>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;This content is exclusive to Arma 3 Helicopters DLC.&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;Left Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; to open the store page for more information.&lt;t /&gt;</Original>
         <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此內容屬於武裝突襲3直升機資料片所有。&lt;br/&gt;請按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;來開啟商店頁面獲得更多訊息。&lt;t/&gt;</Chinese>
-        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此内容属于武装突袭3直升机资料片所有。&lt;br/&gt;请按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;来开启商店页面获得更多信息。&lt;t/&gt;</Chinesesimp>
+        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此内容属于武装突袭3直升机DLC所有。&lt;br/&gt;请按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;来开启商店页面获得更多信息。&lt;t/&gt;</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CFGVEHICLECLASSES_STRUCTURES_AIRPORT0">
         <Original>Structures (Airport)</Original>
@@ -784,7 +784,7 @@
       <Key ID="STR_A3_dlcBundleOverview_loading_screen">
         <Original>Save more than 25&amp;#37; and complete your Arma 3 experience. Including the Karts, Helicopters and Marksmen DLCs, the bundle offers the best value for money to fans.</Original>
         <Chinese>節省超過25&amp;#37;並更加完整你的武裝突襲3遊戲體驗。你將擁有卡丁車，直升機與精準射手等資料片，此組合包將以最優惠的價格來回饋各為粉絲。</Chinese>
-        <Chinesesimp>节省超过25&amp;#37;并更加完整你的武装突袭3游戏体验。你将拥有卡丁车，直升机与精准射手等资料片，此组合包将以最优惠的价格来回馈各位粉丝。</Chinesesimp>
+        <Chinesesimp>节省超过25&amp;#37;并更加完整你的武装突袭3游戏体验。你将拥有卡丁车，直升机与精准射手等DLC，此组合包将以最优惠的价格来回馈各位粉丝。</Chinesesimp>
       </Key>
     </Container>
     <Container name="GroundSupport">
@@ -1634,7 +1634,7 @@
       <Key ID="str_a3_rscdisplaywelcome_heli_pard">
         <Original>Arma 3 Helicopters arrives with the following premium content and platform additions:</Original>
         <Chinese>武裝突襲3直升機資料片將帶來以下優質內容與改變:</Chinese>
-        <Chinesesimp>武装突袭3直升机资料片将带来以下优质内容与改变:</Chinesesimp>
+        <Chinesesimp>武装突袭3直升机DLC将带来以下优质内容与改变:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_heli_parc_title">
         <Original>FEATURES</Original>
@@ -1694,29 +1694,29 @@
       <Key ID="str_a3_rscdisplaywelcome_heli_parb_footer">
         <Original>More about Arma 3 Helicopters</Original>
         <Chinese>更多關於武裝突襲3直升機資料片</Chinese>
-        <Chinesesimp>更多关于武装突袭3直升机资料片</Chinesesimp>
+        <Chinesesimp>更多关于武装突袭3直升机DLC</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_heli_parb">
         <Original>Arma 3 Helicopters is a content pack. With our &lt;a href="%3" color="%2"&gt;Karts testing DLC&lt;/a&gt;, we introduced &lt;a href="%4" color="%2"&gt;a strategy&lt;/a&gt; for premium content. Based on your feedback and results from our survey, we've iterated the 'try before you buy' approach and will continue to do so. Owners get full access to &lt;t color='%1'&gt;2 brand-new detailed rotary-wing aircraft&lt;/t&gt;: the CH-67 Huron, Mi-290 Taru, and their variants. These helicopters were selected and designed to fulfill an important logistical role on the battlefield. Combined with new features, they can carry more troops than previous aircraft as well as carry more cargo. A range of official playable modes demonstrates the helicopters and generally focuses on aerial movement, combat and logistics.</Original>
         <Chinese>武裝突襲3直升機資料片是一個加值內容。我們之前透過&lt;ahref="%3"color="%2"&gt;卡丁車資料片&lt;/a&gt;，使用一種&lt;ahref="%4"color="%2"&gt;手法&lt;/a&gt;來跟你們介紹這些優質內容。我們是透過'先試玩再購買'的方法來介紹這些資料片。已購買者可獲得&lt;tcolor='%1'&gt;2種新的直升機&lt;/t&gt;:CH-67Huron，Mi-290Taru，以及它們的變種版本。這些直升機被設計來在戰場中提供重要的後勤支援。結合新的吊掛功能，它们可以載運除了步兵以外更多的貨物。為此我們提供了一個新的多人合作模式，你可在裡面完整體驗到直升機後勤支援的任務與其重要性。</Chinese>
-        <Chinesesimp>武装突袭3直升机资料片是一个加值内容。我们之前通过&lt;ahref="%3"color="%2"&gt;卡丁车资料片&lt;/a&gt;，使用一种&lt;ahref="%4"color="%2"&gt;手法&lt;/a&gt;来跟你们介绍这些优质内容。我们是通过'先试玩再购买'的方法来介绍这些资料片。已购买者可获得&lt;tcolor='%1'&gt;2种新的直升机&lt;/t&gt;:CH-67Huron，Mi-290Taru，以及它们的变种版本。这些直升机被设计来在战场中提供重要的后勤支援。结合新的吊挂功能，它们可以载运除了步兵以外更多的货物。为此我们提供了一个新的多人合作模式，你可以在里面完整体验到直升机后勤支援的任务与其重要性。</Chinesesimp>
+        <Chinesesimp>武装突袭3直升机DLC是一个加值内容。我们之前通过&lt;ahref="%3"color="%2"&gt;卡丁车DLC&lt;/a&gt;，使用一种&lt;ahref="%4"color="%2"&gt;手法&lt;/a&gt;来跟你们介绍这些优质内容。我们是通过'先试玩再购买'的方法来介绍这些DLC。已购买者可获得&lt;tcolor='%1'&gt;2种新的直升机&lt;/t&gt;:CH-67Huron，Mi-290Taru，以及它们的变种版本。这些直升机被设计来在战场中提供重要的后勤支援。结合新的吊挂功能，它们可以载运除了步兵以外更多的货物。为此我们提供了一个新的多人合作模式，你可以在里面完整体验到直升机后勤支援的任务与其重要性。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_heli_para">
         <Original>Greetings rotorheads! The &lt;t color='%1'&gt;Arma 3 Helicopters&lt;/t&gt; DLC has been released, bringing cool new content for DLC owners, while also enriching the Arma 3 sandbox for everyone else. Take a look below at what assets we've added and the huge features that were implemented, or just give it a whirl right here, right now!</Original>
         <Chinese>各位飛友好!&lt;tcolor='%1'&gt;武裝突襲3直升機&lt;/t&gt;資料片現在正式推出，將帶來許多酷炫的新內容給各位買家，同時也提供給那些未購買者可在編輯器中試玩。讓我們來看看到底有那些改變，請繼續閱讀下面介紹!</Chinese>
-        <Chinesesimp>各位飞友好!&lt;tcolor='%1'&gt;武装突袭3直升机&lt;/t&gt;资料片现在正式推出，将带来许多酷炫的新内容给各位买家，同时也提供给那些未购买者可在编辑器中试玩。让我们来看看到底有那些改变，请继续阅读下面介绍!</Chinesesimp>
+        <Chinesesimp>各位飞友好!&lt;tcolor='%1'&gt;武装突袭3直升机&lt;/t&gt;DLC现在正式推出，将带来许多酷炫的新内容给各位买家，同时也提供给那些未购买者可在编辑器中试玩。让我们来看看到底有那些改变，请继续阅读下面介绍!</Chinesesimp>
       </Key>
     </Container>
     <Container name="DLC_Content_Browser">
       <Key ID="str_a3_cfgmods_heli7">
         <Original>This content is part of Helicopters DLC. Purchase it to enter this vehicle as crew.</Original>
         <Chinese>此內容屬於直升機資料片。想要進入此載具擔當操作員，請先購買本資料片。</Chinese>
-        <Chinesesimp>此内容属于直升机资料片。想要进入此载具担任操作员，请先购买本资料片。</Chinesesimp>
+        <Chinesesimp>此内容属于直升机DLC。想要进入此载具担任操作员，请先购买本DLC。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_heli6">
         <Original>This content is part of Helicopters DLC. Purchase it to enter this vehicle as crew.</Original>
         <Chinese>此內容屬於直升機資料片。想要進入此載具擔當操作員，請先購買本資料片。</Chinese>
-        <Chinesesimp>此内容属于直升机资料片。想要进入此载具担任操作员，请先购买本资料片。</Chinesesimp>
+        <Chinesesimp>此内容属于直升机DLC。想要进入此载具担任操作员，请先购买本DLC。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_heli5">
         <Original>Arma 3 Helicopters</Original>
@@ -1726,7 +1726,7 @@
       <Key ID="str_a3_cfgmods_heli3">
         <Original>Fly the brand-new CH-67 Huron and Mi-290 Taru heavy-lift helicopters, and master Sling Loading to provide ground support in the Arma 3 Helicopters DLC.</Original>
         <Chinese>在武裝突襲3直升機資料片中駕駛全新的CH-67"休倫"和米-290"塔魯"重型吊掛直升機，並使用吊掛系統來為地面部隊提供協助。</Chinese>
-        <Chinesesimp>在武装突袭3直升机资料片中驾驶全新的CH-67"休伦"和米-290"塔鲁"重型吊挂直升机，并使用吊挂系统来为地面部队提供协助。</Chinesesimp>
+        <Chinesesimp>在武装突袭3直升机DLC中驾驶全新的CH-67"休伦"和米-290"塔鲁"重型吊挂直升机，并使用吊挂系统来为地面部队提供协助。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_heli2">
         <Original>Arma 3 Helicopters</Original>
@@ -1736,7 +1736,7 @@
       <Key ID="str_a3_cfgmods_heli0">
         <Original>Arma 3 Helicopters DLC now available. Click to purchase</Original>
         <Chinese>武裝突襲3直升機資料片現正熱烈販售中。請點擊來購買</Chinese>
-        <Chinesesimp>武装突袭3直升机资料片现正火热出售中。请点击来购买</Chinesesimp>
+        <Chinesesimp>武装突袭3直升机DLC现正火热出售中。请点击来购买</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_dlcbfeatures_dlcbslingload1">
         <Original>Carry externally slung loads under helicopters, and use the rope technology for other cool purposes.</Original>
@@ -1821,7 +1821,7 @@
       <Key ID="STR_A3_dlc_popup_helicopters">
         <Original>You are using premium content. Purchase Arma 3 Helicopters to remove the message.</Original>
         <Chinese>你正在使用付費內容。請先購買武裝突襲3直升機資料片來移除本訊息。</Chinese>
-        <Chinesesimp>你正在使用付费内容。请先购买武装突袭3直升机资料片来移除本信息。</Chinesesimp>
+        <Chinesesimp>你正在使用付费内容。请先购买武装突袭3直升机DLC来移除本信息。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Air_F_RTD" />

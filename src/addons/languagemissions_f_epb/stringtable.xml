@@ -4967,12 +4967,12 @@
             <Key ID="str_a3_b_m05_10_sabotage_request_helicopter_grf_1">
               <Original>Viper-Green, this is Griffin, we have a situation in the vicinity of Point Victor.</Original>
               <Chinese>"毒蛇-綠"，這裡是"獅鷲"，我們在維克多點附近發生了點狀況。</Chinese>
-              <Chinesesimp>"毒蛇-绿"，这里是"狮鹫"，我们在维克多点附近发生了点状况。</Chinesesimp>
+              <Chinesesimp>"毒蛇-绿"，这里是"狮鹫"，我们在Victor点附近发生了点状况。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m05_10_sabotage_request_helicopter_ore_0">
               <Original>Griffin, this is Spartan-Actual, my unit has made contact near Point Victor!</Original>
               <Chinese>"獅鷲"，這裡是"斯巴達-隊長"，我的小隊在維克多點附近遇敵了!</Chinese>
-              <Chinesesimp>"狮鹫"，这里是"斯巴达-领队"，我的小队在维克多点附近接敌了!</Chinesesimp>
+              <Chinesesimp>"狮鹫"，这里是"斯巴达-领队"，我的小队在Victor点附近接敌了!</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m05_10_sabotage_request_helicopter_ore_1">
               <Original>We've secured the area but need urgent support - can you dispatch QRF to our position? Over.</Original>
@@ -5879,18 +5879,18 @@
           <Container name="70_Cease_Fire" audioFilePath="\a3\dubbing_f_epb\b_out2" dialogName="70_Cease_Fire" dubbingLanguage="english" namePrefix="b_out2_70_cease_fire" note="" participants="EPB B Player;EPB B HQ;EPB B Larkin;" situation="pilot calls nato, tells them to cease fire, nato sends sar">
             <Key ID="str_a3_b_out2_70_cease_fire_bhq_0">
               <Original>Uh, say again, November? Over.</Original>
-              <Chinese>呃，請重發，"November"?完畢。</Chinese>
-              <Chinesesimp>呃，再说一遍，"十一月"?完毕。</Chinesesimp>
+              <Chinese>呃，請重發，November?完畢。</Chinese>
+              <Chinesesimp>呃，再说一遍，November?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_out2_70_cease_fire_bhq_1">
               <Original>All units, cease fire on Objective Lima. I repeat, cease fire on Lima. Fall back to Point Echo.</Original>
               <Chinese>所有單位，請對目標利馬停止開火。我重複一遍，請對利馬停止開火。全員撤回回聲點。</Chinese>
-              <Chinesesimp>所有单位，请对目标利马停止开火。我重复一遍，请对利马停止开火。全员撤回回声点。</Chinesesimp>
+              <Chinesesimp>所有单位，请对目标Lima停止开火。我重复一遍，请对Lima停止开火。全员撤回Echo点。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_out2_70_cease_fire_lar_0">
               <Original>Crossroads, this is November, priority! Crossroads, priority!</Original>
-              <Chinese>"交叉路"，這裡是"November"，優先命令!"交叉路"，優先命令!</Chinese>
-              <Chinesesimp>"交叉路口"，这里是"十一月"，紧急信息!"交叉路口"，紧急信息!</Chinesesimp>
+              <Chinese>"交叉路"，這裡是November，優先命令!"交叉路"，優先命令!</Chinese>
+              <Chinesesimp>"交叉路口"，这里是November，紧急信息!"交叉路口"，紧急信息!</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_out2_70_cease_fire_lar_1">
               <Original>Cease fire on the airfield! We're firing on friendlies! Over!</Original>
@@ -5899,8 +5899,8 @@
             </Key>
             <Key ID="str_a3_b_out2_70_cease_fire_bhq_2">
               <Original>November, stay put. Keep an eye on him. We're on our way. Out.</Original>
-              <Chinese>"November"，請先留在原地。請盯緊他。我們在路上了。通話完畢。</Chinese>
-              <Chinesesimp>"十一月"，请先留在原地。盯紧他。我们在路上了。通话完毕。</Chinesesimp>
+              <Chinese>November，請先留在原地。請盯緊他。我們在路上了。通話完畢。</Chinese>
+              <Chinesesimp>November，请先留在原地。盯紧他。我们在路上了。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_out2_70_cease_fire_lar_2">
               <Original>Friendly forces operating at the airfield.</Original>

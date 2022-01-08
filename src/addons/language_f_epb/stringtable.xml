@@ -54,7 +54,7 @@
       <Key ID="str_a3_cfgweapons_throw_irgrenade0">
         <Original>IR Grenade</Original>
         <Chinese>紅外線手榴彈</Chinese>
-        <Chinesesimp>红外手榴弹</Chinesesimp>
+        <Chinesesimp>红外手雷</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_optic_lrps1">
         <Original>Long-Range Precision Scope&lt;br /&gt;Magnification: 6x–25x</Original>
@@ -114,7 +114,7 @@
       <Key ID="str_a3_cfgmagazines_o_ir_grenade0">
         <Original>IR Grenade [CSAT]</Original>
         <Chinese>紅外線手榴彈[廣協同盟]</Chinese>
-        <Chinesesimp>红外手榴弹[广协]</Chinesesimp>
+        <Chinesesimp>红外手雷[广协]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgweapons_coaxial_mg0">
         <Original>Coaxial MG 7.62 mm</Original>
@@ -134,7 +134,7 @@
       <Key ID="str_a3_cfgmagazines_i_ir_grenade0">
         <Original>IR Grenade [AAF]</Original>
         <Chinese>紅外線手榴彈[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>红外手榴弹[AAF]</Chinesesimp>
+        <Chinesesimp>红外手雷[AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_b_ir_grenade1">
         <Original>Type: IR Strobe&lt;br /&gt;Faction: NATO&lt;br /&gt;Rounds: 1</Original>
@@ -144,7 +144,7 @@
       <Key ID="str_a3_cfgmagazines_b_ir_grenade0">
         <Original>IR Grenade [NATO]</Original>
         <Chinese>紅外線手榴彈[北約]</Chinese>
-        <Chinesesimp>红外手榴弹[北约]</Chinesesimp>
+        <Chinesesimp>红外手雷[北约]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_12rnd_125mm_he0">
         <Original>125mm HE</Original>
@@ -174,7 +174,7 @@
       <Key ID="STR_A3_CFGMAGAZINES_IR_GRENADE_DNS">
         <Original>IR Grenade</Original>
         <Chinese>紅外線手榴彈</Chinese>
-        <Chinesesimp>红外手榴弹</Chinesesimp>
+        <Chinesesimp>红外手雷</Chinesesimp>
       </Key>
       <Key ID="STR_A3_heat_0">
         <Original>HEAT</Original>
@@ -644,12 +644,12 @@
       <Key ID="STR_A3_irgrenade1">
         <Original>Use IR grenades for signaling or marking targets during night-time.%1%2Throw an IR grenade by pressing %11.%1%2Cycle between grenade and chemlight types by pressing %12.%1The angle of the throw has a great influence on its distance.</Original>
         <Chinese>紅外線手榴彈被用於夜間行動，其用途可當作信號或是標記目標用。%1%2使用%11來投擲紅外線手榴彈。%1%2使用%12來循環切換手榴彈與螢光棒等投擲武器。%1扔的角度對距離會有很大的影響。</Chinese>
-        <Chinesesimp>红外手榴弹被用于夜间行动，其用途可当作信号或是标记目标用。%1%2使用%11来投掷红外线手榴弹。%1%2使用%12来循环切换手榴弹与萤光棒等投掷武器。%1扔的角度对距离会有很大的影响。</Chinesesimp>
+        <Chinesesimp>红外手雷被用于夜间行动，其用途可当作信号或是标记目标用。%1%2使用%11来投掷红外线手榴弹。%1%2使用%12来循环切换手榴弹与萤光棒等投掷武器。%1扔的角度对距离会有很大的影响。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_irgrenade2">
         <Original>IR Grenades are especially useful for marking targets, because they can be targeted by vehicle operators.%1%2When in a vehicle, press %13 to target.%1%2Cycle available targets by %14.</Original>
         <Chinese>紅外線手榴彈在標記目標上是很有效的，因為載具的操作員可以直接鎖定它們。%1%2當你在載具裡時，按下%13來鎖定它。%1%2使用%14來循環切換可鎖定的目標。</Chinese>
-        <Chinesesimp>红外手榴弹在标记目标上是很有效的，因为载具的操作员可以直接锁定它们。%1%2当你在载具里时，按下%13来锁定它。%1%2使用%14来循环切换可锁定的目标。</Chinesesimp>
+        <Chinesesimp>红外手雷在标记目标上是很有效的，因为载具的操作员可以直接锁定它们。%1%2当你在载具里时，按下%13来锁定它。%1%2使用%14来循环切换可锁定的目标。</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_recon0">
         <Original>B09 Intro to Recon</Original>
@@ -867,7 +867,7 @@
       <Key ID="str_a3_rscdisplaywelcome_epb_pare_list5">
         <Original>infra-red throwable objects for every faction, used to mark locations</Original>
         <Chinese>每個陣營皆可使用紅外線手榴彈，使用它來標記目標或位置</Chinese>
-        <Chinesesimp>每个阵营皆可使用红外手榴弹，使用它来标记目标或位置</Chinesesimp>
+        <Chinesesimp>每个阵营皆可使用红外手雷，使用它来标记目标或位置</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epb_pare_list4_title">
         <Original>LRPS Scope</Original>

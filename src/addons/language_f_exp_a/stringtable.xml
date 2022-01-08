@@ -641,7 +641,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expa_parc">
         <Original>Before rolling out new features for Apex, an in-depth evaluation of the game and its players revealed several aspects we wanted to improve and iterate on:</Original>
         <Chinese>在我們推出頂尖資料片前，我們將先加入以下特色:</Chinese>
-        <Chinesesimp>在我们推出顶尖资料片前，我们将先加入以下特色:</Chinesesimp>
+        <Chinesesimp>在我们推出Apex DLC前，我们将先加入以下特色:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expa_parb_title">
         <Original>NEXUS UPDATE_</Original>
@@ -711,7 +711,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expa_para">
         <Original>It's great to be able to welcome you to this major platform update and stepping-stone to the Arma 3 Apex expansion. After a series of regular updates, we've focused with Nexus on enhancing core gameplay features, systems and content. We'll take you on a tour of new multiplayer additions, feature iterations and the launch of a web service to connect players and communities.</Original>
         <Chinese>歡迎來到此次更新，這次更新是我們與武裝突襲3頂尖資料片間的一個重要里程碑。經過一連串的更新，我們讓樞紐更新更專注在提升核心遊戲特色，系統和內容。我們將帶你認識新的多人遊戲模式與新推出的網頁功能。</Chinese>
-        <Chinesesimp>欢迎来到此次更新，这次更新是我们与武装突袭3顶尖资料片间的一个重要里程碑。经过一连串的更新，我们让枢纽更新更专注在提升核心游戏特色，系统和内容。我们将带你认识新的多人游戏模式与新推出的网页功能。</Chinesesimp>
+        <Chinesesimp>欢迎来到此次更新，这次更新是我们与武装突袭3 Apex DLC间的一个重要里程碑。经过一连串的更新，我们让枢纽更新更专注在提升核心游戏特色，系统和内容。我们将带你认识新的多人游戏模式与新推出的网页功能。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Functions_F">

@@ -170,7 +170,7 @@
       <Key ID="STR_A3_CfgHints_PremiumContent_PremiumJets0">
         <Original>Jets DLC</Original>
         <Chinese>戰機資料片</Chinese>
-        <Chinesesimp>战机资料片</Chinesesimp>
+        <Chinesesimp>战机DLC</Chinesesimp>
       </Key>
     </Container>
     <Container name="Author">
@@ -1047,17 +1047,17 @@
       <Key ID="STR_A3_dlc_popup_jets">
         <Original>You are using premium content. Purchase Arma 3 Jets to remove the message.</Original>
         <Chinese>你正在使用付費內容。請購買武裝突襲3戰機資料片來移除本訊息。</Chinese>
-        <Chinesesimp>你正在使用付费内容。请购买武装突袭3战机资料片来移除本信息。</Chinesesimp>
+        <Chinesesimp>你正在使用付费内容。请购买武装突袭3战机DLC来移除本信息。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_DLC_PREMIUM_ITEM_NOTIFICATION_JETS_TEXT">
         <Original>This content is part of the non-owned Jets DLC. Please purchase it to use it.</Original>
         <Chinese>此內容屬於尚未購買的武裝突襲3戰機資料片。請先購買後才能使用這個內容。</Chinese>
-        <Chinesesimp>此内容属于尚未购买的武装突袭3战机资料片。请先购买后才能使用这个内容。</Chinesesimp>
+        <Chinesesimp>此内容属于尚未购买的武装突袭3战机DLC。请先购买后才能使用这个内容。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_WEAPONPREVMSG_JETS">
         <Original>This content is part of the non-owned Jets DLC. Please purchase it to use this weapon.</Original>
         <Chinese>此內容屬於尚未購買的武裝突襲3戰機資料片。請先購買後才能使用這個武器。</Chinese>
-        <Chinesesimp>此内容属于尚未购买的武装突袭3战机资料片。请先购买后才能使用这个武器。</Chinesesimp>
+        <Chinesesimp>此内容属于尚未购买的武装突袭3战机DLC。请先购买后才能使用这个武器。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_jets_features_dlcjetscarrier1">
         <Original>Scripted support for carrier launching and automated landing of naval aircraft.</Original>
@@ -1067,7 +1067,7 @@
       <Key ID="STR_A3_DLC_SCENARIO_NOTIFICATION_JETS">
         <Original>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;This content is exclusive to Arma 3 Jets DLC.&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;Left Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; to open the store page for more information.&lt;t /&gt;</Original>
         <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此內容屬於武裝突襲3戰機資料片。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;來開啟頁面獲得更多訊息。&lt;t/&gt;</Chinese>
-        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此内容属于武装突袭3战机资料片。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;来开启页面获得更多信息。&lt;t/&gt;</Chinesesimp>
+        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此内容属于武装突袭3战机DLC。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;来开启页面获得更多信息。&lt;t/&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_jets_features_dlcjetscarrier0">
         <Original>Carrier Ops</Original>
@@ -1122,7 +1122,7 @@
       <Key ID="STR_A3_CfgMods_Jets0">
         <Original>Arma 3 Jets DLC now available. Click to purchase</Original>
         <Chinese>武裝突襲3戰機資料片已正式上市。點擊這裡來購買</Chinese>
-        <Chinesesimp>武装突袭3战机资料片已正式上市。点击这里来购买</Chinesesimp>
+        <Chinesesimp>武装突袭3战机DLC已正式上市。点击这里来购买</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMods_Jets1">
         <Original>Arma 3 Jets</Original>
@@ -1132,7 +1132,7 @@
       <Key ID="STR_A3_CfgMods_Jets2">
         <Original>Fly the brand-new F/A-181 Black Wasp II, To-201 Shikra, A-149 Gryphon fighter aircraft, and master Air-to-Air combat. Learn to fly fast and agile air superiority fighters to dominate the skies over the battlefield and provide air support in the Arma 3 Jets DLC.</Original>
         <Chinese>來試飛全新的F/A-181"黑蜂"2型戰鬥攻擊機，To-201"褐耳鷹"戰鬥機，A-149"獅鷲"戰鬥機等戰鬥機，體驗全新的空中戰鬥系統。透過武裝突襲3戰機資料片，你將學習如何駕馭這些快速且靈敏的飛機，進而讓你稱霸空中並提供地面部隊強大的支援。</Chinese>
-        <Chinesesimp>来试飞全新的F/A-181"黑蜂"2型战斗攻击机，To-201"褐耳鹰"战斗攻击机，A-149"狮鹫"战斗攻击机等战斗机，体验全新的空中战斗系统。通过武装突袭3战机资料片，你将学习如何驾驭这些快速且灵敏的飞机，进而让你称霸空中并提供地面部队强大的支援。</Chinesesimp>
+        <Chinesesimp>来试飞全新的F/A-181"黑蜂"2型战斗攻击机，To-201"褐耳鹰"战斗攻击机，A-149"狮鹫"战斗攻击机等战斗机，体验全新的空中战斗系统。通过武装突袭3战机DLC，你将学习如何驾驭这些快速且灵敏的飞机，进而让你称霸空中并提供地面部队强大的支援。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMods_Jets3">
         <Original>Arma 3 Jets</Original>
@@ -1142,12 +1142,12 @@
       <Key ID="STR_A3_CfgMods_Jets4">
         <Original>This content is part of Jets DLC. Purchase it to enter this vehicle as crew.</Original>
         <Chinese>此內容屬於戰機資料片的一部分。請購買此資料片後才能擔當該載具的機組員。</Chinese>
-        <Chinesesimp>此内容属于战机资料片的一部分。请购买此资料片后才能担任该载具的机组员。</Chinesesimp>
+        <Chinesesimp>此内容属于战机DLC的一部分。请购买此DLC后才能担任该载具的机组员。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMods_Jets5">
         <Original>This content is part of Jets DLC. Purchase it to enter this vehicle as crew.</Original>
         <Chinese>此內容屬於戰機資料片的一部分。請購買此資料片後才能擔當該載具的機組員。</Chinese>
-        <Chinesesimp>此内容属于战机资料片的一部分。请购买此资料片后才能担任该载具的机组员。</Chinesesimp>
+        <Chinesesimp>此内容属于战机DLC的一部分。请购买此DLC后才能担任该载具的机组员。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Insignia">

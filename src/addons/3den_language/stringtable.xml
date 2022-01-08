@@ -2035,7 +2035,7 @@
             <Key ID="str_3den_tutorials_editing_sections_transforming_rotate_text">
               <Original>To rotate an entity, &lt;%2&gt;hold Shift&lt;%3&gt; and drag it. It will rotate to face the cursor.&lt;br /&gt;</Original>
               <Chinese>要旋轉一個物件，透過&lt;%2&gt;按住Shift&lt;%3&gt;並拖曳之。即可設定該物件面對的方向。&lt;br/&gt;</Chinese>
-              <Chinesesimp>要旋转一个物件，通过&lt;%2&gt;按住Shift&lt;%3&gt;并拖拽之。即可设置该物件面对的方向。&lt;br/&gt;</Chinesesimp>
+              <Chinesesimp>要旋转一个物件，&lt;%2&gt;按住Shift&lt;%3&gt;并拖拽它。即可设置该物件面对的方向。&lt;br/&gt;</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_transforming_outro_text">
               <Original>This is all you need to know about the basic transformation. Check &lt;%2&gt;Transformation Widget&lt;%3&gt; tutorial to learn more about the advanced editing.</Original>
@@ -2200,7 +2200,7 @@
             <Key ID="str_3den_tutorials_entities_sections_group_entitylist_text">
               <Original>In the &lt;%2&gt;entity list&lt;%3&gt;, a group is shown as a folder with all its members and Waypoints placed inside.&lt;br /&gt;Only a whole group can be moved between layers, not its individual members. Dragging one member will move the rest of the group as well.</Original>
               <Chinese>在&lt;%2&gt;場上物件清單&lt;%3&gt;中，每個群組會以類似階層的樣式顯示之，並包含所有隊員與路徑點在其中。&lt;br/&gt;要移動群組至別的圖層時必須整組移動，不能個別移動組員。拖曳其中一個組員便會帶動整個群組至另一個圖層中。</Chinese>
-              <Chinesesimp>在&lt;%2&gt;场上物件清单&lt;%3&gt;中，每个群组会以类似阶层的样式显示之，并包含所有队员与路径点在其中。&lt;br/&gt;要移动群组至别的图层时必须整组移动，不能个别移动组员。拖拽其中一个组员便会带动整个群组至另一个图层中。</Chinesesimp>
+              <Chinesesimp>在&lt;%2&gt;场上物件清单&lt;%3&gt;中，每个群组会以类似阶层的样式显示，并包含所有队员与路径点在其中。&lt;br/&gt;要移动群组至别的图层时必须整组移动，不能个别移动组员。拖拽其中一个组员便会带动整个群组至另一个图层中。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_group_create_text">
               <Original>A group is created when a new character is placed. However, if the character is near another one of the same side, it will be grouped to it instead. This functionality can be disabled using &lt;%2&gt;Automatic Grouping&lt;%3&gt; attribute in the editor preferences.</Original>
@@ -2404,7 +2404,7 @@
             <Key ID="str_3den_tutorials_scenario_sections_attributes_performance_text">
               <Original>&lt;%2&gt;Performance&lt;%3&gt; lets you to tweak systems which can make your scenario run smoother, such as removing destroyed objects or disabling those which are far away from player.</Original>
               <Chinese>&lt;%2&gt;效能&lt;%3&gt;能讓你調整任務的系統耗能，使整個任務能更順暢，像是自動刪除毀損的物件或是當玩家離物件過遠時自動關閉運算等。</Chinese>
-              <Chinesesimp>&lt;%2&gt;效能&lt;%3&gt;能让你调整任务的系统耗能，使整个任务能更顺畅，像是自动删除毁损的物件或是当玩家离物件过远时自动关闭运算等。</Chinesesimp>
+              <Chinesesimp>&lt;%2&gt;效能&lt;%3&gt;能让你调整任务的系统耗能，使整个任务能更顺畅，像是自动删除毁损的物件或是当玩家离物件过远时自动关闭模拟等。</Chinesesimp>
             </Key>
           </Container>
           <Container name="Phases">
@@ -2781,7 +2781,7 @@
           <Key ID="str_3den_object_attribute_allowdamage_displayname">
             <Original>Enable Damage</Original>
             <Chinese>開啟傷害</Chinese>
-            <Chinesesimp>开启伤害</Chinesesimp>
+            <Chinesesimp>允许伤害</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_unitname_displayname">
             <Original>Name</Original>
@@ -2961,7 +2961,7 @@
           <Key ID="str_3den_object_attribute_dynsim_displayname">
             <Original>Enable Dynamic Simulation</Original>
             <Chinese>開啟動態運算</Chinese>
-            <Chinesesimp>开启动态运算</Chinesesimp>
+            <Chinesesimp>开启动态模拟</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_init_tooltip">
             <Original>Expression called upon at start. In multiplayer, it is called on every machine and for each player who joins in the progress. The variable 'this' refers to the affected object.</Original>
@@ -2976,17 +2976,17 @@
           <Key ID="str_3den_object_attribute_dynsim_tooltip">
             <Original>Entity simulation is enabled only if the player or an enemy unit is nearby.\n\nNote: Doesn't work on simple objects and it overwrites basic simulation settings.</Original>
             <Chinese>啟用本功能後，此物件只會在有玩家或該單位的敵方在附近時才會開始運算。\n\n注意:此功能並不會對簡單物件產生效用，此功能也會直接覆蓋掉開啟運算功能的設定值。</Chinese>
-            <Chinesesimp>启用本功能后，此物件只会在有玩家或该单位的敌方在附近时才会开始运算。\n\n注意:此功能并不会对简单物件产生效用，此功能也会直接覆盖掉开启运算功能的设置值。</Chinesesimp>
+            <Chinesesimp>启用本功能后，此物件只会在有玩家或该单位的敌方在附近时才会开始模拟。\n\n注意:此功能并不会对简单物件产生效用，此功能也会直接覆盖掉启用模拟的设置值。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_hideobject_tooltip">
             <Original>Show model and collisions. Even when disabled, the object will be simulated normally (e.g., soldiers will still be able to move and shoot).</Original>
             <Chinese>當本功能關閉時，該物件會隱形且無碰撞，但其行動仍正常運算(例如，隱形的士兵仍能到處走路與開槍)。</Chinese>
-            <Chinesesimp>当本功能关闭时，该物件会隐形且无碰撞，但其行动仍正常运算(例如，隐形的士兵仍能到处走路与开枪)。</Chinesesimp>
+            <Chinesesimp>当本功能关闭时，该物件会隐形且无碰撞，但其行动仍正常模拟(例如，隐形的士兵仍能到处走路与开枪)。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_enablesimulation_displayname">
             <Original>Enable Simulation</Original>
             <Chinese>開啟運算功能</Chinese>
-            <Chinesesimp>开启运算功能</Chinesesimp>
+            <Chinesesimp>启用模拟</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_placement_displayname">
             <Original>Placement Radius</Original>
@@ -3016,7 +3016,7 @@
           <Key ID="str_3den_object_attribute_enablesimulation_tooltip">
             <Original>When disabled, the object will freeze and ignore any input or collisions.\n\nNote: This option doesn't have any effect on dynamically simulated objects.</Original>
             <Chinese>當關閉時，該物件便會靜止不動，忽略所有的按鍵輸入與碰撞。\n\n注意:此選項並不會對動態運算之物件產生影響。</Chinese>
-            <Chinesesimp>当关闭时，该物件便会静止不动，忽略所有的按键输入与碰撞。\n\n注意:此选项并不会对动态运算之物件产生影响。</Chinesesimp>
+            <Chinesesimp>当关闭时，该物件便会静止不动，忽略所有的按键输入与碰撞。\n\n注意:此选项并不会对动态模拟的物件产生影响。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_fuel_displayname">
             <Original>Fuel</Original>
@@ -3141,12 +3141,12 @@
           <Key ID="str_3den_object_attribute_wakeupdynsim_displayname">
             <Original>Wake-Up Dynamic Simulation</Original>
             <Chinese>喚醒動態運算物件</Chinese>
-            <Chinesesimp>唤醒动态运算物件</Chinesesimp>
+            <Chinesesimp>唤醒动态模拟物件</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_wakeupdynsim_tooltip">
             <Original>Controls unit capability to activate dynamically simulated entities.</Original>
             <Chinese>啟用此功能後，此單位在靠近動態運算之物件時可以使其開始進行運算。</Chinese>
-            <Chinesesimp>启用此功能后，此单位在靠近动态运算之物件时可以使其开始进行运算。</Chinesesimp>
+            <Chinesesimp>启用此功能后，此单位在靠近动态模拟的物件时可以使其开始进行模拟。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom1_displayname">
             <Original>Texture #1</Original>
@@ -3770,48 +3770,48 @@
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radioj_text">
             <Original>Radio Juliet</Original>
-            <Chinese>無線電"Juliet"</Chinese>
-            <Chinesesimp>无线电"朱丽叶"</Chinesesimp>
+            <Chinese>無線電Juliet</Chinese>
+            <Chinesesimp>无线电Juliet</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radioi_text">
             <Original>Radio India</Original>
-            <Chinese>無線電"India"</Chinese>
-            <Chinesesimp>无线电"印第安"</Chinesesimp>
+            <Chinese>無線電India</Chinese>
+            <Chinesesimp>无线电India</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radioh_text">
             <Original>Radio Hotel</Original>
-            <Chinese>無線電"Hotel"</Chinese>
-            <Chinesesimp>无线电"旅馆"</Chinesesimp>
+            <Chinese>無線電Hotel</Chinese>
+            <Chinesesimp>无线电Hotel</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radiog_text">
             <Original>Radio Golf</Original>
-            <Chinese>無線電"Golf"</Chinese>
-            <Chinesesimp>无线电"高尔夫"</Chinesesimp>
+            <Chinese>無線電Golf</Chinese>
+            <Chinesesimp>无线电Golf</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radiof_text">
             <Original>Radio Foxtrot</Original>
-            <Chinese>無線電"Foxtrot"</Chinese>
-            <Chinesesimp>无线电"狐步舞"</Chinesesimp>
+            <Chinese>無線電Foxtrot</Chinese>
+            <Chinesesimp>无线电Foxtrot</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radioe_text">
             <Original>Radio Echo</Original>
-            <Chinese>無線電"Echo"</Chinese>
-            <Chinesesimp>无线电"回声"</Chinesesimp>
+            <Chinese>無線電Echo</Chinese>
+            <Chinesesimp>无线电Echo</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radiod_text">
             <Original>Radio Delta</Original>
-            <Chinese>無線電"Delta"</Chinese>
-            <Chinesesimp>无线电"德尔塔"</Chinesesimp>
+            <Chinese>無線電Delta</Chinese>
+            <Chinesesimp>无线电Delta</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radioc_text">
             <Original>Radio Charlie</Original>
-            <Chinese>無線電"Charlie"</Chinese>
-            <Chinesesimp>无线电"查理"</Chinesesimp>
+            <Chinese>無線電Charlie</Chinese>
+            <Chinesesimp>无线电Charlie</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radiob_text">
             <Original>Radio Bravo</Original>
-            <Chinese>無線電"Bravo"</Chinese>
-            <Chinesesimp>无线电"布拉沃"</Chinesesimp>
+            <Chinese>無線電Bravo</Chinese>
+            <Chinesesimp>无线电Bravo</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radioa_tooltip">
             <Original>Activated by a player using a radio command (accessible for the player by pressing 0-0 on a standard keyboard). The trigger 'Text' will be used as the command title.</Original>
@@ -3820,8 +3820,8 @@
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radioa_text">
             <Original>Radio Alpha</Original>
-            <Chinese>無線電"Alpha"</Chinese>
-            <Chinesesimp>无线电"阿尔法"</Chinesesimp>
+            <Chinese>無線電Alpha</Chinese>
+            <Chinesesimp>无线电Alpha</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_none_tooltip">
             <Original>No default activation, only a custom condition expression can activate the trigger.</Original>
@@ -4936,7 +4936,7 @@
             <Key ID="STR_3DEN_dynsim_attributecategory_distances_desc">
               <Original>Set activation distances for each of the categories. Entities further away will not be simulated.</Original>
               <Chinese>為不同情形設定不同的啟動距離。遠離距離設定的動態運算物件會自動停止運算。</Chinese>
-              <Chinesesimp>为不同情形设置不同的启动距离。远离距离设置的动态运算物件会自动停止运算。</Chinesesimp>
+              <Chinesesimp>为不同情形设置不同的启动距离。远离距离设置的动态模拟物件会自动停止模拟。</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_dynsim_attributecategory_modifiers">
               <Original>Activation Distance Modifiers</Original>
@@ -4988,7 +4988,7 @@
             <Key ID="str_3den_dynsim_enabled_tooltip">
               <Original>Turns on the 'Dynamic Simulation' system. Only entities and groups with the 'Dynamic Simulation' will be affected.</Original>
               <Chinese>開關'動態運算'之功能。只會對那些單位/群組有被勾選'動態運算'的物件產生效果。</Chinese>
-              <Chinesesimp>开关'动态运算'功能。只会对那些单位/群组有被勾选'动态运算'的物件产生效果。</Chinesesimp>
+              <Chinesesimp>开关'动态模拟'功能。只会对那些单位/群组有被勾选'动态模拟'的物件产生效果。</Chinesesimp>
             </Key>
             <Key ID="str_3den_dynsim_characters_displayname">
               <Original>Characters</Original>
@@ -5023,7 +5023,7 @@
             <Key ID="str_3den_dynsim_ismoving_tooltip">
               <Original>Multiplies activation distance of non-static entity by set value.</Original>
               <Chinese>設定當可以使動態運算開啟之物件移動時會乘上多少倍之距離係數。</Chinese>
-              <Chinesesimp>设置当可以使动态运算开启之物件移动时会乘上多少倍之距离系数。</Chinesesimp>
+              <Chinesesimp>设置当可以使动态模拟开启的物件移动时会乘上多少倍的距离系数。</Chinesesimp>
             </Key>
             <Key ID="str_3den_dynsim_limitbyview_displayname">
               <Original>Limit by View Distance</Original>
@@ -5033,7 +5033,7 @@
             <Key ID="str_3den_dynsim_limitbyview_tooltip">
               <Original>Limits all activation distances to player's object view distance. Dynamically simulated entities beyond the object view distance will be disabled.</Original>
               <Chinese>套用玩家的物件視野距離設定。超過玩家物件視野距離的物件會自動關閉運算。</Chinese>
-              <Chinesesimp>套用玩家的物件视野距离设置。超过玩家物件视野距离的物件会自动关闭运算。</Chinesesimp>
+              <Chinesesimp>套用玩家的物件视野距离设置。超过玩家物件视野距离的物件会自动关闭模拟。</Chinesesimp>
             </Key>
             <Key ID="str_3den_dynsim_mannedvehicles_displayname">
               <Original>Manned Vehicles</Original>
@@ -5656,22 +5656,22 @@
             <Key ID="str_3den_scenario_attribute_appid_displayname">
               <Original>DLC</Original>
               <Chinese>資料片</Chinese>
-              <Chinesesimp>资料片</Chinesesimp>
+              <Chinesesimp>DLC</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_appid_tooltip">
               <Original>When set, the overview image will be overlaid with a DLC frame indicating the scenario belongs to the DLC.</Original>
               <Chinese>當選擇完某個資料片後，概要的圖片上會被覆蓋上該資料片的圖示，提示此任務需要哪個資料片。</Chinese>
-              <Chinesesimp>当选择完某个资料片后，概要的图片上会被覆盖上该资料片的图示，提示此任务需要哪个资料片。</Chinesesimp>
+              <Chinesesimp>当选择完某个DLC后，概要的图片上会被覆盖上该DLC的图示，提示此任务需要哪个DLC。</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_assettype_displayname">
               <Original>Require DLC</Original>
               <Chinese>需要資料片</Chinese>
-              <Chinesesimp>需要资料片</Chinesesimp>
+              <Chinesesimp>需要DLC</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_assettype_tooltip">
               <Original>Sets if the DLC is required. When checked, the player will not be able to play the scenario if the DLC is not owned.</Original>
               <Chinese>設定是否需要指定的資料片。當本功能開啟時，沒有指定資料片的玩家將不能遊玩此任務。</Chinese>
-              <Chinesesimp>设置是否需要指定的资料片。当本功能开启时，没有指定资料片的玩家将不能游玩此任务。</Chinesesimp>
+              <Chinesesimp>设置是否需要指定的DLC。当本功能开启时，没有指定DLC的玩家将不能游玩此任务。</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_binarize_displayName">
               <Original>Binarize the Scenario File</Original>
@@ -5828,12 +5828,12 @@
           <Key ID="str_3den_group_attribute_dynsim_displayname">
             <Original>Enable Dynamic Simulation</Original>
             <Chinese>開啟動態運算</Chinese>
-            <Chinesesimp>开启动态运算</Chinesesimp>
+            <Chinesesimp>开启动态模拟</Chinesesimp>
           </Key>
           <Key ID="str_3den_group_attribute_dynsim_tooltip">
             <Original>Activates dynamic simulation for all characters in the group.</Original>
             <Chinese>開啟此群組內所有成員的動態運算功能。</Chinese>
-            <Chinesesimp>开启此群组内所有成员的动态运算功能。</Chinesesimp>
+            <Chinesesimp>开启此群组内所有成员的动态模拟。</Chinesesimp>
           </Key>
         </Container>
         <Container name="Mode">

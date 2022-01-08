@@ -57,7 +57,7 @@
             <Key ID="str_a3_c_in1_23_broadcast_spe_0">
               <Original>Alpha-Green, we've got CASEVAC inbound. Pad Delta-2. Prep for casualties.</Original>
               <Chinese>"Alpha-Green"，我們有傷員後送即將到來。在”Delta-2"停機坪。請準備好接受傷員。</Chinese>
-              <Chinesesimp>"阿尔法-绿"，我们有伤员后送即将到来。在"德尔塔-2"停机坪。请准备好接受伤员。</Chinesesimp>
+              <Chinesesimp>Alpha-绿"，我们有伤员后送即将到来。在Delta-2"停机坪。请准备好接受伤员。</Chinesesimp>
             </Key>
           </Container>
           <Container name="22_broadcast" audioFilePath="\a3\dubbing_f_epc\c_in1" dialogName="22_broadcast" dubbingLanguage="english" namePrefix="c_in1_22_broadcast" note="" participants="EPC B Speaker;" situation="">
@@ -75,13 +75,13 @@
           <Container name="21_broadcast" audioFilePath="\a3\dubbing_f_epc\c_in1" dialogName="21_broadcast" dubbingLanguage="english" namePrefix="c_in1_21_broadcast" note="" participants="EPC B Speaker;" situation="local generic broacast">
             <Key ID="str_a3_c_in1_21_broadcast_spe_0">
               <Original>Team Victor, assemble in meeting room 3-1.</Original>
-              <Chinese>"Victor"小隊，請到會議室3-1集合。</Chinese>
-              <Chinesesimp>维克多小组，请到会议室3-1集合。</Chinesesimp>
+              <Chinese>Victor小隊，請到會議室3-1集合。</Chinese>
+              <Chinesesimp>Victor小组，请到会议室3-1集合。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in1_21_broadcast_spe_1">
               <Original>Team Victor to meeting room 3-1.</Original>
-              <Chinese>"Victor"小隊請到會議室3-1。</Chinese>
-              <Chinesesimp>维克多小组请到会议室3-1。</Chinesesimp>
+              <Chinese>Victor小隊請到會議室3-1。</Chinese>
+              <Chinesesimp>Victor小组请到会议室3-1。</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_broadcast" audioFilePath="\a3\dubbing_f_epc\c_in1" dialogName="20_broadcast" dubbingLanguage="english" namePrefix="c_in1_20_broadcast" note="" participants="EPC B Speaker;" situation="local broadcast calling kerry">
@@ -400,7 +400,7 @@
           <Key ID="str_a3_c_in2_marker_bis_aa2">
             <Original>Point Kilo</Original>
             <Chinese>Kilo點</Chinese>
-            <Chinesesimp>基洛点</Chinesesimp>
+            <Chinesesimp>Kilo点</Chinesesimp>
           </Key>
           <Key ID="str_a3_c_in2_marker_bis_aa1">
             <Original>Point Omicron</Original>
@@ -460,7 +460,7 @@
           <Key ID="str_a3_c_in2_bis_mech_title">
             <Original>Join Delta 3-1</Original>
             <Chinese>加入"Delta3-1"</Chinese>
-            <Chinesesimp>加入"德尔塔3-1"</Chinesesimp>
+            <Chinesesimp>加入Delta3-1"</Chinesesimp>
           </Key>
           <Key ID="str_a3_c_in2_bis_mech_marker">
             <Original>GET IN</Original>
@@ -470,7 +470,7 @@
           <Key ID="str_a3_c_in2_bis_mech_desc">
             <Original>Your team is down. Rendezvous with Delta 3-1 and assist with the defense.</Original>
             <Chinese>你的小隊已經陣亡了。請與"Delta3-1"會合並協助防禦。</Chinese>
-            <Chinesesimp>你的小组已经全灭了。请与"德尔塔3-1"会合并协助防御。</Chinesesimp>
+            <Chinesesimp>你的小组已经全灭了。请与Delta3-1"会合并协助防御。</Chinesesimp>
           </Key>
           <Key ID="str_a3_c_in2_bis_fia_title">
             <Original>Meet the FIA</Original>
@@ -500,7 +500,7 @@
           <Key ID="str_a3_c_in2_bis_defenses_desc">
             <Original>Coordinate with Delta 3-1 to retake %1the eastern defenses%2.</Original>
             <Chinese>與"Delta3-1"合作，重新奪回%1東區防禦%2。</Chinese>
-            <Chinesesimp>与"德尔塔3-1"合作，重新夺回%1东区防御%2。</Chinesesimp>
+            <Chinesesimp>与Delta3-1"合作，重新夺回%1东区防御%2。</Chinesesimp>
           </Key>
           <Key ID="str_a3_c_in2_bis_defend_title">
             <Original>Defend Neochori</Original>
@@ -511,14 +511,14 @@
             <Key ID="str_a3_c_in2_x15_support_apc_destroyed_bhq_0">
               <Original>Kerry, Delta 3-2 is unresponsive! Looks like we lost them! Out!</Original>
               <Chinese>克里，"Delta3-2"沒有回應!看來我們已經失去他們了!通話完畢!</Chinese>
-              <Chinesesimp>克里，"德尔塔3-2"没有回应!看来我们已经失去他们了!通话完毕!</Chinesesimp>
+              <Chinesesimp>克里，Delta3-2"没有回应!看来我们已经失去他们了!通话完毕!</Chinesesimp>
             </Key>
           </Container>
           <Container name="x10_Squad_Dead" audioFilePath="\a3\dubbing_f_epc\c_in2" dialogName="x10_Squad_Dead" dubbingLanguage="english" namePrefix="c_in2_x10_squad_dead" note="" participants="EPC B HQ;EPC B Player;" situation="kerry is told that the squad supporting him have been killed.">
             <Key ID="str_a3_c_in2_x10_squad_dead_bhq_0">
               <Original>All units, be advised, we've lost comms with Delta-3-1! Presumed KIA! Out!</Original>
               <Chinese>所有單位，請注意，我們已經與"Delta3-1"失去聯繫!推斷已經全員陣亡!通話完畢!</Chinese>
-              <Chinesesimp>所有单位，请注意，我们已经与"德尔塔3-1"失去联系!推断已经全员阵亡!通话完毕!</Chinesesimp>
+              <Chinesesimp>所有单位，请注意，我们已经与Delta3-1"失去联系!推断已经全员阵亡!通话完毕!</Chinesesimp>
             </Key>
           </Container>
           <Container name="x05_APC_Destroyed" audioFilePath="\a3\dubbing_f_epc\c_in2" dialogName="x05_APC_Destroyed" dubbingLanguage="english" namePrefix="c_in2_x05_apc_destroyed" note="" participants="EPC B Abstract B;EPC B Player;" situation="kerry is told that the apc was destroyed.">
@@ -600,7 +600,7 @@
             <Key ID="str_a3_c_in2_90_sea_assault_aba_1">
               <Original>Delta-3-2, interdict! Out!</Original>
               <Chinese>"Delta-3-2"，請阻止他們!通話完畢!</Chinese>
-              <Chinesesimp>"德尔塔"-3-2，拦截他们!通话完毕!</Chinesesimp>
+              <Chinesesimp>Delta-3-2，拦截他们!通话完毕!</Chinesesimp>
             </Key>
           </Container>
           <Container name="85_No_Gunships" audioFilePath="\a3\dubbing_f_epc\c_in2" dialogName="85_No_Gunships" dubbingLanguage="english" namePrefix="c_in2_85_no_gunships" note="" participants="EPC B HQ;EPC B Player;" situation="crossroads tells kerry that they can't get gunships airborne.">
@@ -661,7 +661,7 @@
             <Key ID="str_a3_c_in2_75_take_command_bhq_3">
               <Original>Delta-3-1, I want you to assist! How copy?</Original>
               <Chinese>"Delta-3-1"，我要你幫忙協助!有收到嗎?</Chinese>
-              <Chinesesimp>"德尔塔-3-1"，我要你帮忙协助!有收到吗?</Chinesesimp>
+              <Chinesesimp>Delta-3-1"，我要你帮忙协助!有收到吗?</Chinesesimp>
             </Key>
           </Container>
           <Container name="70_FIA" audioFilePath="\a3\dubbing_f_epc\c_in2" dialogName="70_FIA" dubbingLanguage="english" namePrefix="c_in2_70_fia" note="" participants="EPC B HQ;EPC I Nikos;EPC B Player;EPC B Abstract B;" situation="the fia contact nato, kerry specifically.">
@@ -687,8 +687,8 @@
             </Key>
             <Key ID="str_a3_c_in2_70_fia_bhq_2">
               <Original>Do as Delta says, Kerry! Over!</Original>
-              <Chinese>照"Delta"所說的，克里!完畢!</Chinese>
-              <Chinesesimp>照"德尔塔"所说的做，克里!完毕!</Chinesesimp>
+              <Chinese>照Delta所說的，克里!完畢!</Chinese>
+              <Chinesesimp>照Delta所说的做，克里!完毕!</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in2_70_fia_nik_1">
               <Original>Listen, there's little time. Our brothers are engaging those gunships.</Original>
@@ -726,8 +726,8 @@
           <Container name="60_Pushing" audioFilePath="\a3\dubbing_f_epc\c_in2" dialogName="60_Pushing" dubbingLanguage="english" namePrefix="c_in2_60_pushing" note="" participants="EPC B Abstract B;EPC B Player;" situation="the reinforcements move in.">
             <Key ID="str_a3_c_in2_60_pushing_abb_0">
               <Original>Copy, Crossroads. Delta's rolling! Out!</Original>
-              <Chinese>收到，"交叉路"。"Delta"開始移動!通話完畢!</Chinese>
-              <Chinesesimp>收到，"交叉路口"。"德尔塔"开始移动!通话完毕!</Chinesesimp>
+              <Chinese>收到，"交叉路"。Delta開始移動!通話完畢!</Chinese>
+              <Chinesesimp>收到，"交叉路口"。Delta开始移动!通话完毕!</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in2_60_pushing_abb_1">
               <Original>Alright! Gun it, guys!</Original>
@@ -777,8 +777,8 @@
             </Key>
             <Key ID="str_a3_c_in2_45_plan_bhq_0">
               <Original>Confirmed! Kerry, assist Delta with the defense! Out!</Original>
-              <Chinese>確認!克里，請協助"Delta"進行防守!通話完畢!</Chinese>
-              <Chinesesimp>确认!克里，请协助"德尔塔"进行防守!通话完毕!</Chinesesimp>
+              <Chinese>確認!克里，請協助Delta進行防守!通話完畢!</Chinese>
+              <Chinesesimp>确认!克里，请协助Delta进行防守!通话完毕!</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_Defend" audioFilePath="\a3\dubbing_f_epc\c_in2" dialogName="40_Defend" dubbingLanguage="english" namePrefix="c_in2_40_defend" note="" participants="EPC B HQ;EPC B Player;" situation="crossroads issues the order to defend against the attack.">
@@ -789,8 +789,8 @@
             </Key>
             <Key ID="str_a3_c_in2_40_defend_bhq_1">
               <Original>Delta-3-1, divert to assist Charlie at Neochori! Over!</Original>
-              <Chinese>"Delta-3-1"，請前往内奧霍里協助"查理"!完畢!</Chinese>
-              <Chinesesimp>"德尔塔-3-1"，请前往内奥霍里协助"查理"!完毕!</Chinesesimp>
+              <Chinese>"Delta-3-1"，請前往内奧霍里協助Charlie!完畢!</Chinese>
+              <Chinesesimp>Delta-3-1"，请前往内奥霍里协助Charlie!完毕!</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in2_40_defend_ker_0">
               <Original>Crossroads, my whole unit's gone! What are my orders? Over!</Original>
@@ -801,13 +801,13 @@
           <Container name="35_Attack" audioFilePath="\a3\dubbing_f_epc\c_in2" dialogName="35_Attack" dubbingLanguage="english" namePrefix="c_in2_35_attack" note="" participants="EPC B HQ;EPC B Player;EPC B Abstract A;EPC B Abstract B;" situation="csat destroy nato aa and begin their attack.">
             <Key ID="str_a3_c_in2_35_attack_aba_0">
               <Original>This is Charlie-2-2! Confirmed! Over!</Original>
-              <Chinese>這裡是"查理"-2-2!他說的沒錯!完畢!</Chinese>
-              <Chinesesimp>这里是"查理"-2-2!他说的没错!完毕!</Chinesesimp>
+              <Chinese>這裡是Charlie-2-2!他說的沒錯!完畢!</Chinese>
+              <Chinesesimp>这里是Charlie-2-2!他说的没错!完毕!</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in2_35_attack_abb_0">
               <Original>Crossroads, this is Delta-3-1! We're on station! Orders? Over!</Original>
               <Chinese>"交叉路"，這裡是"Delta-3-1"!我們就定位了!命令是?完畢!</Chinese>
-              <Chinesesimp>"交叉路口"，这里是"德尔塔-3-1"!我们就位了!命令是?完毕!</Chinesesimp>
+              <Chinesesimp>"交叉路口"，这里是Delta-3-1"!我们就位了!命令是?完毕!</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in2_35_attack_bhq_0">
               <Original>All units, status report! What the hell just happened?</Original>
@@ -831,8 +831,8 @@
             </Key>
             <Key ID="str_a3_c_in2_35_attack_ker_1">
               <Original>Uh - our AA - Omicron - Kilo, and... Starfire! I can see the fires from here!</Original>
-              <Chinese>呃-我們的防空陣地-"奧米克戎"-"Kilo"，還有..."星火"!我從這裡就可以看到那邊的火光!</Chinese>
-              <Chinesesimp>呃-我们的防空阵地-"奥米克戎"-"基洛"，还有..."星火"!我从这里就可以看到那边的火光!</Chinesesimp>
+              <Chinese>呃-我們的防空陣地-"奧米克戎"-Kilo，還有..."星火"!我從這裡就可以看到那邊的火光!</Chinese>
+              <Chinesesimp>呃-我们的防空阵地-"奥米克戎"-Kilo，还有..."星火"!我从这里就可以看到那边的火光!</Chinesesimp>
             </Key>
           </Container>
           <Container name="30_Team_Dead" audioFilePath="\a3\dubbing_f_epc\c_in2" dialogName="30_Team_Dead" dubbingLanguage="english" namePrefix="c_in2_30_team_dead" note="" participants="EPC B Player;" situation="kerry finds his team dead.">
@@ -858,12 +858,12 @@
             <Key ID="str_a3_c_in2_20_qrf_bhq_0">
               <Original>Copy 2-4, dispatching Delta-3-1 as QRF to your pos. Wait one. Out.</Original>
               <Chinese>收到2-4，正在派遣"Delta-3-1"做為快速應變部隊到你們的位置。請稍等。通話完畢。</Chinese>
-              <Chinesesimp>收到2-4，正在派遣"德尔塔-3-1"做为快速反应部队到你们的位置。请稍等。通话完毕。</Chinesesimp>
+              <Chinesesimp>收到2-4，正在派遣Delta-3-1"做为快速反应部队到你们的位置。请稍等。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in2_20_qrf_mem_0">
               <Original>Crossroads, Charlie-2-4, possible enemy landing craft hitting Katalaki. Over.</Original>
               <Chinese>"交叉路"，"Charlie-2-4"，發現疑似敵軍登陸艇正在靠近卡塔拉基中。完畢。</Chinese>
-              <Chinesesimp>"交叉路口"，"查理"-2-4，发现疑似敌军登陆艇正在靠近卡塔拉基。完毕。</Chinesesimp>
+              <Chinesesimp>"交叉路口"，Charlie-2-4，发现疑似敌军登陆艇正在靠近卡塔拉基。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_Contact" audioFilePath="\a3\dubbing_f_epc\c_in2" dialogName="15_Contact" dubbingLanguage="english" namePrefix="c_in2_15_contact" note="" participants="EPC B Player;EPC B Member;" situation="kerry reports the landing craft to his co.">
@@ -911,7 +911,7 @@
             <Key ID="str_a3_c_in2_100_defend_bhq_0">
               <Original>Delta-3-2, assist Nomad with the defense! Crossroads out!</Original>
               <Chinese>"Delta-3-2"，請協助"游牧民"進行防守!"交叉路"通話完畢!</Chinese>
-              <Chinesesimp>"德尔塔-3-2"，请协助"游牧民"进行防守!"交叉路口"通话完毕!</Chinesesimp>
+              <Chinesesimp>Delta-3-2"，请协助"游牧民"进行防守!"交叉路口"通话完毕!</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in2_100_defend_ker_0">
               <Original>Solid copy, Crossroads! We'll do our best!</Original>
@@ -992,8 +992,8 @@
           </Key>
           <Key ID="str_a3_campaign_c_m01_task08_text">
             <Original>Make sure the %2LZ%1 is clear so %3Golf%1 can safely pick you up.</Original>
-            <Chinese>請確保%2降落點%1是安全的，這樣才能讓%3"Golf"%1來安全的接送你們小隊。</Chinese>
-            <Chinesesimp>请确保%2降落点%1是安全的，这样才能让%3"高尔夫"%1来安全的接送你们小队。</Chinesesimp>
+            <Chinese>請確保%2降落點%1是安全的，這樣才能讓%3Golf%1來安全的接送你們小隊。</Chinese>
+            <Chinesesimp>请确保%2降落点%1是安全的，这样才能让%3Golf%1来安全的接送你们小队。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m01_task07_wp">
             <Original>DESTROY</Original>
@@ -1037,8 +1037,8 @@
           </Key>
           <Key ID="str_a3_campaign_c_m01_task05_text">
             <Original>After the %2LZ%1 was secured, wait for %3Golf%1 to pick you up.</Original>
-            <Chinese>在%2降落點%1安全之後，請等待%3"Golf"%1來接送你們小隊。</Chinese>
-            <Chinesesimp>在%2降落点%1安全之后，请等待%3"高尔夫"%1来接送你班。</Chinesesimp>
+            <Chinese>在%2降落點%1安全之後，請等待%3Golf%1來接送你們小隊。</Chinese>
+            <Chinesesimp>在%2降落点%1安全之后，请等待%3Golf%1来接送你班。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m01_task04_wp">
             <Original>SEIZE</Original>
@@ -1052,8 +1052,8 @@
           </Key>
           <Key ID="str_a3_campaign_c_m01_task04_text">
             <Original>Eliminate any enemy threat you come across in the %2factory complex%1. %3Team Echo%1 will join the attack on your command.</Original>
-            <Chinese>肅清在%2工廠%1裡的所有敵人。%3"Echo"小隊%1會等待你的命令，協同你一起肅清。</Chinese>
-            <Chinesesimp>肃清在%2工厂%1里的所有敌人。%3"回声"小组%1会等待你的命令，协同你一起肃清。</Chinesesimp>
+            <Chinese>肅清在%2工廠%1裡的所有敵人。%3Echo小隊%1會等待你的命令，協同你一起肅清。</Chinese>
+            <Chinesesimp>肃清在%2工厂%1里的所有敌人。%3Echo小组%1会等待你的命令，协同你一起肃清。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m01_task03_wp">
             <Original>MOVE</Original>
@@ -1108,7 +1108,7 @@
           <Key ID="str_a3_campaign_c_m01_other01">
             <Original>Echo 1 - move in</Original>
             <Chinese>"Echo-1"-開始進發</Chinese>
-            <Chinesesimp>"回声-1"-开始进发</Chinesesimp>
+            <Chinesesimp>Echo-1"-开始进发</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m01_mrkr03">
             <Original>FUP</Original>
@@ -1142,13 +1142,13 @@
           </Key>
           <Key ID="str_a3_campaign_c_m01_brief_situation">
             <Original>Our first attempt to seize the %3main airport%2 failed.%1However, after repelling an enemy counterattack, our forces are rallying for a decisive second assault. Meanwhile, recon reports that CSAT forces have pulled back from the front lines. It's unlikely we'll encounter anything other than AAF resistance.%1Your callsign's Nomad. You've proven yourself to be a trusted contact with the FIA, and an effective presence on the battlefield. You'll lead a small group of guerrillas in support of our three-stage main assault.%1Stage One: Our artillery will target the main CSAT armored defense in the %3airbase%2, securing the path for our assault force.%1Stage Two: Teams %4Nomad%2 and %5Echo%2 will eliminate any threat at a %6factory complex%2 near %7Lakka%2. The AAF garrison there consists of infantry and some APCs. It could strike at our forces from the rear and must be neutralized. The %8military installation%2 overlooking the %6complex%2 was hit by our artillery at 0430 and UAVs did not confirm any remaining enemy presence.%1Stage Three: When the factory complex is clear, teams %5Echo%2 and %4Nomad%2 will join the main assault on the %3airport%2.</Original>
-            <Chinese>我們第一次肅清%3主機場%2的任務失敗了。%1然而，在我們成功抵禦了敵人的反攻之後，我們的部隊終於又集結了力量，準備進行第二次嘗試。同時，偵察報告指出廣協同盟已經從前線撤走了。看來目前我們只會遇到阿爾蒂斯武裝力量的抵抗。%1你小隊的呼號是"游牧民"。你已經證明了你是跟自由獨立同盟聯絡的一個很好的橋樑，也證明了你在戰場上的價值。你將帶領一支反抗軍小隊，協助我們進行三階段的突擊計劃。%1第一階段:我們的火炮將會對%3空軍基地%2裡的廣協同盟裝甲部隊進行壓制，為我們的主要突擊部隊清出一條路。%1第二階段:%4"游牧民"%2小隊和%5"Echo"%2將會肅清%7拉卡%2附近的%6工廠%2。那裡有一些阿爾蒂斯武裝力量守軍與裝甲運兵車。他們可能會造成我軍後方的危脅，所以必須殲滅之。俯瞰著%6工廠%2的%8軍事設施%2，在04:30的時候已經被我們的火炮給摧毀，而空中無人載具的報告指出那裡目前已經沒有殘餘的敵人了。%1第三階段:當工廠安全了後，%5"Echo"%2與%4"游牧民"%2小隊將會加入主要突擊，協助我們攻擊%3機場%2。</Chinese>
-            <Chinesesimp>我们第一次肃清%3主机场%2的任务失败了。%1然而，在我们成功抵御了敌人的反攻之后，我们的部队终于又集结了力量，准备进行决定性的第二次尝试。同时，侦察报告指出广协已经从前线撤走了。看来目前我们只会遇到AAF的抵抗。%1你小队的呼号是"游牧民"。你已经证明了你是跟FIA联络的一个很好的桥梁，也证明了你在战场上的价值。你将带领一支反抗军小队，协助我们进行三阶段的突击计划。%1第一阶段:我们的火炮将会对%3空军基地%2里的广协装甲部队进行压制，为我们的主要突击部队清出一条路。%1第二阶段:%4"游牧民"%2小队和%5"回声"%2将会肃清%7拉卡%2附近的%6工厂%2。那里有一些AAF守军与装甲运兵车。他们可能会造成我军后方的危胁，所以必须歼灭之。俯瞰着%6工厂%2的%8军事设施%2在04:30时已被我火炮摧毁，而无人机报告指出那里目前已经没有残余的敌人了。%1第三阶段:当工厂安全了后，%5"回声"%2与%4"游牧民"%2小队将会加入主要突击，协助我们攻击%3机场%2。</Chinesesimp>
+            <Chinese>我們第一次肅清%3主機場%2的任務失敗了。%1然而，在我們成功抵禦了敵人的反攻之後，我們的部隊終於又集結了力量，準備進行第二次嘗試。同時，偵察報告指出廣協同盟已經從前線撤走了。看來目前我們只會遇到阿爾蒂斯武裝力量的抵抗。%1你小隊的呼號是"游牧民"。你已經證明了你是跟自由獨立同盟聯絡的一個很好的橋樑，也證明了你在戰場上的價值。你將帶領一支反抗軍小隊，協助我們進行三階段的突擊計劃。%1第一階段:我們的火炮將會對%3空軍基地%2裡的廣協同盟裝甲部隊進行壓制，為我們的主要突擊部隊清出一條路。%1第二階段:%4"游牧民"%2小隊和%5Echo%2將會肅清%7拉卡%2附近的%6工廠%2。那裡有一些阿爾蒂斯武裝力量守軍與裝甲運兵車。他們可能會造成我軍後方的危脅，所以必須殲滅之。俯瞰著%6工廠%2的%8軍事設施%2，在04:30的時候已經被我們的火炮給摧毀，而空中無人載具的報告指出那裡目前已經沒有殘餘的敵人了。%1第三階段:當工廠安全了後，%5Echo%2與%4"游牧民"%2小隊將會加入主要突擊，協助我們攻擊%3機場%2。</Chinese>
+            <Chinesesimp>我们第一次肃清%3主机场%2的任务失败了。%1然而，在我们成功抵御了敌人的反攻之后，我们的部队终于又集结了力量，准备进行决定性的第二次尝试。同时，侦察报告指出广协已经从前线撤走了。看来目前我们只会遇到AAF的抵抗。%1你小队的呼号是"游牧民"。你已经证明了你是跟FIA联络的一个很好的桥梁，也证明了你在战场上的价值。你将带领一支反抗军小队，协助我们进行三阶段的突击计划。%1第一阶段:我们的火炮将会对%3空军基地%2里的广协装甲部队进行压制，为我们的主要突击部队清出一条路。%1第二阶段:%4"游牧民"%2小队和%5Echo%2将会肃清%7拉卡%2附近的%6工厂%2。那里有一些AAF守军与装甲运兵车。他们可能会造成我军后方的危胁，所以必须歼灭之。俯瞰着%6工厂%2的%8军事设施%2在04:30时已被我火炮摧毁，而无人机报告指出那里目前已经没有残余的敌人了。%1第三阶段:当工厂安全了后，%5Echo%2与%4"游牧民"%2小队将会加入主要突击，协助我们攻击%3机场%2。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m01_brief_signal">
             <Original>%2Nomad%1 - Your team.%3%4Echo%1 - Armored team reinforcing your assault on the %6factory complex%1.%3%5Golf%1 - Your airlift. It will provide transport to the %7airbase%1.%3Crossroads - Command.</Original>
-            <Chinese>%2"游牧民"%1-你的小隊。%3%4"Echo"%1-裝甲小隊，支援你突擊%6工廠%1。%3%5"Golf"%1-你的空中運輸。它會載你去%7空軍基地%1。%3"交叉路"-指揮官。</Chinese>
-            <Chinesesimp>%2"游牧民"%1-你的小队。%3%4"回声"%1-装甲小队，支援你突击%6工厂%1。%3%5"高尔夫"%1-你的空中运输。它会载你去%7空军基地%1。%3"交叉路口"-指挥官。</Chinesesimp>
+            <Chinese>%2"游牧民"%1-你的小隊。%3%4Echo%1-裝甲小隊，支援你突擊%6工廠%1。%3%5Golf%1-你的空中運輸。它會載你去%7空軍基地%1。%3"交叉路"-指揮官。</Chinese>
+            <Chinesesimp>%2"游牧民"%1-你的小队。%3%4Echo%1-装甲小队，支援你突击%6工厂%1。%3%5Golf%1-你的空中运输。它会载你去%7空军基地%1。%3"交叉路口"-指挥官。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m01_brief_mission">
             <Original>Take command of a small FIA force and support the main assault by eliminating any potential threat at a nearby %1factory complex%2.</Original>
@@ -1157,14 +1157,14 @@
           </Key>
           <Key ID="str_a3_campaign_c_m01_brief_execution">
             <Original>%2Link up with the rest of your team%1%3Travel to %7Lakka%8%1%4Clear the %9factory complex%8 in cooperation with team %12Echo%8%1%5Secure the %10LZ%8%1%6Travel to the %11airbase%8 and join our assault</Original>
-            <Chinese>%2與你剩下的隊員會合%1%3前往%7拉卡%8%1%4與%12"Echo"%8一同肅清%9工廠%8%1%5肅清%10降落點%8%1%6前往%11空軍基地%8並加入主要突擊</Chinese>
-            <Chinesesimp>%2与你剩下的队员会合%1%3前往%7拉卡%8%1%4与%12"回声"%8一同肃清%9工厂%8%1%5肃清%10降落点%8%1%6前往%11空军基地%8并加入主要突击</Chinesesimp>
+            <Chinese>%2與你剩下的隊員會合%1%3前往%7拉卡%8%1%4與%12Echo%8一同肅清%9工廠%8%1%5肅清%10降落點%8%1%6前往%11空軍基地%8並加入主要突擊</Chinese>
+            <Chinesesimp>%2与你剩下的队员会合%1%3前往%7拉卡%8%1%4与%12Echo%8一同肃清%9工厂%8%1%5肃清%10降落点%8%1%6前往%11空军基地%8并加入主要突击</Chinesesimp>
           </Key>
           <Container name="x01_Support_Lost" audioFilePath="\a3\dubbing_f_epc\c_m01" dialogName="x01_Support_Lost" dubbingLanguage="english" namePrefix="c_m01_x01_support_lost" note="" participants="EPC B HQ;" situation="contact lost with team echo">
             <Key ID="str_a3_c_m01_x01_support_lost_bhq_0">
               <Original>Team Nomad, be advised. We've lost contact with Echo-1. It's up to you now. Crossroads out.</Original>
               <Chinese>"游牧民"小隊，請注意。我們已經與"Echo-1"失去聯繫。現在只能靠你們自己了。"交叉路"通話完畢。</Chinese>
-              <Chinesesimp>"游牧民"小组，请注意。我们已经与"回声-1"失去联系。现在只能靠你们自己了。"交叉路口"通话完毕。</Chinesesimp>
+              <Chinesesimp>"游牧民"小组，请注意。我们已经与Echo-1"失去联系。现在只能靠你们自己了。"交叉路口"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="i05_Securing_LZ" audioFilePath="\a3\dubbing_f_epc\c_m01" dialogName="i05_Securing_LZ" dubbingLanguage="english" namePrefix="c_m01_i05_securing_lz" note="" participants="EPC B Abstract B;" situation="golf 2-2 gives kerry some hints on securing the lz">
@@ -1181,7 +1181,7 @@
             <Key ID="str_a3_c_m01_i05_securing_lz_abb_2">
               <Original>Clear the area, assemble at the LZ and I'll take you to your new FUP. Golf-2-2 out.</Original>
               <Chinese>肅清該區，並在降落點集合，我會載你們去新的進攻出發位置。"Golf-2-2"通話完畢。</Chinese>
-              <Chinesesimp>肃清该区，并在降落点集合，我会载你们去新的进攻出发位置。"高尔夫-2-2"通话完毕。</Chinesesimp>
+              <Chinesesimp>肃清该区，并在降落点集合，我会载你们去新的进攻出发位置。Golf-2-2"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="i01_Combined_Assault" audioFilePath="\a3\dubbing_f_epc\c_m01" dialogName="i01_Combined_Assault" dubbingLanguage="english" namePrefix="c_m01_i01_combined_assault" note="" participants="EPC B Abstract A;" situation="echo 1 lead gives kerry some hints on combined assault">
@@ -1203,14 +1203,14 @@
             <Key ID="str_a3_c_m01_i01_combined_assault_aba_3">
               <Original>Once we seize the factory, we'll divert to the airbase. See you there. Echo-1 out.</Original>
               <Chinese>一但我們肅清完工廠，我們就會直接前往空軍基地。等下那裡見。"Echo-1"通話完畢。</Chinese>
-              <Chinesesimp>我们肃清完工厂之后就会直接前往空军基地。等下那里见。"回声-1"通话完毕。</Chinesesimp>
+              <Chinesesimp>我们肃清完工厂之后就会直接前往空军基地。等下那里见。Echo-1"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="47_Tremors2" audioFilePath="\a3\dubbing_f_epc\c_m01" dialogName="47_Tremors2" dubbingLanguage="english" namePrefix="c_m01_47_tremors2" note="" participants="EPC B Player;EPC B Member;EPC B HQ;" situation="earthquake during the assault">
             <Key ID="str_a3_c_m01_47_tremors2_bhq_0">
               <Original>Uh, that's a negative, Charlie-2-2. No further information at this time. Continue the operation. Crossroads out.</Original>
               <Chinese>呵，不是，"Charlie-2-2"。現在還暫時不知道發生了什麼事情。請繼續任務。"交叉路"通話完畢。</Chinese>
-              <Chinesesimp>呵，不是，"查理-2-2"。现在还暂时不知道发生了什么事情。请继续任务。"交叉路口"通话完毕。</Chinesesimp>
+              <Chinesesimp>呵，不是，Charlie-2-2"。现在还暂时不知道发生了什么事情。请继续任务。"交叉路口"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m01_47_tremors2_ker_0">
               <Original>Felt like a goddamn earthquake.</Original>
@@ -1240,8 +1240,8 @@
           <Container name="40_AA_Neutralized" audioFilePath="\a3\dubbing_f_epc\c_m01" dialogName="40_AA_Neutralized" dubbingLanguage="english" namePrefix="c_m01_40_aa_neutralized" note="" participants="EPC B Player;EPC B HQ;" situation="kerry reports point texas secured">
             <Key ID="str_a3_c_m01_40_aa_neutralized_bhq_0">
               <Original>Outstanding, Nomad. India, you're clear for takeoff.</Original>
-              <Chinese>幹的棒極了，"游牧民"。"印第安"，你已經可以安全起飛了。</Chinese>
-              <Chinesesimp>干的棒极了，"游牧民"。"印第安"，你已经可以安全起飞了。</Chinesesimp>
+              <Chinese>幹的棒極了，"游牧民"。India，你已經可以安全起飛了。</Chinese>
+              <Chinesesimp>干的棒极了，"游牧民"。India，你已经可以安全起飞了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m01_40_aa_neutralized_bhq_1">
               <Original>Nomad, stand by for further orders. Crossroads out.</Original>
@@ -1258,12 +1258,12 @@
             <Key ID="str_a3_c_m01_35_lift_going_down_abb_0">
               <Original>Golf-2-2 to Crossroads - we're under fire - Golf-2-2 sustaining heavy fire from ...</Original>
               <Chinese>"Golf-2-2"呼叫"交叉路"-我們正遭受攻擊-"Golf-2-2"正承受猛烈的攻擊，他們在...</Chinese>
-              <Chinesesimp>"高尔夫-2-2"呼叫"交叉路口"-我们正遭受攻击-"高尔夫-2-2"正承受猛烈的攻击，他们在...</Chinesesimp>
+              <Chinesesimp>Golf-2-2"呼叫"交叉路口"-我们正遭受攻击-Golf-2-2"正承受猛烈的攻击，他们在...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m01_35_lift_going_down_bhq_0">
               <Original>Golf-2-2, come in! ... Golf-2-2, respond!</Original>
               <Chinese>"Golf-2-2"，說話!..."Golf-2-2"，請回答!</Chinese>
-              <Chinesesimp>"高尔夫-2-2"，说话!..."高尔夫-2-2"，请回答!</Chinesesimp>
+              <Chinesesimp>Golf-2-2"，说话!...Golf-2-2"，请回答!</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m01_35_lift_going_down_ker_0">
               <Original>No, no, no - fuck!</Original>
@@ -1283,7 +1283,7 @@
             <Key ID="str_a3_c_m01_35_lift_going_down_ker_1">
               <Original>Crossroads, this is Nomad. Golf-2-2's down. AA fire from point Texas, over.</Original>
               <Chinese>"交叉路"，這裡是"游牧民"。"Golf-2-2"墜毀了。防空火力是從德克薩斯點傳來，完畢。</Chinese>
-              <Chinesesimp>"交叉路口"，这里是"游牧民"。"高尔夫-2-2"坠毁了。防空火力是从德克萨斯点打过来的，完毕。</Chinesesimp>
+              <Chinesesimp>"交叉路口"，这里是"游牧民"。Golf-2-2"坠毁了。防空火力是从德克萨斯点打过来的，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m01_35_lift_going_down_bhq_3">
               <Original>You need to secure that position. Good luck. Crossroads out.</Original>
@@ -1295,12 +1295,12 @@
             <Key ID="str_a3_c_m01_30_lz_secured_abb_0">
               <Original>Copy that. ETA 2 mikes. Golf-2-2 out.</Original>
               <Chinese>收到。預計2分鐘後抵達。"Golf-2-2"通話完畢。</Chinese>
-              <Chinesesimp>收到。预计2分钟后抵达。"高尔夫-2-2"通话完毕。</Chinesesimp>
+              <Chinesesimp>收到。预计2分钟后抵达。Golf-2-2"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m01_30_lz_secured_ker_0">
               <Original>Nomad to Golf-2-2, LZ secure. You're clear to move in, over.</Original>
               <Chinese>"游牧民"呼叫"Golf-2-2"，降落點已肅清。你可以安全的進來了，完畢。</Chinese>
-              <Chinesesimp>"游牧民"呼叫"高尔夫-2-2"，降落点已肃清。你可以安全的进来了，完毕。</Chinesesimp>
+              <Chinesesimp>"游牧民"呼叫Golf-2-2"，降落点已肃清。你可以安全的进来了，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="25_Complex_Seized" audioFilePath="\a3\dubbing_f_epc\c_m01" dialogName="25_Complex_Seized" dubbingLanguage="english" namePrefix="c_m01_25_complex_seized" note="" participants="EPC B Player;EPC B HQ;" situation="kerry reports the factory seized">
@@ -1329,36 +1329,36 @@
             <Key ID="str_a3_c_m01_20_support_attacking_aba_0">
               <Original>Copy that, Nomad. We're rolling. Echo 1 out.</Original>
               <Chinese>收到，"游牧民"。我們在路上了。"Echo-1"通話完畢。</Chinese>
-              <Chinesesimp>收到，"游牧民"。我们在路上了。"回声-1"通话完毕。</Chinesesimp>
+              <Chinesesimp>收到，"游牧民"。我们在路上了。Echo-1"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m01_20_support_attacking_ker_0">
               <Original>Nomad to Echo-1, move in, I say again, move in, over.</Original>
               <Chinese>"游牧民"呼叫"Echo-1"，開始攻擊，我重複一遍，開始攻擊，完畢。</Chinese>
-              <Chinesesimp>"游牧民"呼叫"回声-1"，开始攻击，我重复一遍，开始攻击，完毕。</Chinesesimp>
+              <Chinesesimp>"游牧民"呼叫Echo-1"，开始攻击，我重复一遍，开始攻击，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_Support_Ready" audioFilePath="\a3\dubbing_f_epc\c_m01" dialogName="15_Support_Ready" dubbingLanguage="english" namePrefix="c_m01_15_support_ready" note="" participants="EPC B Abstract A;EPC B HQ;" situation="fill the description here">
             <Key ID="str_a3_c_m01_15_support_ready_aba_0">
               <Original>Echo-1 to Crossroads, we're in position, over.</Original>
               <Chinese>"Echo-1"致"交叉路"，我們就定位了，完畢。</Chinese>
-              <Chinesesimp>"回声-1"致"交叉路口"，我们就位了，完毕。</Chinesesimp>
+              <Chinesesimp>Echo-1"致"交叉路口"，我们就位了，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m01_15_support_ready_bhq_0">
               <Original>Copy that, Echo-1.</Original>
-              <Chinese>收到，"Echo"-1。</Chinese>
-              <Chinesesimp>收到，"回声"-1。</Chinesesimp>
+              <Chinese>收到，Echo-1。</Chinese>
+              <Chinesesimp>收到，Echo-1。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m01_15_support_ready_bhq_1">
               <Original>Crossroads to teams Echo-1 and Nomad, proceed with Stage Two, out.</Original>
               <Chinese>"交叉路"致"Echo-1"與"游牧民"小隊，開始第二階段，通話完畢。</Chinese>
-              <Chinesesimp>"交叉路口"致"回声-1"与"游牧民"，开始第二阶段，通话完毕。</Chinesesimp>
+              <Chinesesimp>"交叉路口"致Echo-1"与"游牧民"，开始第二阶段，通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_Lift_Overhead" audioFilePath="\a3\dubbing_f_epc\c_m01" dialogName="10_Lift_Overhead" dubbingLanguage="english" namePrefix="c_m01_10_lift_overhead" note="" participants="EPC B Player;" situation="kerry's lift is flying overhead">
             <Key ID="str_a3_c_m01_10_lift_overhead_ker_0">
               <Original>That's Golf-2-2, our ride. It'll wait for us at that OP.</Original>
               <Chinese>那是"Golf-2-2"，等下負責接送我們的。它會在那個等待點等我們。</Chinese>
-              <Chinesesimp>那是"高尔夫-2-2"，等下负责接送我们的。它会在那个观察哨等我们。</Chinesesimp>
+              <Chinesesimp>那是Golf-2-2"，等下负责接送我们的。它会在那个观察哨等我们。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_Hello" audioFilePath="\a3\dubbing_f_epc\c_m01" dialogName="05_Hello" dubbingLanguage="english" namePrefix="c_m01_05_hello" note="" participants="EPC B Player;EPC I Guerrilla A;" situation="kerry briefs his team on the way to their objective">
@@ -1400,7 +1400,7 @@
             <Key ID="str_a3_c_m01_05_hello_ker_4">
               <Original>As a matter of fact, he did: we've got a couple of APC's on standby, callsign Echo-1. They're waiting for the signal to move in.</Original>
               <Chinese>事實上，是有的:我們有兩輛裝甲運兵車在待命中，呼號是"Echo-1"。他們會等待信號並一起攻擊。</Chinese>
-              <Chinesesimp>事实上，是有的:我们有几辆装甲运兵车在待命中，呼号是"回声-1"。他们收到信号就跟我们一起上。</Chinesesimp>
+              <Chinesesimp>事实上，是有的:我们有几辆装甲运兵车在待命中，呼号是Echo-1"。他们收到信号就跟我们一起上。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m01_05_hello_ker_5">
               <Original>Right. So - once the factory is secure - we move to Stage Three. We'll get an airlift to the base and link up with the main assault.</Original>
@@ -1587,12 +1587,12 @@
           <Key ID="str_a3_campaign_c_m02_task_description_meetpinnedleader">
             <Original>Meet Charlie-2-3's CO at this position.</Original>
             <Chinese>與"Charlie-2-3"的班長見面。</Chinese>
-            <Chinesesimp>与"查理-2-3"的指挥官见面。</Chinesesimp>
+            <Chinesesimp>与Charlie-2-3"的指挥官见面。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m02_task_description_helpsquad">
             <Original>Move along the highway and assist Charlie-2-3, who are pinned down at the city's main entrance.</Original>
             <Chinese>沿著公路前往"Charlie-2-3"的位置，他們被壓制在城鎮的主要入口處，請協助他們。</Chinese>
-            <Chinesesimp>沿着公路前往"查理-2-3"的位置，他们被压制在城镇的主要入口处，请协助他们。</Chinesesimp>
+            <Chinesesimp>沿着公路前往Charlie-2-3"的位置，他们被压制在城镇的主要入口处，请协助他们。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m02_task_description_followleader">
             <Original>Follow your team leader in order to meet the officer in command.</Original>
@@ -1617,7 +1617,7 @@
           <Key ID="str_a3_campaign_c_m02_task_description_antitank">
             <Original>Take your team and neutralize enemy anti-armor defenses at point Xray.</Original>
             <Chinese>帶著你的小隊去殲滅敵方在愛克斯光點的反裝甲防禦工事。</Chinese>
-            <Chinesesimp>带着你的小队去歼灭敌方在爱克斯光点的反装甲防御工事。</Chinesesimp>
+            <Chinesesimp>带着你的小队去歼灭敌方在X-ray点的反装甲防御工事。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m02_supports_strike">
             <Original>Artillery Strike</Original>
@@ -1627,12 +1627,12 @@
           <Key ID="str_a3_campaign_c_m02_marker_yankee">
             <Original>Yankee</Original>
             <Chinese>Yankee</Chinese>
-            <Chinesesimp>扬基</Chinesesimp>
+            <Chinesesimp>Yankee</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m02_marker_xray">
             <Original>Xray</Original>
             <Chinese>X-Ray</Chinese>
-            <Chinesesimp>爱克斯光</Chinesesimp>
+            <Chinesesimp>X-ray</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m02_marker_gamma">
             <Original>Gamma</Original>
@@ -1676,8 +1676,8 @@
           </Key>
           <Key ID="str_a3_campaign_c_m02_briefing_signal">
             <Original>%3Nomad-2%2 - You%1%3Bravo-2-3%2 - Your team%1Crossroads - Head Quarters%1%4Serpent%2 - Convoy%1Charlie-2-3 - Support Infantry</Original>
-            <Chinese>%3"游牧民"-2%2-你%1%3"Bravo"-2-3%2-你的小隊%1"交叉路"-指揮官%1%4"海蛇"%2-車隊%1"Charlie-2-3"-支援步兵班</Chinese>
-            <Chinesesimp>%3"游牧民"-2%2-你%1%3"布拉沃"-2-3%2-你的小队%1"交叉路口"-指挥官%1%4"海蛇"%2-车队%1"查理-2-3"-支援步兵</Chinesesimp>
+            <Chinese>%3"游牧民"-2%2-你%1%3Bravo-2-3%2-你的小隊%1"交叉路"-指揮官%1%4"海蛇"%2-車隊%1"Charlie-2-3"-支援步兵班</Chinese>
+            <Chinesesimp>%3"游牧民"-2%2-你%1%3Bravo-2-3%2-你的小队%1"交叉路口"-指挥官%1%4"海蛇"%2-车队%1Charlie-2-3"-支援步兵</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m02_briefing_mission">
             <Original>Link up with the convoy and secure our %3east flank%2. Holding that position will give us the upper hand when engaging the AAF base.</Original>
@@ -1798,7 +1798,7 @@
             <Key ID="str_a3_c_m02_i05_plan_lea_0">
               <Original>We're moving to assist Charlie-2-3. They're pinned down, have taken casualties, and need our support.</Original>
               <Chinese>我們正在前往支援"Charlie-2-3"的路上。他們被壓制住了，並已有多名傷亡，他們急需我們的支援。</Chinese>
-              <Chinesesimp>我们正在前往支援"查理-2-3"的路上。他们被压制住了，并已有多名伤亡，他们急需我们的支援。</Chinesesimp>
+              <Chinesesimp>我们正在前往支援Charlie-2-3"的路上。他们被压制住了，并已有多名伤亡，他们急需我们的支援。</Chinesesimp>
             </Key>
           </Container>
           <Container name="i00_situation" audioFilePath="\a3\dubbing_f_epc\c_m02" dialogName="i00_situation" dubbingLanguage="english" namePrefix="c_m02_i00_situation" note="" participants="EPC B Leader;EPC B Player;" situation="squad leader explains kerry about the general mission plan">
@@ -1815,7 +1815,7 @@
             <Key ID="str_a3_c_m02_i00_situation_lea_1">
               <Original>We're moving to Point Yankee; it's a bunch of abandoned warehouses.</Original>
               <Chinese>我們正在向Yankee點;那邊有一堆的廢棄倉庫。</Chinese>
-              <Chinesesimp>我们正在向扬基点;那边有一堆的废弃仓库。</Chinesesimp>
+              <Chinesesimp>我们正在向Yankee点;那边有一堆的废弃仓库。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_i00_situation_lea_2">
               <Original>The bombardment's already underway. We're dropping a metric fuck-ton of shit on them.</Original>
@@ -1827,7 +1827,7 @@
             <Key ID="str_a3_c_m02_95_reinforcementsarrived_bhq_0">
               <Original>Bravo-2-3, priority, move in and support Charlie 2-3 ASAP.</Original>
               <Chinese>"Bravo-2-3"，優先目標，請立即移動到"Charlie2-3"的位置並支援他們。</Chinese>
-              <Chinesesimp>"布拉沃-2-3"，优先目标，请立即移动到"查理2-3"的位置并支援他们。</Chinesesimp>
+              <Chinesesimp>Bravo-2-3"，优先目标，请立即移动到Charlie2-3"的位置并支援他们。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_95_reinforcementsarrived_lea_0">
               <Original>Copy that, we're moving now.</Original>
@@ -1839,12 +1839,12 @@
             <Key ID="str_a3_c_m02_90_pinnedsquadhelphq_bhq_0">
               <Original>Bravo-2-3, I'm sending Charlie-2-2 to hold point Yankee.</Original>
               <Chinese>"Bravo-2-3"，我將派遣"Charlie-2-2"去接管Yankee點。</Chinese>
-              <Chinesesimp>"布拉沃-2-3"，我将派遣"查理-2-2"去接管扬基点。</Chinesesimp>
+              <Chinesesimp>Bravo-2-3"，我将派遣Charlie-2-2"去接管Yankee点。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_90_pinnedsquadhelphq_bhq_1">
               <Original>Once they arrive, move to Charlie-2-3's position and provide support, how copy?</Original>
               <Chinese>當他們抵達後，你們就移動到"Charlie-2-3"的位置並支援他們，有收到嗎?</Chinese>
-              <Chinesesimp>当他们抵达后，你们就移动到"查理-2-3"的位置并支援他们，有收到吗?</Chinesesimp>
+              <Chinesesimp>当他们抵达后，你们就移动到Charlie-2-3"的位置并支援他们，有收到吗?</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_90_pinnedsquadhelphq_lea_0">
               <Original>Understood, Crossroads. Out.</Original>
@@ -1856,7 +1856,7 @@
             <Key ID="str_a3_c_m02_85_pinnedsquadhelp_abb_0">
               <Original>Break, break. Crossroads this is Charlie-2-3.</Original>
               <Chinese>緊急插入，緊急插入。"交叉路"這裡是"Charlie-2-3"。</Chinese>
-              <Chinesesimp>紧急插入，紧急插入。"交叉路口"这里是"查理-2-3"。</Chinesesimp>
+              <Chinesesimp>紧急插入，紧急插入。"交叉路口"这里是Charlie-2-3"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_85_pinnedsquadhelp_abb_1">
               <Original>We're under heavy fire on the outskirts of Pyrgos. Multiple casualties. We're pinned down!</Original>
@@ -1871,24 +1871,24 @@
             <Key ID="str_a3_c_m02_85_pinnedsquadhelp_bhq_0">
               <Original>Understood, Charlie-2-3. Stay put and stay alive.</Original>
               <Chinese>了解，"Charlie-2-3"。固守原地，堅持下去。</Chinese>
-              <Chinesesimp>了解，"查理-2-3"。固守原地，坚持下去。</Chinesesimp>
+              <Chinesesimp>了解，Charlie-2-3"。固守原地，坚持下去。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_85_pinnedsquadhelp_bhq_1">
               <Original>We have no Air Support available at this time. Diverting Bravo-2-3 to support you. Out.</Original>
               <Chinese>我們現在沒有可用的空中支援。將派遣"Bravo-2-3"去支援你們。通話完畢。</Chinese>
-              <Chinesesimp>我们现在没有可用的空中支援。将派遣"布拉沃-2-3"去支援你们。通话完毕。</Chinesesimp>
+              <Chinesesimp>我们现在没有可用的空中支援。将派遣Bravo-2-3"去支援你们。通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="80_warehousesSecureHq" audioFilePath="\a3\dubbing_f_epc\c_m02" dialogName="80_warehousesSecureHq" dubbingLanguage="english" namePrefix="c_m02_80_warehousessecurehq" note="" participants="EPC B HQ;EPC B Leader;" situation="squad leader reports to hq about the objective/flank being secure">
             <Key ID="str_a3_c_m02_80_warehousessecurehq_bhq_0">
               <Original>Roger that, Bravo-2-3. Standby for further orders.</Original>
               <Chinese>了解，"Bravo-2-3"。請等待更進一步的命令。</Chinese>
-              <Chinesesimp>了解，"布拉沃-2-3"。请等待更进一步的命令。</Chinesesimp>
+              <Chinesesimp>了解，Bravo-2-3"。请等待更进一步的命令。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_80_warehousessecurehq_lea_0">
               <Original>Crossroads, Point Yankee's under our control. East flank is secure. Over.</Original>
               <Chinese>"交叉路"，Yankee點已經被我們給控制住了。東翼已安全。完畢。</Chinese>
-              <Chinesesimp>"交叉路口"，扬基点已经被我们给控制住了。东翼已安全。完毕。</Chinesesimp>
+              <Chinesesimp>"交叉路口"，Yankee点已经被我们给控制住了。东翼已安全。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="75_warehousesSecure" audioFilePath="\a3\dubbing_f_epc\c_m02" dialogName="75_warehousesSecure" dubbingLanguage="english" namePrefix="c_m02_75_warehousessecure" note="" participants="EPC B Leader;" situation="squad leader tells his subordinates that the warehouses complex is secure">
@@ -1902,7 +1902,7 @@
             <Key ID="str_a3_c_m02_70_anunexpectedcallhq_bhq_0">
               <Original>Goddammit. Foxtrot-3, cease artillery fire. Out.</Original>
               <Chinese>天殺的。"Foxtrot-3"，立即停止炮擊。通話完畢。</Chinese>
-              <Chinesesimp>天杀的。"狐步舞"-3，立即停止炮击。通话完毕。</Chinesesimp>
+              <Chinesesimp>天杀的。Foxtrot-3，立即停止炮击。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_70_anunexpectedcallhq_lea_0">
               <Original>Crossroads, be advised, our fire-missions are striking civilian structures in Pyrgos, how copy?</Original>
@@ -2045,19 +2045,19 @@
             <Key ID="str_a3_c_m02_45_pinnedsquadmoves_abb_0">
               <Original>Crossroads, this is Charlie-2-3, we're advancing on Pyrgos. Over.</Original>
               <Chinese>"交叉路"，這裡是"Charlie-2-3"，我們正在向皮爾戈斯推進。完畢。</Chinese>
-              <Chinesesimp>"交叉路口"，这里是"查理"-2-3，我们正在向皮尔戈斯推进。完毕。</Chinesesimp>
+              <Chinesesimp>"交叉路口"，这里是Charlie-2-3，我们正在向皮尔戈斯推进。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_45_pinnedsquadmoves_bhq_0">
               <Original>Copy that, Charlie-2-3.</Original>
               <Chinese>收到，"Charlie-2-3"。</Chinese>
-              <Chinesesimp>收到，"查理-2-3"。</Chinesesimp>
+              <Chinesesimp>收到，Charlie-2-3"。</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_attackWarehousesGroup" audioFilePath="\a3\dubbing_f_epc\c_m02" dialogName="40_attackWarehousesGroup" dubbingLanguage="english" namePrefix="c_m02_40_attackwarehousesgroup" note="" participants="EPC B Leader;" situation="squad leader gives a last, small briefing on how the team should proceed">
             <Key ID="str_a3_c_m02_40_attackwarehousesgroup_lea_0">
               <Original>Alright, stay low. Keep sharp. We're moving on Yankee now.</Original>
               <Chinese>好的，姿態壓低。保持警戒。我們開始前往Yankee。</Chinese>
-              <Chinesesimp>好的，姿态压低。保持警戒。我们开始向扬基开进。</Chinesesimp>
+              <Chinesesimp>好的，姿态压低。保持警戒。我们开始向Yankee开进。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_40_attackwarehousesgroup_lea_1">
               <Original>Let's go!</Original>
@@ -2069,7 +2069,7 @@
             <Key ID="str_a3_c_m02_35_attackwarehousesconvoy_aba_0">
               <Original>On it, Bravo-2-3.</Original>
               <Chinese>知道了，"Bravo-2-3"。</Chinese>
-              <Chinesesimp>知道了，"布拉沃-2-3"。</Chinesesimp>
+              <Chinesesimp>知道了，Bravo-2-3"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_35_attackwarehousesconvoy_lea_0">
               <Original>Serpent, move to the road - lay down some cover fire!</Original>
@@ -2081,7 +2081,7 @@
             <Key ID="str_a3_c_m02_30_attackwarehouses_bhq_0">
               <Original>Copy that, Bravo-2-3. Proceed with caution. Out.</Original>
               <Chinese>收到，"Bravo-2-3"。請小心行事。通話完畢。</Chinese>
-              <Chinesesimp>收到，"布拉沃-2-3"。请小心行事。通话完毕。</Chinesesimp>
+              <Chinesesimp>收到，Bravo-2-3"。请小心行事。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_30_attackwarehouses_lea_0">
               <Original>Crossroads, we're moving on our objective, how copy? Over.</Original>
@@ -2093,24 +2093,24 @@
             <Key ID="str_a3_c_m02_25_ambushclear_lea_0">
               <Original>Okay, form on me! Get set to assault Point Yankee.</Original>
               <Chinese>好的，跟著我!準備突擊Yankee點。</Chinese>
-              <Chinesesimp>好的，跟着我!准备突击扬基点。</Chinesesimp>
+              <Chinesesimp>好的，跟着我!准备突击Yankee点。</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_ambushHq" audioFilePath="\a3\dubbing_f_epc\c_m02" dialogName="20_ambushHq" dubbingLanguage="english" namePrefix="c_m02_20_ambushhq" note="" participants="EPC B HQ;EPC B Leader;" situation="squad leader relays information about enemy contact to hq">
             <Key ID="str_a3_c_m02_20_ambushhq_bhq_0">
               <Original>Copy that, Bravo 2-3. We need that flank secure. Lock it down and proceed to Yankee. Out.</Original>
               <Chinese>收到，"Bravo2-3"。我們必須確保那邊是安全的。請繼續前往Yankee點並肅清之。通話完畢。</Chinese>
-              <Chinesesimp>收到，"布拉沃2-3"。我们必须确保那边是安全的。请继续前往扬基点并肃清它。通话完毕。</Chinesesimp>
+              <Chinesesimp>收到，Bravo2-3"。我们必须确保那边是安全的。请继续前往Yankee点并肃清它。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_20_ambushhq_lea_0">
               <Original>Crossroads, this is Bravo-2-3, we've made contact en route to point Yankee.</Original>
               <Chinese>"交叉路"，這裡是"Bravo-2-3"，我們在前往Yankee點的路上遭遇敵人。</Chinese>
-              <Chinesesimp>"交叉路口"，这里是"布拉沃-2-3"，我们在前往扬基点的路上遭遇敌人。</Chinesesimp>
+              <Chinesesimp>"交叉路口"，这里是Bravo-2-3"，我们在前往Yankee点的路上遭遇敌人。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_20_ambushhq_lea_1">
               <Original>Possible enemy presence at Yankee, acknowledge!</Original>
               <Chinese>Yankee點可能有敵人在那，收到了嗎!</Chinese>
-              <Chinesesimp>扬基点可能有敌人，收到了吗!</Chinesesimp>
+              <Chinesesimp>Yankee点可能有敌人，收到了吗!</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_ambushGroup" audioFilePath="\a3\dubbing_f_epc\c_m02" dialogName="15_ambushGroup" dubbingLanguage="english" namePrefix="c_m02_15_ambushgroup" note="" participants="EPC B Leader;EPC B Player;EPC B Member;" situation="squad leader orders team to leave vehicles and defend the convoy">
@@ -2144,7 +2144,7 @@
             <Key ID="str_a3_c_m02_145_areaclear_lea_0">
               <Original>Crossroads, X-ray's clear. Over.</Original>
               <Chinese>"交叉路"，X-Ray點已經肅清。完畢。</Chinese>
-              <Chinesesimp>"交叉路口"，爱克斯光点已经肃清。完毕。</Chinesesimp>
+              <Chinesesimp>"交叉路口"，X-ray点已经肃清。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="140_attackEnemy" audioFilePath="\a3\dubbing_f_epc\c_m02" dialogName="140_attackEnemy" dubbingLanguage="english" namePrefix="c_m02_140_attackenemy" note="" participants="EPC B Leader;EPC B Player;" situation="kerry's team neutralizes the enemy tank and reports to his squad leader that informs kerry about the full out attack on the enemy position by the rest of the friendlies at the cemetery">
@@ -2219,7 +2219,7 @@
             <Key ID="str_a3_c_m02_115_underfirediscussion_abb_2">
               <Original>We last spotted it around point X-ray.</Original>
               <Chinese>我們最後看見它在愛克斯光點的附近。</Chinese>
-              <Chinesesimp>我们最后看见它在爱克斯光点的附近。</Chinesesimp>
+              <Chinesesimp>我们最后看见它在X-ray点的附近。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_115_underfirediscussion_abb_3">
               <Original>Got it and, hey, thanks for the assist.</Original>
@@ -2265,7 +2265,7 @@
             <Key ID="str_a3_c_m02_105_cemeteryarrival_lea_0">
               <Original>Copy that, Charlie-2-3, moving in.</Original>
               <Chinese>收到，"Charlie-2-3"，我們在進去了。</Chinese>
-              <Chinesesimp>收到，"查理"-2-3，我们在进去了。</Chinesesimp>
+              <Chinesesimp>收到，Charlie-2-3，我们在进去了。</Chinesesimp>
             </Key>
           </Container>
           <Container name="103_millerIsAnAssHole" audioFilePath="\a3\dubbing_f_epc\c_m02" dialogName="103_millerIsAnAssHole" dubbingLanguage="english" namePrefix="c_m02_103_millerisanasshole" note="" participants="EPC B Player;" situation="kerry talks to himself about miller">
@@ -2368,7 +2368,7 @@
           <Key ID="str_a3_campaign_c_m02_briefing_execution">
             <Original>1. Wait for orders&lt;br /&gt;2. Move and secure the east flank by holding %3Point Yankee%2</Original>
             <Chinese>1. 等待命令&lt;br/&gt;2. 前往東翼%3Yankee點%2並肅清該區</Chinese>
-            <Chinesesimp>1. 等待命令&lt;br/&gt;2. 前往东翼%3扬基点%2并肃清该区</Chinesesimp>
+            <Chinesesimp>1. 等待命令&lt;br/&gt;2. 前往东翼%3Yankee点%2并肃清该区</Chinesesimp>
           </Key>
         </Container>
         <Container name="C_out1">
@@ -2505,7 +2505,7 @@
           <Key ID="str_a3_campaign_c_out1_briefing_signal">
             <Original>%3Nomad%2 - Your team%1Crossroads - Head Quarters%1%4Delta-3-4%2 - Support APC%1%5Charlie-2-3%2 - Support Infantry%1Eagle - Ground attack fighters%1%3Golf-2-1%2 - Insertion chopper</Original>
             <Chinese>%3"游牧民"%2-你的小隊%1"交叉路"-指揮官%1%4"Delta-3-4"%2-支援的裝甲運兵車%1%5"Charlie-2-3"%2-支援的步兵%1"鷹"-對地攻擊機%1%3"Golf-2-1"%2-突入用直升機</Chinese>
-            <Chinesesimp>%3"游牧民"%2-你的小组%1"交叉路口"-指挥官%1%4"德尔塔-3-4"%2-支援的装甲运兵车%1%5"查理-2-3"%2-支援的步兵%1"鹰"-对地攻击机%1%3"高尔夫-2-1"%2-突入用直升机</Chinesesimp>
+            <Chinesesimp>%3"游牧民"%2-你的小组%1"交叉路口"-指挥官%1%4Delta-3-4"%2-支援的装甲运兵车%1%5Charlie-2-3"%2-支援的步兵%1"鹰"-对地攻击机%1%3Golf-2-1"%2-突入用直升机</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_out1_briefing_mission">
             <Original>Seize the enemy-controlled solar power station, designated %3Gamma%2, and the nearby town of Kalochori, designated %4Kappa%2.</Original>
@@ -2535,7 +2535,7 @@
             <Key ID="str_a3_c_out1_x30_transportcanceled_ker_0">
               <Original>Shit. Understood, Delta-3-4.</Original>
               <Chinese>該死。了解了，"Delta-3-4"。</Chinese>
-              <Chinesesimp>该死。了解了，"德尔塔-3-4"。</Chinesesimp>
+              <Chinesesimp>该死。了解了，Delta-3-4"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out1_x30_transportcanceled_lea_0">
               <Original>Nomad, I can't wait any longer. Moving out. Over.</Original>
@@ -2547,7 +2547,7 @@
             <Key ID="str_a3_c_out1_x25_transportfailed_ker_0">
               <Original>Copy that, Delta-3-4.</Original>
               <Chinese>收到，"Delta-3-4"。</Chinese>
-              <Chinesesimp>收到，"德尔塔-3-4"。</Chinesesimp>
+              <Chinesesimp>收到，Delta-3-4"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out1_x25_transportfailed_lea_0">
               <Original>Nomad, sorry, but we've got to drop you here. Over.</Original>
@@ -2559,7 +2559,7 @@
             <Key ID="str_a3_c_out1_x20_transportsucceeded_ker_0">
               <Original>Copy that, Delta-3-4, thanks.</Original>
               <Chinese>收到，"Delta-3-4"，很感謝。</Chinese>
-              <Chinesesimp>收到，"德尔塔-3-4"，很感谢。</Chinesesimp>
+              <Chinesesimp>收到，Delta-3-4"，很感谢。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out1_x20_transportsucceeded_lea_0">
               <Original>Nomad, in position at the defensive line. Over.</Original>
@@ -2571,7 +2571,7 @@
             <Key ID="str_a3_c_out1_x15_transportmoving_ker_0">
               <Original>Copy that, Delta-3-4.</Original>
               <Chinese>收到，"Delta-3-4"。</Chinese>
-              <Chinesesimp>收到，"德尔塔-3-4"。</Chinesesimp>
+              <Chinesesimp>收到，Delta-3-4"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out1_x15_transportmoving_lea_0">
               <Original>Nomad, we're moving out. Hold on to something. Over.</Original>
@@ -2588,7 +2588,7 @@
             <Key ID="str_a3_c_out1_x10_transportdestroyedhq_ker_0">
               <Original>Crossroads, Delta-3-4's down! I say again, Delta-3-4 is down. Over.</Original>
               <Chinese>"交叉路"，"Delta-3-4"已經被摧毀了!我重複一遍，"Delta-3-4"已經被摧毀了。完畢。</Chinese>
-              <Chinesesimp>"交叉路口"，"德尔塔-3-4"已经被摧毁了!我重复一遍，"德尔塔-3-4"已经被摧毁了。完毕。</Chinesesimp>
+              <Chinesesimp>"交叉路口"，Delta-3-4"已经被摧毁了!我重复一遍，Delta-3-4"已经被摧毁了。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x05_transportDestroyed" audioFilePath="\a3\dubbing_f_epc\c_out1" dialogName="x05_transportDestroyed" dubbingLanguage="english" namePrefix="c_out1_x05_transportdestroyed" note="" participants="EPC B Player;" situation="support apc is destroyed, kerry talks to himself">
@@ -2694,12 +2694,12 @@
             <Key ID="str_a3_c_out1_48_transport_ker_0">
               <Original>Copy that, Delta-3-4, thanks.</Original>
               <Chinese>收到，"Delta-3-4"，很感謝。</Chinese>
-              <Chinesesimp>收到，"德尔塔-3-4"，很感谢。</Chinesesimp>
+              <Chinesesimp>收到，Delta-3-4"，很感谢。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out1_48_transport_lea_0">
               <Original>Nomad, this is Delta-3-4. If you like, we can take you through the city. Over.</Original>
               <Chinese>"游牧民"，這裡是"Delta-3-4"。假如你有需要的話，我們可以帶你們穿過城市。完畢。</Chinese>
-              <Chinesesimp>"游牧民"，这里是"德尔塔-3-4"。假如你有需要的话，我们可以带你们穿过城市。完毕。</Chinesesimp>
+              <Chinesesimp>"游牧民"，这里是Delta-3-4"。假如你有需要的话，我们可以带你们穿过城市。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="46_kalichoriDefend" audioFilePath="\a3\dubbing_f_epc\c_out1" dialogName="46_kalichoriDefend" dubbingLanguage="english" namePrefix="c_out1_46_kalichoridefend" note="" participants="EPC B HQ;EPC B Player;" situation="hq informs kerry about incoming enemy counter attack">
@@ -2781,12 +2781,12 @@
             <Key ID="str_a3_c_out1_35_solarpowersecure_bhq_0">
               <Original>Copy that. Nomad, Charlie-2-3, dig in at Gamma. Set up a defensive perimeter. Hold that position.</Original>
               <Chinese>收到，"游牧民"。"Charlie-2-3"，請留守伽馬。建立防守範圍。堅守該位置。</Chinese>
-              <Chinesesimp>收到，"游牧民"。"查理-2-3"，请留守伽马。建立防御圈。坚守该位置。</Chinesesimp>
+              <Chinesesimp>收到，"游牧民"。Charlie-2-3"，请留守伽马。建立防御圈。坚守该位置。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out1_35_solarpowersecure_bhq_1">
               <Original>Delta-3-4, Nomad, rally up and get set to push north east. Out.</Original>
               <Chinese>"Delta-3-4"，"游牧民"，你們集合完成後就準備開始向東北推進。通話完畢。</Chinese>
-              <Chinesesimp>"德尔塔-3-4"，"游牧民"，你们集合完成后就准备开始向东北推进。通话完毕。</Chinesesimp>
+              <Chinesesimp>Delta-3-4"，"游牧民"，你们集合完成后就准备开始向东北推进。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out1_35_solarpowersecure_ker_0">
               <Original>Crossroads, Gamma is secure, how copy? Over.</Original>
@@ -2802,8 +2802,8 @@
             </Key>
             <Key ID="str_a3_c_out1_30_teamsreport_bhq_1">
               <Original>Delta-3-4, Charlie-2-3, SITREP. Over.</Original>
-              <Chinese>"Delta"-3-4，"Charlie-2-3"，狀況回報。完畢。</Chinese>
-              <Chinesesimp>"德尔塔"-3-4，"查理"-2-3，状况回报。完毕。</Chinesesimp>
+              <Chinese>Delta-3-4，"Charlie-2-3"，狀況回報。完畢。</Chinese>
+              <Chinesesimp>Delta-3-4，Charlie-2-3，状况回报。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out1_30_teamsreport_ker_0">
               <Original>Crossroads, Nomad's deployed. Engaging Gamma. Over.</Original>
@@ -2813,17 +2813,17 @@
             <Key ID="str_a3_c_out1_30_teamsreport_bhq_2">
               <Original>Charlie-2-3, hold your ground. Nomad, Delta-3-4, support Charlie-2-3 and seize that position. Out.</Original>
               <Chinese>"Charlie-2-3"，守住你們的位置。"游牧民"，"Delta-3-4"，去支援"Charlie-2-3"並肅清該位置。通話完畢。</Chinese>
-              <Chinesesimp>"查理-2-3"，守住你们的位置。"游牧民"，"德尔塔-3-4"，去支援"查理"-2-3并肃清该位置。通话完毕。</Chinesesimp>
+              <Chinesesimp>Charlie-2-3"，守住你们的位置。"游牧民"，Delta-3-4"，去支援Charlie-2-3并肃清该位置。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out1_30_teamsreport_lea_0">
               <Original>Crossroads, this is Delta-3-4, en route to Gamma. Ready to support. Over.</Original>
               <Chinese>"交叉路"，這裡是"Delta-3-4"，在前往伽馬的路上。準備好開始支援。完畢。</Chinese>
-              <Chinesesimp>"交叉路口"，这里是"德尔塔-3-4"，在前往伽马的路上。准备好开始支援。完毕。</Chinesesimp>
+              <Chinesesimp>"交叉路口"，这里是Delta-3-4"，在前往伽马的路上。准备好开始支援。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out1_30_teamsreport_mem_0">
               <Original>Charlie-2-3 here. We're engaging Gamma but coming under heavy fire. Unable to proceed. Over.</Original>
               <Chinese>"Charlie-2-3"在這。我們正在伽馬點交戰了，但是敵人火力猛烈。無法推進。完畢。</Chinese>
-              <Chinesesimp>"查理-2-3"在这。我们正在伽马点交战了，但是敌人火力猛烈。无法推进。完毕。</Chinesesimp>
+              <Chinesesimp>Charlie-2-3"在这。我们正在伽马点交战了，但是敌人火力猛烈。无法推进。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="25_flyOut" audioFilePath="\a3\dubbing_f_epc\c_out1" dialogName="25_flyOut" dubbingLanguage="english" namePrefix="c_out1_25_flyout" note="" participants="EPC B Abstract B;" situation="insertion pilot informs he is leaving lz after dropping kerry's squad">
@@ -2875,7 +2875,7 @@
             <Key ID="str_a3_c_out1_05_flyinevent_bhq_1">
               <Original>Golf-2-1, you're clear for landing. LZ is hot.</Original>
               <Chinese>"Golf-2-1"，你已經可以著陸了。降落點很危險。</Chinese>
-              <Chinesesimp>"高尔夫-2-1"，你已经可以着陆了。降落点很危险。</Chinesesimp>
+              <Chinesesimp>Golf-2-1"，你已经可以着陆了。降落点很危险。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out1_05_flyinevent_bhq_2">
               <Original>Nomad, get boots on the ground. Push towards the solar station. Secure that position. Over.</Original>
@@ -2999,8 +2999,8 @@
           </Key>
           <Key ID="str_a3_c_out2_bis_destroy_desc">
             <Original>The AAF are consolidating at %1Ioannina%2. Use %3Delta 3%4 and %5Golf 4-1%6 to soften them up before sending in %7Echo 2%8.</Original>
-            <Chinese>阿爾蒂斯武裝力量正固守在%1伊奧安尼納%2。先使用%3"Delta"3%4與%5"Golf4-1"%6來削弱他們的實力，再派遣%7"Echo"2%8來掃蕩他們。</Chinese>
-            <Chinesesimp>AAF正固守在%1伊奥安尼纳%2。先使用%3"德尔塔"3%4与%5"高尔夫4-1"%6来削弱他们的实力，再派遣%7"回声"2%8来扫荡他们。</Chinesesimp>
+            <Chinese>阿爾蒂斯武裝力量正固守在%1伊奧安尼納%2。先使用%3Delta3%4與%5"Golf4-1"%6來削弱他們的實力，再派遣%7Echo2%8來掃蕩他們。</Chinese>
+            <Chinesesimp>AAF正固守在%1伊奥安尼纳%2。先使用%3Delta3%4与%5Golf4-1"%6来削弱他们的实力，再派遣%7Echo2%8来扫荡他们。</Chinesesimp>
           </Key>
           <Key ID="str_a3_c_out2_bis_ctrg_title">
             <Original>Find James</Original>
@@ -3053,21 +3053,21 @@
             <Key ID="str_a3_c_out2_x03_plane_destroyed_bhq_0">
               <Original>Kerry, be advised, we've lost comms with Golf-4-1. Crossroads out.</Original>
               <Chinese>克里，請注意，我們與"Golf-4-1"失去聯繫。"交叉路"通話完畢。</Chinese>
-              <Chinesesimp>克里，请注意，我们与"高尔夫-4-1"失去联系。"交叉路口"通话完毕。</Chinesesimp>
+              <Chinesesimp>克里，请注意，我们与Golf-4-1"失去联系。"交叉路口"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x01_Out_Of_Ammo" audioFilePath="\a3\dubbing_f_epc\c_out2" dialogName="x01_Out_Of_Ammo" dubbingLanguage="english" namePrefix="c_out2_x01_out_of_ammo" note="" participants="EPC B HQ;EPC B Player;" situation="kerry fails to soften enemy forces before the artillery runs out of ammo.">
             <Key ID="str_a3_c_out2_x01_out_of_ammo_bhq_0">
               <Original>That's it from Delta-3. All units, move in!</Original>
               <Chinese>"Delta-3"彈藥用完。所有單位，開始推進!</Chinese>
-              <Chinesesimp>"德尔塔-3"都砸光了。所有单位，开始推进!</Chinesesimp>
+              <Chinesesimp>Delta-3"都砸光了。所有单位，开始推进!</Chinesesimp>
             </Key>
           </Container>
           <Container name="i01_Scouting" audioFilePath="\a3\dubbing_f_epc\c_out2" dialogName="i01_Scouting" dubbingLanguage="english" namePrefix="c_out2_i01_scouting" note="" participants="EPC B HQ;EPC B Player;" situation="hq gives kerry tips on how to scout.">
             <Key ID="str_a3_c_out2_i01_scouting_bhq_0">
               <Original>Stay alert out there, Kerry. Echo hit them hard, but don't be surprised if you run into some stragglers.</Original>
-              <Chinese>在那邊請隨時保持警戒，克里。"Echo"已經重重打擊過他們了，但當你遇到些散兵時請不要太驚訝。</Chinese>
-              <Chinesesimp>在那边请随时保持警戒，克里。"回声"已经重重打击过他们了，但你要是遇到散兵游勇也别太意外。</Chinesesimp>
+              <Chinese>在那邊請隨時保持警戒，克里。Echo已經重重打擊過他們了，但當你遇到些散兵時請不要太驚訝。</Chinese>
+              <Chinesesimp>在那边请随时保持警戒，克里。Echo已经重重打击过他们了，但你要是遇到散兵游勇也别太意外。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_i01_scouting_bhq_1">
               <Original>Pay close attention to the hills. They might be doing some recon of their own.</Original>
@@ -3076,15 +3076,15 @@
             </Key>
             <Key ID="str_a3_c_out2_i01_scouting_bhq_2">
               <Original>Avoid contact as much as possible. Get to the OP and call out fire missions for Delta. Out.</Original>
-              <Chinese>請盡量避免交戰。移動到偵察點並呼叫"Delta"進行火炮轟炸。通話完畢。</Chinese>
-              <Chinesesimp>请尽量避免交战。移动到观察哨并呼叫"德尔塔"执行火力任务。通话完毕。</Chinesesimp>
+              <Chinese>請盡量避免交戰。移動到偵察點並呼叫Delta進行火炮轟炸。通話完畢。</Chinese>
+              <Chinesesimp>请尽量避免交战。移动到观察哨并呼叫Delta执行火力任务。通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="85_The_End_Of_All_Things" audioFilePath="\a3\dubbing_f_epc\c_out2" dialogName="85_The_End_Of_All_Things" dubbingLanguage="english" namePrefix="c_out2_85_the_end_of_all_things" note="" participants="EPC B HQ;EPC B Abstract A;EPC B Member;EPC B Abstract B;EPC B Player;" situation="nato forces collapse under csat's offensive as miller walks away and credits roll.">
             <Key ID="str_a3_c_out2_85_the_end_of_all_things_aba_0">
               <Original>This is Echo-2-1, confirmed! We're trying to p-</Original>
               <Chinese>這裡是"Echo-2-1"，了解!我們正試圖-</Chinese>
-              <Chinesesimp>这里是"回声-2-1"，了解!我们正试图-</Chinesesimp>
+              <Chinesesimp>这里是Echo-2-1"，了解!我们正试图-</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_85_the_end_of_all_things_abb_0">
               <Original>Crossroads, we're under heavy assault! We can't-</Original>
@@ -3104,7 +3104,7 @@
             <Key ID="str_a3_c_out2_85_the_end_of_all_things_mem_0">
               <Original>Mayday! Mayday! Golf-4-1 going down!</Original>
               <Chinese>求救!求救!"Golf-4-1"正在墜落!</Chinese>
-              <Chinesesimp>求救!求救!"高尔夫-4-1"正在坠落!</Chinesesimp>
+              <Chinesesimp>求救!求救!Golf-4-1"正在坠落!</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_85_the_end_of_all_things_bhq_2">
               <Original>1-1, say again! Over!</Original>
@@ -3368,7 +3368,7 @@
             <Key ID="str_a3_c_out2_25_defeated_bhq_3">
               <Original>Bravo-1-1, come in, over.</Original>
               <Chinese>"Bravo-1-1"，接進，完畢。</Chinese>
-              <Chinesesimp>"布拉沃-1-1"，接进，完毕。</Chinesesimp>
+              <Chinesesimp>Bravo-1-1"，接进，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_25_defeated_bhq_4">
               <Original>Converge on Ioannina and assist with the cleanup, over.</Original>
@@ -3414,7 +3414,7 @@
             <Key ID="str_a3_c_out2_14_plane_disengage_mem_0">
               <Original>Nomad, Golf-4-1, RTB. Out.</Original>
               <Chinese>"游牧民"，"Golf-4-1"，返回基地。通話完畢。</Chinese>
-              <Chinesesimp>"游牧民"，"高尔夫-4-1"，返回基地。通话完毕。</Chinesesimp>
+              <Chinesesimp>"游牧民"，Golf-4-1"，返回基地。通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="13_Plane_Fired" audioFilePath="\a3\dubbing_f_epc\c_out2" dialogName="13_Plane_Fired" dubbingLanguage="english" namePrefix="c_out2_13_plane_fired" note="" participants="EPC B Member;EPC B Player;EPC B HQ;" situation="airplane opens fire on enemy forces.">
@@ -3428,12 +3428,12 @@
             <Key ID="str_a3_c_out2_12_plane_sent_ker_0">
               <Original>Golf-4-1, Nomad. You're clear to engage. Over.</Original>
               <Chinese>"Golf-4-1"，"游牧民"。你可以開始攻擊了。完畢。</Chinese>
-              <Chinesesimp>"高尔夫-4-1"，"游牧民"。你可以开始攻击了。完毕。</Chinesesimp>
+              <Chinesesimp>Golf-4-1"，"游牧民"。你可以开始攻击了。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_12_plane_sent_mem_0">
               <Original>Copy, Nomad. Engaging. Golf-4-1.</Original>
               <Chinese>收到，"游牧民"。交戰中。"Golf-4-1"。</Chinese>
-              <Chinesesimp>收到，"游牧民"。交战中。"高尔夫-4-1"。</Chinesesimp>
+              <Chinesesimp>收到，"游牧民"。交战中。Golf-4-1"。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_Orders" audioFilePath="\a3\dubbing_f_epc\c_out2" dialogName="10_Orders" dubbingLanguage="english" namePrefix="c_out2_10_orders" note="" participants="EPC B HQ;EPC B Player;" situation="crossroads gives kerry his orders.">
@@ -3449,13 +3449,13 @@
             </Key>
             <Key ID="str_a3_c_out2_10_orders_bhq_2">
               <Original>I want you and your men to coordinate the offensive. Concentrate on anything that poses a threat to Echo-2.</Original>
-              <Chinese>我要你跟你的人馬來協調攻擊行動。處理掉任何會威脅到"Echo"-2的目標。</Chinese>
-              <Chinesesimp>我要你跟你的手下来协调攻击行动。处理掉任何会威胁到"回声"-2的目标。</Chinesesimp>
+              <Chinese>我要你跟你的人馬來協調攻擊行動。處理掉任何會威脅到Echo-2的目標。</Chinese>
+              <Chinesesimp>我要你跟你的手下来协调攻击行动。处理掉任何会威胁到Echo-2的目标。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_10_orders_bhq_3">
               <Original>Relay your requests to Delta-3 and Golf-4-1. They'll take care of the rest.</Original>
               <Chinese>你可以發送支援請求給"Delta-3"與"Golf-4-1"。他們會幫你處裡掉你的目標。</Chinese>
-              <Chinesesimp>你可以发送支援请求给"德尔塔-3"与"高尔夫-4-1"。他们会帮你处理掉你的目标。</Chinesesimp>
+              <Chinesesimp>你可以发送支援请求给Delta-3"与Golf-4-1"。他们会帮你处理掉你的目标。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_10_orders_bhq_4">
               <Original>Can I trust you with this, soldier?</Original>
@@ -4161,8 +4161,8 @@
           <Container name="30_NATO" audioFilePath="\a3\dubbing_f_epc\c_eb" dialogName="30_NATO" dubbingLanguage="english" namePrefix="c_eb_30_nato" note="" participants="EPC B Member;EPC B Player;" situation="bravo 2-1 calls for help">
             <Key ID="str_a3_c_eb_30_nato_ker_0">
               <Original>I hear you Bravo. It's Sergeant Kerry here. What's your status? I'm cut off in the middle of nowhere. Can you assist?</Original>
-              <Chinese>我聽到你了"Bravo"。這裡是中士克里。你們的狀況如何?我這裡一點頭緒都沒有。你能提供幫助嗎?</Chinese>
-              <Chinesesimp>我听到你了"布拉沃"。这里是克里中士。你们的状况如何?我这前不着村后不着店的。你能提供帮助吗?</Chinesesimp>
+              <Chinese>我聽到你了Bravo。這裡是中士克里。你們的狀況如何?我這裡一點頭緒都沒有。你能提供幫助嗎?</Chinese>
+              <Chinesesimp>我听到你了Bravo。这里是克里中士。你们的状况如何?我这前不着村后不着店的。你能提供帮助吗?</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_eb_30_nato_ker_1">
               <Original>Okay. Right ... Okay, just stay put. I'll find some truck and pick you up.</Original>
@@ -4172,7 +4172,7 @@
             <Key ID="str_a3_c_eb_30_nato_mem_0">
               <Original>This is Bravo-2-1, does anybody read me? Anyone - what the fuck is going on!?</Original>
               <Chinese>這裡是"Bravo-2-1"，有沒有任何人聽到?任何人-現在到底發生了什麼事情!?</Chinese>
-              <Chinesesimp>这里是"布拉沃-2-1"，有没有任何人听到?任何人-现在到底发生了什么事情!?</Chinesesimp>
+              <Chinesesimp>这里是Bravo-2-1"，有没有任何人听到?任何人-现在到底发生了什么事情!?</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_eb_30_nato_mem_1">
               <Original>Assist? Shit, man, we're in need of help ourselves!</Original>
@@ -5162,8 +5162,8 @@
         </Key>
         <Key ID="str_a3_campaign_quote_43">
           <Original>'The problems of victory are more agreeable than those of defeat, but they are no less difficult.' - Winston Churchill, Speech, House of Commons (November 1942)</Original>
-          <Chinese>'勝利所帶來的問題，要比失敗所帶來的問題更令人感到愉快，但是前者的難度並不小於後者。'-溫斯頓邱吉爾，在下議院的演講(1942十一月)</Chinese>
-          <Chinesesimp>'胜利所带来的问题，要比失败所带来的问题更令人感到愉快，但是前者的难度并不小于后者。'-温斯顿·丘吉尔，在下议院的演讲(1942年十一月)</Chinesesimp>
+          <Chinese>'勝利所帶來的問題，要比失敗所帶來的問題更令人感到愉快，但是前者的難度並不小於後者。'-溫斯頓邱吉爾，在下議院的演講(1942November)</Chinese>
+          <Chinesesimp>'胜利所带来的问题，要比失败所带来的问题更令人感到愉快，但是前者的难度并不小于后者。'-温斯顿·丘吉尔，在下议院的演讲(1942年November)</Chinesesimp>
         </Key>
         <Key ID="str_a3_campaign_quote_44">
           <Original>'You can no more win a war than you can win an earthquake.' - Jeannette Rankin, Congressional speech (April 1917)</Original>

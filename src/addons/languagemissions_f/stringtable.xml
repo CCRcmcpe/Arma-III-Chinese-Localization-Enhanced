@@ -6,7 +6,7 @@
         <Key ID="STR_A3_DLCB_Campaign_Apex">
           <Original>Take on the role of a NATO CTRG special operator in the 1-4 player "Apex Protocol" co-op campaign. It consists of highly replayable missions, featuring a drop-in / drop-out multiplayer structure, and the difficulty scales up or down based on the number of players.</Original>
           <Chinese>擔任北約戰研大隊的特戰兵，一同參與"頂尖協議"1-4名玩家合作戰役。此戰役有著高度重玩性與挑戰性的任務，並設計成可以中間加入/離開的多人遊戲架構，而任務難度則由參與玩家的人數多寡來自動進行調整。</Chinese>
-          <Chinesesimp>担任北约战研大队的特战兵，一同参与"顶尖协议"1-4名玩家合作战役。此战役有着高度重玩性与挑战性的任务，并设计成可以中间加入/离开的多人游戏架构，而任务难度则由参与玩家的人数多寡来自动进行调整。</Chinesesimp>
+          <Chinesesimp>担任北约战研大队的特战兵，一同参与"Apex协议"1-4名玩家合作战役。此战役有着高度重玩性与挑战性的任务，并设计成可以中间加入/离开的多人游戏架构，而任务难度则由参与玩家的人数多寡来自动进行调整。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_DLCB_Showcase_EndGame">
           <Original>Experience the End Game mode in a singleplayer environment. Secure and upload valuable schematics on Tanoa before the enemy is able to stop you.</Original>
@@ -27,8 +27,8 @@
       <Container name="Callsigns">
         <Key ID="str_a3_group_alpha">
           <Original>Alpha</Original>
-          <Chinese>"Alpha"</Chinese>
-          <Chinesesimp>"阿尔法"</Chinesesimp>
+          <Chinese>Alpha</Chinese>
+          <Chinesesimp>Alpha</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_vipergreen">
           <Original>Viper-Green</Original>
@@ -67,28 +67,28 @@
         </Key>
         <Key ID="str_a3_group_kilo">
           <Original>Kilo</Original>
-          <Chinese>"Kilo"</Chinese>
-          <Chinesesimp>"基洛"</Chinesesimp>
+          <Chinese>Kilo</Chinese>
+          <Chinesesimp>Kilo</Chinesesimp>
         </Key>
         <Key ID="str_a3_callsign_echo_blue">
           <Original>Echo</Original>
-          <Chinese>"Echo"</Chinese>
-          <Chinesesimp>"回声"</Chinesesimp>
+          <Chinese>Echo</Chinese>
+          <Chinesesimp>Echo</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_papabear">
           <Original>Papa Bear</Original>
-          <Chinese>"熊爸爸"</Chinese>
-          <Chinesesimp>"熊爸爸"</Chinesesimp>
+          <Chinese>Papa Bear</Chinese>
+          <Chinesesimp>Papa Bear</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_echo">
           <Original>Echo</Original>
-          <Chinese>"Echo"</Chinese>
-          <Chinesesimp>"回声"</Chinesesimp>
+          <Chinese>Echo</Chinese>
+          <Chinesesimp>Echo</Chinesesimp>
         </Key>
         <Key ID="str_a3_callsign_papa_bear">
           <Original>Papa Bear</Original>
-          <Chinese>"熊爸爸"</Chinese>
-          <Chinesesimp>"熊爸爸"</Chinesesimp>
+          <Chinese>Papa Bear</Chinese>
+          <Chinesesimp>Papa Bear</Chinesesimp>
         </Key>
         <Key ID="str_a3_callsign_griffin">
           <Original>Griffin</Original>
@@ -97,8 +97,8 @@
         </Key>
         <Key ID="str_a3_group_bravo">
           <Original>Bravo</Original>
-          <Chinese>"Bravo"</Chinese>
-          <Chinesesimp>"布拉沃"</Chinesesimp>
+          <Chinese>Bravo</Chinese>
+          <Chinesesimp>Bravo</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_griffin">
           <Original>Griffin</Original>
@@ -113,12 +113,12 @@
         <Key ID="str_a3_group_alpha5">
           <Original>Alpha-5</Original>
           <Chinese>"Alpha-5"</Chinese>
-          <Chinesesimp>"阿尔法"-5</Chinesesimp>
+          <Chinesesimp>Alpha-5</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_alphapoint">
           <Original>Alpha Point</Original>
-          <Chinese>"Alpha"點</Chinese>
-          <Chinesesimp>"阿尔法"点</Chinesesimp>
+          <Chinese>Alpha點</Chinese>
+          <Chinesesimp>Alpha点</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_bishop">
           <Original>Bishop</Original>
@@ -127,18 +127,18 @@
         </Key>
         <Key ID="str_a3_group_charlie">
           <Original>Charlie</Original>
-          <Chinese>"Charlie"</Chinese>
-          <Chinesesimp>"查理"</Chinesesimp>
+          <Chinese>Charlie</Chinese>
+          <Chinesesimp>Charlie</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_foxtrot1">
           <Original>Foxtrot-1</Original>
           <Chinese>"Foxtrop-1"</Chinese>
-          <Chinesesimp>"狐步舞-1"</Chinesesimp>
+          <Chinesesimp>Foxtrot-1"</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_whisky6">
           <Original>Whisky-6</Original>
           <Chinese>"Whisky-6"</Chinese>
-          <Chinesesimp>"威士忌-6"</Chinesesimp>
+          <Chinesesimp>Whiskey-6"</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_hydracopilot">
           <Original>Hydra Copilot</Original>
@@ -148,22 +148,22 @@
         <Key ID="str_a3_group_foxtrot2">
           <Original>Foxtrot-2</Original>
           <Chinese>"Foxtrot-2"</Chinese>
-          <Chinesesimp>"狐步舞-2"</Chinesesimp>
+          <Chinesesimp>Foxtrot-2"</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_foxtrot3">
           <Original>Foxtrot-3</Original>
           <Chinese>"Foxtrot-3"</Chinese>
-          <Chinesesimp>"狐步舞-3"</Chinesesimp>
+          <Chinesesimp>Foxtrot-3"</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_foxtrot4">
           <Original>Foxtrot-4</Original>
           <Chinese>"Foxtrot-4"</Chinese>
-          <Chinesesimp>"狐步舞-4"</Chinesesimp>
+          <Chinesesimp>Foxtrot-4</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_golf1">
           <Original>Golf-1</Original>
-          <Chinese>"Golf"-1</Chinese>
-          <Chinesesimp>高尔夫-1</Chinesesimp>
+          <Chinese>Golf-1</Chinese>
+          <Chinesesimp>Golf-1</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_golf2">
           <Original>****TO TRANSLATE****</Original>
@@ -178,7 +178,7 @@
         <Key ID="str_a3_group_romeo">
           <Original>Romeo</Original>
           <Chinese>"羅密歐"</Chinese>
-          <Chinesesimp>"罗密欧"</Chinesesimp>
+          <Chinesesimp>Romeo</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_viperred">
           <Original>Viper-Red</Original>
@@ -941,8 +941,8 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_vehicles_task3_text">
             <Original>We need a further diversion so that Bravo-Green can retreat. Blowing up the radio tower near the main town should do the trick.</Original>
-            <Chinese>我們需要製造些聲響，造成聲東擊西的效果，好讓"布拉沃-綠"可以撤退。炸掉城鎮旁邊的無線電發射塔應該可以達到這個效果。</Chinese>
-            <Chinesesimp>我们需要制造些声响，造成声东击西的效果，好让"布拉沃-绿"可以撤退。炸掉城镇旁边的无线电发射塔应该可以达到这个效果。</Chinesesimp>
+            <Chinese>我們需要製造些聲響，造成聲東擊西的效果，好讓Bravo-綠"可以撤退。炸掉城鎮旁邊的無線電發射塔應該可以達到這個效果。</Chinese>
+            <Chinesesimp>我们需要制造些声响，造成声东击西的效果，好让Bravo-绿"可以撤退。炸掉城镇旁边的无线电发射塔应该可以达到这个效果。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vehicles_task3_title">
             <Original>Sabotage radio tower (optional)</Original>
@@ -1116,8 +1116,8 @@ Be ready for more intel as the situation develops.</Original>
         <Container name="Showcase_SCUBA">
           <Key ID="str_a3_showcase_scuba_diary_execution_text">
             <Original>%6 Swim to the bay and deactivate all three mines we've detected there%3%7 A %11speedboat%1 is guarding the area - you can sabotage its engine so long as you remain undetected and the vessel doesn't start moving%3%8 Eliminate the AA patrol stationed in %4the camp%1 and acquire a missile launcher - you can call in a mortar strike provided by %5Echo%1%3%9 Engage the chopper patrolling the western coastline%3%10 Make your way back to %2your team%1 and leave the area </Original>
-            <Chinese>%6游泳到海灣裡解除3個已被我們偵測到的水雷%3%7一臺%11快艇%1正在巡防海岸線，你可以偷偷破壞掉它的引擎%3%8摧毀敵軍的%4防空陣地%1並奪取一隻防空飛彈-你可以透過無線電%5"Echo"%1來呼叫迫擊砲打擊%3%9擊落正在海岸線巡防的直升機%3%10撤離該區，回去與你的%2小隊%1會合</Chinese>
-            <Chinesesimp>%6游泳到海湾里解除3个已被我们侦测到的水雷%3%7一台%11快艇%1正在防御海岸线，你可以偷偷破坏掉它的引擎%3%8摧毁敌军的%4防空阵地%1并夺取防空导弹-你可以通过无线电%5"回声"%1来呼叫迫击炮打击%3%9击落正在海岸线巡防的直升机%3%10撤离该区，回去与你的%2小组%1会合</Chinesesimp>
+            <Chinese>%6游泳到海灣裡解除3個已被我們偵測到的水雷%3%7一臺%11快艇%1正在巡防海岸線，你可以偷偷破壞掉它的引擎%3%8摧毀敵軍的%4防空陣地%1並奪取一隻防空飛彈-你可以透過無線電%5Echo%1來呼叫迫擊砲打擊%3%9擊落正在海岸線巡防的直升機%3%10撤離該區，回去與你的%2小隊%1會合</Chinese>
+            <Chinesesimp>%6游泳到海湾里解除3个已被我们侦测到的水雷%3%7一台%11快艇%1正在防御海岸线，你可以偷偷破坏掉它的引擎%3%8摧毁敌军的%4防空阵地%1并夺取防空导弹-你可以通过无线电%5Echo%1来呼叫迫击炮打击%3%9击落正在海岸线巡防的直升机%3%10撤离该区，回去与你的%2小组%1会合</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_scuba_diary_mission_text">
             <Original>Deactivate the underwater mines in %2the bay%1 and eliminate the chopper patrolling the coastline.</Original>
@@ -1126,8 +1126,8 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_scuba_diary_signal_text">
             <Original>%2Omega%3 - your team%1%4Echo%3 - mortar team; stationed at camp Maxwell and providing support%1Papa Bear - command</Original>
-            <Chinese>%2"歐米加"3-你的小隊%1%4"Echo"%3-迫擊砲小隊;駐紮在麥克斯韋基地，提供迫擊砲轟炸支援%1"熊爸爸"-指揮官</Chinese>
-            <Chinesesimp>%2欧米加%3-你的小组%1%4回声%3-迫击炮小组;驻扎在麦克斯韦基地，提供迫击炮轰炸支援%1熊爸爸-指挥官</Chinesesimp>
+            <Chinese>%2"歐米加"3-你的小隊%1%4Echo%3-迫擊砲小隊;駐紮在麥克斯韋基地，提供迫擊砲轟炸支援%1Papa Bear-指揮官</Chinese>
+            <Chinesesimp>%2欧米加%3-你的小组%1%4Echo%3-迫击炮小组;驻扎在麦克斯韦基地，提供迫击炮轰炸支援%1Papa Bear-指挥官</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_scuba_diary_situation_text">
             <Original>Following the OPFOR invasion, we've made a last stand in the south of the island. We desperately need to establish a safe route for reinforcement and resupply, and command has identified %3this camp%1 as our best shot.%4%4However, we've discovered that it's reinforced by a deployment of underwater mines, and protected by a garrison of enemy forces, including naval and air support.%4%4Other elements of your team, call sign Omega, have already taken up positions in a %2valley%1 to the south of %5the bay%1. Join them and execute your tasks.</Original>
@@ -1312,8 +1312,8 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_scuba_10_end_ker_1">
               <Original>Papa Bear, Omega here. Objective complete, ready to RTB, over.</Original>
-              <Chinese>"熊爸爸"，這裡是"歐米加"。任務完成，準備返回基地。完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"，这里是"欧米加"。任务完成，准备返回基地。完毕。</Chinesesimp>
+              <Chinese>Papa Bear，這裡是"歐米加"。任務完成，準備返回基地。完畢。</Chinese>
+              <Chinesesimp>Papa Bear，这里是"欧米加"。任务完成，准备返回基地。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_Chopper" audioFilePath="\a3\dubbing_f\showcase_scuba" dialogName="05_Chopper" dubbingLanguage="english" namePrefix="showcase_scuba_05_chopper" note="" participants="PA B Player;" situation="kerry just shot down a helicopter.">
@@ -1326,8 +1326,8 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="01_Start" audioFilePath="\a3\dubbing_f\showcase_scuba" dialogName="01_Start" dubbingLanguage="english" namePrefix="showcase_scuba_01_start" note="" participants="PA B Beach Guy;PA B Player;PA B HQ;" situation="kerry's teammate wishes him good luck before kerry dives in the sea.">
             <Key ID="str_a3_showcase_scuba_01_start_hq_0">
               <Original>Papa Bear to Omega. Maintain radio silence during the op. Report in once you complete your objectives. Papa Bear out.</Original>
-              <Chinese>"熊爸爸"呼叫"歐米加"。在任務期間請保持無線電靜默。在任務完成後再進行回報。"熊爸爸"通話完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"呼叫"欧米加"。在任务期间请保持无线电静默。在任务完成后再进行回报。"熊爸爸"通话完毕。</Chinesesimp>
+              <Chinese>Papa Bear呼叫"歐米加"。在任務期間請保持無線電靜默。在任務完成後再進行回報。Papa Bear通話完畢。</Chinese>
+              <Chinesesimp>Papa Bear呼叫"欧米加"。在任务期间请保持无线电静默。在任务完成后再进行回报。Papa Bear通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_scuba_01_start_jim_0">
               <Original>Good luck, Corporal. Take a deep breath.</Original>
@@ -1379,13 +1379,13 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_infantry_marker_bis_charlie">
             <Original>Charlie</Original>
-            <Chinese>"Charlie"</Chinese>
-            <Chinesesimp>"查理"</Chinesesimp>
+            <Chinese>Charlie</Chinese>
+            <Chinesesimp>Charlie</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_infantry_marker_bis_alpha">
             <Original>Alpha</Original>
-            <Chinese>"Alpha"</Chinese>
-            <Chinesesimp>"阿尔法"</Chinesesimp>
+            <Chinese>Alpha</Chinese>
+            <Chinesesimp>Alpha</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_infantry_friendly_fire">
             <Original>Friendly fire will not be tolerated!</Original>
@@ -1399,8 +1399,8 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_infantry_debriefing_end3">
             <Original>Bravo were killed and we were forced to retreat.</Original>
-            <Chinese>"Bravo"全體陣亡，我們被迫撤退。</Chinese>
-            <Chinesesimp>"布拉沃"全体阵亡，我们被迫撤退。</Chinesesimp>
+            <Chinese>Bravo全體陣亡，我們被迫撤退。</Chinese>
+            <Chinesesimp>Bravo全体阵亡，我们被迫撤退。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_infantry_debriefing_end2">
             <Original>You successfully rescued our forces and neutralized the mortar, despite being forced to retreat. Given the situation, that's the best outcome we could have hoped for.</Original>
@@ -1419,8 +1419,8 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_infantry_briefing_situation_text">
             <Original>Hours ago, enemy forces launched a sudden attack from the north. They're steadily advancing south, driving us into the sea.%1Bravo has been pinned down by a swift assault on their position; now, they're trapped inside the %2village%3 and are in need of support. We're stretched thin and need to make a stand.%4An advanced element of your team has taken up a position in the valley. Regroup and report in, Alpha.</Original>
-            <Chinese>數小時前，敵人從北方發動突襲。他們正穩定的向南推進，想把我們擠進海裡。%1"Bravo"被突如其來的突襲陷入苦戰;現在，他們被困在%2村莊%3裡並且需要支援。我們現在人手短缺，不能隨便放棄寶貴的戰力。%4你們小隊將被佈署在村莊東邊的山谷中。"Alpha"，跟友軍集合後進行回報。</Chinese>
-            <Chinesesimp>数小时前，敌人从北方发动突袭。他们正稳步向南推进，想把我们挤进海里。%1"布拉沃"被突如其来的突袭拖入苦战;现在，他们被困在%2村庄%3里并且需要支援。我们现在人手短缺，不能随便放弃宝贵的战力。%4你分队将被布署在村庄东边的山谷中。"阿尔法"，跟友军集合后进行回报。</Chinesesimp>
+            <Chinese>數小時前，敵人從北方發動突襲。他們正穩定的向南推進，想把我們擠進海裡。%1Bravo被突如其來的突襲陷入苦戰;現在，他們被困在%2村莊%3裡並且需要支援。我們現在人手短缺，不能隨便放棄寶貴的戰力。%4你們小隊將被佈署在村莊東邊的山谷中。Alpha，跟友軍集合後進行回報。</Chinese>
+            <Chinesesimp>数小时前，敌人从北方发动突袭。他们正稳步向南推进，想把我们挤进海里。%1Bravo被突如其来的突袭拖入苦战;现在，他们被困在%2村庄%3里并且需要支援。我们现在人手短缺，不能随便放弃宝贵的战力。%4你分队将被布署在村庄东边的山谷中。Alpha，跟友军集合后进行回报。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_infantry_briefing_signal_title">
             <Original>Signal</Original>
@@ -1429,8 +1429,8 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_infantry_briefing_signal_text">
             <Original>%1Alpha%2 - your team%3%4Bravo%5 - friendly fireteam pinned down in the village%6%7Charlie%8 - Supporting element%9Papa Bear - command</Original>
-            <Chinese>%1"Alpha"%2-你的隊伍%3%4"Bravo"%5-被壓制在村莊的友軍小隊%6%7"Charlie"%8-支援小隊%9"熊爸爸"-指揮官</Chinese>
-            <Chinesesimp>%1"阿尔法"%2-你的小组%3%4"布拉沃"%5-被压制在村庄内的友军火力组%6%7"查理"%8-支援分队%9"熊爸爸"-指挥官</Chinesesimp>
+            <Chinese>%1Alpha%2-你的隊伍%3%4Bravo%5-被壓制在村莊的友軍小隊%6%7Charlie%8-支援小隊%9Papa Bear-指揮官</Chinese>
+            <Chinesesimp>%1Alpha%2-你的小组%3%4Bravo%5-被压制在村庄内的友军火力组%6%7Charlie%8-支援分队%9Papa Bear-指挥官</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_infantry_briefing_mission_title">
             <Original>Mission</Original>
@@ -1439,8 +1439,8 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_infantry_briefing_mission_text">
             <Original>Clear the area of enemy forces with the assistance of %1Charlie%2 and reinforce the village.</Original>
-            <Chinese>在%1"Charlie"%2的幫助下清理村莊裡的敵軍並鞏固該地點。</Chinese>
-            <Chinesesimp>在%1"查理"%2的帮助下清理村庄里的敌军并增援该小村。</Chinesesimp>
+            <Chinese>在%1Charlie%2的幫助下清理村莊裡的敵軍並鞏固該地點。</Chinese>
+            <Chinesesimp>在%1Charlie%2的帮助下清理村庄里的敌军并增援该小村。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_infantry_briefing_execution_title">
             <Original>Execution</Original>
@@ -1464,8 +1464,8 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_infantry_bis_village_desc">
             <Original>Bravo are pinned down in %1the village%2. Clear it out.</Original>
-            <Chinese>"Bravo"被困在%1村莊%2裡。去救出他們。</Chinese>
-            <Chinesesimp>"布拉沃"被困在%1村庄%2里。去救出他们。</Chinesesimp>
+            <Chinese>Bravo被困在%1村莊%2裡。去救出他們。</Chinese>
+            <Chinesesimp>Bravo被困在%1村庄%2里。去救出他们。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_infantry_bis_spotters_title">
             <Original>Eliminate the spotters</Original>
@@ -1535,8 +1535,8 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="x10_Bravo_Dead" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="x10_Bravo_Dead" dubbingLanguage="english" namePrefix="showcase_infantry_x10_bravo_dead" note="" participants="PA B HQ;" situation="papa bear informs all units that bravo isn't responding">
             <Key ID="str_a3_showcase_infantry_x10_bravo_dead_pap_0">
               <Original>Papa Bear to all units, we've lost comms with Bravo. Presumed KIA. Fall back, ASAP. Papa Bear out.</Original>
-              <Chinese>"熊爸爸"通知所有單位，我們已經與"Bravo"失去聯繫。我們假定他們都已經陣亡了。現在盡速撤退。"熊爸爸"通話完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"通知所有单位，我们已经与"布拉沃"失去联系，推定全体阵亡。现在立刻撤退。"熊爸爸"通话完毕。</Chinesesimp>
+              <Chinese>Papa Bear通知所有單位，我們已經與Bravo失去聯繫。我們假定他們都已經陣亡了。現在盡速撤退。Papa Bear通話完畢。</Chinese>
+              <Chinesesimp>Papa Bear通知所有单位，我们已经与Bravo失去联系，推定全体阵亡。现在立刻撤退。Papa Bear通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x05_Mortar_Dead" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="x05_Mortar_Dead" dubbingLanguage="english" namePrefix="showcase_infantry_x05_mortar_dead" note="" participants="PA B Player;" situation="ben kerry informs the other elements that the mortar is neutralized">
@@ -1556,13 +1556,13 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="70_Retreat" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="70_Retreat" dubbingLanguage="english" namePrefix="showcase_infantry_70_retreat" note="" participants="PA B HQ;" situation="papa bear orders a full retreat to the forests">
             <Key ID="str_a3_showcase_infantry_70_retreat_pap_0">
               <Original>Papa Bear to all squads, retreat immediately! I say again, retreat immediately!</Original>
-              <Chinese>"熊爸爸"通知所有小隊，立刻進行撤退!重複，立刻進行撤退!</Chinese>
-              <Chinesesimp>"熊爸爸"呼叫各班都有，立刻撤退!重复，立刻撤退!</Chinesesimp>
+              <Chinese>Papa Bear通知所有小隊，立刻進行撤退!重複，立刻進行撤退!</Chinese>
+              <Chinesesimp>Papa Bear呼叫各班都有，立刻撤退!重复，立刻撤退!</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_70_retreat_pap_1">
               <Original>Heavy artillery inbound... Get out of there! Fall back to the forest. Papa Bear out.</Original>
-              <Chinese>重型火砲轟炸來襲...快離開那地方!撤退回森林裡。"熊爸爸"通話完畢。</Chinese>
-              <Chinesesimp>重炮兵打击来袭...快离开那地方!撤退回森林里。"熊爸爸"通话完毕。</Chinesesimp>
+              <Chinese>重型火砲轟炸來襲...快離開那地方!撤退回森林裡。Papa Bear通話完畢。</Chinese>
+              <Chinesesimp>重炮兵打击来袭...快离开那地方!撤退回森林里。Papa Bear通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="60_Spotters_Dead" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="60_Spotters_Dead" dubbingLanguage="english" namePrefix="showcase_infantry_60_spotters_dead" note="" participants="PA B Player;" situation="ben kerry informs the other elements that the spotters are dead">
@@ -1582,15 +1582,15 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="45_In_Position" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="45_In_Position" dubbingLanguage="english" namePrefix="showcase_infantry_45_in_position" note="" participants="PA B Charlie Lead;" situation="charlie lead informs the others that they are in position">
             <Key ID="str_a3_showcase_infantry_45_in_position_cha_0">
               <Original>Charlie in position. Scanning hills to the north.</Original>
-              <Chinese>"Charlie"就定位了。正在搜尋山頭北邊。</Chinese>
-              <Chinesesimp>"查理"就位了。正在搜寻山头北边。</Chinesesimp>
+              <Chinese>Charlie就定位了。正在搜尋山頭北邊。</Chinese>
+              <Chinesesimp>Charlie就位了。正在搜寻山头北边。</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_Charlie_Support" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="40_Charlie_Support" dubbingLanguage="english" namePrefix="showcase_infantry_40_charlie_support" note="" participants="PA B Charlie Lead;" situation="charlie lead informs the other elements that they will help locate the spotters">
             <Key ID="str_a3_showcase_infantry_40_charlie_support_cha_0">
               <Original>This is Charlie. We'll assist with locating the spotters.</Original>
-              <Chinese>這裡是"Charlie"。我們將幫助搜尋敵方觀測手的位置。</Chinese>
-              <Chinesesimp>这里是"查理"。我们将帮助搜寻敌方观测手的位置。</Chinesesimp>
+              <Chinese>這裡是Charlie。我們將幫助搜尋敵方觀測手的位置。</Chinese>
+              <Chinesesimp>这里是Charlie。我们将帮助搜寻敌方观测手的位置。</Chinesesimp>
             </Key>
           </Container>
           <Container name="36_Volunteered" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="36_Volunteered" dubbingLanguage="english" namePrefix="showcase_infantry_36_volunteered" note="" participants="PA B Alpha Lead;PA B Player;" situation="alpha lead orders ben kerry to deal with the spotters">
@@ -1620,18 +1620,18 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="30_Town_Clear" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="30_Town_Clear" dubbingLanguage="english" namePrefix="showcase_infantry_30_town_clear" note="" participants="PA B Bravo Lead;PA B HQ;" situation="bravo informs the other elements that the town is clear">
             <Key ID="str_a3_showcase_infantry_30_town_clear_bra_0">
               <Original>All right, Alpha... looks like we're clear. Thanks for the assist.</Original>
-              <Chinese>好了，"Alpha"...看來我們已經安全了。感謝你們的支援。</Chinese>
-              <Chinesesimp>好了，"阿尔法"...看来我们已经安全了。感谢你们的支援。</Chinesesimp>
+              <Chinese>好了，Alpha...看來我們已經安全了。感謝你們的支援。</Chinese>
+              <Chinesesimp>好了，Alpha...看来我们已经安全了。感谢你们的支援。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_30_town_clear_bra_1">
               <Original>Papa Bear, this is Bravo. We've taken casualties, but the village is ours. Please advise, over.</Original>
-              <Chinese>"Charlie"，這裡是"Bravo"。我們有人員傷亡，但村莊是我們的了。請指示下一步，完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"，这里是"布拉沃"。我们有人员伤亡，但村庄在我们手里。请指示，完毕。</Chinesesimp>
+              <Chinese>Charlie，這裡是Bravo。我們有人員傷亡，但村莊是我們的了。請指示下一步，完畢。</Chinese>
+              <Chinesesimp>Papa Bear，这里是Bravo。我们有人员伤亡，但村庄在我们手里。请指示，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_30_town_clear_pap_0">
               <Original>Copy that. Alpha, Bravo, entrench your position and await further orders. Charlie's now en route with support for your wounded. Out.</Original>
-              <Chinese>收到。"Alpha"，"Bravo"，鞏固你們的位置並等待進一步命令。"Charlie's"正在前往支援你們的路上了。完畢。</Chinese>
-              <Chinesesimp>收到。"阿尔法"，"布拉沃"，巩固你们的位置并等待进一步命令。"查理"正在前往支援你们的路上了。完毕。</Chinesesimp>
+              <Chinese>收到。Alpha，Bravo，鞏固你們的位置並等待進一步命令。"Charlie's"正在前往支援你們的路上了。完畢。</Chinese>
+              <Chinesesimp>收到。Alpha，Bravo，巩固你们的位置并等待进一步命令。Charlie正在前往支援你们的路上了。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="27_Ridgelines" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="27_Ridgelines" dubbingLanguage="english" namePrefix="showcase_infantry_27_ridgelines" note="" participants="PA B Alpha Lead;" situation="alpha lead orders the rest to watch the ridge-lines">
@@ -1644,37 +1644,37 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="25_Keep_Moving" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="25_Keep_Moving" dubbingLanguage="english" namePrefix="showcase_infantry_25_keep_moving" note="" participants="PA B Alpha Lead;PA B HQ;" situation="the situation worsens, but command orders alpha to keep moving">
             <Key ID="str_a3_showcase_infantry_25_keep_moving_alp_0">
               <Original>Papa Bear, we're a man down and OPFOR backup is flooding into the valley! We've got to fall back!</Original>
-              <Chinese>"熊爸爸"，我們有人倒下，並且敵軍後備部隊已經湧入村莊!我們需要撤退!</Chinese>
-              <Chinesesimp>"熊爸爸"，我们有一人伤亡，而敌预备队正涌入村庄!我们需要撤退!</Chinesesimp>
+              <Chinese>Papa Bear，我們有人倒下，並且敵軍後備部隊已經湧入村莊!我們需要撤退!</Chinese>
+              <Chinesesimp>Papa Bear，我们有一人伤亡，而敌预备队正涌入村庄!我们需要撤退!</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_25_keep_moving_alp_1">
               <Original>Dammit. Okay... okay, we keep moving, Bravo still needs our support!</Original>
-              <Chinese>該死。好...好吧，我們繼續移動，"Bravo"仍然需要我們的支援!</Chinese>
-              <Chinesesimp>该死。好...好吧，我们继续前进，"布拉沃"仍然需要我们的支援!</Chinesesimp>
+              <Chinese>該死。好...好吧，我們繼續移動，Bravo仍然需要我們的支援!</Chinese>
+              <Chinesesimp>该死。好...好吧，我们继续前进，Bravo仍然需要我们的支援!</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_25_keep_moving_pap_0">
               <Original>That's a negative Alpha, Bravo can't hold out much longer. You must hit the village now! Over!</Original>
-              <Chinese>這是否定的"Alpha"，"Bravo"已經快要撐不下去了。你們現在必須立刻攻擊村莊!完畢!</Chinese>
-              <Chinesesimp>不行"阿尔法"，"布拉沃"快撑不下去了。你们现在必须立刻攻击村庄!完毕!</Chinesesimp>
+              <Chinese>這是否定的Alpha，Bravo已經快要撐不下去了。你們現在必須立刻攻擊村莊!完畢!</Chinese>
+              <Chinesesimp>不行Alpha，Bravo快撑不下去了。你们现在必须立刻攻击村庄!完毕!</Chinesesimp>
             </Key>
           </Container>
           <Container name="23_Negative" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="23_Negative" dubbingLanguage="english" namePrefix="showcase_infantry_23_negative" note="" participants="PA B HQ;" situation="papa bear says le non.">
             <Key ID="str_a3_showcase_infantry_23_negative_pap_0">
               <Original>Alpha-3, be advised, no support available.</Original>
-              <Chinese>"Alpha-3"，請注意，現在沒有支援可用。</Chinese>
-              <Chinesesimp>"阿尔法-3"，请注意，现在没有支援可用。</Chinesesimp>
+              <Chinese>"Alpha-3，請注意，現在沒有支援可用。</Chinese>
+              <Chinesesimp>Alpha-3，请注意，现在没有支援可用。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_23_negative_pap_1">
               <Original>Sorry guys, we're stretched thin here. Papa Bear out.</Original>
-              <Chinese>抱歉了朋友，我們這裡已經擠不出人手了。"熊爸爸"通話完畢。</Chinese>
-              <Chinesesimp>抱歉了伙计们，我们这里已经挤不出人手了。"熊爸爸"通话完毕。</Chinesesimp>
+              <Chinese>抱歉了朋友，我們這裡已經擠不出人手了。Papa Bear通話完畢。</Chinese>
+              <Chinesesimp>抱歉了伙计们，我们这里已经挤不出人手了。Papa Bear通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_No_Hope" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="20_No_Hope" dubbingLanguage="english" namePrefix="showcase_infantry_20_no_hope" note="" participants="PA B Medic;PA B HQ;" situation="the medic reports that he cannot save the pointman">
             <Key ID="str_a3_showcase_infantry_20_no_hope_med_0">
               <Original>Alpha-3 to Papa Bear, Jackson's bleeding out...</Original>
-              <Chinese>"Alpha-3"呼叫"熊爸爸"，傑克遜正在嚴重失血...</Chinese>
-              <Chinesesimp>"阿尔法-3"呼叫"熊爸爸"，杰克逊正在严重失血...</Chinesesimp>
+              <Chinese>"Alpha-3呼叫Papa Bear，傑克遜正在嚴重失血...</Chinese>
+              <Chinesesimp>Alpha-3呼叫Papa Bear，杰克逊正在严重失血...</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_20_no_hope_med_1">
               <Original>...I don't have the supplies to deal with this - requesting support at our position, over!</Original>
@@ -1683,15 +1683,15 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_infantry_20_no_hope_pap_0">
               <Original>Acknowledged, Alpha-3. Wait one.</Original>
-              <Chinese>已收到，"Alpha-3"。請稍等。</Chinese>
-              <Chinesesimp>已收到，"阿尔法-3"。请稍等。</Chinesesimp>
+              <Chinese>已收到，"Alpha-3。請稍等。</Chinese>
+              <Chinesesimp>已收到，Alpha-3。请稍等。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_Medic" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="10_Medic" dubbingLanguage="english" namePrefix="showcase_infantry_10_medic" note="" participants="PA B Alpha Lead;" situation="alpha lead radios command">
             <Key ID="str_a3_showcase_infantry_10_medic_alp_0">
               <Original>Papa Bear, this is Alpha. We've got casualties. Standby for update.</Original>
-              <Chinese>"熊爸爸"，這裡是"Alpha"。我們有人員傷亡。等待我們進一步的報告。</Chinese>
-              <Chinesesimp>"熊爸爸"，这里是"阿尔法"。我们有人员伤亡。等待我们进一步的报告。</Chinesesimp>
+              <Chinese>Papa Bear，這裡是Alpha。我們有人員傷亡。等待我們進一步的報告。</Chinese>
+              <Chinesesimp>Papa Bear，这里是Alpha。我们有人员伤亡。等待我们进一步的报告。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_10_medic_alp_1">
               <Original>Concentrate your fire down the valley!</Original>
@@ -1726,13 +1726,13 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_infantry_01_enemy_spotted_alp_1">
               <Original>Papa Bear, this is Alpha. Be advised, contacts spotted near the village. Do we engage? Over.</Original>
-              <Chinese>"熊爸爸"，這裡是"Alpha"。請注意，我們發現有敵軍在村莊附近。是否交戰?完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"，这里是"阿尔法"。请注意，我们发现有敌军在村庄附近。是否交战?完毕。</Chinesesimp>
+              <Chinese>Papa Bear，這裡是Alpha。請注意，我們發現有敵軍在村莊附近。是否交戰?完畢。</Chinese>
+              <Chinesesimp>Papa Bear，这里是Alpha。请注意，我们发现有敌军在村庄附近。是否交战?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_01_enemy_spotted_poi_0">
               <Original>Sir, I've got lots of enemy movement here... looks like they're outflanking Bravo, over.</Original>
-              <Chinese>長官，我在這裡看到許多敵人...看來他們正打算要包抄"Bravo"，完畢。</Chinese>
-              <Chinesesimp>长官，我在这里看到许多敌人...看来他们正打算要包抄"布拉沃"，完毕。</Chinesesimp>
+              <Chinese>長官，我在這裡看到許多敵人...看來他們正打算要包抄Bravo，完畢。</Chinese>
+              <Chinesesimp>长官，我在这里看到许多敌人...看来他们正打算要包抄Bravo，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_01_enemy_spotted_alp_2">
               <Original>Ok, let's go!</Original>
@@ -1741,8 +1741,8 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_infantry_01_enemy_spotted_pap_0">
               <Original>Solid copy, Alpha Lead. Clear to engage. Papa Bear out.</Original>
-              <Chinese>完整收到，"Alpha"隊長。允許交戰。"熊爸爸"通話完畢。</Chinese>
-              <Chinesesimp>完整收到，"阿尔法"领队。允许交战。"熊爸爸"通话完毕。</Chinesesimp>
+              <Chinese>完整收到，Alpha隊長。允許交戰。Papa Bear通話完畢。</Chinese>
+              <Chinesesimp>完整收到，Alpha领队。允许交战。Papa Bear通话完毕。</Chinesesimp>
             </Key>
           </Container>
         </Container>

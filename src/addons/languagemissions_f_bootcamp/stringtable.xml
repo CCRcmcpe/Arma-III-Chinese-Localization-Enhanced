@@ -320,7 +320,7 @@
           <Key ID="str_a3_boot_m05_briefing_signal_text">
             <Original>&lt;marker name = 'BIS_start'&gt;Alpha 1-2&lt;/marker&gt; - Your callsign.&lt;br/&gt;&lt;marker name = 'BIS_start'&gt;Alpha 1-1&lt;/marker&gt; - Staff Sergeant Adams.&lt;br/&gt;&lt;marker name = 'BIS_reinf'&gt;Bravo 2-3&lt;/marker&gt; - Inbound reinforcements.&lt;br/&gt;Broadway - Colonel MacKinnon.&lt;br/&gt;Phalanx - AAF Command.</Original>
             <Chinese>&lt;markername='BIS_start'&gt;"Alpha1-2"&lt;/marker&gt;-你的呼號。&lt;br/&gt;&lt;markername='BIS_start'&gt;"Alpha1-1"&lt;/marker&gt;-上士亞當斯。&lt;br/&gt;&lt;markername='BIS_reinf'&gt;"Bravo2-3"&lt;/marker&gt;-增援的援軍。&lt;br/&gt;"百老匯"-上校麥金農。&lt;br/&gt;"方陣"-阿爾蒂斯武裝力量指揮官。</Chinese>
-            <Chinesesimp>&lt;markername='BIS_start'&gt;"阿尔法1-2"&lt;/marker&gt;-你的呼号。&lt;br/&gt;&lt;markername='BIS_start'&gt;"阿尔法1-1"&lt;/marker&gt;-亚当斯上士。&lt;br/&gt;&lt;markername='BIS_reinf'&gt;"布拉沃2-3"&lt;/marker&gt;-增援的援军。&lt;br/&gt;"百老汇"-麦金农上校。&lt;br/&gt;"密集阵"-AAF指挥官。</Chinesesimp>
+            <Chinesesimp>&lt;markername='BIS_start'&gt;Alpha1-2"&lt;/marker&gt;-你的呼号。&lt;br/&gt;&lt;markername='BIS_start'&gt;Alpha1-1"&lt;/marker&gt;-亚当斯上士。&lt;br/&gt;&lt;markername='BIS_reinf'&gt;Bravo2-3"&lt;/marker&gt;-增援的援军。&lt;br/&gt;"百老汇"-麦金农上校。&lt;br/&gt;"密集阵"-AAF指挥官。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m05_briefing_mission_text">
             <Original>Once %1the reinforcements%2 arrive, return to %3Kavala%4 and report in with Broadway.</Original>
@@ -354,8 +354,8 @@
           </Key>
           <Key ID="str_a3_boot_m05_bis_reinf_desc">
             <Original>Await %1Bravo 2-3%2's arrival.</Original>
-            <Chinese>等待%1"布拉沃2-3"%2的抵達。</Chinese>
-            <Chinesesimp>等待%1"布拉沃2-3"%2抵达。</Chinesesimp>
+            <Chinese>等待%1Bravo2-3"%2的抵達。</Chinese>
+            <Chinesesimp>等待%1Bravo2-3"%2抵达。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m05_bis_investigate_title">
             <Original>Investigate</Original>
@@ -512,7 +512,7 @@
             <Key ID="str_a3_boot_m05_45_aftermath_lac_6">
               <Original>Broadway, Alpha 1-2 Actual. Message. Over.</Original>
               <Chinese>"百老匯"，這裡是"Alpha-2"隊長。訊息。完畢。</Chinese>
-              <Chinesesimp>"百老汇"，这里是"阿尔法1-2"领队。有信息。完毕。</Chinesesimp>
+              <Chinesesimp>"百老汇"，这里是Alpha1-2"领队。有信息。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_45_aftermath_ihq_1">
               <Original>What my men do is my concern, and mine alone, Sergeant.</Original>
@@ -592,7 +592,7 @@
             <Key ID="str_a3_boot_m05_20_fire_ada_1">
               <Original>Broadway, Alpha 1-1 Actual. What's the situation in Kavala? Over.</Original>
               <Chinese>"百老匯"，這裡是"Alpha1-1"隊長。現在卡瓦拉的情況如何?完畢。</Chinese>
-              <Chinesesimp>"百老汇"，这里是"阿尔法1-1"领队。现在卡瓦拉的情况如何?完毕。</Chinesesimp>
+              <Chinesesimp>"百老汇"，这里是Alpha1-1"领队。现在卡瓦拉的情况如何?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_20_fire_ada_2">
               <Original>Copy. Interrogative, what do you need us for? Over.</Original>
@@ -743,12 +743,12 @@
           <Key ID="str_a3_boot_m04_briefing_signal_text">
             <Original>&lt;marker name = 'BIS_lacey'&gt;Alpha 1-2&lt;/marker&gt; - Your callsign.&lt;br/&gt;&lt;marker name = 'BIS_adams'&gt;Alpha 1-1&lt;/marker&gt; - Staff Sergeant Adams.&lt;br/&gt;Broadway - Colonel MacKinnon.&lt;br/&gt;Phalanx - AAF Command.</Original>
             <Chinese>&lt;markername='BIS_lacey'&gt;"Alpha1-2"&lt;/marker&gt;-你的呼號。&lt;br/&gt;&lt;markername='BIS_adams'&gt;"Alpha1-1"&lt;/marker&gt;-上士亚当斯。&lt;br/&gt;"百老匯"-上校麥金農。&lt;br/&gt;"方陣"-阿爾蒂斯武裝力量指揮官。</Chinese>
-            <Chinesesimp>&lt;markername='BIS_lacey'&gt;"阿尔法1-2"&lt;/marker&gt;-你的呼号。&lt;br/&gt;&lt;markername='BIS_adams'&gt;"阿尔法1-1"&lt;/marker&gt;-亚当斯上士。&lt;br/&gt;"百老汇"-麦金农上校。&lt;br/&gt;"密集阵"-AAF指挥官。</Chinesesimp>
+            <Chinesesimp>&lt;markername='BIS_lacey'&gt;Alpha1-2"&lt;/marker&gt;-你的呼号。&lt;br/&gt;&lt;markername='BIS_adams'&gt;Alpha1-1"&lt;/marker&gt;-亚当斯上士。&lt;br/&gt;"百老汇"-麦金农上校。&lt;br/&gt;"密集阵"-AAF指挥官。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_briefing_mission_text">
             <Original>&lt;marker name = 'BIS_adams'&gt;Alpha 1-1&lt;/marker&gt; and &lt;marker name = 'BIS_lacey'&gt;1-2&lt;/marker&gt;, led by Staff Sergeant Adams, are to deploy to &lt;marker name = 'BIS_lost'&gt;the convoy's last known location&lt;/marker&gt; and, if possible, obtain a visual on the convoy itself, before reporting back to Broadway.</Original>
             <Chinese>由&lt;markername='BIS_adams'&gt;"Alpha1-1"&lt;/marker&gt;和&lt;markername='BIS_lacey'&gt;"1-2"&lt;/marker&gt;所組成的小隊，將由上士亞當斯帶領，將被佈署到&lt;markername='BIS_lost'&gt;車隊最後的已知位置&lt;/marker&gt;，如果可以的話，請先目視到車隊，再向"百老匯"回報。</Chinese>
-            <Chinesesimp>由&lt;markername='BIS_adams'&gt;"阿尔法1-1"&lt;/marker&gt;和&lt;markername='BIS_lacey'&gt;"1-2"&lt;/marker&gt;所组成的小队由上士亚当斯带领，将被布署到&lt;markername='BIS_lost'&gt;车队最后的已知位置&lt;/marker&gt;，如果可以的话，请先目视到车队，再向"百老汇"回报。</Chinesesimp>
+            <Chinesesimp>由&lt;markername='BIS_adams'&gt;Alpha1-1"&lt;/marker&gt;和&lt;markername='BIS_lacey'&gt;"1-2"&lt;/marker&gt;所组成的小队由上士亚当斯带领，将被布署到&lt;markername='BIS_lost'&gt;车队最后的已知位置&lt;/marker&gt;，如果可以的话，请先目视到车队，再向"百老汇"回报。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_briefing_execution_text">
             <Original>1. Move to &lt;marker name = 'BIS_lost'&gt;the last known position&lt;/marker&gt;.&lt;br/&gt;2. Locate the convoy.&lt;br/&gt;3. Report to Broadway.</Original>
@@ -1097,7 +1097,7 @@
             <Key ID="str_a3_boot_m04_10_convoy_found_ada_1">
               <Original>Broadway, Alpha 1-1 Actual. We have a visual on the convoy. Grid 073-123. How copy? Over.</Original>
               <Chinese>"百老匯"，這裡是"Alpha1-1"隊長。我們已經目視到車隊了。座標在073-123。有收到嗎?完畢。</Chinese>
-              <Chinesesimp>"百老汇"，这里是"阿尔法1-1"队长。我们已经目视到车队了。座标在073-123。有收到吗?完毕。</Chinesesimp>
+              <Chinesesimp>"百老汇"，这里是Alpha1-1"队长。我们已经目视到车队了。座标在073-123。有收到吗?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_10_convoy_found_bhq_0">
               <Original>1-1 Actual, Broadway. Copy. Dispatching reinforcements. Secure the area and await their arrival.</Original>
@@ -3355,7 +3355,7 @@
             <Key ID="str_a3_boot_m03_110_sitrep_ada_1">
               <Original>Broadway, Alpha 1-1 Actual. Was that what I think it was? Over.</Original>
               <Chinese>"百老匯"，這裡是"Alpha1-1"隊長。地震應該沒啥事吧?完畢。</Chinese>
-              <Chinesesimp>"百老汇"，这里是"阿尔法1-1"领队。这会是我想的那样吗?完毕。</Chinesesimp>
+              <Chinesesimp>"百老汇"，这里是Alpha1-1"领队。这会是我想的那样吗?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_110_sitrep_ada_2">
               <Original>Copy, Broadw-</Original>

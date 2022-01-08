@@ -1565,8 +1565,8 @@
           <Container name="x20_BaseFallen" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="x20_BaseFallen" dubbingLanguage="english" namePrefix="showcase_slingloading_x20_basefallen" note="" participants="HELI B Tower;" situation="the fia base was seized by the aaf">
             <Key ID="str_a3_showcase_slingloading_x20_basefallen_tow_0">
               <Original>November, we've lost comms with the locals. Guess the AAF got to them first.</Original>
-              <Chinese>"November"，我們已與反抗軍失去通訊。我們猜阿爾蒂斯武裝力量應該已經先逮到他們了。</Chinese>
-              <Chinesesimp>十一月，我们已与反抗军失去通信。猜测AAF应该已经先逮到他们了。</Chinesesimp>
+              <Chinese>November，我們已與反抗軍失去通訊。我們猜阿爾蒂斯武裝力量應該已經先逮到他們了。</Chinese>
+              <Chinesesimp>November，我们已与反抗军失去通信。猜测AAF应该已经先逮到他们了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_x20_basefallen_tow_1">
               <Original>RTB. We'll sort it out.</Original>
@@ -1589,20 +1589,20 @@
             </Key>
             <Key ID="str_a3_showcase_slingloading_x10_mayday_pil_1">
               <Original>November is going down! I repeat, we're going down!</Original>
-              <Chinese>"November"正在失去高度!我重複一遍，我們正在失去高度!</Chinese>
-              <Chinesesimp>"十一月"正在坠落!我重复一遍，我们正在坠落!</Chinesesimp>
+              <Chinese>November正在失去高度!我重複一遍，我們正在失去高度!</Chinese>
+              <Chinesesimp>November正在坠落!我重复一遍，我们正在坠落!</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_x10_mayday_tow_0">
               <Original>Copy, November. Dispatching search and rescue to your grid.</Original>
-              <Chinese>收到，"November"。正派遣搜救隊前往你的座標。</Chinese>
-              <Chinesesimp>收到，"十一月"。正派遣搜救队前往你的座标。</Chinesesimp>
+              <Chinese>收到，November。正派遣搜救隊前往你的座標。</Chinese>
+              <Chinesesimp>收到，November。正派遣搜救队前往你的座标。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x05_CargoDestroyed" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="x05_CargoDestroyed" dubbingLanguage="english" namePrefix="showcase_slingloading_x05_cargodestroyed" note="" participants="HELI B Pilot;HELI B Tower;" situation="one of the cargo has been destroyed">
             <Key ID="str_a3_showcase_slingloading_x05_cargodestroyed_pil_0">
               <Original>Uh... Eagle, November. Message. Over.</Original>
-              <Chinese>痾..."鷹"，"November"。訊息。完畢。</Chinese>
-              <Chinesesimp>痾..."鹰"，"十一月"。信息。完毕。</Chinesesimp>
+              <Chinese>痾..."鷹"，November。訊息。完畢。</Chinese>
+              <Chinesesimp>痾..."鹰"，November。信息。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_x05_cargodestroyed_pil_1">
               <Original>Yeah, we've uh... Lost the cargo. Over.</Original>
@@ -1611,13 +1611,13 @@
             </Key>
             <Key ID="str_a3_showcase_slingloading_x05_cargodestroyed_tow_0">
               <Original>We read you, November. Send it. Over.</Original>
-              <Chinese>我們收到了，"November"。請說。完畢。</Chinese>
-              <Chinesesimp>我们收到了，"十一月"。请说。完毕。</Chinesesimp>
+              <Chinese>我們收到了，November。請說。完畢。</Chinese>
+              <Chinesesimp>我们收到了，November。请说。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_x05_cargodestroyed_tow_1">
               <Original>Copy, November.</Original>
-              <Chinese>收到，"十一月"。</Chinese>
-              <Chinesesimp>收到，"十一月"。</Chinesesimp>
+              <Chinese>收到，November。</Chinese>
+              <Chinesesimp>收到，November。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_x05_cargodestroyed_tow_2">
               <Original>RTB. You get to explain this to Crossroads this time. Out.</Original>
@@ -1628,20 +1628,20 @@
           <Container name="x01_LeavingAO" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="x01_LeavingAO" dubbingLanguage="english" namePrefix="showcase_slingloading_x01_leavingao" note="" participants="HELI B Tower;" situation="player leaving ao">
             <Key ID="str_a3_showcase_slingloading_x01_leavingao_tow_0">
               <Original>November, I'm reading you way off course. Suggest you adjust your heading ASAP. Over.</Original>
-              <Chinese>"November"，我發現到你正飛離計劃路線。建議你趕快修正你的航線。完畢。</Chinese>
-              <Chinesesimp>"十一月"，我发现到你正飞离计划路线。建议你赶快修正你的航线。完毕。</Chinesesimp>
+              <Chinese>November，我發現到你正飛離計劃路線。建議你趕快修正你的航線。完畢。</Chinese>
+              <Chinesesimp>November，我发现到你正飞离计划路线。建议你赶快修正你的航线。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_InfantryDropped" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="40_InfantryDropped" dubbingLanguage="english" namePrefix="showcase_slingloading_40_infantrydropped" note="" participants="HELI B Pilot;HELI B Tower;" situation="right after player unloads the reinforcements (hot lz)">
             <Key ID="str_a3_showcase_slingloading_40_infantrydropped_pil_0">
               <Original>Eagle, November. Boots on the ground.</Original>
-              <Chinese>"鷹"，"November"。部隊已在地面上。</Chinese>
-              <Chinesesimp>"鹰"，"十一月"。部队已在地面上。</Chinesesimp>
+              <Chinese>"鷹"，November。部隊已在地面上。</Chinese>
+              <Chinesesimp>"鹰"，November。部队已在地面上。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_40_infantrydropped_tow_0">
               <Original>Copy, November. RTB.</Original>
-              <Chinese>收到，"November"。請返回基地。</Chinese>
-              <Chinesesimp>收到，"十一月"。请返回基地。</Chinesesimp>
+              <Chinese>收到，November。請返回基地。</Chinese>
+              <Chinesesimp>收到，November。请返回基地。</Chinesesimp>
             </Key>
           </Container>
           <Container name="37_Landed" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="37_Landed" dubbingLanguage="english" namePrefix="showcase_slingloading_37_landed" note="" participants="HELI B Pilot;" situation="player telling the troops to disembark when he lands at the base">
@@ -1673,18 +1673,18 @@
           <Container name="30_ChangeOfPlan" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="30_ChangeOfPlan" dubbingLanguage="english" namePrefix="showcase_slingloading_30_changeofplan" note="" participants="HELI B Pilot;HELI B Tower;" situation="new info received">
             <Key ID="str_a3_showcase_slingloading_30_changeofplan_pil_0">
               <Original>November copies. Standing by.</Original>
-              <Chinese>"November"收到。等待中。</Chinese>
-              <Chinesesimp>"十一月"收到。等待中。</Chinesesimp>
+              <Chinese>November收到。等待中。</Chinese>
+              <Chinesesimp>November收到。等待中。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_30_changeofplan_pil_1">
               <Original>Solid copy. Changing course now. November out.</Original>
-              <Chinese>完整收到。現在改變路線。"November"通話完畢。</Chinese>
-              <Chinesesimp>完整收到。现在改变路线。"十一月"通话完毕。</Chinesesimp>
+              <Chinese>完整收到。現在改變路線。November通話完畢。</Chinese>
+              <Chinesesimp>完整收到。现在改变路线。November通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_30_changeofplan_tow_0">
               <Original>Change of plan, November. Standby for tasking.</Original>
-              <Chinese>改變計劃，"November"。請等待接收任務命令。</Chinese>
-              <Chinesesimp>改变计划，"十一月"。请等待接收任务命令。</Chinesesimp>
+              <Chinese>改變計劃，November。請等待接收任務命令。</Chinese>
+              <Chinesesimp>改变计划，November。请等待接收任务命令。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_30_changeofplan_tow_1">
               <Original>Some locals took a Greenback outpost on the southern peninsula, and now they're surrounded. You're being re-tasked to help them out.</Original>
@@ -1705,35 +1705,35 @@
           <Container name="25_StriderDropped" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="25_StriderDropped" dubbingLanguage="english" namePrefix="showcase_slingloading_25_striderdropped" note="" participants="HELI B Pilot;HELI B Tower;" situation="player has just dropped the strider at the lz">
             <Key ID="str_a3_showcase_slingloading_25_striderdropped_pil_0">
               <Original>Eagle, November. Package delivered. Awaiting orders, over.</Original>
-              <Chinese>"鷹"，"November"。貨物已送達。正等待命令，完畢。</Chinese>
-              <Chinesesimp>"鹰"，"十一月"。货物已送达。正等待命令，完毕。</Chinesesimp>
+              <Chinese>"鷹"，November。貨物已送達。正等待命令，完畢。</Chinese>
+              <Chinesesimp>"鹰"，November。货物已送达。正等待命令，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_25_striderdropped_pil_1">
               <Original>Roger that. November out.</Original>
-              <Chinese>收到。"November"通話完畢。</Chinese>
-              <Chinesesimp>收到。"十一月"通话完毕。</Chinesesimp>
+              <Chinese>收到。November通話完畢。</Chinese>
+              <Chinesesimp>收到。November通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_25_striderdropped_tow_0">
               <Original>Copy, November. Proceed to Whiskey.</Original>
-              <Chinese>收到，"November"。請前往"威士忌"。</Chinese>
-              <Chinesesimp>收到，"十一月"。请前往"威士忌"。</Chinesesimp>
+              <Chinese>收到，November。請前往Whiskey。</Chinese>
+              <Chinesesimp>收到，November。请前往Whiskey。</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_StriderLoaded" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="20_StriderLoaded" dubbingLanguage="english" namePrefix="showcase_slingloading_20_striderloaded" note="" participants="HELI B Pilot;HELI B Tower;" situation="player has just loaded the floating strider">
             <Key ID="str_a3_showcase_slingloading_20_striderloaded_pil_0">
               <Original>Eagle, November. We've got one MRAP in tow, proceeding to Pyrgos. Over.</Original>
-              <Chinese>"鷹"，"November"。我們已掛起一臺載具了，正前往皮爾戈斯。完畢。</Chinese>
-              <Chinesesimp>"鹰"，"十一月"。我们已挂起一辆防地雷反伏击车了，正前往皮尔戈斯。完毕。</Chinesesimp>
+              <Chinese>"鷹"，November。我們已掛起一臺載具了，正前往皮爾戈斯。完畢。</Chinese>
+              <Chinesesimp>"鹰"，November。我们已挂起一辆防地雷反伏击车了，正前往皮尔戈斯。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_20_striderloaded_pil_1">
               <Original>Understood. November out.</Original>
-              <Chinese>了解。"November"通話完畢。</Chinese>
-              <Chinesesimp>了解。"十一月"通话完毕。</Chinesesimp>
+              <Chinese>了解。November通話完畢。</Chinese>
+              <Chinesesimp>了解。November通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_20_striderloaded_tow_0">
               <Original>Understood, November.</Original>
-              <Chinese>了解，"November"。</Chinese>
-              <Chinesesimp>了解，"十一月"。</Chinesesimp>
+              <Chinese>了解，November。</Chinese>
+              <Chinesesimp>了解，November。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_20_striderloaded_tow_1">
               <Original>Recommend you approach from the north-west. That'll take you around the taller obstacles nearby.</Original>
@@ -1749,8 +1749,8 @@
           <Container name="17_Confirm" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="17_Confirm" dubbingLanguage="english" namePrefix="showcase_slingloading_17_confirm" note="" participants="HELI B Pilot;HELI B Tower;" situation="confirming new task">
             <Key ID="str_a3_showcase_slingloading_17_confirm_pil_0">
               <Original>Solid copy. En route. November out.</Original>
-              <Chinese>完整收到。在路上了。"November"通話完畢。</Chinese>
-              <Chinesesimp>完整收到。在路上了。"十一月"通话完毕。</Chinesesimp>
+              <Chinese>完整收到。在路上了。November通話完畢。</Chinese>
+              <Chinesesimp>完整收到。在路上了。November通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_17_confirm_pil_1">
               <Original>It's gonna be a long day...</Original>
@@ -1761,8 +1761,8 @@
           <Container name="16_NewTask" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="16_NewTask" dubbingLanguage="english" namePrefix="showcase_slingloading_16_newtask" note="" participants="HELI B Pilot;HELI B Tower;" situation="player receives his new task">
             <Key ID="str_a3_showcase_slingloading_16_newtask_tow_0">
               <Original>November, be advised, tasking to follow.</Original>
-              <Chinese>"November"，請注意，請遵照以下任務指示。</Chinese>
-              <Chinesesimp>"十一月"，请注意，请遵照以下任务指示。</Chinesesimp>
+              <Chinese>November，請注意，請遵照以下任務指示。</Chinese>
+              <Chinesesimp>November，请注意，请遵照以下任务指示。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_16_newtask_tow_1">
               <Original>We've got an AAF MRAP stuck in the Gulf of Pyrgos. Crossroads wants you to deliver it to Pyrgos for inspection.</Original>
@@ -1783,8 +1783,8 @@
           <Container name="15_AmmoDropped" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="15_AmmoDropped" dubbingLanguage="english" namePrefix="showcase_slingloading_15_ammodropped" note="" participants="HELI B Pilot;HELI B Tower;" situation="player has just delivered the artillery ammo">
             <Key ID="str_a3_showcase_slingloading_15_ammodropped_pil_0">
               <Original>Eagle, November. Package delivered.</Original>
-              <Chinese>"鷹"，"November"。貨物已送達。</Chinese>
-              <Chinesesimp>"鹰"，"十一月"。货物已送达。</Chinesesimp>
+              <Chinese>"鷹"，November。貨物已送達。</Chinese>
+              <Chinesesimp>"鹰"，November。货物已送达。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_15_ammodropped_pil_1">
               <Original>What's the news? Over.</Original>
@@ -1793,20 +1793,20 @@
             </Key>
             <Key ID="str_a3_showcase_slingloading_15_ammodropped_tow_0">
               <Original>Copy, November. Standby.</Original>
-              <Chinese>收到，"November"。請稍等。</Chinese>
-              <Chinesesimp>收到，"十一月"。请稍等。</Chinesesimp>
+              <Chinese>收到，November。請稍等。</Chinese>
+              <Chinesesimp>收到，November。请稍等。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_AmmoLoaded" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="10_AmmoLoaded" dubbingLanguage="english" namePrefix="showcase_slingloading_10_ammoloaded" note="" participants="HELI B Pilot;HELI B Tower;" situation="player has just loaded the ammo container">
             <Key ID="str_a3_showcase_slingloading_10_ammoloaded_pil_0">
               <Original>Eagle, November. Container's loaded, proceeding to destination. Over.</Original>
-              <Chinese>"鷹"，"November"。已吊掛貨櫃，開始前往目的地。完畢。</Chinese>
-              <Chinesesimp>"鹰"，"十一月"。已吊挂货柜，开始前往目的地。完毕。</Chinesesimp>
+              <Chinese>"鷹"，November。已吊掛貨櫃，開始前往目的地。完畢。</Chinese>
+              <Chinesesimp>"鹰"，November。已吊挂货柜，开始前往目的地。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_10_ammoloaded_pil_1">
               <Original>Copy. Keep me updated. November out.</Original>
-              <Chinese>收到。請保持聯絡。"November"通話完畢。</Chinese>
-              <Chinesesimp>收到。请保持联络。"十一月"通话完毕。</Chinesesimp>
+              <Chinese>收到。請保持聯絡。November通話完畢。</Chinese>
+              <Chinesesimp>收到。请保持联络。November通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_10_ammoloaded_tow_0">
               <Original>Copy. Boots on the ground will deploy blue smoke to mark your LZ.</Original>
@@ -1822,18 +1822,18 @@
           <Container name="05_TakeOff" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="05_TakeOff" dubbingLanguage="english" namePrefix="showcase_slingloading_05_takeoff" note="" participants="HELI B Pilot;HELI B Tower;" situation="player in helicopter, about to take off">
             <Key ID="str_a3_showcase_slingloading_05_takeoff_pil_0">
               <Original>Eagle, November. On station, preparing for takeoff.</Original>
-              <Chinese>"鷹"，"November"。準備完成，隨時可起飛。</Chinese>
-              <Chinesesimp>"鹰"，"十一月"。准备完成，随时可起飞。</Chinesesimp>
+              <Chinese>"鷹"，November。準備完成，隨時可起飛。</Chinese>
+              <Chinesesimp>"鹰"，November。准备完成，随时可起飞。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_05_takeoff_pil_1">
               <Original>November copies all. Heading out.</Original>
-              <Chinese>"November"完整收到。開始出發。</Chinese>
-              <Chinesesimp>"十一月"完整收到。开始出发。</Chinesesimp>
+              <Chinese>November完整收到。開始出發。</Chinese>
+              <Chinesesimp>November完整收到。开始出发。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_05_takeoff_tow_0">
               <Original>Copy, November. Today's forecast - clear skies with a weak westerly wind. That's gonna run up at about 5 knots.</Original>
-              <Chinese>收到，"November"。以下是今日氣象-天氣晴朗並帶有微弱的西風。風速最高為5節。</Chinese>
-              <Chinesesimp>收到，"十一月"。以下是今日气象-天气晴朗并带有微弱的西风。风速最高可达5节。</Chinesesimp>
+              <Chinese>收到，November。以下是今日氣象-天氣晴朗並帶有微弱的西風。風速最高為5節。</Chinese>
+              <Chinesesimp>收到，November。以下是今日气象-天气晴朗并带有微弱的西风。风速最高可达5节。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_05_takeoff_tow_1">
               <Original>Be advised, you've got two friendly birds sharing your airspace. Flight levels between 350 and 650 feet.</Original>
@@ -1847,8 +1847,8 @@
             </Key>
             <Key ID="str_a3_showcase_slingloading_05_takeoff_tow_3">
               <Original>And that's all I've got for you at this time, November. How copy?</Original>
-              <Chinese>以上就是我必須交付給你的情報，"November"。有收到嗎?</Chinese>
-              <Chinesesimp>以上就是我必须交付给你的情报，"十一月"。有收到吗?</Chinesesimp>
+              <Chinese>以上就是我必須交付給你的情報，November。有收到嗎?</Chinese>
+              <Chinesesimp>以上就是我必须交付给你的情报，November。有收到吗?</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_05_takeoff_tow_4">
               <Original>Copy. Happy trails.</Original>
@@ -1864,8 +1864,8 @@
             </Key>
             <Key ID="str_a3_showcase_slingloading_01_prologue_tow_0">
               <Original>November, status?</Original>
-              <Chinese>"November"，狀況如何?</Chinese>
-              <Chinesesimp>"十一月"，状况如何?</Chinesesimp>
+              <Chinese>November，狀況如何?</Chinese>
+              <Chinesesimp>November，状况如何?</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_01_prologue_tow_1">
               <Original>Copy.</Original>
@@ -1880,8 +1880,8 @@
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_SITREP_text">
             <Original>FOB Whiskey, Central Altis</Original>
-            <Chinese>"威士忌"前線作戰基地，阿爾蒂斯中部</Chinese>
-            <Chinesesimp>"威士忌"前进作战基地，阿尔蒂斯中部</Chinesesimp>
+            <Chinese>Whiskey前線作戰基地，阿爾蒂斯中部</Chinese>
+            <Chinesesimp>Whiskey前进作战基地，阿尔蒂斯中部</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_Titlecard">
             <Original>SHOWCASE: SLING LOADING - New transport helicopters, Sling Load Assistant, Logistical support</Original>
@@ -1910,8 +1910,8 @@
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_FOBWhiskey">
             <Original>FOB Whiskey</Original>
-            <Chinese>"Whiskey"前線作戰基地</Chinese>
-            <Chinesesimp>"威士忌"前进作战基地</Chinesesimp>
+            <Chinese>Whiskey前線作戰基地</Chinese>
+            <Chinesesimp>Whiskey前进作战基地</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskAmmoLoad_title">
             <Original>Collect the Ammunition</Original>
@@ -1940,8 +1940,8 @@
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_Briefing_Execution_text">
             <Original>1. Board your CH-67 Huron heavy transport helicopter. &lt;br /&gt;2. Collect the ammunition from %2the AAC airfield%1. &lt;br /&gt;3. Transport the ammunition to the %3artillery platoon%1. &lt;br /&gt;4. Return to %4FOB Whiskey%1 and land.</Original>
-            <Chinese>1. 搭乘你的CH-67"休倫"重型運輸直升機。&lt;br/&gt;2. 吊掛在%2阿爾蒂斯空中俱樂部%1的彈藥。&lt;br/&gt;3. 運送彈藥前往%3火炮排%1那邊。&lt;br/&gt;4. 返回%4"Whiskey"前線作戰基地%1並降落。</Chinese>
-            <Chinesesimp>1. 搭乘你的CH-67"休伦"重型运输直升机。&lt;br/&gt;2. 吊挂在%2阿尔蒂斯空中俱乐部机场%1的弹药。&lt;br/&gt;3. 运送弹药前往%3自行火炮排%1那边。&lt;br/&gt;4. 返回%4"威士忌"前线作战基地%1并降落。</Chinesesimp>
+            <Chinese>1. 搭乘你的CH-67"休倫"重型運輸直升機。&lt;br/&gt;2. 吊掛在%2阿爾蒂斯空中俱樂部%1的彈藥。&lt;br/&gt;3. 運送彈藥前往%3火炮排%1那邊。&lt;br/&gt;4. 返回%4Whiskey前線作戰基地%1並降落。</Chinese>
+            <Chinesesimp>1. 搭乘你的CH-67"休伦"重型运输直升机。&lt;br/&gt;2. 吊挂在%2阿尔蒂斯空中俱乐部机场%1的弹药。&lt;br/&gt;3. 运送弹药前往%3自行火炮排%1那边。&lt;br/&gt;4. 返回%4Whiskey前线作战基地%1并降落。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_Briefing_Intel_text">
             <Original>Weather: Clear with good visibility. &lt;br /&gt;Wind: West-to-East, 2-4m/s.</Original>
@@ -1950,8 +1950,8 @@
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_Briefing_Signal_text">
             <Original>November - Your callsign. &lt;br /&gt;Eagle - Control tower.</Original>
-            <Chinese>"November"-你的呼號。&lt;br/&gt;"鷹"-塔臺。</Chinese>
-            <Chinesesimp>"十一月"-你的呼号。&lt;br/&gt;"鹰"-塔台。</Chinesesimp>
+            <Chinese>November-你的呼號。&lt;br/&gt;"鷹"-塔臺。</Chinese>
+            <Chinesesimp>November-你的呼号。&lt;br/&gt;"鹰"-塔台。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_Briefing_Intel_title">
             <Original>Weather forecast</Original>
@@ -2030,13 +2030,13 @@
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskRTB_description">
             <Original>Return to %2FOB Whiskey%1 and land.</Original>
-            <Chinese>返回%2"Whiskey"前線作戰基地%1並降落。</Chinese>
-            <Chinesesimp>返回%2"威士忌"前进作战基地%1并降落。</Chinesesimp>
+            <Chinese>返回%2Whiskey前線作戰基地%1並降落。</Chinese>
+            <Chinesesimp>返回%2Whiskey前进作战基地%1并降落。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskRTB_title">
             <Original>Land at FOB Whiskey</Original>
-            <Chinese>降落在"Whiskey"前線作戰基地</Chinese>
-            <Chinesesimp>降落在"威士忌"前进作战基地</Chinesesimp>
+            <Chinese>降落在Whiskey前線作戰基地</Chinese>
+            <Chinesesimp>降落在Whiskey前进作战基地</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskRTB_WP">
             <Original>LAND</Original>
@@ -3450,8 +3450,8 @@
       </Key>
       <Key ID="STR_A3_Codename_November">
         <Original>November</Original>
-        <Chinese>"November"</Chinese>
-        <Chinesesimp>"十一月"</Chinesesimp>
+        <Chinese>November</Chinese>
+        <Chinesesimp>November</Chinesesimp>
       </Key>
       <Key ID="STR_A3_callsign_mantis">
         <Original>Mantis</Original>

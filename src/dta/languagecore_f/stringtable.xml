@@ -1981,12 +1981,12 @@
         <Key ID="str_a3_cfgmpgametypes_apexprotocol_name">
           <Original>Campaign - Apex Protocol</Original>
           <Chinese>戰役-頂尖協議</Chinese>
-          <Chinesesimp>战役-顶尖协议</Chinesesimp>
+          <Chinesesimp>战役-Apex协议</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_apexprotocol_shortcut">
           <Original>Apex Protocol</Original>
           <Chinese>頂尖協議</Chinese>
-          <Chinesesimp>顶尖协议</Chinesesimp>
+          <Chinesesimp>Apex协议</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_endgame_name">
           <Original>End Game</Original>
@@ -2830,7 +2830,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valuepipdetail_tooltip">
           <Original>Picture-In-Picture quality (mirrors, cockpit screens).</Original>
           <Chinese>子母畫面質量(鏡子，駕駛艙螢幕)。</Chinese>
-          <Chinesesimp>子母画面质量(镜子，驾驶舱屏幕)。</Chinesesimp>
+          <Chinesesimp>画中画质量(镜子，驾驶舱屏幕)。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valueparticlesquality_tooltip">
           <Original>Quality of particle effects.</Original>
@@ -2855,7 +2855,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valuehdrdetail_tooltip">
           <Original>High Dynamic Range lighting quality.</Original>
           <Chinese>高動態範圍照明質量。</Chinese>
-          <Chinesesimp>高动态范围照明质量。</Chinesesimp>
+          <Chinesesimp>HDR照明质量。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valuefxaa_tooltip">
           <Original>Postprocess antialiasing.</Original>
@@ -2889,8 +2889,8 @@
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valueanisotropicdetail_tooltip">
           <Original>Anisotropic filtering (quality of textured surfaces at shallow angles and in the distance).</Original>
-          <Chinese>非等方性過濾(改善遊戲貼圖物件的清晰度和銳利度)</Chinese>
-          <Chinesesimp>非等方性过滤(改善游戏贴图物件的清晰度和锐利度)</Chinesesimp>
+          <Chinese>各向异性過濾(改善遊戲貼圖物件的清晰度和銳利度)</Chinese>
+          <Chinesesimp>各向异性过滤(改善游戏贴图物件的清晰度和锐利度)</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valueaadetail_tooltip">
           <Original>Full Screen Anti-Aliasing. Smoothens edges of objects.</Original>
@@ -2930,7 +2930,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_textpipdetail">
           <Original>PIP:</Original>
           <Chinese>子母畫面:</Chinese>
-          <Chinesesimp>子母画面:</Chinesesimp>
+          <Chinesesimp>画中画:</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_textparticlesquality">
           <Original>Particles:</Original>
@@ -2955,7 +2955,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_texthdrdetail">
           <Original>HDR:</Original>
           <Chinese>動態範圍照明質量:</Chinese>
-          <Chinesesimp>动态范围照明质量:</Chinesesimp>
+          <Chinesesimp>HDR照明质量:</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_textfxaa">
           <Original>PPAA:</Original>
@@ -2989,8 +2989,8 @@
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_textanisotropicdetail">
           <Original>Aniso. Filtering:</Original>
-          <Chinese>非等方性過濾:</Chinese>
-          <Chinesesimp>非等方性过滤:</Chinesesimp>
+          <Chinese>各向异性過濾:</Chinese>
+          <Chinesesimp>各向异性过滤:</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_textaadetail">
           <Original>FSAA:</Original>
@@ -5778,12 +5778,12 @@
         <Key ID="str_a3_cfgdefaultkeyspresets_apex0">
           <Original>Arma 3 Apex</Original>
           <Chinese>武裝突襲3頂尖</Chinese>
-          <Chinesesimp>武装突袭3顶尖</Chinesesimp>
+          <Chinesesimp>武装突袭3 Apex</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgdefaultkeyspresets_apex1">
           <Original>Arma 3 Apex: re-imagined controls for the Apex expansion with industry standard influences.</Original>
           <Chinese>武裝突襲3頂尖:頂尖將重新定義並擴展遊戲的內容。</Chinese>
-          <Chinesesimp>武装突袭3顶尖:顶尖将重新定义并扩展游戏的内容。</Chinesesimp>
+          <Chinesesimp>武装突袭3 Apex将重新定义并扩展游戏的内容。</Chinesesimp>
         </Key>
       </Container>
       <Container name="cfgEditorLayouts">
@@ -5961,7 +5961,7 @@
         <Key ID="str_a3_rscdisplaydlccontentbrowser_title">
           <Original>DLC Content Browser</Original>
           <Chinese>資料片內容瀏覽器</Chinese>
-          <Chinesesimp>资料片内容浏览器</Chinesesimp>
+          <Chinesesimp>DLC内容浏览器</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaydlccontentbrowser_buttonassets">
           <Original>Assets</Original>
@@ -5993,7 +5993,7 @@
         <Key ID="str_a3_rscdisplaypurchasenotification_message_box">
           <Original>Please switch off the game, wait until Steam downloads the DLC and start the game again.</Original>
           <Chinese>請先關閉遊戲，等待Steam下載完資料片內容後再開啟遊戲。</Chinese>
-          <Chinesesimp>请先关闭游戏，等待Steam下载完资料片内容后再开启游戏。</Chinesesimp>
+          <Chinesesimp>请先关闭游戏，等待Steam下载完DLC内容后再开启游戏。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaypurchasenotification_restart">
           <Original>(requires game restart)</Original>
@@ -6159,7 +6159,7 @@
         <Key ID="STR_A3_RscMsgBoxKeysPreset_Text">
           <Original>Arma 3 Apex introduces new controls preset. Do you want to go to the controls menu and preview it?</Original>
           <Chinese>武裝突襲3頂尖引進了一組新的控制設定。你想要前往控制設定中查看它嗎?</Chinese>
-          <Chinesesimp>武装突袭3顶尖引进了一组新的控制设定。你想要前往控制设定中查看它吗?</Chinesesimp>
+          <Chinesesimp>武装突袭3 Apex引进了一组新的控制设定。你想要前往控制设定中查看它吗?</Chinesesimp>
         </Key>
       </Container>
       <Container name="RscDisplayServerFound">
@@ -6487,12 +6487,12 @@
         <Key ID="str_a3_rscdisplaywelcome_pare_list8_trial">
           <Original>enjoy the &lt;a href="%2" color="%1"&gt;most complete Arma 3 package&lt;/a&gt;, including &lt;a href="%3" color="%1"&gt;Karts&lt;/a&gt;, &lt;a href="%4" color="%1"&gt;Helicopters&lt;/a&gt; and &lt;a href="%5" color="%1"&gt;Marksmen&lt;/a&gt; DLC, and the &lt;a href="%6" color="%1"&gt;Apex&lt;/a&gt; expansion. Try the premium DLC content for free in VR Arsenal mode.</Original>
           <Chinese>享受&lt;ahref="%2"color="%1"&gt;更完整的武?突?3&lt;/a&gt;，你可以遊玩&lt;ahref="%3"color="%1"&gt;卡丁車&lt;/a&gt;，&lt;ahref="%4"color="%1"&gt;直升機&lt;/a&gt;，&lt;ahref="%5"color="%1"&gt;精準射手&lt;/a&gt;以及&lt;ahref="%6"color="%1"&gt;頂尖&lt;/a&gt;等資料片。這些付費內容可以免費在虛擬軍火庫中進行體驗。</Chinese>
-          <Chinesesimp>享受&lt;ahref="%2"color="%1"&gt;更完整的武装突袭3&lt;/a&gt;，你可以游玩&lt;ahref="%3"color="%1"&gt;卡丁车&lt;/a&gt;，&lt;ahref="%4"color="%1"&gt;直升机&lt;/a&gt;，&lt;ahref="%5"color="%1"&gt;精准射手&lt;/a&gt;以及&lt;ahref="%6"color="%1"&gt;顶尖&lt;/a&gt;等资料片。这些付费内容可以免费在虚拟军械库中进行体验。</Chinesesimp>
+          <Chinesesimp>享受&lt;ahref="%2"color="%1"&gt;更完整的武装突袭3&lt;/a&gt;，你可以游玩&lt;ahref="%3"color="%1"&gt;卡丁车&lt;/a&gt;，&lt;ahref="%4"color="%1"&gt;直升机&lt;/a&gt;，&lt;ahref="%5"color="%1"&gt;精准射手&lt;/a&gt;以及&lt;ahref="%6"color="%1"&gt;Apex&lt;/a&gt;等DLC。这些付费内容可以免费在虚拟军械库中进行体验。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pare_list8_trial_title">
           <Original>Apex Edition</Original>
           <Chinese>頂尖版</Chinese>
-          <Chinesesimp>顶尖版</Chinesesimp>
+          <Chinesesimp>Apex版</Chinesesimp>
         </Key>
       </Container>
       <Container name="cfgActions">
@@ -6876,7 +6876,7 @@
         <Key ID="str_a3_rscdisplaydebriefing_loadstext">
           <Original>Reverts</Original>
           <Chinese>還原</Chinese>
-          <Chinesesimp>还原</Chinesesimp>
+          <Chinesesimp>读档</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaydebriefing_buttonsteamworkshop_tooltip">
           <Original>Rate and comment on Steam Workshop</Original>
@@ -6896,7 +6896,7 @@
         <Key ID="str_a3_rscdisplaydebriefing_dlcbuttonapex">
           <Original>Apex</Original>
           <Chinese>頂尖</Chinese>
-          <Chinesesimp>顶尖</Chinesesimp>
+          <Chinesesimp>Apex</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaydebriefing_dlcbuttonmarksmen">
           <Original>Marksmen</Original>
@@ -6914,7 +6914,7 @@
       <Key ID="STR_DLC_INGAME_CHECK_FAIL">
         <Original>Mission terminated because DLC content required.</Original>
         <Chinese>任務終止，需要其他資料片的內容。</Chinese>
-        <Chinesesimp>任务终止，需要其他资料片的内容。</Chinesesimp>
+        <Chinesesimp>任务终止，需要其他DLC的内容。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Content_Licensing">
@@ -6926,7 +6926,7 @@
       <Key ID="STR_A3_DLC_PREMIUM_ITEM_NOTIFICATION_KART_TEXT">
         <Original>This content is part of the non-owned Karts DLC.</Original>
         <Chinese>此內容屬於你未擁有的卡丁車資料片。</Chinese>
-        <Chinesesimp>此内容属于你未拥有的卡丁车资料片。</Chinesesimp>
+        <Chinesesimp>此内容属于你未拥有的卡丁车DLC。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_DLC_UNDERBAREL_NOTIFICATION_HEADLINE">
         <Original>Premium Underbarrel</Original>
@@ -6936,27 +6936,27 @@
       <Key ID="STR_A3_cfgMods_Heli_Name">
         <Original>Helicopters DLC</Original>
         <Chinese>直升機資料片</Chinese>
-        <Chinesesimp>直升机资料片</Chinesesimp>
+        <Chinesesimp>直升机DLC</Chinesesimp>
       </Key>
       <Key ID="STR_A3_DLC_PREMIUM_ITEM_NOTIFICATION_MARK_TEXT">
         <Original>This content is part of the non-owned Marksmen DLC.</Original>
         <Chinese>此內容屬於你未擁有的精準射手資料片。</Chinese>
-        <Chinesesimp>此内容属于你未拥有的精准射手资料片。</Chinesesimp>
+        <Chinesesimp>此内容属于你未拥有的精准射手DLC。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_DLC_PREMIUM_ITEM_NOTIFICATION_HELI_TEXT">
         <Original>This content is part of the non-owned Helicopters DLC.</Original>
         <Chinese>此內容屬於你未擁有的直升機資料片。</Chinese>
-        <Chinesesimp>此内容属于你未拥有的直升机资料片。</Chinesesimp>
+        <Chinesesimp>此内容属于你未拥有的直升机DLC。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgMods_Kart_Name">
         <Original>Karts DLC</Original>
         <Chinese>卡丁車資料片</Chinese>
-        <Chinesesimp>卡丁车资料片</Chinesesimp>
+        <Chinesesimp>卡丁车DLC</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgMods_Mark_Name">
         <Original>Marksmen DLC </Original>
         <Chinese>精準射手資料片</Chinese>
-        <Chinesesimp>精准射手资料片</Chinesesimp>
+        <Chinesesimp>精准射手DLC</Chinesesimp>
       </Key>
       <Key ID="STR_A3_DLC_OPTICS_NOTIFICATION_HEADLINE">
         <Original>Premium Optics</Original>
@@ -6991,7 +6991,7 @@
       <Key ID="STR_A3_DLC_GEAR_TOOLTIP_BOTTOM_LINE">
         <Original>Press LShift + P to purchase this DLC</Original>
         <Chinese>按下左Shift+P來購買此資料片</Chinese>
-        <Chinesesimp>按下左Shift+P来购买此资料片</Chinesesimp>
+        <Chinesesimp>按下左Shift+P来购买此DLC</Chinesesimp>
       </Key>
       <Key ID="STR_A3_GEAR_TOOLTIP_ACCESSORIES">
         <Original>Accessories</Original>
@@ -7506,7 +7506,7 @@
       <Key ID="str_diff_weapon_info_desc">
         <Original>Shows weapon info box (contains round &amp; magazine count, firing mode, etc.).</Original>
         <Chinese>顯示武器資訊視窗(剩餘發數&amp;彈匣數量，開火模式等等。)。</Chinese>
-        <Chinesesimp>显示武器信息视窗(剩余发数&amp;弹匣数量，开火模式等等。)。</Chinesesimp>
+        <Chinesesimp>显示武器信息窗口(剩余发数&amp;弹匣数量，开火模式等等。)。</Chinesesimp>
       </Key>
       <Key ID="str_diff_waypoints_desc">
         <Original>Manages visibility of waypoint markers.</Original>
@@ -8128,12 +8128,12 @@
       <Key ID="STR_A3_OPTIONS_DM_FULLSCREENWINDOW">
         <Original>Fullscreen Window</Original>
         <Chinese>全螢幕視窗化</Chinese>
-        <Chinesesimp>全屏慕窗口化</Chinesesimp>
+        <Chinesesimp>窗口化全屏</Chinesesimp>
       </Key>
       <Key ID="STR_A3_OPTIONS_DM_WINDOW">
         <Original>Window</Original>
         <Chinese>視窗化</Chinese>
-        <Chinesesimp>视窗化</Chinesesimp>
+        <Chinesesimp>窗口化</Chinesesimp>
       </Key>
       <Key ID="STR_A3_OPTIONS_FPS">
         <Original>FPS: %d</Original>
@@ -8183,12 +8183,12 @@
       <Key ID="STR_DISP_OPT_ASPECT_RATIO_AUTODETECT_STRETCH">
         <Original>Auto (Stretch)</Original>
         <Chinese>自動(延展)</Chinese>
-        <Chinesesimp>自动(延展)</Chinesesimp>
+        <Chinesesimp>自动(拉伸)</Chinesesimp>
       </Key>
       <Key ID="STR_DISP_OPT_ASPECT_RATIO_AUTODETECT_NONSTRETCH">
         <Original>Auto (Non-Stretch)</Original>
         <Chinese>自動(不延展)</Chinese>
-        <Chinesesimp>自动(不延展)</Chinesesimp>
+        <Chinesesimp>自动(不拉伸)</Chinesesimp>
       </Key>
     </Container>
     <Container name="AudioOptions">
@@ -9317,7 +9317,7 @@
         <Key ID="STR_sw_tag_dlc_apex">
           <Original>Use this tag for content using the Apex Expansion.</Original>
           <Chinese>使用該標籤來標記使用到頂尖資料片的任務。</Chinese>
-          <Chinesesimp>使用该标签来标记使用到顶尖资料片的任务。</Chinesesimp>
+          <Chinesesimp>使用该标签来标记使用到Apex DLC的任务。</Chinesesimp>
         </Key>
         <Key ID="STR_sw_tag_scenario">
           <Original>Use this tag to label playable scenario in game. Will be visible in Scenario dialog.</Original>
@@ -9332,7 +9332,7 @@
         <Key ID="STR_sw_tag_dlc_helicopters">
           <Original>Use this tag for content using the Helicopters DLC.</Original>
           <Chinese>使用該標籤來標記使用到直升機資料片的任務。</Chinese>
-          <Chinesesimp>使用该标签来标记使用到直升机资料片的任务。</Chinesesimp>
+          <Chinesesimp>使用该标签来标记使用到直升机DLC的任务。</Chinesesimp>
         </Key>
         <Key ID="STR_sw_tag_weapon">
           <Original>Use this tag for weapons related content.</Original>
@@ -9352,17 +9352,17 @@
         <Key ID="STR_sw_tag_dlc_jets">
           <Original>Use this tag for content using the Jets DLC.</Original>
           <Chinese>使用該標籤來標記使用到戰機資料片的任務。</Chinese>
-          <Chinesesimp>使用该标签来标记使用到战机资料片的任务。</Chinesesimp>
+          <Chinesesimp>使用该标签来标记使用到战机DLC的任务。</Chinesesimp>
         </Key>
         <Key ID="STR_sw_tag_dlc_karts">
           <Original>Use this tag for content using the Karts DLC.</Original>
           <Chinese>使用該標籤來標記使用到卡丁車資料片的任務。</Chinese>
-          <Chinesesimp>使用该标签来标记使用到卡丁车资料片的任务。</Chinesesimp>
+          <Chinesesimp>使用该标签来标记使用到卡丁车DLC的任务。</Chinesesimp>
         </Key>
         <Key ID="STR_sw_tag_dlc_lawsofwar">
           <Original>Use this tag for content using the Laws of War DLC.</Original>
           <Chinese>使用該標籤來標記使用到戰爭法資料片的任務。</Chinese>
-          <Chinesesimp>使用该标签来标记使用到战争法资料片的任务。</Chinesesimp>
+          <Chinesesimp>使用该标签来标记使用到战争法DLC的任务。</Chinesesimp>
         </Key>
         <Key ID="STR_sw_tag_wheeled">
           <Original>Use this tag for content related to wheeled vehicles.</Original>
@@ -9372,12 +9372,12 @@
         <Key ID="STR_sw_tag_dlc_malden">
           <Original>Use this tag for content using the Malden DLC.</Original>
           <Chinese>使用該標籤來標記使用到Malden資料片的任務。</Chinese>
-          <Chinesesimp>使用该标签来标记使用到Malden资料片的任务。</Chinesesimp>
+          <Chinesesimp>使用该标签来标记使用到MaldenDLC的任务。</Chinesesimp>
         </Key>
         <Key ID="STR_sw_tag_dlc_marksmen">
           <Original>Use this tag for content using the Marksmen DLC.</Original>
           <Chinese>使用該標籤來標記使用到精準射手資料片的任務。</Chinese>
-          <Chinesesimp>使用该标签来标记使用到精准射手资料片的任务。</Chinesesimp>
+          <Chinesesimp>使用该标签来标记使用到精准射手DLC的任务。</Chinesesimp>
         </Key>
         <Key ID="STR_sw_tag_equipment">
           <Original>Use this tag for equipment and accessory content.</Original>
@@ -10053,7 +10053,7 @@
       <Key ID="STR_USERACT_DLC_SCREEN">
         <Original>Open DLC Screen</Original>
         <Chinese>打開資料片視窗</Chinese>
-        <Chinesesimp>打开资料片视窗</Chinesesimp>
+        <Chinesesimp>打开DLC窗口</Chinesesimp>
       </Key>
       <Key ID="STR_USRACT_TARGET_EMPTY_NEXT_INFANTRY">
         <Original>Next Empty Target</Original>
@@ -10684,7 +10684,7 @@
         <Key ID="STR_controls_tooltips_DLC_SCREEN">
           <Original>Opens DLC overview screen with info and purchase option.</Original>
           <Chinese>打開資料片介紹視窗，有其基本資料與訂購選項。</Chinese>
-          <Chinesesimp>打开资料片介绍视窗，有其基本资料与订购选项。</Chinesesimp>
+          <Chinesesimp>打开DLC介绍窗口，有其基本资料与订购选项。</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_EJECT">
           <Original>Eject from vehicle</Original>
@@ -12404,7 +12404,7 @@
     <Key ID="STR_EVAL_DIMMAX">
       <Original>Max array size would be reached. Current size: %d, wanted size: %d.</Original>
       <Chinese>陣列最大將會達到之大小。當前大小:%d，所需大小:%d。</Chinese>
-      <Chinesesimp>阵列最大将会达到之大小。当前大小:%d，所需大小:%d。</Chinesesimp>
+      <Chinesesimp>阵列最大将会达到的大小。当前大小:%d，所需大小:%d。</Chinesesimp>
     </Key>
     <Key ID="STR_SENSORACTIV_ANY_PLAYER">
       <Original>Any Player</Original>
@@ -16147,8 +16147,8 @@
         </Key>
         <Key ID="str_cfg_grpnames_bravo">
           <Original>Bravo</Original>
-          <Chinese>"Bravo"</Chinese>
-          <Chinesesimp>"布拉沃"</Chinesesimp>
+          <Chinese>Bravo</Chinese>
+          <Chinesesimp>Bravo</Chinesesimp>
         </Key>
         <Key ID="str_dn_car">
           <Original>Car</Original>
@@ -16172,8 +16172,8 @@
         </Key>
         <Key ID="str_cfg_grpnames_charlie">
           <Original>Charlie</Original>
-          <Chinese>"Charlie"</Chinese>
-          <Chinesesimp>查理</Chinesesimp>
+          <Chinese>Charlie</Chinese>
+          <Chinesesimp>Charlie</Chinesesimp>
         </Key>
         <Key ID="str_dn_big_ship">
           <Original>Big Ship</Original>
@@ -16192,8 +16192,8 @@
         </Key>
         <Key ID="str_cfg_grpnames_delta">
           <Original>Delta</Original>
-          <Chinese>"Delta"</Chinese>
-          <Chinesesimp>"德尔塔"</Chinesesimp>
+          <Chinese>Delta</Chinese>
+          <Chinesesimp>Delta</Chinesesimp>
         </Key>
         <Key ID="str_dn_apc">
           <Original>APC</Original>
@@ -16202,8 +16202,8 @@
         </Key>
         <Key ID="str_cfg_grpnames_echo">
           <Original>Echo</Original>
-          <Chinese>"Echo"</Chinese>
-          <Chinesesimp>"回声"</Chinesesimp>
+          <Chinese>Echo</Chinese>
+          <Chinesesimp>Echo</Chinesesimp>
         </Key>
         <Key ID="str_dn_animals">
           <Original>Animals</Original>
@@ -16222,8 +16222,8 @@
         </Key>
         <Key ID="str_cfg_grpnames_foxtrot">
           <Original>Foxtrot</Original>
-          <Chinese>"Foxtrot"</Chinese>
-          <Chinesesimp>"狐步舞"</Chinesesimp>
+          <Chinese>Foxtrot</Chinese>
+          <Chinesesimp>Foxtrot</Chinesesimp>
         </Key>
         <Key ID="str_dn_air">
           <Original>Air</Original>
@@ -16232,8 +16232,8 @@
         </Key>
         <Key ID="str_cfg_grpnames_golf">
           <Original>Golf</Original>
-          <Chinese>"Golf"</Chinese>
-          <Chinesesimp>"高尔夫"</Chinesesimp>
+          <Chinese>Golf</Chinese>
+          <Chinesesimp>Golf</Chinesesimp>
         </Key>
         <Key ID="str_cfg_grpnames_guardian">
           <Original>Guardian</Original>
@@ -16252,13 +16252,13 @@
         </Key>
         <Key ID="str_cfg_grpnames_hotel">
           <Original>Hotel</Original>
-          <Chinese>"Hotel"</Chinese>
-          <Chinesesimp>"旅馆"</Chinesesimp>
+          <Chinese>Hotel</Chinese>
+          <Chinesesimp>Hotel</Chinesesimp>
         </Key>
         <Key ID="str_cfg_grpnames_kilo">
           <Original>Kilo</Original>
-          <Chinese>"Kilo"</Chinese>
-          <Chinesesimp>"基洛"</Chinesesimp>
+          <Chinese>Kilo</Chinese>
+          <Chinesesimp>Kilo</Chinesesimp>
         </Key>
         <Key ID="str_cfg_papabear">
           <Original>CROSSROAD</Original>
@@ -16272,8 +16272,8 @@
         </Key>
         <Key ID="str_cfg_grpnames_november">
           <Original>November</Original>
-          <Chinese>"November"</Chinese>
-          <Chinesesimp>"十一月"</Chinesesimp>
+          <Chinese>November</Chinese>
+          <Chinesesimp>November</Chinesesimp>
         </Key>
         <Key ID="str_cfg_grpnames_six">
           <Original>Six</Original>
@@ -16317,13 +16317,13 @@
         </Key>
         <Key ID="str_cfg_grpnames_yankee">
           <Original>Yankee</Original>
-          <Chinese>"Yankee"</Chinese>
-          <Chinesesimp>"扬基"</Chinesesimp>
+          <Chinese>Yankee</Chinese>
+          <Chinesesimp>Yankee</Chinesesimp>
         </Key>
         <Key ID="str_cfg_grpnames_zulu">
           <Original>Zulu</Original>
-          <Chinese>"Zulu"</Chinese>
-          <Chinesesimp>"祖鲁"</Chinesesimp>
+          <Chinese>Zulu</Chinese>
+          <Chinesesimp>Zulu</Chinesesimp>
         </Key>
         <Key ID="str_cfg_markers_flag">
           <Original>Flag</Original>
@@ -17229,8 +17229,8 @@
         </Key>
         <Key ID="str_action_to_turret">
           <Original>Switch to %2</Original>
-          <Chinese>到%2的坐位</Chinese>
-          <Chinesesimp>到%2的坐位</Chinesesimp>
+          <Chinese>到%2的座位</Chinese>
+          <Chinesesimp>到%2的座位</Chinesesimp>
         </Key>
         <Key ID="str_xbox_live_error_damaged">
           <Original>The %s is damaged and cannot be used.</Original>
@@ -17955,7 +17955,7 @@
         <Key ID="str_windowed">
           <Original>Windowed</Original>
           <Chinese>視窗模式</Chinese>
-          <Chinesesimp>视窗模式</Chinesesimp>
+          <Chinesesimp>窗口模式</Chinesesimp>
         </Key>
         <Key ID="STR_AVT_CTM_WP_FLY_VERY_HIGH_ALT">
           <Original>Very high altitude (2000 m)</Original>
@@ -23544,8 +23544,8 @@
         </Key>
         <Key ID="str_sensoractiv_juliet">
           <Original>Radio Juliet</Original>
-          <Chinese>無線電"Juliet"</Chinese>
-          <Chinesesimp>无线电"朱丽叶"</Chinesesimp>
+          <Chinese>無線電Juliet</Chinese>
+          <Chinesesimp>无线电Juliet</Chinesesimp>
         </Key>
         <Key ID="str_monday">
           <Original>Mon</Original>
@@ -23559,8 +23559,8 @@
         </Key>
         <Key ID="str_sensoractiv_india">
           <Original>Radio India</Original>
-          <Chinese>無線電"India"</Chinese>
-          <Chinesesimp>无线电"印第安"</Chinesesimp>
+          <Chinese>無線電India</Chinese>
+          <Chinesesimp>无线电India</Chinesesimp>
         </Key>
         <Key ID="str_mouse_format_double_click">
           <Original>2x %s</Original>
@@ -23574,8 +23574,8 @@
         </Key>
         <Key ID="str_sensoractiv_hotel">
           <Original>Radio Hotel</Original>
-          <Chinese>無線電"Hotel"</Chinese>
-          <Chinesesimp>无线电"旅馆"</Chinesesimp>
+          <Chinese>無線電Hotel</Chinese>
+          <Chinesesimp>无线电Hotel</Chinesesimp>
         </Key>
         <Key ID="str_move">
           <Original>Move</Original>
@@ -23604,8 +23604,8 @@
         </Key>
         <Key ID="str_sensoractiv_golf">
           <Original>Radio Golf</Original>
-          <Chinese>無線電"Golf"</Chinese>
-          <Chinesesimp>无线电"高尔夫"</Chinesesimp>
+          <Chinese>無線電Golf</Chinese>
+          <Chinesesimp>无线电Golf</Chinesesimp>
         </Key>
         <Key ID="str_mp_connect">
           <Original>Player %s connected</Original>
@@ -23619,8 +23619,8 @@
         </Key>
         <Key ID="str_sensoractiv_foxtrot">
           <Original>Radio Foxtrot</Original>
-          <Chinese>無線電"Foxtrot"</Chinese>
-          <Chinesesimp>无线电"狐步舞"</Chinesesimp>
+          <Chinese>無線電Foxtrot</Chinese>
+          <Chinesesimp>无线电Foxtrot</Chinesesimp>
         </Key>
         <Key ID="str_mp_connection_loosing">
           <Original>Player %s is losing connection</Original>
@@ -23634,8 +23634,8 @@
         </Key>
         <Key ID="str_sensoractiv_echo">
           <Original>Radio Echo</Original>
-          <Chinese>無線電"Echo"</Chinese>
-          <Chinesesimp>无线电"回声"</Chinesesimp>
+          <Chinese>無線電Echo</Chinese>
+          <Chinesesimp>无线电Echo</Chinesesimp>
         </Key>
         <Key ID="str_mp_kicked">
           <Original>Player %s kicked off</Original>
@@ -23649,8 +23649,8 @@
         </Key>
         <Key ID="str_sensoractiv_delta">
           <Original>Radio Delta</Original>
-          <Chinese>無線電"Delta"</Chinese>
-          <Chinesesimp>无线电"德尔塔"</Chinesesimp>
+          <Chinese>無線電Delta</Chinese>
+          <Chinesesimp>无线电Delta</Chinesesimp>
         </Key>
         <Key ID="str_mp_logged">
           <Original>Logged in as admin</Original>
@@ -23664,8 +23664,8 @@
         </Key>
         <Key ID="str_sensoractiv_charlie">
           <Original>Radio Charlie</Original>
-          <Chinese>無線電"Charlie"</Chinese>
-          <Chinesesimp>无线电"查理"</Chinesesimp>
+          <Chinese>無線電Charlie</Chinese>
+          <Chinesesimp>无线电Charlie</Chinesesimp>
         </Key>
         <Key ID="str_mp_master">
           <Original>Admin</Original>
@@ -23679,8 +23679,8 @@
         </Key>
         <Key ID="str_sensoractiv_bravo">
           <Original>Radio Bravo</Original>
-          <Chinese>無線電"Bravo"</Chinese>
-          <Chinesesimp>无线电"布拉沃"</Chinesesimp>
+          <Chinese>無線電Bravo</Chinese>
+          <Chinesesimp>无线电Bravo</Chinesesimp>
         </Key>
         <Key ID="str_mp_players">
           <Original>Players</Original>
@@ -23704,8 +23704,8 @@
         </Key>
         <Key ID="str_sensoractiv_alpha">
           <Original>Radio Alpha</Original>
-          <Chinese>無線電"Alpha"</Chinese>
-          <Chinesesimp>无线电"阿尔法"</Chinesesimp>
+          <Chinese>無線電Alpha</Chinese>
+          <Chinesesimp>无线电Alpha</Chinesesimp>
         </Key>
         <Key ID="str_mprole_enable">
           <Original>Enable</Original>
@@ -24054,8 +24054,8 @@
         </Key>
         <Key ID="str_radio_juliet">
           <Original>Juliet</Original>
-          <Chinese>"Juliet"</Chinese>
-          <Chinesesimp>"朱丽叶"</Chinesesimp>
+          <Chinese>Juliet</Chinese>
+          <Chinesesimp>Juliet</Chinesesimp>
         </Key>
         <Key ID="str_msg_confirm_purchase_content">
           <Original>Are you sure you want to purchase the content?</Original>
@@ -24069,8 +24069,8 @@
         </Key>
         <Key ID="str_radio_india">
           <Original>India</Original>
-          <Chinese>"India"</Chinese>
-          <Chinesesimp>"印第安"</Chinesesimp>
+          <Chinese>India</Chinese>
+          <Chinesesimp>India</Chinesesimp>
         </Key>
         <Key ID="str_msg_confirm_return_lobby">
           <Original>If you cancel this mission, all players will be returned to the lobby. Are you sure?</Original>
@@ -24084,8 +24084,8 @@
         </Key>
         <Key ID="str_radio_hotel">
           <Original>Hotel</Original>
-          <Chinese>"Hotel"</Chinese>
-          <Chinesesimp>"旅馆"</Chinesesimp>
+          <Chinese>Hotel</Chinese>
+          <Chinesesimp>Hotel</Chinesesimp>
         </Key>
         <Key ID="str_msg_confirm_revoke_invitation">
           <Original>Are you sure you don't want %s to join your game?</Original>
@@ -24099,8 +24099,8 @@
         </Key>
         <Key ID="str_radio_golf">
           <Original>Golf</Original>
-          <Chinese>"Golf"</Chinese>
-          <Chinesesimp>"高尔夫"</Chinesesimp>
+          <Chinese>Golf</Chinese>
+          <Chinesesimp>Golf</Chinesesimp>
         </Key>
         <Key ID="str_msg_confirm_terminate_session_client">
           <Original>Are you sure you want to leave this session?</Original>
@@ -24114,8 +24114,8 @@
         </Key>
         <Key ID="str_radio_foxtrot">
           <Original>Foxtrot</Original>
-          <Chinese>"Foxtrot"</Chinese>
-          <Chinesesimp>"狐步舞"</Chinesesimp>
+          <Chinese>Foxtrot</Chinese>
+          <Chinesesimp>Foxtrot</Chinesesimp>
         </Key>
         <Key ID="str_msg_disk_full_u">
           <Original>Your Xbox doesn’t have enough free blocks to save games. Please free %d blocks.</Original>
@@ -24129,8 +24129,8 @@
         </Key>
         <Key ID="str_radio_echo">
           <Original>Echo</Original>
-          <Chinese>"Echo"</Chinese>
-          <Chinesesimp>"回声"</Chinesesimp>
+          <Chinese>Echo</Chinese>
+          <Chinesesimp>Echo</Chinesesimp>
         </Key>
         <Key ID="str_msg_launch_game">
           <Original>Not all players are ready. Are you sure?</Original>
@@ -24144,8 +24144,8 @@
         </Key>
         <Key ID="str_radio_delta">
           <Original>Delta</Original>
-          <Chinese>"Delta"</Chinese>
-          <Chinesesimp>"德尔塔"</Chinesesimp>
+          <Chinese>Delta</Chinese>
+          <Chinesesimp>Delta</Chinesesimp>
         </Key>
         <Key ID="str_msg_live_not_signed_in">
           <Original>You need to be signed into Xbox LIVE to access this feature.</Original>
@@ -24159,8 +24159,8 @@
         </Key>
         <Key ID="str_radio_charlie">
           <Original>Charlie</Original>
-          <Chinese>"Charlie"</Chinese>
-          <Chinesesimp>"查理"</Chinesesimp>
+          <Chinese>Charlie</Chinese>
+          <Chinesesimp>Charlie</Chinesesimp>
         </Key>
         <Key ID="str_msg_load_templ_fail">
           <Original>Loading of mission failed!</Original>
@@ -24174,8 +24174,8 @@
         </Key>
         <Key ID="str_radio_bravo">
           <Original>Bravo</Original>
-          <Chinese>"Bravo"</Chinese>
-          <Chinesesimp>"布拉沃"</Chinesesimp>
+          <Chinese>Bravo</Chinese>
+          <Chinesesimp>Bravo</Chinesesimp>
         </Key>
         <Key ID="str_msg_lot_units">
           <Original>Only %d units per group are supported!</Original>
@@ -24189,8 +24189,8 @@
         </Key>
         <Key ID="str_radio_alpha">
           <Original>Alpha</Original>
-          <Chinese>"Alpha"</Chinese>
-          <Chinesesimp>"阿尔法"</Chinesesimp>
+          <Chinese>Alpha</Chinese>
+          <Chinesesimp>Alpha</Chinesesimp>
         </Key>
         <Key ID="str_msg_marker_empty">
           <Original>Marker name cannot be empty!</Original>
@@ -26307,7 +26307,7 @@
         <Key ID="STR_DISP_OPT_PIP">
           <Original>PiP detail:</Original>
           <Chinese>子母畫面細節:</Chinese>
-          <Chinesesimp>子母画面细节:</Chinesesimp>
+          <Chinesesimp>画中画细节:</Chinesesimp>
         </Key>
         <Key ID="STR_DISP_OPT_SHADOW_DIST">
           <Original>Shadow visibility:</Original>

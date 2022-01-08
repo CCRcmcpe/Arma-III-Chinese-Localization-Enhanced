@@ -1502,7 +1502,7 @@
       <Key ID="str_a3_cfgmods_argo_Overview0">
         <Original>Everyone is invited to celebrate the 16th Armaversary on a modern re-imagination of the classic Malden terrain. Dive into the authentic and dynamic Combat Patrol multiplayer mode and complete tactical objectives on all vanilla terrains. This DLC is free for all players as token of appreciation to the best community in the world.</Original>
         <Chinese>我們誠摯的邀請大家參與慶祝武裝突襲系列16週年慶的活動，希望大家能好好享受這個現代化的馬爾登地圖。挑戰真正且動態的戰鬥巡邏多人任務，你可以在所有官方原版地圖上遊玩這個模式。這個資料片是免費送給全世界最讚的玩家社群的禮物。</Chinese>
-        <Chinesesimp>我们诚挚的邀请大家参与庆祝武装突袭系列16周年庆的活动，希望大家能好好享受这个现代化的马尔登地图。挑战真正且动态的战斗巡逻多人任务，你可以在所有官方原版地图上游玩这个模式。这个资料片是免费送给全世界最赞的玩家社区的礼物。</Chinesesimp>
+        <Chinesesimp>我们诚挚的邀请大家参与庆祝武装突袭系列16周年庆的活动，希望大家能好好享受这个现代化的马尔登地图。挑战真正且动态的战斗巡逻多人任务，你可以在所有官方原版地图上游玩这个模式。这个DLC是免费送给全世界最赞的玩家社区的礼物。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_argo_nameshort0">
         <Original>Malden</Original>
@@ -1576,7 +1576,7 @@
       <Key ID="str_a3_rscdisplaywelcome_malden_pard">
         <Original>Arma 3 Malden DLC contains the following free content for everyone who owns the base game:</Original>
         <Chinese>武裝突襲3馬爾登資料片包含了以下免費內容給任何擁有主程式的玩家:</Chinese>
-        <Chinesesimp>武装突袭3马尔登资料片包含了以下免费内容给任何拥有主程序的玩家:</Chinesesimp>
+        <Chinesesimp>武装突袭3马尔登DLC包含了以下免费内容给任何拥有主程序的玩家:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_parc_title">
         <Original>MULTIPLAYER MODES</Original>
@@ -1586,7 +1586,7 @@
       <Key ID="str_a3_rscdisplaywelcome_malden_parc">
         <Original>To (re)introduce Malden to you in a fun way, we are releasing a completely new &lt;t color='%1'&gt;multiplayer&lt;/t&gt; mode, Combat Patrol, as well as instances of the Escape mode for our two most recent terrains (Tanoa and Malden). &lt;a href='%3' color='%2'&gt;Combat Patrol&lt;/a&gt; is a quick and dynamic cooperative multiplayer mode in which you are a member of an infantry team with the possibility to select the Area of Operations. Each play-through will be different thanks to the mode's heavily randomized nature and behavior. If you want to experience authentic Arma gameplay, then Combat Patrol is a great starting point. The mode is available for all of our official terrains, including Malden. &lt;t color='%1'&gt;Escape&lt;/t&gt; is the multiplayer mode known from its original Altis variant, now also available for Malden and Tanoa (as a bonus for &lt;a href='%4' color='%2'&gt;Apex&lt;/a&gt; owners). Can you handle the challenge and escape the islands together against overwhelming odds?</Original>
         <Chinese>為了以有趣的方式重新向你介紹馬爾登，我們釋出了一個全新的&lt;tcolor='%1'&gt;多人遊戲&lt;/t&gt;模式，戰鬥巡邏，同時也讓逃離的任務模式增加到最新的兩個地圖上(塔諾亞和馬爾登)。&lt;ahref='%3'color='%2'&gt;戰鬥巡邏&lt;/a&gt;是個快速且動態的多人合作遊戲模式，你跟你的隊友可以自行選擇要出任務的地點。感謝模組高度化的隨機性，在你每次遊玩任務的時候都會有不一樣的體驗。如果你想體驗正宗的武裝突襲遊戲體驗的話，那麼戰鬥巡邏就是個不錯的開始。這個模式是可以在我們所有原版的地圖上遊玩，包括新推出的馬爾登。&lt;tcolor='%1'&gt;逃離&lt;/t&gt;這個多人遊戲模式是從原本阿爾蒂斯上的任務變化而來的，現在也可以在馬爾登與塔諾亞上玩到此模式(也當作是給擁有&lt;ahref='%4'color='%2'&gt;頂尖&lt;/a&gt;資料片玩家的額外內容)。你能突破所有挑戰並成功逃離這些島嗎?</Chinese>
-        <Chinesesimp>为了以有趣的方式重新向你介绍马尔登，我们放出了一个全新的&lt;tcolor='%1'&gt;多人游戏&lt;/t&gt;模式，战斗巡逻，同时也让逃离的任务模式增加到最新的两个地图上(塔诺亚和马尔登)。&lt;ahref='%3'color='%2'&gt;战斗巡逻&lt;/a&gt;是个快速且动态的多人合作游戏模式，你跟你的队友可以自行选择执行任务的地点。感谢模组高度化的随机性，在你每次游玩任务的时候都会有不一样的体验。如果你想体验正宗的武装突袭游戏体验的话，那么战斗巡逻就是个不错的开始。这个模式是可以在我们所有原版的地图上游玩，包括新推出的马尔登。&lt;tcolor='%1'&gt;逃离&lt;/t&gt;这个多人游戏模式是从原本阿尔蒂斯上的任务变化而来的，现在也可以在马尔登与塔诺亚上玩到此模式(也当作是给拥有&lt;ahref='%4'color='%2'&gt;顶尖&lt;/a&gt;资料片玩家的额外内容)。你能完成所有挑战并成功逃离这些岛吗?</Chinesesimp>
+        <Chinesesimp>为了以有趣的方式重新向你介绍马尔登，我们放出了一个全新的&lt;tcolor='%1'&gt;多人游戏&lt;/t&gt;模式，战斗巡逻，同时也让逃离的任务模式增加到最新的两个地图上(塔诺亚和马尔登)。&lt;ahref='%3'color='%2'&gt;战斗巡逻&lt;/a&gt;是个快速且动态的多人合作游戏模式，你跟你的队友可以自行选择执行任务的地点。感谢模组高度化的随机性，在你每次游玩任务的时候都会有不一样的体验。如果你想体验正宗的武装突袭游戏体验的话，那么战斗巡逻就是个不错的开始。这个模式是可以在我们所有原版的地图上游玩，包括新推出的马尔登。&lt;tcolor='%1'&gt;逃离&lt;/t&gt;这个多人游戏模式是从原本阿尔蒂斯上的任务变化而来的，现在也可以在马尔登与塔诺亚上玩到此模式(也当作是给拥有&lt;ahref='%4'color='%2'&gt;Apex&lt;/a&gt;DLC玩家的额外内容)。你能完成所有挑战并成功逃离这些岛吗?</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_parb_title">
         <Original>NEW TERRAIN_</Original>
@@ -1606,7 +1606,7 @@
       <Key ID="str_a3_rscdisplaywelcome_malden_para">
         <Original>Welcome back to Malden, soldier! Sixteen years ago, we started our amazing journey with the Arma franchise here. We hope you'll enjoy this recreation of &lt;t color='%1'&gt;Malden&lt;/t&gt;, which is sure to bring back many memories of a certain flashpoint occurring on the island. Alongside the new terrain, we are also releasing a new cooperative mode: &lt;t color='%1'&gt;Combat Patrol&lt;/t&gt;. Please enjoy this free DLC as a token of our appreciation to the best community in the world. You have been with us every step of the way and got Arma to where it is now. &lt;t color='%1'&gt;Thank you!&lt;/t&gt;</Original>
         <Chinese>歡迎回到馬爾登，大兵!16年前，我們從這邊開始了武裝突襲系列的奇幻旅程。我們希望你能享受這個重新製作的&lt;tcolor='%1'&gt;Malden&lt;/t&gt;，這島肯定能為你帶來許多以前經典的回憶。除了新的地形，我們也釋出了新的多人合作遊戲模式:&lt;tcolor='%1'&gt;戰鬥巡邏&lt;/t&gt;。這個資料片是免費送給全世界最讚的玩家社群的禮物。謝謝你們一直以來陪伴武裝突襲走到今天。&lt;tcolor='%1'&gt;感謝你們!&lt;/t&gt;</Chinese>
-        <Chinesesimp>欢迎回到马尔登，大兵!16年前，我们从这边开始了武装突袭3系列的奇幻旅程。我们希望你能享受这个重新制作的&lt;tcolor='%1'&gt;马尔登&lt;/t&gt;，马尔登岛肯定能为你带来许多以前经典的回忆。除了新的地形，我们也放出了新的多人合作游戏模式:&lt;tcolor='%1'&gt;战斗巡逻&lt;/t&gt;。这个资料片是免费送给全世界最赞的玩家社区的礼物。谢谢你们一直以来陪伴武装突袭走到今天。&lt;tcolor='%1'&gt;感谢你们!&lt;/t&gt;</Chinesesimp>
+        <Chinesesimp>欢迎回到马尔登，大兵!16年前，我们从这边开始了武装突袭3系列的奇幻旅程。我们希望你能享受这个重新制作的&lt;tcolor='%1'&gt;马尔登&lt;/t&gt;，马尔登岛肯定能为你带来许多以前经典的回忆。除了新的地形，我们也放出了新的多人合作游戏模式:&lt;tcolor='%1'&gt;战斗巡逻&lt;/t&gt;。这个DLC是免费送给全世界最赞的玩家社区的礼物。谢谢你们一直以来陪伴武装突袭走到今天。&lt;tcolor='%1'&gt;感谢你们!&lt;/t&gt;</Chinesesimp>
       </Key>
     </Container>
     <Container name="Props_F_Argo">
@@ -1706,7 +1706,7 @@
 %1&lt;a href='http://malden.arma3.com/'&gt;More about Arma 3 Malden&lt;/a&gt;</Chinese>
         <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Argo\Images\AssetMaldenStructures_co.paa'/&gt;
 %1我们诚挚的邀请大家参与庆祝武装突袭系列16周年庆的活动，希望大家能好好享受这个现代化的马尔登地图。挑战真正且动态的战斗巡逻多人任务，你可以在所有官方原版地图上游玩这个模式。这个DLC是免费送给全世界最赞的玩家社区的礼物。
-%1%1%3资料片内容%4
+%1%1%3DLC内容%4
 %1%2马尔登2035
 %1%2新制/重制的建筑与物件
 %1%2战斗巡逻
@@ -1717,7 +1717,7 @@
       <Key ID="str_a3_cfghints_maldendlc_malden0">
         <Original>Malden Free DLC</Original>
         <Chinese>馬爾登免費資料片</Chinese>
-        <Chinesesimp>马尔登免费资料片</Chinesesimp>
+        <Chinesesimp>马尔登免费DLC</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_maldendlc_combatpatrol1">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Argo\Images\argo_contentBrowserPicture_co.paa' /&gt;
@@ -1735,7 +1735,7 @@
       <Key ID="str_a3_cfghints_maldendlc0">
         <Original>Malden DLC</Original>
         <Chinese>馬爾登資料片</Chinese>
-        <Chinesesimp>马尔登资料片</Chinesesimp>
+        <Chinesesimp>马尔登DLC</Chinesesimp>
       </Key>
     </Container>
     <Container name="UI_F_Argo">

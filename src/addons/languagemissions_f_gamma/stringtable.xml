@@ -10,8 +10,8 @@
         </Key>
         <Key ID="str_a3_missions_f_gamma_cfgidentities_rc_b_echo_lead0">
           <Original>Echo</Original>
-          <Chinese>"Echo"</Chinese>
-          <Chinesesimp>"回声"</Chinesesimp>
+          <Chinese>Echo</Chinese>
+          <Chinesesimp>Echo</Chinesesimp>
         </Key>
         <Key ID="str_a3_missions_f_gamma_cfgidentities_rc_b_kerry0">
           <Original>Kerry</Original>
@@ -20,8 +20,8 @@
         </Key>
         <Key ID="str_a3_missions_f_gamma_cfgidentities_rc_b_kilo_lead0">
           <Original>Kilo</Original>
-          <Chinese>"Kilo"</Chinese>
-          <Chinesesimp>"基洛"</Chinesesimp>
+          <Chinese>Kilo</Chinese>
+          <Chinesesimp>Kilo</Chinesesimp>
         </Key>
         <Key ID="str_a3_missions_f_gamma_cfgidentities_rc_b_lacey0">
           <Original>Lacey</Original>
@@ -80,8 +80,8 @@
         </Key>
         <Key ID="str_a3_missions_f_gamma_cfgidentities_rc_b_alpha_lead0">
           <Original>Alpha</Original>
-          <Chinese>"Alpha"</Chinese>
-          <Chinesesimp>"阿尔法"</Chinesesimp>
+          <Chinese>Alpha</Chinese>
+          <Chinesesimp>Alpha</Chinesesimp>
         </Key>
       </Container>
       <Key ID="STR_A3_CampaignCommingSoon">
@@ -97,7 +97,7 @@
       <Key ID="STR_A3_CampaignDescription">
         <Original>&lt;t color='#999999'&gt;CAMPAIGN INBOUND&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;The official campaign will be added in 3 Free DLC Episodes, available to everyone who owns Arma 3.&lt;br /&gt;&lt;br /&gt;'Survive and adapt to unforgiving circumstances. Fight hard to win victory over a more powerful enemy.'&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;AVAILABLE FOR FREE&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;Each of the Campaign Episodes will be downloaded automatically via a Steam update once they become available.&lt;br /&gt;&lt;br /&gt;For all the latest announcements on Arma 3's campaign and more, be sure to keep track of the in-game newsfeed, www.arma3.com, Facebook and Twitter!</Original>
         <Chinese>&lt;tcolor='#999999'&gt;戰役即將推出&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;官方戰役將在未來分成3個免費的資料片供玩家下載，只要任何擁有武裝突襲3的玩家都可以獲得。&lt;br/&gt;&lt;br/&gt;'在困境中求生存。並且跟強大的敵人對抗，運用戰術來獲得勝利。'&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;免費獲得&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;當Steam開放更新，每一個章節將會自動下載並安裝。&lt;br/&gt;&lt;br/&gt;請持續追蹤武裝突襲3戰役的相關報導，你可以觀看遊戲中的新聞摘要，亦或查看www.arma3.com，Facebook和Twitter來持續追蹤!</Chinese>
-        <Chinesesimp>&lt;tcolor='#999999'&gt;战役即将推出&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;官方战役将在未来分成3个免费的资料片供玩家下载，只要任何拥有武装突袭3的玩家都可以获得。&lt;br/&gt;&lt;br/&gt;'在困境中求生存。并且跟强大的敌人对抗，运用战术来获得胜利。'&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;免费获得&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;当Steam开放更新，每一个章节将会自动下载并安装。&lt;br/&gt;&lt;br/&gt;请持续追踪武装突袭3战役的相关报导，你可以观看游戏中的新闻摘要，亦或查看www.arma3.com，Facebook和Twitter来持续追踪!</Chinesesimp>
+        <Chinesesimp>&lt;tcolor='#999999'&gt;战役即将推出&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;官方战役将在未来分成3个免费的DLC供玩家下载，只要任何拥有武装突袭3的玩家都可以获得。&lt;br/&gt;&lt;br/&gt;'在困境中求生存。并且跟强大的敌人对抗，运用战术来获得胜利。'&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;免费获得&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;当Steam开放更新，每一个章节将会自动下载并安装。&lt;br/&gt;&lt;br/&gt;请持续追踪武装突袭3战役的相关报导，你可以观看游戏中的新闻摘要，亦或查看www.arma3.com，Facebook和Twitter来持续追踪!</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CampaignDescriptionEstimatedTime">
         <Original>&lt;br /&gt;&lt;t align='center' color='#999999'&gt;ESTIMATED DEPLOYMENT OF THE NEXT EPISODE&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;</Original>
@@ -193,7 +193,7 @@
             <Key ID="str_a3_faction_independent_15_i_water_exi_2">
               <Original>The speed boat has a front-facing, remote controlled GMG turret, often sporting a rear-mounted minigun or HMG as well.</Original>
               <Chinese>快艇在前面有裝設一座搖控榴彈發射砲塔，在後面會設置"米尼岡"機槍或重機槍。</Chinese>
-              <Chinesesimp>快艇有前向的榴弹机枪塔，在后面会设置转管机枪或重机枪。</Chinesesimp>
+              <Chinesesimp>快艇有前向的榴弹发射器塔，在后面会设置转管机枪或重机枪。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_I_Air" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="10_I_Air" dubbingLanguage="english" namePrefix="faction_independent_10_i_air" note="" participants="RC I Expo;" situation="player visits the aerial area of the expo">
@@ -341,7 +341,7 @@
             <Key ID="str_a3_faction_blufor_15_b_water_exb_2">
               <Original>The speed boat has a front-facing, remote controlled GMG turret, often sporting a rear-mounted minigun or HMG as well.</Original>
               <Chinese>快艇在前面有裝設一座搖控榴彈發射砲塔，在後面會設置"米尼岡"機槍或重機槍。</Chinese>
-              <Chinesesimp>快艇有前向的榴弹机枪塔，在后面会设置转管机枪或重机枪。</Chinesesimp>
+              <Chinesesimp>快艇有前向的榴弹发射器塔，在后面会设置转管机枪或重机枪。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_B_Air" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="10_B_Air" dubbingLanguage="english" namePrefix="faction_blufor_10_b_air" note="" participants="RC B Expo;" situation="player visits the aerial area of the expo">
@@ -507,7 +507,7 @@
             <Key ID="str_a3_faction_opfor_15_o_water_exo_2">
               <Original>The speed boat has a front-facing, remote controlled GMG turret, often sporting a rear-mounted minigun or HMG as well.</Original>
               <Chinese>快艇在前面有裝設一座搖控榴彈發射砲塔，在後面會設置"米尼岡"機槍或重機槍。</Chinese>
-              <Chinesesimp>快艇有前向的榴弹机枪塔，在后面会设置转管机枪或重机枪。</Chinesesimp>
+              <Chinesesimp>快艇有前向的榴弹发射器塔，在后面会设置转管机枪或重机枪。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_O_Air" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="10_O_Air" dubbingLanguage="english" namePrefix="faction_opfor_10_o_air" note="" participants="RC O Expo;" situation="player visits the aerial area of the expo">
@@ -1103,13 +1103,13 @@
           <Container name="10_Village_Seized" audioFilePath="\a3\dubbing_f_gamma\showcase_tanks" dialogName="10_Village_Seized" dubbingLanguage="english" namePrefix="showcase_tanks_10_village_seized" note="" participants="RC B Nomad Lead;RC B HQ;" situation="molos seized, mission complete">
             <Key ID="str_a3_showcase_tanks_10_village_seized_bhq_0">
               <Original>Copy that. Charlie's en route. Papa Bear out.</Original>
-              <Chinese>收到。"Charlie's"已開始移動。"熊爸爸"通話完畢。</Chinese>
-              <Chinesesimp>收到。"查理"已开始移动。"熊爸爸"通话完毕。</Chinesesimp>
+              <Chinese>收到。"Charlie's"已開始移動。Papa Bear通話完畢。</Chinese>
+              <Chinesesimp>收到。Charlie已开始移动。Papa Bear通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_tanks_10_village_seized_nom_0">
               <Original>Papa Bear, this is Nomad. Objective one clear, you can send in the sweep team. Over.</Original>
-              <Chinese>"熊爸爸"，這裡是"游牧民"。目標已安全，你可以開始派遣掃除小隊了。完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"，这里是"游牧民"。目标已安全，你可以开始派遣清理小组了。完毕。</Chinesesimp>
+              <Chinese>Papa Bear，這裡是"游牧民"。目標已安全，你可以開始派遣掃除小隊了。完畢。</Chinese>
+              <Chinesesimp>Papa Bear，这里是"游牧民"。目标已安全，你可以开始派遣清理小组了。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_Meeting" audioFilePath="\a3\dubbing_f_gamma\showcase_tanks" dialogName="05_Meeting" dubbingLanguage="english" namePrefix="showcase_tanks_05_meeting" note="" participants="RC B Nomad Lead;" situation="platoon complete, heading to battle">
@@ -1156,20 +1156,20 @@
           <Container name="40_JoinAssault" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="40_JoinAssault" dubbingLanguage="english" namePrefix="showcase_armed_assault_40_joinassault" note="" participants="RC B HQ;" situation="alpha team leader let's his team members know they will now join the main assault on the enemy base">
             <Key ID="str_a3_showcase_armed_assault_40_joinassault_bhq_0">
               <Original>Bravo, lock down the outpost. Sweep AO for casualties.</Original>
-              <Chinese>"Bravo"，封鎖前哨。然後掃視行動區域內的傷亡。</Chinese>
-              <Chinesesimp>"布拉沃"，封锁前哨。然后打扫作战区域清点伤亡。</Chinesesimp>
+              <Chinese>Bravo，封鎖前哨。然後掃視行動區域內的傷亡。</Chinese>
+              <Chinesesimp>Bravo，封锁前哨。然后打扫作战区域清点伤亡。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_40_joinassault_bhq_1">
               <Original>Alpha, Echo, move up and support Nomad. Papa Bear out.</Original>
-              <Chinese>"Alpha"，"Echo"，移動並支援"游牧民"。"熊爸爸"通話完畢。</Chinese>
-              <Chinesesimp>"阿尔法"，"回声"，移动并支援"游牧民"。"熊爸爸"通话完毕。</Chinesesimp>
+              <Chinese>Alpha，Echo，移動並支援"游牧民"。Papa Bear通話完畢。</Chinese>
+              <Chinesesimp>Alpha，Echo，移动并支援"游牧民"。Papa Bear通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x45_EchoDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x45_EchoDestroyed" dubbingLanguage="english" namePrefix="showcase_armed_assault_x45_echodestroyed" note="" participants="RC B HQ;" situation="hq tells player that they lost contact with echo team">
             <Key ID="str_a3_showcase_armed_assault_x45_echodestroyed_bhq_0">
               <Original>Alpha, be advised, we can't raise Echo. Presumed KIA. Papa Bear out.</Original>
-              <Chinese>"Alpha"，請注意，我們已經與"Echo"失去聯繫。可能全員陣亡了。"熊爸爸"通話完畢。</Chinese>
-              <Chinesesimp>"阿尔法"，请注意，我们已经与"回声"失去联系。推断全员阵亡。"熊爸爸"通话完毕。</Chinesesimp>
+              <Chinese>Alpha，請注意，我們已經與Echo失去聯繫。可能全員陣亡了。Papa Bear通話完畢。</Chinese>
+              <Chinesesimp>Alpha，请注意，我们已经与Echo失去联系。推断全员阵亡。Papa Bear通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x40_MinefieldImpossible" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x40_MinefieldImpossible" dubbingLanguage="english" namePrefix="showcase_armed_assault_x40_minefieldimpossible" note="" participants="RC B Kerry;RC B Alpha Lead;" situation="hq orders player to defuse the minefield but he lost his toolkit">
@@ -1280,8 +1280,8 @@
             </Key>
             <Key ID="str_a3_showcase_armed_assault_x10_heavycasualtiesteamroadblock_alp_2">
               <Original>Papa Bear, be advised, Alpha's taken casualties. Road block not clear - I say again - road block is not clear.</Original>
-              <Chinese>"熊爸爸"，請注意，"Alpha"有重大傷亡。路障未肅清-我重覆一次-路障未肅清。</Chinese>
-              <Chinesesimp>"熊爸爸"，请注意，"阿尔法"有重大伤亡。路障未肃清-我重复一次-路障未肃清。</Chinesesimp>
+              <Chinese>Papa Bear，請注意，Alpha有重大傷亡。路障未肅清-我重覆一次-路障未肅清。</Chinese>
+              <Chinesesimp>Papa Bear，请注意，Alpha有重大伤亡。路障未肃清-我重复一次-路障未肃清。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x05_HeavyCasualtiesTeamFactory" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x05_HeavyCasualtiesTeamFactory" dubbingLanguage="english" namePrefix="showcase_armed_assault_x05_heavycasualtiesteamfactory" note="" participants="RC B Kerry;RC B Alpha Lead;" situation="player tells alpha squad leader that all his team members are dead">
@@ -1302,51 +1302,51 @@
             </Key>
             <Key ID="str_a3_showcase_armed_assault_x05_heavycasualtiesteamfactory_alp_2">
               <Original>Papa Bear, be advised, Alpha's taken casualties. Industrial complex not clear - I say again - complex is not clear. AT threat remains. Over.</Original>
-              <Chinese>"熊爸爸"，請注意，"Alpha"有重大傷亡。工業區未肅清-我重覆一次-工業區未肅清。反坦克威脅依然存在。完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"，请注意，"阿尔法"有重大伤亡。工业区未肃清-我重复一次-工业区未肃清。反坦克威胁依然存在。完毕。</Chinesesimp>
+              <Chinese>Papa Bear，請注意，Alpha有重大傷亡。工業區未肅清-我重覆一次-工業區未肅清。反坦克威脅依然存在。完畢。</Chinese>
+              <Chinesesimp>Papa Bear，请注意，Alpha有重大伤亡。工业区未肃清-我重复一次-工业区未肃清。反坦克威胁依然存在。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x00_HeavyCasualtiesSquad" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x00_HeavyCasualtiesSquad" dubbingLanguage="english" namePrefix="showcase_armed_assault_x00_heavycasualtiessquad" note="" participants="RC B HQ;RC B Alpha Lead;" situation="alpha leader tells hq that his squad has taken too many casualties, hq orders them to fall back">
             <Key ID="str_a3_showcase_armed_assault_x00_heavycasualtiessquad_alp_0">
               <Original>Papa Bear, we've taken too many casualties, we've got to abort! Over!</Original>
-              <Chinese>"熊爸爸"，我們已經傷亡太多了，我們必須撤退!完畢!</Chinese>
-              <Chinesesimp>"熊爸爸"，我们已经伤亡太多了，我们必须撤退!完毕!</Chinesesimp>
+              <Chinese>Papa Bear，我們已經傷亡太多了，我們必須撤退!完畢!</Chinese>
+              <Chinesesimp>Papa Bear，我们已经伤亡太多了，我们必须撤退!完毕!</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_x00_heavycasualtiessquad_bhq_0">
               <Original>Dammit, Alpha. Fall back. I say again, fall back! Out.</Original>
-              <Chinese>該死，"Alpha"。撤退。我重覆一次，撤退!通話完畢。</Chinese>
-              <Chinesesimp>该死，"阿尔法"。撤退。我重覆一次，撤退!通话完毕。</Chinesesimp>
+              <Chinese>該死，Alpha。撤退。我重覆一次，撤退!通話完畢。</Chinese>
+              <Chinesesimp>该死，Alpha。撤退。我重覆一次，撤退!通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="95_Ending" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="95_Ending" dubbingLanguage="english" namePrefix="showcase_armed_assault_95_ending" note="" participants="RC B HQ;" situation="hq gives a brief sitrep before mission ends">
             <Key ID="str_a3_showcase_armed_assault_95_ending_bhq_0">
               <Original>Ok, Kilo-8, move in and clear that wreck out of the way.</Original>
               <Chinese>Ok，"Kilo-8"，移動並清理那擋在路面上的殘骸。</Chinese>
-              <Chinesesimp>Ok，"基洛-8"，移动并清理那挡在路面上的残骸。</Chinesesimp>
+              <Chinesesimp>Ok，Kilo-8"，移动并清理那挡在路面上的残骸。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_95_ending_bhq_1">
               <Original>Get these trucks moving; we're pushing north! Papa Bear out.</Original>
-              <Chinese>讓那些卡車開始移動;我們要開始向北推進了!"熊爸爸"通話完畢。</Chinese>
-              <Chinesesimp>让那些卡车开始移动;我们要开始向北推进了!"熊爸爸"通话完毕。</Chinesesimp>
+              <Chinese>讓那些卡車開始移動;我們要開始向北推進了!Papa Bear通話完畢。</Chinese>
+              <Chinesesimp>让那些卡车开始移动;我们要开始向北推进了!Papa Bear通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="90_MinefieldDefused" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="90_MinefieldDefused" dubbingLanguage="english" namePrefix="showcase_armed_assault_90_minefielddefused" note="" participants="RC B HQ;RC B Kerry;" situation="player tells hq that the minefield is defused">
             <Key ID="str_a3_showcase_armed_assault_90_minefielddefused_bhq_0">
               <Original>Copy that. Outstanding work, Alpha-5. Out.</Original>
               <Chinese>收到。幹的好，"Alpha-5"。通話完畢。</Chinese>
-              <Chinesesimp>收到。干的好，"阿尔法"-5"。通话完毕。</Chinesesimp>
+              <Chinesesimp>收到。干的好，Alpha-5"。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_90_minefielddefused_pla_0">
               <Original>Papa Bear, update, mines defused. Path is clear. Over.</Original>
-              <Chinese>"熊爸爸"，狀況更新，地雷已解除。道路已淨空。完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"，状况更新，地雷已解除。道路已净空。完毕。</Chinesesimp>
+              <Chinese>Papa Bear，狀況更新，地雷已解除。道路已淨空。完畢。</Chinese>
+              <Chinesesimp>Papa Bear，状况更新，地雷已解除。道路已净空。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="85_Minefield" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="85_Minefield" dubbingLanguage="english" namePrefix="showcase_armed_assault_85_minefield" note="" participants="RC B HQ;RC B Kerry;" situation="logistics hit a mine field and find that more mines are still active in the area, player is sent to defuse them">
             <Key ID="str_a3_showcase_armed_assault_85_minefield_bhq_0">
               <Original>Copy that. It's imperative we get these supplies moving, Alpha-5.</Original>
-              <Chinese>收到。我們必須讓這些補給卡車移動，"Alpha"-5。</Chinese>
-              <Chinesesimp>收到。我们必须让这些补给卡车移动，"阿尔法"-5。</Chinesesimp>
+              <Chinese>收到。我們必須讓這些補給卡車移動，Alpha-5。</Chinese>
+              <Chinesesimp>收到。我们必须让这些补给卡车移动，Alpha-5。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_85_minefield_bhq_1">
               <Original>Move in and clear the path. Out.</Original>
@@ -1355,37 +1355,37 @@
             </Key>
             <Key ID="str_a3_showcase_armed_assault_85_minefield_pla_0">
               <Original>Papa Bear, this is Alpha-5, I'm in the vicinity and on hand if needed. Over.</Original>
-              <Chinese>"熊爸爸"，這裡是"Alpha"-5，如果有需要幫忙的話我人在附近。完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"，这里是"阿尔法"-5，如果有需要帮忙的话我人在附近。完毕。</Chinesesimp>
+              <Chinese>Papa Bear，這裡是Alpha-5，如果有需要幫忙的話我人在附近。完畢。</Chinese>
+              <Chinesesimp>Papa Bear，这里是Alpha-5，如果有需要帮忙的话我人在附近。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="80_LogisticsMinefield" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="80_LogisticsMinefield" dubbingLanguage="english" namePrefix="showcase_armed_assault_80_logisticsminefield" note="" participants="RC B HQ;RC B Kerry;RC B Kilo Lead;" situation="logistics hit a mine field and find that more mines are still active in the area, player is sent to defuse them">
             <Key ID="str_a3_showcase_armed_assault_80_logisticsminefield_bhq_0">
               <Original>Roger that, Kilo. Status report?</Original>
-              <Chinese>收到，"Kilo"。狀況回報?</Chinese>
-              <Chinesesimp>收到，"基洛"。状态报告?</Chinesesimp>
+              <Chinese>收到，Kilo。狀況回報?</Chinese>
+              <Chinesesimp>收到，Kilo。状态报告?</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_80_logisticsminefield_bhq_1">
               <Original>Acknowledged, Kilo. Wait one.</Original>
-              <Chinese>了解，"Kilo"。請稍等。</Chinese>
-              <Chinesesimp>了解，"基洛"。请稍等。</Chinesesimp>
+              <Chinese>了解，Kilo。請稍等。</Chinese>
+              <Chinesesimp>了解，Kilo。请稍等。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_80_logisticsminefield_kil_0">
               <Original>Shit! Papa Bear, this is Kilo! Our lead vehicle's just hit a mine, over.</Original>
-              <Chinese>天殺的!"熊爸爸"，這裡是"Kilo"!我們的領頭車剛被一個地雷擊中，完畢。</Chinese>
-              <Chinesesimp>天杀的!"熊爸爸"，这里是"基洛"!我们的头车刚压中了地雷，完毕。</Chinesesimp>
+              <Chinese>天殺的!Papa Bear，這裡是Kilo!我們的領頭車剛被一個地雷擊中，完畢。</Chinese>
+              <Chinesesimp>天杀的!Papa Bear，这里是Kilo!我们的头车刚压中了地雷，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_80_logisticsminefield_kil_1">
               <Original>We're fine - Kilo-2's a mess - but no casualties. Looks like we've got a minefield, Papa Bear. Orders?</Original>
-              <Chinese>我們還好-"Kilo"-2已成為一團垃圾了-但所幸沒有傷亡。看來我們遇到地雷區了，"熊爸爸"。命令?</Chinese>
-              <Chinesesimp>我们还好-"基洛-2"一团糟-但所幸没有伤亡。看来我们遇到地雷区了，"熊爸爸"。命令?</Chinesesimp>
+              <Chinese>我們還好-Kilo-2已成為一團垃圾了-但所幸沒有傷亡。看來我們遇到地雷區了，Papa Bear。命令?</Chinese>
+              <Chinesesimp>我们还好-Kilo-2"一团糟-但所幸没有伤亡。看来我们遇到地雷区了，Papa Bear。命令?</Chinesesimp>
             </Key>
           </Container>
           <Container name="75_Logistics" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="75_Logistics" dubbingLanguage="english" namePrefix="showcase_armed_assault_75_logistics" note="" participants="RC B HQ;RC B Kerry;RC B Alpha Lead;" situation="hq requests alpha to send someone to meet with logistics and coordinate a good setup position">
             <Key ID="str_a3_showcase_armed_assault_75_logistics_alp_0">
               <Original>Affirmative, Papa Bear. Dispatching Alpha-5.</Original>
-              <Chinese>可以的，"熊爸爸"。將派出"Alpha-5"。</Chinese>
-              <Chinesesimp>可以的，"熊爸爸"。将派出"阿尔法"-5"。</Chinesesimp>
+              <Chinese>可以的，Papa Bear。將派出"Alpha-5"。</Chinese>
+              <Chinesesimp>可以的，Papa Bear。将派出Alpha-5"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_75_logistics_alp_1">
               <Original>Kerry, link up with the convoy at the main base. How copy? Over.</Original>
@@ -1399,8 +1399,8 @@
             </Key>
             <Key ID="str_a3_showcase_armed_assault_75_logistics_bhq_1">
               <Original>Alpha, logistics are inbound. Can you spare an engineer to coordinate the setup? Over.</Original>
-              <Chinese>"Alpha"，補給隊正在過來當中。你能抽出一名工兵來幫忙他們嗎?完畢。</Chinese>
-              <Chinesesimp>"阿尔法"，补给队正在来的路上。你能抽出一名工兵来帮忙他们吗?完毕。</Chinesesimp>
+              <Chinese>Alpha，補給隊正在過來當中。你能抽出一名工兵來幫忙他們嗎?完畢。</Chinese>
+              <Chinesesimp>Alpha，补给队正在来的路上。你能抽出一名工兵来帮忙他们吗?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_75_logistics_pla_0">
               <Original>On the move, sir. Out.</Original>
@@ -1428,8 +1428,8 @@
             </Key>
             <Key ID="str_a3_showcase_armed_assault_65_support_pla_0">
               <Original>Echo, we need support at the road block. Can you assist? Over.</Original>
-              <Chinese>"Echo"，我們在路障需要支援。你們能過來嗎?完畢。</Chinese>
-              <Chinesesimp>"回声"，我们在路障需要支援。你们能过来吗?完毕。</Chinesesimp>
+              <Chinese>Echo，我們在路障需要支援。你們能過來嗎?完畢。</Chinese>
+              <Chinesesimp>Echo，我们在路障需要支援。你们能过来吗?完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="60_RoadBlock" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="60_RoadBlock" dubbingLanguage="english" namePrefix="showcase_armed_assault_60_roadblock" note="" participants="RC B Kerry;RC B Alpha Lead;RC B Echo Lead;" situation="alpha squad leader orders player to move in and secure the road block, mentions that his now can call echo as a support">
@@ -1450,8 +1450,8 @@
             </Key>
             <Key ID="str_a3_showcase_armed_assault_60_roadblock_alp_3">
               <Original>Echo, this is Alpha, be advised, we're advancing. Are you ready to assist? Over.</Original>
-              <Chinese>"Echo"，這裡是"Alpha"，請注意，我們開始推進了。你們準備好支援了嗎?完畢。</Chinese>
-              <Chinesesimp>"回声"，这里是"阿尔法"，请注意，我们开始推进了。你们准备好支援了吗?完毕。</Chinesesimp>
+              <Chinese>Echo，這裡是Alpha，請注意，我們開始推進了。你們準備好支援了嗎?完畢。</Chinese>
+              <Chinesesimp>Echo，这里是Alpha，请注意，我们开始推进了。你们准备好支援了吗?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_60_roadblock_pla_0">
               <Original>Yes, sir. Just give the order, sir. Over.</Original>
@@ -1460,13 +1460,13 @@
             </Key>
             <Key ID="str_a3_showcase_armed_assault_60_roadblock_alp_4">
               <Original>Kerry, Echo is in support if necessary. Make damn sure that it's clear for the IFVs before calling them in. Understood? Over.</Original>
-              <Chinese>克里，假如你有需要的話，"Echo"可以隨時支援。請務必確認該區已無可以對裝甲運兵車造成威脅的武器，在請求他們的支援。了解嗎?完畢。</Chinese>
-              <Chinesesimp>克里，假如你有需要的话，"回声"可以随时支援。请务必确认该区已无可以对装甲运兵车造成威胁的武器，再请求他们的支援。了解吗?完毕。</Chinesesimp>
+              <Chinese>克里，假如你有需要的話，Echo可以隨時支援。請務必確認該區已無可以對裝甲運兵車造成威脅的武器，在請求他們的支援。了解嗎?完畢。</Chinese>
+              <Chinesesimp>克里，假如你有需要的话，Echo可以随时支援。请务必确认该区已无可以对装甲运兵车造成威胁的武器，再请求他们的支援。了解吗?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_60_roadblock_ech_0">
               <Original>Affirmative, Alpha, Echo standing by.</Original>
-              <Chinese>是的，"Alpha"，"Echo"已經準備好了。</Chinese>
-              <Chinesesimp>是的，"阿尔法"，"回声"已经准备好了。</Chinesesimp>
+              <Chinese>是的，Alpha，Echo已經準備好了。</Chinese>
+              <Chinesesimp>是的，Alpha，Echo已经准备好了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_60_roadblock_pla_1">
               <Original>Copy that, sir. We're on it. Out.</Original>
@@ -1482,8 +1482,8 @@
             </Key>
             <Key ID="str_a3_showcase_armed_assault_55_factoryclear_alp_1">
               <Original>Echo-lead this is Alpha. Route is secure; you're clear to move up. Acknowledge, over.</Original>
-              <Chinese>"Echo"隊長，這裡是"Alpha"。路已安全;你們可以開始移動了。是否收到，完畢。</Chinese>
-              <Chinesesimp>"回声"领队，这里是"阿尔法"。路已安全;你们可以开始移动了。是否收到，完毕。</Chinesesimp>
+              <Chinese>Echo隊長，這裡是Alpha。路已安全;你們可以開始移動了。是否收到，完畢。</Chinese>
+              <Chinesesimp>Echo领队，这里是Alpha。路已安全;你们可以开始移动了。是否收到，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_55_factoryclear_pla_0">
               <Original>Sir, AT threat neutralized! Over.</Original>
@@ -1492,15 +1492,15 @@
             </Key>
             <Key ID="str_a3_showcase_armed_assault_55_factoryclear_ech_0">
               <Original>Roger that, we're rolling. Thanks for the assist, Alpha. Echo out.</Original>
-              <Chinese>了解，我們正在移動。感謝你們的支援，"Alpha"。"Echo"通話完畢。</Chinese>
-              <Chinesesimp>了解，我们正在移动。感谢你们的支援，"阿尔法"。"回声"通话完毕。</Chinesesimp>
+              <Chinese>了解，我們正在移動。感謝你們的支援，Alpha。Echo通話完畢。</Chinese>
+              <Chinesesimp>了解，我们正在移动。感谢你们的支援，Alpha。Echo通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="50_SplitTeam" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="50_SplitTeam" dubbingLanguage="english" namePrefix="showcase_armed_assault_50_splitteam" note="" participants="RC B Alpha Lead;RC B Kerry;" situation="alpha squad leader gives player the command of half the squad so he can lead them and engage anti-tank position">
             <Key ID="str_a3_showcase_armed_assault_50_splitteam_alp_0">
               <Original>Ok, new orders! We've got to clear a path for Echo.</Original>
-              <Chinese>Ok，新命令!我們必須為"Echo"清理道路。</Chinese>
-              <Chinesesimp>Ok，新命令!我们必须为"回声"清理道路。</Chinesesimp>
+              <Chinese>Ok，新命令!我們必須為Echo清理道路。</Chinese>
+              <Chinesesimp>Ok，新命令!我们必须为Echo清理道路。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_50_splitteam_alp_1">
               <Original>Kerry! Take Ryan, Lacey and Taylor. Advance and secure the AT position to our north east. Understood?</Original>
@@ -1521,13 +1521,13 @@
           <Container name="45_Factory" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="45_Factory" dubbingLanguage="english" namePrefix="showcase_armed_assault_45_factory" note="" participants="RC B HQ;RC B Alpha Lead;" situation="hq let's alpha know about multiple enemy anti-tank positions that need to be neutralized before apc's can move in">
             <Key ID="str_a3_showcase_armed_assault_45_factory_alp_0">
               <Original>Solid copy, Papa Bear. We're on it. Alpha out.</Original>
-              <Chinese>完整收到，"熊爸爸"。我們在路上了。"Alpha"通話完畢。</Chinese>
-              <Chinesesimp>完整收到，"熊爸爸"。我们在路上了。"阿尔法"通话完毕。</Chinesesimp>
+              <Chinese>完整收到，Papa Bear。我們在路上了。Alpha通話完畢。</Chinese>
+              <Chinesesimp>完整收到，Papa Bear。我们在路上了。Alpha通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_45_factory_bhq_0">
               <Original>Alpha, priority. We've got anti-tank units blocking Echo's advance.</Original>
-              <Chinese>"Alpha"，優先級任務。我們發現有反坦克單位擋在"Echo"的必經之路上。</Chinese>
-              <Chinesesimp>"阿尔法"，优先级任务。我们发现有反坦克单位挡在"回声"的必经之路上。</Chinesesimp>
+              <Chinese>Alpha，優先級任務。我們發現有反坦克單位擋在Echo的必經之路上。</Chinese>
+              <Chinesesimp>Alpha，优先级任务。我们发现有反坦克单位挡在Echo的必经之路上。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_45_factory_bhq_1">
               <Original>We need that route clear, ASAP. They're holed up in two areas of the industrial district.</Original>
@@ -1548,8 +1548,8 @@
             </Key>
             <Key ID="str_a3_showcase_armed_assault_43_assaultplan_alp_1">
               <Original>We'll move up with Echo in support of the main assault from the south. Move out!</Original>
-              <Chinese>我們要與"Echo"一同從南方支援主要攻擊。開始移動!</Chinese>
-              <Chinesesimp>我们要与"回声"一同从南方支援主要攻击。开始移动!</Chinesesimp>
+              <Chinese>我們要與Echo一同從南方支援主要攻擊。開始移動!</Chinese>
+              <Chinesesimp>我们要与Echo一同从南方支援主要攻击。开始移动!</Chinesesimp>
             </Key>
           </Container>
           <Container name="37_MainAssault" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="37_MainAssault" dubbingLanguage="english" namePrefix="showcase_armed_assault_37_mainassault" note="" participants="RC B HQ;" situation="main assault is signalled">
@@ -1562,13 +1562,13 @@
           <Container name="35_OutpostSitrep" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="35_OutpostSitrep" dubbingLanguage="english" namePrefix="showcase_armed_assault_35_outpostsitrep" note="" participants="RC B Alpha Lead;RC B HQ;" situation="alpha squad leader orders player to destroy enemy vehicles at the outpost">
             <Key ID="str_a3_showcase_armed_assault_35_outpostsitrep_alp_0">
               <Original>Alpha to Papa Bear, support vehicles neutralized, outpost secure. Over.</Original>
-              <Chinese>"Alpha"致"熊爸爸"，支援載具已摧毀，前哨已肅清。完畢。</Chinese>
-              <Chinesesimp>"阿尔法"致"熊爸爸"，支援载具已摧毁，前哨已肃清。完毕。</Chinesesimp>
+              <Chinese>Alpha致Papa Bear，支援載具已摧毀，前哨已肅清。完畢。</Chinese>
+              <Chinesesimp>Alpha致Papa Bear，支援载具已摧毁，前哨已肃清。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_35_outpostsitrep_bhq_0">
               <Original>Outstanding, Alpha. Stand by for further orders. Out.</Original>
-              <Chinese>幹的好，"Alpha"。請等待更進一步命令。通話完畢。</Chinese>
-              <Chinesesimp>干的好，"阿尔法"。请等待更进一步命令。通话完毕。</Chinesesimp>
+              <Chinese>幹的好，Alpha。請等待更進一步命令。通話完畢。</Chinese>
+              <Chinesesimp>干的好，Alpha。请等待更进一步命令。通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="30_DestroyVehicles" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="30_DestroyVehicles" dubbingLanguage="english" namePrefix="showcase_armed_assault_30_destroyvehicles" note="" participants="RC B Alpha Lead;RC B Kerry;" situation="alpha squad leader orders player to destroy enemy vehicles at the outpost">
@@ -1605,13 +1605,13 @@
           <Container name="20_StagingArea" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="20_StagingArea" dubbingLanguage="english" namePrefix="showcase_armed_assault_20_stagingarea" note="" participants="RC B Alpha Lead;RC B HQ;" situation="infantry teams let hq know they are ready at staging area, hq orders them to move in and assault enemy outpost">
             <Key ID="str_a3_showcase_armed_assault_20_stagingarea_alp_0">
               <Original>Papa Bear, this is Alpha. In position at the staging area. Over.</Original>
-              <Chinese>"熊爸爸"，這裡是"Alpha"。已經在等待區就定位了。完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"，这里是"阿尔法"。已经在等待区就定位了。完毕。</Chinesesimp>
+              <Chinese>Papa Bear，這裡是Alpha。已經在等待區就定位了。完畢。</Chinese>
+              <Chinesesimp>Papa Bear，这里是Alpha。已经在等待区就定位了。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_20_stagingarea_bhq_0">
               <Original>Copy that. Alpha, Bravo, Echo, move in!</Original>
-              <Chinese>收到。"Alpha"，"Bravo"，"Echo"，開始攻擊!</Chinese>
-              <Chinesesimp>收到。"阿尔法"，"布拉沃"，"回声"，开始攻击!</Chinesesimp>
+              <Chinese>收到。Alpha，Bravo，Echo，開始攻擊!</Chinese>
+              <Chinesesimp>收到。Alpha，Bravo，Echo，开始攻击!</Chinesesimp>
             </Key>
           </Container>
           <Container name="17_UavDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="17_UavDestroyed" dubbingLanguage="english" namePrefix="showcase_armed_assault_17_uavdestroyed" note="" participants="RC B HQ;" situation="hq let's teams know that contact with uav was lost, probably destroyed">
@@ -1650,30 +1650,30 @@
           <Container name="03_ObjectivesOverview" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="03_ObjectivesOverview" dubbingLanguage="english" namePrefix="showcase_armed_assault_03_objectivesoverview" note="" participants="RC B Echo Lead;RC B HQ;RC B Alpha Lead;" situation="echo team provide sitrep for command">
             <Key ID="str_a3_showcase_armed_assault_03_objectivesoverview_alp_0">
               <Original>Wilco, Papa Bear. Out.</Original>
-              <Chinese>照辦，"熊爸爸"。通話完畢。</Chinese>
-              <Chinesesimp>照办，"熊爸爸"。通话完毕。</Chinesesimp>
+              <Chinese>照辦，Papa Bear。通話完畢。</Chinese>
+              <Chinesesimp>照办，Papa Bear。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_03_objectivesoverview_bhq_0">
               <Original>Acknowledged, Echo.</Original>
-              <Chinese>已確認，"Echo"。</Chinese>
-              <Chinesesimp>已确认，"回声"。</Chinesesimp>
+              <Chinese>已確認，Echo。</Chinese>
+              <Chinesesimp>已确认，Echo。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_03_objectivesoverview_ech_0">
               <Original>Papa Bear, this is Echo, approaching objective. Over.</Original>
-              <Chinese>"熊爸爸"，這裡是"Echo"，靠近目標中。完畢。</Chinese>
-              <Chinesesimp>"熊爸爸"，这里是"回声"，靠近目标中。完毕。</Chinesesimp>
+              <Chinese>Papa Bear，這裡是Echo，靠近目標中。完畢。</Chinese>
+              <Chinesesimp>Papa Bear，这里是Echo，靠近目标中。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_03_objectivesoverview_bhq_1">
               <Original>Alpha, be advised, all callsigns in position. Move to staging area and report in. Over.</Original>
-              <Chinese>"Alpha"，請注意，所有單位皆已就位。請前往等待區並回報。完畢。</Chinese>
-              <Chinesesimp>"阿尔法"，请注意，所有单位皆已就位。请前往等待区并回报。完毕。</Chinesesimp>
+              <Chinese>Alpha，請注意，所有單位皆已就位。請前往等待區並回報。完畢。</Chinese>
+              <Chinesesimp>Alpha，请注意，所有单位皆已就位。请前往等待区并回报。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="01_ReadyUp" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="01_ReadyUp" dubbingLanguage="english" namePrefix="showcase_armed_assault_01_readyup" note="" participants="RC B Echo Lead;" situation="echo team signals to alpha, sitting in the back">
             <Key ID="str_a3_showcase_armed_assault_01_readyup_ech_0">
               <Original>Ready up, Alpha, we're in the AO.</Original>
-              <Chinese>準備好，"Alpha"，我們已經在行動區域內了。</Chinese>
-              <Chinesesimp>准备好，"阿尔法"，我们已经在行动区域内了。</Chinesesimp>
+              <Chinese>準備好，Alpha，我們已經在行動區域內了。</Chinese>
+              <Chinesesimp>准备好，Alpha，我们已经在行动区域内了。</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -1913,8 +1913,8 @@
         </Key>
         <Key ID="str_a3_mp_coop_06_briefing_execution_text">
           <Original>1. Seize Alpha&lt;br /&gt;2. Seize Bravo&lt;br /&gt;3. Seize Charlie&lt;br /&gt;4. Seize Delta&lt;br /&gt;5. Seize Echo</Original>
-          <Chinese>1. 佔領"Alpha"&lt;br/&gt;2. 佔領"Bravo"&lt;br/&gt;3. 佔領"Charlie"&lt;br/&gt;4. 佔領"Delta"&lt;br/&gt;5. 佔領"Echo"</Chinese>
-          <Chinesesimp>1. 占领"阿尔法"&lt;br/&gt;2. 占领"布拉沃"&lt;br/&gt;3. 占领"查理"&lt;br/&gt;4. 占领"德尔塔"&lt;br/&gt;5. 占领"回声"</Chinesesimp>
+          <Chinese>1. 佔領Alpha&lt;br/&gt;2. 佔領Bravo&lt;br/&gt;3. 佔領Charlie&lt;br/&gt;4. 佔領Delta&lt;br/&gt;5. 佔領Echo</Chinese>
+          <Chinesesimp>1. 占领Alpha&lt;br/&gt;2. 占领Bravo&lt;br/&gt;3. 占领Charlie&lt;br/&gt;4. 占领Delta&lt;br/&gt;5. 占领Echo</Chinesesimp>
         </Key>
       </Container>
       <Container name="Firing_Drills">
@@ -2109,8 +2109,8 @@
         </Key>
         <Key ID="str_a3_mp_coop_07_briefing_execution_text">
           <Original>1. Seize Alpha&lt;br /&gt;2. Seize Bravo&lt;br /&gt;3. Seize Charlie&lt;br /&gt;4. Seize Delta&lt;br /&gt;5. Seize Echo</Original>
-          <Chinese>1. 佔領"Alpha"&lt;br/&gt;2. 佔領"Bravo"&lt;br/&gt;3. 佔領"Charlie"&lt;br/&gt;4. 佔領"Delta"&lt;br/&gt;5。佔領"Echo"</Chinese>
-          <Chinesesimp>1. 占领"阿尔法"&lt;br/&gt;2. 占领"布拉沃"&lt;br/&gt;3. 占领"查理"&lt;br/&gt;4. 占领"德尔塔"&lt;br/&gt;5。占领"回声"</Chinesesimp>
+          <Chinese>1. 佔領Alpha&lt;br/&gt;2. 佔領Bravo&lt;br/&gt;3. 佔領Charlie&lt;br/&gt;4. 佔領Delta&lt;br/&gt;5。佔領Echo</Chinese>
+          <Chinesesimp>1. 占领Alpha&lt;br/&gt;2. 占领Bravo&lt;br/&gt;3. 占领Charlie&lt;br/&gt;4. 占领Delta&lt;br/&gt;5。占领Echo</Chinesesimp>
         </Key>
       </Container>
       <Key ID="STR_A3_Faction_showcase_task_text">
@@ -2555,13 +2555,13 @@
         </Key>
         <Key ID="str_a3_showcase_arma_briefing_situation_text">
           <Original>Having seized Kavala - the largest settlement on the west coast - with surprisingly little resistance, our forces pushed north and were met with a heavily fortified &lt;marker name='BIS_base'&gt;position&lt;/marker&gt;. At the same time, we have opened up a new front, with the goal of flanking the enemy and, ultimately, securing the entire west coast of the island.&lt;br /&gt;&lt;br /&gt;An armored platoon, &lt;marker name='BIS_friendlies'&gt;Nomad&lt;/marker&gt;, has moved into position to the north west - securing a key &lt;marker name='BIS_friendlies_1'&gt;power station&lt;/marker&gt; - and is poised to strike against our primary objective, the &lt;marker name='BIS_base'&gt;main base&lt;/marker&gt;. However, we must first secure a key outpost to the south, so as to remove the risk of our forces being outflanked.&lt;br /&gt;&lt;br /&gt;Mechanized infantry, callsign &lt;marker name='BIS_start'&gt;Echo&lt;/marker&gt;, will push north and deploy infantry squads, &lt;marker name='BIS_startOne'&gt;Alpha&lt;/marker&gt;, your team, and &lt;marker name='BIS_startTwo'&gt;Bravo&lt;/marker&gt;, near the &lt;marker name='BIS_outpost'&gt;Outpost&lt;/marker&gt;. Together, they'll execute a coordinated assault and, with armored support, immediately strike against the &lt;marker name='BIS_base'&gt;main base&lt;/marker&gt; before the enemy can regroup and counterattack.&lt;br /&gt;&lt;br /&gt;Once the Area of Operation is under our control, a logistics convoy, Kilo, will move up and establish a supply route in support of our forces in the north. It's vital that we maintain the momentum of our offensive.</Original>
-          <Chinese>在佔領卡瓦拉(西海岸最大的城鎮)的時候，我們出乎意料只遇到了一些零星的反擊，在我們部隊繼續向北挺進的時候，我們卻遇到了一個戒備森嚴的敵軍&lt;markername='BIS_base'&gt;防禦工事&lt;/marker&gt;。與此同時，我們在敵軍的側翼開闢了一條新戰線，期望最終能把整個西海岸給拿下。&lt;br/&gt;&lt;br/&gt;一個呼號為&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;的裝甲排，已經移動到了西北方(確保一個關鍵的&lt;markername='BIS_friendlies_1'&gt;發電站&lt;/marker&gt;)並且準備開始突擊我們的首要目標，&lt;markername='BIS_base'&gt;敵軍主基地&lt;/marker&gt;。然而，我們必須先佔領一座敵軍的前哨，以移除我們被包抄的危險。&lt;br/&gt;&lt;br/&gt;呼號為&lt;markername='BIS_start'&gt;"Echo"&lt;/marker&gt;的多功能步兵車，將會向北挺進並部屬兩支步兵小隊在&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;附近，包括你的小隊&lt;markername='BIS_startOne'&gt;"Alpha"&lt;/marker&gt;，與前來支援的&lt;markername='BIS_startTwo'&gt;"Bravo"&lt;/marker&gt;。你們兩隊，將一起突擊該前哨，然後與裝甲部隊協同，在敵人反應過來之前攻擊他們的&lt;markername='BIS_base'&gt;主基地&lt;/marker&gt;。&lt;br/&gt;&lt;br/&gt;一旦區域落入我們的控制，呼號為"Kilo"的後勤車隊即會開始北上，為我們建立起補給線。他們非常重要，因為這樣我們才能維持我們的攻勢。</Chinese>
-          <Chinesesimp>在占领卡瓦拉(西海岸最大的城镇)的过程中，我们出乎意料地只遇到了一些零星的反击，在我们部队继续向北挺进的时候，我们却遇到了一支戒备森严的敌军&lt;markername='BIS_base'&gt;防御工事&lt;/marker&gt;。与此同时，我们在敌军的侧翼开辟了一条新战线，期望最终能把整个西海岸给拿下。&lt;br/&gt;&lt;br/&gt;一个呼号为&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;的装甲排，已经移动到了西北方(确保一个关键的&lt;markername='BIS_friendlies_1'&gt;发电站&lt;/marker&gt;)并且准备开始突击我们的首要目标，&lt;markername='BIS_base'&gt;敌军主基地&lt;/marker&gt;。然而，我们必须先占领一座敌军的前哨，以移除我们被包抄的危险。&lt;br/&gt;&lt;br/&gt;呼号为&lt;markername='BIS_start'&gt;回声&lt;/marker&gt;的多功能步兵车，将会向北挺进并部属两支步兵小队在&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;附近，包括你的小队&lt;markername='BIS_startOne'&gt;"阿尔法"&lt;/marker&gt;，与前来支援的&lt;markername='BIS_startTwo'&gt;"布拉沃"&lt;/marker&gt;。你们两队，将一起突击该前哨，然后与装甲部队协同，在敌人反应过来之前攻击他们的&lt;markername='BIS_base'&gt;主基地&lt;/marker&gt;。&lt;br/&gt;&lt;br/&gt;一旦区域落入我们的控制，呼号为"基洛"的后勤车队即会开始北上，为我们建立起补给线。他们非常重要，因为这样我们才能维持我们的攻势。</Chinesesimp>
+          <Chinese>在佔領卡瓦拉(西海岸最大的城鎮)的時候，我們出乎意料只遇到了一些零星的反擊，在我們部隊繼續向北挺進的時候，我們卻遇到了一個戒備森嚴的敵軍&lt;markername='BIS_base'&gt;防禦工事&lt;/marker&gt;。與此同時，我們在敵軍的側翼開闢了一條新戰線，期望最終能把整個西海岸給拿下。&lt;br/&gt;&lt;br/&gt;一個呼號為&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;的裝甲排，已經移動到了西北方(確保一個關鍵的&lt;markername='BIS_friendlies_1'&gt;發電站&lt;/marker&gt;)並且準備開始突擊我們的首要目標，&lt;markername='BIS_base'&gt;敵軍主基地&lt;/marker&gt;。然而，我們必須先佔領一座敵軍的前哨，以移除我們被包抄的危險。&lt;br/&gt;&lt;br/&gt;呼號為&lt;markername='BIS_start'&gt;Echo&lt;/marker&gt;的多功能步兵車，將會向北挺進並部屬兩支步兵小隊在&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;附近，包括你的小隊&lt;markername='BIS_startOne'&gt;Alpha&lt;/marker&gt;，與前來支援的&lt;markername='BIS_startTwo'&gt;Bravo&lt;/marker&gt;。你們兩隊，將一起突擊該前哨，然後與裝甲部隊協同，在敵人反應過來之前攻擊他們的&lt;markername='BIS_base'&gt;主基地&lt;/marker&gt;。&lt;br/&gt;&lt;br/&gt;一旦區域落入我們的控制，呼號為Kilo的後勤車隊即會開始北上，為我們建立起補給線。他們非常重要，因為這樣我們才能維持我們的攻勢。</Chinese>
+          <Chinesesimp>在占领卡瓦拉(西海岸最大的城镇)的过程中，我们出乎意料地只遇到了一些零星的反击，在我们部队继续向北挺进的时候，我们却遇到了一支戒备森严的敌军&lt;markername='BIS_base'&gt;防御工事&lt;/marker&gt;。与此同时，我们在敌军的侧翼开辟了一条新战线，期望最终能把整个西海岸给拿下。&lt;br/&gt;&lt;br/&gt;一个呼号为&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;的装甲排，已经移动到了西北方(确保一个关键的&lt;markername='BIS_friendlies_1'&gt;发电站&lt;/marker&gt;)并且准备开始突击我们的首要目标，&lt;markername='BIS_base'&gt;敌军主基地&lt;/marker&gt;。然而，我们必须先占领一座敌军的前哨，以移除我们被包抄的危险。&lt;br/&gt;&lt;br/&gt;呼号为&lt;markername='BIS_start'&gt;Echo&lt;/marker&gt;的多功能步兵车，将会向北挺进并部属两支步兵小队在&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;附近，包括你的小队&lt;markername='BIS_startOne'&gt;Alpha&lt;/marker&gt;，与前来支援的&lt;markername='BIS_startTwo'&gt;Bravo&lt;/marker&gt;。你们两队，将一起突击该前哨，然后与装甲部队协同，在敌人反应过来之前攻击他们的&lt;markername='BIS_base'&gt;主基地&lt;/marker&gt;。&lt;br/&gt;&lt;br/&gt;一旦区域落入我们的控制，呼号为Kilo的后勤车队即会开始北上，为我们建立起补给线。他们非常重要，因为这样我们才能维持我们的攻势。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_arma_briefing_signal_text">
           <Original>Papa Bear - HQ&lt;br /&gt;&lt;marker name='BIS_startOne'&gt;Alpha&lt;/marker&gt; - Your team&lt;br /&gt;&lt;marker name='BIS_startTwo'&gt;Bravo&lt;/marker&gt; - Infantry Squad&lt;br /&gt;&lt;marker name='BIS_start'&gt;Echo&lt;/marker&gt; - 2 IFVs&lt;br /&gt;&lt;marker name='BIS_friendlies'&gt;Nomad&lt;/marker&gt; - Armored Platoon&lt;br /&gt;Kilo - Logistics Convoy</Original>
-          <Chinese>"熊爸爸"-總部&lt;br/&gt;&lt;markername='BIS_startOne'&gt;"Alpha"&lt;/marker&gt;-你的小隊&lt;br/&gt;&lt;markername='BIS_startTwo'&gt;"Bravo"&lt;/marker&gt;-步兵小隊&lt;br/&gt;&lt;markername='BIS_start'&gt;"Echo"&lt;/marker&gt;-2臺多功能步兵車&lt;br/&gt;&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;-裝甲排&lt;br/&gt;"Kilo"-後勤車隊</Chinese>
-          <Chinesesimp>"熊爸爸"-指挥部&lt;br/&gt;&lt;markername='BIS_startOne'&gt;"阿尔法"&lt;/marker&gt;-你的小组&lt;br/&gt;&lt;markername='BIS_startTwo'&gt;"布拉沃"&lt;/marker&gt;-步兵班&lt;br/&gt;&lt;markername='BIS_start'&gt;"回声"&lt;/marker&gt;-2辆步兵战车&lt;br/&gt;&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;-装甲排&lt;br/&gt;"基洛"-后勤车队</Chinesesimp>
+          <Chinese>Papa Bear-總部&lt;br/&gt;&lt;markername='BIS_startOne'&gt;Alpha&lt;/marker&gt;-你的小隊&lt;br/&gt;&lt;markername='BIS_startTwo'&gt;Bravo&lt;/marker&gt;-步兵小隊&lt;br/&gt;&lt;markername='BIS_start'&gt;Echo&lt;/marker&gt;-2臺多功能步兵車&lt;br/&gt;&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;-裝甲排&lt;br/&gt;Kilo-後勤車隊</Chinese>
+          <Chinesesimp>Papa Bear-指挥部&lt;br/&gt;&lt;markername='BIS_startOne'&gt;Alpha&lt;/marker&gt;-你的小组&lt;br/&gt;&lt;markername='BIS_startTwo'&gt;Bravo&lt;/marker&gt;-步兵班&lt;br/&gt;&lt;markername='BIS_start'&gt;Echo&lt;/marker&gt;-2辆步兵战车&lt;br/&gt;&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;-装甲排&lt;br/&gt;Kilo-后勤车队</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_arma_briefing_mission_text">
           <Original>In coordination with mechanized infantry, seize a fortified &lt;marker name='BIS_outpost'&gt;Outpost&lt;/marker&gt; and provide support for the main assault on the enemy &lt;marker name='BIS_base'&gt;Base&lt;/marker&gt;.</Original>
@@ -2570,8 +2570,8 @@
         </Key>
         <Key ID="str_a3_showcase_arma_briefing_execution_text">
           <Original>1. Move to the &lt;marker name='BIS_stagingPoint'&gt;staging area&lt;/marker&gt; and await the signal from HQ&lt;br /&gt;2. Seize the fortified &lt;marker name='BIS_outpost'&gt;Outpost&lt;/marker&gt; with the support of &lt;marker name='BIS_start'&gt;Echo&lt;/marker&gt; and &lt;marker name='BIS_startTwo'&gt;Bravo&lt;/marker&gt;&lt;br /&gt;3. Support &lt;marker name='BIS_friendlies'&gt;Nomad's&lt;/marker&gt; assault on the main &lt;marker name='BIS_base'&gt;Base&lt;/marker&gt;</Original>
-          <Chinese>1. 移動到&lt;markername='BIS_stagingPoint'&gt;等待區&lt;/marker&gt;並等待總部的信號&lt;br/&gt;2. 在&lt;markername='BIS_start'&gt;"Echo"&lt;/marker&gt;與&lt;markername='BIS_startTwo'&gt;"Bravo"&lt;/marker&gt;小隊的幫忙下佔領強化過的&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;&lt;br/&gt;3. 支援&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;突擊主要的&lt;markername='BIS_base'&gt;基地&lt;/marker&gt;</Chinese>
-          <Chinesesimp>1. 移动到&lt;markername='BIS_stagingPoint'&gt;准备地域&lt;/marker&gt;并等待指挥部的信号&lt;br/&gt;2. 在&lt;markername='BIS_start'&gt;回声&lt;/marker&gt;与&lt;markername='BIS_startTwo'&gt;"布拉沃"&lt;/marker&gt;的支援下占领经加强的&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;&lt;br/&gt;3. 支援&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;突击敌主要&lt;markername='BIS_base'&gt;基地&lt;/marker&gt;</Chinesesimp>
+          <Chinese>1. 移動到&lt;markername='BIS_stagingPoint'&gt;等待區&lt;/marker&gt;並等待總部的信號&lt;br/&gt;2. 在&lt;markername='BIS_start'&gt;Echo&lt;/marker&gt;與&lt;markername='BIS_startTwo'&gt;Bravo&lt;/marker&gt;小隊的幫忙下佔領強化過的&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;&lt;br/&gt;3. 支援&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;突擊主要的&lt;markername='BIS_base'&gt;基地&lt;/marker&gt;</Chinese>
+          <Chinesesimp>1. 移动到&lt;markername='BIS_stagingPoint'&gt;准备地域&lt;/marker&gt;并等待指挥部的信号&lt;br/&gt;2. 在&lt;markername='BIS_start'&gt;Echo&lt;/marker&gt;与&lt;markername='BIS_startTwo'&gt;Bravo&lt;/marker&gt;的支援下占领经加强的&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;&lt;br/&gt;3. 支援&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;突击敌主要&lt;markername='BIS_base'&gt;基地&lt;/marker&gt;</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_arma_bis_vehicles_title">
           <Original>Neutralize Vehicles</Original>
@@ -2750,8 +2750,8 @@
         </Key>
         <Key ID="str_a3_showcase_arma_support">
           <Original>Echo Support</Original>
-          <Chinese>呼叫"Echo"支援</Chinese>
-          <Chinesesimp>呼叫"回声"支援</Chinesesimp>
+          <Chinese>呼叫Echo支援</Chinese>
+          <Chinesesimp>呼叫Echo支援</Chinesesimp>
         </Key>
       </Container>
       <Container name="MP_COOP_m08">
@@ -3197,13 +3197,13 @@
         </Key>
         <Key ID="str_a3_showcase_tanks_diary_situation_text">
           <Original>Now that we've taken control of the %2main airport%1 and its %3military base%1, the enemy has pulled back and established a strong - borderline impenetrable - %4defensive line%1. Rather than risking any more casualties in a frontal assault, we've elected to open a new front on the %5eastern peninsula%1.%6%6Shortly before dawn, we deployed a small but powerful expeditionary force two klicks from the %7northernmost settlement on Altis%1. From this position, we're ideally placed to strike south, and disrupt their defensive line.%6%6An armored platoon, callsign Nomad, will spearhead the offensive. The plan is simple: regroup, head south, and neutralize anything that stands between you and your main objective, %7Molos%1. Charlie squad will move in to take care of any infantry you leave behind.</Original>
-          <Chinese>現在我們已經成功的掌握了%2主要機場%1與%3軍事基地%1，而敵人則把戰線往後拉，並建立了一個防守嚴密的%4防守線%1。為了不在冒更多正面衝突而傷亡的危險，我們決定在%5東邊的半島%1上開闢一條新戰線。%6%6黎明之前，我們已經部屬了兩支規模不大但是威力十足的遠征軍，從%7阿爾蒂斯島最北端的村莊%1登陸。從這個位置，我們能依靠地利往南進發，順勢打破他們的防守線。%6%6一個呼號為"游牧民"的裝甲排，將是這次進攻的主力。計劃如下:集結，向南挺進，然後消滅任何站在你與主要目標%7莫洛斯%1之間的障礙。"Charlie"小隊會跟在你們後面，負責解決你們留下的任何敵軍步兵。</Chinese>
-          <Chinesesimp>现在我们已经成功的掌握了%2主要机场%1与%3军事基地%1，而敌人则把战线往后拉，并建立了一个防守严密的%4防守线%1。为了不在冒更多正面冲突而伤亡的危险，我们决定在%5东边的半岛%1上开辟一条新战线。%6%6黎明之前，我们已经部属了两支规模不大但是威力十足的远征军，从%7阿尔蒂斯岛最北端的村庄%1登陆。从这个位置，我们能依靠地利往南进发，顺势打破他们的防守线。%6%6一个呼号为"游牧民"的装甲排，将是这次进攻的主力。计划如下:集结，向南挺进，然后消灭任何站在你与主要目标%7莫洛斯%1之间的障碍。"查理"小队会跟在你们后面，负责解决你们留下的任何敌军步兵。</Chinesesimp>
+          <Chinese>現在我們已經成功的掌握了%2主要機場%1與%3軍事基地%1，而敵人則把戰線往後拉，並建立了一個防守嚴密的%4防守線%1。為了不在冒更多正面衝突而傷亡的危險，我們決定在%5東邊的半島%1上開闢一條新戰線。%6%6黎明之前，我們已經部屬了兩支規模不大但是威力十足的遠征軍，從%7阿爾蒂斯島最北端的村莊%1登陸。從這個位置，我們能依靠地利往南進發，順勢打破他們的防守線。%6%6一個呼號為"游牧民"的裝甲排，將是這次進攻的主力。計劃如下:集結，向南挺進，然後消滅任何站在你與主要目標%7莫洛斯%1之間的障礙。Charlie小隊會跟在你們後面，負責解決你們留下的任何敵軍步兵。</Chinese>
+          <Chinesesimp>现在我们已经成功的掌握了%2主要机场%1与%3军事基地%1，而敌人则把战线往后拉，并建立了一个防守严密的%4防守线%1。为了不在冒更多正面冲突而伤亡的危险，我们决定在%5东边的半岛%1上开辟一条新战线。%6%6黎明之前，我们已经部属了两支规模不大但是威力十足的远征军，从%7阿尔蒂斯岛最北端的村庄%1登陆。从这个位置，我们能依靠地利往南进发，顺势打破他们的防守线。%6%6一个呼号为"游牧民"的装甲排，将是这次进攻的主力。计划如下:集结，向南挺进，然后消灭任何站在你与主要目标%7莫洛斯%1之间的障碍。Charlie小队会跟在你们后面，负责解决你们留下的任何敌军步兵。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_tanks_diary_signal_text">
           <Original>Papa Bear - HQ%3%2Nomad%1 - MBT Platoon, you%3%4Charlie%1 - Mechanized Infantry squad</Original>
-          <Chinese>"熊爸爸"-總部%3%2"游牧民"%1-主戰坦克裝甲排，你%3%4"Charlie"%1-機械化步兵班</Chinese>
-          <Chinesesimp>"熊爸爸"-总部%3%2"游牧民"%1-主战坦克排，你%3%4"查理"%1-机械化步兵班</Chinesesimp>
+          <Chinese>Papa Bear-總部%3%2"游牧民"%1-主戰坦克裝甲排，你%3%4Charlie%1-機械化步兵班</Chinese>
+          <Chinesesimp>Papa Bear-总部%3%2"游牧民"%1-主战坦克排，你%3%4Charlie%1-机械化步兵班</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_tanks_diary_mission_text">
           <Original>Regroup with your platoon, neutralize all armored contacts in the AO and seize the nearest town, %1Molos%2.</Original>

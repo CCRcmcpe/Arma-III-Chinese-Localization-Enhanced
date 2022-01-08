@@ -4,132 +4,132 @@
     <Container name="PhoneticalAlphabet">
       <Key ID="str_a3_radio_b">
         <Original>Bravo</Original>
-        <Chinese>"Bravo"</Chinese>
+        <Chinese>Bravo</Chinese>
         <Chinesesimp>Bravo</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_c">
         <Original>Charlie</Original>
-        <Chinese>"Charlie"</Chinese>
+        <Chinese>Charlie</Chinese>
         <Chinesesimp>Charlie</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_d">
         <Original>Delta</Original>
-        <Chinese>"Delta"</Chinese>
+        <Chinese>Delta</Chinese>
         <Chinesesimp>Delta</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_e">
         <Original>Echo</Original>
-        <Chinese>"Echo"</Chinese>
+        <Chinese>Echo</Chinese>
         <Chinesesimp>Echo</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_f">
         <Original>Foxtrot</Original>
-        <Chinese>"Foxtrot"</Chinese>
+        <Chinese>Foxtrot</Chinese>
         <Chinesesimp>Foxtrot</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_g">
         <Original>Golf</Original>
-        <Chinese>"Golf"</Chinese>
+        <Chinese>Golf</Chinese>
         <Chinesesimp>Golf</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_h">
         <Original>Hotel</Original>
-        <Chinese>"Hotel"</Chinese>
+        <Chinese>Hotel</Chinese>
         <Chinesesimp>Hotel</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_i">
         <Original>India</Original>
-        <Chinese>"India"</Chinese>
+        <Chinese>India</Chinese>
         <Chinesesimp>India</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_j">
         <Original>Juliet</Original>
-        <Chinese>"Juliet"</Chinese>
+        <Chinese>Juliet</Chinese>
         <Chinesesimp>Juliet</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_k">
         <Original>Kilo</Original>
-        <Chinese>"Kilo"</Chinese>
+        <Chinese>Kilo</Chinese>
         <Chinesesimp>Kilo</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_l">
         <Original>Lima</Original>
-        <Chinese>"Lima"</Chinese>
+        <Chinese>Lima</Chinese>
         <Chinesesimp>Lima</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_m">
         <Original>Mike</Original>
-        <Chinese>"Mike"</Chinese>
+        <Chinese>Mike</Chinese>
         <Chinesesimp>Mike</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_n">
         <Original>November</Original>
-        <Chinese>"November"</Chinese>
+        <Chinese>November</Chinese>
         <Chinesesimp>November</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_o">
         <Original>Oscar</Original>
-        <Chinese>"Oscar"</Chinese>
+        <Chinese>Oscar</Chinese>
         <Chinesesimp>Oscar</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_p">
         <Original>Papa</Original>
-        <Chinese>"Papa"</Chinese>
+        <Chinese>Papa</Chinese>
         <Chinesesimp>Papa</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_q">
         <Original>Quebec</Original>
-        <Chinese>"Quebec"</Chinese>
+        <Chinese>Quebec</Chinese>
         <Chinesesimp>Quebec</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_r">
         <Original>Romeo</Original>
-        <Chinese>"Romeo"</Chinese>
+        <Chinese>Romeo</Chinese>
         <Chinesesimp>Romeo</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_s">
         <Original>Sierra</Original>
-        <Chinese>"Sierra"</Chinese>
+        <Chinese>Sierra</Chinese>
         <Chinesesimp>Sierra</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_t">
         <Original>Tango</Original>
-        <Chinese>"Tango"</Chinese>
+        <Chinese>Tango</Chinese>
         <Chinesesimp>Tango</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_u">
         <Original>Uniform</Original>
-        <Chinese>"Uniform"</Chinese>
+        <Chinese>Uniform</Chinese>
         <Chinesesimp>Uniform</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_v">
         <Original>Victor</Original>
-        <Chinese>"Victor"</Chinese>
+        <Chinese>Victor</Chinese>
         <Chinesesimp>Victor</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_w">
         <Original>Whiskey</Original>
-        <Chinese>"Whiskey"</Chinese>
+        <Chinese>Whiskey</Chinese>
         <Chinesesimp>Whiskey</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_x">
         <Original>X-Ray</Original>
-        <Chinese>"X-Ray"</Chinese>
+        <Chinese>X-ray</Chinese>
         <Chinesesimp>X-Ray</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_y">
         <Original>Yankee</Original>
-        <Chinese>"Yankee"</Chinese>
+        <Chinese>Yankee</Chinese>
         <Chinesesimp>Yankee</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_z">
         <Original>Zulu</Original>
-        <Chinese>"Zulu"</Chinese>
+        <Chinese>Zulu</Chinese>
         <Chinesesimp>Zulu</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_a">
         <Original>Alpha</Original>
-        <Chinese>"Alpha"</Chinese>
+        <Chinese>Alpha</Chinese>
         <Chinesesimp>Alpha</Chinesesimp>
       </Key>
     </Container>
@@ -162,7 +162,7 @@
       <Key ID="str_a3_vehiclerepair0">
         <Original>You have to be an %3Engineer%4 or a %3Repair Specialist%4 and have a %3Toolkit%4 to repair a vehicle. If you meet these conditions, then a %3repair%4 option will become available near damaged vehicles.</Original>
         <Chinese>你必須是一個%工兵%4或%3維修專精兵%4，並且身上必須擁有一個%3工具包%4才能來維修載具。如果這些條件都滿足了，那麼在接近受損的載具附近時，將會出現%3維修%4的選項。</Chinese>
-        <Chinesesimp>你必须是%工兵%4或%3维修专员%4，并且身上必须拥有一个%3工具包%4才能来维修载具。如果这些条件都满足了，那么在接近受损的载具附近时，将会出现%3维修%4的选项。</Chinesesimp>
+        <Chinesesimp>你必须是%工兵%4或%3维修专业兵%4，并且身上必须拥有一个%3工具包%4才能来维修载具。如果这些条件都满足了，那么在接近受损的载具附近时，将会出现%3维修%4的选项。</Chinesesimp>
       </Key>
       <Key ID="str_a3_vehiclerepair1">
         <Original>Repairs</Original>
@@ -907,7 +907,7 @@
       <Key ID="str_a3_gear1">
         <Original>Inventory</Original>
         <Chinese>裝備欄</Chinese>
-        <Chinesesimp>装备栏</Chinesesimp>
+        <Chinesesimp>负载</Chinesesimp>
       </Key>
       <Key ID="str_a3_gear2">
         <Original>This hint also applies to searching vehicles, bags, corpses or just piles of items on the ground.</Original>
@@ -1247,7 +1247,7 @@
       <Key ID="str_a3_nv2">
         <Original>Use IR grenades and laser pointers to mark objects and locations when using night vision. They will remain unseen by the enemy but soldiers with night vision will be able to see them clearly.</Original>
         <Chinese>在使用夜視模式時，你可以使用紅外線手榴彈與雷射指示器來標記物品或地點。沒有夜視鏡的敵人會看不到標記，但是擁有夜視鏡的士兵卻能看得很清楚。</Chinese>
-        <Chinesesimp>在使用夜视模式时，你可以使用红外手榴弹与激光指示器来标记物品或地点。没有夜视镜的敌人会看不到标记，但是拥有夜视镜的士兵却能看得很清楚。</Chinesesimp>
+        <Chinesesimp>在使用夜视模式时，你可以使用红外手雷与激光指示器来标记物品或地点。没有夜视镜的敌人会看不到标记，但是拥有夜视镜的士兵却能看得很清楚。</Chinesesimp>
       </Key>
       <Key ID="str_a3_pointers0">
         <Original>Flashlight, Laser and IR Laser pointers can be attached to your rifle to provide accuracy, coordination and utility. Flashlights are especially useful during night missions.%1%2To activate the laser or flashlight, press %11.</Original>
@@ -3009,7 +3009,7 @@
         <Key ID="str_a3_mdl_simul_disp_name">
           <Original>Simulation Manager</Original>
           <Chinese>運算管理</Chinese>
-          <Chinesesimp>运算管理</Chinesesimp>
+          <Chinesesimp>模拟管理</Chinesesimp>
         </Key>
       </Container>
       <Container name="ZoneRestriction">
@@ -5514,7 +5514,7 @@
           <Key ID="str_a3_cfgweapons_toolkit1">
             <Original>Enables repair of vehicles - Engineer&lt;br/&gt;Enables deactivating explosives - Demo expert</Original>
             <Chinese>允許維修車輛-維修專精兵&lt;br/&gt;允許拆除炸藥-爆破專精兵</Chinese>
-            <Chinesesimp>允许维修车辆-维修专员&lt;br/&gt;允许拆除炸药-爆破专精兵</Chinesesimp>
+            <Chinesesimp>允许维修车辆-维修专业兵&lt;br/&gt;允许拆除炸药-爆破专精兵</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_test_emptyobjectforfirebig0">
             <Original>Fire</Original>
@@ -6551,7 +6551,7 @@
         <Key ID="str_a3_gmg_20mm0">
           <Original>Mk32 GMG 20 mm</Original>
           <Chinese>Mk32 20公厘榴彈機槍</Chinese>
-          <Chinesesimp>Mk32 20mm 榴弹机枪</Chinesesimp>
+          <Chinesesimp>Mk32 20mm 榴弹发射器</Chinesesimp>
         </Key>
         <Key ID="str_a3_missiles_dagr0">
           <Original>DAGR</Original>
@@ -6566,7 +6566,7 @@
         <Key ID="str_a3_gmg_40mm0">
           <Original>RCWS GMG 40 mm</Original>
           <Chinese>遙控砲塔40公厘榴彈機槍</Chinese>
-          <Chinesesimp>遥控武器站40mm 榴弹机枪</Chinesesimp>
+          <Chinesesimp>遥控武器站40mm 榴弹发射器</Chinesesimp>
         </Key>
         <Key ID="str_a3_hmg_1270">
           <Original>RCWS HMG 12.7 mm</Original>
@@ -10269,7 +10269,7 @@
         <Key ID="str_a3_natomen_firstnames82">
           <Original>Oscar</Original>
           <Chinese>奧斯卡</Chinese>
-          <Chinesesimp>奥斯卡</Chinesesimp>
+          <Chinesesimp>Oscar</Chinesesimp>
         </Key>
         <Key ID="str_a3_civmen_lastnames77">
           <Original>Lagos</Original>
@@ -10648,8 +10648,8 @@
         </Key>
         <Key ID="str_a3_natomen_firstnames48">
           <Original>Charlie</Original>
-          <Chinese>查理</Chinese>
-          <Chinesesimp>查理</Chinesesimp>
+          <Chinese>Charlie</Chinese>
+          <Chinesesimp>Charlie</Chinesesimp>
         </Key>
         <Key ID="str_a3_civwomen_firstnames11">
           <Original>Anwen</Original>
@@ -11188,8 +11188,8 @@
         </Key>
         <Key ID="str_a3_natomen_firstnames12">
           <Original>Charlie</Original>
-          <Chinese>查理</Chinese>
-          <Chinesesimp>查理</Chinesesimp>
+          <Chinese>Charlie</Chinese>
+          <Chinesesimp>Charlie</Chinesesimp>
         </Key>
         <Key ID="str_a3_civwomen_firstnames48">
           <Original>Saskia</Original>
@@ -13628,22 +13628,22 @@
         <Key ID="STR_A3_CfgMods_DLCBundle2_name">
           <Original>Arma 3 DLC Bundle 2</Original>
           <Chinese>武裝突襲3資料片合輯2</Chinese>
-          <Chinesesimp>武装突袭3资料片合集2</Chinesesimp>
+          <Chinesesimp>武装突袭3DLC合集2</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgMods_DLCBundle2_nameShort">
           <Original>DLC Bundle 2</Original>
           <Chinese>資料片合輯2</Chinese>
-          <Chinesesimp>资料片合集2</Chinesesimp>
+          <Chinesesimp>DLC合集2</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgMods_DLCBundle2_overview">
           <Original>Save more than 25&amp;#37; by purchasing the Arma 3 DLC Bundle 2, which includes the upcoming Arma 3 Jets, Arma 3 "Orange" (working title), Arma 3 Tac-Ops, and Arma 3 Tanks DLC! %1%2Press %11 to open the store page.</Original>
           <Chinese>購買武裝突襲3資料片合輯2將節省你超過25&amp;#37;以上的折扣，這會包含以下資料片，武裝突襲3戰機，武裝突襲3"橘色"(暫定標題)，武裝突襲3戰術行動和武裝突襲3坦克等資料片!%1%2按下%11來開啟商店頁面。</Chinese>
-          <Chinesesimp>购买武装突袭3资料片合集2，将节省超过25&amp;#37;以上的折扣，这会包含以下资料片，武装突袭3战机，武装突袭3"橘色"(暂定标题)，武装突袭3战术行动和武装突袭3坦克等资料片!%1%2按下%11来开启商店页面。</Chinesesimp>
+          <Chinesesimp>购买武装突袭3DLC合集2，将节省超过25&amp;#37;以上的折扣，这会包含以下DLC，武装突袭3战机，武装突袭3"橘色"(暂定标题)，武装突袭3战术行动和武装突袭3坦克等DLC!%1%2按下%11来开启商店页面。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgMods_DLCBundle2_overview_expansion">
           <Original>Save more than 25&amp;#37; by purchasing the Arma 3 DLC Bundle 2, which includes the upcoming Arma 3 Jets, Arma 3 "Orange" (working title), Arma 3 Tac-Ops, and Arma 3 Tanks DLC!</Original>
           <Chinese>購買武裝突襲3資料片合輯2將節省你超過25&amp;#37;以上的折扣，這會包含以下資料片，武裝突襲3戰機，武裝突襲3"橘色"(暫定標題)，武裝突襲3戰術行動和武裝突襲3坦克等資料片!</Chinese>
-          <Chinesesimp>购买武装突袭3资料片合集2，将节省超过25&amp;#37;以上的折扣，这会包含以下资料片，武装突袭3战机，武装突袭3"橘色"(暂定标题)，武装突袭3战术行动和武装突袭3坦克等资料片!</Chinesesimp>
+          <Chinesesimp>购买武装突袭3DLC合集2，将节省超过25&amp;#37;以上的折扣，这会包含以下DLC，武装突袭3战机，武装突袭3"橘色"(暂定标题)，武装突袭3战术行动和武装突袭3坦克等DLC!</Chinesesimp>
         </Key>
       </Container>
       <Container name="Groups">
@@ -14724,7 +14724,7 @@
         <Key ID="str_A3_cfgvehicles_o_mrap_02_gmg_f0">
           <Original>Ifrit GMG</Original>
           <Chinese>"焰靈"防地雷反伏擊車(榴彈機槍)</Chinese>
-          <Chinesesimp>"焰灵"防地雷反伏击车(榴弹机枪)</Chinesesimp>
+          <Chinesesimp>"焰灵"防地雷反伏击车(榴弹发射器)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_MRAP_01_base0">
           <Original>Hunter</Original>
@@ -14739,7 +14739,7 @@
         <Key ID="str_a3_cfgvehicles_MRAP_01_rcws_base0">
           <Original>Hunter GMG</Original>
           <Chinese>"獵人"防地雷反伏擊車(榴彈機槍)</Chinese>
-          <Chinesesimp>"猎人"防地雷反伏击车(榴弹机枪)</Chinesesimp>
+          <Chinesesimp>"猎人"防地雷反伏击车(榴弹发射器)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_offroad_base0">
           <Original>Offroad</Original>
@@ -14781,7 +14781,7 @@
         <Key ID="str_a3_cfgvehicles_boat_armed_01_base_library0">
           <Original>This V shaped boat with two powerful jet impellers excels in speed and maneuverability. It is used by both BLUFOR and OPFOR as a coastline guard boat and for special operations. The speedboat has a front-facing, remote controlled GMG turret. The OPFOR version is commonly equipped with a HMG in the rear, while BLUFOR speedboats are armed with a minigun.</Original>
           <Chinese>這種V型船擁有兩具強大的噴射槳葉，使它獲得絕佳的機動性與速度。它被藍方與紅方用作海岸線的巡防或是特種作戰。這種快艇在前面配備有遙控榴彈機槍砲塔。紅方的版本在船的後方配備有重機槍，而藍方則是配有迷你砲機槍。</Chinese>
-          <Chinesesimp>这种V型船拥有两具强大的喷射桨叶，使它获得绝佳的机动性与速度。它被蓝方与红方用作海岸线的巡防或是特种作战。这种快艇在前面配备有遥控榴弹机枪炮塔。红方的版本在船的后方配备有重机枪，而蓝方则是配有迷你炮机枪。</Chinesesimp>
+          <Chinesesimp>这种V型船拥有两具强大的喷射桨叶，使它获得绝佳的机动性与速度。它被蓝方与红方用作海岸线的巡防或是特种作战。这种快艇在前面配备有遥控榴弹发射器炮塔。红方的版本在船的后方配备有重机枪，而蓝方则是配有迷你炮机枪。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_offroad_base_library0">
           <Original>The 4x4 pickup by Generic Motors is a perfect choice for farmers and hunters. The durable chassis and powerful engine have been designed to withstand anything from the cratered highways of Central Europe to the rugged terrain of the Mediterranean. The armed version is fitted either with a .50 caliber heavy machine gun or an anti-tank recoilless rifle. It provides the combination of mobility and firepower to many paramilitary and guerilla forces in local conflicts around the globe.</Original>
@@ -14791,7 +14791,7 @@
         <Key ID="str_a3_cfgvehicles_MRAP_01_base_library0">
           <Original>The Hunter is a Mine-Resistant Ambush Protected (MRAP) vehicle manufactured by US arms factories to provide troops with enhanced protection. The armored hull can withstand light weapons and protects the crew against landmines and improvised explosive devices. Even though the heavy armor and powerful engine cause increased fuel consumption, it has been favored by frontline troops over the lighter vehicles for its easy maintenance and good protection level.&lt;br /&gt;Armed version of the sturdy Hunter MRAP vehicle is fitted with a Remotely Controlled Weapons System turret. The turret is fitted with the universal 12.7 mm heavy machinegun or the multi-role 40 mm Grenade Machine Gun. The armed Hunters are used for troop transport in combat zones, as light reconnaissance vehicles or even in fire support role in COIN operations.</Original>
           <Chinese>"獵人"是由美國軍火工廠製造的一種防地雷反伏擊車(MRAP)，提供軍隊增強的保護。它的裝甲可以抵禦輕武器，並且保護乘員免受地雷或簡易爆炸裝置傷害的危險。即使因其使用重裝甲和強大的引擎而讓燃料消耗增加，但它一直因易於維護且有著優良的保護，而讓前線部隊喜愛它遠大於喜愛輕型車輛。&lt;br/&gt;武裝版本的"獵人"，其裝有一個遙控砲塔。這個砲塔使用通用12.7公厘重機槍或多功能40公厘榴彈機槍。武裝版的"獵人"被用於在作戰區域運輸部隊，偵察敵情或提供步兵火力支援。</Chinese>
-          <Chinesesimp>"猎人"是由美国军火工厂制造的一种防地雷反伏击车(MRAP)，提供军队增强的保护。它的装甲可以抵御轻武器，并且保护乘员免受地雷或简易爆炸装置伤害的危险。即使因其使用重装甲和强大的引擎而让燃料消耗增加，但它一直因易于维护且有着优良的保护，而让前线部队喜爱它远大于喜爱轻型车辆。&lt;br/&gt;武装版本的"猎人"，其装有一个遥控武器站。这个炮塔使用通用12.7mm 重机枪或多功能40mm 榴弹机枪。武装版的"猎人"被用于在作战区域运输部队，侦察敌情或提供步兵火力支援。</Chinesesimp>
+          <Chinesesimp>"猎人"是由美国军火工厂制造的一种防地雷反伏击车(MRAP)，提供军队增强的保护。它的装甲可以抵御轻武器，并且保护乘员免受地雷或简易爆炸装置伤害的危险。即使因其使用重装甲和强大的引擎而让燃料消耗增加，但它一直因易于维护且有着优良的保护，而让前线部队喜爱它远大于喜爱轻型车辆。&lt;br/&gt;武装版本的"猎人"，其装有一个遥控武器站。这个炮塔使用通用12.7mm 重机枪或多功能40mm 榴弹发射器。武装版的"猎人"被用于在作战区域运输部队，侦察敌情或提供步兵火力支援。</Chinesesimp>
         </Key>
       </Container>
       <Container name="DynamicLoadouts">

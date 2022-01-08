@@ -8530,7 +8530,7 @@
           <Key ID="str_a3_orange_leaflets_002_ap_hub_intro_journalist_1">
             <Original>I can hear an echo.</Original>
             <Chinese>我能聽到回聲。</Chinese>
-            <Chinesesimp>我能听到回声。</Chinesesimp>
+            <Chinesesimp>我能听到Echo。</Chinesesimp>
           </Key>
         </Container>
         <Container name="001_ex_blocked" audioFilePath="\a3\dubbing_f_orange\orange_leaflets" dialogName="001_ex_blocked" dubbingLanguage="english" namePrefix="orange_leaflets_001_ex_blocked" note="" participants="Orange_eod;Orange_driver;" situation="the mission trigger is not yet accessible to the player. he should come back later. last line will be repeated in variant texts.">

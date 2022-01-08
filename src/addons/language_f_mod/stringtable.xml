@@ -124,7 +124,7 @@
     <Key ID="STR_A3_cfgWeapons_muzzle_snds_570">
       <Original>Sound Suppressor (5.7 mm)</Original>
       <Chinese>消聲器（5.7公厘）</Chinese>
-      <Chinesesimp>消声器（5.7mm ）</Chinesesimp>
+      <Chinesesimp>消声器（5.7mm）</Chinesesimp>
     </Key>
   </Package>
 </Project>
