@@ -211,7 +211,7 @@
         <Key ID="str_a3_cfghints_curator_entityconnect_description">
           <Original>Hold %11, click %3[LMB]%4 on an object and drag the line.%1%2Release the button on another object to connect them together.%1%2Release the button over an empty space to disconnect objects.&lt;br /&gt;&lt;br /&gt;Two types of connection exist:%1%2&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa' size='1.5' shadow='0' /&gt;&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa' size='1.5' shadow='0' /&gt; Grouping - when Units or Groups modes are selected, you can group them together. Works only with AI units (e.g. soldiers or manned vehicles).%1%2&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa' size='1.5' shadow='0' /&gt; Syncing - when Modules mode is selected, objects are synchronized. Some modules may require synchronization to affected objects.</Original>
           <Chinese>按住%11並點擊%3[滑鼠左鍵]%4在單位上即可拖曳出一條線。%1%2在另一個單位上釋放他，即可讓這兩個物件連接上。%1%2在空曠的區域釋放，則會刪除已有的連接線。&lt;br/&gt;&lt;br/&gt;連接有兩種形式:%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa'size='1.5'shadow='0'/&gt;&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa'size='1.5'shadow='0'/&gt;群組-當你連接單位或一個小隊，你就可以讓他們組成一個小隊。這功能只能在AI控制的單位上運作。%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa'size='1.5'shadow='0'/&gt;同步-這可以讓單位與模塊做出同步線。有些模塊是需要連接上單位才會有作用的。</Chinese>
-          <Chinesesimp>按住%11并点击%3[鼠标左键]%4在单位上即可拖拽出一条线。%1%2在另一个单位上释放他，即可让这两个物件连接上。%1%2在空旷的区域释放，则会删除已有的连接线。&lt;br/&gt;&lt;br/&gt;连接有两种形式：%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa'size='1.5'shadow='0'/&gt;&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa'size='1.5'shadow='0'/&gt;群组 — 当你连接单位或一个小队，你就可以让他们组成一个小队。这功能只能在 AI 控制的单位上运作。%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa'size='1.5'shadow='0'/&gt;同步 — 这可以让单位与模块做出同步线。有些模块是需要连接上单位才会有作用的。</Chinesesimp>
+          <Chinesesimp>按住%11并点击%3[鼠标左键]%4在单位上即可拖拽出一条线。%1%2在另一个单位上释放他，即可让这两个物件连接上。%1%2在空旷的区域释放，则会删除已有的连接线。&lt;br/&gt;&lt;br/&gt;连接有两种形式：%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa'size='1.5'shadow='0'/&gt;&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa'size='1.5'shadow='0'/&gt;群组—当你连接单位或一个小队，你就可以让他们组成一个小队。这功能只能在 AI 控制的单位上运作。%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa'size='1.5'shadow='0'/&gt;同步—这可以让单位与模块做出同步线。有些模块是需要连接上单位才会有作用的。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_curator_tip">
           <Original>To become a Zeus, take the slot marked by &lt;img image='%11' size='2' /&gt; in the multiplayer lobby.</Original>
@@ -256,7 +256,7 @@
         <Key ID="str_a3_cfghints_curator_attributes_description">
           <Original>Scenarios can allow you to set specific entity attributes.%1Doubleclick %3[LMB]%4 on the entity icon or its name in the entity list to open the attributes window.&lt;br /&gt;&lt;br /&gt;Available attributes can be:%1%2Objects - health, skill, fuel, lock, ...%1%2Groups - callsign, combat mode, formation, ...%1%2Waypoints - combat mode, speed, ...%1%2Markers - text, color, ...</Original>
           <Chinese>任務可以讓你設定一些特殊的屬性。%1雙擊%3[滑鼠左鍵]%4在單位圖示上或他在清單上的名字，即可開始編輯他的屬性。&lt;br/&gt;&lt;br/&gt;可以設定的屬性有以下幾種:%1%2單位-生命值，戰鬥技巧，燃料，載具鎖定...%1%2群組-呼號，交戰模式，隊形...%1%2路徑點-交戰模式，速度...%1%2標誌-文本，顏色...</Chinese>
-          <Chinesesimp>任务可以让你设定一些特殊的属性。%1双击%3[鼠标左键]%4在单位图示上或它在清单上的名字，即可开始编辑它的属性。&lt;br/&gt;&lt;br/&gt;可以设定的属性有以下几种：%1%2单位 — 生命值，战斗技巧，燃料，载具锁定...%1%2群组 — 呼号，交战模式，队形...%1%2路径点 — 交战模式，速度...%1%2标志 — 文本，颜色...</Chinesesimp>
+          <Chinesesimp>任务可以让你设定一些特殊的属性。%1双击%3[鼠标左键]%4在单位图示上或它在清单上的名字，即可开始编辑它的属性。&lt;br/&gt;&lt;br/&gt;可以设定的属性有以下几种：%1%2单位—生命值，战斗技巧，燃料，载具锁定...%1%2群组—呼号，交战模式，队形...%1%2路径点—交战模式，速度...%1%2标志—文本，颜色...</Chinesesimp>
         </Key>
         <Key ID="str_a3_dlc_curator_description">
           <Original>Project Zeus is a new concept where scenarios are curated by one or more Game Masters. Using a 3D real-time editor, they can expand and manipulate scenario content in order to provide more interesting gameplay for other players.&lt;br /&gt;Specific goals and limitations prevent them from becoming too powerful and ensures they also have some challenges to overcome themselves.</Original>
@@ -436,82 +436,82 @@
         <Key ID="str_a3_cfgmpgametypes_ztdm_shortcut">
           <Original>Z-TDM</Original>
           <Chinese>宙斯-團隊死鬥</Chinese>
-          <Chinesesimp>宙斯 — 团队死斗</Chinesesimp>
+          <Chinesesimp>宙斯—团队死斗</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_ztdm_name">
           <Original>Zeus - Team Deathmatch</Original>
           <Chinese>宙斯-團隊死鬥</Chinese>
-          <Chinesesimp>宙斯 — 团队死斗</Chinesesimp>
+          <Chinesesimp>宙斯—团队死斗</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_zsc_shortcut">
           <Original>Z-SC</Original>
           <Chinese>宙斯-區域控制</Chinese>
-          <Chinesesimp>宙斯 — 区域控制</Chinesesimp>
+          <Chinesesimp>宙斯—区域控制</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_zsc_name">
           <Original>Zeus - Sector Control</Original>
           <Chinese>宙斯-控制防禦區</Chinese>
-          <Chinesesimp>宙斯 — 控制防御区</Chinesesimp>
+          <Chinesesimp>宙斯—控制防御区</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_zrpg_shortcut">
           <Original>Z-RPG</Original>
           <Chinese>宙斯-角色扮演</Chinese>
-          <Chinesesimp>宙斯 — 角色扮演</Chinesesimp>
+          <Chinesesimp>宙斯—角色扮演</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_zrpg_name">
           <Original>Zeus - Role Playing Game</Original>
           <Chinese>宙斯-角色扮演</Chinese>
-          <Chinesesimp>宙斯 — 角色扮演</Chinesesimp>
+          <Chinesesimp>宙斯—角色扮演</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_zgm_shortcut">
           <Original>Z-GM</Original>
           <Chinese>宙斯-遊戲管理員</Chinese>
-          <Chinesesimp>宙斯 — 游戏管理员</Chinesesimp>
+          <Chinesesimp>宙斯—游戏管理员</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_zgm_name">
           <Original>Zeus - Game Master</Original>
           <Chinese>宙斯-遊戲管理員</Chinese>
-          <Chinesesimp>宙斯 — 游戏管理员</Chinesesimp>
+          <Chinesesimp>宙斯—游戏管理员</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_zdm_shortcut">
           <Original>Z-DM</Original>
           <Chinese>宙斯-死鬥</Chinese>
-          <Chinesesimp>宙斯 — 死斗</Chinesesimp>
+          <Chinesesimp>宙斯—死斗</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_zdm_name">
           <Original>Zeus - Deathmatch</Original>
           <Chinese>宙斯-死鬥</Chinese>
-          <Chinesesimp>宙斯 — 死斗</Chinesesimp>
+          <Chinesesimp>宙斯—死斗</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_zcti_shortcut">
           <Original>Z-CTI</Original>
           <Chinese>宙斯-島嶼爭奪</Chinese>
-          <Chinesesimp>宙斯 — 岛屿争夺</Chinesesimp>
+          <Chinesesimp>宙斯—岛屿争夺</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_zcti_name">
           <Original>Zeus - Capture The Island</Original>
           <Chinese>宙斯-島嶼爭奪</Chinese>
-          <Chinesesimp>宙斯 — 岛屿争夺</Chinesesimp>
+          <Chinesesimp>宙斯—岛屿争夺</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_zctf_shortcut">
           <Original>Z-CTF</Original>
           <Chinese>宙斯-旗子爭奪</Chinese>
-          <Chinesesimp>宙斯 — 旗子争夺</Chinesesimp>
+          <Chinesesimp>宙斯—旗子争夺</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_zctf_name">
           <Original>Zeus - Capture The Flag</Original>
           <Chinese>宙斯-旗子爭奪</Chinese>
-          <Chinesesimp>宙斯 — 旗子争夺</Chinesesimp>
+          <Chinesesimp>宙斯—旗子争夺</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_zcoop_shortcut">
           <Original>Z-Coop</Original>
           <Chinese>宙斯-合作任務</Chinese>
-          <Chinesesimp>宙斯 — 合作任务</Chinesesimp>
+          <Chinesesimp>宙斯—合作任务</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_zcoop_name">
           <Original>Zeus - Cooperative Scenario</Original>
           <Chinese>宙斯-合作任務</Chinese>
-          <Chinesesimp>宙斯 — 合作任务</Chinesesimp>
+          <Chinesesimp>宙斯—合作任务</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmpgametypes_zeus_name">
           <Original>Zeus</Original>
@@ -2231,7 +2231,7 @@
           <Key ID="str_a3_showcase_curator_titlecard">
             <Original>SHOWCASE ZEUS - Zeus Interface, Becoming Game Master, Creating a Mission On-the-fly</Original>
             <Chinese>任務展示宙斯-宙斯編輯介面，成為遊戲管理員，即時創建任務</Chinese>
-            <Chinesesimp>任务展示宙斯 — 宙斯编辑界面，成为游戏管理员，即时创建任务</Chinesesimp>
+            <Chinesesimp>任务展示宙斯—宙斯编辑界面，成为游戏管理员，即时创建任务</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_curator.altis_cfgdebriefing_end1">
             <Original>Where to go next? Play some multiplayer scenarios, like the completely open Zeus Game Master (ZGM). Or download Steam Workshop scenarios with the 'Zeus' tag. You can also just go to the editor and experiment with the 'Zeus' modules. &lt;t font='PuristaBold'&gt;Your rules, your war.&lt;/t&gt;</Original>
@@ -3051,17 +3051,17 @@
         <Key ID="str_a3_cfgvehicles_modulecas_f_arguments_type_values_missiles">
           <Original>CAS - Missile Strike</Original>
           <Chinese>密接空中支援-飛彈攻擊</Chinese>
-          <Chinesesimp>密接空中支援 — 导弹攻击</Chinesesimp>
+          <Chinesesimp>密接空中支援—导弹攻击</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecas_f_arguments_type_values_gunmissiles">
           <Original>CAS - Gun and Missiles</Original>
           <Chinese>密接空中支援-機炮與飛彈</Chinese>
-          <Chinesesimp>密接空中支援 — 机炮与导弹</Chinesesimp>
+          <Chinesesimp>密接空中支援—机炮与导弹</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecas_f_arguments_type_values_gun">
           <Original>CAS - Gun Run</Original>
           <Chinese>密接空中支援-機炮攻擊</Chinese>
-          <Chinesesimp>密接空中支援 — 机炮攻击</Chinesesimp>
+          <Chinesesimp>密接空中支援—机炮攻击</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecas_f">
           <Original>Close Air Support (CAS)</Original>
@@ -3078,7 +3078,7 @@
         <Key ID="str_a3_cfgvehicles_modulecuratorsetobjectcosts_f">
           <Original>Set Costs - Objects</Original>
           <Chinese>設置花費-目標</Chinese>
-          <Chinesesimp>设置花费 — 目标</Chinesesimp>
+          <Chinesesimp>设置花费—目标</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratorsetobjectcost_f_arguments_show_values_yes">
           <Original>Show</Original>
@@ -3108,7 +3108,7 @@
         <Key ID="str_a3_cfgvehicles_modulecuratorsetmodulecosts_f">
           <Original>Set Costs - Modules</Original>
           <Chinese>設置花費-模塊</Chinese>
-          <Chinesesimp>设置花费 — 模块</Chinesesimp>
+          <Chinesesimp>设置花费—模块</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratorseteditingareatype_f_moduledescription">
           <Original>Set whether editing in all editing areas is allowed or restricted.</Original>
@@ -3143,7 +3143,7 @@
         <Key ID="str_a3_cfgvehicles_modulecuratorsetdefaultcosts_f_moduledescription_description1">
           <Original>The object costs defined are based on the threat level - more dangerous units will be more expensive. Values can range from 1 (minimal threat: used by basic soldiers or empty objects) to 10 (maximal threat: typically airplanes and gunships).</Original>
           <Chinese>單位的花費將由該單位的強度所決定-越強的單位會花費越多點數。數值從1(最小數值:給基本士兵或空單位使用)到10(最大數值:像是飛機或武裝直升機)。</Chinese>
-          <Chinesesimp>单位的花费将由该单位的强度所决定 — 越强的单位会花费越多点数。数值从1(最小数值：给基本士兵或空单位使用)到10（最大数值：像是飞机或武装直升机）。</Chinesesimp>
+          <Chinesesimp>单位的花费将由该单位的强度所决定—越强的单位会花费越多点数。数值从1(最小数值：给基本士兵或空单位使用)到10（最大数值：像是飞机或武装直升机）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratorsetdefaultcosts_f">
           <Original>Set Costs (Default)</Original>
@@ -3153,12 +3153,12 @@
         <Key ID="str_a3_cfgvehicles_modulecuratorsetcosts_f_moduledescription">
           <Original>Simplified definition of object costs. Can be combined with other "Set Costs" modules (e.g., cost of a BLUFOR soldier can be defined by "Set Costs - Sides" and "Set Costs - Soldiers &amp; Vehicles" module. All matching values are multiplied together).</Original>
           <Chinese>簡單設置單位的花費。可與其他"設置花費"模塊一起使用(例如藍方士兵可以被"設置花費-陣營"與"設置花費-士兵&amp;載具"模塊一起使用。所有匹配的值會相乘)。</Chinese>
-          <Chinesesimp>简单设置单位的花费。可与其他"设置花费"模块一起使用（例如蓝方士兵可以被"设置花费 — 阵营"与"设置花费 — 士兵&amp;载具"模块一起使用。所有匹配的值会相乘）。</Chinesesimp>
+          <Chinesesimp>简单设置单位的花费。可与其他"设置花费"模块一起使用（例如蓝方士兵可以被"设置花费—阵营"与"设置花费—士兵&amp;载具"模块一起使用。所有匹配的值会相乘）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratorsetcosts_f">
           <Original>Set Costs - Soldiers &amp; Vehicles</Original>
           <Chinese>設置花費-士兵&amp;載具</Chinese>
-          <Chinesesimp>设置花费 — 士兵&amp;载具</Chinesesimp>
+          <Chinesesimp>设置花费—士兵&amp;载具</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratorsetcoefs_f_moduledescription">
           <Original>Set coefficients for operations Zeus can perform. The object cost is multiplied by these. Use a large negative value (e.g. -1e10) to disable the operation.</Original>
@@ -3273,7 +3273,7 @@
         <Key ID="str_a3_cfgvehicles_modulecuratorsetattributeswaypoint_f">
           <Original>Set Attributes - Waypoints</Original>
           <Chinese>設定屬性-路徑點</Chinese>
-          <Chinesesimp>设定属性 — 路径点</Chinesesimp>
+          <Chinesesimp>设定属性—路径点</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratorsetattributesplayer_f_moduledescription">
           <Original>Set which attributes are available for players. The attribute window is accessed when Zeus double-clicks LMB on a player.</Original>
@@ -3283,7 +3283,7 @@
         <Key ID="str_a3_cfgvehicles_modulecuratorsetattributesplayer_f">
           <Original>Set Attributes - Players</Original>
           <Chinese>設定屬性-玩家</Chinese>
-          <Chinesesimp>设定属性 — 玩家</Chinesesimp>
+          <Chinesesimp>设定属性—玩家</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratorsetattributesobject_f_moduledescription">
           <Original>Set which attributes are available for objects. The attribute window is accessed when Zeus double-clicks LMB on an object.</Original>
@@ -3293,7 +3293,7 @@
         <Key ID="str_a3_cfgvehicles_modulecuratorsetattributesobject_f">
           <Original>Set Attributes - Objects</Original>
           <Chinese>設定屬性-目標</Chinese>
-          <Chinesesimp>设定属性 — 目标</Chinesesimp>
+          <Chinesesimp>设定属性—目标</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratorsetattributesmarker_f_moduledescription">
           <Original>Set which attributes are available for markers. The attribute window is accessed when Zeus double-clicks LMB on a marker.</Original>
@@ -3303,7 +3303,7 @@
         <Key ID="str_a3_cfgvehicles_modulecuratorsetattributesmarker_f">
           <Original>Set Attributes - Markers</Original>
           <Chinese>設定屬性-標誌</Chinese>
-          <Chinesesimp>设定属性 — 标志</Chinesesimp>
+          <Chinesesimp>设定属性—标志</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratorsetattributesgroup_f_moduledescription">
           <Original>Set which attributes are available for groups. The attribute window is accessed when Zeus double-clicks LMB on a group.</Original>
@@ -3313,7 +3313,7 @@
         <Key ID="str_a3_cfgvehicles_modulecuratorsetattributesgroup_f">
           <Original>Set Attributes - Groups</Original>
           <Chinese>設定屬性-群組</Chinese>
-          <Chinesesimp>设定属性 — 群组</Chinesesimp>
+          <Chinesesimp>设定属性—群组</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecurator_f_moduledescription">
           <Original>Zeus logic which provides access to the 3D real-time editor.</Original>
@@ -3928,7 +3928,7 @@
         <Key ID="str_a3_cfgvehicles_moduleremotecontrol_f_errorNull">
           <Original>Found no unit to control - place the module over an AI unit</Original>
           <Chinese>沒有找到可控制的單位-請把模塊放置在AI單位身上</Chinese>
-          <Chinesesimp>没有找到可控制的单位 — 请把模块放置在 AI 单位身上</Chinesesimp>
+          <Chinesesimp>没有找到可控制的单位—请把模块放置在 AI 单位身上</Chinesesimp>
         </Key>
       </Container>
       <Container name="Mines">

@@ -518,12 +518,12 @@
         <Key ID="str_a3_target_popup4_moving_acc2_f0">
           <Original>Moving Target 4 (Side - Accuracy)</Original>
           <Chinese>目標移動靶4(左右-精準度)</Chinese>
-          <Chinesesimp>目标移动靶4（左右 — 精准度）</Chinesesimp>
+          <Chinesesimp>目标移动靶4（左右—精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_target_popup4_moving_acc1_f0">
           <Original>Moving Target 4 (Side - Zones)</Original>
           <Chinese>目標移動靶4(左右-區塊)</Chinese>
-          <Chinesesimp>目标移动靶4（左右 — 区块）</Chinesesimp>
+          <Chinesesimp>目标移动靶4（左右—区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_target_popup4_moving_90deg_f0">
           <Original>Moving Target 4 (Front)</Original>
@@ -533,12 +533,12 @@
         <Key ID="str_a3_target_popup4_moving_90deg_acc2_f0">
           <Original>Moving Target 4 (Front - Accuracy)</Original>
           <Chinese>目標移動靶4(前後-精準度)</Chinese>
-          <Chinesesimp>目标移动靶4（前后 — 精准度）</Chinesesimp>
+          <Chinesesimp>目标移动靶4（前后—精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_target_popup4_moving_90deg_acc1_f0">
           <Original>Moving Target 4 (Front - Zones)</Original>
           <Chinese>目標移動靶4(前後-區塊)</Chinese>
-          <Chinesesimp>目标移动靶4（前后 — 区块）</Chinesesimp>
+          <Chinesesimp>目标移动靶4（前后—区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_targetp_inf4_f0">
           <Original>Pop-Up Target 4</Original>
@@ -707,7 +707,7 @@
         <Key ID="str_a3_cfgvehicles_flag_fd_purple_f0">
           <Original>Flag (FD - Purple)</Original>
           <Chinese>旗幟(射擊訓練-紫色)</Chinese>
-          <Chinesesimp>旗帜（射击训练 — 紫色）</Chinesesimp>
+          <Chinesesimp>旗帜（射击训练—紫色）</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -725,7 +725,7 @@
       <Key ID="str_a3_cfghints_premiumcontent_premiummark1">
         <Original>Hone your shooting skills and engage in ranged combat with the seven new weapons in the Arma 3 Marksmen DLC.%1&lt;img size='9' shadow='0' image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa' /&gt;%1%2&lt;t&gt;&lt;\t&gt;Weapon: Cyrus 9.3 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: Mk14 7.62 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: ASP-1 Kir 12.7 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: SPMG .338%1%2&lt;t&gt;&lt;\t&gt;Weapon: Navid 9.3 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;Weapon: Mk-I EMR 7.62 mm%1%2&lt;t&gt;&lt;\t&gt;Character: Sniper - with a new full ghillie suit%1%2&lt;t&gt;&lt;\t&gt;Character: Grenadier - with a new heavy vest%1%2&lt;t&gt;&lt;\t&gt;3 Singleplayer Firing Drills%1%2&lt;t&gt;&lt;\t&gt;End Game - a team based multiplayer mode%1%2&lt;t&gt;&lt;\t&gt;Showcase Firing From Vehicles%1%2&lt;t&gt;&lt;\t&gt;Showcase Marksmen%1%2&lt;t&gt;&lt;\t&gt;VR Training courses%1%2&lt;t&gt;&lt;\t&gt;Remote Designators%1%2&lt;t&gt;&lt;\t&gt;Laser Designators%1%2&lt;t&gt;&lt;\t&gt;Facepaints - 9 faces with camouflage%1%2&lt;t&gt;&lt;\t&gt;Kahlia Scope%1%2&lt;t&gt;&lt;\t&gt;AMS Scope%1%2&lt;t&gt;&lt;\t&gt;Weapon Accessories%1%2&lt;t&gt;&lt;\t&gt;Firing Drills Decorative Objects%1%2&lt;t&gt;&lt;\t&gt;Set of extra Steam Achievements%1&lt;t&gt;&lt;\t&gt;</Original>
         <Chinese>使用新增的7把武器，在武裝突襲3精準射手資料片中磨練你的射擊技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器:"塞魯斯"9.3公厘%1%2&lt;t&gt;&lt;\t&gt;武器:Mk14 7.62公厘%1%2&lt;t&gt;&lt;\t&gt;武器:ASP-1"基爾"12.7公厘%1%2&lt;t&gt;&lt;\t&gt;武器:SPMG .338%1%2&lt;t&gt;&lt;\t&gt;武器:"納維德"9.3公厘%1%2&lt;t&gt;&lt;\t&gt;武器:MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;武器:Mk-I EMR 7.62公厘%1%2&lt;t&gt;&lt;\t&gt;角色:狙擊手-穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色:榴彈兵-有著新的防彈背心%1%2&lt;t&gt;&lt;\t&gt;3個新的射擊訓練%1%2&lt;t&gt;&lt;\t&gt;終戰-一個新的多人遊戲模式%1%2&lt;t&gt;&lt;\t&gt;任務展示-從載具中射擊%1%2&lt;t&gt;&lt;\t&gt;任務展示-精準射手%1%2&lt;t&gt;&lt;\t&gt;虛擬訓練課程%1%2&lt;t&gt;&lt;\t&gt;遙控指示器%1%2&lt;t&gt;&lt;\t&gt;雷射指示器%1%2&lt;t&gt;&lt;\t&gt;臉譜-9張新的迷彩臉譜%1%2&lt;t&gt;&lt;\t&gt;"喀利亞"瞄準鏡%1%2&lt;t&gt;&lt;\t&gt;先進精準射手瞄準鏡%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射擊訓練物件%1%2&lt;t&gt;&lt;\t&gt;新的Steam成就%1&lt;t&gt;&lt;\t&gt;</Chinese>
-        <Chinesesimp>使用新增的7把武器，在武装突袭3精准射手 DLC 中磨练你的射击技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器："塞鲁斯"9.3 mm %1%2&lt;t&gt;&lt;\t&gt;武器：Mk14 7.62mm %1%2&lt;t&gt;&lt;\t&gt;武器：ASP-1"基尔"12.7mm %1%2&lt;t&gt;&lt;\t&gt;武器：SPMG .338%1%2&lt;t&gt;&lt;\t&gt;武器："纳维德"9.3mm %1%2&lt;t&gt;&lt;\t&gt;武器：MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;武器：Mk-I EMR 7.62mm %1%2&lt;t&gt;&lt;\t&gt;角色：狙击手 — 穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色：榴弹兵 — 有着新的防弹背心%1%2&lt;t&gt;&lt;\t&gt;3个新的射击训练%1%2&lt;t&gt;&lt;\t&gt;终战 — 一个新的多人游戏模式%1%2&lt;t&gt;&lt;\t&gt;任务展示 — 从载具中射击%1%2&lt;t&gt;&lt;\t&gt;任务展示 — 精准射手%1%2&lt;t&gt;&lt;\t&gt;虚拟训练课程%1%2&lt;t&gt;&lt;\t&gt;遥控指示器%1%2&lt;t&gt;&lt;\t&gt;激光指示器%1%2&lt;t&gt;&lt;\t&gt;脸谱-9张新的迷彩脸谱%1%2&lt;t&gt;&lt;\t&gt;"喀利亚"瞄准镜%1%2&lt;t&gt;&lt;\t&gt;先进精准射手瞄准镜%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射击训练物件%1%2&lt;t&gt;&lt;\t&gt;新的 Steam 成就%1&lt;t&gt;&lt;\t&gt;</Chinesesimp>
+        <Chinesesimp>使用新增的7把武器，在武装突袭3精准射手 DLC 中磨练你的射击技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器："塞鲁斯"9.3 mm %1%2&lt;t&gt;&lt;\t&gt;武器：Mk14 7.62mm %1%2&lt;t&gt;&lt;\t&gt;武器：ASP-1"基尔"12.7mm %1%2&lt;t&gt;&lt;\t&gt;武器：SPMG .338%1%2&lt;t&gt;&lt;\t&gt;武器："纳维德"9.3mm %1%2&lt;t&gt;&lt;\t&gt;武器：MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;武器：Mk-I EMR 7.62mm %1%2&lt;t&gt;&lt;\t&gt;角色：狙击手—穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色：榴弹兵—有着新的防弹背心%1%2&lt;t&gt;&lt;\t&gt;3个新的射击训练%1%2&lt;t&gt;&lt;\t&gt;终战—一个新的多人游戏模式%1%2&lt;t&gt;&lt;\t&gt;任务展示—从载具中射击%1%2&lt;t&gt;&lt;\t&gt;任务展示—精准射手%1%2&lt;t&gt;&lt;\t&gt;虚拟训练课程%1%2&lt;t&gt;&lt;\t&gt;遥控指示器%1%2&lt;t&gt;&lt;\t&gt;激光指示器%1%2&lt;t&gt;&lt;\t&gt;脸谱-9张新的迷彩脸谱%1%2&lt;t&gt;&lt;\t&gt;"喀利亚"瞄准镜%1%2&lt;t&gt;&lt;\t&gt;先进精准射手瞄准镜%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射击训练物件%1%2&lt;t&gt;&lt;\t&gt;新的 Steam 成就%1&lt;t&gt;&lt;\t&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiummark0">
         <Original>Marksmen DLC</Original>
@@ -1570,7 +1570,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list22_title">
         <Original>Showcase Marksmen</Original>
         <Chinese>任務展示-精準射手</Chinese>
-        <Chinesesimp>任务展示 — 精准射手</Chinesesimp>
+        <Chinesesimp>任务展示—精准射手</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list22">
         <Original>use your new abilities and long range sharpshooting skills in this tense mission</Original>
@@ -1580,7 +1580,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list21_title">
         <Original>Showcase Firing From Vehicles</Original>
         <Chinese>任務展示-從載具中射擊</Chinese>
-        <Chinesesimp>任务展示 — 从载具中射击</Chinesesimp>
+        <Chinesesimp>任务展示—从载具中射击</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list21">
         <Original>experience this feature in an actual combat scenario for both singleplayer and multiplayer</Original>

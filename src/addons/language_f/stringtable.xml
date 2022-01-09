@@ -452,7 +452,7 @@
       <Key ID="str_a3_cfghints_quick0">
         <Original>As a commander, you have access to quick commands via the quick command menu %11. The menu is context sensitive – commands change according to objects you point at. Select some units with %3[F2-F10]%4 and:%1%2Use %12 on a position to issue a move command.%1%2Use %12 on a target to issue an engage command.%1%2Use %12 on a vehicle to order mount.%1%2To change the direction your units are facing, use %12 while holding %3[Left Alt]%4 when pointing at a position.</Original>
         <Chinese>作為指揮官，你可以通過快速命令選單%11來使用快捷命令。選單會對環境做出反應-根據你指向的物體不同，命令內容會發生改變。使用%3[F2-F10]%4來選擇一些單位後:%1%2對一個位置使用%12來發出移動命令。%1%2對目標使用%12來發出交戰命令。%1%2對載具使用%12來命令單位上車。%1%2要改變你單位的觀察方向，指向一個方位時，先按住%3[LeftAlt]%4在使用%12來指定觀察方向。</Chinese>
-        <Chinesesimp>作为指挥官，你可以通过快速命令菜单%11来使用快捷命令。菜单会对环境做出反应 — 根据你指向的物体不同，命令内容会发生改变。使用%3[F2-F10]%4来选择一些单位后：%1%2对一个位置使用%12来发出移动命令。%1%2对目标使用%12来发出交战命令。%1%2对载具使用%12来命令单位上车。%1%2要改变你单位的观察方向，指向一个方位时，先按住%3[LeftAlt]%4在使用%12来指定观察方向。</Chinesesimp>
+        <Chinesesimp>作为指挥官，你可以通过快速命令菜单%11来使用快捷命令。菜单会对环境做出反应—根据你指向的物体不同，命令内容会发生改变。使用%3[F2-F10]%4来选择一些单位后：%1%2对一个位置使用%12来发出移动命令。%1%2对目标使用%12来发出交战命令。%1%2对载具使用%12来命令单位上车。%1%2要改变你单位的观察方向，指向一个方位时，先按住%3[LeftAlt]%4在使用%12来指定观察方向。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_quick1">
         <Original>Quick Commands</Original>
@@ -467,7 +467,7 @@
       <Key ID="str_a3_cfghints_response0">
         <Original>As a subordinate unit in need of a quick response, press %11 to open the quick command menu. Here you can select one of the responses to your incoming commands:%1%2Done%1%2Negative%1%2Ready to fire%1%2Cannot fire%1%2Repeat%1%2Copy%1%2One less%1%2Where are you?%1%2Support%1%2Custom – used for more complex conversations such as support requests%1%2Radio</Original>
         <Chinese>作為下屬單位需要快速回應時，按下%11來打開快速命令選單。在這裡你可以選擇一些快速回複來答覆你的隊長:%1%2完成%1%2否定%1%2準備開火%1%2無法開火%1%2重複%1%2收到%1%2消滅一個%1%2你在哪?%1%2支援%1%2自定義-用於更加進階的對話，例如請求支援%1%2無線電</Chinese>
-        <Chinesesimp>作为下属单位需要快速回应时，按下%11来打开快速命令菜单。在这里你可以选择一些快速回复来答复你的队长：%1%2完成%1%2否定%1%2准备开火%1%2无法开火%1%2重复%1%2收到%1%2消灭一个%1%2你在哪？%1%2支援%1%2自定义 — 用于更加进阶的对话，例如请求支援%1%2无线电</Chinesesimp>
+        <Chinesesimp>作为下属单位需要快速回应时，按下%11来打开快速命令菜单。在这里你可以选择一些快速回复来答复你的队长：%1%2完成%1%2否定%1%2准备开火%1%2无法开火%1%2重复%1%2收到%1%2消灭一个%1%2你在哪？%1%2支援%1%2自定义—用于更加进阶的对话，例如请求支援%1%2无线电</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_response1">
         <Original>Command Responses</Original>
@@ -1152,7 +1152,7 @@
       <Key ID="str_a3_multiplayer_chat0">
         <Original>To communicate with other players you can use one of the three types of communications: Text, Voice and Map Markers. The communication is only broadcasted to a selected channel. Channels are:%1%2Global – to all players%1%2Side – to your faction%1%2Command – to your faction commanders%1%2Group – to your command group%1%2Vehicle – to players in the same vehicle%1%2Direct – to players in a close distance%1Cycle channels with %11, %12. </Original>
         <Chinese>你可以使用下列三種交流方式與其他玩家進行聯絡:文字，語音和地圖標記。交流內容只會在指定的頻道中進行。這些頻道是:%1%2公共-發送給所有玩家%1%2陣營-發送到我方陣營%1%2指揮-發送給己方陣營的指揮官%1%2小隊-發送給你所在的小隊成員%1%2載具-發送給與你在同一個載具中的玩家%1%2直接-發送給與你距離很近的玩家%1使用%11及%12按鍵來切換頻道。</Chinese>
-        <Chinesesimp>你可以使用下列三种交流方式与其他玩家进行联络：文字，语音和地图标记。交流内容只会在指定的频道中进行。这些频道是：%1%2公共 — 发送给所有玩家%1%2阵营 — 发送到我方阵营%1%2指挥 — 发送给己方阵营的指挥官%1%2小队 — 发送给你所在的小队成员%1%2载具 — 发送给与你在同一个载具中的玩家%1%2直接 — 发送给与你距离很近的玩家%1使用%11及%12按键来切换频道。</Chinesesimp>
+        <Chinesesimp>你可以使用下列三种交流方式与其他玩家进行联络：文字，语音和地图标记。交流内容只会在指定的频道中进行。这些频道是：%1%2公共—发送给所有玩家%1%2阵营—发送到我方阵营%1%2指挥—发送给己方阵营的指挥官%1%2小队—发送给你所在的小队成员%1%2载具—发送给与你在同一个载具中的玩家%1%2直接—发送给与你距离很近的玩家%1使用%11及%12按键来切换频道。</Chinesesimp>
       </Key>
       <Key ID="str_a3_multiplayer_chat1">
         <Original>Channels</Original>
@@ -1277,7 +1277,7 @@
       <Key ID="str_a3_rangefinder0">
         <Original>Use the rangefinder, hand-held or scope-integrated, to determine the distance to your target to engage it with better accuracy.%1%2Stadiametric RF - use reticle markings (mil-dots) to estimate the distance from the target.%1%2Digital (Laser) RF - Press %13 to measure the distance. %1Use %11 and %12 to adjust the weapon's zeroing accordingly.</Original>
         <Chinese>使用手持式或是瞄準鏡內建的測距儀來測量敵我間的距離，可以有效增加你的射擊精準度。%1%2瞄準鏡基線測距-使用瞄準鏡附的標線(密位點)來測量出敵人大致上的距離。%1%2數位式(雷射)測距儀-按下%13來量測距離。%1使用%11和%12來調整你武器的歸零距離到目標的距離上。</Chinese>
-        <Chinesesimp>使用手持式或是瞄准镜内建的测距仪来测量敌我间的距离，可以有效增加你的射击精准度。%1%2瞄准镜基线测距 — 使用瞄准镜附的标线(密位点)来测量出敌人大致上的距离。%1%2数位式（激光）测距仪 — 按下%13来量测距离。%1使用%11和%12来调整你武器的归零距离到目标的距离上。</Chinesesimp>
+        <Chinesesimp>使用手持式或是瞄准镜内建的测距仪来测量敌我间的距离，可以有效增加你的射击精准度。%1%2瞄准镜基线测距—使用瞄准镜附的标线(密位点)来测量出敌人大致上的距离。%1%2数位式（激光）测距仪—按下%13来量测距离。%1使用%11和%12来调整你武器的归零距离到目标的距离上。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Multiplayer_Text0">
         <Original>Text chat serves as one of the three forms of communicating with other players. It's displayed on the screen amongst the combat protocol.%1%2Open the text input with %11.%1%2Cycle the channels by pressing %3[UP]%4, %3[DOWN]%4.%1%2Send the message with %3[Enter]%4.</Original>
@@ -1427,7 +1427,7 @@
       <Key ID="str_a3_tactics_ammotype0">
         <Original>Artillery operates with several different ammo types: %1%2HE shells – simple explosive ammo.%1%2Flares – used for signaling.%1%2Smoke shells – for signaling or screening.%1%2Guided – heat seeking shells.%1%2Laser Guided – precise, guided by laser designation.</Original>
         <Chinese>火砲可以使用幾種不同類型的彈藥:%1%2高爆彈-簡單的爆炸彈藥。%1%2信號彈-用於發送信號。%1%2煙霧彈-用於發送信號或掩護。%1%2導引砲彈-追蹤熱訊號的砲彈。%1%2雷射導引砲彈-精準，受雷射導引。</Chinese>
-        <Chinesesimp>火炮可以使用几种不同类型的弹药：%1%2高爆弹 — 简单的爆炸弹药。%1%2信号弹 — 用于发送信号。%1%2烟雾弹 — 用于发送信号或掩护。%1%2制导炮弹 — 追踪热信号的炮弹。%1%2激光制导炮弹 — 精准，受激光制导。</Chinesesimp>
+        <Chinesesimp>火炮可以使用几种不同类型的弹药：%1%2高爆弹—简单的爆炸弹药。%1%2信号弹—用于发送信号。%1%2烟雾弹—用于发送信号或掩护。%1%2制导炮弹—追踪热信号的炮弹。%1%2激光制导炮弹—精准，受激光制导。</Chinesesimp>
       </Key>
       <Key ID="str_a3_tactics_ammotype1">
         <Original>Artillery Ammo Types</Original>
@@ -2078,7 +2078,7 @@
       <Key ID="str_a3_cfgmusic_track11_stageb_stealth20">
         <Original>The East Wind - Alternative 1</Original>
         <Chinese>東風-另類1</Chinese>
-        <Chinesesimp>东风 — 编曲1</Chinesesimp>
+        <Chinesesimp>东风—编曲1</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_track15_maintheme_a">
         <Original>This Is War a</Original>
@@ -2093,7 +2093,7 @@
       <Key ID="str_a3_cfgmusic_track11_stageb_stealth30">
         <Original>The East Wind - Alternative 2</Original>
         <Chinese>東風-另類2</Chinese>
-        <Chinesesimp>东风 — 编曲2</Chinesesimp>
+        <Chinesesimp>东风—编曲2</Chinesesimp>
       </Key>
     </Container>
     <Container name="Misc_F">
@@ -4660,27 +4660,27 @@
           <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_tracer_red1">
             <Original>Caliber: 5.56x45 mm STANAG Tracers - Red&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: TRG-20, TRG-21/EGLM, Mk20/C/EGLM, SDAR, SPAR-16</Original>
             <Chinese>口徑:5.56x45公厘北約標準曳光彈-紅色&lt;br/&gt;發數:30&lt;br/&gt;使用於:TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinese>
-            <Chinesesimp>口径：5.56x45mm 北约标准曳光弹 — 红色&lt;br/&gt;发数：30&lt;br/&gt;使用于：TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinesesimp>
+            <Chinesesimp>口径：5.56x45mm 北约标准曳光弹—红色&lt;br/&gt;发数：30&lt;br/&gt;使用于：TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_tracer_yellow1">
             <Original>Caliber: 5.56x45 mm STANAG Tracers - Yellow&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: TRG-20, TRG-21/EGLM, Mk20/C/EGLM, SDAR, SPAR-16</Original>
             <Chinese>口徑:5.56x45公厘北約標準曳光彈-黃色&lt;br/&gt;發數:30&lt;br/&gt;使用於:TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinese>
-            <Chinesesimp>口径：5.56x45mm 北约标准曳光弹 — 黄色&lt;br/&gt;发数：30&lt;br/&gt;使用于：TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinesesimp>
+            <Chinesesimp>口径：5.56x45mm 北约标准曳光弹—黄色&lt;br/&gt;发数：30&lt;br/&gt;使用于：TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1000rnd_65x39_belt_tracer_red1">
             <Original>Caliber: 6.5x39 mm Tracer - Red&lt;br /&gt;Rounds: 1000&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-紅色&lt;br/&gt;發數:1000&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹 — 红色&lt;br/&gt;发数：1000&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：6.5x39mm 曳光弹—红色&lt;br/&gt;发数：1000&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1000rnd_65x39_belt_tracer_yellow1">
             <Original>Caliber: 6.5x39 mm Tracer - Yellow&lt;br /&gt;Rounds: 1000&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-黃色&lt;br/&gt;發數:1000&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹 — 黄色&lt;br/&gt;发数：1000&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：6.5x39mm 曳光弹—黄色&lt;br/&gt;发数：1000&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_tracer_green1">
             <Original>Caliber: 5.56x45 mm STANAG Tracers - Green&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: TRG-20, TRG-21/EGLM, Mk20/C/EGLM, SDAR, SPAR-16</Original>
             <Chinese>口徑:5.56x45公厘北約標準曳光彈-綠色&lt;br/&gt;發數:30&lt;br/&gt;使用於:TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinese>
-            <Chinesesimp>口径：5.56x45mm 北约标准曳光弹 — 绿色&lt;br/&gt;发数：30&lt;br/&gt;使用于：TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinesesimp>
+            <Chinesesimp>口径：5.56x45mm 北约标准曳光弹—绿色&lt;br/&gt;发数：30&lt;br/&gt;使用于：TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1000rnd_65x39_belt1">
             <Original>Caliber: 6.5x39 mm&lt;br /&gt;Rounds: 1000&lt;br /&gt;Used in: Vehicles</Original>
@@ -4690,27 +4690,27 @@
           <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_green1">
             <Original>Caliber: 12.7x99 mm Tracer - Green&lt;br/&gt;Rounds: 100&lt;br /&gt;Used in: Mounted M2</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-綠色&lt;br/&gt;發數:100&lt;br/&gt;使用於:M2機槍</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹 — 绿色&lt;br/&gt;发数：100&lt;br/&gt;使用于：M2机枪</Chinesesimp>
+            <Chinesesimp>口径：12.7x99mm 曳光弹—绿色&lt;br/&gt;发数：100&lt;br/&gt;使用于：M2机枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_red1">
             <Original>Caliber: 12.7x99 mm Tracer - Red&lt;br/&gt;Rounds: 100&lt;br /&gt;Used in: Mounted M2</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-紅色&lt;br/&gt;發數:100&lt;br/&gt;使用於:M2機槍</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹 — 红色&lt;br/&gt;发数：100&lt;br/&gt;使用于：M2机枪</Chinesesimp>
+            <Chinesesimp>口径：12.7x99mm 曳光弹—红色&lt;br/&gt;发数：100&lt;br/&gt;使用于：M2机枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_yellow1">
             <Original>Caliber: 12.7x99 mm Tracer - Yellow&lt;br/&gt;Rounds: 100&lt;br /&gt;Used in: Mounted M2</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-黃色&lt;br/&gt;發數:100&lt;br/&gt;使用於:M2機槍</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹 — 黄色&lt;br/&gt;发数：100&lt;br/&gt;使用于：M2机枪</Chinesesimp>
+            <Chinesesimp>口径：12.7x99mm 曳光弹—黄色&lt;br/&gt;发数：100&lt;br/&gt;使用于：M2机枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1000rnd_65x39_belt_tracer_green1">
             <Original>Caliber: 6.5x39 mm Tracer - Red&lt;br /&gt;Rounds: 1000&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-紅色&lt;br/&gt;發數:1000&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹 — 红色&lt;br/&gt;发数：1000&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：6.5x39mm 曳光弹—红色&lt;br/&gt;发数：1000&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_100Rnd_65x39_belt_tracer_red1">
             <Original>Caliber: 6.5x39 mm Tracer - Red&lt;br /&gt;Rounds: 100&lt;br /&gt;Used in: MX SW</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-紅色&lt;br/&gt;發數:100&lt;br/&gt;使用於:MX/C/M/3GL</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹 — 红色&lt;br/&gt;发数：100&lt;br/&gt;使用于：MX/C/M/3GL</Chinesesimp>
+            <Chinesesimp>口径：6.5x39mm 曳光弹—红色&lt;br/&gt;发数：100&lt;br/&gt;使用于：MX/C/M/3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag1">
             <Original>Caliber: 1.27x99 mm NATO&lt;br/&gt;Rounds: 100&lt;br /&gt;Used in: Mounted M2</Original>
@@ -4735,7 +4735,7 @@
           <Key ID="str_a3_cfgmagazines_1rnd_smoke_grenade_shell1">
             <Original>Type: Smoke Round - White&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:煙霧彈-白&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 白色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—白色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_65x39_belt1">
             <Original>Caliber: 6.5x39 mm ‒ Caseless&lt;br /&gt;Rounds: 100&lt;br /&gt;Used in: MX SW</Original>
@@ -4745,47 +4745,47 @@
           <Key ID="str_a3_cfgmagazines_1rnd_smokeblue_grenade_shell1">
             <Original>Type: Smoke Round - Blue&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:煙霧彈-藍&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 蓝色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—蓝色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1rnd_smokeorange_grenade_shell1">
             <Original>Type: Smoke Round - Orange&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:煙霧彈-橘&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 橘色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—橘色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1rnd_smokepurple_grenade_shell1">
             <Original>Type: Smoke Round - Purple&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:煙霧彈-紫&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 紫色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—紫色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1rnd_smokered_grenade_shell1">
             <Original>Type: Smoke Round - Red&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:煙霧彈-紅色&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 红色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—红色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1rnd_smokeyellow_grenade_shell1">
             <Original>Type: Smoke Round - Yellow&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:煙霧彈-黃色&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 黄色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—黄色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_2000rnd_65x39_belt_tracer_green1">
             <Original>Caliber: 6.5x39 mm Tracer - Green&lt;br /&gt;Rounds: 2000&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-綠色&lt;br/&gt;發數:2000&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹 — 绿色&lt;br/&gt;发数：2000&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：6.5x39mm 曳光弹—绿色&lt;br/&gt;发数：2000&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_2000rnd_65x39_belt_tracer_red1">
             <Original>Caliber: 6.5x39 mm Tracer - Red&lt;br /&gt;Rounds: 2000&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-紅色&lt;br/&gt;發數:2000&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹 — 红色&lt;br/&gt;发数：2000&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：6.5x39mm 曳光弹—红色&lt;br/&gt;发数：2000&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_2000rnd_65x39_belt_tracer_yellow1">
             <Original>Caliber: 6.5x39 mm Tracer - Yellow&lt;br /&gt;Rounds: 2000&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-黃色&lt;br/&gt;發數:2000&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹 — 黄色&lt;br/&gt;发数：2000&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：6.5x39mm 曳光弹—黄色&lt;br/&gt;发数：2000&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1rnd_smokegreen_grenade_shell1">
             <Original>Type: Smoke Round - Green&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:煙霧彈-綠色&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 绿色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—绿色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_2000rnd_762x45_belt1">
             <Original>Caliber: 7.62x51 mm&lt;br /&gt;Rounds: 2000&lt;br /&gt;Used in: AH-9</Original>
@@ -4795,17 +4795,17 @@
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_green1">
             <Original>Caliber: 12.7x99 mm Tracer - Green&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: RCWS</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-綠色&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹 — 绿色&lt;br/&gt;发数：200&lt;br/&gt;使用于：遥控武器站</Chinesesimp>
+            <Chinesesimp>口径：12.7x99mm 曳光弹—绿色&lt;br/&gt;发数：200&lt;br/&gt;使用于：遥控武器站</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_red1">
             <Original>Caliber: 12.7x99 mm Tracer - Red&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: RCWS</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-紅色&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹 — 红色&lt;br/&gt;发数：200&lt;br/&gt;使用于：遥控武器站</Chinesesimp>
+            <Chinesesimp>口径：12.7x99mm 曳光弹—红色&lt;br/&gt;发数：200&lt;br/&gt;使用于：遥控武器站</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_yellow1">
             <Original>Caliber: 12.7x99 mm Tracer - Yellow&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: RCWS</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-黃色&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹 — 黄色&lt;br/&gt;发数：200&lt;br/&gt;使用于：遥控武器站</Chinesesimp>
+            <Chinesesimp>口径：12.7x99mm 曳光弹—黄色&lt;br/&gt;发数：200&lt;br/&gt;使用于：遥控武器站</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_2000rnd_65x39_belt1">
             <Original>Caliber: 6.5x39 mm&lt;br /&gt;Rounds: 2000&lt;br /&gt;Used in: Vehicles</Original>
@@ -4825,17 +4825,17 @@
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_belt_tracer_green1">
             <Original>Caliber: 6.5x39 mm Tracer - Green&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: Mk200</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-綠色&lt;br/&gt;發數:200&lt;br/&gt;使用於:Mk200</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹 — 绿色&lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
+            <Chinesesimp>口径：6.5x39mm 曳光弹—绿色&lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_belt_tracer_red1">
             <Original>Caliber: 6.5x39 mm Tracer - Red&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: Mk200</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-紅色&lt;br/&gt;發數:200&lt;br/&gt;使用於:Mk200</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹 — 红色&lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
+            <Chinesesimp>口径：6.5x39mm 曳光弹—红色&lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_belt_tracer_yellow1">
             <Original>Caliber: 6.5x39 mm Tracer - Yellow&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: Mk200</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-黃色&lt;br/&gt;發數:200&lt;br/&gt;使用於:Mk200</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹 — 黄色&lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
+            <Chinesesimp>口径：6.5x39mm 曳光弹—黄色&lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag1">
             <Original>Caliber: 12.7x99 mm NATO&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: RCWS</Original>
@@ -4845,7 +4845,7 @@
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_box_tracer_red1">
             <Original>Caliber: 6.5x39 mm Tracer - Green&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: Mk200</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-綠色&lt;br/&gt;發數:200&lt;br/&gt;使用於:Mk200</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹 — 绿色&lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
+            <Chinesesimp>口径：6.5x39mm 曳光弹—绿色&lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_belt1">
             <Original>Caliber: 6.5x39 mm&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: Vehicles</Original>
@@ -4895,7 +4895,7 @@
           <Key ID="str_a3_cfgmagazines_30rnd_65x39_mag_tracer_red1">
             <Original>Caliber: 6.5x39 mm Tracer - Red&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: MX/C/M/SW/3GL</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-紅色&lt;br/&gt;發數:30&lt;br/&gt;使用於:MX/C/M/SW/3GL</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹 — 红色&lt;br/&gt;发数：30&lt;br/&gt;使用于：MX/C/M/SW/3GL</Chinesesimp>
+            <Chinesesimp>口径：6.5x39mm 曳光弹—红色&lt;br/&gt;发数：30&lt;br/&gt;使用于：MX/C/M/SW/3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_65x39_mag1">
             <Original>Caliber: 6.5x39 mm ‒ STANAG Caseless&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: MX/C/M/SW/3GL</Original>
@@ -4910,7 +4910,7 @@
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag_smg_01_tracer_green1">
             <Original>Caliber: .45 ACP Tracers - Green&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Vermin SMG</Original>
             <Chinese>口徑:.45ACP口徑曳光彈-綠色&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
-            <Chinesesimp>口径：.45ACP 口径曳光弹 — 绿色&lt;br/&gt;发数：30&lt;br/&gt;使用于：VerminSMG</Chinesesimp>
+            <Chinesesimp>口径：.45ACP 口径曳光弹—绿色&lt;br/&gt;发数：30&lt;br/&gt;使用于：VerminSMG</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag2">
             <Original>Caliber: 9x21 mm&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Sting, Protector</Original>
@@ -4925,7 +4925,7 @@
           <Key ID="str_a3_cfgmagazines_3rnd_smoke_grenade_shell1">
             <Original>Type: Smoke Rounds - White &lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 3GL</Original>
             <Chinese>類型:煙霧彈-白&lt;br/&gt;發數:3&lt;br/&gt;使用於:3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 白色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—白色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag_smg_011">
             <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Vermin SMG</Original>
@@ -4935,62 +4935,62 @@
           <Key ID="str_a3_cfgmagazines_3rnd_smokeblue_grenade_shell1">
             <Original>Type: Smoke Rounds - Blue&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 3GL</Original>
             <Chinese>類型:煙霧彈-藍&lt;br/&gt;發數:3&lt;br/&gt;使用於:3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 蓝色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—蓝色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_3rnd_smokeorange_grenade_shell1">
             <Original>Type: Smoke Rounds - Orange&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 3GL</Original>
             <Chinese>類型:煙霧彈-橘&lt;br/&gt;發數:3&lt;br/&gt;使用於:3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 橘色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—橘色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_3rnd_smokepurple_grenade_shell1">
             <Original>Type: Smoke Rounds - Purple&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 3GL</Original>
             <Chinese>類型:煙霧彈-紫&lt;br/&gt;發數:3&lt;br/&gt;使用於:3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 紫色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—紫色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_3rnd_smokered_grenade_shell1">
             <Original>Type: Smoke Rounds - Red&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 3GL</Original>
             <Chinese>類型:煙霧彈-紅色&lt;br/&gt;發數:3&lt;br/&gt;使用於:3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 红色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—红色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_3rnd_smokeyellow_grenade_shell1">
             <Original>Type: Smoke Rounds - Yellow&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 3GL</Original>
             <Chinese>類型:煙霧彈-黃色&lt;br/&gt;發數:3&lt;br/&gt;使用於:3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 黄色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—黄色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
           </Key>
           <Key ID="STR_a3_cfgmagazines_3rnd_ugl_flarecir_f1">
             <Original>Type: Flare Rounds - IR&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 3GL</Original>
             <Chinese>類型:信號彈-紅外線&lt;br/&gt;發數:3&lt;br/&gt;使用於:3GL</Chinese>
-            <Chinesesimp>类型：照明弹 — 红外线&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
+            <Chinesesimp>类型：照明弹—红外线&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
           </Key>
           <Key ID="STR_a3_cfgmagazines_3rnd_ugl_flaregreen_f1">
             <Original>Type: Flare Rounds - Green&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 3GL</Original>
             <Chinese>類型:信號彈-綠色&lt;br/&gt;發數:3&lt;br/&gt;使用於:3GL</Chinese>
-            <Chinesesimp>类型：照明弹 — 绿色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
+            <Chinesesimp>类型：照明弹—绿色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
           </Key>
           <Key ID="STR_a3_cfgmagazines_3rnd_ugl_flarered_f1">
             <Original>Type: Flare Rounds - Red&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 3GL</Original>
             <Chinese>類型:信號彈-紅色&lt;br/&gt;發數:3&lt;br/&gt;使用於:3GL</Chinese>
-            <Chinesesimp>类型：照明弹 — 红色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
+            <Chinesesimp>类型：照明弹—红色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
           </Key>
           <Key ID="STR_a3_cfgmagazines_3rnd_ugl_flarewhite_f1">
             <Original>Type: Flare Rounds - White&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 3GL</Original>
             <Chinese>類型:信號彈-白&lt;br/&gt;發數:3&lt;br/&gt;使用於:3GL</Chinese>
-            <Chinesesimp>类型：照明弹 — 白色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
+            <Chinesesimp>类型：照明弹—白色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
           </Key>
           <Key ID="STR_a3_cfgmagazines_3rnd_ugl_flareyellow_f1">
             <Original>Type: Flare Rounds - Yellow&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 3GL</Original>
             <Chinese>類型:信號彈-黃色&lt;br/&gt;發數:3&lt;br/&gt;使用於:3GL</Chinese>
-            <Chinesesimp>类型：照明弹 — 黄色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
+            <Chinesesimp>类型：照明弹—黄色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_3rnd_smokegreen_grenade_shell1">
             <Original>Type: Smoke Rounds - Green&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 3GL</Original>
             <Chinese>類型:煙霧彈-綠色&lt;br/&gt;發數:3&lt;br/&gt;使用於:3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 绿色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—绿色&lt;br/&gt;发数：3&lt;br/&gt;使用于：3GL</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_30RND_9X21_MAG_SMG_01_TRACER_RED1">
             <Original>Caliber: .45 ACP Tracers - Red&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Vermin SMG</Original>
             <Chinese>口徑:.45ACP曳光彈-紅色&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
-            <Chinesesimp>口径：.45ACP 曳光弹 — 红色&lt;br/&gt;发数：30&lt;br/&gt;使用于：VerminSMG</Chinesesimp>
+            <Chinesesimp>口径：.45ACP 曳光弹—红色&lt;br/&gt;发数：30&lt;br/&gt;使用于：VerminSMG</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_40rnd_20mm_g_belt1">
             <Original>Caliber: 20 mm&lt;br/&gt;Rounds: 40&lt;br /&gt;Used in: Grenade Launcher</Original>
@@ -5000,22 +5000,22 @@
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag_tracer_green1">
             <Original>Caliber: 12.7x99 mm Tracer - Green&lt;br/&gt;Rounds: 500&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-綠色&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹 — 绿色&lt;br/&gt;发数：500&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：12.7x99mm 曳光弹—绿色&lt;br/&gt;发数：500&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag_tracer_red1">
             <Original>Caliber: 12.7x99 mm Tracer - Red&lt;br/&gt;Rounds: 500&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-紅色&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹 — 红色&lt;br/&gt;发数：500&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：12.7x99mm 曳光弹—红色&lt;br/&gt;发数：500&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag_tracer_yellow1">
             <Original>Caliber: 12.7x99 mm Tracer - Yellow&lt;br/&gt;Rounds: 500&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-黃色&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹 — 黄色&lt;br/&gt;发数：500&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：12.7x99mm 曳光弹—黄色&lt;br/&gt;发数：500&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_30RND_9X21_MAG_SMG_01_TRACER_YELLOW1">
             <Original>Caliber: .45 ACP Tracers - Yellow&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Vermin SMG</Original>
             <Chinese>口徑:.45ACP曳光彈-黃色&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
-            <Chinesesimp>口径：.45ACP 曳光弹 — 黄色&lt;br/&gt;发数：30&lt;br/&gt;使用于：VerminSMG</Chinesesimp>
+            <Chinesesimp>口径：.45ACP 曳光弹—黄色&lt;br/&gt;发数：30&lt;br/&gt;使用于：VerminSMG</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_5rnd_127x108_mag1">
             <Original>Caliber: 12.7x108 mm Russian&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: GM6 Lynx</Original>
@@ -5040,22 +5040,22 @@
           <Key ID="str_a3_cfgmagazines_flaregreen_f1">
             <Original>Type: Flare Round - Green&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Flare Gun</Original>
             <Chinese>類型:信號彈-綠色&lt;br/&gt;發數:1&lt;br/&gt;使用於:信號槍</Chinese>
-            <Chinesesimp>类型：照明弹 — 绿色&lt;br/&gt;发数：1&lt;br/&gt;使用于：信号枪</Chinesesimp>
+            <Chinesesimp>类型：照明弹—绿色&lt;br/&gt;发数：1&lt;br/&gt;使用于：信号枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_flarered_f1">
             <Original>Type: Flare Rounds - Red&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Flare Gun</Original>
             <Chinese>類型:信號彈-紅色&lt;br/&gt;發數:1&lt;br/&gt;使用於:信號槍</Chinese>
-            <Chinesesimp>类型：照明弹 — 红色&lt;br/&gt;发数：1&lt;br/&gt;使用于：信号枪</Chinesesimp>
+            <Chinesesimp>类型：照明弹—红色&lt;br/&gt;发数：1&lt;br/&gt;使用于：信号枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_flarewhite_f1">
             <Original>Type: Flare Rounds - White&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Flare Gun</Original>
             <Chinese>類型:信號彈-白&lt;br/&gt;發數:1&lt;br/&gt;使用於:信號槍</Chinese>
-            <Chinesesimp>类型：照明弹 — 白色&lt;br/&gt;发数：1&lt;br/&gt;使用于：信号枪</Chinesesimp>
+            <Chinesesimp>类型：照明弹—白色&lt;br/&gt;发数：1&lt;br/&gt;使用于：信号枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_flareyellow_f1">
             <Original>Type: Flare Rounds - Yellow&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Flare Gun</Original>
             <Chinese>類型:信號彈-黃色&lt;br/&gt;發數:1&lt;br/&gt;使用於:信號槍</Chinese>
-            <Chinesesimp>类型：照明弹 — 黄色&lt;br/&gt;发数：1&lt;br/&gt;使用于：信号枪</Chinesesimp>
+            <Chinesesimp>类型：照明弹—黄色&lt;br/&gt;发数：1&lt;br/&gt;使用于：信号枪</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgmagazines_gbu121">
             <Original>Type: Laser-Guided Bomb Rounds: 2 Used in: F35F, L159</Original>
@@ -5080,17 +5080,17 @@
           <Key ID="str_a3_cfgmagazines_chemlight1">
             <Original>Type: Light - Green&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
             <Chinese>類型:光-綠色&lt;br/&gt;發數:1&lt;br/&gt;使用於:手</Chinese>
-            <Chinesesimp>类型：荧光棒 — 绿色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
+            <Chinesesimp>类型：荧光棒—绿色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_chemlight_blue1">
             <Original>Type: Light - Blue&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
             <Chinese>類型:光-藍&lt;br/&gt;發數:1&lt;br/&gt;使用於:手</Chinese>
-            <Chinesesimp>类型：荧光棒 — 蓝&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
+            <Chinesesimp>类型：荧光棒—蓝&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_chemlight_red1">
             <Original>Type: Light - Red&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
             <Chinese>類型:光-紅色&lt;br/&gt;發數:1&lt;br/&gt;使用於:手</Chinese>
-            <Chinesesimp>类型：荧光棒 — 红色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
+            <Chinesesimp>类型：荧光棒—红色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_laserbatteries1">
             <Original>Batteries for Laser Designator&lt;br /&gt;Does not fit into NVG&lt;br /&gt;Recycle after use.</Original>
@@ -5120,67 +5120,67 @@
           <Key ID="str_a3_cfgmagazines_smokeshell1">
             <Original>Type: Smoke Grenade - White&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
             <Chinese>類型:煙霧彈-白&lt;br/&gt;發數:1&lt;br/&gt;使用於:手</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 白色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—白色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_smokeshellblue1">
             <Original>Type: Smoke Grenade - Blue&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
             <Chinese>類型:煙霧彈-藍&lt;br/&gt;發數:1&lt;br/&gt;使用於:手</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 蓝色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—蓝色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_smokeshellgreen1">
             <Original>Type: Smoke Grenade - Green&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
             <Chinese>類型:煙霧彈-綠色&lt;br/&gt;發數:1&lt;br/&gt;使用於:手</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 绿色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—绿色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_smokeshellorange1">
             <Original>Type: Smoke Grenade - Orange&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
             <Chinese>類型:煙霧彈-橘&lt;br/&gt;發數:1&lt;br/&gt;使用於:手</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 橘色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—橘色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_smokeshellpurple1">
             <Original>Type: Smoke Grenade - Purple&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
             <Chinese>類型:煙霧彈-紫&lt;br/&gt;發數:1&lt;br/&gt;使用於:手</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 紫色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—紫色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_smokeshellred1">
             <Original>Type: Smoke Grenade - Red&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
             <Chinese>類型:煙霧彈-紅色&lt;br/&gt;發數:1&lt;br/&gt;使用於:手</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 红色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—红色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_smokeshellyellow1">
             <Original>Type: Smoke Grenade - Yellow&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
             <Chinese>類型:煙霧彈-黃色&lt;br/&gt;發數:1&lt;br/&gt;使用於:手</Chinese>
-            <Chinesesimp>类型：烟雾弹 — 黄色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—黄色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_ugl_flarecir_f1">
             <Original>Type: Flare - IR&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:信號彈-紅外線&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：照明弹 — 红外线&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：照明弹—红外线&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_ugl_flaregreen_f1">
             <Original>Type: Flare - Green&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:信號彈-綠色&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：照明弹 — 绿色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：照明弹—绿色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_ugl_flarered_f1">
             <Original>Type: Flare - Red&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:信號彈-紅色&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：照明弹 — 红色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：照明弹—红色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_ugl_flarewhite_f1">
             <Original>Type: Flare Round - White &lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:信號彈-白&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：照明弹 — 白色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：照明弹—白色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_ugl_flareyellow_f1">
             <Original>Type: Flare - Yellow&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:信號彈-黃色&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：照明弹 — 黄色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：照明弹—黄色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_chemlight_yellow1">
             <Original>Type: Light - Yellow&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
             <Chinese>類型:光-黃色&lt;br/&gt;發數:1&lt;br/&gt;使用於:手</Chinese>
-            <Chinesesimp>类型：光 — 黄色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
+            <Chinesesimp>类型：光—黄色&lt;br/&gt;发数：1&lt;br/&gt;使用于：手</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_smokeshellgreen_dns">
             <Original>Green Smoke</Original>
@@ -5514,7 +5514,7 @@
           <Key ID="str_a3_cfgweapons_toolkit1">
             <Original>Enables repair of vehicles - Engineer&lt;br/&gt;Enables deactivating explosives - Demo expert</Original>
             <Chinese>允許維修車輛-維修專精兵&lt;br/&gt;允許拆除炸藥-爆破專精兵</Chinese>
-            <Chinesesimp>允许维修车辆 — 维修专业兵&lt;br/&gt;允许拆除炸药 — 爆破专精兵</Chinesesimp>
+            <Chinesesimp>允许维修车辆—维修专业兵&lt;br/&gt;允许拆除炸药—爆破专精兵</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_test_emptyobjectforfirebig0">
             <Original>Fire</Original>
@@ -6311,7 +6311,7 @@
           <Key ID="str_a3_commoner_clothes_redwhite_0">
             <Original>Commoner Clothes (Red-White)</Original>
             <Chinese>普通人衣服(紅-白)</Chinese>
-            <Chinesesimp>普通人衣服（红 — 白）</Chinesesimp>
+            <Chinesesimp>普通人衣服（红—白）</Chinesesimp>
           </Key>
           <Key ID="str_a3_commoner_clothes_salmon_0">
             <Original>Commoner Clothes (Salmon)</Original>
@@ -7099,7 +7099,7 @@
         <Key ID="str_a3_takistaniwomen_lastnames42">
           <Original>Ahmed-Jan</Original>
           <Chinese>艾哈邁德-喬</Chinese>
-          <Chinesesimp>艾哈迈德 — 乔</Chinesesimp>
+          <Chinesesimp>艾哈迈德—乔</Chinesesimp>
         </Key>
         <Key ID="str_a3_afromen_firstnames18">
           <Original>Mobutu</Original>
@@ -7324,7 +7324,7 @@
         <Key ID="str_a3_afromen_lastnames12">
           <Original>Sesse-Seko</Original>
           <Chinese>塞西-賽克</Chinese>
-          <Chinesesimp>塞西 — 赛克</Chinesesimp>
+          <Chinesesimp>塞西—赛克</Chinesesimp>
         </Key>
         <Key ID="str_a3_takistaniwomen_lastnames21">
           <Original>Adel</Original>
@@ -7459,7 +7459,7 @@
         <Key ID="str_a3_takistaniwomen_lastnames1">
           <Original>Ahmed-Khan</Original>
           <Chinese>艾赫邁德-汗</Chinese>
-          <Chinesesimp>艾赫迈德 — 汗</Chinesesimp>
+          <Chinesesimp>艾赫迈德—汗</Chinesesimp>
         </Key>
         <Key ID="str_a3_afromen_lastnames25">
           <Original>Sununu</Original>
@@ -8079,7 +8079,7 @@
         <Key ID="str_a3_takistanimen_lastnames42">
           <Original>Ahmed-Jan</Original>
           <Chinese>艾哈邁德-喬</Chinese>
-          <Chinesesimp>艾哈迈德 — 乔</Chinesesimp>
+          <Chinesesimp>艾哈迈德—乔</Chinesesimp>
         </Key>
         <Key ID="str_a3_asianmen_lastnames6">
           <Original>Il</Original>
@@ -8439,7 +8439,7 @@
         <Key ID="str_a3_takistanimen_lastnames1">
           <Original>Ahmed-Khan</Original>
           <Chinese>艾赫邁德-汗</Chinese>
-          <Chinesesimp>艾赫迈德 — 汗</Chinesesimp>
+          <Chinesesimp>艾赫迈德—汗</Chinesesimp>
         </Key>
         <Key ID="str_a3_civmen_firstnames16">
           <Original>Gavin</Original>
@@ -8659,7 +8659,7 @@
         <Key ID="str_a3_takistanimen_firstnames34">
           <Original>Abdul-Wahhab</Original>
           <Chinese>阿卜杜爾-瓦哈卜</Chinese>
-          <Chinesesimp>阿卜杜尔 — 瓦哈卜</Chinesesimp>
+          <Chinesesimp>阿卜杜尔—瓦哈卜</Chinesesimp>
         </Key>
         <Key ID="str_a3_civmen_firstnames36">
           <Original>Logan</Original>
@@ -8669,7 +8669,7 @@
         <Key ID="str_a3_takistanimen_firstnames33">
           <Original>Abdul-Qadir</Original>
           <Chinese>阿卜杜爾-卡迪爾</Chinese>
-          <Chinesesimp>阿卜杜尔 — 卡迪尔</Chinesesimp>
+          <Chinesesimp>阿卜杜尔—卡迪尔</Chinesesimp>
         </Key>
         <Key ID="str_a3_civmen_firstnames37">
           <Original>Luigi</Original>
@@ -8689,7 +8689,7 @@
         <Key ID="str_a3_takistanimen_firstnames31">
           <Original>Abdul-Mussawir</Original>
           <Chinese>阿卜杜爾-穆薩維爾</Chinese>
-          <Chinesesimp>阿卜杜尔 — 穆萨维尔</Chinesesimp>
+          <Chinesesimp>阿卜杜尔—穆萨维尔</Chinesesimp>
         </Key>
         <Key ID="str_a3_civmen_firstnames39">
           <Original>Martin</Original>
@@ -8699,7 +8699,7 @@
         <Key ID="str_a3_takistanimen_firstnames30">
           <Original>Abdul-Basir</Original>
           <Chinese>阿卜杜爾-巴沙爾</Chinese>
-          <Chinesesimp>阿卜杜尔 — 巴沙尔</Chinesesimp>
+          <Chinesesimp>阿卜杜尔—巴沙尔</Chinesesimp>
         </Key>
         <Key ID="str_a3_civmen_firstnames4">
           <Original>Ali</Original>
@@ -8889,7 +8889,7 @@
         <Key ID="str_a3_takistanimen_firstnames13">
           <Original>Abdul-Latif</Original>
           <Chinese>阿卜杜爾-拉蒂夫</Chinese>
-          <Chinesesimp>阿卜杜尔 — 拉蒂夫</Chinesesimp>
+          <Chinesesimp>阿卜杜尔—拉蒂夫</Chinesesimp>
         </Key>
         <Key ID="str_a3_civmen_firstnames57">
           <Original>Xavier</Original>
@@ -8939,7 +8939,7 @@
         <Key ID="str_a3_takistanimen_firstnames0">
           <Original>Abdul-Aziz</Original>
           <Chinese>阿卜杜爾-阿齊茲</Chinese>
-          <Chinesesimp>阿卜杜尔 — 阿齐兹</Chinesesimp>
+          <Chinesesimp>阿卜杜尔—阿齐兹</Chinesesimp>
         </Key>
         <Key ID="str_a3_civmen_firstnames61">
           <Original>Achilleas</Original>
@@ -15304,7 +15304,7 @@
         <Key ID="str_a3_requesting_support___grid___1">
           <Original>Requesting support - Grid: %1</Original>
           <Chinese>請求支援-座標:%1</Chinese>
-          <Chinesesimp>请求支援 — 座标：%1</Chinesesimp>
+          <Chinesesimp>请求支援—座标：%1</Chinesesimp>
         </Key>
         <Key ID="str_a3_requesting_supply_drop_at_the_transmitted_coordinates__over_">
           <Original>Requesting supply drop at the transmitted coordinates. Over.</Original>
@@ -15459,7 +15459,7 @@
         <Key ID="str_a3__munit___move___grid___mgrid">
           <Original>%1 - Move - Grid: %2</Original>
           <Chinese>%1-移動-座標:%2</Chinese>
-          <Chinesesimp>%1-移动 — 座标：%2</Chinesesimp>
+          <Chinesesimp>%1-移动—座标：%2</Chinesesimp>
         </Key>
         <Key ID="str_a3_mine_detected">
           <Original>Mine detected</Original>
@@ -15539,7 +15539,7 @@
         <Key ID="str_a3_formation___wedge">
           <Original>Formation - Wedge</Original>
           <Chinese>隊形-楔形</Chinese>
-          <Chinesesimp>队形 — 楔形</Chinesesimp>
+          <Chinesesimp>队形—楔形</Chinesesimp>
         </Key>
         <Key ID="str_a3_formation___vee">
           <Original>Formation - Vee</Original>
@@ -15549,37 +15549,37 @@
         <Key ID="str_a3_formation___staggered_col_">
           <Original>Formation - Staggered col.</Original>
           <Chinese>隊形-雙縱隊形。</Chinese>
-          <Chinesesimp>队形 — 双纵队形。</Chinesesimp>
+          <Chinesesimp>队形—双纵队形。</Chinesesimp>
         </Key>
         <Key ID="str_a3_formation___line">
           <Original>Formation - Line</Original>
           <Chinese>隊形-一字隊形</Chinese>
-          <Chinesesimp>队形 — 一字队形</Chinesesimp>
+          <Chinesesimp>队形—一字队形</Chinesesimp>
         </Key>
         <Key ID="str_a3_formation___file">
           <Original>Formation - File</Original>
           <Chinese>隊形-緊湊縱隊</Chinese>
-          <Chinesesimp>队形 — 紧凑纵队</Chinesesimp>
+          <Chinesesimp>队形—紧凑纵队</Chinesesimp>
         </Key>
         <Key ID="str_a3_formation___echelon_r_">
           <Original>Formation - Echelon R.</Original>
           <Chinese>隊形-右梯隊形</Chinese>
-          <Chinesesimp>队形 — 右梯队形</Chinesesimp>
+          <Chinesesimp>队形—右梯队形</Chinesesimp>
         </Key>
         <Key ID="str_a3_formation___echelon_l_">
           <Original>Formation - Echelon L.</Original>
           <Chinese>隊形-左梯隊形</Chinese>
-          <Chinesesimp>队形 — 左梯队形</Chinesesimp>
+          <Chinesesimp>队形—左梯队形</Chinesesimp>
         </Key>
         <Key ID="str_a3_formation___diamond">
           <Original>Formation - Diamond</Original>
           <Chinese>隊形-菱形隊形</Chinese>
-          <Chinesesimp>队形 — 菱形队形</Chinesesimp>
+          <Chinesesimp>队形—菱形队形</Chinesesimp>
         </Key>
         <Key ID="str_a3_formation___column">
           <Original>Formation - Column</Original>
           <Chinese>隊形-單縱隊形</Chinese>
-          <Chinesesimp>队形 — 单纵队形</Chinesesimp>
+          <Chinesesimp>队形—单纵队形</Chinesesimp>
         </Key>
         <Key ID="str_a3_fire_in_the_hole_">
           <Original>Fire in the hole!</Original>
@@ -15849,7 +15849,7 @@
         <Key ID="str_a3___1___requesting_support___grid___2">
           <Original>%1 - Requesting support - Grid: %2</Original>
           <Chinese>%1-請求支援-座標:%2</Chinese>
-          <Chinesesimp>%1-请求支援 — 座标：%2</Chinesesimp>
+          <Chinesesimp>%1-请求支援—座标：%2</Chinesesimp>
         </Key>
         <Key ID="str_a3___1___repair____2">
           <Original>%1 - Repair - %2</Original>
@@ -15954,7 +15954,7 @@
         <Key ID="str_a3___1_1___take_magazine___grid___2">
           <Original>%1.1 - Take magazine - Grid: %2</Original>
           <Chinese>%1.1-拿取彈匣-座標:%2</Chinese>
-          <Chinesesimp>%1.1-拿取弹匣 — 座标：%2</Chinesesimp>
+          <Chinesesimp>%1.1-拿取弹匣—座标：%2</Chinesesimp>
         </Key>
         <Key ID="str_a3___1_1___take_magazine____2____3">
           <Original>%1.1 - Take magazine - %2 - %3</Original>
@@ -16024,7 +16024,7 @@
         <Key ID="str_a3___1_1___repair_vehicle___grid___2">
           <Original>%1.1 - Repair vehicle - Grid: %2</Original>
           <Chinese>%1.1-維修載具-座標:%2</Chinese>
-          <Chinesesimp>%1.1-维修载具 — 座标：%2</Chinesesimp>
+          <Chinesesimp>%1.1-维修载具—座标：%2</Chinesesimp>
         </Key>
         <Key ID="str_a3___1_1___repair_vehicle___2_____3_1">
           <Original>%1.1 - Repair vehicle (%2) - %3</Original>
@@ -16044,7 +16044,7 @@
         <Key ID="str_a3___1_1___refuel_vehicle___grid___2">
           <Original>%1.1 - Refuel vehicle - Grid: %2</Original>
           <Chinese>%1.1-補給載具燃料-座標:%2</Chinese>
-          <Chinesesimp>%1.1-补给载具燃料 — 座标：%2</Chinesesimp>
+          <Chinesesimp>%1.1-补给载具燃料—座标：%2</Chinesesimp>
         </Key>
         <Key ID="str_a3___1_1___refuel_vehicle___2_____3_1">
           <Original>%1.1 - Refuel vehicle (%2) - %3</Original>
@@ -16064,7 +16064,7 @@
         <Key ID="str_a3___1_1___rearm___grid___2">
           <Original>%1.1 - Rearm - Grid: %2</Original>
           <Chinese>%1.1-補給彈藥-座標:%2</Chinese>
-          <Chinesesimp>%1.1-补给弹药 — 座标：%2</Chinesesimp>
+          <Chinesesimp>%1.1-补给弹药—座标：%2</Chinesesimp>
         </Key>
         <Key ID="str_a3___1_1___rearm___2_____3_1">
           <Original>%1.1 - Rearm (%2) - %3</Original>
@@ -16164,7 +16164,7 @@
         <Key ID="str_a3___1_1___go_to_medic___grid___2">
           <Original>%1.1 - Go to medic - Grid: %2</Original>
           <Chinese>%1.1-前往醫療兵那-座標:%2</Chinese>
-          <Chinesesimp>%1.1-前往卫生兵那 — 座标：%2</Chinesesimp>
+          <Chinesesimp>%1.1-前往卫生兵那—座标：%2</Chinesesimp>
         </Key>
         <Key ID="str_a3___1_1___go_to_medic___2_____3_1">
           <Original>%1.1 - Go to medic (%2) - %3</Original>
@@ -16184,7 +16184,7 @@
         <Key ID="str_a3___1_1___get_support___grid___2">
           <Original>%1.1 - Get support - Grid: %2</Original>
           <Chinese>%1.1-取得支援-座標:%2</Chinese>
-          <Chinesesimp>%1.1-取得支援 — 座标：%2</Chinesesimp>
+          <Chinesesimp>%1.1-取得支援—座标：%2</Chinesesimp>
         </Key>
         <Key ID="str_a3___1_1___get_support___2_____3_cmps">
           <Original>%1.1 - Get support (%2) - %3.101</Original>
@@ -16204,27 +16204,27 @@
         <Key ID="str_a3___1_1___get_in___pilot">
           <Original>%1.1 - Get in - Pilot</Original>
           <Chinese>%1.1-進入-駕駛艙</Chinese>
-          <Chinesesimp>%1.1-进入 — 驾驶舱</Chinesesimp>
+          <Chinesesimp>%1.1-进入—驾驶舱</Chinesesimp>
         </Key>
         <Key ID="str_a3___1_1___get_in___passenger">
           <Original>%1.1 - Get in - Passenger</Original>
           <Chinese>%1.1-進入-座位</Chinese>
-          <Chinesesimp>%1.1-进入 — 座位</Chinesesimp>
+          <Chinesesimp>%1.1-进入—座位</Chinesesimp>
         </Key>
         <Key ID="str_a3___1_1___get_in___gunner">
           <Original>%1.1 - Get in - Gunner</Original>
           <Chinese>%1.1-進入-炮手</Chinese>
-          <Chinesesimp>%1.1-进入 — 炮手</Chinesesimp>
+          <Chinesesimp>%1.1-进入—炮手</Chinesesimp>
         </Key>
         <Key ID="str_a3___1_1___get_in___driver">
           <Original>%1.1 - Get in - Driver</Original>
           <Chinese>%1.1-進入-駕駛座</Chinese>
-          <Chinesesimp>%1.1-进入 — 驾驶座</Chinesesimp>
+          <Chinesesimp>%1.1-进入—驾驶座</Chinesesimp>
         </Key>
         <Key ID="str_a3___1_1___get_in___commander">
           <Original>%1.1 - Get in - Commander</Original>
           <Chinese>%1.1-進入-指揮艙</Chinese>
-          <Chinesesimp>%1.1-进入 — 指挥舱</Chinesesimp>
+          <Chinesesimp>%1.1-进入—指挥舱</Chinesesimp>
         </Key>
         <Key ID="str_a3___1_1___get_in">
           <Original>%1.1 - Get in</Original>
@@ -16835,8 +16835,8 @@
       </Key>
       <Key ID="str_a3_girna_bay0">
         <Original>Girna Bay</Original>
-        <Chinese>吉尔纳海灣</Chinese>
-        <Chinesesimp>吉尔纳湾</Chinesesimp>
+        <Chinese>格尔纳海灣</Chinese>
+        <Chinesesimp>格尔纳湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_agia_marina0">
         <Original>Agia Marina</Original>
@@ -16876,7 +16876,7 @@
       <Key ID="str_a3_girna0">
         <Original>Girna</Original>
         <Chinese>吉爾納</Chinese>
-        <Chinesesimp>吉尔纳</Chinesesimp>
+        <Chinesesimp>格尔纳</Chinesesimp>
       </Key>
       <Key ID="str_a3_marina_bay0">
         <Original>Marina Bay</Original>
@@ -16961,8 +16961,8 @@
       <Container name="loadingTexts">
         <Key ID="str_a3_cfgworlds_stratis_loadingtext9">
           <Original>There are only two settlements left on Stratis: the picturesque harbor town of Agia Marina and the small fishing village of Girna.</Original>
-          <Chinese>現在斯特拉蒂斯島上只留下了兩個城鎮:美麗的海港聖馬里納和小漁村吉尔纳。</Chinese>
-          <Chinesesimp>现在斯特拉蒂斯岛上只留下了两个城镇：美丽的海港圣马里纳和小渔村吉尔纳。</Chinesesimp>
+          <Chinese>現在斯特拉蒂斯島上只留下了兩個城鎮:美麗的海港聖馬里納和小漁村格尔纳。</Chinese>
+          <Chinesesimp>现在斯特拉蒂斯岛上只留下了两个城镇：美丽的海港圣马里纳和小渔村格尔纳。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_stratis_loadingtext8">
           <Original>Most roads on Stratis are just gravel trails which twist and turn into the mountains. Only 5% of roads have strengthened surface.</Original>
@@ -17960,7 +17960,7 @@
         <Key ID="STR_A3_CfgVehicles_Flag_FD_Blue_F0">
           <Original>Flag (FD - Blue)</Original>
           <Chinese>旗幟(射擊訓練-藍色)</Chinese>
-          <Chinesesimp>旗帜（射击训练 — 蓝色）</Chinesesimp>
+          <Chinesesimp>旗帜（射击训练—蓝色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_i_barracks_v1_f0">
           <Original>Barracks (Camo)</Original>
@@ -17970,7 +17970,7 @@
         <Key ID="STR_A3_CfgVehicles_Flag_FD_Green_F0">
           <Original>Flag (FD - Green)</Original>
           <Chinese>旗幟(射擊訓練-綠色)</Chinese>
-          <Chinesesimp>旗帜（射击训练 — 绿色）</Chinesesimp>
+          <Chinesesimp>旗帜（射击训练—绿色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_helipadsquare_f0">
           <Original>Helipad (Square)</Original>
@@ -17980,7 +17980,7 @@
         <Key ID="STR_A3_CfgVehicles_Flag_FD_Orange_F0">
           <Original>Flag (FD - Orange)</Original>
           <Chinese>旗幟(射擊訓練-橘色)</Chinese>
-          <Chinesesimp>旗帜（射击训练 — 橘色）</Chinesesimp>
+          <Chinesesimp>旗帜（射击训练—橘色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_helipadempty_f0">
           <Original>Helipad (Invisible)</Original>
@@ -18015,7 +18015,7 @@
         <Key ID="STR_A3_CfgVehicles_Flag_FD_Red_F0">
           <Original>Flag (FD - Red)</Original>
           <Chinese>旗幟(射擊訓練-紅色)</Chinese>
-          <Chinesesimp>旗帜（射击训练 — 红色）</Chinesesimp>
+          <Chinesesimp>旗帜（射击训练—红色）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_Flag_Larkin_F0">
           <Original>Flag (Larkin)</Original>
@@ -18438,7 +18438,7 @@
         <Key ID="str_a3_cfgvehicles_land_shoot_house_corner_f0">
           <Original>Shoot House - Corner</Original>
           <Chinese>模擬演練房屋-角</Chinese>
-          <Chinesesimp>模拟演练房屋 — 角</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—角</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_shootingpos_f0">
           <Original>Shooting Position</Original>
@@ -18448,77 +18448,77 @@
         <Key ID="str_a3_cfgvehicles_land_shoot_house_corner_prone_f0">
           <Original>Shoot House - Corner (Prone)</Original>
           <Chinese>模擬演練房屋-角(趴)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 角（趴）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—角（趴）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_corner_stand_f0">
           <Original>Shoot House - Corner (Stand)</Original>
           <Chinese>模擬演練房屋-角(站)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 角（站）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—角（站）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_door_f0">
           <Original>Shoot House - Door</Original>
           <Chinese>模擬演練房屋-門</Chinese>
-          <Chinesesimp>模拟演练房屋 — 门</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—门</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_leaning_crouch_f0">
           <Original>Shoot House - Leaning (Crouch)</Original>
           <Chinese>模擬演練房屋-傾身(蹲)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 倾身（蹲）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—倾身（蹲）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_leaning_f0">
           <Original>Shoot House - Leaning</Original>
           <Chinese>模擬演練房屋-傾身</Chinese>
-          <Chinesesimp>模拟演练房屋 — 倾身</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—倾身</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_target_hanging_f0">
           <Original>Target - Hanging</Original>
           <Chinese>目標-懸掛</Chinese>
-          <Chinesesimp>目标 — 悬挂</Chinesesimp>
+          <Chinesesimp>目标—悬挂</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_target_oval_wall_bottom_f0">
           <Original>Target - Oval (Wall, Bottom)</Original>
           <Chinese>目標-橢圓形(牆，底部)</Chinese>
-          <Chinesesimp>目标 — 椭圆形（墙，底部）</Chinesesimp>
+          <Chinesesimp>目标—椭圆形（墙，底部）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_target_oval_wall_left_f0">
           <Original>Target - Oval (Wall, Left)</Original>
           <Chinese>目標-橢圓形(牆，左)</Chinese>
-          <Chinesesimp>目标 — 椭圆形（墙，左）</Chinesesimp>
+          <Chinesesimp>目标—椭圆形（墙，左）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_target_oval_wall_right_f0">
           <Original>Target - Oval (Wall, Right)</Original>
           <Chinese>目標-橢圓形(牆，右)</Chinese>
-          <Chinesesimp>目标 — 椭圆形（墙，右）</Chinesesimp>
+          <Chinesesimp>目标—椭圆形（墙，右）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_target_oval_wall_top_f0">
           <Original>Target - Oval (Wall, Top)</Original>
           <Chinese>目標-橢圓形(牆，上)</Chinese>
-          <Chinesesimp>目标 — 椭圆形（墙，上）</Chinesesimp>
+          <Chinesesimp>目标—椭圆形（墙，上）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_target_popup_f0">
           <Original>Target - Pop-up</Original>
           <Chinese>目標-彈出</Chinese>
-          <Chinesesimp>目标 — 弹出</Chinesesimp>
+          <Chinesesimp>目标—弹出</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_target_spinning_f0">
           <Original>Target - Spinning</Original>
           <Chinese>目標-旋轉</Chinese>
-          <Chinesesimp>目标 — 旋转</Chinesesimp>
+          <Chinesesimp>目标—旋转</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_target_spinning_wall_f0">
           <Original>Target - Spinning (Wall)</Original>
           <Chinese>目標-旋轉(牆)</Chinese>
-          <Chinesesimp>目标 — 旋转（墙）</Chinesesimp>
+          <Chinesesimp>目标—旋转（墙）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_target_static_f0">
           <Original>Target - Static</Original>
           <Chinese>目標-固定</Chinese>
-          <Chinesesimp>目标 — 固定</Chinesesimp>
+          <Chinesesimp>目标—固定</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_target_static_full_f0">
           <Original>Target - Static (Full)</Original>
           <Chinese>目標-固定(滿)</Chinese>
-          <Chinesesimp>目标 — 固定（满）</Chinesesimp>
+          <Chinesesimp>目标—固定（满）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetarmor_f0">
           <Original>Armored Target</Original>
@@ -18538,57 +18538,57 @@
         <Key ID="str_a3_cfgvehicles_land_target_static_man_f0">
           <Original>Target - Static (Man)</Original>
           <Chinese>目標-固定(人員)</Chinese>
-          <Chinesesimp>目标 — 固定（人员）</Chinesesimp>
+          <Chinesesimp>目标—固定（人员）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_leaning_full_f0">
           <Original>Shoot House - Leaning (Full)</Original>
           <Chinese>模擬演練房屋-傾身(滿)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 倾身（满）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—倾身（满）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_leaning_prone_f0">
           <Original>Shoot House - Leaning (Prone)</Original>
           <Chinese>模擬演練房屋-傾身(趴)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 倾身（趴）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—倾身（趴）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_leaning_stand_f0">
           <Original>Shoot House - Leaning (Stand)</Original>
           <Chinese>模擬演練房屋-傾身(站)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 倾身（站）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—倾身（站）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_panels_crouch_f0">
           <Original>Shoot House - Panels (Crouch)</Original>
           <Chinese>模擬演練房屋-面板(蹲)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 面板（蹲）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—面板（蹲）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_panels_f0">
           <Original>Shoot House - Panels</Original>
           <Chinese>模擬演練房屋-面板</Chinese>
-          <Chinesesimp>模拟演练房屋 — 面板</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—面板</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_panels_prone_f0">
           <Original>Shoot House - Panels (Prone)</Original>
           <Chinese>模擬演練房屋-面板(趴)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 面板（趴）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—面板（趴）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_panels_vault_f0">
           <Original>Shoot House - Panels (Vault)</Original>
           <Chinese>模擬演練房屋-面板(金庫)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 面板（金库）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—面板（金库）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_panels_window_f0">
           <Original>Shoot House - Panels (Window)</Original>
           <Chinese>模擬演練房屋-面板(窗)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 面板（窗）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—面板（窗）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_panels_windows_f0">
           <Original>Shoot House - Panels (Windows)</Original>
           <Chinese>模擬演練房屋-面板(窗-多)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 面板（窗 — 多）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—面板（窗—多）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_tunnel_crouch_f0">
           <Original>Shoot House - Tunnel (Crouch)</Original>
           <Chinese>模擬演練房屋-隧道(蹲)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 隧道（蹲）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—隧道（蹲）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_target_f0">
           <Original>Simple Target</Original>
@@ -18598,67 +18598,67 @@
         <Key ID="str_a3_cfgvehicles_land_shoot_house_tunnel_f0">
           <Original>Shoot House - Tunnel</Original>
           <Chinese>模擬演練房屋-隧道</Chinese>
-          <Chinesesimp>模拟演练房屋 — 隧道</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—隧道</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_tunnel_prone_f0">
           <Original>Shoot House - Tunnel (Prone)</Original>
           <Chinese>模擬演練房屋-隧道(趴)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 隧道（趴）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—隧道（趴）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_tunnel_stand_f0">
           <Original>Shoot House - Tunnel (Stand)</Original>
           <Chinese>模擬演練房屋-隧道(站)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 隧道（站）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—隧道（站）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_wall_crouch_f0">
           <Original>Shoot House - Wall (Crouch)</Original>
           <Chinese>模擬演練房屋-牆(蹲)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 墙（蹲）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—墙（蹲）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_wall_f0">
           <Original>Shoot House - Wall</Original>
           <Chinese>模擬演練房屋-牆</Chinese>
-          <Chinesesimp>模拟演练房屋 — 墙</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—墙</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_wall_long_crouch_f0">
           <Original>Shoot House - Wall (Crouch, Long)</Original>
           <Chinese>模擬演練房屋-牆(蹲，長)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 墙（蹲，长）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—墙（蹲，长）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_wall_long_f0">
           <Original>Shoot House - Wall (Long)</Original>
           <Chinese>模擬演練房屋-牆(長)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 墙（长）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—墙（长）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_wall_long_prone_f0">
           <Original>Shoot House - Wall (Prone, Long)</Original>
           <Chinese>模擬演練房屋-牆(趴，長)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 墙（趴，长）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—墙（趴，长）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_wall_long_stand_f0">
           <Original>Shoot House - Wall (Stand, Long)</Original>
           <Chinese>模擬演練房屋-牆(站，長)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 墙（站，长）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—墙（站，长）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_wall_prone_f0">
           <Original>Shoot House - Wall (Prone)</Original>
           <Chinese>模擬演練房屋-牆(趴)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 墙（趴）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—墙（趴）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_wall_stand_f0">
           <Original>Shoot House - Wall (Stand)</Original>
           <Chinese>模擬演練房屋-牆(站)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 墙（站）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—墙（站）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_target_oval_f0">
           <Original>Target - Oval (Ground)</Original>
           <Chinese>目標-橢圓形(地面)</Chinese>
-          <Chinesesimp>目标 — 椭圆形（地面）</Chinesesimp>
+          <Chinesesimp>目标—椭圆形（地面）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_shoot_house_window_f0">
           <Original>Shoot House - Window</Original>
           <Chinese>模擬演練房屋-窗</Chinese>
-          <Chinesesimp>模拟演练房屋 — 窗</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—窗</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_dirthump_1_f0">
           <Original>Dirt Hump (Small)</Original>
@@ -18738,7 +18738,7 @@
         <Key ID="str_a3_cfgvehicles_land_shoot_house_corner_crouch_f0">
           <Original>Shoot House - Corner (Crouch)</Original>
           <Chinese>模擬演練房屋-角(蹲)</Chinese>
-          <Chinesesimp>模拟演练房屋 — 角（蹲）</Chinesesimp>
+          <Chinesesimp>模拟演练房屋—角（蹲）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Naval">

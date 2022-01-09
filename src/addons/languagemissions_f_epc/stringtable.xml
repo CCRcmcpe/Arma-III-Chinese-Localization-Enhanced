@@ -110,7 +110,7 @@
             <Key ID="str_a3_c_in1_14_ambient_talk_04_abb_1">
               <Original>Those fucking cicadas on the other hand - they're driving me crazy.</Original>
               <Chinese>至少不像那些他媽的蟬叫聲-它們快要把我給逼瘋了。</Chinese>
-              <Chinesesimp>至少不像那些他妈的蝉叫声 — 他们快要把我给逼疯了。</Chinesesimp>
+              <Chinesesimp>至少不像那些他妈的蝉叫声—他们快要把我给逼疯了。</Chinesesimp>
             </Key>
           </Container>
           <Container name="13_ambient_talk_03" audioFilePath="\a3\dubbing_f_epc\c_in1" dialogName="13_ambient_talk_03" dubbingLanguage="english" namePrefix="c_in1_13_ambient_talk_03" note="" participants="EPC B Abstract A;EPC B Abstract B;" situation="ambient chat, played randomly by soldiers on base, when player is close.">
@@ -144,7 +144,7 @@
             <Key ID="str_a3_c_in1_12_ambient_talk_02_abb_0">
               <Original>It's bullshit - we could've been here much sooner - our battalion was prep'd in a day.</Original>
               <Chinese>狗屎-我們本來可以更快的抵達這裡-我們營1天就準備好了。</Chinese>
-              <Chinesesimp>狗屎 — 我们本来可以更快地抵达这里 — 我们营1天就准备好了。</Chinesesimp>
+              <Chinesesimp>狗屎—我们本来可以更快地抵达这里—我们营1天就准备好了。</Chinesesimp>
             </Key>
           </Container>
           <Container name="11_ambient_talk_01" audioFilePath="\a3\dubbing_f_epc\c_in1" dialogName="11_ambient_talk_01" dubbingLanguage="english" namePrefix="c_in1_11_ambient_talk_01" note="" participants="EPC B Abstract A;EPC B Abstract B;" situation="ambient chat, played randomly by soldiers on base, when player is close.">
@@ -190,7 +190,7 @@
             <Key ID="str_a3_c_in1_01_armory_arm_1">
               <Original>If you want to adjust your loadout, take whatever you want - ammo and magazines are in the boxes to your right.</Original>
               <Chinese>假如你想調整你的裝備，你可以隨意拿取-彈藥的箱子就在你的右手邊。</Chinese>
-              <Chinesesimp>假如你想调整你的装备，你可以随意拿取 — 弹药的箱子就在你的右手边。</Chinesesimp>
+              <Chinesesimp>假如你想调整你的装备，你可以随意拿取—弹药的箱子就在你的右手边。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in1_01_armory_arm_2">
               <Original>Once you're done, proceed to the assembly point outside.</Original>
@@ -217,7 +217,7 @@
             <Key ID="str_a3_c_in1_00_briefing_bhq_11">
               <Original>But make no mistake, you fuck up just once - you endanger any of my men - and you're gone.</Original>
               <Chinese>但請不要搞錯，只要你搞砸一次-危及到我的任何手下-你就完了。</Chinese>
-              <Chinesesimp>但你给我听好了，只要你搞砸一次 — 危及到我的任何手下 — 你就完了。</Chinesesimp>
+              <Chinesesimp>但你给我听好了，只要你搞砸一次—危及到我的任何手下—你就完了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in1_00_briefing_bhq_2">
               <Original>As it turns out, there wasn't a chance in hell that we were ready for what awaited us.</Original>
@@ -227,7 +227,7 @@
             <Key ID="str_a3_c_in1_00_briefing_bhq_3">
               <Original>CSAT got one over on us this time - and intel suggests they're ready to hit back at any moment.</Original>
               <Chinese>廣協同盟再次領先了我們-情報指出他們已經準備要發動反攻了。</Chinese>
-              <Chinesesimp>广协再次抢了我们的先手 — 而且情报指出他们已经准备随时发动反攻了。</Chinesesimp>
+              <Chinesesimp>广协再次抢了我们的先手—而且情报指出他们已经准备随时发动反攻了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in1_00_briefing_bhq_4">
               <Original>Truth is, if we don't hold what we've taken over here, this whole operation is a wash.</Original>
@@ -237,12 +237,12 @@
             <Key ID="str_a3_c_in1_00_briefing_bhq_5">
               <Original>So - with Stratis under our control - we're going to head back and dig in.</Original>
               <Chinese>所以-既然斯特拉蒂斯已經在我們的控制之下-我們將回到主島上支援其他人。</Chinese>
-              <Chinesesimp>所以 — 既然斯特拉蒂斯已经在我们的控制之下 — 我们将回到主岛上支援其他人。</Chinesesimp>
+              <Chinesesimp>所以—既然斯特拉蒂斯已经在我们的控制之下—我们将回到主岛上支援其他人。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in1_00_briefing_bhq_6">
               <Original>Now, keep in mind - in spite of Corporal Kerry's 'debrief' - we're not exactly sure what's happened here.</Original>
               <Chinese>請記住一件事-雖然我們有下士克里的'匯報'-我們還是不能很確定這裡到底發生了什麼事。</Chinese>
-              <Chinesesimp>请记住一件事 — 虽然我们有克里下士的"简报"-我们还是不能很确定这里到底发生了什么事。</Chinesesimp>
+              <Chinesesimp>请记住一件事—虽然我们有克里下士的"简报"-我们还是不能很确定这里到底发生了什么事。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in1_00_briefing_bhq_7">
               <Original>As such, keep an eye out for any suspicious activity.</Original>
@@ -252,12 +252,12 @@
             <Key ID="str_a3_c_in1_00_briefing_bhq_8">
               <Original>Until MEDCOM says otherwise, 'Captain Miller' - along with his team - are not recognized as friendly.</Original>
               <Chinese>除非地中海通信系統有其他的通知，'上校米勒'與他的隊員-將暫時不被識別為友軍。</Chinese>
-              <Chinesesimp>除非地中海司令部有其他的通知，'米勒上校'与他的小组 — 将暂时不被识别为友军。</Chinesesimp>
+              <Chinesesimp>除非地中海司令部有其他的通知，'米勒上校'与他的小组—将暂时不被识别为友军。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in1_00_briefing_bhq_9">
               <Original>And - while we're on the subject, Corporal - were it up to me, you'd be stuck here spit-shining latrines until a court-martial deemed you fit for duty.</Original>
               <Chinese>還有一個問題必須跟你說明，下士-你將會被留在我身邊執行任務，直到軍事法庭認為可以了，你才能恢復自由。</Chinese>
-              <Chinesesimp>趁还没岔开话题，下士 — 这要是换我说了算，我就让你在这刷马桶刷到军事法庭认为你没毛病为止。</Chinesesimp>
+              <Chinesesimp>趁还没岔开话题，下士—这要是换我说了算，我就让你在这刷马桶刷到军事法庭认为你没毛病为止。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in1_00_briefing_bhq_12">
               <Original>Dismissed.</Original>
@@ -273,7 +273,7 @@
           <Key ID="STR_A3_C_in1_briefingSituation">
             <Original>Last night we launched a simultaneous attack on Stratis and Altis.&lt;br /&gt;&lt;br /&gt;While we've been successful in capturing Stratis - re-establishing command over Stratis Air Base - NATO forces on Altis, in part due to CSAT involvement, have failed to secure the main airport.&lt;br /&gt;&lt;br /&gt;Now, although we managed to regroup in the south, recon reports indicate our enemy is preparing a counterattack to drive us into the sea. Our forces here are readying to redeploy to the main island in support.&lt;br /&gt;&lt;br /&gt;After his arrival to Stratis, Cpl. Kerry was quickly debriefed, describing the events of the AAF's surprise attack against our facilities. Although his information is somewhat inconsistent with NATO's own intel, his presence is requested by Col. Armstrong.</Original>
             <Chinese>昨晚，我們同時向斯特拉蒂斯與阿爾蒂斯發動了攻擊。&lt;br/&gt;&lt;br/&gt;雖然我們成功拿回了斯特拉蒂斯-並重新建立起斯特拉蒂斯的空軍基地-但是在阿爾蒂斯上的北約部隊，由於有廣協同盟參與抵抗，導致我們無法順利拿下主機場。&lt;br/&gt;&lt;br/&gt;現在，我們正試圖重新集結我們南部的軍隊，但偵察報告指出，敵人已經準備要進行反空了。我們這裡的部隊將前往阿爾蒂斯上提供支援給友軍。&lt;br/&gt;&lt;br/&gt;在下士克里到達斯特拉蒂斯之後，他很快的就被進行匯報，描述阿爾蒂斯武裝力量是如何在剛開始的時候對我們發動突襲的。雖然他提供的情報與北約自己的情報有所出入，但他仍被上校阿姆斯特朗要求留下並繼續參與後續任務。</Chinese>
-            <Chinesesimp>昨晚，我们同时向斯特拉蒂斯与阿尔蒂斯发动了攻击。&lt;br/&gt;&lt;br/&gt;虽然我们成功拿回了斯特拉蒂斯 — 并恢复了对斯特拉蒂斯空军基地的指挥 — 但是在阿尔蒂斯上的北约部队，由于有广协参与抵抗，没能顺利拿下主机场。&lt;br/&gt;&lt;br/&gt;现在，我们虽然已经在南部集结了军队，但侦察报告指出，敌人已经准备要进行反攻，要把我们赶下海了。我们这里的部队正准备前往阿尔蒂斯上提供支援给友军。&lt;br/&gt;&lt;br/&gt;在克里下士到达斯特拉蒂斯之后，他很快被告知了现状，简报中描述了 AAF 是如何在刚开始的时候对我军设施发动突袭的。虽然他提供的情报与北约自己的情报有所出入，但他仍被阿姆斯特朗上校要求留下并继续参与后续任务。</Chinesesimp>
+            <Chinesesimp>昨晚，我们同时向斯特拉蒂斯与阿尔蒂斯发动了攻击。&lt;br/&gt;&lt;br/&gt;虽然我们成功拿回了斯特拉蒂斯—并恢复了对斯特拉蒂斯空军基地的指挥—但是在阿尔蒂斯上的北约部队，由于有广协参与抵抗，没能顺利拿下主机场。&lt;br/&gt;&lt;br/&gt;现在，我们虽然已经在南部集结了军队，但侦察报告指出，敌人已经准备要进行反攻，要把我们赶下海了。我们这里的部队正准备前往阿尔蒂斯上提供支援给友军。&lt;br/&gt;&lt;br/&gt;在克里下士到达斯特拉蒂斯之后，他很快被告知了现状，简报中描述了 AAF 是如何在刚开始的时候对我军设施发动突袭的。虽然他提供的情报与北约自己的情报有所出入，但他仍被阿姆斯特朗上校要求留下并继续参与后续任务。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_C_in1_debriefingAoALeft_long">
             <Original>You have disobeyed a direct order and are in breach of access permissions.</Original>
@@ -425,7 +425,7 @@
           <Key ID="str_a3_c_in2_briefing_situation_text">
             <Original>Our forces on Altis were unable to secure %1the airport%2.%3As it turns out, there wasn't a chance in hell we were ready for what awaited us. CSAT got one over on us this time - and intel suggests they're going to hit back at any moment.%4Truth is, if we don't hold what we've taken over there, the whole op's a wash. So - with Stratis under our control - we're going to head back and dig in.%5Now, keep in mind - in spite of Corporal Kerry's 'debrief' - we don't know what exactly happened here. As such, keep an eye open for any suspicious activity. Until MEDCOM says otherwise, this 'Captain Miller', along with his team, are not recognized as friendly.</Original>
             <Chinese>我們在阿爾蒂斯上的部隊並沒有成功的肅清%1機場%2。%3事實證明，我們並不知道在前方還有什麼困難在等待著我們。廣協同盟再次領先了我們-情報指出他們已經準備要發動反攻了。%4事實是，假如我們不能守住我們已經得到的領土，這場行動就要付諸東流了。所以-既然斯特拉蒂斯已經在我們的控制之下-我們將回到主島上支援其他人。%5請記住一件事-雖然我們有下士克里的'匯報'-我們還是不能很確定這裡到底發生了什麼事。因此，請隨時留意任何可疑的活動。除非地中海通信系統有其他的通知，'上校米勒'與他的隊員-將暫時不被識別為友軍。</Chinese>
-            <Chinesesimp>我们在阿尔蒂斯上的部队并没有成功的肃清%1机场%2。%3事实证明，我们并不知道在前方还有什么困难在等待着我们。广协再次领先了我们 — 情报指出他们已经准备要发动反攻了。%4事实是，假如我们不能守住我们已经得到的领土，这场行动就要付诸东流了。所以 — 既然斯特拉蒂斯已经在我们的控制之下 — 我们将回到主岛上支援其他人。%5请记住一件事 — 虽然我们有下士克里的'汇报'-我们还是不能很确定这里到底发生了什么事。因此，请随时留意任何可疑的活动。除非地中海司令部有其他的通知，'上校米勒'与他的小组 — 将暂时不被识别为友军。</Chinesesimp>
+            <Chinesesimp>我们在阿尔蒂斯上的部队并没有成功的肃清%1机场%2。%3事实证明，我们并不知道在前方还有什么困难在等待着我们。广协再次领先了我们—情报指出他们已经准备要发动反攻了。%4事实是，假如我们不能守住我们已经得到的领土，这场行动就要付诸东流了。所以—既然斯特拉蒂斯已经在我们的控制之下—我们将回到主岛上支援其他人。%5请记住一件事—虽然我们有下士克里的'汇报'-我们还是不能很确定这里到底发生了什么事。因此，请随时留意任何可疑的活动。除非地中海司令部有其他的通知，'上校米勒'与他的小组—将暂时不被识别为友军。</Chinesesimp>
           </Key>
           <Key ID="str_a3_c_in2_bis_regroup_title">
             <Original>Regroup</Original>
@@ -646,7 +646,7 @@
             <Key ID="str_a3_c_in2_75_take_command_bhq_0">
               <Original>Kerry - I don't much like it - but I need you to step up!</Original>
               <Chinese>克里-雖然我不太喜歡這樣-但我需要你站出來指揮!</Chinese>
-              <Chinesesimp>克里 — 虽然我不太喜欢这样 — 但我需要你站出来指挥！</Chinesesimp>
+              <Chinesesimp>克里—虽然我不太喜欢这样—但我需要你站出来指挥！</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in2_75_take_command_bhq_1">
               <Original>We've lost the east! If we don't take it back, they'll punch straight through our lines!</Original>
@@ -832,7 +832,7 @@
             <Key ID="str_a3_c_in2_35_attack_ker_1">
               <Original>Uh - our AA - Omicron - Kilo, and... Starfire! I can see the fires from here!</Original>
               <Chinese>呃-我們的防空陣地-"奧米克戎"-Kilo，還有..."星火"!我從這裡就可以看到那邊的火光!</Chinese>
-              <Chinesesimp>呃 — 我们的防空阵地-"奥米克戎"-Kilo，还有..."星火"！我从这里就可以看到那边的火光！</Chinesesimp>
+              <Chinesesimp>呃—我们的防空阵地-"奥米克戎"-Kilo，还有..."星火"！我从这里就可以看到那边的火光！</Chinesesimp>
             </Key>
           </Container>
           <Container name="30_Team_Dead" audioFilePath="\a3\dubbing_f_epc\c_in2" dialogName="30_Team_Dead" dubbingLanguage="english" namePrefix="c_in2_30_team_dead" note="" participants="EPC B Player;" situation="kerry finds his team dead.">
@@ -1268,7 +1268,7 @@
             <Key ID="str_a3_c_m01_35_lift_going_down_ker_0">
               <Original>No, no, no - fuck!</Original>
               <Chinese>不，不，不-幹!</Chinese>
-              <Chinesesimp>不，不，不 — 干！</Chinesesimp>
+              <Chinesesimp>不，不，不—干！</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m01_35_lift_going_down_bhq_1">
               <Original>Goddammit, we hit that position hard! They must've just moved in.</Original>
@@ -1405,7 +1405,7 @@
             <Key ID="str_a3_c_m01_05_hello_ker_5">
               <Original>Right. So - once the factory is secure - we move to Stage Three. We'll get an airlift to the base and link up with the main assault.</Original>
               <Chinese>恩。所以-當工廠安全之後-我們就會開始第三階段。我們會有空中運輸在我們到機場，並加入主要突擊。</Chinese>
-              <Chinesesimp>恩。所以 — 当工厂安全之后 — 我们就会开始第三阶段。我们会有空中运输把我们投送到机场，并加入主要突击。</Chinesesimp>
+              <Chinesesimp>恩。所以—当工厂安全之后—我们就会开始第三阶段。我们会有空中运输把我们投送到机场，并加入主要突击。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m01_05_hello_ker_6">
               <Original>Any questions? ... Good.</Original>
@@ -1454,7 +1454,7 @@
             <Key ID="str_a3_c_m01_01_start_mem_2">
               <Original>Don't worry - we've got their heavy hardware marked for the artillery - should be a cakewalk.</Original>
               <Chinese>別擔心-這次我們的火炮會先處理掉大多數的威脅-這次應該是小菜一碟。</Chinese>
-              <Chinesesimp>别担心 — 这次我们的火炮会先处理掉大多数的威胁 — 这次应该是小菜一碟。</Chinesesimp>
+              <Chinesesimp>别担心—这次我们的火炮会先处理掉大多数的威胁—这次应该是小菜一碟。</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -1657,7 +1657,7 @@
           <Key ID="str_a3_campaign_c_m02_debriefing_win1">
             <Original>Having secured our eastern flank and supported a friendly squad, our forces were able to seize the capital and its surrounding fortifications. With enemy forces successfully cut in half - and the seat of political power under our control - it's a turning point in this conflict.</Original>
             <Chinese>由於你們成功肅清我方攻勢東翼的威脅，並協助我軍步兵班，我們的部隊現在可以開始肅清首都及其四周的防禦工事。敵方的部隊已經被我們切割成兩半-而他們政權的象徵也被我們控制住了-這場戰役無疑是整個行動的轉捩點。</Chinese>
-            <Chinesesimp>由于你们成功肃清我方攻势东翼的威胁，并协助我军步兵班，我们的部队现在可以开始肃清首都及其四周的防御工事。敌方的部队已经被我们切割成两半 — 而他们政权的象征也被我们控制住了 — 这场战役无疑是整个行动的转折点。</Chinesesimp>
+            <Chinesesimp>由于你们成功肃清我方攻势东翼的威胁，并协助我军步兵班，我们的部队现在可以开始肃清首都及其四周的防御工事。敌方的部队已经被我们切割成两半—而他们政权的象征也被我们控制住了—这场战役无疑是整个行动的转折点。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m02_debriefing_fail2">
             <Original>You were unable to neutralize enemy armor before friendlies sustained heavy casualties.</Original>
@@ -1919,7 +1919,7 @@
             <Key ID="str_a3_c_m02_65_anunexpectedcallgroup_ker_1">
               <Original>There's been a mistake - our guns are shelling the city - ordnance is hitting civilian areas.</Original>
               <Chinese>他們應該是射錯地方了-我們的大炮正在轟炸城市-彈藥正落在平民區。</Chinese>
-              <Chinesesimp>他们应该是打错地方了 — 我们的大炮正在轰炸城市 — 弹药正落在平民区。</Chinesesimp>
+              <Chinesesimp>他们应该是打错地方了—我们的大炮正在轰炸城市—弹药正落在平民区。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_65_anunexpectedcallgroup_lea_0">
               <Original>Say again?</Original>
@@ -2074,7 +2074,7 @@
             <Key ID="str_a3_c_m02_35_attackwarehousesconvoy_lea_0">
               <Original>Serpent, move to the road - lay down some cover fire!</Original>
               <Chinese>"海蛇"，請繼續沿著道路行駛-並提供我們掩護火力!</Chinese>
-              <Chinesesimp>"海蛇"，请继续沿着道路行驶 — 并提供我们掩护火力！</Chinesesimp>
+              <Chinesesimp>"海蛇"，请继续沿着道路行驶—并提供我们掩护火力！</Chinesesimp>
             </Key>
           </Container>
           <Container name="30_attackWarehouses" audioFilePath="\a3\dubbing_f_epc\c_m02" dialogName="30_attackWarehouses" dubbingLanguage="english" namePrefix="c_m02_30_attackwarehouses" note="" participants="EPC B HQ;EPC B Leader;" situation="squad leader informs hq that they are going for the objective/warehouses complex">
@@ -2163,7 +2163,7 @@
             <Key ID="str_a3_c_m02_135_tankstrike_bhq_0">
               <Original>Copy that. Artillery strike inbound - clear the blast radius. Out.</Original>
               <Chinese>收到。火炮轟炸即將到來-請遠離爆炸半徑。通話完畢。</Chinese>
-              <Chinesesimp>收到。火炮轰炸即将到来 — 请远离爆炸半径。通话完毕。</Chinesesimp>
+              <Chinesesimp>收到。火炮轰炸即将到来—请远离爆炸半径。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_135_tankstrike_ker_0">
               <Original>Crossroads, requesting a fire mission at the designated coordinates, how copy? Over.</Original>
@@ -2204,7 +2204,7 @@
             <Key ID="str_a3_c_m02_115_underfirediscussion_abb_0">
               <Original>We're pinned down and we've got multiple casualties - those fuckers have armor somewhere in the city.</Original>
               <Chinese>我們被壓制在這裡，並已經有多名傷亡了-那些該死的王八蛋在城市裡有裝甲載具在支援他們。</Chinese>
-              <Chinesesimp>我们被压制在这里，并已经有多名伤亡了 — 那些该死的王八蛋在城市里有装甲车辆在支援他们。</Chinesesimp>
+              <Chinesesimp>我们被压制在这里，并已经有多名伤亡了—那些该死的王八蛋在城市里有装甲车辆在支援他们。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_115_underfirediscussion_abb_1">
               <Original>It's immobilized, but they're still using it as static defense.</Original>
@@ -2706,7 +2706,7 @@
             <Key ID="str_a3_c_out1_46_kalichoridefend_bhq_0">
               <Original>Nomad, you've got enemy reinforcements approaching Kappa - inbound from the north east.</Original>
               <Chinese>"游牧民"，敵人的援軍正在靠近卡帕中-正從東北方靠近。</Chinese>
-              <Chinesesimp>"游牧民"，敌人的援军正在靠近卡帕中 — 正从东北方靠近。</Chinesesimp>
+              <Chinesesimp>"游牧民"，敌人的援军正在靠近卡帕中—正从东北方靠近。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out1_46_kalichoridefend_bhq_1">
               <Original>You need to halt their offensive. Artillery and CAS is on standby when you need it. Over.</Original>
@@ -2740,7 +2740,7 @@
             <Key ID="str_a3_c_out1_43_earthquakereport_bhq_1">
               <Original>We don't know - MEDCOM's got no idea what's causing it - according to seismic monitoring, this is abnormal activity.</Original>
               <Chinese>我們不知道-地中海通信系統並不知道是什麼原因導致地震發生的-根據地震監測，這種現象極為不正常。</Chinese>
-              <Chinesesimp>我们不知道 — 地中海司令部并不知道是什么原因导致地震发生的 — 根据地震监测，这地震活动很异常。</Chinesesimp>
+              <Chinesesimp>我们不知道—地中海司令部并不知道是什么原因导致地震发生的—根据地震监测，这地震活动很异常。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out1_43_earthquakereport_ker_0">
               <Original>I'm fine. Any more surprises?</Original>
@@ -3205,7 +3205,7 @@
             <Key ID="str_a3_c_out2_70_miller_ker_7">
               <Original>What? No - Miller - that's not good enough, I -</Original>
               <Chinese>什麼?不-米勒-這還不夠，我-</Chinese>
-              <Chinesesimp>什么？不 — 米勒 — 这还不够，我-</Chinesesimp>
+              <Chinesesimp>什么？不—米勒—这还不够，我-</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_70_miller_mil_4">
               <Original>That's classified.</Original>
@@ -3314,7 +3314,7 @@
             <Key ID="str_a3_c_out2_35_the_device_ker_1">
               <Original>Lieutenant - respectfully - what the fuck are you talking about?</Original>
               <Chinese>上尉-抱歉-你他媽的到底在說什麼?</Chinese>
-              <Chinesesimp>上尉 — 抱歉 — 你他妈的到底在说什么？</Chinesesimp>
+              <Chinesesimp>上尉—抱歉—你他妈的到底在说什么？</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_35_the_device_jam_6">
               <Original>We tried... We...</Original>
@@ -3586,7 +3586,7 @@
             <Key ID="str_a3_c_ea_x05_cardamagedbase_ker_0">
               <Original>Uh, Crossroads, Kerry here. We had an - uh - we ran into a small problem here. Can you send another vehicle? Over.</Original>
               <Chinese>呵，"交叉路"，這裡是克里。我們有點-呵-我們這裡有點小麻煩。你是否能派遣另一輛載具過來?完畢。</Chinese>
-              <Chinesesimp>呵，"交叉路口"，这里是克里。我们有点 — 呵 — 我们这里有点小麻烦。你能不能再派一辆车来？完毕。</Chinesesimp>
+              <Chinesesimp>呵，"交叉路口"，这里是克里。我们有点—呵—我们这里有点小麻烦。你能不能再派一辆车来？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_ea_x05_cardamagedbase_ker_1">
               <Original>Copy that. We'll just wait here. Out.</Original>
@@ -3656,7 +3656,7 @@
             <Key ID="str_a3_c_ea_50_atdestination_ker_1">
               <Original>Nikos - uh, Mr. Panagopoulos - is that guy in the shirt over there. Take care.</Original>
               <Chinese>尼科斯-呵，帕納戈普洛斯先生-就是那邊穿西裝的傢伙。請多保重。</Chinese>
-              <Chinesesimp>尼科斯 — 呵，帕纳戈普洛斯先生 — 就是那边穿西装的家伙。请多保重。</Chinesesimp>
+              <Chinesesimp>尼科斯—呵，帕纳戈普洛斯先生—就是那边穿西装的家伙。请多保重。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_ea_50_atdestination_ker_2">
               <Original>Copy that, Mr. Cole. Take it easy.</Original>
@@ -3683,7 +3683,7 @@
             <Key ID="str_a3_c_ea_45_chattodestination2_jou_2">
               <Original>Yeah, that's what the UK government keeps saying - hell, they almost seem to believe it.</Original>
               <Chinese>是阿，這也是英國政府一直在說的事情-該死，大眾幾乎就要相信他們了。</Chinese>
-              <Chinesesimp>是阿，英国政府也一直这么说 — 该死，大众简直就要相信他们了。</Chinesesimp>
+              <Chinesesimp>是阿，英国政府也一直这么说—该死，大众简直就要相信他们了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_ea_45_chattodestination2_ker_1">
               <Original>Shoot.</Original>
@@ -3853,7 +3853,7 @@
             <Key ID="str_a3_c_ea_30_chattooilstation_ker_4">
               <Original>I mean, Christ, sure, it's easy to blame CSAT. But the greenbacks - sorry, the AAF - they definitely needed a push.</Original>
               <Chinese>我的意思是，天啊，當然了，這很容易就會知道這跟廣協同盟有關。你也知道那些綠軍-抱歉，我的意思是阿爾蒂斯武裝力量-他們真的很需要推一把。</Chinese>
-              <Chinesesimp>我的意思是，天啊，当然了，这很容易就会知道这跟广协有关。你也知道那些绿军 — 抱歉，我的意思是 AAF-他们真的很需要推一把。</Chinesesimp>
+              <Chinesesimp>我的意思是，天啊，当然了，这很容易就会知道这跟广协有关。你也知道那些绿军—抱歉，我的意思是 AAF-他们真的很需要推一把。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_ea_30_chattooilstation_ker_5">
               <Original>Isn't that supposed to be your job to find out?</Original>
@@ -3902,7 +3902,7 @@
             <Key ID="str_a3_c_ea_20_radiobroadcast1_rad_3">
               <Original>In past few months - and alongside the ongoing economic crisis - both the strength and integrity of the North-Atlantic Alliance has come into question in what many consider to be a critical turning point for NATO.</Original>
               <Chinese>在過去幾個月裡-隨著經濟危機的發生-北約在實力與完整性上都出現了漏洞，遭人討論與質疑。</Chinese>
-              <Chinesesimp>在过去几个月里 — 随着经济危机的发生 — 北约在实力与整合力上都出现了漏洞，遭人讨论与质疑。</Chinesesimp>
+              <Chinesesimp>在过去几个月里—随着经济危机的发生—北约在实力与整合力上都出现了漏洞，遭人讨论与质疑。</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_CarFound" audioFilePath="\a3\dubbing_f_epc\c_ea" dialogName="15_CarFound" dubbingLanguage="english" namePrefix="c_ea_15_carfound" note="" participants="EPC B Journalist;EPC B Player;" situation="player found the car.">
@@ -3921,12 +3921,12 @@
             <Key ID="str_a3_c_ea_10_getcar_ker_0">
               <Original>Uh, just a sec - they've given me a bunch of keys.</Original>
               <Chinese>呃，請等我一下-他們給了我一大串的鑰匙。</Chinese>
-              <Chinesesimp>呃，请等我一下 — 他们给了我一大串钥匙。</Chinesesimp>
+              <Chinesesimp>呃，请等我一下—他们给了我一大串钥匙。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_ea_10_getcar_ker_1">
               <Original>Supposed to be car around here somewhere - a red off-road.</Original>
               <Chinese>我記得車子應該是停在這附近-是一臺紅色的越野皮卡貨車。</Chinese>
-              <Chinesesimp>我记得车子应该是停在这附近 — 是一台红色的越野皮卡。</Chinesesimp>
+              <Chinesesimp>我记得车子应该是停在这附近—是一台红色的越野皮卡。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_MeetingWithJournalist" audioFilePath="\a3\dubbing_f_epc\c_ea" dialogName="05_MeetingWithJournalist" dubbingLanguage="english" namePrefix="c_ea_05_meetingwithjournalist" note="" participants="EPC B Journalist;EPC B Player;" situation="player meets the journalist at the airport, near helipad.">
@@ -3986,7 +3986,7 @@
           <Key ID="STR_A3_C_EA_briefingSituation">
             <Original>Six weeks have passed since the AAF's capitulation.&lt;br /&gt;&lt;br /&gt;The FIA, under the leadership of Nikos Panagopoulos, have transitioned from a military opposition to a political body and, alongside our forces, are working hard to restore their homeland. Although it will take time for this country to recover from war, the new government has the confidence of the people of Altis.&lt;br /&gt;&lt;br /&gt;However, NATO's invasion - albeit swift and, ultimately, successful - has stirred a new round of debates over the funding of military forces in this region. The conclusion was clear: there is no way NATO can maintain their position here while tensions in the pacific region rise. The decommissioning will continue and NATO will abandon this region.</Original>
             <Chinese>在阿爾蒂斯武裝力量投降後已經過了六個星期。&lt;br/&gt;&lt;br/&gt;自由獨立同盟在尼科斯·帕纳戈普洛斯的帶領下，從反抗軍轉變為政治團體，與北約一同努力來重建他們的家園。雖然他們還要好一段時間才能走出戰爭的陰霾，不過新政府是很受阿爾蒂斯人民愛戴的。&lt;br/&gt;&lt;br/&gt;而藉由北約的入侵，並迅速的獲得最後的勝利-這讓原本要撤軍的這區，又開始新一次的辯論，討論是否要投注更多的資金在這區域的防守。但討論的結果很明確:北約已經沒法在這保持更多的兵力了，因為他們還要應付太平洋日漸增溫的緊張局勢。撤軍的計劃還是繼續執行，北約將會放棄這塊區域。</Chinese>
-            <Chinesesimp>在 AAF 投降后已经过了六个星期。&lt;br/&gt;&lt;br/&gt;FIA 在尼科斯·帕纳戈普洛斯的带领下，从游击队转型为政治团体，与北约一同努力来重建他们的家园。虽然他们还要好一段时间才能走出战争的阴霾，不过新政府是很受阿尔蒂斯人民爱戴的。&lt;br/&gt;&lt;br/&gt;虽然北约此次行动非常顺利，并且获得了最后的胜利 — 但还是激起了该区域军费预算问题的讨论。结论很明确：北约已经没法在这保持更多的兵力了，因为他们还要应付太平洋日渐增温的紧张局势。撤军的计划还是继续执行，北约将会放弃这块区域。</Chinesesimp>
+            <Chinesesimp>在 AAF 投降后已经过了六个星期。&lt;br/&gt;&lt;br/&gt;FIA 在尼科斯·帕纳戈普洛斯的带领下，从游击队转型为政治团体，与北约一同努力来重建他们的家园。虽然他们还要好一段时间才能走出战争的阴霾，不过新政府是很受阿尔蒂斯人民爱戴的。&lt;br/&gt;&lt;br/&gt;虽然北约此次行动非常顺利，并且获得了最后的胜利—但还是激起了该区域军费预算问题的讨论。结论很明确：北约已经没法在这保持更多的兵力了，因为他们还要应付太平洋日渐增温的紧张局势。撤军的计划还是继续执行，北约将会放弃这块区域。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_C_EA_debriefingCarBroken">
             <Original>The Car Was Destroyed</Original>
@@ -4123,7 +4123,7 @@
             <Key ID="str_a3_c_eb_40_fia_gua_2">
               <Original>We're in the middle of the swamp. CSAT forces are in close proximity, but the entire area is mined - we're stuck here!</Original>
               <Chinese>我們在沼澤的正中間。廣協同盟部隊離我們不遠，而地雷就散佈在我們四周-我們被困住了!</Chinese>
-              <Chinesesimp>我们在沼泽的正中间。广协部队离我们不远，四周都被布了雷 — 我们被困住了！</Chinesesimp>
+              <Chinesesimp>我们在沼泽的正中间。广协部队离我们不远，四周都被布了雷—我们被困住了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_eb_40_fia_ker_0">
               <Original>It's Sergeant Kerry, identify yourself!</Original>
@@ -4138,7 +4138,7 @@
             <Key ID="str_a3_c_eb_40_fia_gua_4">
               <Original>Thank God. Okay ... we'll wait. Just be aware, we've got one AAF guy with us - he's friendly - so don't shoot him!</Original>
               <Chinese>感謝老天。好的...我們會在這邊等。但請小心，我們這裡還有一個阿爾蒂斯武裝力量的傢伙跟著我們-他是友軍-所以請不要誤擊他!</Chinese>
-              <Chinesesimp>感谢老天。好的...我们会在这边等。但请小心，我们这里还有一个 AAF 的家伙跟着我们 — 他是友军 — 所以请不要误击他！</Chinesesimp>
+              <Chinesesimp>感谢老天。好的...我们会在这边等。但请小心，我们这里还有一个 AAF 的家伙跟着我们—他是友军—所以请不要误击他！</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_eb_40_fia_ker_1">
               <Original>Alright, I'll see what I can do.</Original>
@@ -4150,7 +4150,7 @@
             <Key ID="str_a3_c_eb_35_natojoin_ker_0">
               <Original>Hold fire - I'm friendly!</Original>
               <Chinese>不要開火-我是友軍!</Chinese>
-              <Chinesesimp>不要开火 — 我是友军！</Chinesesimp>
+              <Chinesesimp>不要开火—我是友军！</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_eb_35_natojoin_mem_0">
               <Original>Finally! Okay, Sergeant, you lead. Let's get us all out of here.</Original>
@@ -4172,7 +4172,7 @@
             <Key ID="str_a3_c_eb_30_nato_mem_0">
               <Original>This is Bravo-2-1, does anybody read me? Anyone - what the fuck is going on!?</Original>
               <Chinese>這裡是"Bravo-2-1"，有沒有任何人聽到?任何人-現在到底發生了什麼事情!?</Chinese>
-              <Chinesesimp>这里是 Bravo-2-1"，有没有任何人听到？任何人 — 现在到底发生了什么事情！？</Chinesesimp>
+              <Chinesesimp>这里是 Bravo-2-1"，有没有任何人听到？任何人—现在到底发生了什么事情！？</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_eb_30_nato_mem_1">
               <Original>Assist? Shit, man, we're in need of help ourselves!</Original>
@@ -4187,7 +4187,7 @@
             <Key ID="str_a3_c_eb_30_nato_mem_3">
               <Original>Appreciated. Oh, and just a head's up: try to avoid any large settlements and the airbase - CSAT's executed a massive invasion on the whole island.</Original>
               <Chinese>非常感謝。喔，順便提醒你:請試著避開城鎮與空軍基地-廣協同盟已經入侵整座島嶼各處重要的地方了。</Chinese>
-              <Chinesesimp>非常感谢。喔，顺便提醒你：请试着避开城镇与空军基地 — 广协已经入侵整座岛屿各处重要的地方了。</Chinesesimp>
+              <Chinesesimp>非常感谢。喔，顺便提醒你：请试着避开城镇与空军基地—广协已经入侵整座岛屿各处重要的地方了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_eb_30_nato_mem_4">
               <Original>From what we've seen, even the Greenbacks and CSAT are now hostile to each other. Some serious shit must have gone down.</Original>
@@ -4216,7 +4216,7 @@
             <Key ID="str_a3_c_eb_20_gameover_ker_1">
               <Original>Okay, keep calm. Best bet'll be to find some boat - maybe catch an evac heli.</Original>
               <Chinese>好的，保持冷靜。我最好找艘船-或是搭上撤離直升機。</Chinese>
-              <Chinesesimp>好的，保持冷静。我最好找艘船 — 或是搭上撤离直升机。</Chinesesimp>
+              <Chinesesimp>好的，保持冷静。我最好找艘船—或是搭上撤离直升机。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_eb_20_gameover_ker_2">
               <Original>Ports and LZs should be marked on my map. But I'd better stay the hell out of trouble...</Original>
@@ -4274,7 +4274,7 @@
             <Key ID="str_a3_c_eb_05_miller_mil_1">
               <Original>What we're dealing with here - I simply cannot take the risk - we can't return to the warzone.</Original>
               <Chinese>我還在這裡處理一些事情-而且我不能承擔風險-我們已經無法返回戰區了。</Chinese>
-              <Chinesesimp>我还在这里处理一些事情 — 我不能冒这个险 — 我们不能再返回战区了。</Chinesesimp>
+              <Chinesesimp>我还在这里处理一些事情—我不能冒这个险—我们不能再返回战区了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_eb_05_miller_mil_2">
               <Original>I'm sorry. You're on your own.</Original>
@@ -4284,7 +4284,7 @@
             <Key ID="str_a3_c_eb_05_miller_ker_2">
               <Original>I risked my ass - saved your life - what, all for a fucking suicide mission?</Original>
               <Chinese>我曾冒過風險-去救了你的小命-這全部都為了什麼，只為執行一個自殺任務?</Chinese>
-              <Chinesesimp>我冒着生命危险 — 救过你的小命 — 怎么，所有这些都只是为了个自杀任务？</Chinesesimp>
+              <Chinesesimp>我冒着生命危险—救过你的小命—怎么，所有这些都只是为了个自杀任务？</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_eb_05_miller_ker_3">
               <Original>Miller? Respond! Just what the hell was this all about?!</Original>
@@ -4342,7 +4342,7 @@
           <Key ID="STR_A3_Campaign_C_EB_BIS_tskJoinFIA_desc">
             <Original>Join a small group of %2FIA remnants%1. As they're trapped in a minefield, a mine detector - or MRAP - will be vital instruments to get there and back in one piece. Try to find some or try your luck.</Original>
             <Chinese>救援一小隊%2殘餘的自由獨立同盟部隊%1。他們誤入了地雷區，一個地雷探測器-或是一臺防地雷反伏擊車-皆可以安全的帶他們離開那裡。要不你也可以試試自己的運氣。</Chinese>
-            <Chinesesimp>救援一小队%2残余的 FIA 部队%1。他们误入了地雷区，一个地雷探测器 — 或是一台防地雷反伏击车 — 皆可以安全的带他们离开那里。要不你也可以试试自己的运气。</Chinesesimp>
+            <Chinesesimp>救援一小队%2残余的 FIA 部队%1。他们误入了地雷区，一个地雷探测器—或是一台防地雷反伏击车—皆可以安全的带他们离开那里。要不你也可以试试自己的运气。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Campaign_C_EB_BIS_tskJoinFIA_title">
             <Original>Join FIA (optional)</Original>
@@ -4483,7 +4483,7 @@
             <Key ID="str_a3_showcase_fixedwings_x15_mayday_lea_0">
               <Original>Mayday, Mayday, Avenger's going down! I'm in flames here - I've got to eject!</Original>
               <Chinese>求救，求救，"復仇者"正在墜落!我已經陷在火海裡-我必須跳傘了!</Chinese>
-              <Chinesesimp>求救，求救，"复仇者"正在坠落！我已经陷在火海里 — 我必须跳伞了！</Chinesesimp>
+              <Chinesesimp>求救，求救，"复仇者"正在坠落！我已经陷在火海里—我必须跳伞了！</Chinesesimp>
             </Key>
           </Container>
           <Container name="x10_HeliDestroyedLate" audioFilePath="\a3\dubbing_f_epc\showcase_fixedwings" dialogName="x10_HeliDestroyedLate" dubbingLanguage="english" namePrefix="showcase_fixedwings_x10_helidestroyedlate" note="" participants="EPC B Leader;EPC B HQ;" situation="player confirming late heli destruction">
@@ -4707,7 +4707,7 @@
             <Key ID="str_a3_showcase_fixedwings_30_helishotdownaa_lea_0">
               <Original>Avenger to Crossroads, enemy helo successfully hit with an AA missile - it's going down.</Original>
               <Chinese>"復仇者"致"交叉路"，敵軍直升機已被對空飛彈給命中-它正在墜落。</Chinese>
-              <Chinesesimp>"复仇者"致"交叉路口"，敌军直升机被一枚空空弹命中 — 它正在坠落。</Chinesesimp>
+              <Chinesesimp>"复仇者"致"交叉路口"，敌军直升机被一枚空空弹命中—它正在坠落。</Chinesesimp>
             </Key>
           </Container>
           <Container name="25_HeliShotDownDefault" audioFilePath="\a3\dubbing_f_epc\showcase_fixedwings" dialogName="25_HeliShotDownDefault" dubbingLanguage="english" namePrefix="showcase_fixedwings_25_helishotdowndefault" note="" participants="EPC B Leader;EPC B HQ;" situation="heli shot down default call">
@@ -5099,7 +5099,7 @@
           <Key ID="STR_A3_Showcase_FixedWings_titlecard">
             <Original>SHOWCASE: FIXED-WINGS - New Fixed Winged Aircraft, Improved Flight Model, Multi-function Display</Original>
             <Chinese>任務展示:固定翼飛機-新的固定翼飛機，進步的飛行模式，多功能顯示器</Chinese>
-            <Chinesesimp>任务展示：固定翼飞机 — 新的固定翼飞机，进步的飞行模式，多功能显示器</Chinesesimp>
+            <Chinesesimp>任务展示：固定翼飞机—新的固定翼飞机，进步的飞行模式，多功能显示器</Chinesesimp>
           </Key>
           <Container name="01_Prolog" audioFilePath="\a3\dubbing_f_epc\showcase_fixedwings" dialogName="01_Prolog" dubbingLanguage="english" namePrefix="showcase_fixedwings_01_prolog" note="" participants="EPC B HQ;" situation="intro at the base">
             <Key ID="str_a3_showcase_fixedwings_01_prolog_bhq_0">

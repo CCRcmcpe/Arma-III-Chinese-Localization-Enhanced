@@ -855,7 +855,7 @@
       <Key ID="STR_A3_CfgMusic_EventTrack02b_F_EPC">
         <Original>Stage C: Event Track 02 (Broken Barricade - Alternative 1)</Original>
         <Chinese>第三章:事件音軌02(殘破的路障-另類1)</Chinese>
-        <Chinesesimp>第三章：事件音轨02（残破街垒 — 编曲1）</Chinesesimp>
+        <Chinesesimp>第三章：事件音轨02（残破街垒—编曲1）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack02_F_EPC">
         <Original>Stage C: Event Track 02 (Broken Barricade)</Original>
@@ -870,7 +870,7 @@
       <Key ID="STR_A3_CfgMusic_LeadTrack06b_F_EPC">
         <Original>Stage C: Lead Track 06 (Win - Alternative 1)</Original>
         <Chinese>第三章:主音軌06(勝利-另類1)</Chinese>
-        <Chinesesimp>第三章：主音轨06（胜利 — 编曲1）</Chinesesimp>
+        <Chinesesimp>第三章：主音轨06（胜利—编曲1）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Modules_F">
@@ -987,7 +987,7 @@
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsShells_F_Arguments_Type_1">
         <Original>Used model - size can be changed via Size parameter.</Original>
         <Chinese>使用的模組-大小可由底下的尺寸去定義。</Chinese>
-        <Chinesesimp>使用的模组 — 大小可由底下的尺寸去定义。</Chinesesimp>
+        <Chinesesimp>使用的模组—大小可由底下的尺寸去定义。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsShells_F_Arguments_Type_Values_Ammo556_0">
         <Original>5.56 mm</Original>
@@ -1022,7 +1022,7 @@
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsFire_F_Arguments_ColorBlue_0">
         <Original>Color - Blue</Original>
         <Chinese>顏色-藍色</Chinese>
-        <Chinesesimp>颜色 — 蓝色</Chinesesimp>
+        <Chinesesimp>颜色—蓝色</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsFire_F_Arguments_ColorBlue_1">
         <Original>Blue part of a color. Value can be 0-1.</Original>
@@ -1037,7 +1037,7 @@
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsFire_F_Arguments_ColorGreen_0">
         <Original>Color - Green</Original>
         <Chinese>顏色-綠色</Chinese>
-        <Chinesesimp>颜色 — 绿色</Chinesesimp>
+        <Chinesesimp>颜色—绿色</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsFire_F_Arguments_ColorGreen_1">
         <Original>Green part of a color. Value can be 0-1.</Original>
@@ -1047,7 +1047,7 @@
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsFire_F_Arguments_ColorRed_0">
         <Original>Color - Red</Original>
         <Chinese>顏色-紅色</Chinese>
-        <Chinesesimp>颜色 — 红色</Chinesesimp>
+        <Chinesesimp>颜色—红色</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsFire_F_Arguments_ColorRed_1">
         <Original>Red part of a color. Value can be 0-1.</Original>
@@ -1072,7 +1072,7 @@
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsSmoke_F_Arguments_ColorRed_0">
         <Original>Color - Red</Original>
         <Chinese>顏色-紅色</Chinese>
-        <Chinesesimp>颜色 — 红色</Chinesesimp>
+        <Chinesesimp>颜色—红色</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsSmoke_F_Arguments_ColorRed_1">
         <Original>Red part of color. Value can be 0-1.</Original>
@@ -1092,7 +1092,7 @@
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsSmoke_F_Arguments_ColorGreen_0">
         <Original>Color - Green</Original>
         <Chinese>顏色-綠色</Chinese>
-        <Chinesesimp>颜色 — 绿色</Chinesesimp>
+        <Chinesesimp>颜色—绿色</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsSmoke_F_Arguments_ColorGreen_1">
         <Original>Green part of a color. Value can be 0-1.</Original>
@@ -1122,7 +1122,7 @@
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsSmoke_F_Arguments_ColorBlue_0">
         <Original>Color - Blue</Original>
         <Chinese>顏色-藍色</Chinese>
-        <Chinesesimp>颜色 — 蓝色</Chinesesimp>
+        <Chinesesimp>颜色—蓝色</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsSmoke_F_Arguments_ColorBlue_1">
         <Original>Blue part of a color. Value can be 0-1.</Original>
@@ -1197,7 +1197,7 @@
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsSmoke_F_Arguments_ColorAlpha_0">
         <Original>Color - Alpha</Original>
         <Chinese>顏色-透明度</Chinese>
-        <Chinesesimp>颜色 — 透明度</Chinesesimp>
+        <Chinesesimp>颜色—透明度</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgVehicles_ModuleEffectsSmoke_F_Arguments_ColorAlpha_1">
         <Original>Alpha part of a color (transparency).</Original>

@@ -5025,7 +5025,7 @@
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list13">
         <Original>become familiar with the End Game mode in a singleplayer scenario</Original>
         <Chinese>在單人模式中體驗當前最受歡迎的模式-終戰</Chinese>
-        <Chinesesimp>在单人模式中体验当前最受欢迎的模式 — 终战</Chinesesimp>
+        <Chinesesimp>在单人模式中体验当前最受欢迎的模式—终战</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list12_title">
         <Original>"Apex Protocol"</Original>
@@ -5082,7 +5082,7 @@
       <Key ID="str_a3_cfghints_premiumcontent_premiumapex1">
         <Original>Be deployed to the 100 km² South Pacific island archipelago Tanoa, with 13 new weapons and 10 new vehicles, a co-op campaign, and more, in the Arma 3 Apex expansion.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co' /&gt;%1%2Tanoa Terrain%1%2Vehicles - V-44 X Blackfish VTOL, Y-32 Xi'an VTOL, Prowler LSV, Qilin LSV, KH-3A Fenghuang Drone, MQ-12 Falcon Drone, Caesar BTT Propellor Airplane, MB 4WD Offroad Car, RHIB Boat, Water Scooter%1%2Weapons - AKS-74U 5.45 mm Assault Rifle, AKM 7.62 mm Assault Rifle, AK-12 7.62 mm Assault Rifle, RPG-7 Launcher, PM 9 mm Pistol, SPAR-16/S/17 Assault Rifles, CAR-95 5.8 mm Assault Rifle, CAR-95-1 5.8 mm Light Support Weapon, LIM-85 5.56 mm Light Machine Gun, Type 115 6.5 mm / .50 cal Assault Rifle, Protector 9 mm Sub-Machine Gun, CMR-76 6.5 mm Designated Marksman Rifle, ERCO Optics%1%2Gear - new clothes, uniforms, backpacks, headgear, NVGs, and more%1%2Syndikat Faction - a criminal organisation composed of armed thugs and ex-paramilitaries%1%2Gendarmerie Faction - the local Tanoa law enforcement agency%1%2NATO &amp;amp; CSAT Special Forces - operators equipped with modern weaponry, thermal-masking camouflage, new Night Vision Goggles, and other unique gear%1%2NATO &amp;amp; CSAT Pacific Forces - suitably camouflaged assets for the primary armed forces%1%2Props - Tanoa environment decorations and special field equipment%1%2Character Appearances - Tanoan and Chinese%1%2Radio Protocols - French, French-English and Chinese%1%2"Apex Protocol" - a 1-4 player co-op campaign with ties to "The East Wind"%1%2Showcase End Game - become familiar with the End Game mode in a singleplayer scenario%1%2&lt;a href='https://community.bistudio.com/wiki/MP_End_Game'&gt;End Game&lt;/a&gt; Instances - "Moddergat" and "Balavu" variants specifically designed for Tanoa's varied environments%1%2&lt;a href="https://arma3.com/dlc/zeus"&gt;Zeus&lt;/a&gt; - Tanoa Game Master scenarios%1%2Official Sound Track - new tracks to score "Apex Protocol"%1%2Main Menu - a re-imagined take on your main window into the game%1%2Controls Presets - play using the new default "Arma 3 Apex" preset, or stick to the setup you're used to via "Arma 3"%1%2Achievements - a set of extra &lt;a href='http://steamcommunity.com/stats/107410/achievements'&gt;Steam Achievements&lt;/a&gt;%1</Original>
         <Chinese>準備好，你即將被佈署到一處100平方公里的南太平洋群島-塔諾亞，此資料片為您帶來13種新武器與10輛新載具，以及一個可多人合作的劇情戰役，這些內容盡在武裝突襲3頂尖資料片之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2塔諾亞島嶼%1%2載具-V-44X"黑鯨"垂直起降機，Y-32"西安"垂直起降機，"徘徊者"輕型突擊車，"麒麟"輕型突擊車，KH-3A"鳳凰"無人偵察機，MQ-12"獵隼"無人直升機，"凱撒"BTT單引擎飛機，四輪驅動越野車，硬殼充氣快艇，水上摩托車%1%2武器-AKS-74U 5.45公厘突擊步槍，AKM 7.62公厘突擊步槍，AK-12 7.62公厘突擊步槍，RPG-7發射器，PM 9公厘手槍，SPAR-16/S/17突擊步槍，CAR-95 5.8公厘突擊步槍，CAR-95-1 5.8公厘輕型支援武器，LIM-85 5.56公厘輕機槍，115式 6.5公厘/.50口徑突擊步槍，"保護者" 9公厘衝鋒槍，CMR-76 6.5公厘指定精準射手步槍，增強型步槍戰鬥光學瞄準鏡%1%2裝備-新衣服，制服，背包，頭盔，夜視鏡等等%1%2辛迪加陣營-一個由前準軍事人員與罪犯等所組成的犯罪組織%1%2憲兵隊陣營-塔諾亞當地的執法組織%1%2北約&amp;amp;廣協同盟特種部隊-裝備更先進的武器，防熱成像迷彩，新式夜視鏡以及其他的獨特裝備%1%2北約&amp;amp;廣協同盟太平洋部隊-主力部隊裝備著與當地符合的迷彩偽裝%1%2道具-塔諾亞當地的環境物件與專業道具%1%2登場人物-塔諾亞人與中國人%1%2無線電對話-法語，法式英語與中文%1%2"頂尖協議"-接續"東風"戰役的合作戰役，可由1-4人共同遊玩%1%2終戰任務展示-在單人模式中體驗當前最受歡迎的模式-終戰%1%2新的&lt;ahref='https://community.bistudio.com/wiki/MP_End_Game'&gt;終戰&lt;/a&gt;任務-在"莫德爾加"與"巴拉武"兩座城市中體驗我們為塔諾亞設計的終戰模式%1%2&lt;ahref="https://arma3.com/dlc/zeus"&gt;宙斯&lt;/a&gt;-為塔諾亞設計的遊戲管理員模式%1%2官方原聲帶-聆聽為"頂尖協議"新譜寫的曲子%1%2主選單-全新的主選單介面%1%2控制設定-你可以使用我們為"武裝突襲3頂尖"新設計的控制設定配置，抑或繼續使用原來的舊有配置%1%2成就-一組新的&lt;ahref='http://steamcommunity.com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinese>
-        <Chinesesimp>准备好，你即将被布署到一处100平方千米的南太平洋群岛 — 塔诺亚，此 DLC 为您带来13种新武器与10辆新载具，以及一个可多人合作的剧情战役，这些内容尽在武装突袭3 Apex DLC 之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2塔诺亚岛屿%1%2载具-V-44X"黑鲸"垂直起降机，Y-32"西安"垂直起降机，"徘徊者"轻型突击车，"麒麟"轻型突击车，KH-3A"凤凰"无人侦察机，MQ-12"猎隼"无人直升机，"凯撒"BTT 单引擎飞机，四轮驱动越野车，硬壳充气快艇，水上摩托车%1%2武器-AKS-74U 5.45 mm 突击步枪，AKM 7.62mm 突击步枪，AK-12 7.62mm 突击步枪，RPG-7发射器，PM 9mm 手枪，SPAR-16/S/17突击步枪，CAR-95 5.8mm 突击步枪，CAR-95-1 5.8mm 轻型支援武器，LIM-85 5.56mm 轻机枪，115式 6.5mm /.50口径突击步枪，"保护者"9mm 冲锋枪，CMR-76 6.5mm 指定精准射手步枪，增强型步枪战斗光学瞄准镜%1%2装备 — 新衣服，制服，背包，头盔，夜视镜等等%1%2辛迪加阵营 — 一个由前准军事人员与罪犯等所组成的犯罪组织%1%2宪兵队阵营 — 塔诺亚当地的执法组织%1%2北约&amp;amp;广协特种部队 — 装备更先进的武器，防热成像迷彩，新式夜视镜以及其他的独特装备%1%2北约&amp;amp;广协太平洋部队 — 主力部队装备着与当地符合的迷彩伪装%1%2道具 — 塔诺亚当地的环境物件与专业道具%1%2登场人物 — 塔诺亚人与中国人%1%2无线电对话 — 法语，法式英语与中文%1%2"Apex 协议"-接续"东风"战役的合作战役，可由1-4人共同游玩%1%2终战任务展示 — 在单人模式中体验当前最受欢迎的模式 — 终战%1%2新的&lt;ahref='https：//community.bistudio.com/wiki/MP_End_Game'&gt;终战&lt;/a&gt;任务 — 在"莫德尔加"与"巴拉武"两座城市中体验我们为塔诺亚设计的终战模式%1%2&lt;ahref="https：//arma3.com/dlc/zeus"&gt;宙斯&lt;/a&gt;-为塔诺亚设计的游戏管理员模式%1%2官方原声带 — 聆听为"Apex 协议"新谱写的曲子%1%2主菜单 — 全新的主菜单界面%1%2控制设定 — 你可以使用我们为"武装突袭3 Apex"新设计的控制设定配置，抑或继续使用原来的旧有配置%1%2成就 — 一组新的&lt;ahref='http：//steamcommunity.com/stats/107410/achievements'&gt;Steam 成就&lt;/a&gt;%1</Chinesesimp>
+        <Chinesesimp>准备好，你即将被布署到一处100平方千米的南太平洋群岛—塔诺亚，此 DLC 为您带来13种新武器与10辆新载具，以及一个可多人合作的剧情战役，这些内容尽在武装突袭3 Apex DLC 之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2塔诺亚岛屿%1%2载具-V-44X"黑鲸"垂直起降机，Y-32"西安"垂直起降机，"徘徊者"轻型突击车，"麒麟"轻型突击车，KH-3A"凤凰"无人侦察机，MQ-12"猎隼"无人直升机，"凯撒"BTT 单引擎飞机，四轮驱动越野车，硬壳充气快艇，水上摩托车%1%2武器-AKS-74U 5.45 mm 突击步枪，AKM 7.62mm 突击步枪，AK-12 7.62mm 突击步枪，RPG-7发射器，PM 9mm 手枪，SPAR-16/S/17突击步枪，CAR-95 5.8mm 突击步枪，CAR-95-1 5.8mm 轻型支援武器，LIM-85 5.56mm 轻机枪，115式 6.5mm /.50口径突击步枪，"保护者"9mm 冲锋枪，CMR-76 6.5mm 指定精准射手步枪，增强型步枪战斗光学瞄准镜%1%2装备—新衣服，制服，背包，头盔，夜视镜等等%1%2辛迪加阵营—一个由前准军事人员与罪犯等所组成的犯罪组织%1%2宪兵队阵营—塔诺亚当地的执法组织%1%2北约&amp;amp;广协特种部队—装备更先进的武器，防热成像迷彩，新式夜视镜以及其他的独特装备%1%2北约&amp;amp;广协太平洋部队—主力部队装备着与当地符合的迷彩伪装%1%2道具—塔诺亚当地的环境物件与专业道具%1%2登场人物—塔诺亚人与中国人%1%2无线电对话—法语，法式英语与中文%1%2"Apex 协议"-接续"东风"战役的合作战役，可由1-4人共同游玩%1%2终战任务展示—在单人模式中体验当前最受欢迎的模式—终战%1%2新的&lt;ahref='https：//community.bistudio.com/wiki/MP_End_Game'&gt;终战&lt;/a&gt;任务—在"莫德尔加"与"巴拉武"两座城市中体验我们为塔诺亚设计的终战模式%1%2&lt;ahref="https：//arma3.com/dlc/zeus"&gt;宙斯&lt;/a&gt;-为塔诺亚设计的游戏管理员模式%1%2官方原声带—聆听为"Apex 协议"新谱写的曲子%1%2主菜单—全新的主菜单界面%1%2控制设定—你可以使用我们为"武装突袭3 Apex"新设计的控制设定配置，抑或继续使用原来的旧有配置%1%2成就—一组新的&lt;ahref='http：//steamcommunity.com/stats/107410/achievements'&gt;Steam 成就&lt;/a&gt;%1</Chinesesimp>
       </Key>
     </Container>
     <Container name="Roles">
@@ -5428,42 +5428,42 @@
         <Key ID="str_a3_cfgunitinsignia_ctrg15_ge0">
           <Original>CTRG 15 - GE</Original>
           <Chinese>戰研大隊15-德國</Chinese>
-          <Chinesesimp>第15战研大队 — 德国</Chinesesimp>
+          <Chinesesimp>第15战研大队—德国</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgunitinsignia_ctrg15_ie0">
           <Original>CTRG 15 - IE</Original>
           <Chinese>戰研大隊15-愛爾蘭</Chinese>
-          <Chinesesimp>第15战研大队 — 爱尔兰</Chinesesimp>
+          <Chinesesimp>第15战研大队—爱尔兰</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgunitinsignia_ctrg15_pt0">
           <Original>CTRG 15 - PT</Original>
           <Chinese>戰研大隊15-葡萄牙</Chinese>
-          <Chinesesimp>第15战研大队 — 葡萄牙</Chinesesimp>
+          <Chinesesimp>第15战研大队—葡萄牙</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgunitinsignia_ctrg15_uk0">
           <Original>CTRG 15 - UK</Original>
           <Chinese>戰研大隊15-英國</Chinese>
-          <Chinesesimp>第15战研大队 — 英国</Chinesesimp>
+          <Chinesesimp>第15战研大队—英国</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgunitinsignia_ctrg15_us0">
           <Original>CTRG 15 - US</Original>
           <Chinese>戰研大隊15-美國</Chinese>
-          <Chinesesimp>第15战研大队 — 美国</Chinesesimp>
+          <Chinesesimp>第15战研大队—美国</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgUnitInsignia_CTRG14_NATO0">
           <Original>CTRG 14 - NATO</Original>
           <Chinese>戰研大隊14-北約</Chinese>
-          <Chinesesimp>第14战研大队 — 北约</Chinesesimp>
+          <Chinesesimp>第14战研大队—北约</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgunitinsignia_ctrg15_ca0">
           <Original>CTRG 15 - CA</Original>
           <Chinese>戰研大隊15-加拿大</Chinese>
-          <Chinesesimp>第15战研大队 — 加拿大</Chinesesimp>
+          <Chinesesimp>第15战研大队—加拿大</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgUnitInsignia_CTRG15_NATO0">
           <Original>CTRG 15 - NATO</Original>
           <Chinese>戰研大隊15-北約</Chinese>
-          <Chinesesimp>第15战研大队 — 北约</Chinesesimp>
+          <Chinesesimp>第15战研大队—北约</Chinesesimp>
         </Key>
       </Container>
       <Key ID="STR_A3_ACTION_LOAD_VEHICLE">
@@ -7217,7 +7217,7 @@
       <Key ID="str_a3_ravitaisland010">
         <Original>Ravi-ta Island</Original>
         <Chinese>拉維-塔島</Chinese>
-        <Chinesesimp>拉维 — 塔岛</Chinesesimp>
+        <Chinesesimp>拉维—塔岛</Chinesesimp>
       </Key>
       <Key ID="str_a3_rautake010">
         <Original>Rautake</Original>
@@ -7805,7 +7805,7 @@
       <Key ID="STR_A3_CfgMusic_AmbientTrack01a_F_Exp">
         <Original>Through The Jungle - Part 1</Original>
         <Chinese>穿過叢林-第一部</Chinese>
-        <Chinesesimp>穿过丛林 — 第一部</Chinesesimp>
+        <Chinesesimp>穿过丛林—第一部</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack01a_F_Exp">
         <Original>This Is War (Apex Remix) - Part 1</Original>
@@ -7835,7 +7835,7 @@
       <Key ID="STR_A3_CfgMusic_AmbientTrack01b_F_Exp">
         <Original>Through The Jungle - Part 2</Original>
         <Chinese>穿過叢林-第二部</Chinese>
-        <Chinesesimp>穿过丛林 — 第二部</Chinesesimp>
+        <Chinesesimp>穿过丛林—第二部</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack01_F_Exp">
         <Original>Through The Jungle</Original>
@@ -7845,22 +7845,22 @@
       <Key ID="STR_A3_CfgMusic_AmbientTrack02a_F_Exp">
         <Original>Welcome To Tanoa - Part 1</Original>
         <Chinese>歡迎來到塔諾亞-第一部</Chinese>
-        <Chinesesimp>欢迎来到塔诺亚 — 第一部</Chinesesimp>
+        <Chinesesimp>欢迎来到塔诺亚—第一部</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02b_F_Exp">
         <Original>Welcome To Tanoa - Part 2</Original>
         <Chinese>歡迎來到塔諾亞-第二部</Chinese>
-        <Chinesesimp>欢迎来到塔诺亚 — 第二部</Chinesesimp>
+        <Chinesesimp>欢迎来到塔诺亚—第二部</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02c_F_Exp">
         <Original>Welcome To Tanoa - Part 3</Original>
         <Chinese>歡迎來到塔諾亞-第三部</Chinese>
-        <Chinesesimp>欢迎来到塔诺亚 — 第三部</Chinesesimp>
+        <Chinesesimp>欢迎来到塔诺亚—第三部</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02d_F_Exp">
         <Original>Welcome To Tanoa - Part 4</Original>
         <Chinese>歡迎來到塔諾亞-第四部</Chinese>
-        <Chinesesimp>欢迎来到塔诺亚 — 第四部</Chinesesimp>
+        <Chinesesimp>欢迎来到塔诺亚—第四部</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02_F_Exp">
         <Original>Welcome To Tanoa</Original>
@@ -7870,7 +7870,7 @@
       <Key ID="STR_A3_CfgMusic_LeadTrack04_F_Exp">
         <Original>This Is War (Apex Remix - Alternative 1)</Original>
         <Chinese>這是戰爭(頂尖混音版-另類1)</Chinese>
-        <Chinesesimp>这就是战争（Apex 混音版 — 另类1）</Chinesesimp>
+        <Chinesesimp>这就是战争（Apex 混音版—另类1）</Chinesesimp>
       </Key>
     </Container>
   </Package>

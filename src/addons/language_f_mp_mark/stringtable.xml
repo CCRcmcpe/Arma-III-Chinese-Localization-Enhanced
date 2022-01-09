@@ -363,7 +363,7 @@
       <Key ID="str_a3_rscdisplaydynamicgroups_notifications_description_newmember">
         <Original>%1 joined your group - Press %2 for info</Original>
         <Chinese>%1已加入你的小隊-按下%2來獲得更多訊息</Chinese>
-        <Chinesesimp>%1已加入你的小队 — 按下%2来获得更多信息</Chinesesimp>
+        <Chinesesimp>%1已加入你的小队—按下%2来获得更多信息</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaydynamicgroups_notifications_description_newinvite">
         <Original>%1 invited you&lt;br/&gt;Press %2 for info</Original>
@@ -555,7 +555,7 @@
       <Key ID="str_a3_endgame_rules">
         <Original>Both sides must complete three main phases: Establish FOB / Download Intel / Secure Schematics&lt;br/&gt;&lt;br/&gt;Establish FOB&lt;br/&gt;* Each playable side must assault and secure their FOB before being able to proceed to the next phase of the operation&lt;br/&gt;&lt;br/&gt;Download Intel&lt;br/&gt;* Each side must advance through enemy territory and retrieve useful intel&lt;br/&gt;* The team that downloads enough intel faster will have an advantage for the next phase&lt;br/&gt;&lt;br/&gt;Secure Schematics&lt;br/&gt;* There is always one leading and one losing team when the final phase starts&lt;br/&gt;* The leading team must locate and collect the schematics from an unknown location&lt;br/&gt;* The losing team must prevent the opposing team from uploading the schematics&lt;br/&gt;* The losing team can kill the schematics carrier, forcing them to be dropped, which can then be picked up by any player - at this point no team is considered to be leading nor losing&lt;br/&gt;* Taking the schematics and successfully uploading them will determine who wins&lt;br/&gt;</Original>
         <Chinese>雙方陣營皆須完成三個階段:建立前線作戰基地/下載情報/奪取武器藍圖&lt;br/&gt;&lt;br/&gt;建立前線作戰基地&lt;br/&gt;*所有陣營皆須先肅清前線作戰基地的預定建設位置並建設之，完成此步驟才能邁入下一階段&lt;br/&gt;&lt;br/&gt;下載情報&lt;br/&gt;*所有陣營皆須向敵人發起攻擊並取回有用的情報&lt;br/&gt;*當隊伍下載越多的情報，就能越快進入最終階段&lt;br/&gt;&lt;br/&gt;奪取武器藍圖&lt;br/&gt;*最終階段開始時，總會有一隊是領先和一隊是落後的狀況&lt;br/&gt;*領先的隊伍必須從未知的地點取得武器藍圖&lt;br/&gt;*落後的隊伍必須阻止敵隊上傳武器藍圖&lt;br/&gt;*落後的隊伍可以藉由擊殺武器藍圖攜帶者，使裝有藍圖的裝置掉落，該隊伍可以撿起該裝置-從此時此刻起，將不分領先或落後了&lt;br/&gt;*最終勝利將取決於是哪隊成功上傳武器藍圖&lt;br/&gt;</Chinese>
-        <Chinesesimp>双方阵营皆须完成三个阶段：建立前进作战基地/下载情报/夺取武器蓝图&lt;br/&gt;&lt;br/&gt;建立前进作战基地&lt;br/&gt;*所有阵营皆须先肃清前进作战基地的预定建设位置并建设，完成此步骤才能迈入下一阶段&lt;br/&gt;&lt;br/&gt;下载情报&lt;br/&gt;*所有阵营皆须向敌人发起攻击并取回有用的情报&lt;br/&gt;*当队伍下载越多的情报，就能越快进入最终阶段&lt;br/&gt;&lt;br/&gt;夺取武器蓝图&lt;br/&gt;*最终阶段开始时，总会有一队是领先和一队是落后的状况&lt;br/&gt;*领先的队伍必须从未知的地点取得武器蓝图&lt;br/&gt;*落后的队伍必须阻止敌队上传武器蓝图&lt;br/&gt;*落后的队伍可以藉由击杀武器蓝图携带者，使装有蓝图的装置掉落，该队伍可以捡起该装置 — 从此时此刻起，将不分领先或落后了&lt;br/&gt;*最终胜利将取决于是哪队成功上传武器蓝图&lt;br/&gt;</Chinesesimp>
+        <Chinesesimp>双方阵营皆须完成三个阶段：建立前进作战基地/下载情报/夺取武器蓝图&lt;br/&gt;&lt;br/&gt;建立前进作战基地&lt;br/&gt;*所有阵营皆须先肃清前进作战基地的预定建设位置并建设，完成此步骤才能迈入下一阶段&lt;br/&gt;&lt;br/&gt;下载情报&lt;br/&gt;*所有阵营皆须向敌人发起攻击并取回有用的情报&lt;br/&gt;*当队伍下载越多的情报，就能越快进入最终阶段&lt;br/&gt;&lt;br/&gt;夺取武器蓝图&lt;br/&gt;*最终阶段开始时，总会有一队是领先和一队是落后的状况&lt;br/&gt;*领先的队伍必须从未知的地点取得武器蓝图&lt;br/&gt;*落后的队伍必须阻止敌队上传武器蓝图&lt;br/&gt;*落后的队伍可以藉由击杀武器蓝图携带者，使装有蓝图的装置掉落，该队伍可以捡起该装置—从此时此刻起，将不分领先或落后了&lt;br/&gt;*最终胜利将取决于是哪队成功上传武器蓝图&lt;br/&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_notifications_title_pickup">
         <Original>Pick-up</Original>
@@ -580,7 +580,7 @@
       <Key ID="str_a3_endgame_modulehvtstartgameobjective_title">
         <Original>End Game Start Game Objective</Original>
         <Chinese>終戰-遊戲初始目標</Chinese>
-        <Chinesesimp>终战 — 游戏初始目标</Chinesesimp>
+        <Chinesesimp>终战—游戏初始目标</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_modulehvtsimpleobjective_uav">
         <Original>UAV</Original>
@@ -595,7 +595,7 @@
       <Key ID="str_a3_endgame_modulehvtsimpleobjective_title">
         <Original>End Game Simple Objective</Original>
         <Chinese>終戰-簡單目標</Chinese>
-        <Chinesesimp>终战 — 简单目标</Chinesesimp>
+        <Chinesesimp>终战—简单目标</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_modulehvtsimpleobjective_simpleobjective">
         <Original>A simple objective is a type of objective which requires sides to complete the same task</Original>
@@ -630,7 +630,7 @@
       <Key ID="str_a3_endgame_modulehvtobjectivesinstance_title">
         <Original>EndGame Objectives Instance</Original>
         <Chinese>終戰-任務目標門檻</Chinese>
-        <Chinesesimp>终战 — 任务目标门槛</Chinesesimp>
+        <Chinesesimp>终战—任务目标门槛</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_modulehvtobjectivesinstance_three">
         <Original>Three</Original>
@@ -660,22 +660,22 @@
       <Key ID="str_a3_endgame_modulehvtobjectiverandomiser_title">
         <Original>End Game - Objective Randomizer</Original>
         <Chinese>終戰-目標隨機產生器</Chinese>
-        <Chinesesimp>终战 — 目标随机产生器</Chinesesimp>
+        <Chinesesimp>终战—目标随机产生器</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_modulehvtobjectiveobjectsmanager_title">
         <Original>End Game - Objective Objects Manager</Original>
         <Chinese>終戰-目標物件管理器</Chinese>
-        <Chinesesimp>终战 — 目标物件管理器</Chinesesimp>
+        <Chinesesimp>终战—目标物件管理器</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_modulehvtobjectivecluttermanager_title">
         <Original>End Game - Objective Clutter Manager</Original>
         <Chinese>終戰-目標混亂管理器</Chinese>
-        <Chinesesimp>终战 — 目标混乱管理器</Chinesesimp>
+        <Chinesesimp>终战—目标混乱管理器</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_modulehvtendgameobjective_title">
         <Original>End Game - End Game Objective</Original>
         <Chinese>終戰-最終階段目標</Chinese>
-        <Chinesesimp>终战 — 最终阶段目标</Chinesesimp>
+        <Chinesesimp>终战—最终阶段目标</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_misc_upload">
         <Original>Upload Schematics</Original>
@@ -1144,17 +1144,17 @@
       <Key ID="str_a3_cfgsounds_zoomout0">
         <Original>Rules - Scroll Out</Original>
         <Chinese>規則-滾輪向下</Chinese>
-        <Chinesesimp>规则 — 滚轮向下</Chinesesimp>
+        <Chinesesimp>规则—滚轮向下</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgsounds_zoomin0">
         <Original>Rules - Scroll In</Original>
         <Chinese>規則-滾輪向上</Chinese>
-        <Chinesesimp>规则 — 滚轮向上</Chinesesimp>
+        <Chinesesimp>规则—滚轮向上</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgsounds_beep_target0">
         <Original>Rules - Select</Original>
         <Chinese>規則-選擇</Chinese>
-        <Chinesesimp>规则 — 选择</Chinesesimp>
+        <Chinesesimp>规则—选择</Chinesesimp>
       </Key>
     </Container>
   </Package>

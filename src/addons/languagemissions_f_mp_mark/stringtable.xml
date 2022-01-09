@@ -155,12 +155,12 @@
             <Key ID="str_a3_mp_marksmen_01_07_endbad_bhq_0">
               <Original>All elements - abort mission. I say again - abort mission. Return to base immediately. Broadway out.</Original>
               <Chinese>所有單位-放棄任務。我重複一遍-放棄任務。立刻返回基地。"百老匯"通話完畢。</Chinese>
-              <Chinesesimp>所有单位 — 放弃任务。我重复一遍 — 放弃任务。立刻返回基地。"百老汇"通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位—放弃任务。我重复一遍—放弃任务。立刻返回基地。"百老汇"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_marksmen_01_07_endbad_ohq_0">
               <Original>All elements - abort mission. I say again - abort mission. Return to base immediately. Griffin out.</Original>
               <Chinese>所有單位-放棄任務。我重複一遍-放棄任務。立刻返回基地。"獅鷲"通話完畢。</Chinese>
-              <Chinesesimp>所有单位 — 放弃任务。我重复一遍 — 放弃任务。立刻返回基地。"狮鹫"通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位—放弃任务。我重复一遍—放弃任务。立刻返回基地。"狮鹫"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_EndGood" audioFilePath="\a3\dubbing_f_mp_mark\mp_marksmen_01" dialogName="05_EndGood" dubbingLanguage="english" namePrefix="mp_marksmen_01_05_endgood" note="" participants="MARK B HQ;MARK O HQ;" situation="hq commends the players for winning the round">

@@ -20,7 +20,7 @@
       <Key ID="str_a3_hint_sensortypes_tip">
         <Original>%1%2Laser and Strobe - detect targets that are lased or designated by IR grenades.%1%2Footmobiles - special sensor for detection of human targets, used primarily on small UAVs.</Original>
         <Chinese>%1%2雷射與紅外線頻閃器-顯示出被雷射或是紅外線頻閃器標定的目標。%1%2步兵-這種特殊的傳感器可用來偵測步兵之用，通常被裝備在小型的無人機上。</Chinese>
-        <Chinesesimp>%1%2激光与红外频闪器 — 显示出被激光或是红外频闪器标记的目标。%1%2步兵 — 这种特殊的传感器可用来侦测步兵，通常被装备在小型的无人机上。</Chinesesimp>
+        <Chinesesimp>%1%2激光与红外频闪器—显示出被激光或是红外频闪器标记的目标。%1%2步兵—这种特殊的传感器可用来侦测步兵，通常被装备在小型的无人机上。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_sensortypes_desc">
         <Original>Vehicle sensor suites often consist of several individual sensor types. Each sensor has different properties and indicators on the Sensor Display.%1%2Infrared (red) - detects heated targets.%1%2Visual (yellow) - detects any visible target, becomes less effective in the dark.%1%2Active Radar (cyan) - detects any target beyond visual range. Can be switched on/off.%1%2Passive Radar (green) - detects activated Radars at max. twice their own range.</Original>
@@ -70,7 +70,7 @@
       <Key ID="str_a3_hint_loadout_desc">
         <Original>A vehicle can come with different weapon loadouts and ammunition; bombs, rockets, missiles, cannon - all are interchangeable and can be assigned to fit the vehicle's role in any given mission. Check your weapon stores at the beginning of a mission, before engaging the enemy.</Original>
         <Chinese>一臺載具能有不同的武器與彈藥配置;諸如炸彈，火箭彈，飛彈與機砲等等-這些都是可以自行配置，讓武器配置適合當前執行的任務。建議你在與敵人正式交戰前，務必要先檢查自己載具的武器有哪些。</Chinese>
-        <Chinesesimp>一台载具能有不同的武器与弹药配置;诸如炸弹，火箭弹，导弹与机炮等等 — 这些都是可以自行配置，令武器配置适合当前执行的任务。建议你在与敌人正式交战前，务必要先检查自己载具的武器有哪些。</Chinesesimp>
+        <Chinesesimp>一台载具能有不同的武器与弹药配置;诸如炸弹，火箭弹，导弹与机炮等等—这些都是可以自行配置，令武器配置适合当前执行的任务。建议你在与敌人正式交战前，务必要先检查自己载具的武器有哪些。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_ilslanding_title">
         <Original>ILS Approach</Original>

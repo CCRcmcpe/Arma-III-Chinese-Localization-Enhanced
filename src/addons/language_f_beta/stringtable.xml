@@ -264,7 +264,7 @@
       <Key ID="STR_A3_titles_sheep_communication">
         <Original>Sheep - idle communication.</Original>
         <Chinese>綿羊-閒置通信。</Chinese>
-        <Chinesesimp>绵羊 — 闲置通信。</Chinesesimp>
+        <Chinesesimp>绵羊—闲置通信。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Equipment">
@@ -558,7 +558,7 @@
           <Key ID="str_a3_cfgmagazines_150rnd_762x51_box_tracer1">
             <Original>Caliber: 7.62x54 mm Tracer - Green&lt;br/&gt;Rounds: 150&lt;br /&gt;Used in: Zafir</Original>
             <Chinese>口徑:7.62x54公厘曳光彈-綠色&lt;br/&gt;發數:150&lt;br/&gt;使用於:"扎菲爾"</Chinese>
-            <Chinesesimp>口径：7.62x54mm 曳光弹 — 绿色&lt;br/&gt;发数：150&lt;br/&gt;使用于："扎菲尔"</Chinesesimp>
+            <Chinesesimp>口径：7.62x54mm 曳光弹—绿色&lt;br/&gt;发数：150&lt;br/&gt;使用于："扎菲尔"</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_150rnd_762x51_box1">
             <Original>Caliber: 7.62x54 mm&lt;br/&gt;Rounds: 150&lt;br /&gt;Used in: Zafir</Original>
@@ -2261,7 +2261,7 @@
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_acc2_straight_f0">
           <Original>Moving Target 1 (Front - Accuracy)</Original>
           <Chinese>目標移動靶1(前後-精準度)</Chinese>
-          <Chinesesimp>目标移动靶1（前后 — 精准度）</Chinesesimp>
+          <Chinesesimp>目标移动靶1（前后—精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_side_f0">
           <Original>Moving Target 1 (Side)</Original>
@@ -2281,17 +2281,17 @@
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_acc2_side_f0">
           <Original>Moving Target 1 (Side - Accuracy)</Original>
           <Chinese>目標移動靶1(左右-精準度)</Chinese>
-          <Chinesesimp>目标移动靶1（左右 — 精准度）</Chinesesimp>
+          <Chinesesimp>目标移动靶1（左右—精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_acc1_side_f0">
           <Original>Moving Target 1 (Side - Zones)</Original>
           <Chinese>目標移動靶1(左右-區塊)</Chinese>
-          <Chinesesimp>目标移动靶1（左右 — 区块）</Chinesesimp>
+          <Chinesesimp>目标移动靶1（左右—区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_acc1_straight_f0">
           <Original>Moving Target 1 (Front - Zones)</Original>
           <Chinese>目標移動靶1(前後-區塊)</Chinese>
-          <Chinesesimp>目标移动靶1（前后 — 区块）</Chinesesimp>
+          <Chinesesimp>目标移动靶1（前后—区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_acc2_f0">
           <Original>Pop-Up Target 1 (Accuracy)</Original>
@@ -2344,7 +2344,7 @@
       <Key ID="str_a3_cfgvehicles_module_f_moduledescription_anything_0">
         <Original>Any object - persons, vehicles, static objects, etc.</Original>
         <Chinese>任何物件-人，載具，靜態物件，等等。</Chinese>
-        <Chinesesimp>任何物件 — 人，载具，静态物件，等等。</Chinesesimp>
+        <Chinesesimp>任何物件—人，载具，静态物件，等等。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_module_f_moduledescription_anystaticobject_1">
         <Original>Any static object</Original>
@@ -3500,7 +3500,7 @@
         <Key ID="str_a3_cfgvehicles_modulegroupid_moduledescription_0">
           <Original>Assign group callsign. Each group has to have a unique callsign - assigning an existing one will remove it from the group which used it previously.</Original>
           <Chinese>指定隊伍的呼號。每個隊伍都有獨特的呼號-指定已經存在的呼號，此呼號會從之前使用它的隊伍中被刪除。</Chinese>
-          <Chinesesimp>指定队伍的呼号。每个队伍都有独特的呼号 — 指定已经存在的呼号，此呼号会从之前使用它的队伍中被删除。</Chinesesimp>
+          <Chinesesimp>指定队伍的呼号。每个队伍都有独特的呼号—指定已经存在的呼号，此呼号会从之前使用它的队伍中被删除。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulegroupid_arguments_custom_1">
           <Original>When not empty, it will replace the preset military callsign.</Original>
@@ -3804,7 +3804,7 @@
         <Key ID="str_a3_cfgvehicles_modulelivefeedterminate_f_0">
           <Original>Live Feed - Terminate</Original>
           <Chinese>即時影像-終止</Chinese>
-          <Chinesesimp>即时影像 — 终止</Chinesesimp>
+          <Chinesesimp>即时影像—终止</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulelivefeedsettarget_f_moduledescription_modulelivefeedinit_f0">
           <Original>The selected vehicle or defined position will become the target of this live feed.</Original>
@@ -3834,7 +3834,7 @@
         <Key ID="str_a3_cfgvehicles_modulelivefeedsettarget_f_0">
           <Original>Live Feed - Set Target</Original>
           <Chinese>即時影像-設定目標</Chinese>
-          <Chinesesimp>即时影像 — 设定目标</Chinesesimp>
+          <Chinesesimp>即时影像—设定目标</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulelivefeedsetsource_f_moduledescription_modulelivefeedinit_f0">
           <Original>The selected unit will become the broadcaster of this live feed.</Original>
@@ -3849,7 +3849,7 @@
         <Key ID="str_a3_cfgvehicles_modulelivefeedsetsource_f_0">
           <Original>Live Feed - Set Source</Original>
           <Chinese>即時影像-設定來源</Chinese>
-          <Chinesesimp>即时影像 — 设定来源</Chinesesimp>
+          <Chinesesimp>即时影像—设定来源</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulelivefeedinit_f_moduledescription0">
           <Original>Initialize the live feed. Use the other live feed modules to adjust its parameters.</Original>
@@ -3859,7 +3859,7 @@
         <Key ID="str_a3_cfgvehicles_modulelivefeedinit_f_0">
           <Original>Live Feed - Init</Original>
           <Chinese>即時影像-初始化</Chinese>
-          <Chinesesimp>即时影像 — 初始化</Chinesesimp>
+          <Chinesesimp>即时影像—初始化</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulelivefeedeffects_f_moduledescription_modulelivefeedinit_f0">
           <Original>The selected screen effects will be applied to this live feed.</Original>
@@ -3899,7 +3899,7 @@
         <Key ID="str_a3_cfgvehicles_modulelivefeedeffects_f_0">
           <Original>Live Feed - Effects</Original>
           <Chinese>即時影像-效果</Chinese>
-          <Chinesesimp>即时影像 — 效果</Chinesesimp>
+          <Chinesesimp>即时影像—效果</Chinesesimp>
         </Key>
       </Container>
       <Container name="Misc">
@@ -4635,17 +4635,17 @@ Rules of Engagement are up to you:&lt;br /&gt;
       <Key ID="str_a3_cfgsounds_alarm_blufor0">
         <Original>Alarm - BLUFOR</Original>
         <Chinese>警報-藍方</Chinese>
-        <Chinesesimp>警报 — 蓝方</Chinesesimp>
+        <Chinesesimp>警报—蓝方</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgsounds_alarm_independent0">
         <Original>Alarm - Independent</Original>
         <Chinese>警報-中立方</Chinese>
-        <Chinesesimp>警报 — 中立方</Chinesesimp>
+        <Chinesesimp>警报—中立方</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgsounds_alarm_opfor0">
         <Original>Alarm - OPFOR</Original>
         <Chinese>警報-紅方</Chinese>
-        <Chinesesimp>警报 — 红方</Chinesesimp>
+        <Chinesesimp>警报—红方</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgenvsounds_coast0">
         <Original>Coast</Original>

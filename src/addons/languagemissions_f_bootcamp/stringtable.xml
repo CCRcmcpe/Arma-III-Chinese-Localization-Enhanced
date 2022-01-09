@@ -679,7 +679,7 @@
           <Key ID="str_a3_boot_m05_epilogue_3">
             <Original>With conflict brewing in the Pacific, the world - and NATO itself - slowly started to forget about the tiny island republic.</Original>
             <Chinese>隨著太平洋的局勢不斷升溫，全世界-甚至是北約自己-都漸漸的淡忘掉這個小島國。</Chinese>
-            <Chinesesimp>随着太平洋的局势不断升温，全世界 — 甚至包括北约自身 — 都渐渐的淡忘掉这个小岛国。</Chinesesimp>
+            <Chinesesimp>随着太平洋的局势不断升温，全世界—甚至包括北约自身—都渐渐的淡忘掉这个小岛国。</Chinesesimp>
           </Key>
           <Container name="01_Start" audioFilePath="\a3\dubbing_f_bootcamp\boot_m05" dialogName="01_Start" dubbingLanguage="english" namePrefix="boot_m05_01_start" note="" participants="BOOT B Soldier B;" situation="reinforcements approaching">
             <Key ID="str_a3_boot_m05_01_start_bsb_0">
@@ -808,7 +808,7 @@
           <Key ID="str_a3_boot_m04_bis_roe_desc">
             <Original>Follow the Rules of Engagement - do not fire unless fired upon.</Original>
             <Chinese>遵守交戰守則-不要開火，除非對方先開火。</Chinese>
-            <Chinesesimp>遵守交战守则 — 不开第一枪。</Chinesesimp>
+            <Chinesesimp>遵守交战守则—不开第一枪。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_bis_locate_title">
             <Original>Locate the Convoy</Original>
@@ -1042,7 +1042,7 @@
             <Key ID="str_a3_boot_m04_15_roe_bhq_0">
               <Original>And, Staff Sergeant - in all likelihood - you're going to have FIA guerrillas waiting for you down there.</Original>
               <Chinese>還有，上士-有可能的話-你們可能會在底下遇到自由獨立同盟的游擊隊。</Chinese>
-              <Chinesesimp>还有，上士 — 很有可能 — 当地可能会有 FIA 游击队在等着你。</Chinesesimp>
+              <Chinesesimp>还有，上士—很有可能—当地可能会有 FIA 游击队在等着你。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_15_roe_bhq_1">
               <Original>Stick to the ROE. Do not fire unless fired upon. However, that does not mean you are to roll over and take it. Confirm, over.</Original>
@@ -1504,7 +1504,7 @@
             <Key ID="str_a3_boot_m02_d20_fatigue_ada_5">
               <Original>And, hell - if that's not enough for you - you'll just grow to hate the sound of your own wheezing.</Original>
               <Chinese>而且，如果這對你們來說還不夠的話-你們還會被自己的喘息聲所困擾。</Chinese>
-              <Chinesesimp>而且，如果这对你们来说还不够的话 — 你们还会被自己的喘息声所困扰。</Chinesesimp>
+              <Chinesesimp>而且，如果这对你们来说还不够的话—你们还会被自己的喘息声所困扰。</Chinesesimp>
             </Key>
           </Container>
           <Container name="d15_Run_Around" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="d15_Run_Around" dubbingLanguage="english" namePrefix="boot_m02_d15_run_around" note="" participants="BOOT B Adams;BOOT B Lacey;" situation="adams instructs lacey to teach the trainees about fatigue">
@@ -1723,7 +1723,7 @@
             <Key ID="str_a3_boot_m02_40_suggest_crouch_ada_1">
               <Original>So - whenever possible - try to crouch down before firing.</Original>
               <Chinese>所以-只要有機會的話-請試著在開火前就蹲下。</Chinese>
-              <Chinesesimp>所以 — 只要有机会的话 — 请试着在开火前就蹲下。</Chinesesimp>
+              <Chinesesimp>所以—只要有机会的话—请试着在开火前就蹲下。</Chinesesimp>
             </Key>
           </Container>
           <Container name="35_Suggest_Stand" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="35_Suggest_Stand" dubbingLanguage="english" namePrefix="boot_m02_35_suggest_stand" note="" participants="BOOT B Adams;" situation="adams explains the pros and cons of firing while standing">
@@ -3117,7 +3117,7 @@
             <Key ID="str_a3_boot_m03_60_mark_location_ada_1">
               <Original>It tells us that - if the information provided is accurate - they must be somewhere near there.</Original>
               <Chinese>這說明了一件事-假如他們的情報沒有說錯的話-他們應該就在那裡附近。</Chinese>
-              <Chinesesimp>这说明了一件事 — 假如他们的情报没有说错的话 — 他们应该就在那里附近。</Chinesesimp>
+              <Chinesesimp>这说明了一件事—假如他们的情报没有说错的话—他们应该就在那里附近。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_60_mark_location_ada_2">
               <Original>However, the intersect won't always be exact. Use common sense to enhance your accuracy, or try to obtain further information.</Original>
@@ -3238,7 +3238,7 @@
             <Key ID="str_a3_boot_m03_25_grids_ada_0">
               <Original>Before we begin, Sergeant - if you'd be so kind - stick a marker on our location. 066-159.</Original>
               <Chinese>在我們開始前，中士-假如你是個好人的話-請幫我們標記我們所在的點。066-159。</Chinese>
-              <Chinesesimp>在我们开始前，中士 — 假如你是个好人的话 — 请帮我们标记我们所在的点。066-159。</Chinesesimp>
+              <Chinesesimp>在我们开始前，中士—假如你是个好人的话—请帮我们标记我们所在的点。066-159。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_25_grids_ada_1">
               <Original>For those just tuning in, six-figure grids are a crucial navigational tool.</Original>
@@ -3397,7 +3397,7 @@
             <Key ID="str_a3_boot_m03_10_gather_ada_1">
               <Original>Come on, don't be shy now - we're going to learn something useful.</Original>
               <Chinese>來，別害羞-我們來學點有用的東西。</Chinese>
-              <Chinesesimp>来，别害羞 — 我们来学点有用的东西。</Chinesesimp>
+              <Chinesesimp>来，别害羞—我们来学点有用的东西。</Chinesesimp>
             </Key>
           </Container>
           <Container name="105_Earthquake" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="105_Earthquake" dubbingLanguage="english" namePrefix="boot_m03_105_earthquake" note="" participants="BOOT B Soldier A;" situation="earthquake triggered">
@@ -3684,7 +3684,7 @@
             <Key ID="STR_A3_Commanding_Actions_title">
               <Original>Commanding - Actions</Original>
               <Chinese>指揮-動作</Chinese>
-              <Chinesesimp>指挥 — 操作</Chinesesimp>
+              <Chinesesimp>指挥—操作</Chinesesimp>
             </Key>
           </Container>
           <Container name="Commanding_Behaviour">
@@ -3806,7 +3806,7 @@
             <Key ID="STR_A3_Commanding_Behaviour_title">
               <Original>Commanding - Behavior</Original>
               <Chinese>指揮-行為</Chinese>
-              <Chinesesimp>指挥 — 行为</Chinesesimp>
+              <Chinesesimp>指挥—行为</Chinesesimp>
             </Key>
           </Container>
           <Container name="Commanding_Movement">
@@ -3893,7 +3893,7 @@
             <Key ID="STR_A3_Commanding_Movement_title">
               <Original>Commanding - Movement</Original>
               <Chinese>指揮-移動</Chinese>
-              <Chinesesimp>指挥 — 移动</Chinesesimp>
+              <Chinesesimp>指挥—移动</Chinesesimp>
             </Key>
           </Container>
           <Container name="Commanding_Vehicles">
@@ -3950,7 +3950,7 @@
             <Key ID="STR_A3_Task162_name">
               <Original>Subordinate - return</Original>
               <Chinese>部下-返回</Chinese>
-              <Chinesesimp>部下 — 返回</Chinesesimp>
+              <Chinesesimp>部下—返回</Chinesesimp>
             </Key>
             <Key ID="STR_A3_Task161_desc">
               <Original>Use the Map and Context menu to send your AI subordinate to the marked location.</Original>
@@ -3995,7 +3995,7 @@
             <Key ID="STR_A3_Commanding_Vehicles_title">
               <Original>Commanding - Vehicles</Original>
               <Chinese>指揮-載具</Chinese>
-              <Chinesesimp>指挥 — 载具</Chinesesimp>
+              <Chinesesimp>指挥—载具</Chinesesimp>
             </Key>
           </Container>
           <Container name="Ballistics">

@@ -1833,7 +1833,7 @@
             <Key ID="str_a3_showcase_slingloading_05_takeoff_tow_0">
               <Original>Copy, November. Today's forecast - clear skies with a weak westerly wind. That's gonna run up at about 5 knots.</Original>
               <Chinese>收到，November。以下是今日氣象-天氣晴朗並帶有微弱的西風。風速最高為5節。</Chinese>
-              <Chinesesimp>收到，November。以下是今日气象 — 天气晴朗并带有微弱的西风。风速最高可达5节。</Chinesesimp>
+              <Chinesesimp>收到，November。以下是今日气象—天气晴朗并带有微弱的西风。风速最高可达5节。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_05_takeoff_tow_1">
               <Original>Be advised, you've got two friendly birds sharing your airspace. Flight levels between 350 and 650 feet.</Original>
@@ -1886,7 +1886,7 @@
           <Key ID="STR_A3_Showcase_SlingLoading_Titlecard">
             <Original>SHOWCASE: SLING LOADING - New transport helicopters, Sling Load Assistant, Logistical support</Original>
             <Chinese>任務展示:吊掛-新運輸直升機，吊掛輔助，後勤支援</Chinese>
-            <Chinesesimp>任务展示：吊挂 — 新运输直升机，吊挂辅助，后勤支援</Chinesesimp>
+            <Chinesesimp>任务展示：吊挂—新运输直升机，吊挂辅助，后勤支援</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskAmmoDrop_description">
             <Original>Transport the container to the current position of our %2self-propelled artillery platoon%1.</Original>
@@ -2220,7 +2220,7 @@
           <Key ID="str_a3_vr_heli_weapons_title">
             <Original>Helicopter - Weapon Systems</Original>
             <Chinese>直升機-武器系統</Chinese>
-            <Chinesesimp>直升机 — 武器系统</Chinesesimp>
+            <Chinesesimp>直升机—武器系统</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_heli_weapons_task6_text">
             <Original>Eliminate at least 5 targets using your autocannon.</Original>
@@ -2295,7 +2295,7 @@
           <Key ID="str_a3_vr_heli_sling_title">
             <Original>Helicopter - Sling Loading</Original>
             <Chinese>直升機-吊掛</Chinese>
-            <Chinesesimp>直升机 — 吊挂</Chinesesimp>
+            <Chinesesimp>直升机—吊挂</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_heli_sling_task4_title">
             <Original>Unhook the Cargo at Mark</Original>
@@ -2345,7 +2345,7 @@
           <Key ID="str_a3_vr_heli_basics_title">
             <Original>Helicopter - Basics</Original>
             <Chinese>直升機-基礎課程</Chinese>
-            <Chinesesimp>直升机 — 基础课程</Chinesesimp>
+            <Chinesesimp>直升机—基础课程</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_heli_basics_task9_title">
             <Original>Stop the Helicopter</Original>
@@ -2505,7 +2505,7 @@
           <Key ID="str_a3_vr_heli_advanced_title">
             <Original>Helicopter - Advanced</Original>
             <Chinese>直升機-進階</Chinese>
-            <Chinesesimp>直升机 — 高级</Chinesesimp>
+            <Chinesesimp>直升机—高级</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_heli_advanced_task9_title">
             <Original>Maintain Altitude</Original>
@@ -3013,17 +3013,17 @@
         <Key ID="str_a3_mp_groundsupport_tips_base_medevac">
           <Original>Medevac - where medevac'd forces are to be delivered.</Original>
           <Chinese>醫療後送-傷患必須送往的地方。</Chinese>
-          <Chinesesimp>医疗后送 — 伤患必须送往的地方。</Chinesesimp>
+          <Chinesesimp>医疗后送—伤患必须送往的地方。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_tips_base_maintenance">
           <Original>Maintenance - where helicopters can be resupplied.</Original>
           <Chinese>維護區-可在那邊進行補給。</Chinese>
-          <Chinesesimp>维护区 — 可在那边进行补给。</Chinesesimp>
+          <Chinesesimp>维护区—可在那边进行补给。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_tips_base_helipad">
           <Original>Helipad - where helicopters will spawn.</Original>
           <Chinese>直升機停機坪-直升機將重生在那邊。</Chinese>
-          <Chinesesimp>直升机停机坪 — 直升机将重生在那边。</Chinesesimp>
+          <Chinesesimp>直升机停机坪—直升机将重生在那边。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_tips_base">
           <Original>Each side's base is composed of 3 special areas:</Original>
@@ -3348,7 +3348,7 @@
         <Key ID="str_a3_mp_groundsupport_hints_group_markers_main_text">
           <Original>By pressing %11 you can toggle group markers on friendly units. The group markers consist of several elements:&lt;br/&gt;%2 middle - unit type.&lt;br/&gt;%2 left - request type.&lt;br/&gt;%2 right - selected by player.</Original>
           <Chinese>按下%11即可切換開啟友軍的小隊標記。小組標記的內容如下:&lt;br/&gt;%2中間-單位類型。&lt;br/&gt;%2左邊-請求的類型。&lt;br/&gt;%2右邊-由哪個玩家負責執行。</Chinese>
-          <Chinesesimp>按下%11即可切换开启友军的小队标记。小组标记的内容如下：&lt;br/&gt;%2中间 — 单位类型。&lt;br/&gt;%2左边 — 请求的类型。&lt;br/&gt;%2右边 — 由哪个玩家负责执行。</Chinesesimp>
+          <Chinesesimp>按下%11即可切换开启友军的小队标记。小组标记的内容如下：&lt;br/&gt;%2中间—单位类型。&lt;br/&gt;%2左边—请求的类型。&lt;br/&gt;%2右边—由哪个玩家负责执行。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_hints_medevac_request_label">
           <Original>Medevac Request</Original>

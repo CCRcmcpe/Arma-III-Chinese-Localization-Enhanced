@@ -107,7 +107,7 @@
       <Key ID="str_a3_cfghints_learn_bootcampupdate1">
         <Original>Bootcamp Update introduces a number of new components that help new and veteran players discover more about Arma 3.%1The goal is to provide a wide variety of ways to learn about the game. Bootcamp Update includes:%1%2Bootcamp - a singleplayer tutorial campaign.%1%2VR Training - a set of focused tutorial missions.%1%2MP Bootcamp - a Zeus-based multiplayer mode.%1%2Virtual Arsenal - a weapon and character browser.%1%2Community Guides - links to our official Community Guide series.%1%2Find out more information about each component in their respective Field Manual hints.</Original>
         <Chinese>新兵訓練更新導入了許多新的教學課程，幫助新舊玩家更深入認識武裝突襲3的迷人之處。%1我們提供了許多不同的訓練課程。主要的課程有以下幾樣:%1%新兵訓練-一個單人訓練戰役。%1%2虛擬實境訓練-一個重視單個題目的訓練課程。%1%2多人新兵訓練-一個基於宙斯模式下去改的任務。%1%2虛擬軍火庫-一個武器與角色的瀏覽器。%1%2社群指導-連接到我們官方的影片網頁。%1%2你可以在野戰手冊中找到更多有用的教學提示。</Chinese>
-        <Chinesesimp>新兵训练更新导入了许多新的教学课程，帮助新旧玩家更深入认识武装突袭3的迷人之处。%1我们提供了许多不同的训练课程。主要的课程有以下几样：%1%新兵训练 — 一个单人训练战役。%1%2虚拟实境训练 — 一个重视单个题目的训练课程。%1%2多人新兵训练 — 一个基于宙斯模式的任务。%1%2虚拟军火库 — 一个武器与角色的浏览器。%1%2社区指导 — 链接到我们官方的影片网页。%1%2你可以在野战手册中找到更多有用的教学提示。</Chinesesimp>
+        <Chinesesimp>新兵训练更新导入了许多新的教学课程，帮助新旧玩家更深入认识武装突袭3的迷人之处。%1我们提供了许多不同的训练课程。主要的课程有以下几样：%1%新兵训练—一个单人训练战役。%1%2虚拟实境训练—一个重视单个题目的训练课程。%1%2多人新兵训练—一个基于宙斯模式的任务。%1%2虚拟军火库—一个武器与角色的浏览器。%1%2社区指导—链接到我们官方的影片网页。%1%2你可以在野战手册中找到更多有用的教学提示。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_learn_bootcampupdate0">
         <Original>Bootcamp Update</Original>
@@ -1861,7 +1861,7 @@
       <Key ID="str_a3_cfgvehicles_land_sandbags_01_lowtomedium_f0">
         <Original>Sandbags (Low, Low-med)</Original>
         <Chinese>沙包(低，低-中)</Chinese>
-        <Chinesesimp>沙包（低，低 — 中）</Chinesesimp>
+        <Chinesesimp>沙包（低，低—中）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_vr_block_05_f0">
         <Original>VR Obstacle (10x5x4)</Original>
@@ -2378,7 +2378,7 @@
       <Key ID="STR_A3_CfgMusic_LeadTrack01b_F_Bootcamp">
         <Original>This is War (VR Remix - loop)</Original>
         <Chinese>這是戰爭(虛擬實境混音版-循環)</Chinese>
-        <Chinesesimp>这就是战争（虚拟实境混音版 — 循环）</Chinesesimp>
+        <Chinesesimp>这就是战争（虚拟实境混音版—循环）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack02_F_Bootcamp">
         <Original>Evolution</Original>

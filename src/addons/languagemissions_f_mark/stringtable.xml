@@ -20,7 +20,7 @@
       <Key ID="STR_A3_Callsign_ViperBlack">
         <Original>Viper-Black</Original>
         <Chinese>"毒蛇-黑"</Chinese>
-        <Chinesesimp>"毒蛇 — 黑"</Chinesesimp>
+        <Chinesesimp>"毒蛇—黑"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Callsign_Kilo2">
         <Original>Kilo 2</Original>
@@ -54,12 +54,12 @@
           <Key ID="str_a3_showcase_firingfromvehicles_titlecard2">
             <Original>SHOWCASE: FIRING FROM VEHICLES - Firing From Vehicles, New weapons, Remote Designators</Original>
             <Chinese>任務展示:從載具中射擊-從載具中射擊，新武器，遙控指示器</Chinese>
-            <Chinesesimp>任务展示：从载具中射击 — 从载具中射击，新武器，遥控指示器</Chinesesimp>
+            <Chinesesimp>任务展示：从载具中射击—从载具中射击，新武器，遥控指示器</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_titlecard1">
             <Original>SHOWCASE: FIRING FROM VEHICLES - Firing From Vehicles, Weapon Stabilization, Unmanned Aerial Vehicles</Original>
             <Chinese>任務展示:從載具中射擊-從載具中射擊，武器穩定，無人飛機</Chinese>
-            <Chinesesimp>任务展示：从载具中射击 — 从载具中射击，武器稳定，无人飞机</Chinesesimp>
+            <Chinesesimp>任务展示：从载具中射击—从载具中射击，武器稳定，无人飞机</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_sitrep_text">
             <Original>East of the crash site</Original>
@@ -278,7 +278,7 @@
             <Key ID="str_a3_showcase_firingfromvehicles_50_artillery_sfa_0">
               <Original>Woah! What the fuck?!</Original>
               <Chinese>哇嗚!搞啥鬼?!</Chinese>
-              <Chinesesimp>哇呜！搞啥鬼？！</Chinesesimp>
+              <Chinesesimp>喔！搞什么狗屁？！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_50_artillery_sfa_1">
               <Original>Broadway, Kilo 1. Syrta's being pounded by artillery! Please advise, over.</Original>
@@ -643,7 +643,7 @@
             <Key ID="str_a3_showcase_firingfromvehicles_05_sentries_bhq_0">
               <Original>Solid copy. Remember the ROE - do not fire unless fired upon. Akhanteros is on edge as it is. Over.</Original>
               <Chinese>完整收到。請謹記交戰守則-不要主動開火，除非他們對你開火的話。阿坎斯特羅斯正在那附近。完畢。</Chinese>
-              <Chinesesimp>完整收到。请谨记交战守则 — 绝不先开第一枪。阿坎特罗斯很在意这件事。完毕。</Chinesesimp>
+              <Chinesesimp>完整收到。请谨记交战守则—绝不先开第一枪。阿坎特罗斯很在意这件事。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_05_sentries_sfa_0">
               <Original>Broadway, we have eyes on sentries. Two victors, grid square 10 17, southbound. How copy?</Original>
@@ -716,14 +716,14 @@
             <Key ID="str_a3_showcase_marksman_x01_losses_led_0">
               <Original>Viper-Black, we have lost contact with Viper-Green. Presumed KIA. You are on your own. Viper-Red out.</Original>
               <Chinese>"毒蛇-黑"，我們與"毒蛇-綠"失去連繫。推測他們已經陣亡。你只能靠你自己了。"毒蛇-紅"通話完畢。</Chinese>
-              <Chinesesimp>"毒蛇 — 黑"，我们与"毒蛇 — 绿"失去联系。推测他们已经阵亡。你只能靠你自己了。"毒蛇 — 红"通话完毕。</Chinesesimp>
+              <Chinesesimp>"毒蛇—黑"，我们与"毒蛇—绿"失去联系。推测他们已经阵亡。你只能靠你自己了。"毒蛇—红"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="50_Victory" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="50_Victory" dubbingLanguage="english" namePrefix="showcase_marksman_50_victory" note="" participants="MARK O Player;MARK O Leader;" situation="player secured the complex">
             <Key ID="str_a3_showcase_marksman_50_victory_led_0">
               <Original>Understood, Viper-Black. Hydra is inbound. Viper-Red out.</Original>
               <Chinese>了解，"毒蛇-黑"。"九頭蛇"正在路上。"毒蛇-紅"通話完畢。</Chinese>
-              <Chinesesimp>了解，"毒蛇 — 黑"。"九头蛇"正在路上。"毒蛇 — 红"通话完毕。</Chinesesimp>
+              <Chinesesimp>了解，"毒蛇—黑"。"九头蛇"正在路上。"毒蛇—红"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_marksman_50_victory_pla_0">
               <Original>Commander, the complex is ours. You can send in Hydra. Over.</Original>
@@ -735,21 +735,21 @@
             <Key ID="str_a3_showcase_marksman_45_signal_pla_0">
               <Original>Viper-Green, Viper-Black - engage when ready! Engage when ready! Out.</Original>
               <Chinese>"毒蛇-綠"，"毒蛇-黑"-可以開始進攻!可以開始進攻!通話完畢。</Chinese>
-              <Chinesesimp>"毒蛇 — 绿"，"毒蛇 — 黑"-准备好了就攻击！准备好了就攻击！通话完毕。</Chinesesimp>
+              <Chinesesimp>"毒蛇—绿"，"毒蛇—黑"-准备好了就攻击！准备好了就攻击！通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_LiveFeed" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="40_LiveFeed" dubbingLanguage="english" namePrefix="showcase_marksman_40_livefeed" note="" participants="MARK O Leader;" situation="player's leader informing them of the incoming uav feed">
             <Key ID="str_a3_showcase_marksman_40_livefeed_led_0">
               <Original>Viper-Black, standby for UAV video feed.</Original>
               <Chinese>"毒蛇-黑"，請接收無人偵察機畫面。</Chinese>
-              <Chinesesimp>"毒蛇 — 黑"，请接收无人侦察机画面。</Chinesesimp>
+              <Chinesesimp>"毒蛇—黑"，请接收无人侦察机画面。</Chinesesimp>
             </Key>
           </Container>
           <Container name="35_CampInfo" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="35_CampInfo" dubbingLanguage="english" namePrefix="showcase_marksman_35_campinfo" note="" participants="MARK O Player;MARK O Leader;" situation="player's leader gives them even more info on the objective">
             <Key ID="str_a3_showcase_marksman_35_campinfo_led_0">
               <Original>Roger. Viper-Green is standing by.</Original>
               <Chinese>了解。"毒蛇-綠"正在待命。</Chinese>
-              <Chinesesimp>了解。"毒蛇 — 绿"正在待命。</Chinesesimp>
+              <Chinesesimp>了解。"毒蛇—绿"正在待命。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_marksman_35_campinfo_led_1">
               <Original>Recon places 2 hostiles patrolling the perimeter of the complex. The remaining insurgent forces have established defensive positions within the complex itself.</Original>
@@ -759,7 +759,7 @@
             <Key ID="str_a3_showcase_marksman_35_campinfo_pla_0">
               <Original>Viper-Black on the ground.</Original>
               <Chinese>"毒蛇-黑"已抵達。</Chinese>
-              <Chinesesimp>"毒蛇 — 黑"已抵达。</Chinesesimp>
+              <Chinesesimp>"毒蛇—黑"已抵达。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_marksman_35_campinfo_led_2">
               <Original>There is a small barricade to the south, possibly with a static weapon emplacement. If that is the case, make this your primary target. Over.</Original>
@@ -781,7 +781,7 @@
             <Key ID="str_a3_showcase_marksman_30_details_led_1">
               <Original>Hydra is taking you around to the northwest corner. Viper-Green will attack from the south.</Original>
               <Chinese>"九頭蛇"將帶你到它西北方的角落。"毒蛇-綠"將會從南方進攻。</Chinese>
-              <Chinesesimp>"九头蛇"将带你到它西北方的角落。"毒蛇 — 绿"将会从南方进攻。</Chinesesimp>
+              <Chinesesimp>"九头蛇"将带你到它西北方的角落。"毒蛇—绿"将会从南方进攻。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_marksman_30_details_led_2">
               <Original>They recommend you take up a firing position on the hill southeast of your insertion point. From there, you should be able to neutralize their critical defenses.</Original>
@@ -791,7 +791,7 @@
             <Key ID="str_a3_showcase_marksman_30_details_led_3">
               <Original>When you are ready, send Viper-Green the order to assault the complex. Once it is clear, Hydra will airlift you all back to base. Over.</Original>
               <Chinese>當你準備好時，向"毒蛇-綠"發送命令，他們便會開始進行攻擊。當肅清成功後，"九頭蛇"會把你帶回基地。完畢。</Chinese>
-              <Chinesesimp>当你准备好时，向"毒蛇 — 绿"发送命令，他们便会开始进行攻击。当肃清成功后，"九头蛇"会把你带回基地。完毕。</Chinesesimp>
+              <Chinesesimp>当你准备好时，向"毒蛇—绿"发送命令，他们便会开始进行攻击。当肃清成功后，"九头蛇"会把你带回基地。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_marksman_30_details_led_4">
               <Original>UAV recon is picking up at least 12 on its thermals. However, it is not known whether there are more in the buildings or surrounding structures. Over.</Original>
@@ -813,22 +813,22 @@
             <Key ID="str_a3_showcase_marksman_25_changeofplan_led_0">
               <Original>Viper-Black, I have received an update from Griffin.</Original>
               <Chinese>"毒蛇-黑"，我從"獅鷲"得知了些新訊息。</Chinese>
-              <Chinesesimp>"毒蛇 — 黑"，我从"狮鹫"那里得知了些新信息。</Chinesesimp>
+              <Chinesesimp>"毒蛇—黑"，我从"狮鹫"那里得知了些新信息。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_marksman_25_changeofplan_led_1">
               <Original>UAV recon located a larger insurgent camp on the mainland. Another Viper team is moving on it now, callsign Viper-Green.</Original>
               <Chinese>無人偵察機找到了一個大型的叛軍營地。另一隊"毒蛇"小隊正在前往該位置，呼號是"毒蛇-綠"。</Chinese>
-              <Chinesesimp>无人侦察机找到了一个大型的叛军营地。另一个"毒蛇"小组正在前往该位置，呼号是"毒蛇 — 绿"。</Chinesesimp>
+              <Chinesesimp>无人侦察机找到了一个大型的叛军营地。另一个"毒蛇"小组正在前往该位置，呼号是"毒蛇—绿"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_marksman_25_changeofplan_led_2">
               <Original>You are to provide sniper support for Viper-Green's assault. If you are low on equipment, there is some in the helicopter. Standby for further information. Over.</Original>
               <Chinese>在"毒蛇-綠"進行突擊時你將擔當狙擊掩護。假如你有缺裝備，你可以看一下直升機裡面並補給下。請等待更多資訊。完畢。</Chinese>
-              <Chinesesimp>在"毒蛇 — 绿"进行突击时你将担当狙击掩护。假如你缺乏装备，你可以看一下直升机里面并补给下。请等待更多信息。完毕。</Chinesesimp>
+              <Chinesesimp>在"毒蛇—绿"进行突击时你将担当狙击掩护。假如你缺乏装备，你可以看一下直升机里面并补给下。请等待更多信息。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_marksman_25_changeofplan_pla_0">
               <Original>Understood. Viper-Black standing by.</Original>
               <Chinese>了解。"毒蛇-黑"待命中。</Chinese>
-              <Chinesesimp>了解。"毒蛇 — 黑"待命中。</Chinesesimp>
+              <Chinesesimp>了解。"毒蛇—黑"待命中。</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_GetIn" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="20_GetIn" dubbingLanguage="english" namePrefix="showcase_marksman_20_getin" note="" participants="MARK O Leader;" situation="rest of player's team arrives at the ao">
@@ -852,7 +852,7 @@
             <Key ID="str_a3_showcase_marksman_15_lzclear_pla_0">
               <Original>Viper-Red, Viper-Black. I encountered minimal enemy presence at the marked position. All hostiles neutralized.</Original>
               <Chinese>"毒蛇-紅"，"毒蛇-黑"。我在標記的位置遭遇少量的敵人。所有敵人皆已殲滅。</Chinese>
-              <Chinesesimp>"毒蛇 — 红"，"毒蛇 — 黑"。我在标记的位置遭遇少量的敌人。所有敌人皆已歼灭。</Chinesesimp>
+              <Chinesesimp>"毒蛇—红"，"毒蛇—黑"。我在标记的位置遭遇少量的敌人。所有敌人皆已歼灭。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_marksman_15_lzclear_pla_1">
               <Original>I have a small insurgent compound here. There is some equipment you may find interesting. In particular, an autonomous ground vehicle. Over.</Original>
@@ -862,7 +862,7 @@
             <Key ID="str_a3_showcase_marksman_15_lzclear_led_2">
               <Original>Stay alert. Viper-Red out.</Original>
               <Chinese>請繼續保持警戒。"毒蛇-紅"通話完畢。</Chinese>
-              <Chinesesimp>请继续保持警戒。"毒蛇 — 红"通话完毕。</Chinesesimp>
+              <Chinesesimp>请继续保持警戒。"毒蛇—红"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_IntelFound" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="10_IntelFound" dubbingLanguage="english" namePrefix="showcase_marksman_10_intelfound" note="" participants="MARK O Player;MARK O Leader;" situation="player reports in after finding the guerrilla intel">
@@ -894,19 +894,19 @@
             <Key ID="str_a3_showcase_marksman_10_intelfound_pla_3">
               <Original>Copy. I will report back once I know more. Viper-Black out.</Original>
               <Chinese>收到。當我有結果時會向你回報。"毒蛇-黑"通話完畢。</Chinese>
-              <Chinesesimp>收到。当我有结果时会向你回报。"毒蛇 — 黑"通话完毕。</Chinesesimp>
+              <Chinesesimp>收到。当我有结果时会向你回报。"毒蛇—黑"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_VillaCleared" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="05_VillaCleared" dubbingLanguage="english" namePrefix="showcase_marksman_05_villacleared" note="" participants="MARK O Player;MARK O Leader;" situation="player reporting after he clears the fia hq">
             <Key ID="str_a3_showcase_marksman_05_villacleared_led_0">
               <Original>Copy, Viper-Black.</Original>
               <Chinese>收到，"毒蛇-黑"。</Chinese>
-              <Chinesesimp>收到，"毒蛇 — 黑"。</Chinesesimp>
+              <Chinesesimp>收到，"毒蛇—黑"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_marksman_05_villacleared_pla_0">
               <Original>Viper-Red, Viper-Black. The insurgent HQ is clear of all hostiles. Searching for intel now. Over.</Original>
               <Chinese>"毒蛇-紅"，"毒蛇-黑"。叛軍指揮部已肅清完成。正在搜索情報。完畢。</Chinese>
-              <Chinesesimp>"毒蛇 — 红"，"毒蛇 — 黑"。叛军指挥部已肃清完成。正在搜索情报。完毕。</Chinesesimp>
+              <Chinesesimp>"毒蛇—红"，"毒蛇—黑"。叛军指挥部已肃清完成。正在搜索情报。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="01_Prologue" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="01_Prologue" dubbingLanguage="english" namePrefix="showcase_marksman_01_prologue" note="" participants="MARK O Player;MARK O Leader;" situation="mission start, player is moving to objective">
@@ -918,12 +918,12 @@
             <Key ID="str_a3_showcase_marksman_01_prologue_pla_0">
               <Original>Viper-Black to Viper-Red, I am closing in on the FIA position. Preparing to engage. Over.</Original>
               <Chinese>"毒蛇-黑"呼叫"毒蛇-紅"，我正靠近自由獨立同盟的位置。準備接敵。完畢。</Chinese>
-              <Chinesesimp>"毒蛇 — 黑"呼叫"毒蛇 — 红"，我正靠近 FIA 的阵地。准备接敌。完毕。</Chinesesimp>
+              <Chinesesimp>"毒蛇—黑"呼叫"毒蛇—红"，我正靠近 FIA 的阵地。准备接敌。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_marksman_01_prologue_pla_1">
               <Original>Copy. Viper-Black out.</Original>
               <Chinese>收到。"毒蛇-黑"通話完畢。</Chinese>
-              <Chinesesimp>收到。"毒蛇 — 黑"通话完毕。</Chinesesimp>
+              <Chinesesimp>收到。"毒蛇—黑"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Key ID="STR_A3_Showcase_Marksman_Showcase_Summary_text">
@@ -939,7 +939,7 @@
           <Key ID="STR_A3_Showcase_Marksman_Titlecard">
             <Original>SHOWCASE: MARKSMEN - New weapons, Weapon customization, Weapon stabilization</Original>
             <Chinese>任務展示:精準射手-新武器，武器客製化，武器穩定</Chinese>
-            <Chinesesimp>任务展示：精准射手 — 新武器，武器定制化，武器稳定</Chinesesimp>
+            <Chinesesimp>任务展示：精准射手—新武器，武器定制化，武器稳定</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_mrkCamp">
             <Original>Insurgent camp</Original>
@@ -974,7 +974,7 @@
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskCamp_description">
             <Original>Cooperate with %3Viper-Green%1 to clear the larger %2insurgent camp%1 north of Alikampos.</Original>
             <Chinese>與%3"毒蛇-綠"%1合作，共同掃蕩阿利卡姆波斯北方較大的%2叛軍營地%1。</Chinese>
-            <Chinesesimp>与%3"毒蛇 — 绿"%1合作，共同扫荡阿利卡姆波斯北方较大的%2叛军营地%1。</Chinesesimp>
+            <Chinesesimp>与%3"毒蛇—绿"%1合作，共同扫荡阿利卡姆波斯北方较大的%2叛军营地%1。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskCamp_title">
             <Original>Clear the Camp</Original>
@@ -994,7 +994,7 @@
           <Key ID="STR_A3_Showcase_Marksman_Debriefing_Win02_text">
             <Original>You have succeeded in delivering a significant blow to the FIA's operations. Unfortunately, Viper-Green was KIA.</Original>
             <Chinese>你的行動已成功對自由獨立同盟造成顯著的打擊。但不幸的是，"毒蛇-綠"卻在行動中陣亡了。</Chinese>
-            <Chinesesimp>你的行动已成功对 FIA 造成显着的打击。但不幸的是，"毒蛇 — 绿"却在行动中阵亡了。</Chinesesimp>
+            <Chinesesimp>你的行动已成功对 FIA 造成显着的打击。但不幸的是，"毒蛇—绿"却在行动中阵亡了。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_SerpentAttack">
             <Original>Serpent - attack</Original>
@@ -1004,12 +1004,12 @@
           <Key ID="STR_A3_Showcase_Marksman_Briefing_Signal_text">
             <Original>Viper-Black - Your callsign. &lt;br /&gt;Viper-Red - Your Team Leader. &lt;br /&gt;Hydra - Transport helicopter. </Original>
             <Chinese>"毒蛇-黑"-你的呼號。&lt;br/&gt;"毒蛇-紅"-你的小隊長。&lt;br/&gt;"九頭蛇"-運輸直升機。</Chinese>
-            <Chinesesimp>"毒蛇 — 黑"-你的呼号。&lt;br/&gt;"毒蛇 — 红"-你的小组长。&lt;br/&gt;"九头蛇"-运输直升机。</Chinesesimp>
+            <Chinesesimp>"毒蛇—黑"-你的呼号。&lt;br/&gt;"毒蛇—红"-你的小组长。&lt;br/&gt;"九头蛇"-运输直升机。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_Briefing_Situation_text">
             <Original>You, Viper-Black, have been deployed to the southern peninsula as part of our on-going counter-insurgency operations against the FIA. Your objective this evening will be to sweep and clear a suspected FIA HQ located southwest of Sfaka.</Original>
             <Chinese>做為對抗自由獨立同盟叛亂行動的一部分，"毒蛇-黑"(你)將被佈署到半島南方並展開破壞自由獨立同盟的行動。你的任務就是在傍晚時分，前往肅清自由獨立同盟位在斯卡法西南方向的指揮部。</Chinese>
-            <Chinesesimp>做为对抗 FIA 的反叛乱作战的一部分，"毒蛇 — 黑"（你）将被布署到半岛南方并开展行动。你今晚的任务就是在傍晚时分前往肃清 FIA 位在斯法卡西南的指挥部。</Chinesesimp>
+            <Chinesesimp>做为对抗 FIA 的反叛乱作战的一部分，"毒蛇—黑"（你）将被布署到半岛南方并开展行动。你今晚的任务就是在傍晚时分前往肃清 FIA 位在斯法卡西南的指挥部。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskGetIn_description">
             <Original>Await Hydra's arrival.</Original>
@@ -1059,7 +1059,7 @@
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskStartAttack_description">
             <Original>Move to the %2vantage point%1 above the %3insurgent camp%1, weaken the enemy defenses, and call in %4Viper-Green%1 when ready.</Original>
             <Chinese>移動到%3叛軍營地%1附近的%2有利位置%1，削弱他們的防禦，然後再呼叫%4"毒蛇-綠"%1。</Chinese>
-            <Chinesesimp>移动到%3叛军营地%1附近的%2有利位置%1，削弱他们的防御，然后再呼叫%4"毒蛇 — 绿"%1。</Chinesesimp>
+            <Chinesesimp>移动到%3叛军营地%1附近的%2有利位置%1，削弱他们的防御，然后再呼叫%4"毒蛇—绿"%1。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_tskLZ_title">
             <Original>Investigate Grid 094-082</Original>
@@ -1136,7 +1136,7 @@
           <Key ID="STR_A3_VR_objWHA3_1_desc">
             <Original>Take the vest - it will come with some additional magazines. &lt;br /&gt;The more protection the vests offer, the heavier they are and will significantly contribute to wearer's fatigue.</Original>
             <Chinese>拿取背心-裡面會有一些額外的彈匣。&lt;br/&gt;保護性越好的背心，相對的也會越重，讓使用者更容易疲勞。</Chinese>
-            <Chinesesimp>拿取背心 — 里面会有一些额外的弹匣。&lt;br/&gt;保护性越好的背心，相对的也会越重，让使用者更容易疲劳。</Chinesesimp>
+            <Chinesesimp>拿取背心—里面会有一些额外的弹匣。&lt;br/&gt;保护性越好的背心，相对的也会越重，让使用者更容易疲劳。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_VR_objWHA3_3_title">
             <Original>Take Up a Firing Position</Original>
@@ -1146,7 +1146,7 @@
           <Key ID="STR_A3_VR_objWHA3_2_desc">
             <Original>Take the backpack - it will come with 2 Medikits.</Original>
             <Chinese>拿取背包-它裡面裝有2個醫療包。</Chinese>
-            <Chinesesimp>拿取背包 — 它里面装有2个医疗包。</Chinesesimp>
+            <Chinesesimp>拿取背包—它里面装有2个医疗包。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_VR_objWHA3_4_title">
             <Original>Catch Your Breath</Original>

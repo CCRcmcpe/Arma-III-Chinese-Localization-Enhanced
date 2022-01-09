@@ -588,12 +588,12 @@
         <Key ID="str_a3_rscdisplayoptionslayout_move">
           <Original>LMB - move element</Original>
           <Chinese>滑鼠左鍵-移動元件</Chinese>
-          <Chinesesimp>鼠标左键 — 移动元件</Chinesesimp>
+          <Chinesesimp>鼠标左键—移动元件</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionslayout_resize">
           <Original>RMB - resize element</Original>
           <Chinese>滑鼠右鍵-調整元件大小</Chinese>
-          <Chinesesimp>鼠标右键 — 调整元件大小</Chinesesimp>
+          <Chinesesimp>鼠标右键—调整元件大小</Chinesesimp>
         </Key>
       </Container>
       <Container name="RscFunctionsViewer">
@@ -864,7 +864,7 @@
         <Key ID="str_a3_cfguigrids_igui_variables_grid_mission_1">
           <Original>Scenario-specific texts (e.g. info about time and location)</Original>
           <Chinese>任務-具體文本(例如:時間資訊和位置地點)</Chinese>
-          <Chinesesimp>任务 — 具体文本（例如：时间信息和位置地点）</Chinesesimp>
+          <Chinesesimp>任务—具体文本（例如：时间信息和位置地点）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguigrids_gui_presets_arma3_0">
           <Original>Arma 3</Original>
@@ -889,7 +889,7 @@
         <Key ID="str_a3_cfguigrids_igui_variables_grid_custominfoleft_0">
           <Original>Left Panel - Custom Info</Original>
           <Chinese>左面版-自訂訊息</Chinese>
-          <Chinesesimp>左面版 — 自定义信息</Chinesesimp>
+          <Chinesesimp>左面版—自定义信息</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguigrids_igui_variables_grid_custominfoleft_1">
           <Original>Shows Minimap, Radar, Slingload assistant, Camera feeds or other modules based on player's selection.</Original>
@@ -899,7 +899,7 @@
         <Key ID="str_a3_cfguigrids_igui_variables_grid_custominforight_0">
           <Original>Right Panel - Custom Info</Original>
           <Chinese>右面板-自訂訊息</Chinese>
-          <Chinesesimp>右面板 — 自定义信息</Chinesesimp>
+          <Chinesesimp>右面板—自定义信息</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguigrids_igui_variables_grid_custominforight_1">
           <Original>Shows Minimap, Radar, Slingload assistant, Camera feeds or other modules based on player's selection.</Original>
@@ -941,22 +941,22 @@
         <Key ID="str_a3_cfgmarkers_selector_selectedmission_0">
           <Original>Selector - Selected Mission</Original>
           <Chinese>選擇-選擇任務</Chinese>
-          <Chinesesimp>选择 — 选择任务</Chinesesimp>
+          <Chinesesimp>选择—选择任务</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkers_selector_selectedfriendly_0">
           <Original>Selector - Selected Friendly</Original>
           <Chinese>選擇-選擇友方</Chinese>
-          <Chinesesimp>选择 — 选择友方</Chinesesimp>
+          <Chinesesimp>选择—选择友方</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkers_selector_selectedenemy_0">
           <Original>Selector - Selected Enemy</Original>
           <Chinese>選擇-選擇敵隊</Chinese>
-          <Chinesesimp>选择 — 选择敌队</Chinesesimp>
+          <Chinesesimp>选择—选择敌队</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkers_selector_selectable_0">
           <Original>Selector - Selectable</Original>
           <Chinese>選擇-可選</Chinese>
-          <Chinesesimp>选择 — 可选</Chinesesimp>
+          <Chinesesimp>选择—可选</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkers_nato_unknown">
           <Original>Unknown</Original>
@@ -1478,7 +1478,7 @@
         <Key ID="str_a3_cfgmarkerclasses_nato_sizes_0">
           <Original>NATO - Unit Sizes</Original>
           <Chinese>北約-單位面積</Chinese>
-          <Chinesesimp>北约 — 单位规模</Chinesesimp>
+          <Chinesesimp>北约—单位规模</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkerclasses_nato_respawn_0">
           <Original>Respawn</Original>
@@ -1488,27 +1488,27 @@
         <Key ID="str_a3_cfgmarkerclasses_nato_opfor_0">
           <Original>NATO - OPFOR</Original>
           <Chinese>北約-紅方</Chinese>
-          <Chinesesimp>北约 — 红方</Chinesesimp>
+          <Chinesesimp>北约—红方</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkerclasses_nato_independent_0">
           <Original>NATO - Independent</Original>
           <Chinese>北約-中立方</Chinese>
-          <Chinesesimp>北约 — 中立方</Chinesesimp>
+          <Chinesesimp>北约—中立方</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkerclasses_nato_civilian_0">
           <Original>NATO - Civilian</Original>
           <Chinese>北約-平民</Chinese>
-          <Chinesesimp>北约 — 平民</Chinesesimp>
+          <Chinesesimp>北约—平民</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkerclasses_nato_blufor_0">
           <Original>NATO - BLUFOR</Original>
           <Chinese>北約-藍方</Chinese>
-          <Chinesesimp>北约 — 蓝方</Chinesesimp>
+          <Chinesesimp>北约—蓝方</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkerclasses_military_0">
           <Original>Standard Military</Original>
           <Chinese>正規軍</Chinese>
-          <Chinesesimp>正规军</Chinesesimp>
+          <Chinesesimp>标准军用</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkerclasses_locations_0">
           <Original>Map Locations</Original>
@@ -2344,7 +2344,7 @@
         <Key ID="str_a3_rscdisplaycamera_subheader">
           <Original>ULTIMATE SCREENSHOT SIMULATOR\n\nControls can be previewed and configured\nin 'Camera' controls options.\n\nAdditional controls:\nRMB - camera rotation and pitch\nCtrl + RMB - camera bank\nF1 - open debug console\nSpace - teleport player under crosshair\nCtrl + X - export camera params\nCtrl + C - copy camera params\nCtrl + V - paste camera params\n\nEsc - Exit</Original>
           <Chinese>專業照相機模擬器\n\n控制按鍵可以在\n'攝影機'選項中更改。\n\n控制按鍵:\n滑鼠右鍵-相機的旋轉和俯仰\nCtrl+滑鼠右鍵-相機傾斜\nF1-除錯控制臺\n空白鍵-移動玩家到十字準新瞄準的地方\nCtrl+X-導出相機參數\nCtrl+C-複製相機參數\nCtrl+V-貼上相機參數\n\nEsc-離開</Chinese>
-          <Chinesesimp>专业照相机模拟器\n\n控制按键可以在\n'摄影机'选项中更改。\n\n控制按键：\n鼠标右键 — 相机的旋转和俯仰\nCtrl+鼠标右键 — 相机倾斜\nF1-除错控制台\n空格键 — 移动玩家到十字准新瞄准的地方\nCtrl+X-导出相机参数\nCtrl+C-复制相机参数\nCtrl+V-贴上相机参数\n\nEsc-离开</Chinesesimp>
+          <Chinesesimp>专业照相机模拟器\n\n控制按键可以在\n'摄影机'选项中更改。\n\n控制按键：\n鼠标右键—相机的旋转和俯仰\nCtrl+鼠标右键—相机倾斜\nF1-除错控制台\n空格键—移动玩家到十字准新瞄准的地方\nCtrl+X-导出相机参数\nCtrl+C-复制相机参数\nCtrl+V-贴上相机参数\n\nEsc-离开</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaycamera_header">
           <Original>SPLENDID CAMERA</Original>
@@ -2880,7 +2880,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valueatoc_tooltip">
           <Original>Alpha to coverage - uses the alpha of the texture as a coverage mask for antialiasing.</Original>
           <Chinese>透明度覆蓋-使用透明貼圖來圓滑抗鋸齒的效果。</Chinese>
-          <Chinesesimp>透明度覆盖 — 使用透明贴图来圆滑抗锯齿的效果。</Chinesesimp>
+          <Chinesesimp>透明度覆盖—使用透明贴图来圆滑抗锯齿的效果。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valueaspectratio_tooltip">
           <Original>Should match aspect ratio of the monitor.</Original>
@@ -2980,7 +2980,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_textatoc_tooltip">
           <Original>Alpha to coverage - uses the alpha of the texture as a coverage mask for antialiasing.</Original>
           <Chinese>透明度覆蓋-使用透明貼圖來圓滑抗鋸齒的效果。</Chinese>
-          <Chinesesimp>透明度覆盖 — 使用透明贴图来圆滑抗锯齿的效果。</Chinesesimp>
+          <Chinesesimp>透明度覆盖—使用透明贴图来圆滑抗锯齿的效果。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_textatoc">
           <Original>AtoC:</Original>
@@ -4202,7 +4202,7 @@
         <Key ID="str_a3_rscdisplayarcademap_toolboxsection_tooltip">
           <Original>Set scenario section: Mission / Intro / Outro Win / Outro Lose</Original>
           <Chinese>設置任務段落:任務/開場/結尾-勝利/結尾-失敗</Chinese>
-          <Chinesesimp>设置任务段落：任务/开场/结尾 — 胜利/结尾 — 失败</Chinesesimp>
+          <Chinesesimp>设置任务段落：任务/开场/结尾—胜利/结尾—失败</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayarcademap_toolboxmode_tooltip">
           <Original>Set editing mode</Original>
@@ -4889,7 +4889,7 @@
         <Key ID="str_a3_splashtagline_0">
           <Original>Splash screen Tagline</Original>
           <Chinese>啟動畫面-標語</Chinese>
-          <Chinesesimp>启动画面 — 标语</Chinesesimp>
+          <Chinesesimp>启动画面—标语</Chinesesimp>
         </Key>
         <Key ID="str_a3_splashesrb_0">
           <Original>Splash screen ESRB</Original>
@@ -4899,17 +4899,17 @@
         <Key ID="str_a3_splashcopyright_0">
           <Original>Splash screen Copyright</Original>
           <Chinese>啟動畫面-版權</Chinese>
-          <Chinesesimp>启动画面 — 版权</Chinesesimp>
+          <Chinesesimp>启动画面—版权</Chinesesimp>
         </Key>
         <Key ID="str_a3_splashbohemia_0">
           <Original>Splash screen Bohemia Interactive</Original>
           <Chinese>啟動畫面-波希米亞互動工作室</Chinese>
-          <Chinesesimp>启动画面 — 波希米亚互动工作室</Chinesesimp>
+          <Chinesesimp>启动画面—波希米亚互动工作室</Chinesesimp>
         </Key>
         <Key ID="str_a3_splasharma3_0">
           <Original>Splash screen Arma 3</Original>
           <Chinese>啟動畫面-武裝突襲3</Chinese>
-          <Chinesesimp>启动画面 — 武装突袭3</Chinesesimp>
+          <Chinesesimp>启动画面—武装突袭3</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscstatic_0">
           <Original>Video Glitch</Original>
@@ -5937,7 +5937,7 @@
         <Key ID="STR_A3_UI_NEWSFEED2">
           <Original>News offline</Original>
           <Chinese>最新消息-離線</Chinese>
-          <Chinesesimp>最新消息 — 离线</Chinesesimp>
+          <Chinesesimp>最新消息—离线</Chinesesimp>
         </Key>
         <Key ID="STR_A3_UI_NEWSFEED3">
           <Original>Welcome to &lt;a href="http://www.arma3.com/"&gt;Arma 3&lt;/a&gt;!&lt;br /&gt;&lt;br /&gt;The newsfeed provides the latest coverage of updates, content, community news, and more - straight to your game!</Original>
@@ -6392,7 +6392,7 @@
         <Key ID="str_a3_rscdisplaywelcome_pare">
           <Original>To get off to the best possible start - and to get the most out of your experience - please look through a quick set of options. Then, either have a look at what the game offers, or start exploring yourself! A good place to start could be the &lt;a href="%2" color="%1"&gt;Bootcamp&lt;/a&gt; content in the TUTORIALS menu!</Original>
           <Chinese>為了取得一個美好的開始-並充分享受你的遊戲體驗-請瀏覽一下快速設置選項。然後，再看一眼這個遊戲都提供些什麼，或者開始自己去探索!建議你可以從&lt;ahref="%2"color="%1"&gt;新兵訓練&lt;/a&gt;開始玩起!</Chinese>
-          <Chinesesimp>为了取得一个美好的开始 — 并充分享受你的游戏体验 — 请浏览一下快速设置选项。然后，再看一眼这个游戏都提供些什么，或者开始自己去探索！建议你可以从&lt;ahref="%2"color="%1"&gt;新兵训练&lt;/a&gt;开始玩起！</Chinesesimp>
+          <Chinesesimp>为了取得一个美好的开始—并充分享受你的游戏体验—请浏览一下快速设置选项。然后，再看一眼这个游戏都提供些什么，或者开始自己去探索！建议你可以从&lt;ahref="%2"color="%1"&gt;新兵训练&lt;/a&gt;开始玩起！</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pare_footer1">
           <Original>Thank you for your support and cya on the battlefield!</Original>
@@ -7194,12 +7194,12 @@
         <Key ID="STR_WI_FLIR">
           <Original>FLIR</Original>
           <Chinese>前視性紅外線</Chinese>
-          <Chinesesimp>前视红外</Chinesesimp>
+          <Chinesesimp>FLIR</Chinesesimp>
         </Key>
         <Key ID="STR_WI_NVS">
           <Original>NVS</Original>
           <Chinese>夜視瞄準鏡</Chinese>
-          <Chinesesimp>夜视瞄准镜</Chinesesimp>
+          <Chinesesimp>NVS</Chinesesimp>
         </Key>
         <Key ID="STR_WI_AC_RANGE_NA">
           <Original>---</Original>
@@ -7209,7 +7209,7 @@
         <Key ID="STR_WI_TI">
           <Original>TI</Original>
           <Chinese>熱成像</Chinese>
-          <Chinesesimp>热成像</Chinesesimp>
+          <Chinesesimp>TI</Chinesesimp>
         </Key>
         <Key ID="STR_WI_ARTI_DISTANCE">
           <Original>%d</Original>
@@ -7219,12 +7219,12 @@
         <Key ID="STR_WI_VIS">
           <Original>VIS</Original>
           <Chinese>可見光</Chinese>
-          <Chinesesimp>可见光</Chinesesimp>
+          <Chinesesimp>VIS</Chinesesimp>
         </Key>
         <Key ID="STR_WI_DTV">
           <Original>DTV</Original>
           <Chinese>數位影像</Chinese>
-          <Chinesesimp>数码影像</Chinesesimp>
+          <Chinesesimp>DTV</Chinesesimp>
         </Key>
         <Key ID="STR_WI_ZOOM_NONE">
           <Original>NONE</Original>
@@ -7234,7 +7234,7 @@
         <Key ID="STR_WI_NV">
           <Original>NV</Original>
           <Chinese>夜視</Chinese>
-          <Chinesesimp>夜视</Chinesesimp>
+          <Chinesesimp>NV</Chinesesimp>
         </Key>
         <Key ID="STR_WI_ARTI_DISTANCE_NA">
           <Original>--</Original>
@@ -7359,7 +7359,7 @@
       <Key ID="STR_TOOLTIP_MAIN_MULTIPLAYER_A3">
         <Original>Launch the multiplayer server browser - play and host MP game modes.</Original>
         <Chinese>開啟多人連線-進行多人連線及創建伺服器。</Chinese>
-        <Chinesesimp>开启多人连线 — 进行多人连线及创建服务器。</Chinesesimp>
+        <Chinesesimp>开启多人连线—进行多人连线及创建服务器。</Chinesesimp>
       </Key>
       <Key ID="STR_MAIN_SINGLEPLAYER_TOOLTIP">
         <Original>Start scenarios, campaign and multiplayer from here.</Original>
@@ -8710,7 +8710,7 @@
         <Key ID="STR_STEAM_RESULT_ACCOUNT_LOGON_DENIED_NO_MAIL">
           <Original>Account login denied due to 2nd factor authentication failure - and no mail has been sent.</Original>
           <Chinese>帳號登錄被拒絕，由於第二因素認證失敗-未發送郵件。</Chinese>
-          <Chinesesimp>帐号登录被拒绝，由于第二因素认证失败 — 未发送邮件。</Chinesesimp>
+          <Chinesesimp>帐号登录被拒绝，由于第二因素认证失败—未发送邮件。</Chinesesimp>
         </Key>
         <Key ID="STR_STEAM_RESULT_ACCOUNT_LOGON_DENIED_VERIFIED_EMAIL_REQUIRED">
           <Original>Account logon denied. Verification email required.</Original>
@@ -8765,7 +8765,7 @@
         <Key ID="STR_STEAM_RESULT_BUSY">
           <Original>Called method busy - action not taken.</Original>
           <Chinese>調用方法忙碌-未採取動作。</Chinese>
-          <Chinesesimp>调用方法忙碌 — 未采取动作。</Chinesesimp>
+          <Chinesesimp>调用方法忙碌—未采取动作。</Chinesesimp>
         </Key>
         <Key ID="STR_STEAM_RESULT_INVALID_EMAIL">
           <Original>Email is invalid.</Original>
@@ -8910,7 +8910,7 @@
         <Key ID="STR_STEAM_RESULT_DISK_FULL">
           <Original>Operation canceled - not enough disk space.</Original>
           <Chinese>取消目前操作-沒有足夠的磁碟空間。</Chinese>
-          <Chinesesimp>取消目前操作 — 没有足够的磁碟空间。</Chinesesimp>
+          <Chinesesimp>取消目前操作—没有足够的磁碟空间。</Chinesesimp>
         </Key>
         <Key ID="STR_STEAM_RESULT_DUPLICATE_REQUEST">
           <Original>The request is a duplicate and the action has already occurred in the past, ignored this time.</Original>
@@ -8975,7 +8975,7 @@
         <Key ID="STR_STEAM_RESULT_HARDWARE_NOT_CAPABLE_OF_IPT">
           <Original>Hardware is not capable of IPT.</Original>
           <Chinese>取消目前操作-沒有足夠的磁碟空間。</Chinese>
-          <Chinesesimp>取消目前操作 — 没有足够的磁盘空间。</Chinesesimp>
+          <Chinesesimp>取消目前操作—没有足够的磁盘空间。</Chinesesimp>
         </Key>
         <Key ID="STR_STEAM_RESULT_IGNORED">
           <Original>Target is ignoring sender.</Original>
@@ -9161,17 +9161,17 @@
       <Key ID="STR_MISSION_TAG_GAMEPLAY_GROUP">
         <Original>Tags - Gameplay</Original>
         <Chinese>標籤-遊戲</Chinese>
-        <Chinesesimp>标签 — 游戏</Chinesesimp>
+        <Chinesesimp>标签—游戏</Chinesesimp>
       </Key>
       <Key ID="STR_MISSION_TAG_OTHER_GROUP">
         <Original>Tags - Other</Original>
         <Chinese>標籤-其他</Chinese>
-        <Chinesesimp>标签 — 其他</Chinesesimp>
+        <Chinesesimp>标签—其他</Chinesesimp>
       </Key>
       <Key ID="STR_MISSION_TAG_TYPE_GROUP">
         <Original>Tags - Type</Original>
         <Chinese>標籤-類型</Chinese>
-        <Chinesesimp>标签 — 类型</Chinesesimp>
+        <Chinesesimp>标签—类型</Chinesesimp>
       </Key>
       <Key ID="STR_STEAM_UPDATE_QUESTION">
         <Original>Do you want to overwrite mission: "%s"?</Original>
@@ -10084,7 +10084,7 @@
         <Key ID="str_controls_tooltips_SWIM_UP">
           <Original>Underwater - ascend</Original>
           <Chinese>水下-上升</Chinese>
-          <Chinesesimp>水下 — 上升</Chinesesimp>
+          <Chinesesimp>水下—上升</Chinesesimp>
         </Key>
         <Key ID="STR_CONTROLS_CONFIGURE_KEY_AMBIGUITY_PART">
           <Original>First key ambiguity</Original>
@@ -10099,7 +10099,7 @@
         <Key ID="str_controls_tooltips_SWIM_DOWN">
           <Original>Underwater - descend</Original>
           <Chinese>水下-下降</Chinese>
-          <Chinesesimp>水下 — 下降</Chinesesimp>
+          <Chinesesimp>水下—下降</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_ACTION">
           <Original>Execute default or selected contextual menu action</Original>
@@ -10284,7 +10284,7 @@
         <Key ID="str_controls_tooltips_brake_analogue">
           <Original>For analog air brake mapping. NOTE! Both + and - axes need to be mapped.</Original>
           <Chinese>用來設定減速板/煞車的類比模式。請注意!你必須把控制器的+軸與-軸都設定上去才可以正常使用此功能。</Chinese>
-          <Chinesesimp>用来设定减速板/刹车的类比模式。请注意！你必须把控制器的+轴与 — 轴都设定上去才可以正常使用此功能。</Chinesesimp>
+          <Chinesesimp>用来设定减速板/刹车的类比模式。请注意！你必须把控制器的+轴与—轴都设定上去才可以正常使用此功能。</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_CANCEL_ACTION">
           <Original>Cancel current action</Original>
@@ -11159,7 +11159,7 @@
         <Key ID="str_controls_tooltips_thrust_analogue">
           <Original>For analog throttle mapping. NOTE! Both + and - axes need to be mapped.</Original>
           <Chinese>使用類比的方式來改變推力。請注意!你必須把油門的+軸與-軸都設定到此項目上才能正常使用油門。</Chinese>
-          <Chinesesimp>使用类比的方式来改变推力。请注意！你必须把油门的+轴与 — 轴都设定到此项目上才能正常使用油门。</Chinesesimp>
+          <Chinesesimp>使用类比的方式来改变推力。请注意！你必须把油门的+轴与—轴都设定到此项目上才能正常使用油门。</Chinesesimp>
         </Key>
         <Key ID="STR_CONTROLS_TOOLTIPS_TRANSPORT_NIGHT_VISION">
           <Original>Toggle vision mode in vehicle, if available</Original>
@@ -12073,17 +12073,17 @@
       <Key ID="str_a3_cfggroupicons_hc_selectable0">
         <Original>HC - Selectable</Original>
         <Chinese>最高指揮-可選</Chinese>
-        <Chinesesimp>最高指挥 — 可选</Chinesesimp>
+        <Chinesesimp>最高指挥—可选</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfggroupicons_hc_selected0">
         <Original>HC - Selected</Original>
         <Chinese>最高指揮-選擇</Chinese>
-        <Chinesesimp>最高指挥 — 选择</Chinesesimp>
+        <Chinesesimp>最高指挥—选择</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfggroupicons_hc_selectedenemy0">
         <Original>HC - Selected Enemy</Original>
         <Chinese>最高指揮-選擇敵人</Chinese>
-        <Chinesesimp>最高指挥 — 选择敌人</Chinesesimp>
+        <Chinesesimp>最高指挥—选择敌人</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfggroupicons_waypoint0">
         <Original>Waypoint</Original>
@@ -12113,7 +12113,7 @@
       <Key ID="str_a3_cfglocationtypes_flatareacitysmall0">
         <Original>Flat area in a city - small</Original>
         <Chinese>城市的平坦區域-小</Chinese>
-        <Chinesesimp>城市的平坦区域 — 小</Chinesesimp>
+        <Chinesesimp>城市的平坦区域—小</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfglocationtypes_strategic0">
         <Original>Strategic key point</Original>
@@ -13235,7 +13235,7 @@
         <Key ID="str_disp_error">
           <Original>ERROR - replace</Original>
           <Chinese>錯誤-取代</Chinese>
-          <Chinesesimp>错误 — 取代</Chinesesimp>
+          <Chinesesimp>错误—取代</Chinesesimp>
         </Key>
         <Key ID="str_disp_filter_maxplayers">
           <Original>Max. players:</Original>
@@ -18265,7 +18265,7 @@
         <Key ID="str_brief_yourkills_civil">
           <Original>Your kills - civilians:</Original>
           <Chinese>你殺死-平民:</Chinese>
-          <Chinesesimp>你杀死 — 平民：</Chinesesimp>
+          <Chinesesimp>你杀死—平民：</Chinesesimp>
         </Key>
         <Key ID="str_version_info">
           <Original>Version: %s</Original>
@@ -18275,7 +18275,7 @@
         <Key ID="str_brief_yourkills_friendly">
           <Original>Your kills - friendly units:</Original>
           <Chinese>你殺死-友軍單位:</Chinese>
-          <Chinesesimp>你杀死 — 友军单位：</Chinesesimp>
+          <Chinesesimp>你杀死—友军单位：</Chinesesimp>
         </Key>
         <Key ID="str_bypass">
           <Original>Hold fire</Original>
@@ -21155,7 +21155,7 @@
         <Key ID="str_ds_player_kicked_big_custom_file">
           <Original>Player %s kicked off - too big custom file '%s' (%d B &gt; %d B).</Original>
           <Chinese>玩家%s被踢除-太大的自訂檔案'%s'(%dB&gt;%dB)。</Chinese>
-          <Chinesesimp>玩家%s被踢除 — 太大的自定义文件'%s'（%dB&gt;%dB）。</Chinesesimp>
+          <Chinesesimp>玩家%s被踢除—太大的自定义文件'%s'（%dB&gt;%dB）。</Chinesesimp>
         </Key>
         <Key ID="str_unlock_host">
           <Original>Unlock server</Original>
@@ -21165,7 +21165,7 @@
         <Key ID="str_ds_player_kicked_invalid_custom_file">
           <Original>Player %s kicked off - invalid custom file '%s'.</Original>
           <Chinese>玩家%s被踢除-無效的自訂檔案'%s'。</Chinese>
-          <Chinesesimp>玩家%s被踢除 — 无效的自定义文件'%s'。</Chinesesimp>
+          <Chinesesimp>玩家%s被踢除—无效的自定义文件'%s'。</Chinesesimp>
         </Key>
         <Key ID="str_ds_reading_mission">
           <Original>Reading mission ...</Original>
@@ -21735,12 +21735,12 @@
         <Key ID="str_file_error_corrupted">
           <Original>Cannot access the content - the content is corrupted</Original>
           <Chinese>無法訪問的內容-內容已損壞</Chinese>
-          <Chinesesimp>无法访问的内容 — 内容已损坏</Chinesesimp>
+          <Chinesesimp>无法访问的内容—内容已损坏</Chinesesimp>
         </Key>
         <Key ID="str_file_error_disk_full">
           <Original>Cannot create content - there is not enough space on the selected storage device.</Original>
           <Chinese>無法創鍵內容-沒有足夠的儲空間可以儲存。</Chinese>
-          <Chinesesimp>无法创键内容 — 没有足够的储空间可以储存。</Chinesesimp>
+          <Chinesesimp>无法创键内容—没有足够的储空间可以储存。</Chinesesimp>
         </Key>
         <Key ID="str_terrain_12_5">
           <Original>Normal</Original>
@@ -21750,12 +21750,12 @@
         <Key ID="str_file_error_failed">
           <Original>Cannot access the content - load failed</Original>
           <Chinese>無法訪問內容-載入失敗</Chinese>
-          <Chinesesimp>无法访问内容 — 载入失败</Chinesesimp>
+          <Chinesesimp>无法访问内容—载入失败</Chinesesimp>
         </Key>
         <Key ID="str_file_error_no_device">
           <Original>Cannot access the content - no device is selected</Original>
           <Chinese>無法訪問內容-沒有裝置被選取</Chinese>
-          <Chinesesimp>无法访问内容 — 没有装置被选取</Chinesesimp>
+          <Chinesesimp>无法访问内容—没有装置被选取</Chinesesimp>
         </Key>
         <Key ID="str_templ_merge">
           <Original>Merge mission</Original>
@@ -23730,7 +23730,7 @@
         <Key ID="str_section_outro_win">
           <Original>Outro - win</Original>
           <Chinese>結局-勝利</Chinese>
-          <Chinesesimp>结局 — 胜利</Chinesesimp>
+          <Chinesesimp>结局—胜利</Chinesesimp>
         </Key>
         <Key ID="str_mprole_pool_east">
           <Original>Pool:</Original>
@@ -23740,7 +23740,7 @@
         <Key ID="str_section_outro_loose">
           <Original>Outro - lose</Original>
           <Chinese>結局-失敗</Chinese>
-          <Chinesesimp>结局 — 失败</Chinesesimp>
+          <Chinesesimp>结局—失败</Chinesesimp>
         </Key>
         <Key ID="str_mprole_pool_resist">
           <Original>Pool:</Original>
@@ -23930,7 +23930,7 @@
         <Key ID="str_mpw_new_edit">
           <Original>&lt;&lt;New - Editor&gt;&gt;</Original>
           <Chinese>&lt;&lt;新建-編輯器&gt;&gt;</Chinese>
-          <Chinesesimp>&lt;&lt;新建 — 编辑器&gt;&gt;</Chinesesimp>
+          <Chinesesimp>&lt;&lt;新建—编辑器&gt;&gt;</Chinesesimp>
         </Key>
         <Key ID="str_respawn_message">
           <Original>Wait %.0f seconds to continue playing</Original>
@@ -23945,7 +23945,7 @@
         <Key ID="str_mpw_new_wiz">
           <Original>&lt;&lt;New - Wizard&gt;&gt;</Original>
           <Chinese>&lt;&lt;新建-嚮導&gt;&gt;</Chinese>
-          <Chinesesimp>&lt;&lt;新建 — 向导&gt;&gt;</Chinesesimp>
+          <Chinesesimp>&lt;&lt;新建—向导&gt;&gt;</Chinesesimp>
         </Key>
         <Key ID="str_resolution_format">
           <Original>%d×%d×%d</Original>
@@ -24520,7 +24520,7 @@
         <Key ID="str_quote_30">
           <Original>Courage is being scared to death - but saddling up anyway.</Original>
           <Chinese>雖然被嚇得半死，但還是咬牙硬撐下來--這就是勇氣。</Chinese>
-          <Chinesesimp>勇气就是吓得要死 — 但依然策马前行。</Chinesesimp>
+          <Chinesesimp>勇气就是吓得要死—但依然策马前行。</Chinesesimp>
         </Key>
         <Key ID="str_msg_storage_changed">
           <Original>The selected storage device has been removed.  Game progress will not be saved. Choose a different storage device?</Original>
@@ -24610,7 +24610,7 @@
         <Key ID="str_quote_25">
           <Original>War does not determine who is right - only who is left.</Original>
           <Chinese>戰爭不會決定誰是正確的-只是誰被留下。</Chinese>
-          <Chinesesimp>战争不会决定谁是正确的 — 只是谁被留下。</Chinesesimp>
+          <Chinesesimp>战争不会决定谁是正确的—只是谁被留下。</Chinesesimp>
         </Key>
         <Key ID="str_multi_lan">
           <Original>LAN</Original>
@@ -24630,7 +24630,7 @@
         <Key ID="str_multi_title_internet">
           <Original>Network games on Internet.</Original>
           <Chinese>網際網路-多人連線模式。</Chinese>
-          <Chinesesimp>网际网络 — 多人连线模式。</Chinesesimp>
+          <Chinesesimp>网际网络—多人连线模式。</Chinesesimp>
         </Key>
         <Key ID="str_multi_title_lan">
           <Original>Network games on LAN.</Original>
@@ -27113,7 +27113,7 @@
           <Key ID="str_cfg_sfx_ca_expl1">
             <Original>Ambient - Explosion 1</Original>
             <Chinese>環境-爆炸1</Chinese>
-            <Chinesesimp>环境 — 爆炸1</Chinesesimp>
+            <Chinesesimp>环境—爆炸1</Chinesesimp>
           </Key>
           <Key ID="str_cfg_sfx_destrhouse">
             <Original>House destruction</Original>
@@ -27123,7 +27123,7 @@
           <Key ID="str_cfg_sfx_fire">
             <Original>Ambient - Fire</Original>
             <Chinese>環境-火</Chinese>
-            <Chinesesimp>环境 — 火</Chinesesimp>
+            <Chinesesimp>环境—火</Chinesesimp>
           </Key>
           <Key ID="str_dn_frog">
             <Original>Frog</Original>
@@ -27441,17 +27441,17 @@
           <Key ID="str_dn_obstacle_cylinder">
             <Original>Obstacle - Cylinder</Original>
             <Chinese>障礙物-圓柱</Chinese>
-            <Chinesesimp>障碍物 — 圆柱</Chinesesimp>
+            <Chinesesimp>障碍物—圆柱</Chinesesimp>
           </Key>
           <Key ID="str_dn_obstacle_jump">
             <Original>Obstacle - Jump</Original>
             <Chinese>障礙物-跳躍</Chinese>
-            <Chinesesimp>障碍物 — 跳跃</Chinesesimp>
+            <Chinesesimp>障碍物—跳跃</Chinesesimp>
           </Key>
           <Key ID="str_dn_obstacle_saddle">
             <Original>Obstacle - Saddle</Original>
             <Chinese>障礙物-馬鞍</Chinese>
-            <Chinesesimp>障碍物 — 马鞍</Chinesesimp>
+            <Chinesesimp>障碍物—马鞍</Chinesesimp>
           </Key>
           <Key ID="str_dn_platform">
             <Original>Platform</Original>
@@ -27774,7 +27774,7 @@
           <Key ID="str_editor_error_rtn_val_false">
             <Original>Wrong editor definition file - unexpected return value in 'valid': false</Original>
             <Chinese>錯誤的編輯器定義文件-一個非預期的值出現了:false</Chinese>
-            <Chinesesimp>错误的编辑器定义文件 — 一个非预期的值出现了：false</Chinesesimp>
+            <Chinesesimp>错误的编辑器定义文件—一个非预期的值出现了：false</Chinesesimp>
           </Key>
           <Key ID="str_editor_prompt_overlay_cleared">
             <Original>Overlay cleared.</Original>
@@ -27784,12 +27784,12 @@
           <Key ID="str_editor_error_rtn_val_nil">
             <Original>Wrong editor definition file - unexpected return value in 'valid': Nil</Original>
             <Chinese>錯誤的編輯器定義文件-一個非預期的值出現了:Nil</Chinese>
-            <Chinesesimp>错误的编辑器定义文件 — 一个非预期的值出现了：Nil</Chinesesimp>
+            <Chinesesimp>错误的编辑器定义文件—一个非预期的值出现了：Nil</Chinesesimp>
           </Key>
           <Key ID="str_editor_error_rtn_val_str">
             <Original>Wrong editor definition file - unexpected return value in 'valid': %s</Original>
             <Chinese>錯誤的編輯器定義文件-一個非預期的值出現了:%s</Chinese>
-            <Chinesesimp>错误的编辑器定义文件 — 一个非预期的值出现了：%s</Chinesesimp>
+            <Chinesesimp>错误的编辑器定义文件—一个非预期的值出现了：%s</Chinesesimp>
           </Key>
           <Key ID="str_editor_error_tree_sel">
             <Original>Wrong selection in %s</Original>
@@ -27858,17 +27858,17 @@
           <Key ID="str_hc_commander">
             <Original>High Command - Commander</Original>
             <Chinese>最高指揮官-指揮官</Chinese>
-            <Chinesesimp>最高指挥官 — 指挥官</Chinesesimp>
+            <Chinesesimp>最高指挥官—指挥官</Chinesesimp>
           </Key>
           <Key ID="str_hc_subordinate">
             <Original>High Command - Subordinate</Original>
             <Chinese>最高指揮官-部屬</Chinese>
-            <Chinesesimp>最高指挥官 — 部属</Chinesesimp>
+            <Chinesesimp>最高指挥官—部属</Chinesesimp>
           </Key>
           <Key ID="str_hc_hc">
             <Original>High Command - Commander</Original>
             <Chinese>最高指揮官-指揮官</Chinese>
-            <Chinesesimp>最高指挥官 — 指挥官</Chinesesimp>
+            <Chinesesimp>最高指挥官—指挥官</Chinesesimp>
           </Key>
           <Key ID="str_hc_menu_speed">
             <Original>Speed</Original>

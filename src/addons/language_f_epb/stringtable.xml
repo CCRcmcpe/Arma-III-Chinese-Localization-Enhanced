@@ -679,7 +679,7 @@
       <Key ID="str_a3_guide_night1">
         <Original>In this section we’ll provide some useful tips for engaging in night-time operations.%1%1%2%3Flashlights.%4 Flashlights are best used in short ‘bursts’ - you toggle them on to illuminate something or scan an area, then turn them off once you’ve seen what you need to see. After turning them off, make sure to move away from that position.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\lights_ca.paa' /&gt;%1%2%3Nightvision.%4 Nightvision works via the amplification of ambient light - be it from stars, the moon, or artificial sources. Thus, it works best when the moon is out or the sky is clear - clouds and such tend to degrade the image quality. Nightvision also opens up the use of infrared gear like infrared (IR) lasers. %1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\nvg_ca.paa' /&gt;%1%2%3IR lasers.%4 Employment of IR lasers is very similar to that of flashlights, in that you don’t want to leave them turned on all the time. Keeping lasers turned off helps to ‘declutter’ what soldiers are seeing. Good laser discipline happens when using lasers only to indicate targets, direct attention, or are actively employing weapons.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\lasers_ca.paa' /&gt;%1%2%3Weapon usage at night.%4 Beware of muzzle flash. If there’s no solid cover nearby, change positions after each burst - the enemy will return fire where they last saw the muzzle flashes. If non-tracer magazines are available, try to use them whenever possible. Save tracer magazines for critical situations like designating targets or when your side has fire superiority.</Original>
         <Chinese>在本單元中，我們將會教你一些在夜間作戰時可用的技巧。%1%1%2%3手電筒。%4手電筒的使用方式最好是短暫開啟最好，當你開啟它後，請迅速向你想看的目標或區域照射並掃視一次，然後得到你想要的情報之後，在迅速將他關上。請切記，最好在使用完手電筒之後，離開原本使用手電筒的位置，以避免暴露你的行蹤。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\lights_ca.paa'/&gt;%1%2%3夜視鏡。%4夜視鏡的作用原理來自於放大週遭的環境光-像是星星，月亮，或是路燈等光源。不過還是推薦在有月亮高掛的夜晚，它的效果才是最好的，如果有雲擋住，將會降低影像的品質。夜視鏡還可見到平時肉眼所見不到的紅外線，所以可以使用它來觀察紅外線雷射的光束。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\nvg_ca.paa'/&gt;%1%2%3紅外線雷射。%4紅外線雷射的作用方式跟手電筒很像，同樣的，你不會想一直讓它保持開啟。保持雷射關閉有助於士兵的視野清晰。雷射最好在指示目標，標明方向，標記正在活動的武器等目標時，才會被開啟。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\lasers_ca.paa'/&gt;%1%2%3在夜間使用武器。%4請小心你的槍口焰。假如你附近沒有堅硬的掩體，請在每次射擊之後變換位置-因為敵人會向最後看到槍口焰的位置開火。假如你身上有攜帶不是曳光彈的彈匣的話，請盡量使用它們。保留你的曳光彈彈匣，除非你身處危及的狀況並需要標記敵人的方位時，要不就是你的兵力優勢遠大於對方時。</Chinese>
-        <Chinesesimp>在本单元中，我们将会教你一些在夜间作战时可用的技巧。%1%1%2%3手电筒。%4手电筒的使用方式最好是短暂开启最好，当你开启它后，请迅速向你想看的目标或区域照射并扫视一次，然后得到你想要的情报之后，在迅速将它关上。请切记，最好在使用完手电筒之后，离开原本使用手电筒的位置，以避免暴露你的行踪。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\lights_ca.paa'/&gt;%1%2%3夜视仪。%4夜视仪的作用原理来自于放大周遭的环境光 — 像是星星，月亮，或是路灯等光源。不过还是推荐在有月亮高挂的夜晚，它的效果才是最好的，如果有云挡住，将会降低影像的品质。夜视仪还可见到平时肉眼所见不到的红外线，所以可以使用它来观察红外线雷射的光束。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\nvg_ca.paa'/&gt;%1%2%3红外线雷射。%4红外线雷射的作用方式跟手电筒很像，同样的，你不会想一直让它保持开启。保持雷射关闭有助于士兵的视野清晰。雷射最好在指示目标，标明方向，标记正在活动的武器等目标时，才会被开启。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\lasers_ca.paa'/&gt;%1%2%3在夜间使用武器。%4请小心你的枪口焰。假如你附近没有坚硬的掩体，请在每次射击之后变换位置 — 因为敌人会向最后看到枪口焰的位置开火。假如你身上有携带不是曳光弹的弹匣的话，请尽量使用它们。保留你的曳光弹弹匣，除非你身处危及的状况并需要标记敌人的方位时，要不就是你的兵力优势远大于对方时。</Chinesesimp>
+        <Chinesesimp>在本单元中，我们将会教你一些在夜间作战时可用的技巧。%1%1%2%3手电筒。%4手电筒的使用方式最好是短暂开启最好，当你开启它后，请迅速向你想看的目标或区域照射并扫视一次，然后得到你想要的情报之后，在迅速将它关上。请切记，最好在使用完手电筒之后，离开原本使用手电筒的位置，以避免暴露你的行踪。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\lights_ca.paa'/&gt;%1%2%3夜视仪。%4夜视仪的作用原理来自于放大周遭的环境光—像是星星，月亮，或是路灯等光源。不过还是推荐在有月亮高挂的夜晚，它的效果才是最好的，如果有云挡住，将会降低影像的品质。夜视仪还可见到平时肉眼所见不到的红外线，所以可以使用它来观察红外线雷射的光束。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\nvg_ca.paa'/&gt;%1%2%3红外线雷射。%4红外线雷射的作用方式跟手电筒很像，同样的，你不会想一直让它保持开启。保持雷射关闭有助于士兵的视野清晰。雷射最好在指示目标，标明方向，标记正在活动的武器等目标时，才会被开启。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\lasers_ca.paa'/&gt;%1%2%3在夜间使用武器。%4请小心你的枪口焰。假如你附近没有坚硬的掩体，请在每次射击之后变换位置—因为敌人会向最后看到枪口焰的位置开火。假如你身上有携带不是曳光弹的弹匣的话，请尽量使用它们。保留你的曳光弹弹匣，除非你身处危及的状况并需要标记敌人的方位时，要不就是你的兵力优势远大于对方时。</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_night0">
         <Original>A10 Fighting at Night</Original>
@@ -754,7 +754,7 @@
       <Key ID="str_a3_guide_fireteam1">
         <Original>The fireteam is the smallest combat element employed at the platoon level. The Fireteam Leader’s (FTL) mantra is “Follow me and do as I do”.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\fireteam2_ca.paa' /&gt;%1%1%3Fireteam Leaders ...%4%1%2%3... ensure that their fireteam members maintain good interval and situational awareness.%4 This is accomplished in part by giving simple formations (typically line, wedge, or staggered column) and emphasizing proper sector coverage and security. The FTL must be vigilant and proactive in preventing their team members from becoming target-fixated or bunched up.%1%2%3... control and direct the team’s fire.%4 While the FTL can often let his team members engage at will, there will come times when the direction of their fire is critical to success - engagement of high-priority targets such as snipers, machineguns, and vehicles are good examples.%1%2%3... maintain accountability of their team members.%4 It's up to the FTL to ensure that no team members are left behind. A FTL should do a team check after every engagement, and multiple times during extended fights. Having a team member go down without the FTL knowing about it can be a major issue.%1%2%3... are proficient with their under-barrel grenade launchers (“UGL”).%4 The FTL must be able to use their UGL to carry out a number of tasks, such as firing high-explosive shells at significant enemy positions, screening friendly movement, marking or masking the enemy with smoke shells.</Original>
         <Chinese>小隊是在整個排級作戰單位中最小的單位。在本單元中，我們將會教你如何當好一個小隊長，而一個好的小隊長其常說的口頭禪便是-"跟隨我，看我做啥就做啥"。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\fireteam2_ca.paa'/&gt;%1%1%3小隊長...%4%1%2%3...時常確保其隊員間的間隔並能清楚了解當下的狀況。%4你可以通過指揮他們排成戰術隊形(像是橫列，縱列或楔形等等)並確保他們合理的分佈在適當的距離上。小隊長必須時常小心與關切其隊員是否同時專注於同一目標或是隊形過於擁擠。%1%2%3...控制開火時機與開火方向。%4小隊長基本上可以讓他的隊員隨時處在自由交戰的狀態，但隨之而來的是，你必須在交戰中優先指名高價值目標-像是狙擊手，機槍手或者載具等等比較高危險性的目標。%1%2%3...時常確認你的小隊員。%4小隊長的其中一項責任，就是確定沒有任何隊友被留在後面。小隊長必須在每次交戰後確認其隊員的安全，或是在長期交戰中多次進行確認。最糟糕的就是當有隊員走失或倒下，但小隊長並不知情，這種狀況是不可取的。%1%2%3...必須精通下掛式榴彈發射器。%4一個好的小隊長通常要在任務中攜帶數枚榴彈，像是使用高爆彈來對付敵人的陣地，也可使用煙霧彈來標記敵人的位置或隱藏自己人的蹤跡。</Chinese>
-        <Chinesesimp>小队是在整个排级作战单位中最小的单位。在本单元中，我们将会教你如何当好一个小队长，而一个好的小队长其常说的口头禅便是-"跟随我，看我做啥就做啥"。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\fireteam2_ca.paa'/&gt;%1%1%3小队长...%4%1%2%3...时常确保其队员间的间隔并能清楚了解当下的状况。%4你可以通过指挥他们排成战术队形（像是横列，纵列或楔形等等）并确保他们合理的分布在适当的距离上。小队长必须时常小心与关切其队员是否同时专注于同一目标或是队形过于拥挤。%1%2%3...控制开火时机与开火方向。%4小队长基本上可以让他的队员随时处在自由交战的状态，但随之而来的是，你必须在交战中优先指名高价值目标 — 像是狙击手，机枪手或者载具等等比较高危险性的目标。%1%2%3...时常确认你的小队员。%4小队长的其中一项责任，就是确定没有任何队友被留在后面。小队长必须在每次交战后确认其队员的安全，或是在长期交战中多次进行确认。最糟糕的就是当有队员走失或倒下，但小队长并不知情，这种状况是不可取的。%1%2%3...必须精通下挂式榴弹发射器。%4一个好的小队长通常要在任务中携带数枚榴弹，像是使用高爆弹来对付敌人的阵地，也可使用烟雾弹来标记敌人的位置或隐藏自己人的踪迹。</Chinesesimp>
+        <Chinesesimp>小队是在整个排级作战单位中最小的单位。在本单元中，我们将会教你如何当好一个小队长，而一个好的小队长其常说的口头禅便是-"跟随我，看我做啥就做啥"。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\fireteam2_ca.paa'/&gt;%1%1%3小队长...%4%1%2%3...时常确保其队员间的间隔并能清楚了解当下的状况。%4你可以通过指挥他们排成战术队形（像是横列，纵列或楔形等等）并确保他们合理的分布在适当的距离上。小队长必须时常小心与关切其队员是否同时专注于同一目标或是队形过于拥挤。%1%2%3...控制开火时机与开火方向。%4小队长基本上可以让他的队员随时处在自由交战的状态，但随之而来的是，你必须在交战中优先指名高价值目标—像是狙击手，机枪手或者载具等等比较高危险性的目标。%1%2%3...时常确认你的小队员。%4小队长的其中一项责任，就是确定没有任何队友被留在后面。小队长必须在每次交战后确认其队员的安全，或是在长期交战中多次进行确认。最糟糕的就是当有队员走失或倒下，但小队长并不知情，这种状况是不可取的。%1%2%3...必须精通下挂式榴弹发射器。%4一个好的小队长通常要在任务中携带数枚榴弹，像是使用高爆弹来对付敌人的阵地，也可使用烟雾弹来标记敌人的位置或隐藏自己人的踪迹。</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_fireteam0">
         <Original>B02 Fireteam Leadership</Original>
@@ -764,7 +764,7 @@
       <Key ID="str_a3_guide_defending1">
         <Original>Defending can take many forms. An element may be tasked with protecting something important, such as a building, key road or intersection, vehicle, or high-value personnel. It may also simply need to protect itself while in a static position. Whatever the case may be, there are several common themes to defending successfully.%1%1%2%3Security.%4 Security comes in the form of ensuring that the defensive positions can observe all around the defensive location and cover all possible avenues of approach.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\security_ca.paa' /&gt;%1%2%3Positioning.%4 Every fighting position should be chosen to minimize exposure to enemy observation and fires, while maximizing the lethality of the soldier fighting from that position.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\defending_ca.paa' /&gt;%1%2%3Depth.%4 Spreading a defending force thinly over a long frontage, with no reserve and no depth to the defense, is tactically unsound. Defenders must ensure that they have depth to their defense.%1%2%3Mutual support.%4 The ultimate goal is to make it impossible for the enemy to attack one position in isolation - instead, they will always find themselves engaged by a supporting position, forcing them to attempt to attack both positions at the same time, which dilutes their efforts.%1%2%3Flexibility.%4 In an ideal situation, each defensive position has an alternate position to fight from, as well as “fall-back” positions which are deeper in the defended areas.</Original>
         <Chinese>防守的任務有很多形式。像是保護重要的建築物，交通要道，載具或者重要的人物等等。也有可能只是固守在一個點來保護自己。不管狀況怎樣，有同樣幾件關鍵的重點是關乎防守成功與否。%1%1%2%3安全。%4安全的建立來自於選擇防守的地點，這地點必須能觀察到防守點附近所有的環境以及敵人可能會接近的路線。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\security_ca.paa'/&gt;%1%2%3防守位置。%4每一個單兵的防守位置必須選擇能有效隱蔽自己行蹤與降低敵人擊中你的地方，但同時也能夠最大限度的增加該單兵的殺傷力。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\defending_ca.paa'/&gt;%1%2%3縱深防禦。%4把整個防禦部隊分散在同一正面，將會使防禦陣線沒有縱深且沒有後備部隊，而這是不正確的戰術。防禦者必須確保他的防禦陣線是有縱深。%1%2%3互相支援。%4這個目的在於避免一個點因為敵人的攻擊而被孤立且瓦解-相反的，敵人會發現他們攻擊的是一個強而有力的支撐點，時間久了，自然而然敵方的力量就會慢慢削弱。%1%2%3靈活性。%4一個好的防守，通常每個防守者都還有一個或多個的備用防守點，這用來在"戰術性撤退"時可在建立防禦陣地，這種戰術在防禦一片區域時尤其有效。</Chinese>
-        <Chinesesimp>防守的任务有很多形式。像是保护重要的建筑物，交通要道，载具或者重要的人物等等。也有可能只是固守在一个点来保护自己。不管状况怎样，有同样几件关键的重点是关乎防守成功与否。%1%1%2%3安全。%4安全的建立来自于选择防守的地点，这地点必须能观察到防守点附近所有的环境以及敌人可能会接近的路线。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\security_ca.paa'/&gt;%1%2%3防守位置。%4每一个单兵的防守位置必须选择能有效隐蔽自己行踪与降低敌人击中你的地方，但同时也能够最大限度的增加该单兵的杀伤力。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\defending_ca.paa'/&gt;%1%2%3纵深防御。%4把整个防御部队分散在同一正面，将会使防御阵线没有纵深且没有后备部队，而这是不正确的战术。防御者必须确保他的防御阵线是有纵深。%1%2%3互相支援。%4这个目的在于避免一个点因为敌人的攻击而被孤立且瓦解 — 相反的，敌人会发现他们攻击的是一个强而有力的支撑点，时间久了，自然而然敌方的力量就会慢慢削弱。%1%2%3灵活性。%4一个好的防守，通常每个防守者都还有一个或多个的备用防守点，这用来在"战术性撤退"时可在建立防御阵地，这种战术在防御一片区域时尤其有效。</Chinesesimp>
+        <Chinesesimp>防守的任务有很多形式。像是保护重要的建筑物，交通要道，载具或者重要的人物等等。也有可能只是固守在一个点来保护自己。不管状况怎样，有同样几件关键的重点是关乎防守成功与否。%1%1%2%3安全。%4安全的建立来自于选择防守的地点，这地点必须能观察到防守点附近所有的环境以及敌人可能会接近的路线。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\security_ca.paa'/&gt;%1%2%3防守位置。%4每一个单兵的防守位置必须选择能有效隐蔽自己行踪与降低敌人击中你的地方，但同时也能够最大限度的增加该单兵的杀伤力。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\defending_ca.paa'/&gt;%1%2%3纵深防御。%4把整个防御部队分散在同一正面，将会使防御阵线没有纵深且没有后备部队，而这是不正确的战术。防御者必须确保他的防御阵线是有纵深。%1%2%3互相支援。%4这个目的在于避免一个点因为敌人的攻击而被孤立且瓦解—相反的，敌人会发现他们攻击的是一个强而有力的支撑点，时间久了，自然而然敌方的力量就会慢慢削弱。%1%2%3灵活性。%4一个好的防守，通常每个防守者都还有一个或多个的备用防守点，这用来在"战术性撤退"时可在建立防御阵地，这种战术在防御一片区域时尤其有效。</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_defending0">
         <Original>B08 Principles of Defending</Original>
@@ -1056,7 +1056,7 @@
       <Key ID="STR_A3_CfgMusic_EventTrack01a_F_EPB">
         <Original>Stage B: Event Track 01 (Resist - Alternative)</Original>
         <Chinese>第二章:事件音軌01(抵抗-另類)</Chinese>
-        <Chinesesimp>第二章：事件音轨01（抵抗 — 编曲）</Chinesesimp>
+        <Chinesesimp>第二章：事件音轨01（抵抗—编曲）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack03_F_EPB">
         <Original>Stage B: Event Track 03 (Recon)</Original>
@@ -1066,7 +1066,7 @@
       <Key ID="STR_A3_CfgMusic_EventTrack02a_F_EPB">
         <Original>Stage B: Event Track 02 (Ambush - Alternative)</Original>
         <Chinese>第二章:事件音軌02(埋伏-另類)</Chinese>
-        <Chinesesimp>第二章：事件音轨02（埋伏 — 编曲）</Chinesesimp>
+        <Chinesesimp>第二章：事件音轨02（埋伏—编曲）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack01_F_EPB">
         <Original>Stage B: Lead Track 01 (Adapt)</Original>
@@ -1086,7 +1086,7 @@
       <Key ID="STR_A3_CfgMusic_EventTrack03a_F_EPB">
         <Original>Stage B: Event Track 03 (Recon - Alternative)</Original>
         <Chinese>第二章:事件音軌03(偵察-另類)</Chinese>
-        <Chinesesimp>第二章：事件音轨03（侦察 — 编曲）</Chinesesimp>
+        <Chinesesimp>第二章：事件音轨03（侦察—编曲）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_BackgroundTrack01_F_EPB">
         <Original>Stage B: Background Track 01 (The Hunt)</Original>
@@ -1096,7 +1096,7 @@
       <Key ID="STR_A3_CfgMusic_EventTrack04a_F_EPB">
         <Original>Stage B: Event Track 04 (Radio Silence - Alternative 1)</Original>
         <Chinese>第二章:事件音軌04(無線電靜默-另類1)</Chinese>
-        <Chinesesimp>第二章：事件音轨04（无线电静默 — 编曲1）</Chinesesimp>
+        <Chinesesimp>第二章：事件音轨04（无线电静默—编曲1）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack04_F_EPB">
         <Original>Stage B: Event Track 04 (Radio Silence)</Original>
@@ -1111,22 +1111,22 @@
       <Key ID="STR_A3_CfgMusic_LeadTrack02a_F_EPB">
         <Original>Stage B: Lead Track 02 (Exit Strategy - Alternative 1)</Original>
         <Chinese>第二章:主音軌02(逃脫策略-另類1)</Chinese>
-        <Chinesesimp>第二章：主音轨02（逃脱策略 — 编曲1）</Chinesesimp>
+        <Chinesesimp>第二章：主音轨02（逃脱策略—编曲1）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack02b_F_EPB">
         <Original>Stage B: Lead Track 02 (Exit Strategy - Alternative 2)</Original>
         <Chinese>第二章:主音軌02(逃脫策略-另類2)</Chinese>
-        <Chinesesimp>第二章：主音轨02（逃脱策略 — 编曲2）</Chinesesimp>
+        <Chinesesimp>第二章：主音轨02（逃脱策略—编曲2）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack03a_F_EPB">
         <Original>Stage B: Lead Track 03 (Beyond Recognition - Alternative 1)</Original>
         <Chinese>第二章:主音軌03(面目全非-另類1)</Chinese>
-        <Chinesesimp>第二章：主音轨03（面目全非 — 编曲1）</Chinesesimp>
+        <Chinesesimp>第二章：主音轨03（面目全非—编曲1）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack01a_F_EPB">
         <Original>Stage B: Lead Track 01 (Adapt - Alternative)</Original>
         <Chinese>第二章:主音軌01(適應-另類)</Chinese>
-        <Chinesesimp>第二章：主音轨01（适应 — 编曲）</Chinesesimp>
+        <Chinesesimp>第二章：主音轨01（适应—编曲）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Modules">

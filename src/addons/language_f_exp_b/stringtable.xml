@@ -793,7 +793,7 @@
       <Key ID="str_a3_cfghints_edenupdate_launcherserverbrowser_displayName">
         <Original>Launcher Server Browser</Original>
         <Chinese>遊戲啟動器-伺服器瀏覽器</Chinese>
-        <Chinesesimp>游戏启动器 — 服务器浏览器</Chinesesimp>
+        <Chinesesimp>游戏启动器—服务器浏览器</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_edenupdate_combataudio_description">
         <Original>&lt;img size='9' shadow='0' image='\a3\Data_F_Exp_B\Data\FM_LEARN_CombatAudio_ca.paa' /&gt;%1By utilizing a new %3mutli-channel amplitude panner%4 and %3distance-based samples%4 for weapons and explosives, the combat soundscape reaches a much higher level of fidelity. Players will find themselves more deeply immersed and they will be able to achieve greater situational awareness under fire. Modders will have the opportunity to achieve amazing sound effects by using the new configuration.</Original>

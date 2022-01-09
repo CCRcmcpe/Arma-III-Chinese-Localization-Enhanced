@@ -198,7 +198,7 @@
             <Key ID="str_a3_tanks_m02_intro_04">
               <Original>NATO were helping the guerrillas: when they attacked, we hit back - and they responded with a whole invasion force.</Original>
               <Chinese>北約過去就在支援游擊隊:他們進攻，我們還擊-然後他們還以一整支入侵部隊。</Chinese>
-              <Chinesesimp>北约过去就在支援游击队：他们进攻，我们还击 — 然后他们还以一整支入侵部队。</Chinesesimp>
+              <Chinesesimp>北约过去就在支援游击队：他们进攻，我们还击—然后他们还以一整支入侵部队。</Chinesesimp>
             </Key>
             <Key ID="str_a3_tanks_m02_intro_02_01">
               <Original>Distrusting the Americans, we aligned ourselves with the Canton Strategic Alliance Treaty.</Original>
@@ -213,7 +213,7 @@
             <Key ID="str_a3_tanks_m02_intro_02_02">
               <Original>They gave us technology, weapons. Economic and political support - and in return, we allowed them to use our island.</Original>
               <Chinese>他們交給我們技術、武器。經濟和政治支持-投桃報李，我們允許他們使用我們的島嶼。</Chinese>
-              <Chinesesimp>他们交给我们技术、武器。经济和政治支持 — 投桃报李，我们允许他们使用我们的岛屿。</Chinesesimp>
+              <Chinesesimp>他们交给我们技术、武器。经济和政治支持—投桃报李，我们允许他们使用我们的岛屿。</Chinesesimp>
             </Key>
             <Key ID="str_a3_tanks_m02_intro_03_01">
               <Original>They even had us train with their fourth generation Angara battle tanks.</Original>
@@ -261,7 +261,7 @@
             <Key ID="str_a3_ta_tanks_m02_030_ex_leaving_ao_arhq_1">
               <Original>Check your map - you're leaving the area of operations! Out.</Original>
               <Chinese>檢查地圖-你在離開作戰地域!通話完畢。</Chinese>
-              <Chinesesimp>检查地图 — 你在离开作战地域！通话完毕。</Chinesesimp>
+              <Chinesesimp>检查地图—你在离开作战地域！通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="029_eve_hostile_tank_destroyed" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m02" dialogName="029_eve_hostile_tank_destroyed" dubbingLanguage="english" namePrefix="ta_tanks_m02_029_eve_hostile_tank_destroyed" note="" participants="TA_arplayer;" situation="player destroys a tank.">
@@ -354,7 +354,7 @@
             <Key ID="str_a3_ta_tanks_m02_021_eve_support_inf02_casualties_heavy_arinfantryb_1">
               <Original>Zurlos, Gabris, Rokos - they're all dead! Over.</Original>
               <Chinese>祖爾洛斯，加布裡斯，羅科斯-他們都死了!完畢。</Chinese>
-              <Chinesesimp>祖尔洛斯，加布里斯，罗科斯 — 他们都死了！完毕。</Chinesesimp>
+              <Chinesesimp>祖尔洛斯，加布里斯，罗科斯—他们都死了！完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m02_021_eve_support_inf02_casualties_heavy_arplayer_0">
               <Original>Copy, Demeter. Keep your boys alive a little longer. It's imperative we destroy this depot! Out.</Original>
@@ -555,7 +555,7 @@
             <Key ID="str_a3_ta_tanks_m02_008_ta_dorida_captured_arhq_1">
               <Original>Supporting elements are en route to your position - we need you to push east towards the sea.</Original>
               <Chinese>支援分隊正前往你的位置-你需要向東面大海的方向推進。</Chinese>
-              <Chinesesimp>支援分队正前往你的位置 — 你需要向东面大海的方向推进。</Chinesesimp>
+              <Chinesesimp>支援分队正前往你的位置—你需要向东面大海的方向推进。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m02_008_ta_dorida_captured_arplayer_0">
               <Original>Ares to Pantheon, we've secured the town, over.</Original>
@@ -674,7 +674,7 @@
             <Key ID="str_a3_ta_tanks_m02_001_ta_introduction_arplayer_0">
               <Original>Tac idle - moving up now, over.</Original>
               <Chinese>戰術速度-正在前進，完畢。</Chinese>
-              <Chinesesimp>战术速度 — 正在前进，完毕。</Chinesesimp>
+              <Chinesesimp>战术速度—正在前进，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m02_001_ta_introduction_arplayer_1">
               <Original>Copy, Pantheon, we're beginning the offensive! Out.</Original>
@@ -757,7 +757,7 @@
           <Key ID="str_a3_tanks_m03_mission">
             <Original>Move up from %2Point Delta%1 and wait for the Americans; we must delay them for as long as possible - use whatever strategy you like, Captain, just don't let them get by you.&lt;br /&gt;&lt;br /&gt;As your CO was injured earlier today, you will take charge of his Angara. It is a 'command' variant and boasts an extra turret-mounted, 30mm autocannon. But remember, like the standard model, its armor plating's top secret. CSAT made it very clear. If one of their tanks is knocked out or immobilized, we must scuttle it before our enemies can investigate. After completing your mission, you will need to use the explosives, located in your storage bins, to destroy your own.&lt;br /&gt;&lt;br /&gt;Good luck.</Original>
             <Chinese>從%2德爾塔點%1開始機動並等待美國人;我們必須阻滯他們足夠長的時間-不論用什麼方法手段，上尉，一定別讓他們突破你的陣地。&lt;br/&gt;&lt;br/&gt;因為你的指揮官今天早些時候受傷了，你會接管他的"安加拉"。這是一輛"指揮型"，在車頂安裝了附加的30公厘自動炮。但請記住，就像標準型一樣，其裝甲結構是最高機密。廣協同盟的意思非常明確。如果我們的哪一輛坦克被擊毀或癱瘓，我們就必須在敵方得以調查之前將其徹底摧毀。在完成任務之後，你需要使用炸藥，這在你的裝備儲存箱中可以找到，來摧毀你自己的坦克。&lt;br/&gt;&lt;br/&gt;祝你好運。</Chinese>
-            <Chinesesimp>从%2Delta 点%1开始机动并等待美国人;我们必须阻滞他们足够长的时间 — 不论用什么方法手段，上尉，一定别让他们突破你的阵地。&lt;br/&gt;&lt;br/&gt;因为你的指挥官今天早些时候受伤了，你会接管他的"安加拉"。这是一辆"指挥型"，在车顶安装了附加的30mm 机炮。但请记住，就像标准型一样，其装甲结构是最高机密。广协的意思非常明确。如果我们的哪一辆坦克被击毁或瘫痪，我们就必须在敌方得以调查之前将其彻底摧毁。在完成任务之后，你需要使用炸药，这在你的装备储存箱中可以找到，来摧毁你自己的坦克。&lt;br/&gt;&lt;br/&gt;祝你好运。</Chinesesimp>
+            <Chinesesimp>从%2Delta 点%1开始机动并等待美国人;我们必须阻滞他们足够长的时间—不论用什么方法手段，上尉，一定别让他们突破你的阵地。&lt;br/&gt;&lt;br/&gt;因为你的指挥官今天早些时候受伤了，你会接管他的"安加拉"。这是一辆"指挥型"，在车顶安装了附加的30mm 机炮。但请记住，就像标准型一样，其装甲结构是最高机密。广协的意思非常明确。如果我们的哪一辆坦克被击毁或瘫痪，我们就必须在敌方得以调查之前将其彻底摧毁。在完成任务之后，你需要使用炸药，这在你的装备储存箱中可以找到，来摧毁你自己的坦克。&lt;br/&gt;&lt;br/&gt;祝你好运。</Chinesesimp>
           </Key>
           <Key ID="str_a3_tanks_m03_markersecondline">
             <Original>Second Defensive Line</Original>
@@ -792,7 +792,7 @@
           <Key ID="str_a3_tanks_m03_diary">
             <Original>I'm still alive.&lt;br /&gt;&lt;br /&gt;Tomorrow's close.&lt;br /&gt;&lt;br /&gt;CSAT need us to buy them time. And as we are an army of none, a marionette and not a nation, we must dance to their tune. If our strings are cut, we collapse.&lt;br /&gt;&lt;br /&gt;Every minute's a victory. Every second, a moment won. Hour hands are a stay of execution; a reprieve. I don't know which - and that's a thing of fear. Now we fight, not for the Republic but for the terms of our surrender.&lt;br /&gt;&lt;br /&gt;Fate smiles, but I can make no sense of her.&lt;br /&gt;&lt;br /&gt;I'm told our chances are one in three. Either I will make it home or, these words will find you. Just know: nothing's been left unsaid.&lt;br /&gt;&lt;br /&gt;K.</Original>
             <Chinese>我還活著。&lt;br/&gt;&lt;br/&gt;明天已經接近了。&lt;br/&gt;&lt;br/&gt;廣協同盟需要我們來給他們爭取時間。而因為我們已不再是誰的軍隊，只是傀儡而不再屬於一個國家，我們也只能跟著他們的提線跳舞。而一旦這些線被切斷，我們就會垮掉。&lt;br/&gt;&lt;br/&gt;每一分鐘都是勝利。每一秒鐘，都是暫時性的勝利。時針在拖延著死刑的執行;如同緩刑。我不知道會如何-這就是恐懼的一部分。現在我們在戰鬥，不是為了我們的共和國，而是為了投降的條件。&lt;br/&gt;&lt;br/&gt;命運女神在微笑，但我不理解她。&lt;br/&gt;&lt;br/&gt;我覺得我們的幾率是三分之一。要麼我能回家，要麼是這些文字回來。到現在為止:我已經沒什麼沒說的了。&lt;br/&gt;&lt;br/&gt;K。</Chinese>
-            <Chinesesimp>我还活着。&lt;br/&gt;&lt;br/&gt;明天已经接近了。&lt;br/&gt;&lt;br/&gt;广协需要我们来给他们争取时间。而因为我们已不再是谁的军队，只是傀儡而不再属于一个国家，我们也只能跟着他们的提线跳舞。而一旦这些线被切断，我们就会垮掉。&lt;br/&gt;&lt;br/&gt;每一分钟都是胜利。每一秒钟，都是暂时性的胜利。时针在拖延着死刑的执行;如同缓刑。我不知道会如何 — 这就是恐惧的一部分。现在我们在战斗，不是为了我们的共和国，而是为了投降的条件。&lt;br/&gt;&lt;br/&gt;命运女神在微笑，但我不理解她。&lt;br/&gt;&lt;br/&gt;我觉得我们的几率是三分之一。要么我能回家，要么是这些文字回来。到现在为止：我已经没什么没说的了。&lt;br/&gt;&lt;br/&gt;K。</Chinesesimp>
+            <Chinesesimp>我还活着。&lt;br/&gt;&lt;br/&gt;明天已经接近了。&lt;br/&gt;&lt;br/&gt;广协需要我们来给他们争取时间。而因为我们已不再是谁的军队，只是傀儡而不再属于一个国家，我们也只能跟着他们的提线跳舞。而一旦这些线被切断，我们就会垮掉。&lt;br/&gt;&lt;br/&gt;每一分钟都是胜利。每一秒钟，都是暂时性的胜利。时针在拖延着死刑的执行;如同缓刑。我不知道会如何—这就是恐惧的一部分。现在我们在战斗，不是为了我们的共和国，而是为了投降的条件。&lt;br/&gt;&lt;br/&gt;命运女神在微笑，但我不理解她。&lt;br/&gt;&lt;br/&gt;我觉得我们的几率是三分之一。要么我能回家，要么是这些文字回来。到现在为止：我已经没什么没说的了。&lt;br/&gt;&lt;br/&gt;K。</Chinesesimp>
           </Key>
           <Key ID="str_a3_tanks_m03_debriefing03">
             <Original>A noble effort. However, we were quickly overcome and the enemy hindered CSAT's evacuation efforts. Hopefully they will overlook this failure and will continue to support us in the difficult days ahead.</Original>
@@ -833,7 +833,7 @@
             <Key ID="str_a3_tanks_m03_intro_04">
               <Original>Few imagined it would end this way - fewer still, imagined we'd make a difference.</Original>
               <Chinese>很少有人能想到會是如此結局-更少的人能想像得到我們會對此產生影響。</Chinese>
-              <Chinesesimp>很少有人能想到会是如此结局 — 更少的人能想象得到我们会对此产生影响。</Chinesesimp>
+              <Chinesesimp>很少有人能想到会是如此结局—更少的人能想象得到我们会对此产生影响。</Chinesesimp>
             </Key>
             <Key ID="str_a3_tanks_m03_intro_01_01">
               <Original>The fighting that ensued was brutal.</Original>
@@ -880,7 +880,7 @@
             <Key ID="str_a3_tanks_m03_outro_06b_01">
               <Original>Now - as a prisoner - I await my fate.</Original>
               <Chinese>現在-作為一名戰俘-我在等待我的命運。</Chinese>
-              <Chinesesimp>现在 — 作为一名战俘 — 我在等待我的命运。</Chinesesimp>
+              <Chinesesimp>现在—作为一名战俘—我在等待我的命运。</Chinesesimp>
             </Key>
             <Key ID="str_a3_tanks_m03_outro_01a">
               <Original>Against the odds, we stood our ground. Facing death, moments before a ceasefire.</Original>
@@ -1126,7 +1126,7 @@
             <Key ID="str_a3_ta_tanks_m03_026_ta_defence_succeeded_panagia_negative_tank_damaged_no_he_arplayer_0">
               <Original>Small problem - I already used 'em!</Original>
               <Chinese>小問題-我都把他們給用了!</Chinese>
-              <Chinesesimp>小问题 — 我都把他们给用了！</Chinesesimp>
+              <Chinesesimp>小问题—我都把他们给用了！</Chinesesimp>
             </Key>
           </Container>
           <Container name="025_ta_defence_succeeded_panagia_negative_tank_damaged_out" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m03" dialogName="025_ta_defence_succeeded_panagia_negative_tank_damaged_out" dubbingLanguage="english" namePrefix="ta_tanks_m03_025_ta_defence_succeeded_panagia_negative_tank_damaged_out" note="" participants="TA_arhq;" situation="player explains he has already used the charges.">
@@ -1365,7 +1365,7 @@
             <Key ID="str_a3_ta_tanks_m03_014_am_artemis_wiped_out_ardefenderd_1">
               <Original>The Americans cut us off - we can't make -</Original>
               <Chinese>美國人把我們截斷了-我們沒法-</Chinese>
-              <Chinesesimp>美国人把我们截断了 — 我们没法-</Chinesesimp>
+              <Chinesesimp>美国人把我们截断了—我们没法-</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m03_014_am_artemis_wiped_out_ardefenderd_2">
               <Original>My team's cut off!</Original>
@@ -1431,7 +1431,7 @@
             <Key ID="str_a3_ta_tanks_m03_011_am_tanks_spotted01_ardefenderb_1">
               <Original>There's too much dust to - no, wait.</Original>
               <Chinese>煙霧太多，看不清-不，等等。</Chinese>
-              <Chinesesimp>烟雾太多，看不清 — 不，等等。</Chinesesimp>
+              <Chinesesimp>烟雾太多，看不清—不，等等。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m03_011_am_tanks_spotted01_ardefenderb_2">
               <Original>It's a lead element, a few IFVs and a tank destroyer.</Original>
@@ -1507,7 +1507,7 @@
             <Key ID="str_a3_ta_tanks_m03_008_ta_angara02_report_arplayer_2">
               <Original>Immobile - no power.</Original>
               <Chinese>癱瘓了-沒有動力。</Chinese>
-              <Chinesesimp>瘫痪了 — 没有动力。</Chinesesimp>
+              <Chinesesimp>瘫痪了—没有动力。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m03_008_ta_angara02_report_arplayer_3">
               <Original>Got it, another round should finish her off, out.</Original>
@@ -1519,7 +1519,7 @@
             <Key ID="str_a3_ta_tanks_m03_007_ta_angara02_inside_arplayer_0">
               <Original>Ergh - fuck me.</Original>
               <Chinese>呃-操他的。</Chinese>
-              <Chinesesimp>呃 — 操他的。</Chinesesimp>
+              <Chinesesimp>呃—操他的。</Chinesesimp>
             </Key>
           </Container>
           <Container name="006_ex_angara02_discovered_alone" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m03" dialogName="006_ex_angara02_discovered_alone" dubbingLanguage="english" namePrefix="ta_tanks_m03_006_ex_angara02_discovered_alone" note="" participants="TA_arplayer;" situation="player is alone and finds the nonresponsive tank, but it has been knocked out.">
@@ -1739,7 +1739,7 @@
           <Key ID="str_a3_tanks_m01_situation">
             <Original>Since the destruction of Oreokastro and the limitations to NATO's mandate, the Freedom and Independence Army have grown in strength. Our morale is weak. Our own people are against us. Reports of desertion and sabotage are rife. &lt;br /&gt;&lt;br /&gt;If we are to defeat this insurgency, we cannot waste our time, severing heads from the hydra. Instead, we must cauterize its wounds - drain the swamp - isolate the enemy and tighten our grip on those areas where they are strongest.</Original>
             <Chinese>自從奧雷奧卡斯特羅的毀滅和北約托管的受限，自由和獨立軍(自由陣線)的實力有所增長。我們的士氣低落。我們自己的人民在反對我們。關於開小差和蓄意破壞的報告鋪天蓋地。&lt;br/&gt;&lt;br/&gt;如果我們想要擊敗這次叛亂，我們就不能浪費時間在砍斷九頭蛇的腦袋上。相反，我們應當直擊其痛處-釜底抽薪-在他們最強的地區孤立敵人並加強我們自己。</Chinese>
-            <Chinesesimp>自从奥雷奥卡斯特罗的毁灭和北约托管的受限，自由和独立军（自由阵线）的实力有所增长。我们的士气低落。我们自己的人民在反对我们。关于开小差和蓄意破坏的报告铺天盖地。&lt;br/&gt;&lt;br/&gt;如果我们想要击败这次叛乱，我们就不能浪费时间在砍断九头蛇的脑袋上。相反，我们应当直击其痛处 — 釜底抽薪 — 在他们最强的地区孤立敌人并加强我们自己。</Chinesesimp>
+            <Chinesesimp>自从奥雷奥卡斯特罗的毁灭和北约托管的受限，自由和独立军（自由阵线）的实力有所增长。我们的士气低落。我们自己的人民在反对我们。关于开小差和蓄意破坏的报告铺天盖地。&lt;br/&gt;&lt;br/&gt;如果我们想要击败这次叛乱，我们就不能浪费时间在砍断九头蛇的脑袋上。相反，我们应当直击其痛处—釜底抽薪—在他们最强的地区孤立敌人并加强我们自己。</Chinesesimp>
           </Key>
           <Key ID="str_a3_tanks_m01_signal">
             <Original>Ares - Your vehicle. &lt;br /&gt;Pantheon - HQ. &lt;br /&gt;</Original>
@@ -1804,7 +1804,7 @@
           <Key ID="str_a3_tanks_m01_diary">
             <Original>That pebble you gave me, on the beach near Edessa. &lt;br /&gt;&lt;br /&gt;You swore it could teach me everything worth learning in life. You said it was a perfect creature. Equal to itself, mindful of its limits. &lt;br /&gt;&lt;br /&gt;I remember you shrugging your shoulders, walking on, as I made a move to throw it back into the sea. Now I think I understand. Or at least, in part. &lt;br /&gt;&lt;br /&gt;The world will not change me.&lt;br /&gt;&lt;br /&gt;And things here? They demand a cold, resilient eye. Someone must bear witness. The violence, it's born of frustration. Our forces scour the forests and mountains, finding nothing. We are like an army, marching out against the wind - a great colossus, punching air. &lt;br /&gt;&lt;br /&gt;I don't see a war, not really. I see acts of madness. Meaningless dead, young martyrs; black with blood and white with lime, rolled on boot heels into early graves. Our enemy have a cause, while we have only orders. It seems in a clenched fist, your pebble's warmth is false. And I am glad. &lt;br /&gt;&lt;br /&gt;K.</Original>
             <Chinese>在埃澤薩附近的海灘上，你給了我那塊卵石。&lt;br/&gt;&lt;br/&gt;你發誓說，它將教會我生命中所有值得學習的事情。你說這是一個完美的造物。安得其所，也了然自己的缺憾。&lt;br/&gt;&lt;br/&gt;我記得我當時把它扔回了海裡，你聳了聳肩，扭頭走開。現在我覺得我理解了。至少是部分地理解了。&lt;br/&gt;&lt;br/&gt;世界不會改變我。&lt;br/&gt;&lt;br/&gt;至於這裡的事情?只有冷酷無情、心若磐石的人去見證。總需要人來背負、見證這些。這種暴力，孕育自挫折的暴力。我們的部隊夷平森林和山脈，但一無所獲。我們就像一支向風宣戰的軍隊-如同一個巨人向空氣揮拳。&lt;br/&gt;&lt;br/&gt;我沒見到一場戰爭，沒有。我見到的是瘋狂的行為。毫無意義的死亡，年輕的烈士;黑色的血液和白色的石灰，踏入早亡者墳墓的腳後跟。我們的敵人有他們的事業，而我們只有命令。就像在一隻攥得緊緊的拳頭裡，你那塊卵石的溫熱是虛假的。我終於理解了，因此我很高興。&lt;br/&gt;&lt;br/&gt;K。</Chinese>
-            <Chinesesimp>在埃泽萨附近的海滩上，你给了我那块卵石。&lt;br/&gt;&lt;br/&gt;你发誓说，它将教会我生命中所有值得学习的事情。你说这是一个完美的造物。安得其所，也了然自己的缺憾。&lt;br/&gt;&lt;br/&gt;我记得我当时把它扔回了海里，你耸了耸肩，扭头走开。现在我觉得我理解了。至少是部分地理解了。&lt;br/&gt;&lt;br/&gt;世界不会改变我。&lt;br/&gt;&lt;br/&gt;至于这里的事情？只有冷酷无情、心若磐石的人去见证。总需要人来背负、见证这些。这种暴力，孕育自挫折的暴力。我们的部队夷平森林和山脉，但一无所获。我们就像一支向风宣战的军队 — 如同一个巨人向空气挥拳。&lt;br/&gt;&lt;br/&gt;我没见到一场战争，没有。我见到的是疯狂的行为。毫无意义的死亡，年轻的烈士;黑色的血液和白色的石灰，踏入早亡者坟墓的脚后跟。我们的敌人有他们的事业，而我们只有命令。就像在一只攥得紧紧的拳头里，你那块卵石的温热是虚假的。我终于理解了，因此我很高兴。&lt;br/&gt;&lt;br/&gt;K。</Chinesesimp>
+            <Chinesesimp>在埃泽萨附近的海滩上，你给了我那块卵石。&lt;br/&gt;&lt;br/&gt;你发誓说，它将教会我生命中所有值得学习的事情。你说这是一个完美的造物。安得其所，也了然自己的缺憾。&lt;br/&gt;&lt;br/&gt;我记得我当时把它扔回了海里，你耸了耸肩，扭头走开。现在我觉得我理解了。至少是部分地理解了。&lt;br/&gt;&lt;br/&gt;世界不会改变我。&lt;br/&gt;&lt;br/&gt;至于这里的事情？只有冷酷无情、心若磐石的人去见证。总需要人来背负、见证这些。这种暴力，孕育自挫折的暴力。我们的部队夷平森林和山脉，但一无所获。我们就像一支向风宣战的军队—如同一个巨人向空气挥拳。&lt;br/&gt;&lt;br/&gt;我没见到一场战争，没有。我见到的是疯狂的行为。毫无意义的死亡，年轻的烈士;黑色的血液和白色的石灰，踏入早亡者坟墓的脚后跟。我们的敌人有他们的事业，而我们只有命令。就像在一只攥得紧紧的拳头里，你那块卵石的温热是虚假的。我终于理解了，因此我很高兴。&lt;br/&gt;&lt;br/&gt;K。</Chinesesimp>
           </Key>
           <Key ID="str_a3_tanks_m01_debriefing05">
             <Original>You let your Nyx run completely out of fuel!</Original>
@@ -1824,12 +1824,12 @@
           <Key ID="str_a3_tanks_m01_debriefing02">
             <Original>Great work, Captain - you eliminated the deserters and prevented them from joining up with FIA guerrillas. If they were to have escaped, our forces would have been severely compromised. &lt;br /&gt;Still, I wonder. Could more be done to avoid civilian casualties? We must take great care to ensure the enemy cannot legitimize their actions.</Original>
             <Chinese>幹得好上尉-你消滅了逃兵，避免他們加入自由陣線游擊隊。如果他們成功逃脫的話，我們的部隊就會嚴重暴露。&lt;br/&gt;不過我還是想知道，能不能進一步避免平民傷亡呢?我們必須竭力避免敵人將其行動合理化。</Chinese>
-            <Chinesesimp>干得好上尉 — 你消灭了逃兵，避免他们加入自由阵线游击队。如果他们成功逃脱的话，我们的部队就会严重暴露。&lt;br/&gt;不过我还是想知道，能不能进一步避免平民伤亡呢？我们必须竭力避免敌人将其行动合理化。</Chinesesimp>
+            <Chinesesimp>干得好上尉—你消灭了逃兵，避免他们加入自由阵线游击队。如果他们成功逃脱的话，我们的部队就会严重暴露。&lt;br/&gt;不过我还是想知道，能不能进一步避免平民伤亡呢？我们必须竭力避免敌人将其行动合理化。</Chinesesimp>
           </Key>
           <Key ID="str_a3_tanks_m01_debriefing01">
             <Original>Great work, Captain - you eliminated the deserters and prevented them from joining up with FIA guerrillas. If they were to have escaped, our forces would have been severely compromised.</Original>
             <Chinese>幹得好上尉-你消滅了逃兵，避免他們加入自由陣線游擊隊。如果他們成功逃脫的話，我們的部隊就會嚴重暴露。</Chinese>
-            <Chinesesimp>干得好上尉 — 你消灭了逃兵，避免他们加入自由阵线游击队。如果他们成功逃脱的话，我们的部队就会严重暴露。</Chinesesimp>
+            <Chinesesimp>干得好上尉—你消灭了逃兵，避免他们加入自由阵线游击队。如果他们成功逃脱的话，我们的部队就会严重暴露。</Chinesesimp>
           </Key>
           <Key ID="str_a3_tanks_m01_callsignpantheon">
             <Original>Pantheon</Original>
@@ -1875,7 +1875,7 @@
             <Key ID="str_a3_ta_tanks_m01_073_ex_fuel_leak_arplayer_0">
               <Original>Ah, shit - fuel leak.</Original>
               <Chinese>啊該死-燃料洩露。</Chinese>
-              <Chinesesimp>啊该死 — 燃料泄露。</Chinesesimp>
+              <Chinesesimp>啊该死—燃料泄露。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_073_ex_fuel_leak_arplayer_1">
               <Original>Gonna have to see to that...</Original>
@@ -1899,7 +1899,7 @@
             <Key ID="str_a3_ta_tanks_m01_071_ex_nyx_overturned_03_arplayer_1">
               <Original>Ergh, third time's a charm - right?</Original>
               <Chinese>呃，第三次總能搞好吧-對吧?</Chinese>
-              <Chinesesimp>呃，第三次总能搞好吧 — 对吧？</Chinesesimp>
+              <Chinesesimp>呃，第三次总能搞好吧—对吧？</Chinesesimp>
             </Key>
           </Container>
           <Container name="070_ex_nyx_overturned_02" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m01" dialogName="070_ex_nyx_overturned_02" dubbingLanguage="english" namePrefix="ta_tanks_m01_070_ex_nyx_overturned_02" note="" participants="TA_arplayer;" situation="player's vehicle has overturned.">
@@ -2047,14 +2047,14 @@
             <Key ID="str_a3_ta_tanks_m01_057_eve_fia_report_out_ignored_arplayer_0">
               <Original>Just passed a small FIA patrol - we didn't stop, on account of our main objective, over.</Original>
               <Chinese>剛剛遇見了一小支自由陣線巡邏隊-我們沒停下，考慮到主要任務，完畢。</Chinese>
-              <Chinesesimp>刚刚遇见了一小支自由阵线巡逻队 — 我们没停下，考虑到主要任务，完毕。</Chinesesimp>
+              <Chinesesimp>刚刚遇见了一小支自由阵线巡逻队—我们没停下，考虑到主要任务，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="056_eve_fia_report_out" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m01" dialogName="056_eve_fia_report_out" dubbingLanguage="english" namePrefix="ta_tanks_m01_056_eve_fia_report_out" note="" participants="TA_arplayer;TA_arhq;" situation="the player concludes radio transmission, after contacting hq.">
             <Key ID="str_a3_ta_tanks_m01_056_eve_fia_report_out_arhq_0">
               <Original>Good work. Logging your co-ordinates - stay on task, we'll search the bodies later, out.</Original>
               <Chinese>幹得好。上傳你的坐標-繼續執行任務，我們一會兒來找屍體。通話完畢。</Chinese>
-              <Chinesesimp>干得好。上传你的坐标 — 继续执行任务，我们一会儿来找尸体。通话完毕。</Chinesesimp>
+              <Chinesesimp>干得好。上传你的坐标—继续执行任务，我们一会儿来找尸体。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_056_eve_fia_report_out_arplayer_0">
               <Original>Just eliminated a small FIA patrol.</Original>
@@ -2191,7 +2191,7 @@
             <Key ID="str_a3_ta_tanks_m01_045_eve_earthquake_arplayer_1">
               <Original>Haven't had one of those in - what? Five, six years, maybe.</Original>
               <Chinese>大概得-唔?五六年沒有過了吧，大概。</Chinese>
-              <Chinesesimp>大概得 — 唔？五六年没有过了吧，大概。</Chinesesimp>
+              <Chinesesimp>大概得—唔？五六年没有过了吧，大概。</Chinesesimp>
             </Key>
           </Container>
           <Container name="044_eve_earthquake_alone" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m01" dialogName="044_eve_earthquake_alone" dubbingLanguage="english" namePrefix="ta_tanks_m01_044_eve_earthquake_alone" note="" participants="TA_arplayer;" situation="player experiences earthquake.">
@@ -2289,7 +2289,7 @@
             <Key ID="str_a3_ta_tanks_m01_036_in_hunter_consequences_dead_arhq_1">
               <Original>Those locals? Bad call... they were hunters - not insurgents.</Original>
               <Chinese>那些當地人?糟透了...他們是獵人-不是叛軍。</Chinese>
-              <Chinesesimp>那些当地人？糟透了...他们是猎人 — 不是叛军。</Chinesesimp>
+              <Chinesesimp>那些当地人？糟透了...他们是猎人—不是叛军。</Chinesesimp>
             </Key>
           </Container>
           <Container name="035_in_hunter_consequences_alive" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m01" dialogName="035_in_hunter_consequences_alive" dubbingLanguage="english" namePrefix="ta_tanks_m01_035_in_hunter_consequences_alive" note="" participants="TA_arhq;" situation="player is informed that the hunter was indeed a civilian and that they did the right thing.">
@@ -2301,7 +2301,7 @@
             <Key ID="str_a3_ta_tanks_m01_035_in_hunter_consequences_alive_arhq_1">
               <Original>They were hunters - not insurgents.</Original>
               <Chinese>他們是獵人-不是叛軍。</Chinese>
-              <Chinesesimp>他们是猎人 — 不是叛军。</Chinesesimp>
+              <Chinesesimp>他们是猎人—不是叛军。</Chinesesimp>
             </Key>
           </Container>
           <Container name="034_ta_village_captured_terrible_out" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m01" dialogName="034_ta_village_captured_terrible_out" dubbingLanguage="english" namePrefix="ta_tanks_m01_034_ta_village_captured_terrible_out" note="" participants="TA_arhq;TA_arplayer;" situation="hq concludes the transmission. friendlies and civilians were injured, and the hunter was killed.">
@@ -2313,7 +2313,7 @@
             <Key ID="str_a3_ta_tanks_m01_034_ta_village_captured_terrible_out_arhq_1">
               <Original>Those locals? Bad call... they were hunters - not insurgents.</Original>
               <Chinese>那些當地人?糟透了...他們是獵人-不是叛軍。</Chinese>
-              <Chinesesimp>那些当地人？糟透了...他们是猎人 — 不是叛军。</Chinesesimp>
+              <Chinesesimp>那些当地人？糟透了...他们是猎人—不是叛军。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_034_ta_village_captured_terrible_out_arhq_2">
               <Original>A MEDEVAC's inbound.</Original>
@@ -2340,7 +2340,7 @@
             <Key ID="str_a3_ta_tanks_m01_033_ta_village_captured_perfect_out_arhq_0">
               <Original>You live up to your reputation, Captain - well done.</Original>
               <Chinese>你真是恪盡職守，上尉-幹得好。</Chinese>
-              <Chinesesimp>你真是恪尽职守，上尉 — 干得好。</Chinesesimp>
+              <Chinesesimp>你真是恪尽职守，上尉—干得好。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_033_ta_village_captured_perfect_out_arhq_1">
               <Original>Oh, and those locals? It's like you said.</Original>
@@ -2350,7 +2350,7 @@
             <Key ID="str_a3_ta_tanks_m01_033_ta_village_captured_perfect_out_arhq_2">
               <Original>They were hunters - not insurgents.</Original>
               <Chinese>他們是獵人-不是叛軍。</Chinese>
-              <Chinesesimp>他们是猎人 — 不是叛军。</Chinesesimp>
+              <Chinesesimp>他们是猎人—不是叛军。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_033_ta_village_captured_perfect_out_arhq_3">
               <Original>Consolidate your position and await further orders, out.</Original>
@@ -2410,7 +2410,7 @@
             <Key ID="str_a3_ta_tanks_m01_028_ta_village_captured_heavy_arplayer_0">
               <Original>Gotta lot of wounded - another half a dozen KIA. Maybe more.</Original>
               <Chinese>有很多受傷的-還有五六個被打死了。可能更多。</Chinese>
-              <Chinesesimp>有很多受伤的 — 还有五六个被打死了。可能更多。</Chinesesimp>
+              <Chinesesimp>有很多受伤的—还有五六个被打死了。可能更多。</Chinesesimp>
             </Key>
           </Container>
           <Container name="027_ta_village_captured_light" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m01" dialogName="027_ta_village_captured_light" dubbingLanguage="english" namePrefix="ta_tanks_m01_027_ta_village_captured_light" note="" participants="TA_arplayer;" situation="player gives a casualty report. light casualties were sustained in the engagement.">
@@ -2487,7 +2487,7 @@
             <Key ID="str_a3_ta_tanks_m01_022_ta_village_attack_arhq_3">
               <Original>Affirmative - divert and interdict.</Original>
               <Chinese>明白-轉向介入。</Chinese>
-              <Chinesesimp>明白 — 转向介入。</Chinesesimp>
+              <Chinesesimp>明白—转向介入。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_022_ta_village_attack_arhq_4">
               <Original>An infantry element's inserting via helo, callsign Apollo.</Original>
@@ -2719,7 +2719,7 @@
             <Key ID="str_a3_ta_tanks_m01_012_am_checkpoint_a_report_arplayer_1">
               <Original>Checkpoint Sigma has a lead - gonna do some recon.</Original>
               <Chinese>西格瑪檢查站有一條線索-我們要實施偵察。</Chinese>
-              <Chinesesimp>西格玛检查站有一条线索 — 我们要实施侦察。</Chinesesimp>
+              <Chinesesimp>西格玛检查站有一条线索—我们要实施侦察。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_012_am_checkpoint_a_report_arplayer_2">
               <Original>FIA guerrillas may be hiding in the pine woods, over.</Original>
@@ -2736,7 +2736,7 @@
             <Key ID="str_a3_ta_tanks_m01_011_ta_checkpoint_a_arofficer_1">
               <Original>This one, we - we stopped him about an hour ago.</Original>
               <Chinese>這個，我們-我們大概一個小時之前攔住了他。</Chinese>
-              <Chinesesimp>这个，我们 — 我们大概一个小时之前拦住了他。</Chinesesimp>
+              <Chinesesimp>这个，我们—我们大概一个小时之前拦住了他。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_011_ta_checkpoint_a_arplayer_0">
               <Original>Sergeant?</Original>
@@ -2832,7 +2832,7 @@
             <Key ID="str_a3_ta_tanks_m01_008_fil_conv_03_arplayer_2">
               <Original>After Oreokastro? Hell - I wouldn't be surprised if it were both.</Original>
               <Chinese>在奧雷奧卡斯特羅之後?見鬼-我覺得完全不該吃驚他們這兩樣都佔上了。</Chinese>
-              <Chinesesimp>在奥雷奥卡斯特罗之后？见鬼 — 我觉得完全不该吃惊他们这两样都占上了。</Chinesesimp>
+              <Chinesesimp>在奥雷奥卡斯特罗之后？见鬼—我觉得完全不该吃惊他们这两样都占上了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_008_fil_conv_03_arplayer_3">
               <Original>Some.</Original>
@@ -2847,7 +2847,7 @@
             <Key ID="str_a3_ta_tanks_m01_008_fil_conv_03_arplayer_5">
               <Original>AT mine, we bailed - they opened up on a 50.</Original>
               <Chinese>反坦克雷，我們棄車了-他們用點50機槍開火。</Chinese>
-              <Chinesesimp>反坦克雷，我们弃车了 — 他们用点50机枪开火。</Chinesesimp>
+              <Chinesesimp>反坦克雷，我们弃车了—他们用点50机枪开火。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_008_fil_conv_03_arplayer_6">
               <Original>Yeah, situational awareness, it ain't something you wanna learn the hard way. Trust me.</Original>
@@ -2921,7 +2921,7 @@
             <Key ID="str_a3_ta_tanks_m01_006_fil_conv_01_ardriver_3">
               <Original>All due respect, sir, that's bullshit - checked it myself.</Original>
               <Chinese>我恭敬地說，長官，那是胡扯-我自己看過。</Chinese>
-              <Chinesesimp>我恭敬地说，长官，那是胡扯 — 我自己看过。</Chinesesimp>
+              <Chinesesimp>我恭敬地说，长官，那是胡扯—我自己看过。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_006_fil_conv_01_ardriver_4">
               <Original>Trouble is, those guys? They couldn't piss their way out a paper bag.</Original>
@@ -2990,7 +2990,7 @@
             <Key ID="str_a3_ta_tanks_m01_004_ap_nyx_close_ardriver_1">
               <Original>Y'know what they say - it ain't all about the size.</Original>
               <Chinese>你知道他們怎麼說-大小什麼的無關緊要。</Chinese>
-              <Chinesesimp>你知道他们怎么说 — 大小什么的无关紧要。</Chinesesimp>
+              <Chinesesimp>你知道他们怎么说—大小什么的无关紧要。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_004_ap_nyx_close_arplayer_0">
               <Original>Okay, start her up.</Original>
@@ -3070,7 +3070,7 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_037_ex_zulu_gone_tdhq_3">
               <Original>Abort the mission - withdraw to the staging area, out.</Original>
               <Chinese>放棄任務-撤回集結地域，完畢。</Chinese>
-              <Chinesesimp>放弃任务 — 撤回集结地域，完毕。</Chinesesimp>
+              <Chinesesimp>放弃任务—撤回集结地域，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="036_ex_fuel_leak_fail" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="036_ex_fuel_leak_fail" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_036_ex_fuel_leak_fail" note="" participants="TA_tdplayer;TA_tdhq;" situation="player's tank destroyer runs out of fuel.">
@@ -3092,7 +3092,7 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_036_ex_fuel_leak_fail_tdhq_2">
               <Original>Leave the vehicle and return to the staging area - now! Out.</Original>
               <Chinese>放棄車輛返回集結地域-現在!通話完畢。</Chinese>
-              <Chinesesimp>放弃车辆返回集结地域 — 现在！通话完毕。</Chinesesimp>
+              <Chinesesimp>放弃车辆返回集结地域—现在！通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_036_ex_fuel_leak_fail_tdplayer_1">
               <Original>Er, no, I mean, we don't have a drop, we're dead in the water here. Over.</Original>
@@ -3415,7 +3415,7 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_017_ta_destroy_aa_missed_tdhq_0">
               <Original>Papa Bear to Victor, that AA's still active - what's taking you so long? Over.</Original>
               <Chinese>Papa Bear叫"維克多"，那輛自行高炮還沒搞定-怎麼花了這麼久?完畢。</Chinese>
-              <Chinesesimp>Papa Bear 叫 Victor，那辆自行高炮还没搞定 — 怎么花了这么久？完毕。</Chinesesimp>
+              <Chinesesimp>Papa Bear 叫 Victor，那辆自行高炮还没搞定—怎么花了这么久？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_017_ta_destroy_aa_missed_tdhq_1">
               <Original>Maybe, we'll just have to deal with it some other way. Out.</Original>
@@ -3449,7 +3449,7 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_015_ta_destroy_aa_confirmed_tdplayer_0">
               <Original>No problem - we'll see to it, out.</Original>
               <Chinese>沒問題-我們會看看的，通話完畢。</Chinese>
-              <Chinesesimp>没问题 — 我们会看看的，通话完毕。</Chinesesimp>
+              <Chinesesimp>没问题—我们会看看的，通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="014_ta_destroy_aa" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="014_ta_destroy_aa" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_014_ta_destroy_aa" note="" participants="TA_tdhq;TA_tdplayer;" situation="player is told to destroy an enemy aa battery, using a maruk missile.">
@@ -3560,7 +3560,7 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_007_in_spotter_hurry_02_tdcharlie_1">
               <Original>Switch to thermals, find 'em goats, move down a tad, and there - at the window of the building! Out.</Original>
               <Chinese>切換到熱成像，找到那些山羊，往下看一點，就在那兒-在建築物的窗口那裡!通話完畢。</Chinese>
-              <Chinesesimp>切换到热成像，找到那些山羊，往下看一点，就在那儿 — 在建筑物的窗口那里！通话完毕。</Chinesesimp>
+              <Chinesesimp>切换到热成像，找到那些山羊，往下看一点，就在那儿—在建筑物的窗口那里！通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="006_in_spotter_hurry_01" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="006_in_spotter_hurry_01" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_006_in_spotter_hurry_01" note="" participants="TA_tdcharlie;" situation="charlie provides player with more information on the spotter's location.">
@@ -3752,7 +3752,7 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_001_ta_opening_speech_tdplayer_4">
               <Original>Hell, sure - you're on - we'll take your cash.</Original>
               <Chinese>呵呵，好吧-你押上了-我們會拿到錢的。</Chinese>
-              <Chinesesimp>呵呵，好吧 — 你押上了 — 我们会拿到钱的。</Chinesesimp>
+              <Chinesesimp>呵呵，好吧—你押上了—我们会拿到钱的。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_001_ta_opening_speech_tdzulu_1">
               <Original>Okay. Forty bucks says we knock out more tanks than you.</Original>
@@ -3990,7 +3990,7 @@
           <Key ID="str_a3_ta_showcase_tankdestroyers_titlecard">
             <Original>SHOWCASE: TANK DESTROYERS - Cannon-launched AT Guided Missiles, Armored Vehicle Interiors, Improved Firing Control Systems</Original>
             <Chinese>演示任務:坦克殲擊車-炮射反坦克導彈，裝甲車輛內構，改良的火控系統</Chinese>
-            <Chinesesimp>演示任务：坦克歼击车 — 炮射反坦克导弹，装甲车辆内构，改良的火控系统</Chinesesimp>
+            <Chinesesimp>演示任务：坦克歼击车—炮射反坦克导弹，装甲车辆内构，改良的火控系统</Chinesesimp>
           </Key>
         </Container>
         <Container name="Vanguard">

@@ -393,12 +393,12 @@
             <Key ID="str_3den_display3den_menubar_spaceoutrowin_text">
               <Original>Outro - Win</Original>
               <Chinese>結局-勝利</Chinese>
-              <Chinesesimp>结局 — 胜利</Chinesesimp>
+              <Chinesesimp>结局—胜利</Chinesesimp>
             </Key>
             <Key ID="str_3den_display3den_menubar_spaceoutrolose_text">
               <Original>Outro - Lose</Original>
               <Chinese>結局-失敗</Chinese>
-              <Chinesesimp>结局 — 失败</Chinesesimp>
+              <Chinesesimp>结局—失败</Chinesesimp>
             </Key>
             <Key ID="str_3den_display3den_menubar_spacemission_text">
               <Original>Scenario</Original>
@@ -805,7 +805,7 @@
             <Key ID="STR_3DEN_Display3DEN_Play_Phase_OutroWin">
               <Original>Play Outro - Win</Original>
               <Chinese>遊玩結局-勝利</Chinese>
-              <Chinesesimp>运行结局 — 胜利</Chinesesimp>
+              <Chinesesimp>运行结局—胜利</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_Play_Phase_Intro">
               <Original>Play Intro</Original>
@@ -815,7 +815,7 @@
             <Key ID="STR_3DEN_Display3DEN_Play_Phase_OutroLose">
               <Original>Play Outro - Lose</Original>
               <Chinese>遊玩結局-失敗</Chinese>
-              <Chinesesimp>运行结局 — 失败</Chinesesimp>
+              <Chinesesimp>运行结局—失败</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_Play_Env_SP">
               <Original>In Singleplayer</Original>
@@ -2345,7 +2345,7 @@
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_place_text">
               <Original>Once created, you can find your compositions in &lt;%2&gt;Compositions &gt; Custom&lt;%3&gt;. Place it as any other entity - either select it and then click in the scene on a desired position, or drag it from the list to the scene.</Original>
               <Chinese>當組件新增完成，你可以在&lt;%2&gt;組件&gt;自定義&lt;%3&gt;中找到他們。放置他們就跟放置其他物件一樣簡單-只需選取他們並點在畫面上的位置即可擺放，也可透過拖曳的方式擺放。</Chinese>
-              <Chinesesimp>当组件新增完成，你可以在&lt;%2&gt;组件&gt;自定义&lt;%3&gt;中找到他们。放置他们就跟放置其他物件一样简单 — 只需选取他们并点在画面上的位置即可摆放，也可通过拖拽的方式摆放。</Chinesesimp>
+              <Chinesesimp>当组件新增完成，你可以在&lt;%2&gt;组件&gt;自定义&lt;%3&gt;中找到他们。放置他们就跟放置其他物件一样简单—只需选取他们并点在画面上的位置即可摆放，也可通过拖拽的方式摆放。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_placeatl_text">
               <Original>Vertical mode defines how the composition will be placed.&lt;br /&gt;%1&lt;%2&gt;Terrain Level&lt;%3&gt; - composition will be snapped to the surface underneath. Please note that objects which are placed on another object may no longer be positioned precisely.&lt;br /&gt;%1&lt;%2&gt;Sea Level&lt;%3&gt; - the composition will be placed exactly as it was saved, ignoring the surface slope.</Original>
@@ -2411,7 +2411,7 @@
             <Key ID="str_3den_tutorials_scenario_sections_phases_sequence_text">
               <Original>The sequence of phases is:&lt;br /&gt;1. Intro&lt;br /&gt;2. Scenario&lt;br /&gt;3. Outro Win or Outro Lose</Original>
               <Chinese>任務階段分為以下幾種:&lt;br/&gt;1.開場&lt;br/&gt;2.任務&lt;br/&gt;3.結局-勝利或結局-失敗</Chinese>
-              <Chinesesimp>任务阶段分为以下几种：&lt;br/&gt;1.开场&lt;br/&gt;2.任务&lt;br/&gt;3.结局 — 胜利或结局 — 失败</Chinesesimp>
+              <Chinesesimp>任务阶段分为以下几种：&lt;br/&gt;1.开场&lt;br/&gt;2.任务&lt;br/&gt;3.结局—胜利或结局—失败</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_phases_phasescenario_text">
               <Original>&lt;%2&gt;Scenario&lt;%3&gt; is the core part. It is the only phase available in multiplayer, and the only one where player has control over his character.</Original>
@@ -2421,7 +2421,7 @@
             <Key ID="str_3den_tutorials_scenario_sections_phases_phaseoutro_text">
               <Original>&lt;%2&gt;Outro - Win&lt;%3&gt; and &lt;%2&gt;Outro - Lose&lt;%3&gt; phases are similar to the Intro, but are played after the scenario ends. 'The Win' part is selected when the scenario ends successfully, otherwise the 'Lose' part is chosen.</Original>
               <Chinese>&lt;%2&gt;結局-勝利&lt;%3&gt;和&lt;%2&gt;結局-失敗&lt;%3&gt;階段類似於開場，差別在於此階段僅在任務結束後執行。當任務勝利時會讀取'結局-勝利'，相反的當任務失敗時會讀取'結局-失敗'。</Chinese>
-              <Chinesesimp>&lt;%2&gt;结局 — 胜利&lt;%3&gt;和&lt;%2&gt;结局 — 失败&lt;%3&gt;阶段类似于开场，差别在于此阶段仅在任务结束后执行。当任务胜利时会读取'结局 — 胜利'，相反的当任务失败时会读取'结局 — 失败'。</Chinesesimp>
+              <Chinesesimp>&lt;%2&gt;结局—胜利&lt;%3&gt;和&lt;%2&gt;结局—失败&lt;%3&gt;阶段类似于开场，差别在于此阶段仅在任务结束后执行。当任务胜利时会读取'结局—胜利'，相反的当任务失败时会读取'结局—失败'。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_phases_phaseintro_text">
               <Original>In singleplayer, &lt;%2&gt;Intro&lt;%3&gt; is automatically played before the scenario starts (even before briefing). It is primarily used for cutscenes, and it can be skipped using the button in the pause menu.</Original>

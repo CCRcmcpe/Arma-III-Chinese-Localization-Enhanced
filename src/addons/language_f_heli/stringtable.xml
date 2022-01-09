@@ -30,7 +30,7 @@
       <Key ID="str_a3_heliyaw_sub2_title">
         <Original>Torque - Cruising Speed</Original>
         <Chinese>力矩-巡航速度</Chinese>
-        <Chinesesimp>力矩 — 巡航速度</Chinesesimp>
+        <Chinesesimp>力矩—巡航速度</Chinesesimp>
       </Key>
       <Key ID="str_a3_heliyaw_sub2_desc">
         <Original>While at cruising speed, yawing will be less effective. To turn the helicopter left and right, use %11 and %12, respectively.</Original>
@@ -40,7 +40,7 @@
       <Key ID="str_a3_heliyaw_sub1_title">
         <Original>Torque - Rotating</Original>
         <Chinese>力矩-旋轉</Chinese>
-        <Chinesesimp>力矩 — 旋转</Chinesesimp>
+        <Chinesesimp>力矩—旋转</Chinesesimp>
       </Key>
       <Key ID="str_a3_heliyaw_sub1_desc">
         <Original>If the helicopter is hovering or traveling at low speeds, %1%2use %11 to rotate to the left and%1%2%12 to rotate right.</Original>
@@ -50,7 +50,7 @@
       <Key ID="str_a3_heliyaw_main_title">
         <Original>Torque - Yawing</Original>
         <Chinese>力矩-偏航</Chinese>
-        <Chinesesimp>力矩 — 偏航</Chinesesimp>
+        <Chinesesimp>力矩—偏航</Chinesesimp>
       </Key>
       <Key ID="str_a3_heliyaw_main_tip">
         <Original>As the forward speed of the helicopter increases, pedals become less effective.%1%1%13</Original>
@@ -135,7 +135,7 @@
       <Key ID="str_a3_heliroll_sub3_title">
         <Original>Cyclic - Sharp Turns</Original>
         <Chinese>操縱桿-急轉彎</Chinese>
-        <Chinesesimp>操纵杆 — 急转弯</Chinesesimp>
+        <Chinesesimp>操纵杆—急转弯</Chinesesimp>
       </Key>
       <Key ID="str_a3_heliroll_sub3_desc">
         <Original>To make a sharper turn, pitch the nose up %11 while turning left or right. Keep an eye on your speed!</Original>
@@ -145,7 +145,7 @@
       <Key ID="str_a3_heliroll_sub2_title">
         <Original>Cyclic - Turning</Original>
         <Chinese>操縱桿-轉彎</Chinese>
-        <Chinesesimp>操纵杆 — 转弯</Chinesesimp>
+        <Chinesesimp>操纵杆—转弯</Chinesesimp>
       </Key>
       <Key ID="str_a3_heliroll_sub2_desc">
         <Original>%2To turn left while at cruising speed, use %11.%1%2To turn right, use %12.</Original>
@@ -155,7 +155,7 @@
       <Key ID="str_a3_heliroll_sub1_title">
         <Original>Cyclic - Strafing</Original>
         <Chinese>操縱桿-偏移</Chinese>
-        <Chinesesimp>操纵杆 — 偏移</Chinesesimp>
+        <Chinesesimp>操纵杆—偏移</Chinesesimp>
       </Key>
       <Key ID="str_a3_heliroll_sub1_desc">
         <Original>To move in a strafing fashion, keep the helicopter stationary and %1%2roll left with %11%1%2or roll right with %12.</Original>
@@ -165,7 +165,7 @@
       <Key ID="str_a3_heliroll_main_title">
         <Original>Cyclic - Rolling</Original>
         <Chinese>操縱桿-翻滾</Chinese>
-        <Chinesesimp>操纵杆 — 翻滚</Chinesesimp>
+        <Chinesesimp>操纵杆—翻滚</Chinesesimp>
       </Key>
       <Key ID="str_a3_heliroll_main_desc">
         <Original>With the helicopter in a hover, moving the cyclic left or right will cause helicopter to slip sideways. If the helicopter flies at higher speeds it will roll, turning to the left or the right (similar to the behavior of fixed wing aircraft).%1%1%2To roll to the left, push the cyclic left %11.%1%2To roll to the right, push the cyclic right %12.</Original>
@@ -175,7 +175,7 @@
       <Key ID="str_a3_helipitch_sub4_title">
         <Original>Cyclic - Hover</Original>
         <Chinese>操縱桿-盤旋</Chinese>
-        <Chinesesimp>操纵杆 — 盘旋</Chinesesimp>
+        <Chinesesimp>操纵杆—盘旋</Chinesesimp>
       </Key>
       <Key ID="str_a3_helipitch_sub4_desc">
         <Original>To transition the helicopter into a hover while moving forward, %1%2pitch the nose up %11%1%2 and lower the collective %12%1simultaneously to prevent the helicopter from gaining altitude.</Original>
@@ -185,7 +185,7 @@
       <Key ID="str_a3_helipitch_sub3_title">
         <Original>Cyclic - Slowdown</Original>
         <Chinese>操縱桿-減速</Chinese>
-        <Chinesesimp>操纵杆 — 减速</Chinesesimp>
+        <Chinesesimp>操纵杆—减速</Chinesesimp>
       </Key>
       <Key ID="str_a3_helipitch_sub3_tip">
         <Original>%14%1To easily enter a hover, %1use the %3Autohover%4 function %13.</Original>
@@ -200,7 +200,7 @@
       <Key ID="str_a3_helipitch_sub2_title">
         <Original>Cyclic - Autohover</Original>
         <Chinese>操縱桿-自動盤旋</Chinese>
-        <Chinesesimp>操纵杆 — 自动盘旋</Chinesesimp>
+        <Chinesesimp>操纵杆—自动盘旋</Chinesesimp>
       </Key>
       <Key ID="str_a3_helipitch_sub2_desc">
         <Original>To easily enter a hover, %1use the %3Autohover%4 function %11.</Original>
@@ -210,7 +210,7 @@
       <Key ID="str_a3_helipitch_sub1_title">
         <Original>Cyclic - Speed</Original>
         <Chinese>操縱桿-加速</Chinese>
-        <Chinesesimp>操纵杆 — 加速</Chinesesimp>
+        <Chinesesimp>操纵杆—加速</Chinesesimp>
       </Key>
       <Key ID="str_a3_helipitch_sub1_desc">
         <Original>%2To increase your speed use %11.%1%2To decrease your speed use %12.</Original>
@@ -270,7 +270,7 @@
       <Key ID="str_a3_heligroundeffect_sub1_title">
         <Original>Ground Effect - Hover</Original>
         <Chinese>地面效應-盤旋</Chinese>
-        <Chinesesimp>地面效应 — 盘旋</Chinesesimp>
+        <Chinesesimp>地面效应—盘旋</Chinesesimp>
       </Key>
       <Key ID="str_a3_heligroundeffect_sub1_desc">
         <Original>Use Autohover %11 to make the helicopter hover on its own.</Original>
@@ -295,7 +295,7 @@
       <Key ID="str_a3_helicollective_sub2_title">
         <Original>Collective - Flight</Original>
         <Chinese>集體桿-飛行</Chinese>
-        <Chinesesimp>集体杆 — 飞行</Chinesesimp>
+        <Chinesesimp>集体杆—飞行</Chinesesimp>
       </Key>
       <Key ID="str_a3_helicollective_sub2_desc">
         <Original>To move forward without losing altitude, %1%2pitch the nose down %11 and %1%2raise the collective %12.</Original>
@@ -305,7 +305,7 @@
       <Key ID="str_a3_helicollective_sub1_title">
         <Original>Collective - Altitude</Original>
         <Chinese>集體桿-高度</Chinese>
-        <Chinesesimp>集体杆 — 高度</Chinesesimp>
+        <Chinesesimp>集体杆—高度</Chinesesimp>
       </Key>
       <Key ID="str_a3_helicollective_sub1_desc">
         <Original>%2Hold %11 to raise the collective and gain altitude.%1%2Hold %12 to lower the collective and lose altitude.</Original>
@@ -355,7 +355,7 @@
       <Key ID="str_a3_cfghints_premiumcontent_premiumheli1">
         <Original>Start the engines! Jump into new cargo helicopters and master a new sling loading feature to gain an advantage on the battlefield in the Arma 3 Helicopters DLC.%1&lt;img size='9' shadow='0' image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa' /&gt;%1%2CH-67 Huron - NATO's twin-engine, tandem rotor heavy-lift helicopter%1%2Mi-290 Taru - CSAT heavy utility helicopter using a coaxial rotor design%1%2M-900 - Civilian variant of the existing H-9 family of helicopters%1%2Sling Loading Objects%1%2Helicopter Objects%1%2F.O.B. Objects%1%2Support Multiplayer - a new mode in which battlefield logistics play a major role%1%2&lt;t&gt;&lt;/t&gt;4 VR Helicopter Training Course%1%2Showcase Sling Loading%1%2&lt;t&gt;&lt;/t&gt;5 Singleplayer Time Trial Challenges%1%2Set of extra Steam Achievements</Original>
         <Chinese>啟動引擎!駕駛新的運輸直升機，投入武裝突襲3戰場中體驗新的吊掛系統，一切盡在直升機資料片中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67"休倫"-北約的雙引擎，綜列式旋翼，重型吊掛直升機。%1%2米-290"塔魯"-廣協同盟的重型多用途直升機，使用同軸式旋翼設計%1%2M-900-現有的H-9系列的民用版本%1%2吊掛物件%1%2直升機物件%1%2前線作戰基地物件%1%2多人支援任務-一個新的多人遊戲模式，你將在這邊體驗到支援的樂趣%1%2&lt;t&gt;&lt;/t&gt;4虛擬直升機訓練課程%1%2吊掛任務展示%1%2&lt;t&gt;&lt;/t&gt;5個單人計時挑戰賽%1%2一組額外的Steam成就</Chinese>
-        <Chinesesimp>启动引擎！驾驶新的运输直升机，投入武装突袭3战场中体验新的吊挂系统，一切尽在直升机 DLC 中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67"休伦"-北约的双引擎，综列式旋翼，重型吊挂直升机。%1%2米-290"塔鲁"-广协的重型多用途直升机，使用同轴式旋翼设计%1%2M-900-现有的H-9系列的民用版本%1%2吊挂物件%1%2直升机物件%1%2前线作战基地物件%1%2多人支援任务 — 一个新的多人游戏模式，你将在这边体验到支援的乐趣%1%2&lt;t&gt;&lt;/t&gt;4虚拟直升机训练课程%1%2吊挂任务展示%1%2&lt;t&gt;&lt;/t&gt;5个单人计时挑战赛%1%2一组额外的 Steam 成就</Chinesesimp>
+        <Chinesesimp>启动引擎！驾驶新的运输直升机，投入武装突袭3战场中体验新的吊挂系统，一切尽在直升机 DLC 中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67"休伦"-北约的双引擎，综列式旋翼，重型吊挂直升机。%1%2米-290"塔鲁"-广协的重型多用途直升机，使用同轴式旋翼设计%1%2M-900-现有的H-9系列的民用版本%1%2吊挂物件%1%2直升机物件%1%2前线作战基地物件%1%2多人支援任务—一个新的多人游戏模式，你将在这边体验到支援的乐趣%1%2&lt;t&gt;&lt;/t&gt;4虚拟直升机训练课程%1%2吊挂任务展示%1%2&lt;t&gt;&lt;/t&gt;5个单人计时挑战赛%1%2一组额外的 Steam 成就</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumheli0">
         <Original>Helicopters DLC</Original>

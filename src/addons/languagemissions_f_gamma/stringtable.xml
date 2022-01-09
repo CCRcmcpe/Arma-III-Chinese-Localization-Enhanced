@@ -587,7 +587,7 @@
             <Key ID="str_a3_showcase_gunships_x15_recondead_grn_0">
               <Original>Griffin, this is Viper-Green! They have broken through our defenses! We can't hold out much longer!</Original>
               <Chinese>"獅鷲"，這裡是"毒蛇-綠"!他們打破了我們的防線!我們沒法再多守住一會兒了!</Chinese>
-              <Chinesesimp>"狮鹫"，这里是"毒蛇 — 绿"！他们打破了我们的防御！我们没法再守下去了！</Chinesesimp>
+              <Chinesesimp>"狮鹫"，这里是"毒蛇—绿"！他们打破了我们的防御！我们没法再守下去了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_x15_recondead_grn_1">
               <Original>...</Original>
@@ -597,12 +597,12 @@
             <Key ID="str_a3_showcase_gunships_x15_recondead_ohq_0">
               <Original>Viper-Green? Viper-Green, this is Griffin. Do you copy?</Original>
               <Chinese>"毒蛇-綠"?"毒蛇-綠"，這裡是"獅鷲"。是否收到?</Chinese>
-              <Chinesesimp>"毒蛇 — 绿"？"毒蛇 — 绿"，这里是"狮鹫"。是否收到？</Chinesesimp>
+              <Chinesesimp>"毒蛇—绿"？"毒蛇—绿"，这里是"狮鹫"。是否收到？</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_x15_recondead_ohq_1">
               <Original>Hydra, we have lost communications with Viper-Green, presumed KIA. Return to Pyrgos immediately. Over.</Original>
               <Chinese>"九頭蛇"，我們已經與"毒蛇-綠"失去聯繫，可能已經全員陣亡。請立即返回皮爾戈斯。完畢。</Chinese>
-              <Chinesesimp>"九头蛇"，我们已经与"毒蛇 — 绿"失去联系，推定全员阵亡。请立即返回皮尔戈斯。完毕。</Chinesesimp>
+              <Chinesesimp>"九头蛇"，我们已经与"毒蛇—绿"失去联系，推定全员阵亡。请立即返回皮尔戈斯。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_x15_recondead_pla_0">
               <Original>Roger, Griffin. Adjusting course now. Out.</Original>
@@ -643,14 +643,14 @@
             <Key ID="str_a3_showcase_gunships_50_reconsaved_pla_0">
               <Original>Griffin, this is Hydra. Viper-Green secured. Returning to base. Over.</Original>
               <Chinese>"獅鷲"，這裡是"九頭蛇"。"毒蛇-綠"已安全。返回基地中。完畢。</Chinese>
-              <Chinesesimp>"狮鹫"，这里是"九头蛇"。"毒蛇 — 绿"已安全。返回基地中。完毕。</Chinesesimp>
+              <Chinesesimp>"狮鹫"，这里是"九头蛇"。"毒蛇—绿"已安全。返回基地中。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_ReconDistressCall" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="40_ReconDistressCall" dubbingLanguage="english" namePrefix="showcase_gunships_40_recondistresscall" note="" participants="RC O Viper Green;RC O HQ;RC O Pilot;" situation="recon team calls for help.">
             <Key ID="str_a3_showcase_gunships_40_recondistresscall_grn_0">
               <Original>Viper-Green to Griffin! Viper-Green to Griffin! Do you copy?!</Original>
               <Chinese>"毒蛇-綠"呼叫"獅鷲"!"毒蛇-綠"呼叫"獅鷲"!是否收到?!</Chinese>
-              <Chinesesimp>"毒蛇 — 绿"呼叫"狮鹫"！"毒蛇 — 绿"呼叫 "狮鹫"！是否收到？！</Chinesesimp>
+              <Chinesesimp>"毒蛇—绿"呼叫"狮鹫"！"毒蛇—绿"呼叫 "狮鹫"！是否收到？！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_40_recondistresscall_grn_1">
               <Original>We have been compromised! I say again, we have been compromised! Requesting immediate assistance! Over!</Original>
@@ -660,12 +660,12 @@
             <Key ID="str_a3_showcase_gunships_40_recondistresscall_ohq_0">
               <Original>We hear you, Viper-Green. Go ahead. Over.</Original>
               <Chinese>我們聽到了，"毒蛇-綠"。請繼續說。完畢。</Chinese>
-              <Chinesesimp>我们听到了，"毒蛇 — 绿"。请继续说。完毕。</Chinesesimp>
+              <Chinesesimp>我们听到了，"毒蛇—绿"。请继续说。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_40_recondistresscall_ohq_1">
               <Original>Understood, Viper-Green. Hydra, you are the only one I have on hand. Divert to extract Viper-Green. Over.</Original>
               <Chinese>了解，"毒蛇-綠"。"九頭蛇"，你是我手中唯一擁有的資源。快過去幫忙撤離"毒蛇-綠"。完畢。</Chinese>
-              <Chinesesimp>了解，"毒蛇 — 绿"。"九头蛇"，你是我手中唯一拥有的资源。快去帮"毒蛇 — 绿"撤离。完毕。</Chinesesimp>
+              <Chinesesimp>了解，"毒蛇—绿"。"九头蛇"，你是我手中唯一拥有的资源。快去帮"毒蛇—绿"撤离。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_40_recondistresscall_pla_0">
               <Original>Roger that, Griffin, changing course now. Hydra out.</Original>
@@ -760,12 +760,12 @@
             <Key ID="str_a3_showcase_gunships_x25_recondead_backup_ohq_0">
               <Original>Viper-Green? Viper-Green, this is Griffin. Do you copy?</Original>
               <Chinese>"毒蛇-綠"?"毒蛇-綠"，這裡是"獅鷲"。是否收到?</Chinese>
-              <Chinesesimp>"毒蛇 — 绿"？"毒蛇 — 绿"，这里是"狮鹫"。是否收到？</Chinesesimp>
+              <Chinesesimp>"毒蛇—绿"？"毒蛇—绿"，这里是"狮鹫"。是否收到？</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_x25_recondead_backup_ohq_1">
               <Original>Hydra, we have lost communication with Viper-Green, presumed KIA. Return to Pyrgos immediately. Over.</Original>
               <Chinese>"九頭蛇"，我們已經與"毒蛇-綠"失去聯繫，可能已經全員陣亡。請立即返回皮爾戈斯。完畢。</Chinese>
-              <Chinesesimp>"九头蛇"，我们已经与"毒蛇 — 绿"失去联系，推定全员阵亡。请立即返回皮尔戈斯。完毕。</Chinesesimp>
+              <Chinesesimp>"九头蛇"，我们已经与"毒蛇—绿"失去联系，推定全员阵亡。请立即返回皮尔戈斯。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_x25_recondead_backup_pla_0">
               <Original>Roger, Griffin. Adjusting course now. Out.</Original>
@@ -782,7 +782,7 @@
             <Key ID="str_a3_showcase_gunships_x20_recondistresscall_backup_ohq_1">
               <Original>You are the only one I have on hand. Divert to extract Viper-Green. Over.</Original>
               <Chinese>你是我手中唯一擁有的資源。快過去幫忙撤離"毒蛇-綠"。完畢。</Chinese>
-              <Chinesesimp>你是我手中唯一拥有的资源。快去帮"毒蛇 — 绿"撤离。完毕。</Chinesesimp>
+              <Chinesesimp>你是我手中唯一拥有的资源。快去帮"毒蛇—绿"撤离。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_x20_recondistresscall_backup_pla_0">
               <Original>Roger that, Griffin. Changing course now. Hydra out.</Original>
@@ -873,19 +873,19 @@
             <Key ID="str_a3_showcase_drones_x10_dronesdestroyed_sho_1">
               <Original>Fox - unless you can find a way to salvage this mess - fall back to Rook's position. Out.</Original>
               <Chinese>"狐狸"-除非你能找到方法來挽救這個爛攤子-不然就直接撤回"白嘴鴉"的位置。通話完畢。</Chinese>
-              <Chinesesimp>"狐狸"-除非你能找到方法来挽救这个烂摊子 — 不然就直接撤回"白嘴鸦"的位置。通话完毕。</Chinesesimp>
+              <Chinesesimp>"狐狸"-除非你能找到方法来挽救这个烂摊子—不然就直接撤回"白嘴鸦"的位置。通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x30_NoMates" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="x30_NoMates" dubbingLanguage="english" namePrefix="showcase_drones_x30_nomates" note="" participants="RC B Rook;RC B Fox;" situation="bishop informs fox that they're out of time and the assault has been called off.">
             <Key ID="str_a3_showcase_drones_x30_nomates_pla_0">
               <Original>They're - I took a different route. It was my call.</Original>
               <Chinese>他們-我挑了一個不一樣的路線。這都是我的錯。</Chinese>
-              <Chinesesimp>他们 — 我挑了一个不一样的路线。这都是我的错。</Chinesesimp>
+              <Chinesesimp>他们—我挑了一个不一样的路线。这都是我的错。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_drones_x30_nomates_rok_0">
               <Original>Wait, what, only you? Where's your team - where's the rest of the guys?</Original>
               <Chinese>等，等一下，只有你?你的小隊去哪了-你們剩下的人呢?</Chinese>
-              <Chinesesimp>等，等一下，只有你？你的小组去哪了 — 你们剩下的人呢？</Chinesesimp>
+              <Chinesesimp>等，等一下，只有你？你的小组去哪了—你们剩下的人呢？</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_drones_x30_nomates_rok_1">
               <Original>That was not part of the plan, Fox. For fuck's sake.</Original>
@@ -1126,7 +1126,7 @@
             <Key ID="str_a3_showcase_tanks_05_meeting_nom_2">
               <Original>Reports indicate infantry, APCs - even a couple of Main Battle Tanks.</Original>
               <Chinese>報告中指出敵軍有步兵，裝甲運兵車-甚至是幾臺主戰坦克。</Chinese>
-              <Chinesesimp>报告中指出敌军有步兵，装甲运兵车 — 甚至是几辆主战坦克。</Chinesesimp>
+              <Chinesesimp>报告中指出敌军有步兵，装甲运兵车—甚至是几辆主战坦克。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_tanks_05_meeting_nom_3">
               <Original>So stay focused. Keep formation. Let's roll out.</Original>
@@ -1191,7 +1191,7 @@
             <Key ID="str_a3_showcase_armed_assault_x40_minefieldimpossible_pla_0">
               <Original>No can do, sir. I've - I don't have my kit, sir.</Original>
               <Chinese>恕難從命，長官。我-我沒有帶著我的工具包，長官。</Chinese>
-              <Chinesesimp>恕难从命，长官。我 — 我没有带着我的工具包，长官。</Chinesesimp>
+              <Chinesesimp>恕难从命，长官。我—我没有带着我的工具包，长官。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x35_DestroyArty" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x35_DestroyArty" dubbingLanguage="english" namePrefix="showcase_armed_assault_x35_destroyarty" note="" participants="RC B Alpha Lead;RC B Kerry;" situation="alpha squad leader orders player to destroy arty vehicle">
@@ -1276,12 +1276,12 @@
             <Key ID="str_a3_showcase_armed_assault_x10_heavycasualtiesteamroadblock_pla_0">
               <Original>Fuck! Sir, my team's down! I'm the only one left - please advise! Over!</Original>
               <Chinese>幹!長官，我的隊員全倒了!我是唯一一個活著的-請指示!完畢!</Chinese>
-              <Chinesesimp>操！长官，我的小组全死了！我是唯一一个活着的 — 请指示！完毕！</Chinesesimp>
+              <Chinesesimp>操！长官，我的小组全死了！我是唯一一个活着的—请指示！完毕！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_x10_heavycasualtiesteamroadblock_alp_2">
               <Original>Papa Bear, be advised, Alpha's taken casualties. Road block not clear - I say again - road block is not clear.</Original>
               <Chinese>Papa Bear，請注意，Alpha有重大傷亡。路障未肅清-我重覆一次-路障未肅清。</Chinese>
-              <Chinesesimp>Papa Bear，请注意，Alpha 有重大伤亡。路障未肃清 — 我重复一次 — 路障未肃清。</Chinesesimp>
+              <Chinesesimp>Papa Bear，请注意，Alpha 有重大伤亡。路障未肃清—我重复一次—路障未肃清。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x05_HeavyCasualtiesTeamFactory" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x05_HeavyCasualtiesTeamFactory" dubbingLanguage="english" namePrefix="showcase_armed_assault_x05_heavycasualtiesteamfactory" note="" participants="RC B Kerry;RC B Alpha Lead;" situation="player tells alpha squad leader that all his team members are dead">
@@ -1298,12 +1298,12 @@
             <Key ID="str_a3_showcase_armed_assault_x05_heavycasualtiesteamfactory_pla_0">
               <Original>Fuck! Sir, my team's down! I'm the only one left - please advise! Over!</Original>
               <Chinese>幹!長官，我的隊員全倒了!我是唯一一個活著的-請指示!完畢!</Chinese>
-              <Chinesesimp>操！长官，我的小组全完了！我是唯一一个活着的 — 请指示！完毕！</Chinesesimp>
+              <Chinesesimp>操！长官，我的小组全完了！我是唯一一个活着的—请指示！完毕！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_x05_heavycasualtiesteamfactory_alp_2">
               <Original>Papa Bear, be advised, Alpha's taken casualties. Industrial complex not clear - I say again - complex is not clear. AT threat remains. Over.</Original>
               <Chinese>Papa Bear，請注意，Alpha有重大傷亡。工業區未肅清-我重覆一次-工業區未肅清。反坦克威脅依然存在。完畢。</Chinese>
-              <Chinesesimp>Papa Bear，请注意，Alpha 有重大伤亡。工业区未肃清 — 我重复一次 — 工业区未肃清。反坦克威胁依然存在。完毕。</Chinesesimp>
+              <Chinesesimp>Papa Bear，请注意，Alpha 有重大伤亡。工业区未肃清—我重复一次—工业区未肃清。反坦克威胁依然存在。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x00_HeavyCasualtiesSquad" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x00_HeavyCasualtiesSquad" dubbingLanguage="english" namePrefix="showcase_armed_assault_x00_heavycasualtiessquad" note="" participants="RC B HQ;RC B Alpha Lead;" situation="alpha leader tells hq that his squad has taken too many casualties, hq orders them to fall back">
@@ -1378,7 +1378,7 @@
             <Key ID="str_a3_showcase_armed_assault_80_logisticsminefield_kil_1">
               <Original>We're fine - Kilo-2's a mess - but no casualties. Looks like we've got a minefield, Papa Bear. Orders?</Original>
               <Chinese>我們還好-Kilo-2已成為一團垃圾了-但所幸沒有傷亡。看來我們遇到地雷區了，Papa Bear。命令?</Chinese>
-              <Chinesesimp>我们还好-Kilo-2"一团糟 — 但所幸没有伤亡。看来我们遇到地雷区了，Papa Bear。命令？</Chinesesimp>
+              <Chinesesimp>我们还好-Kilo-2"一团糟—但所幸没有伤亡。看来我们遇到地雷区了，Papa Bear。命令？</Chinesesimp>
             </Key>
           </Container>
           <Container name="75_Logistics" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="75_Logistics" dubbingLanguage="english" namePrefix="showcase_armed_assault_75_logistics" note="" participants="RC B HQ;RC B Kerry;RC B Alpha Lead;" situation="hq requests alpha to send someone to meet with logistics and coordinate a good setup position">
@@ -1556,7 +1556,7 @@
             <Key ID="str_a3_showcase_armed_assault_37_mainassault_bhq_0">
               <Original>All callsigns, we are go for main objective. Commence the assault - give 'em hell!</Original>
               <Chinese>所有單位，我們要開始前往主要目標了。開始突擊-打的他們屎尿齊發!</Chinese>
-              <Chinesesimp>所有单位，我们要开始前往主要目标了。开始突击 — 把他们往死里打！</Chinesesimp>
+              <Chinesesimp>所有单位，我们要开始前往主要目标了。开始突击—把他们往死里打！</Chinesesimp>
             </Key>
           </Container>
           <Container name="35_OutpostSitrep" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="35_OutpostSitrep" dubbingLanguage="english" namePrefix="showcase_armed_assault_35_outpostsitrep" note="" participants="RC B Alpha Lead;RC B HQ;" situation="alpha squad leader orders player to destroy enemy vehicles at the outpost">
@@ -2132,7 +2132,7 @@
         <Key ID="str_a3_showcase_drones_titlecard">
           <Original>SHOWCASE: DRONES - Armed UAVs &amp; UGVs, Recon Quadrocopter, High Value Target</Original>
           <Chinese>任務展示:無人載具-武裝的空中無人載具&amp;地面無人載具，偵察用四軸飛行器，高價值目標</Chinese>
-          <Chinesesimp>任务展示：无人机 — 武装无人机&amp;无人车，侦察用四轴飞行器，高价值目标</Chinesesimp>
+          <Chinesesimp>任务展示：无人机—武装无人机&amp;无人车，侦察用四轴飞行器，高价值目标</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_drones_marker_bis_mrkteam03">
           <Original>Jester</Original>
@@ -2314,7 +2314,7 @@
         <Key ID="str_a3_showcase_gunships_titlecard">
           <Original>SHOWCASE: GUNSHIPS - Attack Helicopters, Countermeasures, Huge Terrain</Original>
           <Chinese>任務展示:武裝直升機-攻擊直升機，對策分析，廣大的地圖</Chinese>
-          <Chinesesimp>任务展示：武装直升机 — 攻击直升机，对策分析，广大的地图</Chinesesimp>
+          <Chinesesimp>任务展示：武装直升机—攻击直升机，对策分析，广大的地图</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Showcase_Gunships_Showcase_Summary_text">
           <Original>Learn how to operate gunships in Arma 3. Repel the enemy assault with your heavily armed attack helicopter.</Original>
@@ -2334,7 +2334,7 @@
         <Key ID="str_a3_showcase_gunships_debriefing_win02_description">
           <Original>Despite failing to save Viper-Green, you successfully completed all remaining objectives, striking a serious blow against enemy forces.</Original>
           <Chinese>儘管未能救出"毒蛇-綠"小隊，你仍然完成了其他的任務目標，並給我們敵人造成嚴重的打擊。</Chinese>
-          <Chinesesimp>尽管未能救出"毒蛇 — 绿"小组，你仍然完成了其他的任务目标，并给我们敌人造成严重的打击。</Chinesesimp>
+          <Chinesesimp>尽管未能救出"毒蛇—绿"小组，你仍然完成了其他的任务目标，并给我们敌人造成严重的打击。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_gunships_debriefing_win01_subtitle">
           <Original>Flawless execution</Original>
@@ -2344,7 +2344,7 @@
         <Key ID="str_a3_showcase_gunships_debriefing_win01_description">
           <Original>You completed all objectives and rescued Viper-Green. Enemy forces were beaten back and are retreating to their initial positions. Excellent work today, Hydra.</Original>
           <Chinese>你成功完成了所有的目標並救出"毒蛇-綠"小隊。敵軍已被擊退至他們的出發點。你今天實在表現的太棒了，"九頭蛇"。</Chinese>
-          <Chinesesimp>你成功完成了所有的目标并救出了"毒蛇 — 绿"。敌军已被击退至他们的出发点。你今天实在表现的太棒了，"九头蛇"。</Chinesesimp>
+          <Chinesesimp>你成功完成了所有的目标并救出了"毒蛇—绿"。敌军已被击退至他们的出发点。你今天实在表现的太棒了，"九头蛇"。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_gunships_debriefing_fail03_subtitle">
           <Original>Gunship is Out of Action!</Original>
@@ -2369,7 +2369,7 @@
         <Key ID="str_a3_showcase_gunships_briefing_signal_text">
           <Original>Griffin - HQ.%1%2Hydra%3 - Your team.</Original>
           <Chinese>"獅鷲"-總部。%1%2"九頭蛇"%3-你的小隊。</Chinese>
-          <Chinesesimp>狮鹫 — 总部。%1%2"九头蛇"%3-你的小队。</Chinesesimp>
+          <Chinesesimp>狮鹫—总部。%1%2"九头蛇"%3-你的小队。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_gunships_briefing_mission_text">
           <Original>Link up with your Mi-48 gunner at %1our southern airfield%2, proceed to %3Pyrgos%4 and beat back %5the enemy counter-offensive%6.</Original>
@@ -2394,7 +2394,7 @@
         <Key ID="str_a3_showcase_gunships_bis_tsksave_desc">
           <Original>%1Viper-Green%2 are in trouble. Divert immediately and extract them. LZ is hot.</Original>
           <Chinese>%1"毒蛇-綠"%2正陷入麻煩之中。快速降落並撤離他們。降落點很危險。</Chinese>
-          <Chinesesimp>%1"毒蛇 — 绿"%2正陷入麻烦之中。赶快改变航向并撤出他们。降落点很危险。</Chinesesimp>
+          <Chinesesimp>%1"毒蛇—绿"%2正陷入麻烦之中。赶快改变航向并撤出他们。降落点很危险。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_gunships_bis_tsksad_title">
           <Original>Destroy the Artillery</Original>
@@ -2741,7 +2741,7 @@
         <Key ID="str_a3_showcase_arma1_titlecard">
           <Original>SHOWCASE: ARMED ASSAULT - Large-Scale Attack, Combined Arms, Overwhelming Force</Original>
           <Chinese>任務展示:聯合作戰-大規模作戰，聯合作戰，優勢的軍力</Chinese>
-          <Chinesesimp>任务展示：武装突袭 — 大规模作战，合成作战，压倒性军力</Chinesesimp>
+          <Chinesesimp>任务展示：武装突袭—大规模作战，合成作战，压倒性军力</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_arma2_titlecard">
           <Original>SHOWCASE: COMBINED ARMS II - Large-Scale Attack, Combined Arms, Overwhelming Force</Original>
@@ -2927,7 +2927,7 @@
         <Key ID="str_a3_showcase_faction_OPFOR_titlecard">
           <Original>FACTION: CSAT - Weapons, Vehicles, Aircraft</Original>
           <Chinese>陣營:廣協同盟-武器，車輛，飛機</Chinese>
-          <Chinesesimp>阵营：广协 — 武器，车辆，飞机</Chinesesimp>
+          <Chinesesimp>阵营：广协—武器，车辆，飞机</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_opfor_ground_marker">
           <Original>LAND</Original>
@@ -3039,7 +3039,7 @@
         <Key ID="str_a3_showcase_faction_BLUFOR_titlecard">
           <Original>FACTION: NATO - Weapons, Vehicles, Aircraft</Original>
           <Chinese>陣營:北約-武器，車輛，飛機</Chinese>
-          <Chinesesimp>阵营：北约 — 武器，车辆，飞机</Chinesesimp>
+          <Chinesesimp>阵营：北约—武器，车辆，飞机</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_blufor_ground_marker">
           <Original>LAND</Original>
@@ -3228,7 +3228,7 @@
         <Key ID="str_a3_showcase_tanks_titlecard">
           <Original>SHOWCASE: TANKS - Big Firepower, Improved Driving Physics, Refined Sound Engine</Original>
           <Chinese>任務展示:坦克-火力強大，進步的駕駛物理，更加精緻的聲音引擎</Chinese>
-          <Chinesesimp>任务展示：坦克 — 火力强大，进步的驾驶物理，更加精致的声音引擎</Chinesesimp>
+          <Chinesesimp>任务展示：坦克—火力强大，进步的驾驶物理，更加精致的声音引擎</Chinesesimp>
         </Key>
       </Container>
     </Container>

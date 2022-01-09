@@ -192,7 +192,7 @@
       <Key ID="STR_A3_Spectator_Briefing_VirtualSpectator">
         <Original>VIRTUAL SPECTATOR - Welcome to the Virtual Spectator. Keep an eye out for possible interesting events.</Original>
         <Chinese>虛擬觀察者-歡迎來到虛擬觀察者模式。請時時關注場上發生任何的有趣事件。</Chinese>
-        <Chinesesimp>虚拟观察者 — 欢迎来到虚拟观察者模式。请时时关注场上发生任何的有趣事件。</Chinesesimp>
+        <Chinesesimp>虚拟观察者—欢迎来到虚拟观察者模式。请时时关注场上发生任何的有趣事件。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Sectator_HeadToHead_Defending">
         <Original>DEFENDING</Original>
@@ -222,7 +222,7 @@
       <Key ID="STR_A3_Spectator_Briefing_FreeCamera">
         <Original>FREE CAMERA - The free camera can be used to move freely through the world.</Original>
         <Chinese>自由攝影機-可自由的在地圖中到處移動。</Chinese>
-        <Chinesesimp>自由摄影机 — 可自由的在地图中到处移动。</Chinesesimp>
+        <Chinesesimp>自由摄影机—可自由的在地图中到处移动。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Sectator_HeadToHead_Retrieve">
         <Original>RETRIEVE</Original>
@@ -237,7 +237,7 @@
       <Key ID="STR_A3_Spectator_Briefing_3ppCamera">
         <Original>3PP CAMERA - The third person camera allows you to follow and rotate around a target unit or vehicle. This camera can only be selected if you have a focused unit.</Original>
         <Chinese>第三人稱攝影機-此攝影機能讓你持續跟蹤在同一單位，載具上並能旋轉畫面觀察四周。此功能只能在你已選定一個單位時啟用。</Chinese>
-        <Chinesesimp>第三人称摄影机 — 此摄影机能让你持续跟踪在同一单位，载具上并能旋转画面观察四周。此功能只能在你已选定一个单位时启用。</Chinesesimp>
+        <Chinesesimp>第三人称摄影机—此摄影机能让你持续跟踪在同一单位，载具上并能旋转画面观察四周。此功能只能在你已选定一个单位时启用。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Subtitle_Opfor">
         <Original>OPFOR WON</Original>
@@ -252,7 +252,7 @@
       <Key ID="STR_A3_Spectator_Briefing_Map">
         <Original>MAP - Press M to open or close the Spectator map. From it, you can move to a location or unit by clicking on it.</Original>
         <Chinese>地圖-按下M來開啟或關閉觀察者地圖。你可以透過點擊地圖來快速移動到任何地方。</Chinese>
-        <Chinesesimp>地图 — 按下M来开启或关闭观察者地图。你可以通过点击地图来快速移动到任何地方。</Chinesesimp>
+        <Chinesesimp>地图—按下M来开启或关闭观察者地图。你可以通过点击地图来快速移动到任何地方。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Sectator_HeadToHead_Upload">
         <Original>UPLOAD</Original>
@@ -262,7 +262,7 @@
       <Key ID="STR_A3_Spectator_Briefing_1ppCamera">
         <Original>1PP CAMERA - The first person camera allows you to see the world through the eyes of a Player or AI unit. This camera can only be selected if you have a focused unit.</Original>
         <Chinese>第一人稱攝影機-此攝影機能讓你透過玩家或AI單位的眼睛看出去。此功能只能在你已選定一個單位時啟用。</Chinese>
-        <Chinesesimp>第一人称摄影机 — 此摄影机能让你通过玩家或 AI 单位的眼睛看出去。此功能只能在你已选定一个单位时启用。</Chinesesimp>
+        <Chinesesimp>第一人称摄影机—此摄影机能让你通过玩家或 AI 单位的眼睛看出去。此功能只能在你已选定一个单位时启用。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Sectator_HeadToHead_Uploading">
         <Original>UPLOADING</Original>
