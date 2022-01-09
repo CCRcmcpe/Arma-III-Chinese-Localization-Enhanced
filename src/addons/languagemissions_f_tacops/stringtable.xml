@@ -3667,7 +3667,7 @@
           <Key ID="str_a3_to_c02m02_inf_signal">
             <Original>%2Guardian%1 - Command.%7%3Pariah%1 - Special forces group.%7%4Alpha%1 - Your team.%7%5Bravo%1 - Infantry element.%7%6Charlie%1 - Armored element.</Original>
             <Chinese>%2守護者%1-指揮部。%7%3賤民%1-特種部隊。%7%4Alpha%1-你的隊伍。%7%5Bravo%1-步兵部隊。%7%6Charlie%1-裝甲部隊。</Chinese>
-            <Chinesesimp>%2守护者%1-指挥官。%7%3贱民%1-特种部队小组。%7%4Alpha%1-你的小组。%7%5Bravo%1-步兵分队。%7%6Charlie%1-装甲分队。</Chinesesimp>
+            <Chinesesimp>%2守护者%1-指挥官。%7%3"帕利亚"%1-特种部队小组。%7%4Alpha%1-你的小组。%7%5Bravo%1-步兵分队。%7%6Charlie%1-装甲分队。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c02m02_inf_mission">
             <Original>First, we'll need to seize the town of %2Houdan%1. Once done, your group will move up the coast and secure the %3ammunition dump%1 before joining the main assault on %4Dourdan%1 from the east.</Original>
@@ -7464,7 +7464,7 @@
             <Key ID="str_a3_to_c03_m03_037_ta_evacuate_opportunity_proteus_4">
               <Original>Proteus copies all.</Original>
               <Chinese>"變形蟲"完整收到。</Chinese>
-              <Chinesesimp>"变形虫"全都收到。</Chinesesimp>
+              <Chinesesimp>"变形虫"全部收到。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_037_ta_evacuate_opportunity_proteus_5">
               <Original>Get your men to grid 213-121. That's 213-121 - we have operatives ashore, not far from their position.</Original>
@@ -9046,7 +9046,7 @@
           <Key ID="str_a3_to_c03m02_signal">
             <Original>%2November%1 - Group led by Lt. Collins.&lt;br/&gt;%3Pariah%1 - Special forces.&lt;br/&gt;%4Oscar%1 - Infantry element.&lt;br/&gt;%5Guardian%1 - Command.</Original>
             <Chinese>%2November%1-柯林斯少尉率領的隊伍。&lt;br/&gt;%3"賤民"%1-特種部隊。&lt;br/&gt;%4"奧斯卡"%1-步兵部隊。&lt;br/&gt;%5"守護者"%1-指揮部。</Chinese>
-            <Chinesesimp>%2November%1-柯林斯少尉带领的小队。&lt;br/&gt;%3贱民%1-特种部队。&lt;br/&gt;%4Oscar%1-步兵分队。&lt;br/&gt;%5守护者%1-指挥部。</Chinesesimp>
+            <Chinesesimp>%2November%1-柯林斯少尉带领的小队。&lt;br/&gt;%3"帕利亚"%1-特种部队。&lt;br/&gt;%4Oscar%1-步兵分队。&lt;br/&gt;%5守护者%1-指挥部。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m02_overviewtext">
             <Original>Survivors from LZ Mustang attempt to reach friendly forces.</Original>
@@ -10389,22 +10389,22 @@
       <Key ID="str_a3_to_c03_callsign_pariah">
         <Original>Pariah</Original>
         <Chinese>賤民</Chinese>
-        <Chinesesimp>贱民</Chinesesimp>
+        <Chinesesimp>"帕利亚"</Chinesesimp>
       </Key>
       <Key ID="str_a3_to_c03_callsign_maverick">
         <Original>Maverick</Original>
         <Chinese>幼畜</Chinese>
-        <Chinesesimp>幼畜</Chinesesimp>
+        <Chinesesimp>"牛犊"</Chinesesimp>
       </Key>
       <Key ID="str_a3_to_c03_callsign_guardian">
         <Original>Guardian</Original>
         <Chinese>守護者</Chinese>
-        <Chinesesimp>守护者</Chinesesimp>
+        <Chinesesimp>"守护者"</Chinesesimp>
       </Key>
       <Key ID="str_a3_to_c03_callsign_firebrand">
         <Original>Firebrand</Original>
         <Chinese>火把</Chinese>
-        <Chinesesimp>火把</Chinesesimp>
+        <Chinesesimp>"火把"</Chinesesimp>
       </Key>
       <Key ID="str_a3_to_c02_roles_sf_tooltip_locked">
         <Original>Haven't played as special forces yet.</Original>

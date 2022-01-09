@@ -1828,7 +1828,7 @@
             <Key ID="str_a3_showcase_slingloading_05_takeoff_pil_1">
               <Original>November copies all. Heading out.</Original>
               <Chinese>November完整收到。開始出發。</Chinese>
-              <Chinesesimp>November 完整收到。开始出发。</Chinesesimp>
+              <Chinesesimp>November 全部收到。开始出发。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_05_takeoff_tow_0">
               <Original>Copy, November. Today's forecast - clear skies with a weak westerly wind. That's gonna run up at about 5 knots.</Original>
@@ -3446,7 +3446,7 @@
       <Key ID="STR_A3_callsign_dingo">
         <Original>Dingo</Original>
         <Chinese>野狗</Chinese>
-        <Chinesesimp>野狗</Chinesesimp>
+        <Chinesesimp>"丁戈"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Codename_November">
         <Original>November</Original>
@@ -3456,7 +3456,7 @@
       <Key ID="STR_A3_callsign_mantis">
         <Original>Mantis</Original>
         <Chinese>螳螂</Chinese>
-        <Chinesesimp>螳螂</Chinesesimp>
+        <Chinesesimp>"螳螂"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_callsign_bishop">
         <Original>Bishop</Original>
@@ -3466,27 +3466,27 @@
       <Key ID="str_a3_callsign_stranger">
         <Original>Stranger</Original>
         <Chinese>陌生人</Chinese>
-        <Chinesesimp>陌生人</Chinesesimp>
+        <Chinesesimp>"旁人"</Chinesesimp>
       </Key>
       <Key ID="str_a3_callsign_viper">
         <Original>Viper</Original>
         <Chinese>毒蛇</Chinese>
-        <Chinesesimp>毒蛇</Chinesesimp>
+        <Chinesesimp>"毒蛇"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_callsign_lizard">
         <Original>Lizard</Original>
         <Chinese>蜥蜴</Chinese>
-        <Chinesesimp>蜥蜴</Chinesesimp>
+        <Chinesesimp>"蜥蜴"</Chinesesimp>
       </Key>
       <Key ID="str_a3_callsign_ghost">
         <Original>Ghost</Original>
         <Chinese>鬼</Chinese>
-        <Chinesesimp>幽灵</Chinesesimp>
+        <Chinesesimp>"幽灵"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_callsign_ice">
         <Original>Ice</Original>
         <Chinese>冰</Chinese>
-        <Chinesesimp>冰</Chinesesimp>
+        <Chinesesimp>"坚冰"</Chinesesimp>
       </Key>
     </Container>
   </Package>

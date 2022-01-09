@@ -16138,7 +16138,7 @@
         <Key ID="str_cfg_grpnames_alpha">
           <Original>Alpha</Original>
           <Chinese>透明度</Chinese>
-          <Chinesesimp>透明度</Chinesesimp>
+          <Chinesesimp>Alpha</Chinesesimp>
         </Key>
         <Key ID="str_dn_cars">
           <Original>Cars</Original>
@@ -16163,7 +16163,7 @@
         <Key ID="str_cfg_grpnames_buffalo">
           <Original>Buffalo</Original>
           <Chinese>Buffalo</Chinese>
-          <Chinesesimp>水牛</Chinesesimp>
+          <Chinesesimp>"水牛"</Chinesesimp>
         </Key>
         <Key ID="str_dn_bunker">
           <Original>Bunker</Original>
@@ -16213,7 +16213,7 @@
         <Key ID="str_cfg_grpnames_fox">
           <Original>Fox</Original>
           <Chinese>"Fox"</Chinese>
-          <Chinesesimp>"狐狸"</Chinesesimp>
+          <Chinesesimp>"狐"</Chinesesimp>
         </Key>
         <Key ID="str_dn_animal">
           <Original>Animal</Original>
@@ -16238,7 +16238,7 @@
         <Key ID="str_cfg_grpnames_guardian">
           <Original>Guardian</Original>
           <Chinese>"守護者"</Chinese>
-          <Chinesesimp>"守护者"</Chinesesimp>
+          <Chinesesimp>"卫士"</Chinesesimp>
         </Key>
         <Key ID="str_dn_empty">
           <Original>No object</Original>
