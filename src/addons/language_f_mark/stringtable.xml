@@ -373,7 +373,7 @@
       <Key ID="str_a3_cfgmods_mark_features_dlcbsounds1">
         <Original>Weapon sounds improvements: sound tails, occlusion, improved supersonic crack.</Original>
         <Chinese>武器音效改進:聲音殘留，障礙影響，改進的超聲波裂紋。</Chinese>
-        <Chinesesimp>武器音效改进:声音残留，障碍影响，改进的超音速冲击波。</Chinesesimp>
+        <Chinesesimp>武器音效改进：声音残留，障碍影响，改进的超音速冲击波。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_mark_features_dlcbsounds0">
         <Original>Sound Improvements</Original>
@@ -518,12 +518,12 @@
         <Key ID="str_a3_target_popup4_moving_acc2_f0">
           <Original>Moving Target 4 (Side - Accuracy)</Original>
           <Chinese>目標移動靶4(左右-精準度)</Chinese>
-          <Chinesesimp>目标移动靶4（左右-精准度）</Chinesesimp>
+          <Chinesesimp>目标移动靶4（左右 — 精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_target_popup4_moving_acc1_f0">
           <Original>Moving Target 4 (Side - Zones)</Original>
           <Chinese>目標移動靶4(左右-區塊)</Chinese>
-          <Chinesesimp>目标移动靶4（左右-区块）</Chinesesimp>
+          <Chinesesimp>目标移动靶4（左右 — 区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_target_popup4_moving_90deg_f0">
           <Original>Moving Target 4 (Front)</Original>
@@ -533,12 +533,12 @@
         <Key ID="str_a3_target_popup4_moving_90deg_acc2_f0">
           <Original>Moving Target 4 (Front - Accuracy)</Original>
           <Chinese>目標移動靶4(前後-精準度)</Chinese>
-          <Chinesesimp>目标移动靶4（前后-精准度）</Chinesesimp>
+          <Chinesesimp>目标移动靶4（前后 — 精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_target_popup4_moving_90deg_acc1_f0">
           <Original>Moving Target 4 (Front - Zones)</Original>
           <Chinese>目標移動靶4(前後-區塊)</Chinese>
-          <Chinesesimp>目标移动靶4（前后-区块）</Chinesesimp>
+          <Chinesesimp>目标移动靶4（前后 — 区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_targetp_inf4_f0">
           <Original>Pop-Up Target 4</Original>
@@ -707,7 +707,7 @@
         <Key ID="str_a3_cfgvehicles_flag_fd_purple_f0">
           <Original>Flag (FD - Purple)</Original>
           <Chinese>旗幟(射擊訓練-紫色)</Chinese>
-          <Chinesesimp>旗帜（射击训练-紫色）</Chinesesimp>
+          <Chinesesimp>旗帜（射击训练 — 紫色）</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -720,12 +720,12 @@
       <Key ID="STR_A3_WeaponBasics2">
         <Original>Basic weapon operations:%1%2%11 to fire your weapon %1%2%12 to cycle fire modes %1%2%13 to switch to optics %1%2Hold %14 to hold breath %1%2%15 to reload</Original>
         <Chinese>武器基礎操控:%1%2按下%11來使武器開火%1%2按下%12來切換開火模式%1%2按下%13來切換瞄準鏡%1%2按住%14來暫停呼吸%1%2按下%15來重新裝填武器</Chinese>
-        <Chinesesimp>武器基础操控:%1%2按下%11来使武器开火%1%2按下%12来切换开火模式%1%2按下%13来切换瞄准镜%1%2按住%14来暂停呼吸%1%2按下%15来重新装填武器</Chinesesimp>
+        <Chinesesimp>武器基础操控：%1%2按下%11来使武器开火%1%2按下%12来切换开火模式%1%2按下%13来切换瞄准镜%1%2按住%14来暂停呼吸%1%2按下%15来重新装填武器</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiummark1">
         <Original>Hone your shooting skills and engage in ranged combat with the seven new weapons in the Arma 3 Marksmen DLC.%1&lt;img size='9' shadow='0' image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa' /&gt;%1%2&lt;t&gt;&lt;\t&gt;Weapon: Cyrus 9.3 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: Mk14 7.62 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: ASP-1 Kir 12.7 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: SPMG .338%1%2&lt;t&gt;&lt;\t&gt;Weapon: Navid 9.3 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;Weapon: Mk-I EMR 7.62 mm%1%2&lt;t&gt;&lt;\t&gt;Character: Sniper - with a new full ghillie suit%1%2&lt;t&gt;&lt;\t&gt;Character: Grenadier - with a new heavy vest%1%2&lt;t&gt;&lt;\t&gt;3 Singleplayer Firing Drills%1%2&lt;t&gt;&lt;\t&gt;End Game - a team based multiplayer mode%1%2&lt;t&gt;&lt;\t&gt;Showcase Firing From Vehicles%1%2&lt;t&gt;&lt;\t&gt;Showcase Marksmen%1%2&lt;t&gt;&lt;\t&gt;VR Training courses%1%2&lt;t&gt;&lt;\t&gt;Remote Designators%1%2&lt;t&gt;&lt;\t&gt;Laser Designators%1%2&lt;t&gt;&lt;\t&gt;Facepaints - 9 faces with camouflage%1%2&lt;t&gt;&lt;\t&gt;Kahlia Scope%1%2&lt;t&gt;&lt;\t&gt;AMS Scope%1%2&lt;t&gt;&lt;\t&gt;Weapon Accessories%1%2&lt;t&gt;&lt;\t&gt;Firing Drills Decorative Objects%1%2&lt;t&gt;&lt;\t&gt;Set of extra Steam Achievements%1&lt;t&gt;&lt;\t&gt;</Original>
         <Chinese>使用新增的7把武器，在武裝突襲3精準射手資料片中磨練你的射擊技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器:"塞魯斯"9.3公厘%1%2&lt;t&gt;&lt;\t&gt;武器:Mk14 7.62公厘%1%2&lt;t&gt;&lt;\t&gt;武器:ASP-1"基爾"12.7公厘%1%2&lt;t&gt;&lt;\t&gt;武器:SPMG .338%1%2&lt;t&gt;&lt;\t&gt;武器:"納維德"9.3公厘%1%2&lt;t&gt;&lt;\t&gt;武器:MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;武器:Mk-I EMR 7.62公厘%1%2&lt;t&gt;&lt;\t&gt;角色:狙擊手-穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色:榴彈兵-有著新的防彈背心%1%2&lt;t&gt;&lt;\t&gt;3個新的射擊訓練%1%2&lt;t&gt;&lt;\t&gt;終戰-一個新的多人遊戲模式%1%2&lt;t&gt;&lt;\t&gt;任務展示-從載具中射擊%1%2&lt;t&gt;&lt;\t&gt;任務展示-精準射手%1%2&lt;t&gt;&lt;\t&gt;虛擬訓練課程%1%2&lt;t&gt;&lt;\t&gt;遙控指示器%1%2&lt;t&gt;&lt;\t&gt;雷射指示器%1%2&lt;t&gt;&lt;\t&gt;臉譜-9張新的迷彩臉譜%1%2&lt;t&gt;&lt;\t&gt;"喀利亞"瞄準鏡%1%2&lt;t&gt;&lt;\t&gt;先進精準射手瞄準鏡%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射擊訓練物件%1%2&lt;t&gt;&lt;\t&gt;新的Steam成就%1&lt;t&gt;&lt;\t&gt;</Chinese>
-        <Chinesesimp>使用新增的7把武器，在武装突袭3精准射手 DLC 中磨练你的射击技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器:"塞鲁斯"9.3 mm %1%2&lt;t&gt;&lt;\t&gt;武器:Mk14 7.62mm %1%2&lt;t&gt;&lt;\t&gt;武器:ASP-1"基尔"12.7mm %1%2&lt;t&gt;&lt;\t&gt;武器:SPMG .338%1%2&lt;t&gt;&lt;\t&gt;武器:"纳维德"9.3mm %1%2&lt;t&gt;&lt;\t&gt;武器:MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;武器:Mk-I EMR 7.62mm %1%2&lt;t&gt;&lt;\t&gt;角色:狙击手-穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色:榴弹兵-有着新的防弹背心%1%2&lt;t&gt;&lt;\t&gt;3个新的射击训练%1%2&lt;t&gt;&lt;\t&gt;终战-一个新的多人游戏模式%1%2&lt;t&gt;&lt;\t&gt;任务展示-从载具中射击%1%2&lt;t&gt;&lt;\t&gt;任务展示-精准射手%1%2&lt;t&gt;&lt;\t&gt;虚拟训练课程%1%2&lt;t&gt;&lt;\t&gt;遥控指示器%1%2&lt;t&gt;&lt;\t&gt;激光指示器%1%2&lt;t&gt;&lt;\t&gt;脸谱-9张新的迷彩脸谱%1%2&lt;t&gt;&lt;\t&gt;"喀利亚"瞄准镜%1%2&lt;t&gt;&lt;\t&gt;先进精准射手瞄准镜%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射击训练物件%1%2&lt;t&gt;&lt;\t&gt;新的 Steam 成就%1&lt;t&gt;&lt;\t&gt;</Chinesesimp>
+        <Chinesesimp>使用新增的7把武器，在武装突袭3精准射手 DLC 中磨练你的射击技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器："塞鲁斯"9.3 mm %1%2&lt;t&gt;&lt;\t&gt;武器：Mk14 7.62mm %1%2&lt;t&gt;&lt;\t&gt;武器：ASP-1"基尔"12.7mm %1%2&lt;t&gt;&lt;\t&gt;武器：SPMG .338%1%2&lt;t&gt;&lt;\t&gt;武器："纳维德"9.3mm %1%2&lt;t&gt;&lt;\t&gt;武器：MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;武器：Mk-I EMR 7.62mm %1%2&lt;t&gt;&lt;\t&gt;角色：狙击手 — 穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色：榴弹兵 — 有着新的防弹背心%1%2&lt;t&gt;&lt;\t&gt;3个新的射击训练%1%2&lt;t&gt;&lt;\t&gt;终战 — 一个新的多人游戏模式%1%2&lt;t&gt;&lt;\t&gt;任务展示 — 从载具中射击%1%2&lt;t&gt;&lt;\t&gt;任务展示 — 精准射手%1%2&lt;t&gt;&lt;\t&gt;虚拟训练课程%1%2&lt;t&gt;&lt;\t&gt;遥控指示器%1%2&lt;t&gt;&lt;\t&gt;激光指示器%1%2&lt;t&gt;&lt;\t&gt;脸谱-9张新的迷彩脸谱%1%2&lt;t&gt;&lt;\t&gt;"喀利亚"瞄准镜%1%2&lt;t&gt;&lt;\t&gt;先进精准射手瞄准镜%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射击训练物件%1%2&lt;t&gt;&lt;\t&gt;新的 Steam 成就%1&lt;t&gt;&lt;\t&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiummark0">
         <Original>Marksmen DLC</Original>
@@ -740,7 +740,7 @@
       <Key ID="STR_A3_TargetLeading2">
         <Original>To hit a moving target, you have to lead it correctly. The main factors influencing your success are:%1%2Distance to the target%1%2The target's velocity%1%2Your weapon's muzzle velocity%1%2The ballistic trajectory of the round</Original>
         <Chinese>要擊中一個移動中的目標，你就必須學會如何取前置量。影響你擊中目標的因素如下:%1%2與目標間的距離%1%2目標的移動速度%1%2你的武器子彈初速%1%2子彈的飛行軌跡</Chinese>
-        <Chinesesimp>要击中一个移动中的目标，你就必须学会如何取前置量。影响你击中目标的因素如下:%1%2与目标间的距离%1%2目标的移动速度%1%2你的武器子弹初速%1%2子弹的飞行轨迹</Chinesesimp>
+        <Chinesesimp>要击中一个移动中的目标，你就必须学会如何取前置量。影响你击中目标的因素如下：%1%2与目标间的距离%1%2目标的移动速度%1%2你的武器子弹初速%1%2子弹的飞行轨迹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_TargetLeading3">
         <Original>Practice makes master, especially in this case.</Original>
@@ -750,12 +750,12 @@
       <Key ID="STR_A3_AVCamera1">
         <Original>AV Camera</Original>
         <Chinese>無人載具攝影機</Chinese>
-        <Chinesesimp>无人载具摄影机</Chinesesimp>
+        <Chinesesimp>无人机摄影机</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AVCamera2">
         <Original>When you are connected to a UAV or remote designator, you can activate a live feed.%1%2Use %11 to toggle the live camera feed on and off.</Original>
         <Chinese>當你連接上無人載具或遙控指示器，你便能啟用無人載具攝影機。%1%2按下%11來切換無人載具攝影機開啟或關閉。</Chinese>
-        <Chinesesimp>当你连接上无人载具或遥控指示器，你便能启用无人载具摄影机。%1%2按下%11来切换无人载具摄影机开启或关闭。</Chinesesimp>
+        <Chinesesimp>当你连接上无人机或遥控指示器，你便能启用无人机摄影机。%1%2按下%11来切换无人机摄影机开启或关闭。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Ballistics1">
         <Original>Ballistics</Original>
@@ -840,12 +840,12 @@
       <Key ID="STR_A3_MilDot2">
         <Original>Mil-Dot reticles use mathematics to measure distances. To use them properly, you need to: %1%2Know your target's height and/or width %1%2Divide the size (in meters) by the number of mil-dots it takes up in the reticle %1%2Multiply by 1000 to get the distance</Original>
         <Chinese>密位點可以幫助使用者算出目標的大致距離。要如何使用:%1%2知道你目標的高度或寬度%1%2觀察該目標佔用了多少密位，再用目標的高度/寬度(單位公尺)除以佔用的密位數量%1%2最後乘上1000即可算出目標距離</Chinese>
-        <Chinesesimp>密位点可以帮助使用者算出目标的大致距离。要如何使用:%1%2知道你目标的高度或宽度%1%2观察该目标占用了多少密位，再用目标的高度/宽度（单位米）除以占用的密位数量%1%2最后乘上1000即可算出目标距离</Chinesesimp>
+        <Chinesesimp>密位点可以帮助使用者算出目标的大致距离。要如何使用：%1%2知道你目标的高度或宽度%1%2观察该目标占用了多少密位，再用目标的高度/宽度（单位米）除以占用的密位数量%1%2最后乘上1000即可算出目标距离</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MilDot3">
         <Original>Example: enemy tank exposing its side (approx. 8m), taking 10 mils in the scope. 8/10 = 0.8, 0.8*1000 = 800. The tank is 800m away.</Original>
         <Chinese>範例:敵軍坦克露出了它的側邊(大約長8公尺)，它在瞄準鏡中佔用10個密位點。8/10=0.8，0.8*1000=800。由此可得知坦克大概在800公尺遠的地方。</Chinese>
-        <Chinesesimp>范例:敌军坦克露出了它的侧边（大约长8米），它在瞄准镜中占用10个密位点。8/10=0.8，0.8*1000=800。由此可得知坦克大概在800米远的地方。</Chinesesimp>
+        <Chinesesimp>范例：敌军坦克露出了它的侧边（大约长8米），它在瞄准镜中占用10个密位点。8/10=0.8，0.8*1000=800。由此可得知坦克大概在800米远的地方。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Optics1">
         <Original>Optics</Original>
@@ -865,7 +865,7 @@
       <Key ID="STR_A3_RemoteCameras2">
         <Original>Remote designators are portable devices used for reconnaissance, target marking, and maintaining the security of strategic areas or objects. Their handling and assembly is similar to the UAVs.%1%2Use %11 and %12 to raise and lower the designator.</Original>
         <Chinese>遙控指示器是一種便攜式裝備，用來進行偵察，目標標定和持續監控關鍵區域的安全。它們的安裝與控制類似於無人載具。%1%2使用%11和%12即可升高或降低指示器。</Chinese>
-        <Chinesesimp>遥控指示器是一种便携式装备，用来进行侦察，目标标记和持续监控关键区域的安全。它们的安装与控制类似于无人载具。%1%2使用%11和%12即可升高或降低指示器。</Chinesesimp>
+        <Chinesesimp>遥控指示器是一种便携式装备，用来进行侦察，目标标记和持续监控关键区域的安全。它们的安装与控制类似于无人机。%1%2使用%11和%12即可升高或降低指示器。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Suppression1">
         <Original>Suppression</Original>
@@ -903,7 +903,7 @@
         <Key ID="str_a3_cfgweapons_optic_khs_blk1">
           <Original>Kahlia&lt;br /&gt;Magnification: 5x–11x</Original>
           <Chinese>"喀利亞"&lt;br/&gt;倍率:5x–11x</Chinese>
-          <Chinesesimp>"喀利亚"&lt;br/&gt;倍率:5x–11x</Chinesesimp>
+          <Chinesesimp>"喀利亚"&lt;br/&gt;倍率：5x–11x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_khs_blk0">
           <Original>Kahlia (Black)</Original>
@@ -933,7 +933,7 @@
         <Key ID="str_a3_cfgweapons_optic_ams1">
           <Original>Advanced Marksman Scope&lt;br /&gt;Magnification: 3x–10x</Original>
           <Chinese>先進精準射手瞄準鏡&lt;br/&gt;倍率:3x–10x</Chinese>
-          <Chinesesimp>先进精准射手瞄准镜&lt;br/&gt;倍率:3x–10x</Chinesesimp>
+          <Chinesesimp>先进精准射手瞄准镜&lt;br/&gt;倍率：3x–10x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_ams0">
           <Original>AMS (Black)</Original>
@@ -1010,12 +1010,12 @@
         <Key ID="str_a3_cfgweapons_laserdesignator1">
           <Original>Magnification: 5x–25x</Original>
           <Chinese>倍率:5x–25x</Chinese>
-          <Chinesesimp>倍率:5x–25x</Chinesesimp>
+          <Chinesesimp>倍率：5x–25x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_laserdesignator_031">
           <Original>Magnification: 5x–25x</Original>
           <Chinese>倍率:5x–25x</Chinese>
-          <Chinesesimp>倍率:5x–25x</Chinesesimp>
+          <Chinesesimp>倍率：5x–25x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_laserdesignator_030">
           <Original>Laser Designator (Olive)</Original>
@@ -1025,7 +1025,7 @@
         <Key ID="str_a3_cfgweapons_laserdesignator_021">
           <Original>Magnification: 1x-20x</Original>
           <Chinese>倍率:1x-20x</Chinese>
-          <Chinesesimp>倍率:1x-20x</Chinesesimp>
+          <Chinesesimp>倍率：1x-20x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_laserdesignator_020">
           <Original>Laser Designator (Hex)</Original>
@@ -1042,7 +1042,7 @@
         <Key ID="str_a3_cfgmagazines_150rnd_93x64_mag1">
           <Original>Caliber: 9.3x64mm&lt;br /&gt;Rounds: 150&lt;br /&gt;Used in: Navid</Original>
           <Chinese>口徑:9.3x64公厘&lt;br/&gt;發數:150&lt;br/&gt;使用於:"納維德"</Chinese>
-          <Chinesesimp>口径:9.3x64mm &lt;br/&gt;发数:150&lt;br/&gt;使用于:"纳维德"</Chinesesimp>
+          <Chinesesimp>口径：9.3x64mm &lt;br/&gt;发数：150&lt;br/&gt;使用于："纳维德"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_150rnd_93x64_mag0">
           <Original>9.3mm 150Rnd Belt</Original>
@@ -1052,7 +1052,7 @@
         <Key ID="str_a3_cfgmagazines_130rnd_338_mag1">
           <Original>Caliber: .338 Norma Magnum&lt;br /&gt;Rounds: 130&lt;br /&gt;Used in: SPMG</Original>
           <Chinese>口徑:.338那莫·馬格南&lt;br/&gt;發數:130&lt;br/&gt;使用於:SPMG</Chinese>
-          <Chinesesimp>口径:.338纳莫·马格南&lt;br/&gt;发数:130&lt;br/&gt;使用于:SPMG</Chinesesimp>
+          <Chinesesimp>口径：.338纳莫·马格南&lt;br/&gt;发数：130&lt;br/&gt;使用于：SPMG</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_130rnd_338_mag0">
           <Original>.338 NM 130Rnd Belt</Original>
@@ -1062,7 +1062,7 @@
         <Key ID="str_a3_cfgmagazines_10rnd_93x64_dmr_05_mag1">
           <Original>Caliber: 9.3x64mm&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: Cyrus</Original>
           <Chinese>口徑:9.3x64公厘&lt;br/&gt;發數:10&lt;br/&gt;使用於:"塞魯斯"</Chinese>
-          <Chinesesimp>口径:9.3x64mm &lt;br/&gt;发数:10&lt;br/&gt;使用于:"塞鲁斯"</Chinesesimp>
+          <Chinesesimp>口径：9.3x64mm &lt;br/&gt;发数：10&lt;br/&gt;使用于："塞鲁斯"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_93x64_dmr_05_mag0">
           <Original>9.3 mm 10Rnd Mag</Original>
@@ -1072,7 +1072,7 @@
         <Key ID="str_a3_cfgmagazines_10rnd_338_mag1">
           <Original>Caliber: .338 Lapua Magnum&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: MAR-10</Original>
           <Chinese>口徑:.338拉普阿·馬格南&lt;br/&gt;發數:10&lt;br/&gt;使用於:MAR-10</Chinese>
-          <Chinesesimp>口径:.338拉普阿·马格南&lt;br/&gt;发数:10&lt;br/&gt;使用于:MAR-10</Chinesesimp>
+          <Chinesesimp>口径：.338拉普阿·马格南&lt;br/&gt;发数：10&lt;br/&gt;使用于：MAR-10</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_338_mag0">
           <Original>.338 LM 10Rnd Mag</Original>
@@ -1082,7 +1082,7 @@
         <Key ID="str_a3_cfgmagazines_10rnd_127x54_mag1">
           <Original>Caliber: 12.7x54 mm&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: ASP-1 Kir</Original>
           <Chinese>口徑:12.7x54公厘&lt;br/&gt;發數:10&lt;br/&gt;使用於:ASP-1"基爾"</Chinese>
-          <Chinesesimp>口径:12.7x54mm &lt;br/&gt;发数:10&lt;br/&gt;使用于:ASP-1"基尔"</Chinesesimp>
+          <Chinesesimp>口径：12.7x54mm &lt;br/&gt;发数：10&lt;br/&gt;使用于：ASP-1"基尔"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_127x54_mag0">
           <Original>12.7 mm 10Rnd Mag</Original>
@@ -1104,7 +1104,7 @@
         <Key ID="str_a3_cfgweapons_srifle_dmr_06_camo_f1">
           <Original>Marksman Rifle&lt;br /&gt;Caliber: 7.62x51 mm</Original>
           <Chinese>精準射手步槍&lt;br/&gt;口徑:7.62x51公厘</Chinese>
-          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:7.62x51mm</Chinesesimp>
+          <Chinesesimp>精准射手步枪&lt;br/&gt;口径：7.62x51mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_06_camo_f0">
           <Original>Mk14 7.62 mm (Camo)</Original>
@@ -1129,7 +1129,7 @@
         <Key ID="str_a3_cfgweapons_srifle_dmr_05_blk_f1">
           <Original>Marksman Rifle&lt;br /&gt;Caliber: 9.3x64 mm</Original>
           <Chinese>精準射手步槍&lt;br/&gt;口徑:9.3x64公厘</Chinese>
-          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:9.3x64mm</Chinesesimp>
+          <Chinesesimp>精准射手步枪&lt;br/&gt;口径：9.3x64mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_05_blk_f0">
           <Original>Cyrus 9.3 mm (Black)</Original>
@@ -1149,7 +1149,7 @@
         <Key ID="str_a3_cfgweapons_srifle_dmr_04_f1">
           <Original>Marksman Rifle&lt;br /&gt;Caliber: 12.7x54 mm</Original>
           <Chinese>精準射手步槍&lt;br/&gt;口徑:12.7x54公厘</Chinese>
-          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:12.7x54mm</Chinesesimp>
+          <Chinesesimp>精准射手步枪&lt;br/&gt;口径：12.7x54mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_04_f0">
           <Original>ASP-1 Kir 12.7 mm (Black)</Original>
@@ -1184,7 +1184,7 @@
         <Key ID="str_a3_cfgweapons_srifle_dmr_03_f1">
           <Original>Marksman Rifle&lt;br /&gt;Caliber: 7.62x51 mm NATO</Original>
           <Chinese>精準射手步槍&lt;br/&gt;口徑:7.62x51公厘北約彈</Chinese>
-          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:7.62x51mm 北约弹</Chinesesimp>
+          <Chinesesimp>精准射手步枪&lt;br/&gt;口径：7.62x51mm 北约弹</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_03_f0">
           <Original>Mk-I EMR 7.62 mm (Black)</Original>
@@ -1204,7 +1204,7 @@
         <Key ID="str_a3_cfgweapons_srifle_dmr_02_f1">
           <Original>Marksman Rifle&lt;br /&gt;Caliber: .338 Lapua Magnum</Original>
           <Chinese>精準射手步槍&lt;br/&gt;口徑:.338拉普阿·马格南弹</Chinese>
-          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:.338拉普阿·马格南弹</Chinesesimp>
+          <Chinesesimp>精准射手步枪&lt;br/&gt;口径：.338拉普阿·马格南弹</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_02_f0">
           <Original>MAR-10 .338 (Black)</Original>
@@ -1251,12 +1251,12 @@
         <Key ID="str_a3_cfgweapons_mmg_02_camo_f_library0">
           <Original>The SPMG (Special Purpose Machine Gun) is a lightweight medium machine gun, which greatly benefits from modern materials. It is designed to fill the gap between 7.62 mm and .50 machine guns. The SPMG uses .338 Norma Magnum bullets. The effective range of the machine gun is 1500 m, and thanks to advanced technology, it has a low recoil.</Original>
           <Chinese>做為中型機槍，由於SPMG(特殊用途機槍)使用了現代材料來製作，所以重量較其他機槍來得輕。它的設計宗旨是用來填補7.62公厘和.50機槍間的落差。SPMG使用.338纳莫·馬格南彈。它的有效射程有1500公尺，由於高科技的技術，它的後座力也非常低。</Chinese>
-          <Chinesesimp>做为中型机枪，由于 SPMG（特殊用途机枪）使用了现代材料来制作，所以重量较其他机枪来得轻。它的设计宗旨是用来填补7.62 mm 和.50机枪间的落差。SPMG 使用.338纳莫·马格南弹，有效射程达1500米，由于高科技的技术，它的后座力也非常低。</Chinesesimp>
+          <Chinesesimp>做为中型机枪，由于 SPMG（特殊用途机枪）使用了现代材料来制作，所以重量较其他机枪来得轻。它的设计宗旨是用来填补7.62 mm和.50机枪间的落差。SPMG 使用.338纳莫·马格南弹，有效射程达1500米，由于高科技的技术，它的后座力也非常低。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_02_camo_f1">
           <Original>Medium Machine Gun&lt;br /&gt;Caliber: .338 Norma Magnum</Original>
           <Chinese>中型機槍&lt;br/&gt;口徑:.338纳莫·馬格南彈</Chinese>
-          <Chinesesimp>中型机枪&lt;br/&gt;口径:.338纳莫·马格南弹</Chinesesimp>
+          <Chinesesimp>中型机枪&lt;br/&gt;口径：.338纳莫·马格南弹</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_02_camo_f0">
           <Original>SPMG .338 (MTP)</Original>
@@ -1286,7 +1286,7 @@
         <Key ID="str_a3_cfgweapons_mmg_01_hex_f1">
           <Original>Medium Machine Gun&lt;br /&gt;Caliber: 9.3x64 mm</Original>
           <Chinese>中型機槍&lt;br/&gt;口徑:9.3x64公厘</Chinese>
-          <Chinesesimp>中型机枪&lt;br/&gt;口径:9.3x64mm</Chinesesimp>
+          <Chinesesimp>中型机枪&lt;br/&gt;口径：9.3x64mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_01_hex_f0">
           <Original>Navid 9.3 mm (Hex)</Original>
@@ -1309,12 +1309,12 @@
       <Key ID="str_a3_cfgmusic_leadtrack02_f_mark">
         <Original>Marksmen DLC: Lead Track 02 (Into the Sun)</Original>
         <Chinese>精準射手資料片:主音軌02(進入太陽)</Chinese>
-        <Chinesesimp>精准射手 DLC:主音轨02（进入太阳）</Chinesesimp>
+        <Chinesesimp>精准射手 DLC：主音轨02（进入太阳）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_leadtrack03_f_mark">
         <Original>Marksmen DLC: Lead Track 03 (Marksmen)</Original>
         <Chinese>精準射手資料片:主音軌03(精準射手)</Chinese>
-        <Chinesesimp>精准射手 DLC:主音轨03（精准射手）</Chinesesimp>
+        <Chinesesimp>精准射手 DLC：主音轨03（精准射手）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Static_F">
@@ -1570,7 +1570,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list22_title">
         <Original>Showcase Marksmen</Original>
         <Chinese>任務展示-精準射手</Chinese>
-        <Chinesesimp>任务展示-精准射手</Chinesesimp>
+        <Chinesesimp>任务展示 — 精准射手</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list22">
         <Original>use your new abilities and long range sharpshooting skills in this tense mission</Original>
@@ -1580,7 +1580,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list21_title">
         <Original>Showcase Firing From Vehicles</Original>
         <Chinese>任務展示-從載具中射擊</Chinese>
-        <Chinesesimp>任务展示-从载具中射击</Chinesesimp>
+        <Chinesesimp>任务展示 — 从载具中射击</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list21">
         <Original>experience this feature in an actual combat scenario for both singleplayer and multiplayer</Original>
@@ -1695,7 +1695,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list11">
         <Original>9.3mm and .338 caliber</Original>
         <Chinese>9.3公厘和.338口徑</Chinese>
-        <Chinesesimp>9.3 mm 和.338口径</Chinesesimp>
+        <Chinesesimp>9.3 mm和.338口径</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list10_title">
         <Original>Bipods</Original>
@@ -1715,12 +1715,12 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_footer2">
         <Original>Have a splendid time as a marksman!</Original>
         <Chinese>擔當厲害的精準射手!</Chinese>
-        <Chinesesimp>担当厉害的精准射手!</Chinesesimp>
+        <Chinesesimp>担当厉害的精准射手！</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard">
         <Original>Go over all of the premium content and platform additions that Arma 3 Marksmen offers:</Original>
         <Chinese>查看所有武裝突襲3精準射手所提供的好康:</Chinese>
-        <Chinesesimp>查看所有武装突袭3精准射手所提供的内容:</Chinesesimp>
+        <Chinesesimp>查看所有武装突袭3精准射手所提供的内容：</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_parc_list6_title">
         <Original>Weapon Stabilization</Original>
@@ -1785,7 +1785,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_parc">
         <Original>We remain committed to bringing new features to every Arma 3 player. The following sandbox improvements have been requested for a long time and they are finally here!</Original>
         <Chinese>我們將繼續致力於開發新功能給所有的武裝突襲3玩家。以下新增的功能都是長久以來玩家所要求的，現在它們終於成真了!</Chinese>
-        <Chinesesimp>我们将继续致力于开发新功能给所有的武装突袭3玩家。以下新增的功能都是长久以来玩家所要求的，现在它们终于成真了!</Chinesesimp>
+        <Chinesesimp>我们将继续致力于开发新功能给所有的武装突袭3玩家。以下新增的功能都是长久以来玩家所要求的，现在它们终于成真了！</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_parb_footer">
         <Original>More about Arma 3 Marksmen</Original>
@@ -1800,12 +1800,12 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_parb">
         <Original>In line with our established &lt;a href='%3' color='%2'&gt;DLC strategy&lt;/a&gt;, Arma 3 Marksmen is another premium content pack, supported by a free platform update. Owners will gain unrestricted access to &lt;t color='%1'&gt;7 new weapons, 2 new scopes, remote designators and ghillie suits&lt;/t&gt;. By purchasing the DLC you also support our further development of the Arma 3 platform for everyone!</Original>
         <Chinese>在我們的&lt;ahref='%3'color='%2'&gt;資料片計劃&lt;/a&gt;中，武裝突襲3精準射手是另一個可購買的資料片，並且會透過更新來開放給大家。購買者將會擁有&lt;tcolor='%1'&gt;7把新武器，2個新瞄準鏡，遙控指示器與全身吉利服&lt;/t&gt;。透過購買本資料片，你將幫助我們繼續發展武裝突襲3這個遊戲平臺!</Chinese>
-        <Chinesesimp>在我们的&lt;ahref='%3'color='%2'&gt;DLC 计划&lt;/a&gt;中，武装突袭3精准射手是另一个可购买的 DLC，并且会通过更新来开放给大家。购买者将会拥有&lt;tcolor='%1'&gt;7把新武器，2个新瞄准镜，遥控指示器与全身吉利服&lt;/t&gt;。通过购买本 DLC，你将帮助我们继续发展武装突袭3这个游戏平台!</Chinesesimp>
+        <Chinesesimp>在我们的&lt;ahref='%3'color='%2'&gt;DLC 计划&lt;/a&gt;中，武装突袭3精准射手是另一个可购买的 DLC，并且会通过更新来开放给大家。购买者将会拥有&lt;tcolor='%1'&gt;7把新武器，2个新瞄准镜，遥控指示器与全身吉利服&lt;/t&gt;。通过购买本 DLC，你将帮助我们继续发展武装突袭3这个游戏平台！</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_para">
         <Original>Bipods! We've released the &lt;t color='%1'&gt;Arma 3 Marksmen DLC&lt;/t&gt;, bringing shooting gameplay to the next level. Owners can look forward to playing with powerful new gunnery options, but this update also elevates the gun-play experience for everyone. Read on to learn what hugely anticipated features we've added, and what range of content you get to explore. Now, stabilize your weapons, take aim and master your sharpshooting skills!</Original>
         <Chinese>大家好!我們很榮幸推出了&lt;tcolor='%1'&gt;武裝突襲3精準射手資料片&lt;/t&gt;，帶領射擊體驗到一個新的層次。購買者可以擁有新加入的武器與配件，但射擊系統的調整是開放給所有玩家的。讀取以下說明，你將可了解我們新增了哪些功能。現在，讓我們一起成為頂尖的精準射手吧!</Chinese>
-        <Chinesesimp>大家好!我们很荣幸推出了&lt;tcolor='%1'&gt;武装突袭3精准射手 DLC&lt;/t&gt;，带领射击体验到一个新的层次。购买者可以拥有新加入的武器与配件，但射击系统的调整是开放给所有玩家的。读取以下说明，你将可了解我们新增了哪些功能。现在，让我们一起成为顶尖的精准射手吧!</Chinesesimp>
+        <Chinesesimp>大家好！我们很荣幸推出了&lt;tcolor='%1'&gt;武装突袭3精准射手 DLC&lt;/t&gt;，带领射击体验到一个新的层次。购买者可以拥有新加入的武器与配件，但射击系统的调整是开放给所有玩家的。读取以下说明，你将可了解我们新增了哪些功能。现在，让我们一起成为顶尖的精准射手吧！</Chinesesimp>
       </Key>
     </Container>
     <Container name="VhC">

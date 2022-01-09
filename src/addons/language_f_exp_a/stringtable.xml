@@ -45,7 +45,7 @@
       <Key ID="STR_A3_StaminaOverEncumbrance3">
         <Original>Depending on the situation, you can also:%1%2Drop equipment you don't need and retrieve it later.%1%2Use vehicles to transport additional equipment.%1%2Share equipment with your team-mates.</Original>
         <Chinese>取決於當下狀況，你可照以下動作來處置:%1%2拋棄任何你再也不需要的裝備。%1%2使用運輸載具來分擔裝備。%1%2與你的隊友一起分擔裝備。</Chinese>
-        <Chinesesimp>取决于当下状况，你可参照以下动作来处置:%1%2抛弃任何你再也不需要的装备。%1%2使用运输载具来分担装备。%1%2与你的队友一起分担装备。</Chinesesimp>
+        <Chinesesimp>取决于当下状况，你可参照以下动作来处置：%1%2抛弃任何你再也不需要的装备。%1%2使用运输载具来分担装备。%1%2与你的队友一起分担装备。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Armor1">
         <Original>Personal Protective Equipment</Original>
@@ -65,7 +65,7 @@
       <Key ID="STR_A3_Audio2">
         <Original>The game's audio engine was prepared for future improvements, some of which enhance the soundscape even now:%1%2%3Stereo Emitter%4 - this tech handles stereo samples, which are used as positional sounds, and creates a stereo effect at close distances%1%2%3Explosives%4 - new and richer samples%1%2%3Fatigued Characters%4 - more distinct voice sets for fatigued characters and enhanced 'holding breath' samples</Original>
         <Chinese>遊戲的音效引擎正被不斷更新，以下是一些新加入的特色:%1%2%3立體聲發射器%4-我們使用此種技術來控制立體聲採樣，這將影響到你聽聲辨位的能力，以及近距離產生的音效%1%2%3爆炸%4-新且更為豐富的音效採樣%1%2%3疲勞的人%4-人物'喘息'的聲音更加的鮮明</Chinese>
-        <Chinesesimp>游戏的音效引擎正被不断更新，以下是一些新加入的特色:%1%2%3立体声发射器%4-我们使用此种技术来控制立体声采样，这将影响到你听声辨位的能力，以及近距离产生的音效%1%2%3爆炸%4-更新且更为丰富的音效采样%1%2%3疲劳的人%4-人物'喘息'的声音更加的鲜明</Chinesesimp>
+        <Chinesesimp>游戏的音效引擎正被不断更新，以下是一些新加入的特色：%1%2%3立体声发射器%4-我们使用此种技术来控制立体声采样，这将影响到你听声辨位的能力，以及近距离产生的音效%1%2%3爆炸%4-更新且更为丰富的音效采样%1%2%3疲劳的人%4-人物'喘息'的声音更加的鲜明</Chinesesimp>
       </Key>
       <Key ID="STR_A3_EndGame1">
         <Original>End Game</Original>
@@ -75,7 +75,7 @@
       <Key ID="STR_A3_EndGame2">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus2_ca.paa' /&gt;%1The basic premise of the End Game %3multiplayer mode%4 is to provide a 'hybrid' %3mix%4 of gameplay types: %3Coop%4, %3PvE%4 and %3PvP%4.%1Two sides fight against a common enemy to secure enough Intel - gathered by completing a number of small objectives - to identify a final 'End Game' objective. The game mode is comprised of 3 distinct phases:%1%2Establishing a F.O.B.%1%2Downloading Intelligence%1%2Securing valuable schematics</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus2_ca.paa'/&gt;%1終戰為%3多人遊戲%4帶來%3混合模式%4的遊戲體驗:%3合作%4，%3玩家對抗電腦%4和%3玩家互相對戰%4。%1雙方人馬將一起對抗共同的敵人，並透過不同的小任務來獲得足夠的情報，最終掌握該局'終戰'的任務目標。此模式由三個階段所構成:%1%2建立前線作戰基地。%1%2下載情報%1%2奪取武器藍圖</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus2_ca.paa'/&gt;%1终战为%3多人游戏%4带来%3混合模式%4的游戏体验:%3合作%4，%3玩家对抗电脑%4和%3玩家互相对战%4。%1双方人马将一起对抗共同的敌人，并透过不同的小任务来获得足够的情报，最终掌握该局'终战'的任务目标。此模式由三个阶段所构成:%1%2建立前线作战基地。%1%2下载情报%1%2夺取武器蓝图</Chinesesimp>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus2_ca.paa'/&gt;%1终战为%3多人游戏%4带来%3混合模式%4的游戏体验：%3合作%4，%3玩家对抗电脑%4和%3玩家互相对战%4。%1双方人马将一起对抗共同的敌人，并透过不同的小任务来获得足够的情报，最终掌握该局'终战'的任务目标。此模式由三个阶段所构成：%1%2建立前线作战基地。%1%2下载情报%1%2夺取武器蓝图</Chinesesimp>
       </Key>
       <Key ID="STR_A3_EndGame3">
         <Original>End Game also uses new virtual roles to observe the sessions. This first version of a new %3Spectator%4 feature can be used in other scenarios by leveraging its modular platform design.</Original>
@@ -90,7 +90,7 @@
       <Key ID="STR_A3_ModDependency2">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus5_ca.paa' /&gt;%1Mod dependencies are the integration of %3clear%4 and %3automated connections%4 between %3mods%4 in the Launcher. This feature consists of:%1%2Dependency settings on Steam Workshop%1%2Launcher's ability to recognize and work with dependencies%1%2Automated repair of missing dependencies</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus5_ca.paa'/&gt;%1模組關聯這功能能%3簡單%4且%3自動%4連接%3模組%4與啟動器。此功能包含以下特色:%1%2同步Steam工作坊上的設定%1%2啟動器能辨別並與模組產生連接%1%2自動維修消失的關聯</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus5_ca.paa'/&gt;%1模组关联这功能能%3简单%4且%3自动%4连接%3模组%4与启动器。此功能包含以下特色:%1%2同步 Steam 工作坊上的设定%1%2启动器能辨别并与模组产生连接%1%2自动维修消失的关联</Chinesesimp>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus5_ca.paa'/&gt;%1模组关联这功能能%3简单%4且%3自动%4连接%3模组%4与启动器。此功能包含以下特色：%1%2同步 Steam 工作坊上的设定%1%2启动器能辨别并与模组产生连接%1%2自动维修消失的关联</Chinesesimp>
       </Key>
       <Key ID="STR_A3_NexusUpdate">
         <Original>Nexus Update</Original>
@@ -110,7 +110,7 @@
       <Key ID="STR_A3_Nexus2">
         <Original>With Nexus Update, we have focused on enhancing core gameplay features, systems and content.%1Refined features included:%1%2Personal Protective Equipment%1%2Stamina%1%2System Optimizations%1%2Mod Dependencies%1%2Audio%1We are also presenting our continued development of the %3End Game%4 multiplayer mode and our completely new official web service %3Arma 3 Units%4.</Original>
         <Chinese>隨著樞紐更新的上市，我們提升了核心的遊戲功能，系統與內容。%1包括以下特色:%1%2個人防護裝備%1%2體力%1%2系統優化%1%2模組關聯%1%2音效%1同時我們也推出了%3終戰%4這種多人遊戲模式，並且在官網上架設%3武裝突襲3戰隊%4的網頁。</Chinese>
-        <Chinesesimp>随着枢纽更新的上市，我们提升了核心的游戏功能，系统与内容。%1包括以下特色:%1%2个人防护装备%1%2体力%1%2系统优化%1%2模组关联%1%2音效%1同时我们也推出了%3终战%4这种多人游戏模式，并且在官网上架设%3武装突袭3战队%4的网页。</Chinesesimp>
+        <Chinesesimp>随着枢纽更新的上市，我们提升了核心的游戏功能，系统与内容。%1包括以下特色：%1%2个人防护装备%1%2体力%1%2系统优化%1%2模组关联%1%2音效%1同时我们也推出了%3终战%4这种多人游戏模式，并且在官网上架设%3武装突袭3战队%4的网页。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_StaminaInfo1">
         <Original>Stamina</Original>
@@ -130,12 +130,12 @@
       <Key ID="STR_A3_Units2">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus1_ca.paa' /&gt;%1Arma 3 Units is a web-based %3service%4 for %3connecting Arma 3 players%4 to community groups. This initial Foundation Release allows registered Bohemia Accounts to:%1%2Register a Unit, which includes setting the Unit logo, description, biography, server information and more%1%2Browse and search for registered Units, and sort them by multiple characteristics like: Gameplay, Region, Language and more</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus1_ca.paa'/&gt;%1武裝突襲3戰隊是用來%3連接武裝突襲3玩家%4到社群戰隊的一種%3網頁服務%4。初步的功能能讓波希米亞會員做以下事情:%1%2註冊新的戰隊，並設定戰隊隊徽，介紹，基礎資料，伺服器訊息等等%1%2使用不同的搜尋標籤來找尋適合自己的戰隊:遊戲模式，國家，語言等等</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus1_ca.paa'/&gt;%1武装突袭3战队是用来%3连接武装突袭3玩家%4到社区战队的一种%3网页服务%4。初步的功能能让波希米亚会员做以下事情:%1%2注册新的战队，并设定战队队徽，介绍，基础资料，服务器信息等等%1%2使用不同的搜寻标签来找寻适合自己的战队:例如游戏模式，国家，语言等等</Chinesesimp>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus1_ca.paa'/&gt;%1武装突袭3战队是用来%3连接武装突袭3玩家%4到社区战队的一种%3网页服务%4。初步的功能能让波希米亚会员做以下事情：%1%2注册新的战队，并设定战队队徽，介绍，基础资料，服务器信息等等%1%2使用不同的搜寻标签来找寻适合自己的战队：例如游戏模式，国家，语言等等</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Units3">
         <Original>%3&lt;a href='http://units.arma3.com'&gt;units.arma3.com&lt;/a&gt;%4</Original>
         <Chinese>%3&lt;ahref='http://units.arma3.com'&gt;units.arma3.com&lt;/a&gt;%4</Chinese>
-        <Chinesesimp>%3&lt;ahref='http://units.arma3.com'&gt;units.arma3.com&lt;/a&gt;%4</Chinesesimp>
+        <Chinesesimp>%3&lt;ahref='http：//units.arma3.com'&gt;units.arma3.com&lt;/a&gt;%4</Chinesesimp>
       </Key>
     </Container>
     <Container name="Spectator">
@@ -152,7 +152,7 @@
       <Key ID="STR_A3_Debriefing_Draw">
         <Original>The match ended in a draw! Neither of the teams were able to upload the schematics.</Original>
         <Chinese>該局平手!兩隊都不能成功上傳武器藍圖。</Chinese>
-        <Chinesesimp>该局平手!两队都不能成功上传武器蓝图。</Chinesesimp>
+        <Chinesesimp>该局平手！两队都不能成功上传武器蓝图。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Spectator_free_camera_tooltip">
         <Original>Free Camera</Original>
@@ -192,7 +192,7 @@
       <Key ID="STR_A3_Spectator_Briefing_VirtualSpectator">
         <Original>VIRTUAL SPECTATOR - Welcome to the Virtual Spectator. Keep an eye out for possible interesting events.</Original>
         <Chinese>虛擬觀察者-歡迎來到虛擬觀察者模式。請時時關注場上發生任何的有趣事件。</Chinese>
-        <Chinesesimp>虚拟观察者-欢迎来到虚拟观察者模式。请时时关注场上发生任何的有趣事件。</Chinesesimp>
+        <Chinesesimp>虚拟观察者 — 欢迎来到虚拟观察者模式。请时时关注场上发生任何的有趣事件。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Sectator_HeadToHead_Defending">
         <Original>DEFENDING</Original>
@@ -222,7 +222,7 @@
       <Key ID="STR_A3_Spectator_Briefing_FreeCamera">
         <Original>FREE CAMERA - The free camera can be used to move freely through the world.</Original>
         <Chinese>自由攝影機-可自由的在地圖中到處移動。</Chinese>
-        <Chinesesimp>自由摄影机-可自由的在地图中到处移动。</Chinesesimp>
+        <Chinesesimp>自由摄影机 — 可自由的在地图中到处移动。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Sectator_HeadToHead_Retrieve">
         <Original>RETRIEVE</Original>
@@ -237,7 +237,7 @@
       <Key ID="STR_A3_Spectator_Briefing_3ppCamera">
         <Original>3PP CAMERA - The third person camera allows you to follow and rotate around a target unit or vehicle. This camera can only be selected if you have a focused unit.</Original>
         <Chinese>第三人稱攝影機-此攝影機能讓你持續跟蹤在同一單位，載具上並能旋轉畫面觀察四周。此功能只能在你已選定一個單位時啟用。</Chinese>
-        <Chinesesimp>第三人称摄影机-此摄影机能让你持续跟踪在同一单位，载具上并能旋转画面观察四周。此功能只能在你已选定一个单位时启用。</Chinesesimp>
+        <Chinesesimp>第三人称摄影机 — 此摄影机能让你持续跟踪在同一单位，载具上并能旋转画面观察四周。此功能只能在你已选定一个单位时启用。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Subtitle_Opfor">
         <Original>OPFOR WON</Original>
@@ -252,7 +252,7 @@
       <Key ID="STR_A3_Spectator_Briefing_Map">
         <Original>MAP - Press M to open or close the Spectator map. From it, you can move to a location or unit by clicking on it.</Original>
         <Chinese>地圖-按下M來開啟或關閉觀察者地圖。你可以透過點擊地圖來快速移動到任何地方。</Chinese>
-        <Chinesesimp>地图-按下M来开启或关闭观察者地图。你可以通过点击地图来快速移动到任何地方。</Chinesesimp>
+        <Chinesesimp>地图 — 按下M来开启或关闭观察者地图。你可以通过点击地图来快速移动到任何地方。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Sectator_HeadToHead_Upload">
         <Original>UPLOAD</Original>
@@ -262,7 +262,7 @@
       <Key ID="STR_A3_Spectator_Briefing_1ppCamera">
         <Original>1PP CAMERA - The first person camera allows you to see the world through the eyes of a Player or AI unit. This camera can only be selected if you have a focused unit.</Original>
         <Chinese>第一人稱攝影機-此攝影機能讓你透過玩家或AI單位的眼睛看出去。此功能只能在你已選定一個單位時啟用。</Chinese>
-        <Chinesesimp>第一人称摄影机-此摄影机能让你通过玩家或 AI 单位的眼睛看出去。此功能只能在你已选定一个单位时启用。</Chinesesimp>
+        <Chinesesimp>第一人称摄影机 — 此摄影机能让你通过玩家或 AI 单位的眼睛看出去。此功能只能在你已选定一个单位时启用。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Sectator_HeadToHead_Uploading">
         <Original>UPLOADING</Original>
@@ -442,17 +442,17 @@
           <Key ID="STR_A3_CFGVEHICLES_LAND_DATATERMINAL_OPEN_01_F0">
             <Original>Open Terminal</Original>
             <Chinese>打開終端機</Chinese>
-            <Chinesesimp>打开终端机</Chinesesimp>
+            <Chinesesimp>打开终端</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_dataterminal_01_f0">
             <Original>Data Terminal</Original>
             <Chinese>數據終端機</Chinese>
-            <Chinesesimp>数据终端机</Chinesesimp>
+            <Chinesesimp>数据终端</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CFGVEHICLES_LAND_DATATERMINAL_CLOSE_01_F0">
             <Original>Close Terminal</Original>
             <Chinese>關閉終端機</Chinese>
-            <Chinesesimp>关闭终端机</Chinesesimp>
+            <Chinesesimp>关闭终端</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -516,7 +516,7 @@
       <Key ID="str_a3_rscdisplaywelcome_port_parb_footer2">
         <Original>Thank you for supporting the port beta. Please let us know about any issues on the &lt;a href='%2' color='%1'&gt;Feedback Tracker&lt;/a&gt;. Enjoy the game!</Original>
         <Chinese>感謝你支持此實驗版。請回報任何問題到&lt;ahref='%2'color='%1'&gt;回報中心&lt;/a&gt;給我們。好好享受本遊戲吧!</Chinese>
-        <Chinesesimp>感谢你支持此实验版。请回报任何问题到&lt;ahref='%2'color='%1'&gt;回报中心&lt;/a&gt;给我们。好好享受本游戏吧!</Chinesesimp>
+        <Chinesesimp>感谢你支持此实验版。请回报任何问题到&lt;ahref='%2'color='%1'&gt;回报中心&lt;/a&gt;给我们。好好享受本游戏吧！</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_port_parb_footer">
         <Original>More about the ports</Original>
@@ -526,12 +526,12 @@
       <Key ID="str_a3_rscdisplaywelcome_port_parb">
         <Original>It is, however, important for us to be open and honest about the limitations of this beta and the port in general:</Original>
         <Chinese>然而我們必須誠實的跟大家講，在此實驗版本中有那些限制:</Chinese>
-        <Chinesesimp>然而我们必须诚实的跟大家讲，在此实验版本中有哪些限制:</Chinesesimp>
+        <Chinesesimp>然而我们必须诚实的跟大家讲，在此实验版本中有哪些限制：</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_port_para">
         <Original>We're happy to welcome you to the Linux and Mac platforms! Our friends at &lt;a href='%2' color='%1'&gt;Virtual Programming&lt;/a&gt; have worked with us to create this experimental client port beta as a courtesy to anyone who owns the game for Windows.</Original>
         <Chinese>歡迎你使用Linux和Mac來遊玩本遊戲!我們的朋友幫助我們進行&lt;ahref='%2'color='%1'&gt;虛擬編成&lt;/a&gt;，最終推出了這個實驗性的版本給任何已經擁有本作的玩家們。</Chinese>
-        <Chinesesimp>欢迎你使用 Linux 和 Mac 来游玩本游戏!我们的朋友帮助我们进行&lt;ahref='%2'color='%1'&gt;虚拟编程&lt;/a&gt;，最终推出了这个实验性的版本给任何已经拥有本作的玩家们。</Chinesesimp>
+        <Chinesesimp>欢迎你使用 Linux 和 Mac 来游玩本游戏！我们的朋友帮助我们进行&lt;ahref='%2'color='%1'&gt;虚拟编程&lt;/a&gt;，最终推出了这个实验性的版本给任何已经拥有本作的玩家们。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expa_pard_title">
         <Original>UNITS</Original>
@@ -561,7 +561,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expa_pard_footer2">
         <Original>Arma 3 has been out for over two years and we're humbled to see it's still played by many. We remain committed to improving the game and its platform together with our inspiring community!</Original>
         <Chinese>武裝突襲3推出至今已過了兩年多，而我們很開心還看到許多玩家還在其中遊玩。我們將繼續致力於遊戲平臺的優化與內容的擴展上!</Chinese>
-        <Chinesesimp>武装突袭3推出至今已过了两年多，而我们很开心还看到许多玩家还在其中游玩。我们将继续致力于游戏平台的优化与内容的扩展上!</Chinesesimp>
+        <Chinesesimp>武装突袭3推出至今已过了两年多，而我们很开心还看到许多玩家还在其中游玩。我们将继续致力于游戏平台的优化与内容的扩展上！</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expa_pard_footer">
         <Original>More about Arma 3 Units</Original>
@@ -571,7 +571,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expa_pard">
         <Original>We're launching the first foundation version of an official web service to support finding, creating and managing community groups and eventually events:</Original>
         <Chinese>我們推出了一個基本的戰隊交流網站，使玩家能更快的與同屬性戰隊產生連結:</Chinese>
-        <Chinesesimp>我们推出了一个基本的战队交流网站，使玩家能更快的与同属性战队产生连结:</Chinesesimp>
+        <Chinesesimp>我们推出了一个基本的战队交流网站，使玩家能更快的与同属性战队产生连结：</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expa_parc_title">
         <Original>REFINED FEATURES</Original>
@@ -641,7 +641,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expa_parc">
         <Original>Before rolling out new features for Apex, an in-depth evaluation of the game and its players revealed several aspects we wanted to improve and iterate on:</Original>
         <Chinese>在我們推出頂尖資料片前，我們將先加入以下特色:</Chinese>
-        <Chinesesimp>在我们推出 Apex DLC 前，我们将先加入以下特色:</Chinesesimp>
+        <Chinesesimp>在我们推出 Apex DLC 前，我们将先加入以下特色：</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expa_parb_title">
         <Original>NEXUS UPDATE_</Original>
@@ -666,7 +666,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expa_parb_list4">
         <Original>The dynamic screens on the End Game Upload Terminal and Military Tablet can be used for your own scenarios.</Original>
         <Chinese>在終戰中使用的終端機與軍用平板電腦，都能用在自己設計的任務中。</Chinese>
-        <Chinesesimp>在终战中使用的终端机与军用平板电脑，都能用在自己设计的任务中。</Chinesesimp>
+        <Chinesesimp>在终战中使用的终端与军用平板电脑，都能用在自己设计的任务中。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expa_parb_list3_title">
         <Original>Spectator</Original>
@@ -706,7 +706,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expa_parb">
         <Original>We've continued the development of our &lt;a href='%2' color='%1'&gt;End Game&lt;/a&gt; multiplayer mode, in which two teams compete to find and secure schematics against a common foe. Apart from tweaks to the mode's logic and systems, there are several additions:</Original>
         <Chinese>我們推出了&lt;ahref='%2'color='%1'&gt;終戰&lt;/a&gt;這個新的遊戲模式，由兩隊人馬共同對抗敵人，並奪得重要的武器藍圖。包括一些模組邏輯上的調整，增加了以下特色:</Chinese>
-        <Chinesesimp>我们推出了&lt;ahref='%2'color='%1'&gt;终战&lt;/a&gt;这个新的游戏模式，由两队人马共同对抗敌人，并夺得重要的武器蓝图。包括一些模组逻辑上的调整，增加了以下特色:</Chinesesimp>
+        <Chinesesimp>我们推出了&lt;ahref='%2'color='%1'&gt;终战&lt;/a&gt;这个新的游戏模式，由两队人马共同对抗敌人，并夺得重要的武器蓝图。包括一些模组逻辑上的调整，增加了以下特色：</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expa_para">
         <Original>It's great to be able to welcome you to this major platform update and stepping-stone to the Arma 3 Apex expansion. After a series of regular updates, we've focused with Nexus on enhancing core gameplay features, systems and content. We'll take you on a tour of new multiplayer additions, feature iterations and the launch of a web service to connect players and communities.</Original>

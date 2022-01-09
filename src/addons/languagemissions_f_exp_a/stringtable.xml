@@ -131,17 +131,17 @@
           <Key ID="STR_A3_VR_Stamina_01_FinishHeavy">
             <Original>Heavy loadout: %1 seconds</Original>
             <Chinese>重裝備:%1秒</Chinese>
-            <Chinesesimp>重装备:%1秒</Chinesesimp>
+            <Chinesesimp>重装备：%1秒</Chinesesimp>
           </Key>
           <Key ID="STR_A3_VR_Stamina_01_FinishLight">
             <Original>Light loadout: %1 seconds</Original>
             <Chinese>輕裝備:%1秒</Chinese>
-            <Chinesesimp>轻装备:%1秒</Chinesesimp>
+            <Chinesesimp>轻装备：%1秒</Chinesesimp>
           </Key>
           <Key ID="STR_A3_VR_Stamina_01_LoadoutHeavy">
             <Original>Loadout: Heavy</Original>
             <Chinese>裝備:重</Chinese>
-            <Chinesesimp>装备:重</Chinesesimp>
+            <Chinesesimp>装备：重</Chinesesimp>
           </Key>
           <Key ID="STR_A3_VR_Stamina_01_Task_01_desc">
             <Original>Take all the equipment from the ammo crates.</Original>
@@ -186,7 +186,7 @@
           <Key ID="STR_A3_VR_Stamina_03_Task_02_desc">
             <Original>Return to the UGV, do not drop any of your equipment.</Original>
             <Chinese>返回地面無人載具，不要在途中漏掉任何一件裝備。</Chinese>
-            <Chinesesimp>返回地面无人载具，不要在途中漏掉任何一件装备。</Chinesesimp>
+            <Chinesesimp>返回地面无人机，不要在途中漏掉任何一件装备。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_VR_Stamina_04_Task_01_desc">
             <Original>Take the backpack and all the satchel charges from the ammo crates.</Original>
@@ -221,7 +221,7 @@
           <Key ID="STR_A3_VR_Stamina_03_Task_02_title">
             <Original>Get in the UGV</Original>
             <Chinese>登上地面無人載具</Chinese>
-            <Chinesesimp>登上地面无人载具</Chinesesimp>
+            <Chinesesimp>登上地面无人机</Chinesesimp>
           </Key>
           <Key ID="STR_A3_VR_Stamina_02_Task_01_title">
             <Original>Disable the Charge</Original>
@@ -236,17 +236,17 @@
           <Key ID="STR_A3_VR_Stamina_01_LoadoutLight">
             <Original>Loadout: Light</Original>
             <Chinese>裝備:輕</Chinese>
-            <Chinesesimp>装备:轻</Chinesesimp>
+            <Chinesesimp>装备：轻</Chinesesimp>
           </Key>
           <Key ID="STR_A3_VR_Stamina_01_TimeLimit">
             <Original>Time limit: %1 seconds</Original>
             <Chinese>時間限制:%1秒</Chinese>
-            <Chinesesimp>时间限制:%1秒</Chinesesimp>
+            <Chinesesimp>时间限制：%1秒</Chinesesimp>
           </Key>
           <Key ID="STR_A3_VR_Stamina_01_TrackLength">
             <Original>Track length: %1 meters</Original>
             <Chinese>路線全長:%1公尺</Chinese>
-            <Chinesesimp>路线全长:%1米</Chinesesimp>
+            <Chinesesimp>路线全长：%1米</Chinesesimp>
           </Key>
           <Key ID="STR_A3_VR_Stamina_02_SimulatingInjury">
             <Original>Simulating severe injury, jog and sprint are disabled.</Original>
@@ -261,7 +261,7 @@
           <Key ID="STR_A3_VR_Stamina_04_Situation_01">
             <Original>SITUATION:</Original>
             <Chinese>狀況:</Chinese>
-            <Chinesesimp>状况:</Chinesesimp>
+            <Chinesesimp>状况：</Chinesesimp>
           </Key>
           <Key ID="STR_A3_VR_Stamina_04_Situation_02">
             <Original>You have a chance to destroy enemy armor, but you have to get in the area before the gate is closed.</Original>

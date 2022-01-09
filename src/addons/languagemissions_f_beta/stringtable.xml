@@ -229,7 +229,7 @@
           <Key ID="str_a3_showcase_supports_diary_situation_text">
             <Original>We've drawn out most of the enemy forces from the %3airbase%2 and now have a unique opportunity to neutralize the remaining garrison. However, we're still thin on the ground - unable to effectively clear and secure the area against expected OPFOR counter-attacks.%1%1We have two ground teams in position and ready to storm the base: teams %4Bravo%2 (8-man infantry squad) and %5Echo%2 (armed Hunter + 2-man missile team). You also have a Blackfoot (callsign Whisky-6) and a mortar team with 32 HE rounds at your disposal, both stationed at %6Camp Maxwell%2. It's all we can spare; use them wisely.%1%1Be advised, the base is protected by man-portable AA defences; they'll tear our lightly-armoured gunship to pieces. This is an ideal target for your mortar team. Carefully coordinate your attack to result in minimal friendly casualties. We're still perilously out-manned on Stratis.</Original>
             <Chinese>我們已經引出了大部分敵軍在%3空軍基地%2的部隊，並且獲得了一個難得的機會好來殲滅剩下的守軍。然而，我們地面部隊的力量仍然過於薄弱-無法有效的清除該區並應付敵方的反擊。%1%1我們有兩支地面部隊已經在定位就緒並準備強攻基地:%4Bravo%2小隊(8名人員組成的步兵班)和%5Echo%2(武裝"獵人"+2名人員組成的飛彈小隊)。你同時擁有"黑足"武裝直升機(呼號為"Whisky-6")和一支迫擊砲小隊(有32發高爆彈藥)供你使用，這兩支部隊都駐紮在%6麥克斯韋營地%2。這些就是我們能調度的全部支援;請明智的使用他們。%1%1請注意，該基地有防空巡邏兵(使用單兵便攜式防空武器)駐守;他們可以輕易撕裂我們武裝直升機脆弱的機殼。他們是你迫擊砲小隊的理想目標。請小心協調攻擊行動，盡量減少友軍傷亡。我們在斯特拉蒂斯島上的人數仍很稀少。</Chinese>
-            <Chinesesimp>我们已经引出了大部分在%3空军基地%2的敌军部队，现在我们获得了一个难得的机会来歼灭剩下的守军。然而，我们地面部队的力量仍然过于薄弱-无法有效的清除该区并应付敌方的反击。%1%1我们有两支地面部队已经在定位就绪并准备强攻基地:%4Bravo%2组(8名人员组成的步兵班)和%5Echo%2组(武装"猎人"+2名人员组成的导弹小队)。你同时拥有"黑足"武装直升机(呼号为 Whiskey-6")和一个迫击炮射组(有32发高爆弹药)供你使用，这两支部队都驻扎在%6麦克斯韦营地%2。这些就是我们能调度的全部支援;请明智地使用他们。%1%1请注意，该基地有防空巡逻队（使用单兵便携式防空武器）驻守;他们可以轻易撕裂我们武装直升机脆弱的机身。他们是你迫击炮小队的理想目标。请小心协调攻击行动，尽量减少友军伤亡。我们在斯特拉蒂斯岛上的人手非常不足。</Chinesesimp>
+            <Chinesesimp>我们已经引出了大部分在%3空军基地%2的敌军部队，现在我们获得了一个难得的机会来歼灭剩下的守军。然而，我们地面部队的力量仍然过于薄弱 — 无法有效的清除该区并应付敌方的反击。%1%1我们有两支地面部队已经在定位就绪并准备强攻基地：%4Bravo%2组(8名人员组成的步兵班)和%5Echo%2组(武装"猎人"+2名人员组成的导弹小队)。你同时拥有"黑足"武装直升机(呼号为 Whiskey-6")和一个迫击炮射组(有32发高爆弹药)供你使用，这两支部队都驻扎在%6麦克斯韦营地%2。这些就是我们能调度的全部支援;请明智地使用他们。%1%1请注意，该基地有防空巡逻队（使用单兵便携式防空武器）驻守;他们可以轻易撕裂我们武装直升机脆弱的机身。他们是你迫击炮小队的理想目标。请小心协调攻击行动，尽量减少友军伤亡。我们在斯特拉蒂斯岛上的人手非常不足。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_supports_diary_signal_text">
             <Original>%2Hawkeye%1 - Forward observer, you%7%3Bravo%1 - Infantry squad%7%4Echo%1 - Motorized infantry team%7%5Whisky-6%1 - Blackfoot gunship%7%6Papa Bear%1 - HQ</Original>
@@ -249,7 +249,7 @@
           <Key ID="str_a3_showcase_supports_diary_execution_text">
             <Original>%6 Get into position on overwatch and evaluate the situation on the %3airbase%2%1%7 If you decide to send in the gunship, first neutralize the %4AA patrol%2. This is an ideal target for your mortar team%1%8 Coordinate the attack: call in our squads via the Supports menu; defeat hostile forces garrisoned at the airbase%1%9 Fall back and regroup at %5Camp Maxwell%2</Original>
             <Chinese>%6到達觀測站並對%3空軍基地%2實施觀察%1%7假如你想呼叫武裝直升機，那就必須先剷除%4防空巡邏兵%2。這對我們的迫擊砲小隊來說是一個理想的目標%1%8協調進攻行動:通過支援選單進行呼叫;殲滅敵方在空軍基地的守軍%1%9撤退回%5麥克斯韋營地%2</Chinese>
-            <Chinesesimp>%6到达观测站并对%3空军基地%2实施观察%1%7假如你想呼叫武装直升机，那就必须先铲除%4防空巡逻兵%2。这对我们的迫击炮小队来说是一个理想的目标%1%8协调进攻行动:通过支援菜单进行呼叫;歼灭敌方在空军基地的守军%1%9撤回%5麦克斯韦营地%2</Chinesesimp>
+            <Chinesesimp>%6到达观测站并对%3空军基地%2实施观察%1%7假如你想呼叫武装直升机，那就必须先铲除%4防空巡逻兵%2。这对我们的迫击炮小队来说是一个理想的目标%1%8协调进攻行动：通过支援菜单进行呼叫;歼灭敌方在空军基地的守军%1%9撤回%5麦克斯韦营地%2</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_supports_briefingname">
             <Original>Supports</Original>
@@ -260,7 +260,7 @@
             <Key ID="str_a3_showcase_supports_x05_aa_elimiated_sniper_bhq_0">
               <Original>Say again, Hawkeye, task executed with no mortar support? Over.</Original>
               <Chinese>請重發，"鷹眼"，確定不需要迫擊砲支援?完畢。</Chinese>
-              <Chinesesimp>请重复，"鹰眼"，确定不需要迫击炮支援?完毕。</Chinesesimp>
+              <Chinesesimp>请重复，"鹰眼"，确定不需要迫击炮支援？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_supports_x05_aa_elimiated_sniper_bhq_1">
               <Original>Copy that. We appreciate your confidence Sergeant, but be sure to support the assault properly. Mortars are still on standby. Over.</Original>
@@ -287,12 +287,12 @@
             <Key ID="str_a3_showcase_supports_x01_casaulties_bhq_0">
               <Original>Hawkeye, what's the situation? We've lost contact with most of the teams, over.</Original>
               <Chinese>"鷹眼"，現在狀況如何?我們已經與絕大部分小隊失去聯繫，完畢。</Chinese>
-              <Chinesesimp>"鹰眼"，现在状况如何?我们已经与绝大部分小队失去联系，完毕。</Chinesesimp>
+              <Chinesesimp>"鹰眼"，现在状况如何？我们已经与绝大部分小队失去联系，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_supports_x01_casaulties_bhq_1">
               <Original>Goddamnit, Sergeant, you had the upper hand here - this was not supposed to happen! Everyone, fall back to Gamma and await evac. Papa Bear out.</Original>
               <Chinese>天殺的，中士，你應該是要佔上風的-這種情況是不該發生的!所有人，撤退回"伽馬"點並等待撤離。Papa Bear通話完畢。</Chinese>
-              <Chinesesimp>天杀的，中士，你在那里看得一清二楚-不该发生这种情况!所有人，撤退回"伽马"位置并等待撤离。Papa Bear 通话完毕。</Chinesesimp>
+              <Chinesesimp>天杀的，中士，你在那里看得一清二楚 — 不该发生这种情况！所有人，撤退回"伽马"位置并等待撤离。Papa Bear 通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_supports_x01_casaulties_haw_0">
               <Original>It's bad... we're getting our asses handed to us, sir. Please advise, over.</Original>
@@ -309,14 +309,14 @@
             <Key ID="str_a3_showcase_supports_15_base_clear_haw_0">
               <Original>Hawkeye to Papa Bear, mission complete. Enemy forces on the airbase neutralized. Do you read? Over.</Original>
               <Chinese>"鷹眼"致Papa Bear，任務成功。敵人守軍已殲滅。是否收到?完畢。</Chinese>
-              <Chinesesimp>"鹰眼"呼叫 Papa Bear，任务完成。空军基地的敌守军已被歼灭。是否收到?完毕。</Chinesesimp>
+              <Chinesesimp>"鹰眼"呼叫 Papa Bear，任务完成。空军基地的敌守军已被歼灭。是否收到？完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_Echo_green_light" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="10_Echo_green_light" dubbingLanguage="english" namePrefix="showcase_supports_10_echo_green_light" note="" participants="PB B Hawkeye;PB B Echo Lead;" situation="player calls in team echo">
             <Key ID="str_a3_showcase_supports_10_echo_green_light_ech_0">
               <Original>Wilco, Hawkeye. Echo is rolling. ETA: 2 mikes. Out.</Original>
               <Chinese>照辦，"鷹眼"。Echo開始向前突擊。預計抵達時間:2分鐘。通話完畢。</Chinese>
-              <Chinesesimp>收到，"鹰眼"。Echo 开始突击。预计抵达时间:2分钟。通话完毕。</Chinesesimp>
+              <Chinesesimp>收到，"鹰眼"。Echo 开始突击。预计抵达时间：2分钟。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_supports_10_echo_green_light_haw_0">
               <Original>Echo, this is Hawkeye. Commence your assault, over.</Original>
@@ -356,7 +356,7 @@
           <Key ID="str_a3_showcase_supports_titlecard">
             <Original>SHOWCASE: SUPPORTS - Powerful Fire Support, Long-Range Engagement, Improved Scopes</Original>
             <Chinese>任務展示:支援-強大的火力支援，長距離交戰，改進的望遠鏡</Chinese>
-            <Chinesesimp>任务展示:支援-强大的火力支援，长距离交战，改进的望远镜</Chinesesimp>
+            <Chinesesimp>任务展示：支援 — 强大的火力支援，长距离交战，改进的望远镜</Chinesesimp>
           </Key>
           <Container name="01_Sitrep" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="01_Sitrep" dubbingLanguage="english" namePrefix="showcase_supports_01_sitrep" note="" participants="PB B HQ;PB B Hawkeye;PB B Bravo Lead;PB B Echo Lead;" situation="mission start, sitrep from ground teams">
             <Key ID="str_a3_showcase_supports_01_sitrep_bhq_0">
@@ -387,7 +387,7 @@
             <Key ID="str_a3_showcase_supports_01_sitrep_haw_0">
               <Original>This is Hawkeye - in position above the airbase - eyes on target.</Original>
               <Chinese>這裡是"鷹眼"-已經在基地上方的位置了-看到目標。</Chinese>
-              <Chinesesimp>这里是"鹰眼"-已经在基地上方的位置了-看到目标。</Chinesesimp>
+              <Chinesesimp>这里是"鹰眼"-已经在基地上方的位置了 — 看到目标。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_supports_01_sitrep_bra_0">
               <Original>Bravo here, awaiting signal.</Original>
@@ -495,7 +495,7 @@
           <Key ID="str_a3_modulemptypedefense_evac_desc">
             <Original>The evacuation helicopter is waiting on the ground, defenseless and exposed - get in ASAP!</Original>
             <Chinese>撤離直升機已經抵達，他現在沒有任何防禦-趕快進入!</Chinese>
-            <Chinesesimp>撤离直升机已经抵达，它现在没有任何防御-赶快进入!</Chinesesimp>
+            <Chinesesimp>撤离直升机已经抵达，它现在没有任何防御 — 赶快进入！</Chinesesimp>
           </Key>
           <Key ID="str_a3_modulemptypedefense_curator_title">
             <Original>Defenders Lose</Original>
@@ -569,8 +569,8 @@
           </Key>
           <Key ID="str_a3_cfgvehicles_modulemptypedefense_f_arguments_waveendcoef_1">
             <Original>A wave ends when only given portion of the whole wave size remains (e.g., 0.3 means wave ends when 30% of enemy wave remains)</Original>
-            <Chinese>每波只會在所有敵人都被消滅後才會結束(例子，0。3意味著還有30%的敵人還沒被消滅)</Chinese>
-            <Chinesesimp>每波只会在所有敌人都被消灭后才会结束（例子，0。3意味着还有30%的敌人还没被消灭）</Chinesesimp>
+            <Chinese>每波只會在所有敵人都被消滅後才會結束(例子，0.3意味著還有30%的敵人還沒被消滅)</Chinese>
+            <Chinesesimp>每波只会在所有敌人都被消灭后才会结束（例子，0.3意味着还有30%的敌人还没被消灭）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_modulemptypedefense_f_arguments_waveendcoef_0">
             <Original>Enemy casualty ratio</Original>
@@ -620,7 +620,7 @@
           <Key ID="str_a3_modulemptypedefense_callheli_desc">
             <Original>Evacuation helicopter arrived to AO, waiting for your signal. Once called, it will need 5 minutes to reach your location. This is your only chance, make sure the landing area is safe!</Original>
             <Chinese>撤離直升機已經抵達任務區域，正在等待你們的信號。一旦呼叫，他將在5分鐘之內抵達你們的位置。這是你們唯一的撤離機會，請確保降落區域是安全的!</Chinese>
-            <Chinesesimp>撤离直升机已经抵达任务区域，正在等待你们的信号。一旦呼叫，它将在5分钟之内抵达你们的位置。这是你们唯一的撤离机会，请确保降落区域是安全的!</Chinesesimp>
+            <Chinesesimp>撤离直升机已经抵达任务区域，正在等待你们的信号。一旦呼叫，它将在5分钟之内抵达你们的位置。这是你们唯一的撤离机会，请确保降落区域是安全的！</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_modulemptypedefense_f_arguments_ratioair_0">
             <Original>Aircrafts priority</Original>
@@ -651,12 +651,12 @@
             <Key ID="str_a3_mptype_defense_01_blufor_bhq_0">
               <Original>All units, be advised, enemy forces inbound. Attempting to route evac to your grid. Hold your position! Good luck, out.</Original>
               <Chinese>所有單位，請注意，敵軍部隊正在接近你們的座標中。守住你們的位置!祝好運，通話完畢。</Chinese>
-              <Chinesesimp>所有单位，请注意，敌军部队正在接近你们的座标中。守住你们的位置!祝好运，通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位，请注意，敌军部队正在接近你们的座标中。守住你们的位置！祝好运，通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mptype_defense_01_blufor_bhq_1">
               <Original>Enemy forces neutralized. Regroup and rearm - another attack is imminent.</Original>
               <Chinese>敵軍部隊已殲滅。重新集結並重新武裝-另一波攻擊快來了。</Chinese>
-              <Chinesesimp>敌军部队已歼灭。重新集结并重新武装-另一波攻击快来了。</Chinesesimp>
+              <Chinesesimp>敌军部队已歼灭。重新集结并重新武装 — 另一波攻击快来了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mptype_defense_01_blufor_bhq_10">
               <Original>All units, enemy forces neutralized, but you're on your own, gentlemen - cannot route any further evac. Out.</Original>
@@ -666,17 +666,17 @@
             <Key ID="str_a3_mptype_defense_01_blufor_bhq_11">
               <Original>Enemy forces breaching your perimeter. Push them back! Hold your ground!</Original>
               <Chinese>敵軍部隊正在進犯你們的邊界。把他們打回去!守住你們的位置!</Chinese>
-              <Chinesesimp>敌军部队正在进犯你们的边界。把他们打回去!守住你们的位置!</Chinesesimp>
+              <Chinesesimp>敌军部队正在进犯你们的边界。把他们打回去！守住你们的位置！</Chinesesimp>
             </Key>
             <Key ID="str_a3_mptype_defense_01_blufor_bhq_2">
               <Original>Dig in! Evac helicopter en route!</Original>
               <Chinese>撐住!撤離直升機在路上了!</Chinese>
-              <Chinesesimp>撑住!撤离直升机在路上了!</Chinesesimp>
+              <Chinesesimp>撑住！撤离直升机在路上了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_mptype_defense_01_blufor_bhq_3">
               <Original>Outstanding, gentlemen! Be advised, evac helicopter holding 5 mikes from your position; awaiting your signal. Make sure the landing zone is secure.</Original>
               <Chinese>幹的好，先生們!請注意，撤離直升機在距離你們5分鐘路程之內的地方;等待你們的信號。請確保降落區是安全的。</Chinese>
-              <Chinesesimp>干的好，先生们!请注意，撤离直升机在距离你们5分钟路程之内的地方;等待你们的信号。请确保降落区是安全的。</Chinesesimp>
+              <Chinesesimp>干的好，先生们！请注意，撤离直升机在距离你们5分钟路程之内的地方;等待你们的信号。请确保降落区是安全的。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mptype_defense_01_blufor_bhq_4">
               <Original>Helo inbound to your location. ETA 5 mikes. Prep for evac.</Original>
@@ -696,17 +696,17 @@
             <Key ID="str_a3_mptype_defense_01_blufor_bhq_7">
               <Original>Helicopter inbound! 60 seconds!</Original>
               <Chinese>直升機接近中!60秒!</Chinese>
-              <Chinesesimp>直升机接近中!60秒!</Chinesesimp>
+              <Chinesesimp>直升机接近中！60秒！</Chinesesimp>
             </Key>
             <Key ID="str_a3_mptype_defense_01_blufor_bhq_8">
               <Original>All units, helo down! We're unable to provide further evac! Enemy forces regrouping for final assault; hold your ground.</Original>
               <Chinese>所有單位，直升機已被擊落!我們已經無法提供任何支援了!敵軍部隊正在集結中，為最後一波攻擊做準備;守住你們的位置。</Chinese>
-              <Chinesesimp>所有单位，直升机已被击落!我们已经无法提供任何支援了!敌军部队正在集结中，为最后一波攻击做准备;守住你们的位置。</Chinesesimp>
+              <Chinesesimp>所有单位，直升机已被击落！我们已经无法提供任何支援了！敌军部队正在集结中，为最后一波攻击做准备;守住你们的位置。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mptype_defense_01_blufor_bhq_9">
               <Original>Outstanding effort out there, gentlemen! RTB!</Original>
               <Chinese>先生們，你們幹的太棒了!撤回基地!</Chinese>
-              <Chinesesimp>先生们，你们干的太棒了!撤回基地!</Chinesesimp>
+              <Chinesesimp>先生们，你们干的太棒了！撤回基地！</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -739,7 +739,7 @@
           <Key ID="str_a3_firing_drills_sp_fd04_name">
             <Original>CoF: Green</Original>
             <Chinese>靶場:綠色</Chinese>
-            <Chinesesimp>靶场:绿色</Chinesesimp>
+            <Chinesesimp>靶场：绿色</Chinesesimp>
           </Key>
           <Key ID="str_a3_firing_drills_sp_fd03_overview">
             <Original>A more traditional shooting range where the targets are further away and may require correct zeroing.</Original>
@@ -754,12 +754,12 @@
           <Key ID="str_a3_firing_drills_sp_fd03_name_demo">
             <Original>CoF: Orange</Original>
             <Chinese>靶場:橙色</Chinese>
-            <Chinesesimp>靶场:橙色</Chinesesimp>
+            <Chinesesimp>靶场：橙色</Chinesesimp>
           </Key>
           <Key ID="str_a3_firing_drills_sp_fd03_name">
             <Original>CoF: Orange 1</Original>
             <Chinese>靶場:橙色1</Chinese>
-            <Chinesesimp>靶场:橙色1</Chinesesimp>
+            <Chinesesimp>靶场：橙色1</Chinesesimp>
           </Key>
           <Key ID="str_a3_firing_drills_sp_fd02_overview">
             <Original>A compressed course focusing on leaning and engaging from cover.</Original>
@@ -774,12 +774,12 @@
           <Key ID="str_a3_firing_drills_sp_fd02_name_demo">
             <Original>CoF: Blue</Original>
             <Chinese>靶場:藍色</Chinese>
-            <Chinesesimp>靶场:蓝色</Chinesesimp>
+            <Chinesesimp>靶场：蓝色</Chinesesimp>
           </Key>
           <Key ID="str_a3_firing_drills_sp_fd02_name">
             <Original>CoF: Blue 1</Original>
             <Chinese>靶場:藍色1</Chinese>
-            <Chinesesimp>靶场:蓝色1</Chinesesimp>
+            <Chinesesimp>靶场：蓝色1</Chinesesimp>
           </Key>
           <Key ID="str_a3_firing_drills_sp_fd01_overview">
             <Original>A stretched course which involves some running and sprinting - a mock-up house in the middle trains room clearing.</Original>
@@ -794,12 +794,12 @@
           <Key ID="str_a3_firing_drills_sp_fd01_name_demo">
             <Original>CoF: Red</Original>
             <Chinese>靶場:紅色</Chinese>
-            <Chinesesimp>靶场:红色</Chinesesimp>
+            <Chinesesimp>靶场：红色</Chinesesimp>
           </Key>
           <Key ID="str_a3_firing_drills_sp_fd01_name">
             <Original>CoF: Red 1</Original>
             <Chinese>靶場:紅色1</Chinese>
-            <Chinesesimp>靶场:红色1</Chinesesimp>
+            <Chinesesimp>靶场：红色1</Chinesesimp>
           </Key>
           <Key ID="str_a3_firing_drills_range_officer">
             <Original>Range Officer</Original>
@@ -809,7 +809,7 @@
           <Key ID="str_a3_firing_drills_overview">
             <Original>Prove your skills: tactical movement and target scanning / acquisition / engagement</Original>
             <Chinese>展現你的技巧:戰術移動與目標搜尋/尋獲/交戰</Chinese>
-            <Chinesesimp>展现你的技巧:战术移动与目标搜寻/寻获/交战</Chinesesimp>
+            <Chinesesimp>展现你的技巧：战术移动与目标搜寻/寻获/交战</Chinesesimp>
           </Key>
           <Key ID="str_a3_firing_drills_name">
             <Original>Firing Drills</Original>
@@ -875,7 +875,7 @@
             <Key ID="str_a3_firing_drills_timing_rof_0">
               <Original>Shooter ready?</Original>
               <Chinese>射手準備好了嗎?</Chinese>
-              <Chinesesimp>射手准备好了吗?</Chinesesimp>
+              <Chinesesimp>射手准备好了吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_timing_rof_1">
               <Original>Stand by</Original>
@@ -900,12 +900,12 @@
             <Key ID="str_a3_firing_drills_timing_rof_3">
               <Original>Stay put!</Original>
               <Chinese>留在原地!</Chinese>
-              <Chinesesimp>留在原地!</Chinesesimp>
+              <Chinesesimp>留在原地！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_timing_rof_4">
               <Original>Go!</Original>
               <Chinese>出發!</Chinese>
-              <Chinesesimp>出发!</Chinesesimp>
+              <Chinesesimp>出发！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_timing_rof_5">
               <Original>One minute</Original>
@@ -1017,7 +1017,7 @@
             <Key ID="str_a3_firing_drills_rules_rof_0">
               <Original>Do you understand the Course of Fire?</Original>
               <Chinese>你了解如何射擊嗎?</Chinese>
-              <Chinesesimp>你了解如何射击吗?</Chinesesimp>
+              <Chinesesimp>你了解如何射击吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_rules_rof_1">
               <Original>Select rule-set</Original>
@@ -1079,37 +1079,37 @@
             <Key ID="str_a3_firing_drills_positive_rof_1">
               <Original>Good shot!</Original>
               <Chinese>射的好!</Chinese>
-              <Chinesesimp>射的好!</Chinesesimp>
+              <Chinesesimp>射的好！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_positive_rof_2">
               <Original>Top shot!</Original>
               <Chinese>優秀的射擊!</Chinese>
-              <Chinesesimp>优秀的射击!</Chinesesimp>
+              <Chinesesimp>优秀的射击！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_positive_rof_3">
               <Original>Nice!</Original>
               <Chinese>讚!</Chinese>
-              <Chinesesimp>赞!</Chinesesimp>
+              <Chinesesimp>赞！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_positive_rof_4">
               <Original>Outstanding!</Original>
               <Chinese>很優秀!</Chinese>
-              <Chinesesimp>很优秀!</Chinesesimp>
+              <Chinesesimp>很优秀！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_positive_rof_5">
               <Original>You've beaten your best!</Original>
               <Chinese>你打破你的最佳成績了!</Chinese>
-              <Chinesesimp>你打破你的最佳成绩了!</Chinesesimp>
+              <Chinesesimp>你打破你的最佳成绩了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_positive_rof_6">
               <Original>Record time!</Original>
               <Chinese>記錄時間!</Chinese>
-              <Chinesesimp>记录时间!</Chinesesimp>
+              <Chinesesimp>记录时间！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_positive_rof_7">
               <Original>Keep it up!</Original>
               <Chinese>繼續努力吧!</Chinese>
-              <Chinesesimp>继续努力吧!</Chinesesimp>
+              <Chinesesimp>继续努力吧！</Chinesesimp>
             </Key>
           </Container>
           <Container name="Neutral" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="Neutral" dubbingLanguage="english" namePrefix="firing_drills_neutral" note="" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor">
@@ -1121,7 +1121,7 @@
             <Key ID="str_a3_firing_drills_neutral_rof_1">
               <Original>You're finished!</Original>
               <Chinese>你完成了!</Chinese>
-              <Chinesesimp>你完成了!</Chinesesimp>
+              <Chinesesimp>你完成了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_neutral_rof_2">
               <Original>Course is clear</Original>
@@ -1143,42 +1143,42 @@
             <Key ID="str_a3_firing_drills_negative_rof_0">
               <Original>No-shoot penalty!</Original>
               <Chinese>射到不能射擊的目標，扣分!</Chinese>
-              <Chinesesimp>射到不能射击的目标，扣分!</Chinesesimp>
+              <Chinesesimp>射到不能射击的目标，扣分！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_negative_rof_1">
               <Original>Check your aim!</Original>
               <Chinese>你在瞄哪裡阿!</Chinese>
-              <Chinesesimp>你在瞄哪里阿!</Chinesesimp>
+              <Chinesesimp>你在瞄哪里阿！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_negative_rof_2">
               <Original>Hostage down!</Original>
               <Chinese>人質倒下!</Chinese>
-              <Chinesesimp>人质倒下!</Chinesesimp>
+              <Chinesesimp>人质倒下！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_negative_rof_3">
               <Original>Penalty!</Original>
               <Chinese>扣分!</Chinese>
-              <Chinesesimp>扣分!</Chinesesimp>
+              <Chinesesimp>扣分！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_negative_rof_4">
               <Original>Too slow!</Original>
               <Chinese>太慢了!</Chinese>
-              <Chinesesimp>太慢了!</Chinesesimp>
+              <Chinesesimp>太慢了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_negative_rof_5">
               <Original>He gotcha!</Original>
               <Chinese>他抓到你了!</Chinese>
-              <Chinesesimp>他抓到你了!</Chinesesimp>
+              <Chinesesimp>他抓到你了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_negative_rof_6">
               <Original>Target missed!</Original>
               <Chinese>錯過目標了!</Chinese>
-              <Chinesesimp>错过目标了!</Chinesesimp>
+              <Chinesesimp>错过目标了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_negative_rof_7">
               <Original>Keep trying!</Original>
               <Chinese>繼續試!</Chinese>
-              <Chinesesimp>继续试!</Chinesesimp>
+              <Chinesesimp>继续试！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_negative_rof_8">
               <Original>Seen you do better</Original>
@@ -1188,24 +1188,24 @@
             <Key ID="str_a3_firing_drills_negative_rof_9">
               <Original>Better luck next time!</Original>
               <Chinese>你下次最好幸運點!</Chinese>
-              <Chinesesimp>你下次最好幸运点!</Chinesesimp>
+              <Chinesesimp>你下次最好幸运点！</Chinesesimp>
             </Key>
           </Container>
           <Container name="Misc" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="Misc" dubbingLanguage="english" namePrefix="firing_drills_misc" note="" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor">
             <Key ID="str_a3_firing_drills_misc_rof_0">
               <Original>What are you doing?</Original>
               <Chinese>你在幹什麼?</Chinese>
-              <Chinesesimp>你在干什么?</Chinesesimp>
+              <Chinesesimp>你在干什么？</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_misc_rof_1">
               <Original>Get out of there!</Original>
               <Chinese>滾開那裡!</Chinese>
-              <Chinesesimp>滚开那里!</Chinesesimp>
+              <Chinesesimp>滚开那里！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_misc_rof_2">
               <Original>Cease fire, Goddammit!</Original>
               <Chinese>停火，該死!</Chinese>
-              <Chinesesimp>停火，该死!</Chinesesimp>
+              <Chinesesimp>停火，该死！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_misc_rof_3">
               <Original>Range is clear</Original>
@@ -1227,12 +1227,12 @@
             <Key ID="str_a3_firing_drills_cofgreen_rof_0">
               <Original>Here we are! Welcome to our fine sport shooting facility. I'll be your Range Officer for today. It's my job you get you oriented and keep everyone safe.</Original>
               <Chinese>我們到了!歡迎來到我們精美的靶場。我是你今天的教練。我的工作就是引導你正確的學習射擊並確保大家的安全。</Chinese>
-              <Chinesesimp>我们到了!欢迎来到我们精美的靶场。我是你今天的教练。我的工作就是引导你正确的学习射击并确保大家的安全。</Chinesesimp>
+              <Chinesesimp>我们到了！欢迎来到我们精美的靶场。我是你今天的教练。我的工作就是引导你正确的学习射击并确保大家的安全。</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_cofgreen_rof_1">
               <Original>Ok, let's head on over!</Original>
               <Chinese>Ok，讓我們往這裡走!</Chinese>
-              <Chinesesimp>Ok，让我们往这里走!</Chinesesimp>
+              <Chinesesimp>Ok，让我们往这里走！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_cofgreen_rof_10">
               <Original>Most courses are composed of Check Points that you'll follow; others allow more 'freestyle' navigation.</Original>
@@ -1267,12 +1267,12 @@
             <Key ID="str_a3_firing_drills_cofgreen_rof_6">
               <Original>The goal is real simple: finish the drill in the best possible time.</Original>
               <Chinese>你的目標很簡單:盡可能在最佳時間之內完成練習。</Chinese>
-              <Chinesesimp>你的目标很简单:尽可能在最佳时间之内完成练习。</Chinesesimp>
+              <Chinesesimp>你的目标很简单：尽可能在最佳时间之内完成练习。</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_cofgreen_rof_7">
               <Original>Of course, really, we're just here to compete!</Original>
               <Chinese>當然啦，我們在這邊就是要競爭!</Chinese>
-              <Chinesesimp>当然啦，我们在这边就是要竞争!</Chinesesimp>
+              <Chinesesimp>当然啦，我们在这边就是要竞争！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_cofgreen_rof_8">
               <Original>Ok, now, we're entering the Green Course of Fire.</Original>
@@ -1307,7 +1307,7 @@
             <Key ID="str_a3_firing_drills_cofgreen_rof_16">
               <Original>Watch out for the no-shoot targets!</Original>
               <Chinese>請注意不能射擊的目標!</Chinese>
-              <Chinesesimp>请注意不能射击的目标!</Chinesesimp>
+              <Chinesesimp>请注意不能射击的目标！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_cofgreen_rof_17">
               <Original>Targets can move, too.</Original>
@@ -1317,7 +1317,7 @@
             <Key ID="str_a3_firing_drills_cofgreen_rof_18">
               <Original>Your final time is affected by the penalties you've incurred and the bonuses you've won. Cutting corners isn't always faster!</Original>
               <Chinese>你的最終成績是由你產生的扣分行為與贏得的加分所產生的。走捷徑不一定會讓你得更高分!</Chinese>
-              <Chinesesimp>你的最终成绩是由你产生的扣分行为与赢得的加分所产生的。走捷径不一定会让你得更高分!</Chinesesimp>
+              <Chinesesimp>你的最终成绩是由你产生的扣分行为与赢得的加分所产生的。走捷径不一定会让你得更高分！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_cofgreen_rof_19">
               <Original>In the second lane, the concept of using specific weapons is introduced. In this case, use your rifle, but always observe the Check Point briefing.</Original>
@@ -1332,7 +1332,7 @@
             <Key ID="str_a3_firing_drills_cofgreen_rof_21">
               <Original>Check Points may also define a specific stance to use - like firing from prone or taking a knee. Be sure to keep an eye on the Check Point briefing when you study and memorize the course.</Original>
               <Chinese>一些檢查點也會規定特定的射擊姿態-像是趴下或蹲下射擊。一定要留意每個站點的簡報，學習並記憶它們。</Chinese>
-              <Chinesesimp>一些检查点也会规定特定的射击姿态-像是趴下或蹲下射击。一定要留意每个站点的简报，学习并记忆它们。</Chinesesimp>
+              <Chinesesimp>一些检查点也会规定特定的射击姿态 — 像是趴下或蹲下射击。一定要留意每个站点的简报，学习并记忆它们。</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_cofgreen_rof_22">
               <Original>We'll be switching weapons again for this lane.</Original>
@@ -1342,7 +1342,7 @@
             <Key ID="str_a3_firing_drills_cofgreen_rof_23">
               <Original>And ... there's the finish!</Original>
               <Chinese>和...這裡就是終點!</Chinese>
-              <Chinesesimp>和...这里就是终点!</Chinesesimp>
+              <Chinesesimp>和...这里就是终点！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_cofgreen_rof_24">
               <Original>The key to improving your skills is repetition. Train, train and train some more.</Original>
@@ -1369,37 +1369,37 @@
             <Key ID="str_a3_firing_drills_task_text">
               <Original>Complete %1 as often as you'd like to improve your times!</Original>
               <Chinese>完成%1好來提高你的時間成績!</Chinese>
-              <Chinesesimp>完成%1好来提高你的时间成绩!</Chinesesimp>
+              <Chinesesimp>完成%1好来提高你的时间成绩！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_sfx_timer">
               <Original>Firing Drills - Timer</Original>
               <Chinese>射擊訓練-計時器</Chinese>
-              <Chinesesimp>射击训练-计时器</Chinesesimp>
+              <Chinesesimp>射击训练 — 计时器</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_sfx_start">
               <Original>Firing Drills - Start</Original>
               <Chinese>射擊訓練-開始</Chinese>
-              <Chinesesimp>射击训练-开始</Chinesesimp>
+              <Chinesesimp>射击训练 — 开始</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_sfx_finish">
               <Original>Firing Drills - Finish</Original>
               <Chinese>射擊訓練-結束</Chinese>
-              <Chinesesimp>射击训练-结束</Chinesesimp>
+              <Chinesesimp>射击训练 — 结束</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_sfx_cp_not_clear">
               <Original>Firing Drills - Check Point not clear</Original>
               <Chinese>射擊訓練-檢查點未肅清</Chinese>
-              <Chinesesimp>射击训练-检查点未肃清</Chinesesimp>
+              <Chinesesimp>射击训练 — 检查点未肃清</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_sfx_cp_clear">
               <Original>Firing Drills - Check Point clear</Original>
               <Chinese>射擊訓練-檢查點肅清</Chinese>
-              <Chinesesimp>射击训练-检查点肃清</Chinesesimp>
+              <Chinesesimp>射击训练 — 检查点肃清</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_sfx_cof_active">
               <Original>Firing Drills - Course active</Original>
               <Chinese>射擊訓練-站點啟動</Chinese>
-              <Chinesesimp>射击训练-站点启动</Chinesesimp>
+              <Chinesesimp>射击训练 — 站点启动</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_rule_strict">
               <Original>Strict</Original>
@@ -1434,32 +1434,32 @@
             <Key ID="str_a3_firing_drills_rule6">
               <Original>Guidance:</Original>
               <Chinese>導引:</Chinese>
-              <Chinesesimp>导引:</Chinesesimp>
+              <Chinesesimp>导引：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_rule5">
               <Original>Stances:</Original>
               <Chinese>姿態:</Chinese>
-              <Chinesesimp>姿态:</Chinesesimp>
+              <Chinesesimp>姿态：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_rule4">
               <Original>Positions:</Original>
               <Chinese>位置:</Chinese>
-              <Chinesesimp>位置:</Chinesesimp>
+              <Chinesesimp>位置：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_rule3">
               <Original>Weapons Used:</Original>
               <Chinese>使用武器:</Chinese>
-              <Chinesesimp>使用武器:</Chinesesimp>
+              <Chinesesimp>使用武器：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_rule2">
               <Original>Target Randomization:</Original>
               <Chinese>隨機目標:</Chinese>
-              <Chinesesimp>随机目标:</Chinesesimp>
+              <Chinesesimp>随机目标：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_rule1">
               <Original>Check Points:</Original>
               <Chinese>檢查點:</Chinese>
-              <Chinesesimp>检查点:</Chinesesimp>
+              <Chinesesimp>检查点：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_module">
               <Original>Firing Drill</Original>
@@ -1479,32 +1479,32 @@
             <Key ID="str_a3_firing_drills_hint_time_raw">
               <Original>Raw:</Original>
               <Chinese>受傷:</Chinese>
-              <Chinesesimp>受伤:</Chinesesimp>
+              <Chinesesimp>受伤：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_time_previous">
               <Original>Previous:</Original>
               <Chinese>前次:</Chinese>
-              <Chinesesimp>前次:</Chinesesimp>
+              <Chinesesimp>前次：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_time_final">
               <Original>Final:</Original>
               <Chinese>最終:</Chinese>
-              <Chinesesimp>最终:</Chinesesimp>
+              <Chinesesimp>最终：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_time_best">
               <Original>Best:</Original>
               <Chinese>最佳:</Chinese>
-              <Chinesesimp>最佳:</Chinesesimp>
+              <Chinesesimp>最佳：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_started">
               <Original>Drill started!</Original>
               <Chinese>訓練開始!</Chinese>
-              <Chinesesimp>训练开始!</Chinesesimp>
+              <Chinesesimp>训练开始！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_rules4">
               <Original>Double-tap to quick-start!</Original>
               <Chinese>雙擊來快速開始!</Chinese>
-              <Chinesesimp>双击来快速开始!</Chinesesimp>
+              <Chinesesimp>双击来快速开始！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_rules3">
               <Original>Competitive</Original>
@@ -1519,12 +1519,12 @@
             <Key ID="str_a3_firing_drills_hint_rules1">
               <Original>Select rule-set by shooting the special targets:</Original>
               <Chinese>透過射擊特殊目標來選擇規則:</Chinese>
-              <Chinesesimp>通过射击特殊目标来选择规则:</Chinesesimp>
+              <Chinesesimp>通过射击特殊目标来选择规则：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_return">
               <Original>Returned to start: drill restarting ...</Original>
               <Chinese>回到出發點:訓練重新開始中...</Chinese>
-              <Chinesesimp>回到出发点:训练重新开始中...</Chinesesimp>
+              <Chinesesimp>回到出发点：训练重新开始中...</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_results_unit_seconds">
               <Original>s</Original>
@@ -1534,42 +1534,42 @@
             <Key ID="str_a3_firing_drills_hint_results_total">
               <Original>Total:</Original>
               <Chinese>總共:</Chinese>
-              <Chinesesimp>总共:</Chinesesimp>
+              <Chinesesimp>总共：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_results_restart">
               <Original>Restart by shooting the special target %1, returning to the start, or by waiting 1 minute!</Original>
               <Chinese>透過射擊特殊目標%1來重新開始訓練，走回出發點，或者原地等待1分鐘!</Chinese>
-              <Chinesesimp>通过射击特殊目标%1来重新开始训练，走回出发点，或者原地等待1分钟!</Chinesesimp>
+              <Chinesesimp>通过射击特殊目标%1来重新开始训练，走回出发点，或者原地等待1分钟！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_results_penalty5">
               <Original>Target missed:</Original>
               <Chinese>錯失目標:</Chinese>
-              <Chinesesimp>错失目标:</Chinesesimp>
+              <Chinesesimp>错失目标：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_results_penalty4">
               <Original>No-shoot engaged:</Original>
               <Chinese>不能射擊目標:</Chinese>
-              <Chinesesimp>不能射击目标:</Chinesesimp>
+              <Chinesesimp>不能射击目标：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_results_penalty3">
               <Original>Incorrect stance:</Original>
               <Chinese>不正確的姿態:</Chinese>
-              <Chinesesimp>不正确的姿态:</Chinesesimp>
+              <Chinesesimp>不正确的姿态：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_results_penalty2">
               <Original>Outside shooting box:</Original>
               <Chinese>在射擊框外射擊:</Chinese>
-              <Chinesesimp>在射击框外射击:</Chinesesimp>
+              <Chinesesimp>在射击框外射击：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_results_penalty1">
               <Original>Incorrect weapon:</Original>
               <Chinese>不正確的武器:</Chinese>
-              <Chinesesimp>不正确的武器:</Chinesesimp>
+              <Chinesesimp>不正确的武器：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_results_penalty">
               <Original>Penalties:</Original>
               <Chinese>懲罰:</Chinese>
-              <Chinesesimp>惩罚:</Chinesesimp>
+              <Chinesesimp>惩罚：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_results_multiplication">
               <Original>×</Original>
@@ -1579,22 +1579,22 @@
             <Key ID="str_a3_firing_drills_hint_results_bonus3">
               <Original>Correct stance:</Original>
               <Chinese>正確的姿態:</Chinese>
-              <Chinesesimp>正确的姿态:</Chinesesimp>
+              <Chinesesimp>正确的姿态：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_results_bonus2">
               <Original>From shooting box:</Original>
               <Chinese>從射擊框射擊:</Chinese>
-              <Chinesesimp>从射击框射击:</Chinesesimp>
+              <Chinesesimp>从射击框射击：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_results_bonus1">
               <Original>Correct weapon:</Original>
               <Chinese>正確的武器:</Chinese>
-              <Chinesesimp>正确的武器:</Chinesesimp>
+              <Chinesesimp>正确的武器：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_results_bonus">
               <Original>Bonuses:</Original>
               <Chinese>獎勵:</Chinese>
-              <Chinesesimp>奖励:</Chinesesimp>
+              <Chinesesimp>奖励：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_restart">
               <Original>Drill restarting ...</Original>
@@ -1609,7 +1609,7 @@
             <Key ID="str_a3_firing_drills_hint_exit_cof">
               <Original>Exited Course of Fire: drill restarting ...</Original>
               <Chinese>退出靶場:訓練重新開始中...</Chinese>
-              <Chinesesimp>退出靶场:训练重新开始中...</Chinesesimp>
+              <Chinesesimp>退出靶场：训练重新开始中...</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_function5">
               <Original>Clear all profile statistics for Firing Drills</Original>
@@ -1649,7 +1649,7 @@
             <Key ID="str_a3_firing_drills_diary_text1">
               <Original>Welcome to %1!&lt;br /&gt;&lt;br /&gt;Train or compete in this Firing Drill as often as you'd like and beat your best times!&lt;br /&gt;&lt;br /&gt;Find more information about Firing Drills %2.</Original>
               <Chinese>歡迎來到%1!&lt;br/&gt;&lt;br/&gt;在此靶場進行訓練或是競爭，常常練習好來增加你的最佳成績!&lt;br/&gt;&lt;br/&gt;尋找更多關於射擊訓練的資訊%2。</Chinese>
-              <Chinesesimp>欢迎来到%1!&lt;br/&gt;&lt;br/&gt;在此靶场进行训练或是竞争，常常练习好来增加你的最佳成绩!&lt;br/&gt;&lt;br/&gt;寻找更多关于射击训练的信息%2。</Chinesesimp>
+              <Chinesesimp>欢迎来到%1！&lt;br/&gt;&lt;br/&gt;在此靶场进行训练或是竞争，常常练习好来增加你的最佳成绩！&lt;br/&gt;&lt;br/&gt;寻找更多关于射击训练的信息%2。</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_diary_subject_title">
               <Original>Firing Drills</Original>
@@ -1684,7 +1684,7 @@
             <Key ID="str_a3_firing_drills_diary_rec6_text">
               <Original>There are various types of targets that appear at Check Points:&lt;br /&gt;%1Targets can appear immediately or after a little while.&lt;br /&gt;%1Targets can disappear after a timeout.&lt;br /&gt;%1Targets can move along rails.&lt;br /&gt;%1Targets can activate after hitting another target.&lt;br /&gt;%1Sometimes only specifically colored targets should be hit.&lt;br /&gt;%1Targets may require multiple hits.&lt;br /&gt;%1Accuracy zones on targets can reduce your time when struck.&lt;br /&gt;%1Optional bonus targets lower your time.&lt;br /&gt;%1No-shoot targets must not be engaged!&lt;br /&gt;&lt;br /&gt;Targets can sometimes be randomly positioned or randomly appearing.</Original>
               <Chinese>有各種不同類型的目標會出現在檢查點:&lt;br/&gt;%1目標有時會立即出現或過一會兒再出現。&lt;br/&gt;%1目標將在時間結束後消失。&lt;br/&gt;%1目標或許會沿著軌道移動。&lt;br/&gt;%1目標將會在另一個目標被擊中時出現。&lt;br/&gt;%1有時，只有那些有著特殊顏色的目標是該被射擊的。&lt;br/&gt;%1有些目標須被射擊多槍。&lt;br/&gt;%1準確的擊打你的目標可以有效減少時間。&lt;br/&gt;%1可選獎勵目標可能會拖慢你的時間。&lt;br/&gt;%1不能射擊目標是不能被擊倒的!&lt;br/&gt;&lt;br/&gt;目標有時會隨機在不同位置出現。</Chinese>
-              <Chinesesimp>有各种不同类型的目标会出现在检查点:&lt;br/&gt;%1目标有时会立即出现或过一会儿再出现。&lt;br/&gt;%1目标将在时间结束后消失。&lt;br/&gt;%1目标或许会沿着轨道移动。&lt;br/&gt;%1目标将会在另一个目标被击中时出现。&lt;br/&gt;%1有时，只有那些有着特殊颜色的目标是该被射击的。&lt;br/&gt;%1有些目标须被射击多枪。&lt;br/&gt;%1准确的击打你的目标可以有效减少时间。&lt;br/&gt;%1可选奖励目标可能会拖慢你的时间。&lt;br/&gt;%1不能射击目标是不能被击倒的!&lt;br/&gt;&lt;br/&gt;目标有时会随机在不同位置出现。</Chinesesimp>
+              <Chinesesimp>有各种不同类型的目标会出现在检查点：&lt;br/&gt;%1目标有时会立即出现或过一会儿再出现。&lt;br/&gt;%1目标将在时间结束后消失。&lt;br/&gt;%1目标或许会沿着轨道移动。&lt;br/&gt;%1目标将会在另一个目标被击中时出现。&lt;br/&gt;%1有时，只有那些有着特殊颜色的目标是该被射击的。&lt;br/&gt;%1有些目标须被射击多枪。&lt;br/&gt;%1准确的击打你的目标可以有效减少时间。&lt;br/&gt;%1可选奖励目标可能会拖慢你的时间。&lt;br/&gt;%1不能射击目标是不能被击倒的！&lt;br/&gt;&lt;br/&gt;目标有时会随机在不同位置出现。</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_diary_rec5_title">
               <Original>Shooting Boxes</Original>
@@ -1724,7 +1724,7 @@
             <Key ID="str_a3_firing_drills_diary_rec2_text">
               <Original>Firing Drills can be completed using one of two rule-sets: training and competitive.&lt;br /&gt;&lt;br /&gt;%1Training: less strict and about familiarizing with the course. Medal times cannot be challenged while training.&lt;br /&gt;&lt;br /&gt;%1Competitive: stricter rules and competitors are penalized when breaking rules. Medal times can be beaten here!</Original>
               <Chinese>射擊訓練的每個靶場都有兩種模式:訓練和競爭。&lt;br/&gt;&lt;br/&gt;%1訓練:各站點的要求比較不嚴格，此模式是讓你熟悉此靶場的配置。在此模式之下，時間是不會被記錄的。&lt;br/&gt;&lt;br/&gt;%1競爭:每個站點要求嚴謹，如果動作不正確，將會受到扣分處理。此模式下可以挑戰打破最佳紀錄!</Chinese>
-              <Chinesesimp>射击训练的每个靶场都有两种模式:训练和竞争。&lt;br/&gt;&lt;br/&gt;%1训练:各站点的要求不严格，此模式是让你熟悉此靶场的配置。在此模式之下，时间是不会被记录的。&lt;br/&gt;&lt;br/&gt;%1竞争:每个站点要求严格，如果动作不正确，将会受到扣分处理。此模式下可以挑战打破最佳纪录!</Chinesesimp>
+              <Chinesesimp>射击训练的每个靶场都有两种模式：训练和竞争。&lt;br/&gt;&lt;br/&gt;%1训练：各站点的要求不严格，此模式是让你熟悉此靶场的配置。在此模式之下，时间是不会被记录的。&lt;br/&gt;&lt;br/&gt;%1竞争：每个站点要求严格，如果动作不正确，将会受到扣分处理。此模式下可以挑战打破最佳纪录！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_diary_rec1_title">
               <Original>Introduction</Original>
@@ -1739,7 +1739,7 @@
             <Key ID="str_a3_firing_drills_clear_stats2">
               <Original>Removing Firing Drills statistics cannot be undone!</Original>
               <Chinese>刪除射擊訓練的記錄時間，此動作是不能回復的!</Chinese>
-              <Chinesesimp>删除射击训练的记录时间，此操作是不能恢复的!</Chinesesimp>
+              <Chinesesimp>删除射击训练的记录时间，此操作是不能恢复的！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_clear_stats1">
               <Original>Clearing Statistics</Original>
@@ -1749,7 +1749,7 @@
             <Key ID="str_a3_firing_drills_diary_rec9_text">
               <Original>%1Firing Drills are not meant to be aced in one attempt. Study the courses, find shortcuts and get creative.&lt;br /&gt;&lt;br /&gt;%1Observe on-screen Check Point briefings, voice instructions and other indicators to know which stance and weapon to use.&lt;br /&gt;&lt;br /&gt;%1Plan your reloads and weapon switches well! Doing this in a smart way can save you many seconds.&lt;br /&gt;&lt;br /&gt;%1Don't always trust the most direct route. Sometimes a detour can be quicker if there are no obstacles in your path.&lt;br /&gt;&lt;br /&gt;%1Consider what will cost you more time: missing a target and re-engaging it, or moving on and taking the penalty.&lt;br /&gt;&lt;br /&gt;%1Think about your aiming path from target to target, as well as clever use of fire modes. Remember that some targets offer bonuses for accuracy.&lt;br /&gt;&lt;br /&gt;%1Scan for bonus targets, but balance your search time against the gained bonuses. Check your map for clues.&lt;br /&gt;&lt;br /&gt;%1Not all targets appear upon arriving at a Check Point. Remain vigilant until the all clear is given.&lt;br /&gt;&lt;br /&gt;%1Consider your fatigue and how often you sprint. It all affects your continued performance and aiming.</Original>
               <Chinese>%1射擊訓練並沒有所謂的標準作法。你必須在這邊自行研討各個站點的最佳解法，找尋捷徑，並使用一點創造力來幫助你提高成績。&lt;br/&gt;&lt;br/&gt;%1觀察每個檢查點的簡報，語音指示或其他的指標，幫助你知道該用哪個姿態與武器。&lt;br/&gt;&lt;br/&gt;%1計畫何時重裝彈藥與切換武器!作好的話可以有效減少許多浪費的秒數。&lt;br/&gt;&lt;br/&gt;%1不要總是相信既定的路線。有時走過一些彎路，反而能更快抵達，前提是路上沒有障礙。&lt;br/&gt;&lt;br/&gt;%1思考是什麼拖慢你的速度:錯失目標和重新擊打他，或者是移動錯誤而得到扣分。&lt;br/&gt;&lt;br/&gt;%1想想你的射擊火線和開火模式，哪些組合才是最有效率的。請記住，有一些獎勵目標只會在你精準的擊倒後才會得到獎勵。&lt;br/&gt;&lt;br/&gt;%1搜索獎勵目標，但請不要花太多時間去搜索。檢查你的地圖可以獲得一些線索。&lt;br/&gt;&lt;br/&gt;%1並不是所有目標都會在你抵達檢查點時就跳出來。保持警覺，直到所有目標都擊倒為止。&lt;br/&gt;&lt;br/&gt;%1聰明管理你的衝刺時間與疲勞程度。這些都會影響你的準度與續航力。</Chinese>
-              <Chinesesimp>%1射击训练并没有所谓的标准做法。你必须在这边自行研讨各个站点的最佳解法，找寻捷径，并使用一点创造力来帮助你提高成绩。&lt;br/&gt;&lt;br/&gt;%1观察每个检查点的简报，语音指示或其他的指标，帮助你知道该用哪个姿态与武器。&lt;br/&gt;&lt;br/&gt;%1计划何时重装弹药与切换武器!做得好可以有效减少许多浪费的秒数。&lt;br/&gt;&lt;br/&gt;%1不要总是相信既定的路线。有时走过一些弯路，反而能更快抵达，前提是路上没有障碍。&lt;br/&gt;&lt;br/&gt;%1思考是什么拖慢你的速度:错失目标并重新射击，或者是移动错误而得到扣分。&lt;br/&gt;&lt;br/&gt;%1想想你的射击火线和开火模式，哪些组合才是最有效率的。请记住，有一些奖励目标只会在你精准的击倒后才会得到奖励。&lt;br/&gt;&lt;br/&gt;%1搜索奖励目标，但请不要花太多时间去搜索。检查你的地图可以获得一些线索。&lt;br/&gt;&lt;br/&gt;%1并不是所有目标都会在你抵达检查点时就跳出来。保持警觉，直到所有目标都击倒为止。&lt;br/&gt;&lt;br/&gt;%1聪明管理你的冲刺时间与疲劳程度。这些都会影响你的准度与续航力。</Chinesesimp>
+              <Chinesesimp>%1射击训练并没有所谓的标准做法。你必须在这边自行研讨各个站点的最佳解法，找寻捷径，并使用一点创造力来帮助你提高成绩。&lt;br/&gt;&lt;br/&gt;%1观察每个检查点的简报，语音指示或其他的指标，帮助你知道该用哪个姿态与武器。&lt;br/&gt;&lt;br/&gt;%1计划何时重装弹药与切换武器！做得好可以有效减少许多浪费的秒数。&lt;br/&gt;&lt;br/&gt;%1不要总是相信既定的路线。有时走过一些弯路，反而能更快抵达，前提是路上没有障碍。&lt;br/&gt;&lt;br/&gt;%1思考是什么拖慢你的速度：错失目标并重新射击，或者是移动错误而得到扣分。&lt;br/&gt;&lt;br/&gt;%1想想你的射击火线和开火模式，哪些组合才是最有效率的。请记住，有一些奖励目标只会在你精准的击倒后才会得到奖励。&lt;br/&gt;&lt;br/&gt;%1搜索奖励目标，但请不要花太多时间去搜索。检查你的地图可以获得一些线索。&lt;br/&gt;&lt;br/&gt;%1并不是所有目标都会在你抵达检查点时就跳出来。保持警觉，直到所有目标都击倒为止。&lt;br/&gt;&lt;br/&gt;%1聪明管理你的冲刺时间与疲劳程度。这些都会影响你的准度与续航力。</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_diary_rec9_title">
               <Original>Tips</Original>
@@ -1769,47 +1769,47 @@
             <Key ID="str_a3_firing_drills_hint_results_bonus4">
               <Original>Bonus target:</Original>
               <Chinese>獎勵目標:</Chinese>
-              <Chinesesimp>奖励目标:</Chinesesimp>
+              <Chinesesimp>奖励目标：</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_results_bonus5">
               <Original>Accuracy:</Original>
               <Chinese>準確度:</Chinese>
-              <Chinesesimp>准确度:</Chinesesimp>
+              <Chinesesimp>准确度：</Chinesesimp>
             </Key>
             <Key ID="STR_A3_FIRING_DRILLS_SFX_TGT_POP_UP1">
               <Original>Firing Drills - Target pop-up (large)</Original>
               <Chinese>射擊訓練-彈出式目標(大型)</Chinese>
-              <Chinesesimp>射击训练-弹出式目标（大型）</Chinesesimp>
+              <Chinesesimp>射击训练 — 弹出式目标（大型）</Chinesesimp>
             </Key>
             <Key ID="STR_A3_FIRING_DRILLS_SFX_TGT_POP_UP2">
               <Original>Firing Drills - Target pop-up (Small)</Original>
               <Chinese>射擊訓練-彈出式目標(小型)</Chinese>
-              <Chinesesimp>射击训练-弹出式目标（小型）</Chinesesimp>
+              <Chinesesimp>射击训练 — 弹出式目标（小型）</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_results_penalty6">
               <Original>Wrong color:</Original>
               <Chinese>錯誤的顏色:</Chinese>
-              <Chinesesimp>错误的颜色:</Chinesesimp>
+              <Chinesesimp>错误的颜色：</Chinesesimp>
             </Key>
             <Key ID="STR_A3_FIRING_DRILLS_SFX_SKEET_LAUNCH1">
               <Original>Firing Drills - Skeet launch 1</Original>
               <Chinese>射擊訓練-發射碟片1</Chinese>
-              <Chinesesimp>射击训练-发射碟片1</Chinesesimp>
+              <Chinesesimp>射击训练 — 发射碟片1</Chinesesimp>
             </Key>
             <Key ID="STR_A3_FIRING_DRILLS_SFX_SKEET_LAUNCH2">
               <Original>Firing Drills - Skeet launch 2</Original>
               <Chinese>射擊訓練-發射碟片2</Chinese>
-              <Chinesesimp>射击训练-发射碟片2</Chinesesimp>
+              <Chinesesimp>射击训练 — 发射碟片2</Chinesesimp>
             </Key>
             <Key ID="STR_A3_FIRING_DRILLS_SFX_TGT_POP_DOWN1">
               <Original>Firing Drills - Target pop-down (large)</Original>
               <Chinese>射擊訓練-彈出式目標(大型)</Chinese>
-              <Chinesesimp>射击训练-弹出式目标（大型）</Chinesesimp>
+              <Chinesesimp>射击训练 — 弹出式目标（大型）</Chinesesimp>
             </Key>
             <Key ID="STR_A3_FIRING_DRILLS_SFX_TGT_POP_DOWN2">
               <Original>Firing Drills - Target pop-down (Small)</Original>
               <Chinese>射擊訓練-彈出式目標(小型)</Chinese>
-              <Chinesesimp>射击训练-弹出式目标（小型）</Chinesesimp>
+              <Chinesesimp>射击训练 — 弹出式目标（小型）</Chinesesimp>
             </Key>
           </Container>
           <Key ID="str_a3_firing_drills_end3_title">
@@ -1896,7 +1896,7 @@
             <Key ID="str_a3_firing_drills_checkpoints_rof_12">
               <Original>Switch weapon!</Original>
               <Chinese>切換武器!</Chinese>
-              <Chinesesimp>切换武器!</Chinesesimp>
+              <Chinesesimp>切换武器！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_checkpoints_rof_13">
               <Original>Check weapon</Original>
@@ -1926,12 +1926,12 @@
             <Key ID="str_a3_firing_drills_checkpoints_rof_18">
               <Original>Next!</Original>
               <Chinese>下一個!</Chinese>
-              <Chinesesimp>下一个!</Chinesesimp>
+              <Chinesesimp>下一个！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_checkpoints_rof_19">
               <Original>Not clear yet!</Original>
               <Chinese>還沒完成喔!</Chinese>
-              <Chinesesimp>还没完成喔!</Chinesesimp>
+              <Chinesesimp>还没完成喔！</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_checkpoints_rof_20">
               <Original>Check Point isn't clear</Original>
@@ -1960,7 +1960,7 @@
             <Key ID="str_a3_showcase_night2_x15_extractionfailure_rok_0">
               <Original>Fox, I've been spotted. I've got to extract, now!</Original>
               <Chinese>"狐狸"，我已經被發現了。我現在必須先撤離了!</Chinese>
-              <Chinesesimp>"狐狸"，我已经被发现了。我现在必须先撤离了!</Chinesesimp>
+              <Chinesesimp>"狐狸"，我已经被发现了。我现在必须先撤离了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_night2_x15_extractionfailure_rok_1">
               <Original>I'm sorry, buddy, you're on your own. Keep your head down. Stay concealed until we can regroup. Good luck, Fox. Out.</Original>
@@ -1972,12 +1972,12 @@
             <Key ID="str_a3_showcase_night2_x10_extractionwarning_fox_0">
               <Original>I'm still en route, what's your status? Over.</Original>
               <Chinese>我還在路上，你的狀況怎樣?完畢。</Chinese>
-              <Chinesesimp>我还在路上，你的状况怎样?完毕。</Chinesesimp>
+              <Chinesesimp>我还在路上，你的状况怎样？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_night2_x10_extractionwarning_rok_0">
               <Original>Fox, SITREP!</Original>
               <Chinese>"狐狸"，狀況回報!</Chinese>
-              <Chinesesimp>"狐狸"，状况回报!</Chinesesimp>
+              <Chinesesimp>"狐狸"，状况回报！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_night2_x10_extractionwarning_rok_1">
               <Original>Increased enemy activity in the area. I can't hold this position for much longer, Fox. You've got to get to the extraction now.</Original>
@@ -1996,26 +1996,26 @@
             <Key ID="str_a3_showcase_night2_x01_timeoutwarning_sho_0">
               <Original>Fox, this is Bishop. Our window of opportunity is closing fast. You've got to get a move on!</Original>
               <Chinese>"狐狸"，這裡是"主教"。我們的機會正接近當中。你必須快點行動了!</Chinese>
-              <Chinesesimp>"狐狸"，这里是"主教"。我们的机会正迅速流逝。你必须快点行动了!</Chinesesimp>
+              <Chinesesimp>"狐狸"，这里是"主教"。我们的机会正迅速流逝。你必须快点行动了！</Chinesesimp>
             </Key>
           </Container>
           <Container name="50_Extract_Complete" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="50_Extract_Complete" dubbingLanguage="english" namePrefix="showcase_night2_50_extract_complete" note="" participants="PB B Rook;" situation="player gets to extract point">
             <Key ID="str_a3_showcase_night2_50_extract_complete_rok_0">
               <Original>Fox, over here! C'mon, let's move it!</Original>
               <Chinese>"狐狸"，在這裡!快來，讓我們離開這裡!</Chinese>
-              <Chinesesimp>"狐狸"，在这里!快来，让我们离开这里!</Chinesesimp>
+              <Chinesesimp>"狐狸"，在这里！快来，让我们离开这里！</Chinesesimp>
             </Key>
           </Container>
           <Container name="45_Archangel_Secure" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="45_Archangel_Secure" dubbingLanguage="english" namePrefix="showcase_night2_45_archangel_secure" note="" participants="PB B Bishop;" situation="boat is at the extraction point - hurry up!">
             <Key ID="str_a3_showcase_night2_45_archangel_secure_sho_0">
               <Original>This is Bishop, Archangel is secure! We're falling back to the extraction point.</Original>
               <Chinese>這裡是"主教"，已救到"大天使"!我們正撤退至撤離點。</Chinese>
-              <Chinesesimp>这里是"主教"，已救出"大天使"!我们正撤退至撤离点。</Chinesesimp>
+              <Chinesesimp>这里是"主教"，已救出"大天使"！我们正撤退至撤离点。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_night2_45_archangel_secure_sho_1">
               <Original>All teams, outstanding work - now, let's get off this fucking rock!</Original>
               <Chinese>所有小隊，幹的好-現在，讓我們離開這該死的地方!</Chinese>
-              <Chinesesimp>各小组都有，干的好-现在让我们离开这该死的地方!</Chinesesimp>
+              <Chinesesimp>各小组都有，干的好 — 现在让我们离开这该死的地方！</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_Extract" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="40_Extract" dubbingLanguage="english" namePrefix="showcase_night2_40_extract" note="" participants="PB B Rook;PB B Fox;" situation="boat is at the extraction point - hurry up!">
@@ -2046,7 +2046,7 @@
             <Key ID="str_a3_showcase_night2_30_enemy_is_anxious_sho_0">
               <Original>Fox, update, I don't know what you just did but keep doing it - units on the move here. Out.</Original>
               <Chinese>"狐狸"，情況更新，我不知道你幹了什麼，但是請你繼續做-敵軍開始離開這裡了。通話完畢。</Chinese>
-              <Chinesesimp>"狐狸"，情况更新，我不知道你干了什么，但是请你继续做-敌军开始离开这里了。通话完毕。</Chinesesimp>
+              <Chinesesimp>"狐狸"，情况更新，我不知道你干了什么，但是请你继续做 — 敌军开始离开这里了。通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="25_FirstContact" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="25_FirstContact" dubbingLanguage="english" namePrefix="showcase_night2_25_firstcontact" note="" participants="PB B Fox;PB B Bishop;" situation="player let's bishop group know that he is starting the noise/chaos">
@@ -2099,7 +2099,7 @@
             <Key ID="str_a3_showcase_night2_13_quickbriefing3_rok_1">
               <Original>Go loud, strike fast, and await confirmation. Bishop will only move on Archangel once it's clear. Understood?</Original>
               <Chinese>搞大聲點，行動要迅速，並等待確認。當你的任務成功之後，"主教"會拯救"大天使"。了解嗎?</Chinese>
-              <Chinesesimp>搞出动静，行动要迅速，并等待确认。当你的任务成功之后，"主教"会拯救"大天使"。了解吗?</Chinesesimp>
+              <Chinesesimp>搞出动静，行动要迅速，并等待确认。当你的任务成功之后，"主教"会拯救"大天使"。了解吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_QuickBriefing2" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="10_QuickBriefing2" dubbingLanguage="english" namePrefix="showcase_night2_10_quickbriefing2" note="" participants="PB B Bishop;PB B Rook;" situation="player orders boat driver to slow down in order to stay undetected">
@@ -2111,19 +2111,19 @@
             <Key ID="str_a3_showcase_night2_10_quickbriefing2_sho_0">
               <Original>Update: we have a visual on Archangel. Verified sighting.</Original>
               <Chinese>狀況更新:我們已經可以看到"大天使"了。確認目標。</Chinese>
-              <Chinesesimp>状况更新:我们已经可以看到"大天使"了。确认目标。</Chinesesimp>
+              <Chinesesimp>状况更新：我们已经可以看到"大天使"了。确认目标。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_night2_10_quickbriefing2_sho_1">
               <Original>It's on you now. Proceed with the operation. Draw enemy forces South. How copy?</Original>
               <Chinese>現在看你們了。開始執行任務。把敵人引致南方。收到嗎?</Chinese>
-              <Chinesesimp>现在看你们了。开始执行任务。把敌人引向南方。收到吗?</Chinesesimp>
+              <Chinesesimp>现在看你们了。开始执行任务。把敌人引向南方。收到吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_QuickBriefing1" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="05_QuickBriefing1" dubbingLanguage="english" namePrefix="showcase_night2_05_quickbriefing1" note="" participants="PB B Bishop;" situation="player orders boat driver to slow down in order to stay undetected">
             <Key ID="str_a3_showcase_night2_05_quickbriefing1_sho_0">
               <Original>Bishop in position. Eyes on objective. Multiple alpha victors -- wait one.</Original>
               <Chinese>"主教"就定位了。看到目標。多名敵人--請稍待。</Chinese>
-              <Chinesesimp>"主教"就位了。看到目标。多名敌人--请稍等。</Chinesesimp>
+              <Chinesesimp>"主教"就位了。看到目标。多名敌人——请稍等。</Chinesesimp>
             </Key>
           </Container>
           <Container name="03_Report_In" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="03_Report_In" dubbingLanguage="english" namePrefix="showcase_night2_03_report_in" note="" participants="PB B Rook;PB B Bishop;" situation="the boat reports in to bishop">
@@ -2193,7 +2193,7 @@
           <Key ID="str_a3_showcase_night2_debriefing_end3">
             <Original>Friendly fire will not be tolerated!</Original>
             <Chinese>友軍傷害是不被允許的!</Chinese>
-            <Chinesesimp>友军伤害是不被允许的!</Chinesesimp>
+            <Chinesesimp>友军伤害是不被允许的！</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_night2_debriefing_end2">
             <Original>You were unable to create significant chaos and divert the enemy's attention away from Archangel. We've lost our only window of opportunity.</Original>
@@ -2208,7 +2208,7 @@
           <Key ID="str_a3_showcase_night2_briefing_situation_text">
             <Original>One of our most important assets, codename 'Archangel', has been captured by enemy forces. Intel suggests that preparations are being made to transfer our asset to an interrogation facility deep inside enemy territory. Time is short and our options are running out, but we cannot afford to let that happen.%1%1Archangel is currently being detained at the heavily fortified %3Camp Tempest%2. The enemy has the whole island locked down; a direct assault with a significant force is out of the question. We need to find a way to divert enemy units out of the area, giving a small recon team a strike window.%1%1%4Bishop%2 has already infiltrated the area and, under the cover of darkness, will approach Archangel's position from the north. You are tasked to deploy to the %5south%2 of the island, make contact, and raise as much hell as you can. Bishop will execute his mission only once you've done your job, so go loud. Destroy assets, raid camps, and compel the enemy to split its forces and investigate.%1%1We don't have all night: we expect Archangel to be transferred at roughly 2005; %4Bishop's%2 window of opportunity will only be open for around 20 minutes. You have some charges in your pack and the element of surprise on your side. Make sure you use them well, then get out of there.</Original>
             <Chinese>我們其中一個最重要的線民，代號'大天使'，已被敵軍部隊捉獲。情報指出，敵軍正在將其轉移到一處位在敵人領土上的審訊設施中。時間急迫且我們的選擇不多，我們不能讓他被轉移。%1%1"大天使"目前被關押在戒備森嚴的%3坦皮斯特營地%2。敵人已經使用優勢兵力封鎖全島了，所以我們無法使用大部隊的進攻方法。我們需要找到轉移敵人注意力的方法，好提供機會讓一支偵察隊伍去拯救目標。%1%1%3"主教"%2已經藉由夜色的保護滲透進該區，將從"大天使"的北方接近。你的任務是前進到%5島的南方%2，與敵人交戰並使他們的警戒提高。"主教"只能在你的任務成功後才能執行他們的計畫，所以請搞大聲點。摧毀他們的物資，突襲營地，迫使敵人的注意力轉向南方。%1%我們沒有整夜的時間:我們預期"大天使"大約會在21:05開始被轉移;%3"主教"%2將會有20分鐘的時間去拯救目標。你有一些炸藥在你的背包之中，可以讓你為敵人帶來一點驚喜。"狐狸"，請明智的使用它們，然後撤離那裡。</Chinese>
-            <Chinesesimp>我们其中一个最重要的线民，代号"大天使"，已被敌军部队抓获。情报指出，敌军正在将其转移到一处位于敌人领土上的审信设施中。时间急迫且我们的选择不多，我们不能让他被转移。%1%1大天使目前被关押在戒备森严的%3坦皮斯特营地%2。敌人已经使用优势兵力封锁全岛了，所以我们无法使用大部队的进攻方法。我们需要找到转移敌人注意力的方法，以便提供机会让一支侦察队伍去拯救目标。%1%1%3"主教"%2已经藉由夜色的保护渗透进该区，将从"大天使"的北方接近。你的任务是前进到%5岛的南方%2，与敌人交战并使他们的警戒程度提高。"主教"只能在你的任务成功后才能执行他们的计划，所以请搞大声点。摧毁他们的物资，突袭营地，迫使敌人的注意力转向南方。%1%我们没有整夜的时间:我们预计"大天使"会在21:05开始被转移;%3"主教"%2将会有20分钟的时间去拯救目标。在你的背包之中有一些炸药，可以让你为敌人带来一点惊喜。"狐狸"，请明智的使用它们，然后撤离那里。</Chinesesimp>
+            <Chinesesimp>我们其中一个最重要的线民，代号"大天使"，已被敌军部队抓获。情报指出，敌军正在将其转移到一处位于敌人领土上的审信设施中。时间急迫且我们的选择不多，我们不能让他被转移。%1%1大天使目前被关押在戒备森严的%3坦皮斯特营地%2。敌人已经使用优势兵力封锁全岛了，所以我们无法使用大部队的进攻方法。我们需要找到转移敌人注意力的方法，以便提供机会让一支侦察队伍去拯救目标。%1%1%3"主教"%2已经藉由夜色的保护渗透进该区，将从"大天使"的北方接近。你的任务是前进到%5岛的南方%2，与敌人交战并使他们的警戒程度提高。"主教"只能在你的任务成功后才能执行他们的计划，所以请搞大声点。摧毁他们的物资，突袭营地，迫使敌人的注意力转向南方。%1%我们没有整夜的时间：我们预计"大天使"会在21：05开始被转移;%3"主教"%2将会有20分钟的时间去拯救目标。在你的背包之中有一些炸药，可以让你为敌人带来一点惊喜。"狐狸"，请明智的使用它们，然后撤离那里。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_night2_briefing_signal_text">
             <Original>%3Bishop%2 - Operation lead, forward observer%1%4Fox%2 - You%1%5Rook%2 - Insertion and exfiltration unit</Original>
@@ -2258,7 +2258,7 @@
           <Key ID="str_a3_showcase_night2_titlecard">
             <Original>SHOWCASE: NIGHT - Dynamic Lights, Refined HDR Lighting, Improved Fog</Original>
             <Chinese>任務展示:夜間-動態光源，更加精製的光源特效，進步的煙霧效果</Chinese>
-            <Chinesesimp>任务展示:夜间-动态光源，更加精致的光源特效，进步的烟雾效果</Chinesesimp>
+            <Chinesesimp>任务展示：夜间 — 动态光源，更加精致的光源特效，进步的烟雾效果</Chinesesimp>
           </Key>
         </Container>
         <Container name="showcase_Commanding_I">
@@ -2290,7 +2290,7 @@
           <Key ID="str_a3_showcase_commanding_i_tskretreat_description">
             <Original>The village has fallen. Retreat to the %2south%1! </Original>
             <Chinese>我們已經失去村莊了。撤退至%2南方%1!</Chinese>
-            <Chinesesimp>我们已经失去村庄了。撤退至%2南方%1!</Chinesesimp>
+            <Chinesesimp>我们已经失去村庄了。撤退至%2南方%1！</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_commanding_i_tskdefend_wp">
             <Original>DEFEND</Original>
@@ -2345,7 +2345,7 @@
           <Key ID="str_a3_showcase_commanding_i_radiositrep">
             <Original>HQ - SITREP</Original>
             <Chinese>总部-狀況回報</Chinese>
-            <Chinesesimp>总部-状况回报</Chinesesimp>
+            <Chinesesimp>总部 — 状况回报</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_commanding_i_mrktakecommand">
             <Original>Foxtrot</Original>
@@ -2385,7 +2385,7 @@
           <Key ID="str_a3_showcase_commanding_i_debriefing_end5">
             <Original>Friendly fire will not be tolerated! </Original>
             <Chinese>友軍傷害是不被允許的!</Chinese>
-            <Chinesesimp>友军伤害是不被允许的!</Chinesesimp>
+            <Chinesesimp>友军伤害是不被允许的！</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_commanding_i_debriefing_end4">
             <Original>Poor leadership and disobeyed orders have resulted in the loss of the village. We've lost our west flank and, with it, the security of the south of Stratis.</Original>
@@ -2420,7 +2420,7 @@
           <Key ID="str_a3_showcase_commanding_i_briefing_mission_text">
             <Original>Link up with and take command of your men. Rally at Girna - a village directly in the path of advancing enemy forces - and prepare a defense.</Original>
             <Chinese>與你的小隊會合并指揮他們。在吉爾納集結-一個在敵人要去南方路上的必經村莊-然後準備防禦。</Chinese>
-            <Chinesesimp>与你的小队会合并指挥他们。在吉尔纳集结-一个在敌人要去南方路上的必经村庄-然后准备防御。</Chinesesimp>
+            <Chinesesimp>与你的小队会合并指挥他们。在吉尔纳集结 — 一个在敌人要去南方路上的必经村庄 — 然后准备防御。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_commanding_i_briefing_execution_text">
             <Original>1. Link up with the team awaiting your arrival at %2Strogos bay%1 &lt;br /&gt;2. Move to the %3village%1 and assume command of what remains of %4Foxtrot%1 &lt;br /&gt;3. Set up a defense and confirm your status with %5HQ%1 via radio &lt;br /&gt;4. Hold the village against enemy forces %6advancing%1 from the north</Original>
@@ -2453,14 +2453,14 @@
             <Key ID="str_a3_showcase_commanding_i_x15_away_bra_0">
               <Original>Where the hell am I? I should take a look at the map...</Original>
               <Chinese>我在哪裡阿?我應該看一下地圖...</Chinese>
-              <Chinesesimp>我在哪里啊?我应该看一下地图...</Chinesesimp>
+              <Chinesesimp>我在哪里啊？我应该看一下地图...</Chinesesimp>
             </Key>
           </Container>
           <Container name="x10_Late" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="x10_Late" dubbingLanguage="english" namePrefix="showcase_commanding_i_x10_late" note="" participants="PB B Bravo Lead;" situation="player to himself when he takes too much time to get into the village">
             <Key ID="str_a3_showcase_commanding_i_x10_late_bra_0">
               <Original>Dammit, we need to get a move on! Foxtrot can't hold the village alone!</Original>
               <Chinese>他媽的，我們必須趕快移動!Foxtrot無法獨自守住村莊!</Chinese>
-              <Chinesesimp>他妈的，我们必须赶快移动!Foxtrot 无法独自守住村庄!</Chinesesimp>
+              <Chinesesimp>他妈的，我们必须赶快移动！Foxtrot 无法独自守住村庄！</Chinesesimp>
             </Key>
           </Container>
           <Container name="x05_Retreat" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="x05_Retreat" dubbingLanguage="english" namePrefix="showcase_commanding_i_x05_retreat" note="" participants="PB B Bravo Lead;PB B HQ;" situation="player informing hq about mission failure">
@@ -2472,17 +2472,17 @@
             <Key ID="str_a3_showcase_commanding_i_x05_retreat_bhq_1">
               <Original>Papa Bear to all squads, be advised, Bravo just lost Girna. The west flank is not secure - be careful out there!</Original>
               <Chinese>Papa Bear致所有小隊，請注意，Bravo剛失去了吉爾納村莊。我們的西翼已不安全-請小心!</Chinese>
-              <Chinesesimp>Papa Bear 致各班都有，请注意，Bravo 刚失去了吉尔纳村。我们的西翼已不安全-请小心!</Chinesesimp>
+              <Chinesesimp>Papa Bear 致各班都有，请注意，Bravo 刚失去了吉尔纳村。我们的西翼已不安全 — 请小心！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_commanding_i_x05_retreat_bra_0">
               <Original>Fallback! Fall! Back!</Original>
               <Chinese>撤退!撤!退!</Chinese>
-              <Chinesesimp>撤退!撤!退!</Chinesesimp>
+              <Chinesesimp>撤退！撤！退！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_commanding_i_x05_retreat_bra_1">
               <Original>Bravo to Papa Bear, we've sustained heavy casualties and have to pull back, over!</Original>
               <Chinese>Bravo致Papa Bear，我們遭受重大的傷亡，我們必須向後撤，完畢!</Chinese>
-              <Chinesesimp>Bravo 致 Papa Bear，我们遭受重大的伤亡，我们必须后撤，完毕!</Chinesesimp>
+              <Chinesesimp>Bravo 致 Papa Bear，我们遭受重大的伤亡，我们必须后撤，完毕！</Chinesesimp>
             </Key>
           </Container>
           <Container name="x01_Transport_Immobile" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="x01_Transport_Immobile" dubbingLanguage="english" namePrefix="showcase_commanding_i_x01_transport_immobile" note="" participants="PB B Bravo Lead;" situation="player mumbling to himself about immobilized vehicle">
@@ -2496,7 +2496,7 @@
             <Key ID="str_a3_showcase_commanding_i_35_victory_bhq_0">
               <Original>Outstanding! Dig in and await further orders.</Original>
               <Chinese>幹的好!留在原地並等待進一步命令。</Chinese>
-              <Chinesesimp>干的好!留在原地并等待进一步命令。</Chinesesimp>
+              <Chinesesimp>干的好！留在原地并等待进一步命令。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_commanding_i_35_victory_bhq_1">
               <Original>Papa Bear to all squads, be advised, Bravo has held Girna. West flank is secure. Papa Bear out.</Original>
@@ -2506,7 +2506,7 @@
             <Key ID="str_a3_showcase_commanding_i_35_victory_bra_0">
               <Original>Alright, gentlemen, the village is ours!</Original>
               <Chinese>好的，先生們，村莊是我們的了!</Chinese>
-              <Chinesesimp>好的，先生们，村庄是我们的了!</Chinesesimp>
+              <Chinesesimp>好的，先生们，村庄是我们的了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_commanding_i_35_victory_bra_1">
               <Original>Papa Bear, this is Bravo, we've successfully defended Girna, over.</Original>
@@ -2523,7 +2523,7 @@
             <Key ID="str_a3_showcase_commanding_i_30_attack_bra_1">
               <Original>Ok, get set for contact!</Original>
               <Chinese>Ok，準備交戰!</Chinese>
-              <Chinesesimp>Ok，准备交战!</Chinesesimp>
+              <Chinesesimp>Ok，准备交战！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_commanding_i_30_attack_haw_0">
               <Original>Bravo, message, OPFOR advancing on your grid; they're just minutes away.</Original>
@@ -2533,7 +2533,7 @@
             <Key ID="str_a3_showcase_commanding_i_30_attack_haw_1">
               <Original>Also, be advised, an assault boat just left the base. It's bearing due west for now. How copy?</Original>
               <Chinese>同時，請注意，一艘突擊艇剛離開他們的基地。它將會從你們的西面靠近。有收到嗎?</Chinese>
-              <Chinesesimp>同时，请注意，一艘突击艇刚离开他们的基地。它将会从你们的西面靠近。有收到吗?</Chinesesimp>
+              <Chinesesimp>同时，请注意，一艘突击艇刚离开他们的基地。它将会从你们的西面靠近。有收到吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="25_Reporting" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="25_Reporting" dubbingLanguage="english" namePrefix="showcase_commanding_i_25_reporting" note="" participants="PB B Bravo Lead;PB B HQ;" situation="player informing hq that he is prepared">
@@ -2555,7 +2555,7 @@
             <Key ID="str_a3_showcase_commanding_i_25_reporting_bra_1">
               <Original>We're all set here - the village is covered - but we're thin on the ground. Is any further support available?</Original>
               <Chinese>我們已經準備好了-村莊正在我們的保護之下-但我們的人數過於稀少。有任何可以使用的支援嗎?</Chinese>
-              <Chinesesimp>我们已经准备好了-村庄正在我们的保护之下-但我们的人数过于稀少。有任何可以使用的支援吗?</Chinesesimp>
+              <Chinesesimp>我们已经准备好了 — 村庄正在我们的保护之下 — 但我们的人数过于稀少。有任何可以使用的支援吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="23_Girna_Advice" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="23_Girna_Advice" dubbingLanguage="english" namePrefix="showcase_commanding_i_23_girna_advice" note="" participants="PB B Bravo Lead;" situation="the player gives advice to his team about what to do">
@@ -2567,12 +2567,12 @@
             <Key ID="str_a3_showcase_commanding_i_23_girna_advice_bra_1">
               <Original>The hill to the south is an ideal spot for overwatch: plenty of concealment and hard cover.</Original>
               <Chinese>前面那座小山坡很適合當作觀察點:而且有著一些不錯的掩護。</Chinese>
-              <Chinesesimp>前面那座小山坡很适合当作观察点:而且有着一些不错的掩护。</Chinesesimp>
+              <Chinesesimp>前面那座小山坡很适合当作观察点：而且有着一些不错的掩护。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_commanding_i_23_girna_advice_bra_2">
               <Original>We'll draw them in, then give 'em hell. Questions? ... Good. Let's go.</Original>
               <Chinese>我們會守住，然後把他們打回地獄。有問題嗎?...非常好。我們走吧。</Chinese>
-              <Chinesesimp>我们会守住，然后给他们好看。有问题吗?...非常好。我们走吧。</Chinesesimp>
+              <Chinesesimp>我们会守住，然后给他们好看。有问题吗？...非常好。我们走吧。</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_Girna" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="20_Girna" dubbingLanguage="english" namePrefix="showcase_commanding_i_20_girna" note="" participants="PB B Bravo Lead;PB B HQ;" situation="rendezvous with remains of foxtrot squad in girna">
@@ -2606,7 +2606,7 @@
             <Key ID="str_a3_showcase_commanding_i_15_situation_haw_1">
               <Original>Two squads, around ... twenty or so in total - split into an advanced element and a main force, over.</Original>
               <Chinese>兩支小隊，人數大概...二十人左右-為大部隊的前鋒隊伍，完畢。</Chinese>
-              <Chinesesimp>两个班，人数大概...二十人左右-分为尖刀分队和主力，完毕。</Chinesesimp>
+              <Chinesesimp>两个班，人数大概...二十人左右 — 分为尖刀分队和主力，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="13_En_Route" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="13_En_Route" dubbingLanguage="english" namePrefix="showcase_commanding_i_13_en_route" note="" participants="PB B Bravo Lead;PB B HQ;" situation="player reporting to hq, than speaking to his subordinates">
@@ -2618,7 +2618,7 @@
             <Key ID="str_a3_showcase_commanding_i_13_en_route_bra_0">
               <Original>Papa Bear, this is Bravo: I've linked up with my squad and we're en route to the the village now, over.</Original>
               <Chinese>Papa Bear，這裡是Bravo:我已經與我的小隊會合，我們已經在前往村莊的路上了，完畢。</Chinese>
-              <Chinesesimp>Papa Bear，这里是 Bravo:我已经与我的小队会合，我们已经在前往村庄的路上了，完毕。</Chinesesimp>
+              <Chinesesimp>Papa Bear，这里是 Bravo：我已经与我的小队会合，我们已经在前往村庄的路上了，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_Beach" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="10_Beach" dubbingLanguage="english" namePrefix="showcase_commanding_i_10_beach" note="" participants="PB B Bravo Lead;" situation="player reporting to hq, than speaking to his subordinates">
@@ -2670,13 +2670,13 @@
           <Key ID="str_a3_showcase_commanding_i_titlecard">
             <Original>SHOWCASE: COMMANDING - Basic Squad Command, Town Defense, Refined Radio Chatter</Original>
             <Chinese>任務展示:指揮-基礎小隊指揮，防禦城鎮，進步的無線電對答</Chinese>
-            <Chinesesimp>任务展示:指挥-基础小队指挥，防御城镇，进步的无线电对答</Chinesesimp>
+            <Chinesesimp>任务展示：指挥 — 基础小队指挥，防御城镇，进步的无线电对答</Chinesesimp>
           </Key>
           <Container name="45_Away" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="45_Away" dubbingLanguage="english" namePrefix="showcase_commanding_i_45_away" note="" participants="PB B Bravo Lead;" situation="player outside of ao">
             <Key ID="str_a3_showcase_commanding_i_45_away_bra_0">
               <Original>Where the hell am I? I should take a look at the map...</Original>
               <Chinese>我在哪裡阿?我應該看一下地圖...</Chinese>
-              <Chinesesimp>我在哪里啊?我应该看一下地图...</Chinesesimp>
+              <Chinesesimp>我在哪里啊？我应该看一下地图...</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -2809,20 +2809,20 @@
           <Key ID="str_a3_showcase_combined_arms2_titlecard">
             <Original>SHOWCASE: COMBINED ARMS I. - Close Air Support, Armored Vehicles, Anti-tank Weapons</Original>
             <Chinese>任務展示:聯合作戰I。-密接空中支援，武裝載具，反坦克武器</Chinese>
-            <Chinesesimp>任务展示:联合作战I。-近距离空中支援，武装载具，反坦克武器</Chinesesimp>
+            <Chinesesimp>任务展示：联合作战I。-近距离空中支援，武装载具，反坦克武器</Chinesesimp>
           </Key>
           <Container name="01_Ready_up" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="01_Ready_up" dubbingLanguage="english" namePrefix="showcase_combined_arms_01_ready_up" note="" participants="PB B Golf Two;" situation="insertion chopper pilot lets troops know that they are approaching the lz and should be ready to leave the chopper">
             <Key ID="str_a3_showcase_combined_arms_01_ready_up_got_0">
               <Original>60 Seconds!</Original>
               <Chinese>60秒!</Chinese>
-              <Chinesesimp>60秒!</Chinesesimp>
+              <Chinesesimp>60秒！</Chinesesimp>
             </Key>
           </Container>
           <Container name="x05_ImpossibleTask" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="x05_ImpossibleTask" dubbingLanguage="english" namePrefix="showcase_combined_arms_x05_impossibletask" note="" participants="PB B HQ;" situation="the objective can't be met for some reason, e.g., no way to defeat apcs, etc">
             <Key ID="str_a3_showcase_combined_arms_x05_impossibletask_bhq_0">
               <Original>All teams, fall back - I say again - fall back!</Original>
               <Chinese>所有小隊，撤退-我再說一遍-撤退!</Chinese>
-              <Chinesesimp>各组都有，撤退-我再说一遍-撤退!</Chinesesimp>
+              <Chinesesimp>各组都有，撤退 — 我再说一遍 — 撤退！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_combined_arms_x05_impossibletask_bhq_1">
               <Original>Link up with reinforcements at Point Gamma and await further orders. Out.</Original>
@@ -2834,7 +2834,7 @@
             <Key ID="str_a3_showcase_combined_arms_x01_extraction_leaves_got_0">
               <Original>Bravo, this is Golf-2, we can't stay here any longer. You're on your own! Out.</Original>
               <Chinese>Bravo，這裡是"Golf-2"，我們不能再待在這裡。你們只能靠自己了!通話完畢。</Chinese>
-              <Chinesesimp>Bravo，这里是 Golf-2"，我们不能再待在这里。你们只能靠自己了!通话完毕。</Chinesesimp>
+              <Chinesesimp>Bravo，这里是 Golf-2"，我们不能再待在这里。你们只能靠自己了！通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_Reinforcements_Eliminated" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="40_Reinforcements_Eliminated" dubbingLanguage="english" namePrefix="showcase_combined_arms_40_reinforcements_eliminated" note="" participants="PB B HQ;" situation="hq informs alpha about extraction">
@@ -2896,12 +2896,12 @@
             <Key ID="str_a3_showcase_combined_arms_15_insertion_complete_goo_0">
               <Original>Golf-1, boots on the ground!</Original>
               <Chinese>"Golf-1"，部隊已在地面上了!</Chinese>
-              <Chinesesimp>Golf-1，部队已在地面上了!</Chinesesimp>
+              <Chinesesimp>Golf-1，部队已在地面上了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_combined_arms_15_insertion_complete_got_0">
               <Original>Golf-2, troops on the deck! Going into holding pattern.</Original>
               <Chinese>"Golf-2"，部隊都已經下來了!前往等待地點。</Chinese>
-              <Chinesesimp>Golf-2，部队都已经下来了!前往等待地点。</Chinesesimp>
+              <Chinesesimp>Golf-2，部队都已经下来了！前往等待地点。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_Ambient_Chatter_2" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="10_Ambient_Chatter_2" dubbingLanguage="english" namePrefix="showcase_combined_arms_10_ambient_chatter_2" note="" participants="PB B Wisky Six;PB B HQ;" situation="ambient chatter from whisky-6 (cas)">
@@ -2930,7 +2930,7 @@
             <Key ID="str_a3_showcase_combined_arms_05_ambient_chatter_1_bhq_1">
               <Original>Echo Lead, birds are inbound! What's your status, over?</Original>
               <Chinese>Echo隊長，直升機正在進入中!你們的狀況如何，完畢?</Chinese>
-              <Chinesesimp>Echo 领队，直升机正在进入中!你们的状况如何，完毕?</Chinesesimp>
+              <Chinesesimp>Echo 领队，直升机正在进入中！你们的状况如何，完毕？</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_combined_arms_05_ambient_chatter_1_got_0">
               <Original>Papa Bear, Golf-2, approaching objective, over.</Original>
@@ -2945,7 +2945,7 @@
             <Key ID="str_a3_showcase_combined_arms_05_ambient_chatter_1_ech_0">
               <Original>This is Echo, town is secure. Rolling to staging area. Multiple contacts reported. ETA ... 2 mikes!</Original>
               <Chinese>這裡是Echo，小鎮已肅清。正前往等候區。已有多起衝突回報。預計抵達時間....2分鐘!</Chinese>
-              <Chinesesimp>这里是 Echo，小镇已肃清。正前往等候区。已有多起冲突回报。预计抵达时间....2分钟!</Chinesesimp>
+              <Chinesesimp>这里是 Echo，小镇已肃清。正前往等候区。已有多起冲突回报。预计抵达时间....2分钟！</Chinesesimp>
             </Key>
           </Container>
           <Key ID="str_a3_showcase_combined_arms1_mission_name">
@@ -2956,7 +2956,7 @@
           <Key ID="str_a3_showcase_combined_arms1_titlecard">
             <Original>SHOWCASE: COMBINED ARMS - Close Air Support, Armored Vehicles, Anti-tank Weapons</Original>
             <Chinese>任務展示:聯合作戰-密接空中支援，武裝載具，反坦克武器</Chinese>
-            <Chinesesimp>任务展示:合成作战-近距离空中支援，装甲车辆，反坦克武器</Chinesesimp>
+            <Chinesesimp>任务展示：合成作战 — 近距离空中支援，装甲车辆，反坦克武器</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_combined_arms_bis_retreat_desc">
             <Original>Assess the situation and retreat to Point Gamma if the enemy counterattack has overwhelmed your position</Original>
@@ -2981,7 +2981,7 @@
           <Key ID="str_a3_showcase_combined_arms_debriefing_end5">
             <Original>Friendly fire will not be tolerated!</Original>
             <Chinese>友軍傷害是不被允許的!</Chinese>
-            <Chinesesimp>友军伤害是不被允许的!</Chinesesimp>
+            <Chinesesimp>友军伤害是不被允许的！</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_combined_arms_debriefing_end6">
             <Original>You seized the compound yet were unable to hold and defend your position against the enemy counterattack. Regrouping with our forces at least gives you the chance to fight another day.</Original>

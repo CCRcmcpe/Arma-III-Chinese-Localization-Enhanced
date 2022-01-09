@@ -150,7 +150,7 @@
       <Key ID="str_a3_combatpatrol_mission_8">
         <Original>- Infiltrate the marked AO and sweep it.&lt;br/&gt;- Search for the Emergency Descent Module.&lt;br/&gt;- Once the EDM is found, retrieve its data using the standard terminal.&lt;br/&gt;- Move to the designated Exfiltration point.&lt;br/&gt;- In the event of too many team casualties, mission will be cancelled and team ordered to exfiltrate.</Original>
         <Chinese>-滲透並掃蕩任務區。&lt;br/&gt;-找到緊急下降艙。&lt;br/&gt;-當找到緊急下降艙後，使用終端機來回收其中的資料。&lt;br/&gt;-前往指定的撤離地點。&lt;br/&gt;-假如在任務中有過多的傷亡，任務會自動取消並命令小隊前往撤離點。</Chinese>
-        <Chinesesimp>-渗透并扫荡任务区。&lt;br/&gt;-找到紧急下降舱。&lt;br/&gt;-当找到紧急下降舱后，使用终端机来回收其中的资料。&lt;br/&gt;-前往指定的撤离地点。&lt;br/&gt;-假如在任务中有过多的伤亡，任务会自动取消并命令小队前往撤离点。</Chinesesimp>
+        <Chinesesimp>-渗透并扫荡任务区。&lt;br/&gt;-找到紧急下降舱。&lt;br/&gt;-当找到紧急下降舱后，使用终端来回收其中的资料。&lt;br/&gt;-前往指定的撤离地点。&lt;br/&gt;-假如在任务中有过多的伤亡，任务会自动取消并命令小队前往撤离点。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_79">
         <Original>Drive the MRAP vehicle to a designated vehicle delivery position outside the AO.</Original>
@@ -180,27 +180,27 @@
       <Key ID="str_a3_combatpatrol_mission_74">
         <Original>Find Terminal 3 and download the intel.</Original>
         <Chinese>找到3號終端機並下載情報。</Chinese>
-        <Chinesesimp>找到3号终端机并下载情报。</Chinesesimp>
+        <Chinesesimp>找到3号终端并下载情报。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_73">
         <Original>Download Intel from Terminal 3</Original>
         <Chinese>從3號終端機上下載情報</Chinese>
-        <Chinesesimp>从3号终端机上下载情报</Chinesesimp>
+        <Chinesesimp>从3号终端上下载情报</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_72">
         <Original>Find Terminal 2, download intel and uncover the location of Terminal 3.</Original>
         <Chinese>找到2號終端機，下載情報並定位出3號終端機的位置。</Chinese>
-        <Chinesesimp>找到2号终端机，下载情报并定位出3号终端机的位置。</Chinesesimp>
+        <Chinesesimp>找到2号终端，下载情报并定位出3号终端的位置。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_71">
         <Original>Download Intel from Terminal 2</Original>
         <Chinese>從2號終端機上下載情報</Chinese>
-        <Chinesesimp>从2号终端机上下载情报</Chinesesimp>
+        <Chinesesimp>从2号终端上下载情报</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_70">
         <Original>Find Terminal 1, download intel and uncover the location of Terminal 2.</Original>
         <Chinese>找到1號終端機，下載情報並定位出2號終端機的位置。</Chinese>
-        <Chinesesimp>找到1号终端机，下载情报并定位出2号终端机的位置。</Chinesesimp>
+        <Chinesesimp>找到1号终端，下载情报并定位出2号终端的位置。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_7">
         <Original>Support</Original>
@@ -210,12 +210,12 @@
       <Key ID="str_a3_combatpatrol_mission_69">
         <Original>Download Intel from Terminal 1</Original>
         <Chinese>從1號終端機上下載情報</Chinese>
-        <Chinesesimp>从1号终端机上下载情报</Chinesesimp>
+        <Chinesesimp>从1号终端上下载情报</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_68">
         <Original>Search the AO for the three SIGINT arrays and download any intel available.</Original>
         <Chinese>搜索任務區中的三個訊號終端機，並從上面下載情報。</Chinese>
-        <Chinesesimp>搜索任务区中的三个信号终端机，并从上面下载情报。</Chinesesimp>
+        <Chinesesimp>搜索任务区中的三个信号终端，并从上面下载情报。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_67">
         <Original>Find and kill the high-ranking enemy officer before he leaves the AO.</Original>
@@ -295,7 +295,7 @@
       <Key ID="str_a3_combatpatrol_mission_53">
         <Original>- Terminals will need to be accessed in a certain order to acquire the complete intel sequence.&lt;br/&gt;- Search for Terminal 1, download the intel and retrieve the location of Terminal 2.&lt;br/&gt;- Move to Terminal 2, download the intel and retrieve the location of Terminal 3.&lt;br/&gt;- Move to Terminal 3 and download the intel.</Original>
         <Chinese>-終端機必須以特定的順序進行訪問才能取得完整的情報內容。&lt;br/&gt;-搜索1號終端機，下載情報並定位出2號終端機的位置。&lt;br/&gt;-前往2號終端機，下載情報並定位出3號終端機的位置。&lt;br/&gt;-前往3號終端機並下載情報。</Chinese>
-        <Chinesesimp>-终端机必须以特定的顺序进行访问才能取得完整的情报内容。&lt;br/&gt;-搜索1号终端机，下载情报并定位出2号终端机的位置。&lt;br/&gt;-前往2号终端机，下载情报并定位出3号终端机的位置。&lt;br/&gt;-前往3号终端机并下载情报。</Chinesesimp>
+        <Chinesesimp>-终端必须以特定的顺序进行访问才能取得完整的情报内容。&lt;br/&gt;-搜索1号终端，下载情报并定位出2号终端的位置。&lt;br/&gt;-前往2号终端，下载情报并定位出3号终端的位置。&lt;br/&gt;-前往3号终端并下载情报。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_52">
         <Original>A high-ranking enemy officer and his personal security detail are scheduled to make an appearance at the designated location, not far from our frontlines.&lt;br/&gt;&lt;br/&gt;He is expected to make a %1 minute inspection of a platoon-sized, OPFOR infantry element, then leave in an MRAP vehicle. Due to the close proximity of the combat zone, OPFOR reinforcements may arrive in five minutes. Such a counterattack could include airborne, motorized, or even mechanized forces.</Original>
@@ -360,7 +360,7 @@
       <Key ID="str_a3_combatpatrol_mission_41">
         <Original>- Team members are CLS-capable and may revive others.&lt;br/&gt;- Team Leader may deploy a Mk 1 Designated Regroup Point Tent as an alternative respawn point.&lt;br/&gt;- Organic UAV Operator and Medic roles are available.</Original>
         <Chinese>-小隊成員有受過戰鬥急救員的訓練，使其能夠復甦倒地的傷兵。&lt;br/&gt;-小隊長能夠放出一座Mk1型指定集合點帳篷被作為另一個重生點使用。&lt;br/&gt;-另有無人載具操作員與醫護兵等職位可供選擇。</Chinese>
-        <Chinesesimp>-小队成员有受过战斗急救员的训练，使其能够复苏倒地的伤兵。&lt;br/&gt;-小队长能够放出一座 Mk1型指定集合点帐篷被作为另一个重生点使用。&lt;br/&gt;-另有无人载具操作员与卫生兵等职位可供选择。</Chinesesimp>
+        <Chinesesimp>-小队成员有受过战斗急救员的训练，使其能够复苏倒地的伤兵。&lt;br/&gt;-小队长能够放出一座 Mk1型指定集合点帐篷被作为另一个重生点使用。&lt;br/&gt;-另有无人机操作员与卫生兵等职位可供选择。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_40">
         <Original>Location #%1</Original>
@@ -380,7 +380,7 @@
       <Key ID="str_a3_combatpatrol_mission_38">
         <Original>Location selected:</Original>
         <Chinese>選擇的地點:</Chinese>
-        <Chinesesimp>选择的地点:</Chinesesimp>
+        <Chinesesimp>选择的地点：</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_37">
         <Original>Mission starts in</Original>
@@ -405,22 +405,22 @@
       <Key ID="str_a3_combatpatrol_mission_33">
         <Original>Retrieve Data from Terminal #3</Original>
         <Chinese>從#3號終端機取得資料</Chinese>
-        <Chinesesimp>从#3号终端机取得资料</Chinesesimp>
+        <Chinesesimp>从#3号终端取得资料</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_32">
         <Original>Find terminal #3 and download its data.</Original>
         <Chinese>找到#3號終端機並下載資料。</Chinese>
-        <Chinesesimp>找到#3号终端机并下载资料。</Chinesesimp>
+        <Chinesesimp>找到#3号终端并下载资料。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_31">
         <Original>Retrieve Data from Terminal #2</Original>
         <Chinese>從#2號終端機取得資料</Chinese>
-        <Chinesesimp>从#2号终端机取得资料</Chinesesimp>
+        <Chinesesimp>从#2号终端取得资料</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_30">
         <Original>Find terminal #2 and download its data.</Original>
         <Chinese>找到#2號終端機並下載資料。</Chinese>
-        <Chinesesimp>找到#2号终端机并下载资料。</Chinesesimp>
+        <Chinesesimp>找到#2号终端并下载资料。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_3">
         <Original>- All team members are CLS-capable and can revive other team members.</Original>
@@ -430,17 +430,17 @@
       <Key ID="str_a3_combatpatrol_mission_29">
         <Original>Retrieve Data from Terminal #1</Original>
         <Chinese>從#1號終端機取得資料</Chinese>
-        <Chinesesimp>从#1号终端机取得资料</Chinesesimp>
+        <Chinesesimp>从#1号终端取得资料</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_28">
         <Original>Find terminal #1 and download its data.</Original>
         <Chinese>找到#1號終端機並下載資料。</Chinese>
-        <Chinesesimp>找到#1号终端机并下载资料。</Chinesesimp>
+        <Chinesesimp>找到#1号终端并下载资料。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_27">
         <Original>Make your way through the AO and download data from three marked data terminals using the standard terminal.</Original>
         <Chinese>用你的辦法穿過任務區，找到3處終端機並下載資料。</Chinese>
-        <Chinesesimp>用你的办法穿过任务区，找到3处终端机并下载资料。</Chinesesimp>
+        <Chinesesimp>用你的办法穿过任务区，找到3处终端并下载资料。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_26">
         <Original>Retrieve data from EDM</Original>
@@ -455,7 +455,7 @@
       <Key ID="str_a3_combatpatrol_mission_24">
         <Original>Search the AO for the ARGO Emergency Descent Module and retrieve its data using the standard terminal.</Original>
         <Chinese>搜索任務區中的ARGO緊急下降艙，並使用終端機下載其中的資料。</Chinese>
-        <Chinesesimp>搜索任务区中的 ARGO 紧急下降舱，并使用终端机下载其中的资料。</Chinesesimp>
+        <Chinesesimp>搜索任务区中的 ARGO 紧急下降舱，并使用终端下载其中的资料。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_23">
         <Original>Sabotage the 2nd Vehicle</Original>
@@ -465,7 +465,7 @@
       <Key ID="str_a3_combatpatrol_mission_22">
         <Original>Find the second supply vehicle and sabotage it.</Original>
         <Chinese>找到第2輛補給載具並摧毀之。</Chinese>
-        <Chinesesimp>找到第2辆补给载具并摧毁之。</Chinesesimp>
+        <Chinesesimp>找到第二辆补给载具并摧毁之。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_21">
         <Original>Sabotage the 1st Vehicle</Original>
@@ -475,12 +475,12 @@
       <Key ID="str_a3_combatpatrol_mission_20">
         <Original>Find the first supply vehicle and sabotage it.</Original>
         <Chinese>找到第1輛補給載具並摧毀之。</Chinese>
-        <Chinesesimp>找到第1辆补给载具并摧毁之。</Chinesesimp>
+        <Chinesesimp>找到第一辆补给载具并摧毁之。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_2">
         <Original>Select the area of operations, move in, do the job, exfiltrate!</Original>
         <Chinese>選擇作戰地點，進入，幹活並撤離!</Chinese>
-        <Chinesesimp>选择作战地点，进入，干活并撤离!</Chinesesimp>
+        <Chinesesimp>选择作战地点，进入，干活并撤离！</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_1d">
         <Original>COOP 12 Combat Patrol</Original>
@@ -530,17 +530,17 @@
       <Key ID="str_a3_combatpatrol_mission_13">
         <Original>Three data terminals are located in mission area. Find them and download data from them in given order. AO is guarded by a Platoon-sized FLAME paramilitary element. Further motorized reinforcements are expected within the 5-minutes radius from the AO.</Original>
         <Chinese>有三處資料終端機被定位在任務區中。找到他們並使用指定的順序來下載資料。任務區被一支排級大小的FLAME準軍事部隊所把守著。預計他們還有摩托化的援軍在離任務區5分鐘路程以內的地方待命著。</Chinese>
-        <Chinesesimp>有三处资料终端机被定位在任务区中。找到他们并使用指定的顺序来下载资料。任务区被一支排级大小的 FLAME 准军事部队所把守着。预计他们还有摩托化的援军在离任务区5分钟路程以内的地方待命着。</Chinesesimp>
+        <Chinesesimp>有三处资料终端被定位在任务区中。找到他们并使用指定的顺序来下载资料。任务区被一支排级大小的 FLAME 准军事部队所把守着。预计他们还有摩托化的援军在离任务区5分钟路程以内的地方待命着。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_12">
         <Original>Conduct combat patrol in the AO to search and retrieve data from data terminals.</Original>
         <Chinese>執行戰鬥巡邏任務並從找到的終端機中下載資料。</Chinese>
-        <Chinesesimp>执行战斗巡逻任务并从找到的终端机中下载资料。</Chinesesimp>
+        <Chinesesimp>执行战斗巡逻任务并从找到的终端中下载资料。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_11">
         <Original>- Infiltrate the marked AO and sweep it.&lt;br/&gt;- Reach terminals in given order.&lt;br/&gt;- Download data from terminals.&lt;br/&gt;- Move to the designated Exfiltration point.&lt;br/&gt;- In the event of too many team casualties, mission will be cancelled and team ordered to exfiltrate.</Original>
         <Chinese>-滲透並掃蕩任務區。&lt;br/&gt;-以指定的順序訪問各終端機。&lt;br/&gt;-從終端機上下載資料。&lt;br/&gt;-前往指定的撤離點。&lt;br/&gt;-在發生有過多人員傷亡的情況下，任務會自動取消並命令小隊前往撤離點。</Chinese>
-        <Chinesesimp>-渗透并扫荡任务区。&lt;br/&gt;-以指定的顺序访问各终端机。&lt;br/&gt;-从终端机上下载资料。&lt;br/&gt;-前往指定的撤离点。&lt;br/&gt;-在发生有过多人员伤亡的情况下，任务会自动取消并命令小队前往撤离点。</Chinesesimp>
+        <Chinesesimp>-渗透并扫荡任务区。&lt;br/&gt;-以指定的顺序访问各终端。&lt;br/&gt;-从终端上下载资料。&lt;br/&gt;-前往指定的撤离点。&lt;br/&gt;-在发生有过多人员伤亡的情况下，任务会自动取消并命令小队前往撤离点。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_10">
         <Original>ARGO Emergency Descent Module belonging to the Cloud Corp. has landed in the area. AO is guarded by a Platoon-sized FLAME paramilitary element. Further motorized reinforcements are expected within the 5-minutes radius from the AO.</Original>
@@ -595,7 +595,7 @@
       <Key ID="str_a3_combatpatrol_debriefing_1_subtitle">
         <Original>Flawless execution of the tasks, great work!</Original>
         <Chinese>已完成全部目標，幹的好!</Chinese>
-        <Chinesesimp>已完成全部目标，干的好!</Chinesesimp>
+        <Chinesesimp>已完成全部目标，干的好！</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_location_1">
         <Original>New Le Port</Original>
@@ -652,7 +652,7 @@
       <Key ID="str_a3_escapefrommalden_end01desc">
         <Original>Against all odds, you managed to escape from Malden. Great work!</Original>
         <Chinese>儘管困難重重，你們仍設法逃離了馬爾登島。幹的好!</Chinese>
-        <Chinesesimp>尽管困难重重，你们仍设法逃离了马尔登岛。干的好!</Chinesesimp>
+        <Chinesesimp>尽管困难重重，你们仍设法逃离了马尔登岛。干的好！</Chinesesimp>
       </Key>
     </Container>
     <Container name="ZGM">

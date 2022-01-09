@@ -150,7 +150,7 @@
       <Key ID="str_a3_orange_cfgmods_medicalobjects_description">
         <Original>Place decorative objects to build impressive medical scenes, including: body bags, stretchers, IV bags, disposed garbage, and more.</Original>
         <Chinese>布設這些裝飾性物體營造使人印象深刻的醫療環境，包括:裝屍袋，擔架，血袋，被丟棄的垃圾等等。</Chinese>
-        <Chinesesimp>布设这些装饰性物体营造使人印象深刻的医疗环境，包括:装尸袋，担架，血袋，被丢弃的垃圾等等。</Chinesesimp>
+        <Chinesesimp>布设这些装饰性物体营造使人印象深刻的医疗环境，包括：装尸袋，担架，血袋，被丢弃的垃圾等等。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_loac_displayname">
         <Original>Laws of Armed Conflict</Original>
@@ -235,7 +235,7 @@
       <Key ID="str_a3_orange_cfgmods_humanitarianaidobjects_description">
         <Original>A large collection of humanitarian aid objects can be used in scenarios, including: cardboard boxes, food sacks, water bottle packages, emergency blankets, and more.</Original>
         <Chinese>很多人道主義援助物體可以被用於劇本之中，這包括:硬紙盒、食品包、瓶裝水包、緊急救生毯等等。</Chinese>
-        <Chinesesimp>很多人道主义援助物体可以被用于剧本之中，这包括:硬纸盒、食品包、瓶装水包、紧急救生毯等等。</Chinesesimp>
+        <Chinesesimp>很多人道主义援助物体可以被用于剧本之中，这包括：硬纸盒、食品包、瓶装水包、紧急救生毯等等。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_headbandage_displayname">
         <Original>Head Bandage</Original>
@@ -492,7 +492,7 @@
       <Key ID="str_a3_cfgunitinsignia_aaf_3rdregiment">
         <Original>AAF 3rd Support Regiment</Original>
         <Chinese>阿爾蒂斯武裝力量第3支援團</Chinese>
-        <Chinesesimp>AAF 第3支援团</Chinesesimp>
+        <Chinesesimp>AAF 第三支援团</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfguicolors_subtitles_yellowbackground">
         <Original>Yellow with Background</Original>
@@ -581,12 +581,12 @@
         <Key ID="str_a3_orange_cfgleaflets_generic">
           <Original>Civilians, YOU ARE NOT SAFE HERE!&lt;br /&gt;&lt;br /&gt;Military operations are putting you&lt;br /&gt;in DANGER: EVACUATE and AVOID&lt;br /&gt;areas occupied by ARMED FORCES!</Original>
           <Chinese>平民們，你們在這兒不安全!&lt;br/&gt;&lt;br/&gt;軍事行動讓你處於&lt;br/&gt;危險之中:撤離該地並遠離&lt;br/&gt;被武裝力量控制的地域!</Chinese>
-          <Chinesesimp>平民们，你们在这儿不安全!&lt;br/&gt;&lt;br/&gt;军事行动让你处于&lt;br/&gt;危险之中:撤离该地并远离&lt;br/&gt;被武装力量控制的地域!</Chinesesimp>
+          <Chinesesimp>平民们，你们在这儿不安全！&lt;br/&gt;&lt;br/&gt;军事行动让你处于&lt;br/&gt;危险之中：撤离该地并远离&lt;br/&gt;被武装力量控制的地域！</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_cfgleaflets_aaf_special">
           <Original>There is STILL TIME to SURRENDER!&lt;br /&gt;CEASE RESISTANCE. Further acts of&lt;br /&gt;AGGRESSION against ALTIS ARMED&lt;br /&gt;FORCES will be the DEATH OF YOU!</Original>
           <Chinese>現在投降還來得及!&lt;br/&gt;停止抵抗。針對阿爾蒂斯武裝力量&lt;br/&gt;&lt;br/&gt;的任何反抗行為的下場都只有滅亡!</Chinese>
-          <Chinesesimp>现在投降还来得及!&lt;br/&gt;停止抵抗。针对 AAF&lt;br/&gt;&lt;br/&gt;的任何反抗行为的下场都只有灭亡!</Chinesesimp>
+          <Chinesesimp>现在投降还来得及！&lt;br/&gt;停止抵抗。针对 AAF&lt;br/&gt;&lt;br/&gt;的任何反抗行为的下场都只有灭亡！</Chinesesimp>
         </Key>
       </Container>
       <Key ID="str_a3_rscmsgboxkeyspresetcustominfopanel_text">
@@ -987,7 +987,7 @@
         <Key ID="str_a3_cfgmagazines_trainingmine_mag_library0">
           <Original>This dummy training mine is used to train and demonstrate usage of mines in a non-lethal manner. It uses a small flag and pyrotechnic charge to indicate activation. Even though this device is safe to use in most settings, it is not a toy and should be handled with care!</Original>
           <Chinese>這種模型訓練地雷被用於訓練和以非致命方式演示地雷的用途。該地雷用小旗子和發煙裝藥指示啟動。儘管這種裝置在大多數情況下都是安全的，但它也不是玩具，需要小心處理!</Chinese>
-          <Chinesesimp>这种模型训练地雷被用于训练和以非致命方式演示地雷的用途。该地雷用小旗子和发烟装药指示启动。尽管这种装置在大多数情况下都是安全的，但它也不是玩具，需要小心处理!</Chinesesimp>
+          <Chinesesimp>这种模型训练地雷被用于训练和以非致命方式演示地雷的用途。该地雷用小旗子和发烟装药指示启动。尽管这种装置在大多数情况下都是安全的，但它也不是玩具，需要小心处理！</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_01_uxo_f0">
           <Original>UXO [NATO]</Original>
@@ -1999,7 +1999,7 @@
           <Key ID="str_a3_cfgvehicles_signad_sponsors_01_idap_f0">
             <Original>Sign (IDAP - Small)</Original>
             <Chinese>標誌(國發援-小)</Chinese>
-            <Chinesesimp>标志（国发援-小）</Chinesesimp>
+            <Chinesesimp>标志（国发援 — 小）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_signad_sponsor_idap_f0">
             <Original>Sign (IDAP)</Original>
@@ -3356,7 +3356,7 @@
       <Key ID="str_a3_orange_cfghints_vehiclerearm_tip">
         <Original>The rearm and refuel processes are automated, but may take some time - don't move away from the source!</Original>
         <Chinese>重新裝彈和補充燃料是自動的，但需要一些時間——別遠離補給源!</Chinese>
-        <Chinesesimp>重新装弹和补充燃料是自动的，但需要一些时间——别远离补给源!</Chinesesimp>
+        <Chinesesimp>重新装弹和补充燃料是自动的，但需要一些时间——别远离补给源！</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_vehiclerearm_description">
         <Original>Vehicles are &lt;t %5&gt;rearmed&lt;/t&gt; or &lt;t %5&gt;refueled&lt;/t&gt; anytime they happen to be in the vicinity of a &lt;t %5&gt;fuel truck&lt;/t&gt; or &lt;t %5&gt;repair truck&lt;/t&gt;. Similar static objects, such as vehicle ammo containers or fuel pods, may also offer this service.</Original>
@@ -3395,13 +3395,13 @@
       </Key>
       <Key ID="str_a3_orange_cfghints_targetingcamera_description">
         <Original>Some aircraft are equipped with high-magnification cameras with day, night and thermal modes.%1&lt;t&gt;&lt;/t&gt;1. Use %11 to switch to and from the targeting pod.%1&lt;t&gt;&lt;/t&gt;2. To stabilize the camera on an area press %12.%1&lt;t&gt;&lt;/t&gt;3. To re-center the camera to boresight or a marked target press %13.</Original>
-        <Chinese>一些飛機裝有高分辨率的白光、夜間和熱成像攝像機。%1&lt;t&gt;&lt;/t&gt;1。使用%11以切換到或切換出尋的吊艙。%1&lt;t&gt;&lt;/t&gt;2。要固定攝像機視野按%12。%1&lt;t&gt;&lt;/t&gt;3。要將攝像機視野居中到瞄準點或被標記的目標，按%13。</Chinese>
-        <Chinesesimp>一些飞机装有高分辨率的白光、夜间和热成像摄像机。%1&lt;t&gt;&lt;/t&gt;1。使用%11以切换到或切换出寻的吊舱。%1&lt;t&gt;&lt;/t&gt;2。要固定摄像机视野按%12。%1&lt;t&gt;&lt;/t&gt;3。要将摄像机视野居中到瞄准点或被标记的目标，按%13。</Chinesesimp>
+        <Chinese>一些飛機裝有高分辨率的白光、夜間和熱成像攝像機。%1&lt;t&gt;&lt;/t&gt;1.使用%11以切換到或切換出尋的吊艙。%1&lt;t&gt;&lt;/t&gt;2.要固定攝像機視野按%12。%1&lt;t&gt;&lt;/t&gt;3.要將攝像機視野居中到瞄準點或被標記的目標，按%13。</Chinese>
+        <Chinesesimp>一些飞机装有高分辨率的白光、夜间和热成像摄像机。%1&lt;t&gt;&lt;/t&gt;1.使用%11以切换到或切换出寻的吊舱。%1&lt;t&gt;&lt;/t&gt;2.要固定摄像机视野按%12。%1&lt;t&gt;&lt;/t&gt;3.要将摄像机视野居中到瞄准点或被标记的目标，按%13。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_renegade_tip">
         <Original>Carefully identify your targets. Be aware of crossfire, projectile ricochets or penetrations, and indirect area of effect explosives!</Original>
         <Chinese>小心識別你的目標。小心交叉火力，跳彈和過穿透彈，以及爆炸所波及的非直接區域!</Chinese>
-        <Chinesesimp>小心识别你的目标。小心交叉火力，跳弹和过穿透弹，以及爆炸所波及的非直接区域!</Chinesesimp>
+        <Chinesesimp>小心识别你的目标。小心交叉火力，跳弹和过穿透弹，以及爆炸所波及的非直接区域！</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_renegade_displayname">
         <Original>Renegade</Original>
@@ -3411,7 +3411,7 @@
       <Key ID="str_a3_orange_cfghints_renegade_description">
         <Original>Killing or destroying &lt;t %5&gt;unlawful targets&lt;/t&gt; will have serious consequences. Repeatedly doing so will brand you an &lt;t %5&gt;enemy to everyone&lt;/t&gt;. %11%1%1Unlawful targets include:%1%2 Civilians%1%2 Members of your faction%1%2 Members of allied factions</Original>
         <Chinese>殺死或摧毀&lt;t%5&gt;非法定允許目標&lt;/t&gt;將帶來嚴重後果。重複此類行為將使你成為&lt;t%5&gt;全體公敵&lt;/t&gt;。%11%1%1非法定允許目標包括:%1%2平民%1%2你的友軍%1%2你的盟軍</Chinese>
-        <Chinesesimp>杀死或摧毁&lt;t%5&gt;非法定允许目标&lt;/t&gt;将带来严重后果。重复此类行为将使你成为&lt;t%5&gt;全体公敌&lt;/t&gt;。%11%1%1非法定允许目标包括:%1%2平民%1%2你的友军%1%2你的盟军</Chinesesimp>
+        <Chinesesimp>杀死或摧毁&lt;t%5&gt;非法定允许目标&lt;/t&gt;将带来严重后果。重复此类行为将使你成为&lt;t%5&gt;全体公敌&lt;/t&gt;。%11%1%1非法定允许目标包括：%1%2平民%1%2你的友军%1%2你的盟军</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_renegade_arg11">
         <Original>Group leadership will be taken away from you, and even your own faction will use &lt;t %5&gt;lethal force&lt;/t&gt; to stop you.</Original>
@@ -3421,12 +3421,12 @@
       <Key ID="str_a3_orange_cfghints_premiumorange_description">
         <Original>%11%1%12%1%2"Remnants of War" - a singleplayer mini-campaign that explores the laws of armed conflict (LOAC)%1%2Showcases - a humanitarian NGO's open day, and VR LOAC instruction%1%2Time Trials - races against the clock using several types of vehicle%1%2International Development &amp;amp; Aid Project - the new civilian humanitarian Armaverse faction (IDAP)%1%2Van - a range of medium-sized wheeled transport vehicles, including ambulances%1%2Utility &amp;amp; Demining Drones - unmanned aerial vehicles for small payload delivery and remote minefield clearance%1%2APERS Mine Dispenser - an effective but controversial area denial weapon system%1%2Cluster Bombs &amp;amp; UXO - aircraft-delivered submunition containers that may leave behind unexploded ordnance after strikes%1%2Vests - safety, identification, multi-pocket and EOD vests%1%2Bags - messenger and leg strap bags%1%2Headgear - safari and hard hats, head bandages, basic and press helmets, ear protectors and a wireless earpiece%1%2Facewear - respirators and safety goggles%1%2Humanitarian Aid Objects - cardboard boxes, food sacks, water bottle packages, emergency blankets, and more%1%2Tent Objects - (medical) shelter tents, separate floor canvases, an air-conditioning unit, and plastic net fences%1%2Medical Objects - stretchers, IV bags, body bags, and more%1%2Furniture Objects - tables, a sofa, an armchair, a bed, and more%1%2Miscellaneous - a paramedic outfit, construction coveralls, and a training mine%1%2Official Soundtrack - newly composed music tracks%1%2Achievements - a set of extra &lt;a href='%13'&gt;Steam Achievements&lt;/a&gt;</Original>
         <Chinese>%11%1%12%1%2"戰爭殘留"——一個單人迷你戰役，探索武裝衝突法則(LOAC)%1%2演示任務——一個人道主義非政府組織的開放日，以及虛擬真實的武裝衝突法則指導課程%1%2計時賽——使用多種車輛進行計時競速賽%1%2國際發展&amp;amp;援助工程——新的民間人道主義武裝突襲世界派別(囯發援)%1%2麵包車——一系列中型輪式運輸車輛，包括救護車%1%2通用&amp;amp;排雷無人機——用於小型載荷投送和遙控雷場清理的無人機%1%2反人員地雷布撒器——一種有效但爭議較大的區域阻斷武器系統%1%2集束炸彈&amp;amp;未爆兵器——航空投送的子彈藥容器可能在空襲後留下未爆彈藥%1%2背心——安全，身份，多兜和排爆背心%1%2背包-郵包和腿包%1%2帽子——遊獵帽和安全帽，頭部繃帶，基本和新聞頭盔，護耳和無線耳機%1%2臉部佩戴——口罩和安全眼鏡%1%2人道主義援助物體——硬紙箱，食品包，瓶裝水包，緊急救生毯，以及其他%1%2帳篷物體——(醫療)掩體帳篷，獨立帆布地鋪，空調組建，以及塑料網牆%1%2醫療物體——擔架，血包，裝屍袋，以及其他%1%2傢俱物體——桌子，沙發，扶手椅，床，以及其他%1%2雜項——急救員服裝，建築工服裝，訓練地雷%1%2官方原聲大碟——新作的音樂%1%2成就——增加了幾個&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;</Chinese>
-        <Chinesesimp>%11%1%12%1%2"战争残留"——一个单人迷你战役，探索武装冲突法则(LOAC)%1%2演示任务——一个人道主义非政府组织的开放日，以及虚拟真实的武装冲突法则指导课程%1%2计时赛——使用多种车辆进行计时竞速赛%1%2国际发展&amp;amp;援助工程——新的民间人道主义武装突袭世界派别(国发援)%1%2面包车——一系列中型轮式运输车辆，包括救护车%1%2通用&amp;amp;排雷无人机——用于小型载荷投送和遥控雷场清理的无人机%1%2反人员地雷布撒器——一种有效但争议较大的区域阻断武器系统%1%2集束炸弹&amp;amp;未爆兵器——航空投送的子弹药容器可能在空袭后留下未爆弹药%1%2背心——安全，身份，多兜和排爆背心%1%2背包-邮包和腿包%1%2帽子——游猎帽和安全帽，头部绷带，基本和新闻头盔，护耳和无线耳机%1%2脸部佩戴——口罩和安全眼镜%1%2人道主义援助物体——硬纸箱，食品包，瓶装水包，紧急救生毯，以及其他%1%2帐篷物体——（医疗）掩体帐篷，独立帆布地铺，空调组建，以及塑料网墙%1%2医疗物体——担架，血包，装尸袋，以及其他%1%2家具物体——桌子，沙发，扶手椅，床，以及其他%1%2杂项——急救员服装，建筑工服装，训练地雷%1%2官方原声大碟——新作的音乐%1%2成就——增加了几个&lt;ahref='%13'&gt;Steam 成就&lt;/a&gt;</Chinesesimp>
+        <Chinesesimp>%11%1%12%1%2"战争残留"——一个单人迷你战役，探索武装冲突法则(LOAC)%1%2演示任务——一个人道主义非政府组织的开放日，以及虚拟真实的武装冲突法则指导课程%1%2计时赛——使用多种车辆进行计时竞速赛%1%2国际发展&amp;amp;援助工程——新的民间人道主义武装突袭世界派别(国发援)%1%2面包车——一系列中型轮式运输车辆，包括救护车%1%2通用&amp;amp;排雷无人机——用于小型载荷投送和遥控雷场清理的无人机%1%2反人员地雷布撒器——一种有效但争议较大的区域阻断武器系统%1%2集束炸弹&amp;amp;未爆兵器——航空投送的子弹药容器可能在空袭后留下未爆弹药%1%2背心——安全，身份，多兜和排爆背心%1%2背包 — 邮包和腿包%1%2帽子——游猎帽和安全帽，头部绷带，基本和新闻头盔，护耳和无线耳机%1%2脸部佩戴——口罩和安全眼镜%1%2人道主义援助物体——硬纸箱，食品包，瓶装水包，紧急救生毯，以及其他%1%2帐篷物体——（医疗）掩体帐篷，独立帆布地铺，空调组建，以及塑料网墙%1%2医疗物体——担架，血包，装尸袋，以及其他%1%2家具物体——桌子，沙发，扶手椅，床，以及其他%1%2杂项——急救员服装，建筑工服装，训练地雷%1%2官方原声大碟——新作的音乐%1%2成就——增加了几个&lt;ahref='%13'&gt;Steam 成就&lt;/a&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_premiumbundle2_overview">
         <Original>Save more than 25&amp;#37; by purchasing the Arma 3 DLC Bundle 2, which includes the upcoming Arma 3 Jets, Arma 3 Laws of War, Arma 3 Tac-Ops, and Arma 3 Tanks DLC!%1%2Press %11 to open the store page.</Original>
         <Chinese>通過購買武裝突襲3資料片大包2節約超過25&amp;#37;，其包含武裝突襲3噴氣機，武裝突襲3戰爭法，武裝突襲3戰術行動和武裝突襲3坦克資料片!%1%2按%11打開商店頁面。</Chinese>
-        <Chinesesimp>通过购买武装突袭3DLC 合集2节约超过25&amp;#37;，其包含武装突袭3喷气机，武装突袭3战争法，武装突袭3战术行动和武装突袭3坦克 DLC!%1%2按%11打开商店页面。</Chinesesimp>
+        <Chinesesimp>通过购买武装突袭3DLC 合集2节约超过25&amp;#37;，其包含武装突袭3喷气机，武装突袭3战争法，武装突袭3战术行动和武装突袭3坦克 DLC！%1%2按%11打开商店页面。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_minesweep_description">
         <Original>Nearby &lt;t %5&gt;mines&lt;/5&gt; can be &lt;t %5&gt;detected&lt;/t&gt; by &lt;t %5&gt;moving slowly&lt;/t&gt; and carefully &lt;t %5&gt;looking around&lt;/t&gt; you. %14 Having a &lt;t %5&gt;Mine Detector&lt;/t&gt; in your inventory will locate even well-hidden mines in your vicinity. Audio cues may alert you to such threats.%1%2Use %11 or %12 to bring up the Mines info panel to see approximate mine locations and identified mines.%1%2Carefully approach, look at, and identify unknown mines using %13.%1Depending on difficulty options, known mines are marked &lt;img size='1' %15 image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca.paa' /&gt;.</Original>
@@ -3516,12 +3516,12 @@
       <Key ID="str_a3_orange_cfghints_ihl_treatiesprotocols_description">
         <Original>The &lt;t %5&gt;legal framework&lt;/t&gt; for IHL is defined in a set of &lt;t %5&gt;treaties&lt;/t&gt; and &lt;t %5&gt;protocols&lt;/t&gt;, more of which are being drafted to this day. While some have been ratified universally, others are still not observed by major nation states.%1%1Relevant examples include:%1%2&lt;t %5&gt;Geneva Conventions&lt;/t&gt; - the best known and most widely adopted treaties, focuses on humanitarian treatment in war%1%2&lt;t %5&gt;Ottawa Treaty&lt;/t&gt; - seeks to ban the use of all anti-personnel mines%1%2&lt;t %5&gt;Convention on Cluster Munitions&lt;/t&gt; - prohibits the use of submunition-based weapons%1%2&lt;t %5&gt;Convention on Certain Conventional Weapons&lt;/t&gt; - restricts the use of conventional weapons which are indiscriminate or cause excessive injuries</Original>
         <Chinese>《國際人道主義法》的&lt;t%5&gt;法律框架&lt;/t&gt;建立在一系列&lt;t%5&gt;條約&lt;/t&gt;和&lt;t%5&gt;協議&lt;/t&gt;紙上，還有更多的此類條約協議如今正在制訂之中。一些條約被國際普遍認可，一些則至今仍不被主要國家執行。%1%1典型案例包括:%1%2&lt;t%5&gt;《日內瓦公約》&lt;/t&gt;——最知名且最被廣泛遵守的條約，主要涉及戰爭中的人道主義待遇問題%1%2&lt;t%5&gt;《渥太華公約》&lt;/t&gt;——試圖禁止反人員地雷的使用%1%2&lt;t%5&gt;《集束炸彈公約》&lt;/t&gt;——禁止使用基於子彈藥的武器%1%2&lt;t%5&gt;《禁止特定常規武器公約》&lt;/t&gt;——限制使用無法識別或造成過度傷害的常規武器</Chinese>
-        <Chinesesimp>《国际人道主义法》的&lt;t%5&gt;法律框架&lt;/t&gt;建立在一系列&lt;t%5&gt;条约&lt;/t&gt;和&lt;t%5&gt;协议&lt;/t&gt;纸上，还有更多的此类条约协议如今正在制订之中。一些条约被国际普遍认可，一些则至今仍不被主要国家执行。%1%1典型案例包括:%1%2&lt;t%5&gt;《日内瓦公约》&lt;/t&gt;——最知名且最被广泛遵守的条约，主要涉及战争中的人道主义待遇问题%1%2&lt;t%5&gt;《渥太华公约》&lt;/t&gt;——试图禁止反人员地雷的使用%1%2&lt;t%5&gt;《集束炸弹公约》&lt;/t&gt;——禁止使用基于子弹药的武器%1%2&lt;t%5&gt;《禁止特定常规武器公约》&lt;/t&gt;——限制使用无法识别或造成过度伤害的常规武器</Chinesesimp>
+        <Chinesesimp>《国际人道主义法》的&lt;t%5&gt;法律框架&lt;/t&gt;建立在一系列&lt;t%5&gt;条约&lt;/t&gt;和&lt;t%5&gt;协议&lt;/t&gt;纸上，还有更多的此类条约协议如今正在制订之中。一些条约被国际普遍认可，一些则至今仍不被主要国家执行。%1%1典型案例包括：%1%2&lt;t%5&gt;《日内瓦公约》&lt;/t&gt;——最知名且最被广泛遵守的条约，主要涉及战争中的人道主义待遇问题%1%2&lt;t%5&gt;《渥太华公约》&lt;/t&gt;——试图禁止反人员地雷的使用%1%2&lt;t%5&gt;《集束炸弹公约》&lt;/t&gt;——禁止使用基于子弹药的武器%1%2&lt;t%5&gt;《禁止特定常规武器公约》&lt;/t&gt;——限制使用无法识别或造成过度伤害的常规武器</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_protectionprohibitions_tip">
         <Original>When civilians take a direct part in fighting, they lose their protection from attack (when in doubt, they should be considered civilian). When a civilian object is used in support of military action, it becomes a legitimate military target and loses its protection (when in doubt, it should be considered civilian). Protect the most vulnerable: civilians, wounded and sick, detainees, and health-care workers (such as IDAP)!</Original>
         <Chinese>當平民直接參與到戰鬥中後，他們就失去了在攻擊中被保護的權力(在有懷疑時應被視為平民)。在平民目標被用於軍事行動時，它便成為了合法的軍事目標，失去被保護權(在有懷疑時應被視為平民目標)。保護最脆弱的目標:平民、傷患、囚犯和健康護理工作者(比如國發援)!</Chinese>
-        <Chinesesimp>当平民直接参与到战斗中后，他们就失去了在攻击中被保护的权力(在有怀疑时应被视为平民)。在平民目标被用于军事行动时，它便成为了合法的军事目标，失去被保护权(在有怀疑时应被视为平民目标)。保护最脆弱的目标:平民、伤患、囚犯和健康护理工作者（比如国发援）!</Chinesesimp>
+        <Chinesesimp>当平民直接参与到战斗中后，他们就失去了在攻击中被保护的权力(在有怀疑时应被视为平民)。在平民目标被用于军事行动时，它便成为了合法的军事目标，失去被保护权(在有怀疑时应被视为平民目标)。保护最脆弱的目标：平民、伤患、囚犯和健康护理工作者（比如国发援）！</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_protectionprohibitions_displayname">
         <Original>Protection - Prohibitions</Original>
@@ -3531,12 +3531,12 @@
       <Key ID="str_a3_orange_cfghints_ihl_protectionprohibitions_description">
         <Original>It is &lt;t %5&gt;forbidden&lt;/t&gt; to:%1%2 attack civilians and civilian objects (houses, schools, places of worship, cultural or historic monuments, etc.)%1%2 commit murder or torture%1%2 commit acts of sexual violence%1%2 forcibly displace and starve civilians%1%2 attack hospitals, ambulances and health-care workers%1%2 use human shields%1%2 destroy stocks of food, farming areas, and the water supply%1%2 recruit or use children under the age of 15 in armed conflict%1%2 misuse the Red Crystal, Red Cross and Red Crescent%1%2 interfere with the delivery of humanitarian aid%1%2 damage the environment</Original>
         <Chinese>&lt;t%5&gt;禁止&lt;/t&gt;:%1%2攻擊平民和平民目標(房屋、學校、宗教場所、文化或歷史紀念物、等等)%1%2實施謀殺或酷刑%1%2實施性犯罪%1%2強迫平民遷居或使其陷入饑饉%1%2攻擊醫院、救護車和健康護理工作者%1%2使用人盾%1%2摧毀糧食儲備、農牧場和水源%1%2徵募或使用15歲以下兒童參與武裝衝突%1%2錯誤使用紅水晶、紅十字或紅新月標誌%1%2干擾人道主義援助的送達%1%2破壞環境</Chinese>
-        <Chinesesimp>&lt;t%5&gt;禁止&lt;/t&gt;:%1%2攻击平民和平民目标（房屋、学校、宗教场所、文化或历史纪念物、等等）%1%2实施谋杀或酷刑%1%2实施性犯罪%1%2强迫平民迁居或使其陷入饥馑%1%2攻击医院、救护车和健康护理工作者%1%2使用人盾%1%2摧毁粮食储备、农牧场和水源%1%2征募或使用15岁以下儿童参与武装冲突%1%2错误使用红水晶、红十字或红新月标志%1%2干扰人道主义援助的送达%1%2破坏环境</Chinesesimp>
+        <Chinesesimp>&lt;t%5&gt;禁止&lt;/t&gt;：%1%2攻击平民和平民目标（房屋、学校、宗教场所、文化或历史纪念物、等等）%1%2实施谋杀或酷刑%1%2实施性犯罪%1%2强迫平民迁居或使其陷入饥馑%1%2攻击医院、救护车和健康护理工作者%1%2使用人盾%1%2摧毁粮食储备、农牧场和水源%1%2征募或使用15岁以下儿童参与武装冲突%1%2错误使用红水晶、红十字或红新月标志%1%2干扰人道主义援助的送达%1%2破坏环境</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_protectionobligations_tip">
         <Original>Respect human dignity!</Original>
         <Chinese>保衛人類尊嚴!</Chinese>
-        <Chinesesimp>保卫人类尊严!</Chinesesimp>
+        <Chinesesimp>保卫人类尊严！</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_protectionobligations_displayname">
         <Original>Protection - Obligations</Original>
@@ -3546,12 +3546,12 @@
       <Key ID="str_a3_orange_cfghints_ihl_protectionobligations_description">
         <Original>&lt;t %5&gt;Captured civilians and enemy combatants&lt;/t&gt;:%1%2must be given adequate food, water, clothing, shelter and medical care%1%2must be allowed to have contact with their families%1%1&lt;t %5&gt;Children and women&lt;/t&gt; must be detained separately from men, to the extent feasible.%1%1&lt;t %5&gt;Enemy combatants&lt;/t&gt; who are wounded, sick, shipwrecked, or surrendering:%1%2 must be searched for, collected and cared for%1%2 must not receive preferential treatment, except on medical grounds%1%1A &lt;t %5&gt;surrendering enemy&lt;/t&gt; must not be wounded or killed.%1%1The specific protection, health and assistance needs of &lt;t %5&gt;women affected by armed conflict&lt;/t&gt; must be respected.%1%1Everyone is entitled to a &lt;t %5&gt;fair trial&lt;/t&gt;.</Original>
         <Chinese>對&lt;t%5&gt;被捕的平民和敵方戰鬥員&lt;/t&gt;:%1%2必須被提供適當的食物、飲水、衣物、掩體和醫療照顧%1%2必須允許他們與家人聯繫%1%1&lt;t%5&gt;婦女和兒童&lt;/t&gt;必須被盡可能和男性分開拘留。%1%1對負傷、患病、遭遇海難或投降的&lt;t%5&gt;敵方戰鬥員&lt;/t&gt;必須:%1%2進行搜索、收容和良好對待%1%2除醫療相關外，不許予以特權或特別對待%1%1對&lt;t%5&gt;投降的敵人&lt;/t&gt;不許予以殺傷。%1%1必須滿足&lt;t%5&gt;受到武裝衝突影響的女性&lt;/t&gt;特殊的保護、健康和援助需求。%1%1所有人都應遭到&lt;t%5&gt;公平審判&lt;/t&gt;。</Chinese>
-        <Chinesesimp>对&lt;t%5&gt;被捕的平民和敌方战斗员&lt;/t&gt;:%1%2必须被提供适当的食物、饮水、衣物、掩体和医疗照顾%1%2必须允许他们与家人联系%1%1&lt;t%5&gt;妇女和儿童&lt;/t&gt;必须被尽可能和男性分开拘留。%1%1对负伤、患病、遭遇海难或投降的&lt;t%5&gt;敌方战斗员&lt;/t&gt;必须:%1%2进行搜索、收容和良好对待%1%2除医疗相关外，不许予以特权或特别对待%1%1对&lt;t%5&gt;投降的敌人&lt;/t&gt;不许予以杀伤。%1%1必须满足&lt;t%5&gt;受到武装冲突影响的女性&lt;/t&gt;特殊的保护、健康和援助需求。%1%1所有人都应遭到&lt;t%5&gt;公平审判&lt;/t&gt;。</Chinesesimp>
+        <Chinesesimp>对&lt;t%5&gt;被捕的平民和敌方战斗员&lt;/t&gt;：%1%2必须被提供适当的食物、饮水、衣物、掩体和医疗照顾%1%2必须允许他们与家人联系%1%1&lt;t%5&gt;妇女和儿童&lt;/t&gt;必须被尽可能和男性分开拘留。%1%1对负伤、患病、遭遇海难或投降的&lt;t%5&gt;敌方战斗员&lt;/t&gt;必须：%1%2进行搜索、收容和良好对待%1%2除医疗相关外，不许予以特权或特别对待%1%1对&lt;t%5&gt;投降的敌人&lt;/t&gt;不许予以杀伤。%1%1必须满足&lt;t%5&gt;受到武装冲突影响的女性&lt;/t&gt;特殊的保护、健康和援助需求。%1%1所有人都应遭到&lt;t%5&gt;公平审判&lt;/t&gt;。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_proportionality_tip">
         <Original>A target must still be military (legitimate)!</Original>
         <Chinese>一個目標肯定還是軍用(合法)的!</Chinese>
-        <Chinesesimp>一个目标肯定还是军用（合法）的!</Chinesesimp>
+        <Chinesesimp>一个目标肯定还是军用（合法）的！</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_proportionality_displayname">
         <Original>Proportionality</Original>
@@ -3576,7 +3576,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_precaution_description">
         <Original>All feasible measures should be taken to &lt;t %5&gt;avoid collateral damage&lt;/t&gt;.%1%1This may include determining:%1%2 &lt;t %5&gt;When&lt;/t&gt; to strike a target%1%2 &lt;t %5&gt;Where&lt;/t&gt; to strike a target%1%2 &lt;t %5&gt;What&lt;/t&gt; weapon systems to use against a target</Original>
         <Chinese>要採取一切可行措施&lt;t%5&gt;避免連帶損害&lt;/t&gt;。%1%1這可能包括決定:%1%2&lt;t%5&gt;何時&lt;/t&gt;打擊目標%1%2在&lt;t%5&gt;何處&lt;/t&gt;打擊目標%1%2使用&lt;t%5&gt;何種&lt;/t&gt;武器系統打擊目標</Chinese>
-        <Chinesesimp>要采取一切可行措施&lt;t%5&gt;避免连带损害&lt;/t&gt;。%1%1这可能包括决定:%1%2&lt;t%5&gt;何时&lt;/t&gt;打击目标%1%2在&lt;t%5&gt;何处&lt;/t&gt;打击目标%1%2使用&lt;t%5&gt;何种&lt;/t&gt;武器系统打击目标</Chinesesimp>
+        <Chinesesimp>要采取一切可行措施&lt;t%5&gt;避免连带损害&lt;/t&gt;。%1%1这可能包括决定：%1%2&lt;t%5&gt;何时&lt;/t&gt;打击目标%1%2在&lt;t%5&gt;何处&lt;/t&gt;打击目标%1%2使用&lt;t%5&gt;何种&lt;/t&gt;武器系统打击目标</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_overview_tip">
         <Original>IHL is often also referred to as rules of war, laws of war, or laws of armed conflict (LOAC).</Original>
@@ -3591,7 +3591,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_overview_description">
         <Original>%11%1%1IHL strikes a balance between the principle of &lt;t %5&gt;humanity&lt;/t&gt; and &lt;t %5&gt;military necessity&lt;/t&gt;.%1%1Key aspects include the &lt;t %5&gt;principles&lt;/t&gt; of:%1%2 Humanity%1%2 Distinction%1%2 Precaution%1%2 Proportionality</Original>
         <Chinese>%11%1%1《國際人道主義法》強調在&lt;t%5&gt;人道主義&lt;/t&gt;原則和&lt;t%5&gt;軍事行動必要性&lt;/t&gt;之間的平衡。%1%1關鍵要素包括&lt;t%5&gt;以下原則&lt;/t&gt;:%1%2人道主義%1%2區分%1%2預先警告%1%2相稱性</Chinese>
-        <Chinesesimp>%11%1%1《国际人道主义法》强调在&lt;t%5&gt;人道主义&lt;/t&gt;原则和&lt;t%5&gt;军事行动必要性&lt;/t&gt;之间的平衡。%1%1关键要素包括&lt;t%5&gt;以下原则&lt;/t&gt;:%1%2人道主义%1%2区分%1%2预先警告%1%2相称性</Chinesesimp>
+        <Chinesesimp>%11%1%1《国际人道主义法》强调在&lt;t%5&gt;人道主义&lt;/t&gt;原则和&lt;t%5&gt;军事行动必要性&lt;/t&gt;之间的平衡。%1%1关键要素包括&lt;t%5&gt;以下原则&lt;/t&gt;：%1%2人道主义%1%2区分%1%2预先警告%1%2相称性</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_overview_arg11">
         <Original>&lt;t %5&gt;International Humanitarian Law (IHL)&lt;/t&gt; is a set of rules that aim to preserve &lt;t %5&gt;human dignity&lt;/t&gt; in &lt;t %5&gt;armed conflict&lt;/t&gt; by &lt;t %5&gt;protecting&lt;/t&gt; the most vulnerable persons and by &lt;t %5&gt;limiting&lt;/t&gt; the way in which war is conducted.</Original>
@@ -3616,7 +3616,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_limitsprohibitions_tip">
         <Original>Do not target civilians!</Original>
         <Chinese>不許以平民為目標!</Chinese>
-        <Chinesesimp>不许以平民为目标!</Chinesesimp>
+        <Chinesesimp>不许以平民为目标！</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_limitsprohibitions_displayname">
         <Original>Limitation - Prohibitions</Original>
@@ -3626,12 +3626,12 @@
       <Key ID="str_a3_orange_cfghints_ihl_limitsprohibitions_description">
         <Original>It is &lt;t %5&gt;forbidden&lt;/t&gt; to:%1%2 use weapons that cause unnecessary suffering (such as poison, blinding laser weapons or nuclear weapons)%1%2 use weapons that cannot distinguish between civilians and military targets (such as landmines)%1%2 take hostages%1%2 pretend to be a civilian while attempting to kill, injure or capture an adversary%1%2 order or threaten that there shall be no survivors</Original>
         <Chinese>&lt;t%5&gt;禁止&lt;/t&gt;:%1%2使用造成不必要痛苦的武器(諸如毒氣、激光致盲武器或核武器)%1%2使用無法區分平民和軍事目標的武器(如地雷)%1%2使用人質%1%2在試圖殺害、殺傷或捕獲敵人時偽裝成平民%1%2命令或威脅不留活口</Chinese>
-        <Chinesesimp>&lt;t%5&gt;禁止&lt;/t&gt;:%1%2使用造成不必要痛苦的武器(诸如毒气、激光致盲武器或核武器)%1%2使用无法区分平民和军事目标的武器（如地雷）%1%2使用人质%1%2在试图杀害、杀伤或捕获敌人时伪装成平民%1%2命令或威胁不留活口</Chinesesimp>
+        <Chinesesimp>&lt;t%5&gt;禁止&lt;/t&gt;：%1%2使用造成不必要痛苦的武器(诸如毒气、激光致盲武器或核武器)%1%2使用无法区分平民和军事目标的武器（如地雷）%1%2使用人质%1%2在试图杀害、杀伤或捕获敌人时伪装成平民%1%2命令或威胁不留活口</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_limitsobligations_tip">
         <Original>Minimize collateral damage!</Original>
         <Chinese>最小化連帶損傷!</Chinese>
-        <Chinesesimp>最小化连带损伤!</Chinesesimp>
+        <Chinesesimp>最小化连带损伤！</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_limitsobligations_displayname">
         <Original>Limitation - Obligations</Original>
@@ -3686,12 +3686,12 @@
       <Key ID="str_a3_orange_cfghints_ihl_definitions_description">
         <Original>%2 &lt;t %5&gt;Combatant&lt;/t&gt;: members of armed forces, members of any armed group under the orders of a party to a conflict%1%2 &lt;t %5&gt;Hors de combat&lt;/t&gt;: "out of fight" - combatants who have been captured or wounded or who are sick or shipwrecked and thus no longer in a position to fight%1%2 &lt;t %5&gt;Civilian&lt;/t&gt;: any person who is not a combatant%1%2 &lt;t %5&gt;Armed conflict&lt;/t&gt;: fighting between countries (international) or between a country's armed forces and armed groups (non-international) or between such groups%1%2 &lt;t %5&gt;Military objective&lt;/t&gt;: an object that by its nature, location, purpose or use makes an effective contribution to military action and whose destruction offers a definite military advantage%1%2 &lt;t %5&gt;Non-reciprocity&lt;/t&gt;: breaches of IHL by one party to a conflict do not justify breaches by other parties%1%2 &lt;t %5&gt;Equality&lt;/t&gt;: IHL applies to all parties of an armed conflict equally</Original>
         <Chinese>武裝力量的%2&lt;t%5&gt;戰鬥人員&lt;/t&gt;:成員，任何在任意一方控制下的武裝組織的成員%1%2&lt;t%5&gt;Horsdecombat&lt;/t&gt;:"失去戰鬥力"——戰鬥人員被俘、受傷或因患病或船隻遇難而無法繼續戰鬥%1%2&lt;t%5&gt;平民&lt;/t&gt;:任何不是戰鬥人員的人%1%2&lt;t%5&gt;武裝衝突&lt;/t&gt;:在國家間(國際性)或一國內的武裝力量和武裝組織(國內性)或此類組織之間爆發的戰鬥%1%2&lt;t%5&gt;軍事目標&lt;/t&gt;:根據其性質、地點、意圖或用途能為軍事行動作出顯著貢獻以及其損毀會達成特定軍事目的的目標%1%2&lt;t%5&gt;非對等性&lt;/t&gt;:衝突中的一方違反《國際人道主義法》不構成另一方違反該法的正當理由%1%2&lt;t%5&gt;平等性&lt;/t&gt;:《國際人道主義法》對武裝衝突中的所有派別一視同仁</Chinese>
-        <Chinesesimp>武装力量的%2&lt;t%5&gt;战斗人员&lt;/t&gt;:成员，任何在任意一方控制下的武装组织的成员%1%2&lt;t%5&gt;Horsdecombat&lt;/t&gt;:"失去战斗力"——战斗人员被俘、受伤或因患病或船只遇难而无法继续战斗%1%2&lt;t%5&gt;平民&lt;/t&gt;:任何不是战斗人员的人%1%2&lt;t%5&gt;武装冲突&lt;/t&gt;:在国家间(国际性)或一国内的武装力量和武装组织（国内性）或此类组织之间爆发的战斗%1%2&lt;t%5&gt;军事目标&lt;/t&gt;:根据其性质、地点、意图或用途能为军事行动作出显着贡献以及其损毁会达成特定军事目的的目标%1%2&lt;t%5&gt;非对等性&lt;/t&gt;:冲突中的一方违反《国际人道主义法》不构成另一方违反该法的正当理由%1%2&lt;t%5&gt;平等性&lt;/t&gt;:《国际人道主义法》对武装冲突中的所有派别一视同仁</Chinesesimp>
+        <Chinesesimp>武装力量的%2&lt;t%5&gt;战斗人员&lt;/t&gt;：成员，任何在任意一方控制下的武装组织的成员%1%2&lt;t%5&gt;Horsdecombat&lt;/t&gt;："失去战斗力"——战斗人员被俘、受伤或因患病或船只遇难而无法继续战斗%1%2&lt;t%5&gt;平民&lt;/t&gt;：任何不是战斗人员的人%1%2&lt;t%5&gt;武装冲突&lt;/t&gt;：在国家间(国际性)或一国内的武装力量和武装组织（国内性）或此类组织之间爆发的战斗%1%2&lt;t%5&gt;军事目标&lt;/t&gt;：根据其性质、地点、意图或用途能为军事行动作出显着贡献以及其损毁会达成特定军事目的的目标%1%2&lt;t%5&gt;非对等性&lt;/t&gt;：冲突中的一方违反《国际人道主义法》不构成另一方违反该法的正当理由%1%2&lt;t%5&gt;平等性&lt;/t&gt;：《国际人道主义法》对武装冲突中的所有派别一视同仁</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_dlcstrategy_tip">
         <Original>You can try premium assets in the Virtual Arsenal mode without restriction!</Original>
         <Chinese>你可以在虛擬軍械庫中不受限制地嘗試額外內容!</Chinese>
-        <Chinesesimp>你可以在虚拟军械库中不受限制地尝试额外内容!</Chinesesimp>
+        <Chinesesimp>你可以在虚拟军械库中不受限制地尝试额外内容！</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_dlcstrategy_displayname">
         <Original>DLC Strategy</Original>
@@ -3700,8 +3700,8 @@
       </Key>
       <Key ID="str_a3_orange_cfghints_dlcstrategy_description">
         <Original>Arma 3's &lt;a href='%11'&gt;DLC strategy&lt;/a&gt;﻿ is based on 3 main pillars:%1%2 Providing free platform updates%1%2 Offering new premium content%1%2 Preventing multiplayer fragmentation%1%1With this approach, &lt;t %5&gt;every Arma 3 player gets all the DLC data&lt;/t&gt; and is &lt;t %5&gt;able to see everything in-game&lt;/t&gt;. Generally speaking, &lt;t %5&gt;features&lt;/t&gt; continue expanding the platform and are &lt;t %5&gt;free&lt;/t&gt; for all to enjoy, while the &lt;t %5&gt;premium content&lt;/t&gt; may be &lt;t %5&gt;limited&lt;/t&gt; for non-owners. By purchasing DLC you are &lt;t %5&gt;contributing&lt;/t&gt; to further development of a consistent Arma 3 platform for everyone and the Arma series in general. Thank you!</Original>
-        <Chinese>武裝突襲3的&lt;ahref='%11'&gt;資料片策略&lt;/a&gt;?基於三個基本點:%1%2提供免費平臺升級%1%2提供新的附加內容%1%2避免多人遊戲衝突%1%1基於以上三點，&lt;t%5&gt;所有武裝突襲3萬家都會得到全部資料片數據&lt;/t&gt;並可&lt;t%5&gt;在遊戲內部看到全部內容&lt;/t&gt;。一言以蔽之，用於擴展平臺的&lt;t%5&gt;特性&lt;/t&gt;會被&lt;t%5&gt;免費&lt;/t&gt;提供給所有人，而&lt;t%5&gt;附加內容&lt;/t&gt;可能在未購買玩家身上被&lt;t%5&gt;限制&lt;/t&gt;。通過購買資料片你可以為武裝突襲3系列的未來發展，換言之是武裝突襲3平臺的全部玩家和整個Arma系列作出&lt;t%5&gt;貢獻&lt;/t&gt;。謝謝你!</Chinese>
-        <Chinesesimp>武装突袭3的&lt;ahref='%11'&gt;DLC 策略&lt;/a&gt;?基于三个基本点:%1%2提供免费平台升级%1%2提供新的附加内容%1%2避免多人游戏冲突%1%1基于以上三点，&lt;t%5&gt;所有武装突袭3玩家都会得到全部 DLC 数据&lt;/t&gt;并可&lt;t%5&gt;在游戏内部看到全部内容&lt;/t&gt;。一言以蔽之，用于扩展平台的&lt;t%5&gt;特性&lt;/t&gt;会被&lt;t%5&gt;免费&lt;/t&gt;提供给所有人，而&lt;t%5&gt;附加内容&lt;/t&gt;可能在未购买玩家身上被&lt;t%5&gt;限制&lt;/t&gt;。通过购买 DLC 你可以为武装突袭3系列的未来发展，换言之是武装突袭3平台的全部玩家和整个武装突袭系列作出&lt;t%5&gt;贡献&lt;/t&gt;。谢谢你!</Chinesesimp>
+        <Chinese>武裝突襲3的&lt;ahref='%11'&gt;資料片策略&lt;/a&gt;﻿基於三個基本點:%1%2提供免費平臺升級%1%2提供新的附加內容%1%2避免多人遊戲衝突%1%1基於以上三點，&lt;t%5&gt;所有武裝突襲3萬家都會得到全部資料片數據&lt;/t&gt;並可&lt;t%5&gt;在遊戲內部看到全部內容&lt;/t&gt;。一言以蔽之，用於擴展平臺的&lt;t%5&gt;特性&lt;/t&gt;會被&lt;t%5&gt;免費&lt;/t&gt;提供給所有人，而&lt;t%5&gt;附加內容&lt;/t&gt;可能在未購買玩家身上被&lt;t%5&gt;限制&lt;/t&gt;。通過購買資料片你可以為武裝突襲3系列的未來發展，換言之是武裝突襲3平臺的全部玩家和整個Arma系列作出&lt;t%5&gt;貢獻&lt;/t&gt;。謝謝你!</Chinese>
+        <Chinesesimp>武装突袭3的&lt;ahref='%11'&gt;DLC 策略&lt;/a&gt;﻿基于三个基本点：%1%2提供免费平台升级%1%2提供新的附加内容%1%2避免多人游戏冲突%1%1基于以上三点，&lt;t%5&gt;所有武装突袭3玩家都会得到全部 DLC 数据&lt;/t&gt;并可&lt;t%5&gt;在游戏内部看到全部内容&lt;/t&gt;。一言以蔽之，用于扩展平台的&lt;t%5&gt;特性&lt;/t&gt;会被&lt;t%5&gt;免费&lt;/t&gt;提供给所有人，而&lt;t%5&gt;附加内容&lt;/t&gt;可能在未购买玩家身上被&lt;t%5&gt;限制&lt;/t&gt;。通过购买 DLC 你可以为武装突袭3系列的未来发展，换言之是武装突袭3平台的全部玩家和整个武装突袭系列作出&lt;t%5&gt;贡献&lt;/t&gt;。谢谢你！</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_combatmodes_tip">
         <Original>Controlling RoE will let you set ambushes and avoid undesired escalations.</Original>
@@ -3716,7 +3716,7 @@
       <Key ID="str_a3_orange_cfghints_combatmodes_description">
         <Original>%12%1%2%13%1%2%14%1%2%15%1%1The available combat modes are:%1%2&lt;t %5&gt;Open fire&lt;/t&gt; - units will fire at any suitable target in range%1%2&lt;t %5&gt;Hold fire&lt;/t&gt; &lt;img size='1' %11 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa' /&gt; - units will not fire at will, unless explicitly ordered to do so%1%2&lt;t %5&gt;Fire&lt;/t&gt; - units will eliminate only assigned targets</Original>
         <Chinese>%12%1%2%13%1%2%14%1%2%15%1%1可用的戰鬥模式包括:%1%2&lt;t%5&gt;允許開火&lt;/t&gt;——單位會向任何射程內適當的目標開火%1%2&lt;t%5&gt;停止開火&lt;/t&gt;&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa'/&gt;——單位不會自由開火，除非被下達命令%1%2&lt;t%5&gt;開火&lt;/t&gt;——單位會開火但只消滅被賦予的目標。</Chinese>
-        <Chinesesimp>%12%1%2%13%1%2%14%1%2%15%1%1可用的战斗模式包括:%1%2&lt;t%5&gt;允许开火&lt;/t&gt;——单位会向任何射程内适当的目标开火%1%2&lt;t%5&gt;停止开火&lt;/t&gt;&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa'/&gt;——单位不会自由开火，除非被下达命令%1%2&lt;t%5&gt;开火&lt;/t&gt;——单位会开火但只消灭被赋予的目标。</Chinesesimp>
+        <Chinesesimp>%12%1%2%13%1%2%14%1%2%15%1%1可用的战斗模式包括：%1%2&lt;t%5&gt;允许开火&lt;/t&gt;——单位会向任何射程内适当的目标开火%1%2&lt;t%5&gt;停止开火&lt;/t&gt;&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa'/&gt;——单位不会自由开火，除非被下达命令%1%2&lt;t%5&gt;开火&lt;/t&gt;——单位会开火但只消灭被赋予的目标。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_combatmodes_arg15">
         <Original>Select the desired mode from the list.</Original>
@@ -3736,7 +3736,7 @@
       <Key ID="str_a3_orange_cfghints_combatmodes_arg12">
         <Original>As commander you have control over the &lt;t %5&gt;combat mode&lt;/t&gt; (&lt;t %5&gt;Rules of Engagement&lt;/t&gt;) of your subordinate units:</Original>
         <Chinese>作為指揮員你控制著你下屬單位的&lt;t%5&gt;戰鬥模式&lt;/t&gt;(&lt;t%5&gt;交戰規則&lt;/t&gt;):</Chinese>
-        <Chinesesimp>作为指挥员你控制着你下属单位的&lt;t%5&gt;战斗模式&lt;/t&gt;（&lt;t%5&gt;交战规则&lt;/t&gt;）:</Chinesesimp>
+        <Chinesesimp>作为指挥员你控制着你下属单位的&lt;t%5&gt;战斗模式&lt;/t&gt;（&lt;t%5&gt;交战规则&lt;/t&gt;）：</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_clustermunitions_tip">
         <Original>Depending on the munition, dispersal altitude and other factors, many submunitions do not initially explode. They stay behind on the battlefield and cause harm for long periods of time.</Original>
@@ -3756,7 +3756,7 @@
       <Key ID="str_a3_orange_cfghints_ccoc_protectivesymbols_tip">
         <Original>Respect the protective signs!</Original>
         <Chinese>遵守保護標誌!</Chinese>
-        <Chinesesimp>遵守保护标志!</Chinesesimp>
+        <Chinesesimp>遵守保护标志！</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ccoc_protectivesymbols_displayname">
         <Original>Protective Symbols</Original>
@@ -3771,7 +3771,7 @@
       <Key ID="str_a3_orange_cfghints_ccoc_prisonersofwar_tip">
         <Original>Treat prisoners humanely!</Original>
         <Chinese>人道對待戰俘!</Chinese>
-        <Chinesesimp>人道对待战俘!</Chinesesimp>
+        <Chinesesimp>人道对待战俘！</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ccoc_prisonersofwar_displayname">
         <Original>Prisoners of War</Original>
@@ -3786,7 +3786,7 @@
       <Key ID="str_a3_orange_cfghints_ccoc_horsdecombat_tip">
         <Original>Don't target those who are hors de combat!</Original>
         <Chinese>不要攻擊失去戰鬥力的目標!</Chinese>
-        <Chinesesimp>不要攻击失去战斗力的目标!</Chinesesimp>
+        <Chinesesimp>不要攻击失去战斗力的目标！</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ccoc_horsdecombat_displayname">
         <Original>Hors de Combat</Original>
@@ -3796,7 +3796,7 @@
       <Key ID="str_a3_orange_cfghints_ccoc_horsdecombat_description">
         <Original>When combatants are &lt;t %5&gt;hors de combat&lt;/t&gt; ("out of fight": e.g. wounded, captured, sick or shipwrecked), they should &lt;t %5&gt;not be targeted&lt;/t&gt;.%1%1%2 Collect them.%1%2 Care for them.%1%2 Hand them over to a superior or nearest medical personnel.%1%2 Respect medical personnel, facilities and any civilians helping.</Original>
         <Chinese>當戰鬥人員&lt;t%5&gt;失去戰鬥力&lt;/t&gt;("horsdecombat":如受傷、被俘、患病或遭遇海難)時，他們應當&lt;t%5&gt;不被作為目標對待&lt;/t&gt;。%1%1%2收容他們。%1%2照顧他們。%1%2把他們交給上級機關或最近的醫務工作人員。%1%2尊重提供幫助的醫療人員、設施和任何平民。</Chinese>
-        <Chinesesimp>当战斗人员&lt;t%5&gt;失去战斗力&lt;/t&gt;（"horsdecombat":如受伤、被俘、患病或遭遇海难）时，他们应当&lt;t%5&gt;不被作为目标对待&lt;/t&gt;。%1%1%2收容他们。%1%2照顾他们。%1%2把他们交给上级机关或最近的医务工作人员。%1%2尊重提供帮助的医疗人员、设施和任何平民。</Chinesesimp>
+        <Chinesesimp>当战斗人员&lt;t%5&gt;失去战斗力&lt;/t&gt;（"horsdecombat"：如受伤、被俘、患病或遭遇海难）时，他们应当&lt;t%5&gt;不被作为目标对待&lt;/t&gt;。%1%1%2收容他们。%1%2照顾他们。%1%2把他们交给上级机关或最近的医务工作人员。%1%2尊重提供帮助的医疗人员、设施和任何平民。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ccoc_displayname">
         <Original>Code of Conduct for Combatants</Original>
@@ -3806,7 +3806,7 @@
       <Key ID="str_a3_orange_cfghints_ccoc_combatrules_tip">
         <Original>Respect the laws of war!</Original>
         <Chinese>遵守戰爭法!</Chinese>
-        <Chinesesimp>遵守战争法!</Chinesesimp>
+        <Chinesesimp>遵守战争法！</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ccoc_combatrules_displayname">
         <Original>Combat Rules</Original>
@@ -3816,12 +3816,12 @@
       <Key ID="str_a3_orange_cfghints_ccoc_combatrules_description">
         <Original>Always keep these basic rules in mind:%1%2 Fight only &lt;t %5&gt;combatants&lt;/t&gt;.%1%2 Attack only &lt;t %5&gt;military targets&lt;/t&gt;.%1%2 &lt;t %5&gt;Spare civilian&lt;/t&gt; persons and objects.%1%2 &lt;t %5&gt;Limit destruction&lt;/t&gt; to what your mission requires.</Original>
         <Chinese>永遠記住這些基本規則:%1%2只攻擊&lt;t%5&gt;戰鬥人員&lt;/t&gt;。%1%2只攻擊&lt;t%5&gt;軍事目標&lt;/t&gt;。%1%2&lt;t%5&gt;保護平民&lt;/t&gt;的人員和目標。%1%2&lt;t%5&gt;限制毀傷&lt;/t&gt;在任務需要的範疇內。</Chinese>
-        <Chinesesimp>永远记住这些基本规则:%1%2只攻击&lt;t%5&gt;战斗人员&lt;/t&gt;。%1%2只攻击&lt;t%5&gt;军事目标&lt;/t&gt;。%1%2&lt;t%5&gt;保护平民&lt;/t&gt;的人员和目标。%1%2&lt;t%5&gt;限制毁伤&lt;/t&gt;在任务需要的范畴内。</Chinesesimp>
+        <Chinesesimp>永远记住这些基本规则：%1%2只攻击&lt;t%5&gt;战斗人员&lt;/t&gt;。%1%2只攻击&lt;t%5&gt;军事目标&lt;/t&gt;。%1%2&lt;t%5&gt;保护平民&lt;/t&gt;的人员和目标。%1%2&lt;t%5&gt;限制毁伤&lt;/t&gt;在任务需要的范畴内。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ccoc_civilians_tip">
         <Original>Protect civilians and treat them with respect!</Original>
         <Chinese>保護平民，尊重對待他們!</Chinese>
-        <Chinesesimp>保护平民，尊重对待他们!</Chinesesimp>
+        <Chinesesimp>保护平民，尊重对待他们！</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ccoc_civilians_displayname">
         <Original>Civilians</Original>
@@ -3836,12 +3836,12 @@
       <Key ID="str_a3_orange_cfghints_ammotype_description">
         <Original>Artillery operates with several different ammo types:%1%2HE shells - simple explosive ammo%1%2Flares - used for signaling%1%2Smoke shells - for signaling or screening%1%2Guided - heat seeking shells%1%2Laser Guided - precise, guided by laser designation%1%2Mines - clusters of AP or AT mines%1%2Cluster shells - exploding submunition containers</Original>
         <Chinese>火炮採用多種不同的彈藥類型:%1%2高爆彈——簡單的爆炸性彈藥%1%2照明彈——用於發信號%1%2煙霧彈——用於發信或阻擋視界%1%2制導彈藥——熱尋的彈藥%1%2激光制導——精確，由激光導引%1%2地雷——反人員或反坦克地雷集束彈藥%1%2集束彈藥——爆炸性子彈藥布撒器</Chinese>
-        <Chinesesimp>火炮采用多种不同的弹药类型:%1%2高爆弹——简单的爆炸性弹药%1%2照明弹——用于发信号%1%2烟雾弹——用于发信或阻挡视界%1%2制导弹药——热寻的弹药%1%2激光制导——精确，由激光导引%1%2地雷——反人员或反坦克地雷集束弹药%1%2集束弹药——爆炸性子弹药布撒器</Chinesesimp>
+        <Chinesesimp>火炮采用多种不同的弹药类型：%1%2高爆弹——简单的爆炸性弹药%1%2照明弹——用于发信号%1%2烟雾弹——用于发信或阻挡视界%1%2制导弹药——热寻的弹药%1%2激光制导——精确，由激光导引%1%2地雷——反人员或反坦克地雷集束弹药%1%2集束弹药——爆炸性子弹药布撒器</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_disarm">
         <Original>To deactivate an explosive, you have to be a specialist, such as an %3Explosive / EOD Specialist%4 or an %3Engineer%4, and have a %3Toolkit%4.%1%2You may have to manually reveal %12 the explosive first.%1%2Crawl %11 to the explosive.%1%2Select %3Deactivate%4&lt;img size='1' %5  image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa' /&gt; from the action menu.%1WARNING: if you don't approach the explosive carefully in a prone position, it may detonate.</Original>
         <Chinese>為拆除炸彈，你需要是專業人士，諸如%3爆破專業兵或排爆專家%4或%3工兵%4，並有一個%3工具包%4。%1%2你可能首先需要人工發現%12炸彈。%1%2爬向%11炸彈。%1%2從動作菜單中選擇%3"拆除"%4&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa'/&gt;。%1警告:如果你不小心地以臥姿向炸彈移動，它就可能爆炸。</Chinese>
-        <Chinesesimp>为拆除炸弹，你需要是专业人士，诸如%3爆破专业兵或排爆专家%4或%3工兵%4，并有一个%3工具包%4。%1%2你可能首先需要人工发现%12炸弹。%1%2爬向%11炸弹。%1%2从动作菜单中选择%3"拆除"%4&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa'/&gt;。%1警告:如果你不小心地以卧姿向炸弹移动，它就可能爆炸。</Chinesesimp>
+        <Chinesesimp>为拆除炸弹，你需要是专业人士，诸如%3爆破专业兵或排爆专家%4或%3工兵%4，并有一个%3工具包%4。%1%2你可能首先需要人工发现%12炸弹。%1%2爬向%11炸弹。%1%2从动作菜单中选择%3"拆除"%4&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa'/&gt;。%1警告：如果你不小心地以卧姿向炸弹移动，它就可能爆炸。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_minesweep_description_detector">
         <Original>Having a &lt;t %5&gt;Mine Detector&lt;/t&gt; in your inventory will locate even well-hidden nearby mines. Audio cues may alert you to such threats.%1%2Use %11 or %12 to open the Mines info panel to see approximate mine locations and identified mines.%1%2Carefully approach, look at, and identify unknown mines using %13.%1Depending on difficulty options, known mines are marked &lt;img size='1' %14 image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca.paa' /&gt;.</Original>
@@ -3856,7 +3856,7 @@
       <Key ID="str_a3_orange_cfghints_premiumbundle2_overview_expansion">
         <Original>Save more than 25&amp;#37; by purchasing the Arma 3 DLC Bundle 2, which includes Arma 3 Jets, Arma 3 Laws of War, Arma 3 Tac-Ops, and Arma 3 Tanks DLC!</Original>
         <Chinese>透過購買武裝突襲3資料片資料片2(包括武裝突襲3戰機、武裝突襲3戰爭法、武裝突襲3戰術行動和武裝突襲3坦克資料片)，省25&amp;#37;以上的費用!</Chinese>
-        <Chinesesimp>通过购买武装突袭3DLC 合集2（包括武装突袭3战机、武装突袭3战争法、武装突袭3战术行动和武装突袭3坦克 DLC），节省25&amp;#37;以上的费用!</Chinesesimp>
+        <Chinesesimp>通过购买武装突袭3DLC 合集2（包括武装突袭3战机、武装突袭3战争法、武装突袭3战术行动和武装突袭3坦克 DLC），节省25&amp;#37;以上的费用！</Chinesesimp>
       </Key>
     </Container>
     <Container name="Welcome">
@@ -4008,12 +4008,12 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_pare_footer">
         <Original>We hope you'll enjoy this special release as much as we've enjoyed creating it!</Original>
         <Chinese>我們希望您能享受我們自滿的這次特別發佈!</Chinese>
-        <Chinesesimp>我们希望您能享受我们自满的这次特别发布!</Chinesesimp>
+        <Chinesesimp>我们希望您能享受我们自满的这次特别发布！</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_pare">
         <Original>Arma 3 Laws of War is composed of the following premium content and free platform additions:</Original>
         <Chinese>武裝突襲3戰爭法則包括以下附加內容和免費平臺更新:</Chinese>
-        <Chinesesimp>武装突袭3战争法则包括以下附加内容和免费平台更新:</Chinesesimp>
+        <Chinesesimp>武装突袭3战争法则包括以下附加内容和免费平台更新：</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_pard_list4_title">
         <Original>LOAC</Original>
@@ -4058,7 +4058,7 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_pard">
         <Original>Above all, this DLC set out to add assets and content, but we have also done some modest &lt;t color='%1'&gt;feature extensions&lt;/t&gt; and improvements during its development, free for everyone, of course:</Original>
         <Chinese>總體來看，本資料片用於增加一系列特性和內容，但我們也做了一些對所有人都免費的&lt;tcolor='%1'&gt;屬性更新&lt;/t&gt;和改進:</Chinese>
-        <Chinesesimp>总体来看，本 DLC 用于增加一系列特性和内容，但我们也做了一些对所有人都免费的&lt;tcolor='%1'&gt;属性更新&lt;/t&gt;和改进:</Chinesesimp>
+        <Chinesesimp>总体来看，本 DLC 用于增加一系列特性和内容，但我们也做了一些对所有人都免费的&lt;tcolor='%1'&gt;属性更新&lt;/t&gt;和改进：</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parc_footer">
         <Original>More about Arma 3 Laws of War</Original>
@@ -4068,7 +4068,7 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_parc">
         <Original>Continuing our established &lt;a href='%3' color='%2'&gt;DLC strategy&lt;/a&gt;, we are bringing DLC owners a varied collection of premium content. While portions of the new civilian &lt;t color='%1'&gt;International Development &amp;amp; Aid Project&lt;/t&gt; (IDAP) faction are free for the platform, we've selected several new assets to make them a special and worthwhile addition. IDAP's primary ground vehicle is a large &lt;t color='%1'&gt;Van&lt;/t&gt;, available for passenger transport, cargo hauling and medical evacuations. In order to safely carry out their activities in high-risk areas, IDAP also uses several drones. The &lt;t color='%1'&gt;Utility Drone&lt;/t&gt; is its latest acquisition and they have even modified it for remote mine clearance. A wide range of IDAP and other &lt;t color='%1'&gt;character gear&lt;/t&gt; is further available for anyone wishing to wear it. Much to IDAP's frustration, military factions have started to use a particularly nasty weapon: the &lt;t color='%1'&gt;APERS Mine Dispenser&lt;/t&gt;. These and all the extra platform additions are showcased in the singleplayer &lt;t color='%1'&gt;"Remnants of War" mini-campaign&lt;/t&gt;, and as always: get a hands-on preview without restriction in the Virtual Arsenal mode.</Original>
         <Chinese>基於我們已經構建的lt;ahref='%3'color='%2'&gt;資料片策略&lt;/a&gt;，我們將為資料片的擁有者提供一系列附加內容的集合。在新的平民組織&lt;tcolor='%1'&gt;國際發展&amp;amp;援助工程&lt;/t&gt;(IDAP)組織對平臺的所有人免費的同時，我們也選擇了一些新特性作為特別且值得一買的內容。國發援的基本地面車輛是一種大型&lt;tcolor='%1'&gt;麵包車&lt;/t&gt;，可以運輸人員、物資和執行醫療後送。為了安全在高危地區執行任務，國發援還使用多種無人機。&lt;tcolor='%1'&gt;通用無人機&lt;/t&gt;是其最新採購的型號，並被改裝為遙控地雷清障型號。一系列國發援和其他組織的&lt;tcolor='%1'&gt;人物裝備&lt;/t&gt;也對任何想要穿著它們的人可用。讓國發援非常頭痛的是，軍事組織開始使用一種特別令人不齒的武器:&lt;tcolor='%1'&gt;反人員地雷布撒器&lt;/t&gt;。這些都是平臺附加內容，並在單人的&lt;tcolor='%1'&gt;"戰爭遺留物"迷你戰役&lt;/t&gt;予以展示。像往常一樣:在虛擬軍械庫模式下不受限制地瀏覽這些東西。</Chinese>
-        <Chinesesimp>基于我们已经构建的 lt;ahref='%3'color='%2'&gt;DLC 策略&lt;/a&gt;，我们将为 DLC 的拥有者提供一系列附加内容的集合。在新的平民组织&lt;tcolor='%1'&gt;国际发展&amp;amp;援助工程&lt;/t&gt;（国发援）组织对平台的所有人免费的同时，我们也选择了一些新特性作为特别且值得一买的内容。国发援的基本地面车辆是一种大型&lt;tcolor='%1'&gt;面包车&lt;/t&gt;，可以运输人员、物资和执行医疗后送。为了安全在高危地区执行任务，国发援还使用多种无人机。&lt;tcolor='%1'&gt;通用无人机&lt;/t&gt;是其最新采购的型号，并被改装为遥控地雷清障型号。一系列国发援和其他组织的&lt;tcolor='%1'&gt;人物装备&lt;/t&gt;也对任何想要穿着它们的人可用。让国发援非常头痛的是，军事组织开始使用一种特别令人不齿的武器:&lt;tcolor='%1'&gt;反人员地雷布撒器&lt;/t&gt;。这些都是平台附加内容，并在单人的&lt;tcolor='%1'&gt;"战争遗留物"迷你战役&lt;/t&gt;予以展示。像往常一样:在虚拟军械库模式下不受限制地浏览这些东西。</Chinesesimp>
+        <Chinesesimp>基于我们已经构建的 lt;ahref='%3'color='%2'&gt;DLC 策略&lt;/a&gt;，我们将为 DLC 的拥有者提供一系列附加内容的集合。在新的平民组织&lt;tcolor='%1'&gt;国际发展&amp;amp;援助工程&lt;/t&gt;（国发援）组织对平台的所有人免费的同时，我们也选择了一些新特性作为特别且值得一买的内容。国发援的基本地面车辆是一种大型&lt;tcolor='%1'&gt;面包车&lt;/t&gt;，可以运输人员、物资和执行医疗后送。为了安全在高危地区执行任务，国发援还使用多种无人机。&lt;tcolor='%1'&gt;通用无人机&lt;/t&gt;是其最新采购的型号，并被改装为遥控地雷清障型号。一系列国发援和其他组织的&lt;tcolor='%1'&gt;人物装备&lt;/t&gt;也对任何想要穿着它们的人可用。让国发援非常头痛的是，军事组织开始使用一种特别令人不齿的武器：&lt;tcolor='%1'&gt;反人员地雷布撒器&lt;/t&gt;。这些都是平台附加内容，并在单人的&lt;tcolor='%1'&gt;"战争遗留物"迷你战役&lt;/t&gt;予以展示。像往常一样：在虚拟军械库模式下不受限制地浏览这些东西。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parb_title">
         <Original>INTERNATIONAL HUMANITARIAN LAW</Original>
@@ -4083,7 +4083,7 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_parb2">
         <Original>We've always admired this pragmatic approach to a complex topic. Rather than frustrate players with punishments and mandatory lessons, our mutual goal has been to find ways of raising awareness of IHL, while creating an even deeper and more authentic Arma experience. To that end we decided to build a DLC around IHL, which primarily delivers an Armaverse humanitarian NGO faction and gameplay to showcase them. We will also be donating a portion of the 2017 DLC proceeds to the ICRC so that they may continue their good real-world work. Thank you for your support!</Original>
         <Chinese>我們始終贊同針對複雜議題的這種實用主義態度。與其通過嚴厲懲罰和長篇大論折磨玩家，我們的本來目的是為了尋找提高對《國際人道主義法》的注意程度的方式，從而創造更深刻、更可信的武裝突襲遊戲體驗。最終我們決定圍繞《國際人道主義法》製作一個資料片，主要表現武裝突襲世界觀中的非政府組織，並展示他們。我們也會為國際紅十字會捐出此次資料片的部分收入，以便他們在真實世界繼續進行他們的高尚工作。感謝你的支持!</Chinese>
-        <Chinesesimp>我们始终赞同针对复杂议题的这种实用主义态度。与其通过严厉惩罚和长篇大论折磨玩家，我们的本来目的是为了寻找提高对《国际人道主义法》的注意程度的方式，从而创造更深刻、更可信的武装突袭游戏体验。最终我们决定围绕《国际人道主义法》制作一个 DLC，主要表现武装突袭世界观中的非政府组织，并展示他们。我们也会为国际红十字会捐出此次 DLC 的部分收入，以便他们在真实世界继续进行他们的高尚工作。感谢你的支持!</Chinesesimp>
+        <Chinesesimp>我们始终赞同针对复杂议题的这种实用主义态度。与其通过严厉惩罚和长篇大论折磨玩家，我们的本来目的是为了寻找提高对《国际人道主义法》的注意程度的方式，从而创造更深刻、更可信的武装突袭游戏体验。最终我们决定围绕《国际人道主义法》制作一个 DLC，主要表现武装突袭世界观中的非政府组织，并展示他们。我们也会为国际红十字会捐出此次 DLC 的部分收入，以便他们在真实世界继续进行他们的高尚工作。感谢你的支持！</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parb">
         <Original>For some time now we've had an inspirational working relationship with the &lt;t color='%1'&gt;International Committee of the Red Cross&lt;/t&gt; (ICRC). Especially in recent years, they have identified games as a valid vehicle to spread awareness of a topic that both makes sense to everyone, yet can be very complicated to explain, implement and safeguard. We're talking about &lt;t color='%1'&gt;International Humanitarian Law&lt;/t&gt; (IHL), also known as the laws of armed conflict, the rules of war, or the laws of war. Its most widely known component is perhaps the Geneva Conventions. The ICRC has helped our developers to be educated on this important aspect of warfare, and they have pointed out how we might improve our games to include IHL elements, without taking fun away from players.</Original>
@@ -4093,7 +4093,7 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_para">
         <Original>It is with some pride that we welcome you to the release of the &lt;t color='%1'&gt;Arma 3 Laws of War&lt;/t&gt; DLC. Known for some time under code name "Orange" on our &lt;a href='%3' color='%2'&gt;2017 roadmap&lt;/a&gt;, we have recently revealed the unique theme of this asset and content pack to you all. We feel there is something for everyone to be found in this DLC and the accompanying platform update. So we invite you to keep reading for more information, or to dive straight into the game and explore the additions for yourself. This is war!</Original>
         <Chinese>如今我們驕傲地向諸位推出&lt;tcolor='%1'&gt;武裝突襲3戰爭法&lt;/t&gt;資料片。曾經該資料片在我們的&lt;ahref='%3'color='%2'&gt;2017進度計劃表&lt;/a&gt;，中也以"橙色"資料片代稱。我們最近公開揭示了這一部分內容和特性的獨特主基調。我們意識到每個人都能在這個資料片和隨後的平臺更新中體悟到一些什麼。所以我們邀請您閱讀更多信息，或者認真挖掘遊戲並探索更多內容。這就是戰爭!</Chinese>
-        <Chinesesimp>如今我们骄傲地向诸位推出&lt;tcolor='%1'&gt;武装突袭3战争法&lt;/t&gt;DLC。曾经该 DLC 在我们的&lt;ahref='%3'color='%2'&gt;2017进度计划表&lt;/a&gt;，中也以"橙色"DLC 代称。我们最近公开揭示了这一部分内容和特性的独特主基调。我们意识到每个人都能在这个 DLC 和随后的平台更新中体悟到一些什么。所以我们邀请您阅读更多信息，或者认真挖掘游戏并探索更多内容。这就是战争!</Chinesesimp>
+        <Chinesesimp>如今我们骄傲地向诸位推出&lt;tcolor='%1'&gt;武装突袭3战争法&lt;/t&gt;DLC。曾经该 DLC 在我们的&lt;ahref='%3'color='%2'&gt;2017进度计划表&lt;/a&gt;，中也以"橙色"DLC 代称。我们最近公开揭示了这一部分内容和特性的独特主基调。我们意识到每个人都能在这个 DLC 和随后的平台更新中体悟到一些什么。所以我们邀请您阅读更多信息，或者认真挖掘游戏并探索更多内容。这就是战争！</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_pare_list11_title_plain">
         <Original>International Development &amp; Aid Project</Original>
@@ -4182,22 +4182,22 @@
       <Key ID="STR_A3_CfgMusic_AmbientTrack01_F_Orange">
         <Original>Laws of War DLC: Ambient</Original>
         <Chinese>戰爭法資料片:周遭環境</Chinese>
-        <Chinesesimp>战争法 DLC:周边局势</Chinesesimp>
+        <Chinesesimp>战争法 DLC：周边局势</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02_F_Orange">
         <Original>Laws of War DLC: Remnants of War</Original>
         <Chinese>戰爭法資料片:戰後殘局</Chinese>
-        <Chinesesimp>战争法 DLC:战争遗留物</Chinesesimp>
+        <Chinesesimp>战争法 DLC：战争遗留物</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack01_F_Orange">
         <Original>Laws of War DLC: Escalation</Original>
         <Chinese>戰爭法資料片:漸趨緊張</Chinese>
-        <Chinesesimp>战争法 DLC:事态升级</Chinesesimp>
+        <Chinesesimp>战争法 DLC：事态升级</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack02_F_Orange">
         <Original>Laws of War DLC: Scenario Completed</Original>
         <Chinese>戰爭法資料片:大功告成</Chinese>
-        <Chinesesimp>战争法 DLC:场景已完成</Chinesesimp>
+        <Chinesesimp>战争法 DLC：场景已完成</Chinesesimp>
       </Key>
     </Container>
   </Package>

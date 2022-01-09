@@ -17,7 +17,7 @@
       <Key ID="str_a3_types1">
         <Original>There are three basic types of UAVs.&lt;br/&gt;&lt;br/&gt;The middle sized ground UAV %3%11%4 can be used mainly as reconnaissance or fire support. Thanks to its transport ability, this UAV can help units to move away from a dangerous place.&lt;br/&gt;&lt;br/&gt;The main purpose of a small quadrotor %3%12%4 is reconnaissance. It doesn't carry any weapons but is equipped with a laser designator for marking targets. Small size and excellent maneuverability are also its big advantages.&lt;br/&gt;&lt;br/&gt;A bigger fixed-wing %3%13%4 can carry air-to-ground missiles or bombs and is also equipped with a laser designator. Greyhawk can be used as an attack unit, or in case of the unarmed variant, as a reconnaissance unit. The big advantage of this UAV in comparison with common planes is the ability to land at almost any spot without trees or bigger rocks.</Original>
         <Chinese>有三種基本類型的無人載具。&lt;br/&gt;&lt;br/&gt;中等大小的%3%11%4主要被用來偵察或者提供火力支援。多虧了它的運輸特性，這款無人載具能將人員移出危險區域。&lt;br/&gt;&lt;br/&gt;小型四軸飛行器%3%12%4的主要用途是偵察。它沒有任何武器，只有裝設雷射指示器來標定敵人，但是假如敵人在他四周的話，它偏小的外形和極佳的移動能力是它本身巨大的優勢。&lt;br/&gt;&lt;br/&gt;大型固定翼無人載具%3%13%4能裝載一些用來攻擊的飛彈或炸彈。"灰鷹"可以被用作攻擊單位，或是無武裝的偵察單位。與其他飛機相比，這個無人機的最大優勢在於它可以在任何沒有樹或者大型巖石的區域著陸。</Chinese>
-        <Chinesesimp>有三种基本类型的无人载具。&lt;br/&gt;&lt;br/&gt;中等大小的%3%11%4主要被用来侦察或者提供火力支援。多亏了它的运输特性，这款无人载具能将人员移出危险区域。&lt;br/&gt;&lt;br/&gt;小型四轴飞行器%3%12%4的主要用途是侦察。它没有任何武器，只有装设激光指示器来标定敌人，但是假如敌人在他四周的话，它偏小的外形和极佳的移动能力是它本身巨大的优势。&lt;br/&gt;&lt;br/&gt;大型固定翼无人载具%3%13%4能装载一些用来攻击的导弹或炸弹。"灰鹰"可以被用作攻击单位，或是无武装的侦察单位。与其他飞机相比，这个无人机的最大优势在于它可以在任何没有树或者大型岩石的区域着陆。</Chinesesimp>
+        <Chinesesimp>有三种基本类型的无人机。&lt;br/&gt;&lt;br/&gt;中等大小的%3%11%4主要被用来侦察或者提供火力支援。多亏了它的运输特性，这款无人机能将人员移出危险区域。&lt;br/&gt;&lt;br/&gt;小型四轴飞行器%3%12%4的主要用途是侦察。它没有任何武器，只有装设激光指示器来标定敌人，但是假如敌人在他四周的话，它偏小的外形和极佳的移动能力是它本身巨大的优势。&lt;br/&gt;&lt;br/&gt;大型固定翼无人机%3%13%4能装载一些用来攻击的导弹或炸弹。"灰鹰"可以被用作攻击单位，或是无武装的侦察单位。与其他飞机相比，这个无人机的最大优势在于它可以在任何没有树或者大型岩石的区域着陆。</Chinesesimp>
       </Key>
       <Key ID="str_a3_types0">
         <Original>UAV Types</Original>
@@ -27,12 +27,12 @@
       <Key ID="str_a3_terminal1">
         <Original>Access to a UAV Terminal is available only if you have item %3%11%4 in your inventory. To open a UAV Terminal select %3%12%4 in the action menu.&lt;br/&gt;&lt;br/&gt;The UAV Terminal is a powerful tool where you can:%1%2See all friendly UAVs nearby.%1%2Create a connection between your terminal and non-controlled UAVs: use %14 on UAV.%1%2See basic information about the connected UAV.%1%2See camera output from the connected UAV.%1%2Set tasks/waypoints for the connected UAV: %13 in map.%1%2Set waypoint parameters for the UAV: %14 on waypoint.%1%2UAV terminal can be also used as a GPS module.</Original>
         <Chinese>當你擁有%3%11%4在你的裝備裡的時候，你才能使用無人載具終端機。使用動作選單裡的%3%12%4來開啟無人載具終端機。&lt;br/&gt;&lt;br/&gt;無人載具終端機是個非常強大的工具，你可以用它做以下事情:%1%2查看附近所有的友軍無人載具。%1%2建立終端機與無人載具之間的連接:使用%14點擊無人載具。%1%2查看無人載具的基本資訊。%1%2觀看從無人載具攝影機輸出的影像。%1%2設定任務/路徑給已連接的無人載具:%13在地圖上。%1%2設定路徑參數給無人載具:%14在路徑點上。%1%2無人載具終端機也可被當作GPS使用。</Chinese>
-        <Chinesesimp>当你拥有%3%11%4在你的装备里的时候，你才能使用无人载具终端机。使用动作选单里的%3%12%4来开启无人载具终端机。&lt;br/&gt;&lt;br/&gt;无人载具终端机是个非常强大的工具，你可以用它做以下事情:%1%2查看附近所有的友军无人载具。%1%2建立终端机与无人载具之间的连接:使用%14点击无人载具。%1%2查看无人载具的基本信息。%1%2观看从无人载具摄影机输出的影像。%1%2设定任务/路径给已连接的无人载具:%13在地图上。%1%2设定路径参数给无人载具:%14在路径点上。%1%2无人载具终端机也可被当作 GPS 使用。</Chinesesimp>
+        <Chinesesimp>当你拥有%3%11%4在你的装备里的时候，你才能使用无人机终端。使用动作选单里的%3%12%4来开启无人机终端。&lt;br/&gt;&lt;br/&gt;无人机终端是个非常强大的工具，你可以用它做以下事情：%1%2查看附近所有的友军无人机。%1%2建立终端与无人机之间的连接：使用%14点击无人机。%1%2查看无人机的基本信息。%1%2观看从无人机摄影机输出的影像。%1%2设定任务/路径给已连接的无人机：%13在地图上。%1%2设定路径参数给无人机：%14在路径点上。%1%2无人机终端也可被当作 GPS 使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_terminal0">
         <Original>UAV Terminal</Original>
         <Chinese>無人載具終端機</Chinese>
-        <Chinesesimp>无人载具终端机</Chinesesimp>
+        <Chinesesimp>无人机终端</Chinesesimp>
       </Key>
       <Key ID="str_a3_targets1">
         <Original>Guided missiles are only useful when a target is locked. Press %11 to lock the target. Normal targets have a square sign &lt;img size='1' %5  image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_known_target_ca.paa' /&gt;, the locked target has an additional diamond mark &lt;img size='1' %5  image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_lock_target_ca.paa' /&gt;. To switch to the next target, press %11 again.</Original>
@@ -66,8 +66,8 @@
       </Key>
       <Key ID="str_a3_takeoffplane0">
         <Original>To take-off vertically in a VTOL airplane%1&lt;t&gt;&lt;/t&gt;1. Use %11 to enter Manual Vectoring.%1&lt;t&gt;&lt;/t&gt;2. Press %12 several times to adjust the vectoring angle to 90°.%1&lt;t&gt;&lt;/t&gt;3. Gently increase throttle until you start climbing.%1&lt;t&gt;&lt;/t&gt;4. Once high enough, use %13 to gradually transition into forward flight.</Original>
-        <Chinese>要使垂直起降機原地垂直起飛的話，請參考以下步驟%1&lt;t&gt;&lt;/t&gt;1。使用%11來切換到手動向量模式。%1&lt;t&gt;&lt;/t&gt;2。按下%12數次來調整向量噴嘴至90°。%1&lt;t&gt;&lt;/t&gt;3。慢慢提高油門直到你開始離地。%1&lt;t&gt;&lt;/t&gt;4。等到夠高以後，使用%13來慢慢切換到向前飛行的模式。</Chinese>
-        <Chinesesimp>要使垂直起降机原地垂直起飞的话，请参考以下步骤%1&lt;t&gt;&lt;/t&gt;1。使用%11来切换到手动向量模式。%1&lt;t&gt;&lt;/t&gt;2。按下%12数次来调整向量喷嘴至90°。%1&lt;t&gt;&lt;/t&gt;3。慢慢提高油门直到你开始离地。%1&lt;t&gt;&lt;/t&gt;4。等到够高以后，使用%13来慢慢切换到向前飞行的模式。</Chinesesimp>
+        <Chinese>要使垂直起降機原地垂直起飛的話，請參考以下步驟%1&lt;t&gt;&lt;/t&gt;1.使用%11來切換到手動向量模式。%1&lt;t&gt;&lt;/t&gt;2.按下%12數次來調整向量噴嘴至90°。%1&lt;t&gt;&lt;/t&gt;3.慢慢提高油門直到你開始離地。%1&lt;t&gt;&lt;/t&gt;4.等到夠高以後，使用%13來慢慢切換到向前飛行的模式。</Chinese>
+        <Chinesesimp>要使垂直起降机原地垂直起飞的话，请参考以下步骤%1&lt;t&gt;&lt;/t&gt;1.使用%11来切换到手动向量模式。%1&lt;t&gt;&lt;/t&gt;2.按下%12数次来调整向量喷嘴至90°。%1&lt;t&gt;&lt;/t&gt;3.慢慢提高油门直到你开始离地。%1&lt;t&gt;&lt;/t&gt;4.等到够高以后，使用%13来慢慢切换到向前飞行的模式。</Chinesesimp>
       </Key>
       <Key ID="str_a3_tactics_assemble1">
         <Original>Assembling Turrets</Original>
@@ -82,12 +82,12 @@
       <Key ID="str_a3_tactics_disassemble0">
         <Original>Turrets can be disassembled, moved and reassembled on the battlefield. To disassemble it:%1%2Point the cursor at the weapon.%1%2Choose %3Disassemble%4 from the action menu %11.%1Two bags will appear. To grab a bag: %1%2Point at it.%1%2Select %3Take%4 from the action menu.</Original>
         <Chinese>固定式武器可以在戰場上拆解，移動，並再次組裝。拆卸它的步驟:%1%2移動游標到武器上。%1%2在動作選單中%11選擇%3拆解%4。%1拆卸後會出現兩個包。要拿起其中一個包:%1%2移動游標指向它。%1%2從動作選單中選擇%3拿取%4。</Chinese>
-        <Chinesesimp>固定式武器可以在战场上拆解，移动，并再次组装。拆卸它的步骤:%1%2移动游标到武器上。%1%2在动作选单中%11选择%3拆解%4。%1拆卸后会出现两个包。要拿起其中一个包:%1%2移动游标指向它。%1%2从动作选单中选择%3拿取%4。</Chinesesimp>
+        <Chinesesimp>固定式武器可以在战场上拆解，移动，并再次组装。拆卸它的步骤：%1%2移动游标到武器上。%1%2在动作选单中%11选择%3拆解%4。%1拆卸后会出现两个包。要拿起其中一个包：%1%2移动游标指向它。%1%2从动作选单中选择%3拿取%4。</Chinesesimp>
       </Key>
       <Key ID="str_a3_pilotingquadrotor1">
         <Original>%1%2Start the engine by pressing %11.%1%2Hold %11 to increase throttle and gain altitude.%1%2Hold %12 to decrease throttle and lose altitude.%1%2Maneuver the UAV sideways with %13 and %14.%1%2Pull the nose down %15 to gain speed and up %16 to lose it.%1%2Use %17 and %18 to rotate left/right.%1%2Use the %3mouse%4 to control the UAV smoothly.%1%2Use %3Auto-hover %19%4 to stabilize the UAV.</Original>
         <Chinese>%1%2按%11發動引擎。%1%2按住%11增加推力提升海拔。%1%2按住%12減少推力降低海拔。%1%2用%13和%14控制空中無人載具傾斜飛行方向。%1%2按%15使機頭向下加速，按%16使機頭向上減速。%1%2使用%17和%18向左/向右旋轉。%1%2使用%3滑鼠%4流暢地控制空中無人載具。%1%2使用%3自動盤旋%19%4來穩定無人載具。</Chinese>
-        <Chinesesimp>%1%2按%11发动引擎。%1%2按住%11增加推力提升海拔。%1%2按住%12减少推力降低海拔。%1%2用%13和%14控制空中无人载具倾斜飞行方向。%1%2按%15使机头向下加速，按%16使机头向上减速。%1%2使用%17和%18向左/向右旋转。%1%2使用%3鼠标%4流畅地控制空中无人载具。%1%2使用%3自动盘旋%19%4来稳定无人载具。</Chinesesimp>
+        <Chinesesimp>%1%2按%11发动引擎。%1%2按住%11增加推力提升海拔。%1%2按住%12减少推力降低海拔。%1%2用%13和%14控制无人机倾斜飞行方向。%1%2按%15使机头向下加速，按%16使机头向上减速。%1%2使用%17和%18向左/向右旋转。%1%2使用%3鼠标%4流畅地控制无人机。%1%2使用%3自动盘旋%19%4来稳定无人机。</Chinesesimp>
       </Key>
       <Key ID="str_a3_pilotingquadrotor0">
         <Original>Piloting – Quadrotor</Original>
@@ -97,7 +97,7 @@
       <Key ID="str_a3_tactics_assemble0">
         <Original>After moving a static weapon, it needs to be assembled again. You will need bags with both parts of the weapon: the tripod and the gun.%1%2Open Inventory %11.%1%2%3Drag and drop%4 the first bag on the ground.%1%2Bring the second bag close, you must have it in your posession.%1When both bags are close to each other, you can point at them and click %3Assemble%4. The turret will be facing the same direction you're facing when assembling it.</Original>
         <Chinese>固定式武器移動之後需要被重新組裝。你需要兩個背包，分別裝有武器的兩個部分:腳架和武器本體。%1%2打開裝備%11。%1%2%3拖放%4第一個背包在地面上。%1%2把第二個背包放在旁邊。%1兩個背包放在一起時，你可以選中並點擊%3組裝%4。組裝起來的固定式武器，其朝向與你進行組裝時面對的方向一致。</Chinese>
-        <Chinesesimp>固定式武器移动之后需要被重新组装。你需要两个背包，分别装有武器的两个部分:脚架和武器本体。%1%2打开装备%11。%1%2%3拖放%4第一个背包在地面上。%1%2把第二个背包放在旁边。%1两个背包放在一起时，你可以选中并点击%3组装%4。组装起来的固定式武器，其朝向与你进行组装时面对的方向一致。</Chinesesimp>
+        <Chinesesimp>固定式武器移动之后需要被重新组装。你需要两个背包，分别装有武器的两个部分：脚架和武器本体。%1%2打开装备%11。%1%2%3拖放%4第一个背包在地面上。%1%2把第二个背包放在旁边。%1两个背包放在一起时，你可以选中并点击%3组装%4。组装起来的固定式武器，其朝向与你进行组装时面对的方向一致。</Chinesesimp>
       </Key>
       <Key ID="str_a3_pilotingfixedwing1">
         <Original>%2Control the nose of the aircraft with %11 for up and %12 for down.%1%2Hold %13 to increase throttle, hold %14 to decrease throttle.%1%2Bank left/right with %15/%16.%1%2Use the rudder %17 and %18 to steer left/right.</Original>
@@ -142,32 +142,32 @@
       <Key ID="str_a3_landing0">
         <Original>A good approach is the key to a good landing.%1&lt;t&gt;&lt;/t&gt;1. Line up your airplane with the runway and adjust the throttle %11 to slow down to 1/3 above your stall speed.%1&lt;t&gt;&lt;/t&gt;2. Keep your nose slightly down, lower the landing gear %12 and extend the flaps %13.%1&lt;t&gt;&lt;/t&gt;3. Pick a point on the runway (e.g. numbers) and reference it to your cockpit. Try to keep it in the same position throughout the descent.%1&lt;t&gt;&lt;/t&gt;4. If the point is moving up, you are undershooting and need to increase power. If it's moving down, reduce power or extend flaps further.%1&lt;t&gt;&lt;/t&gt;5. Once you're above the runway, reduce power to idle, gently pull up the nose and wait until the wheels touch the runway. Then brake %14.</Original>
         <Chinese>一個好的進場是整個降落中的關鍵。%1&lt;t&gt;&lt;/t&gt;1. 把你的飛機與跑道對齊並使用%11降低油門至1/3左右，略高於失速的速度。%1&lt;t&gt;&lt;/t&gt;2. 稍微壓低你的機鼻，使用%12放下你的起落架，並用%13張開你的襟翼。%1&lt;t&gt;&lt;/t&gt;3. 在跑道上選一個參考點(例如:跑道號碼)並使你的飛行路徑標誌(FPM)對準該參考點。請試著在整個下滑階段都保持對準該點。%1&lt;t&gt;&lt;/t&gt;4. 假如那個參考點過高，代表你會錯失該點，請增加一點你的油門來修正下滑率。假如那個點過低，請減低你的油門或是把襟翼張更大。%1&lt;t&gt;&lt;/t&gt;5. 當你最終到跑道上空時，減低油門至最低並輕輕的拉起你的機鼻直到起落架觸地。最後再使用%14煞車即可完成降落。</Chinese>
-        <Chinesesimp>良好的进近是整个降落中的关键。%1&lt;t&gt;&lt;/t&gt;1. 把你的飞机与跑道对齐并使用%11降低油门至1/3左右，略高于失速的速度。%1&lt;t&gt;&lt;/t&gt;2. 稍微压低你的机鼻，使用%12放下你的起落架，并用%13张开你的襟翼。%1&lt;t&gt;&lt;/t&gt;3. 在跑道上选一个参考点(例如:跑道号码)并使你的飞行路径标志（FPM）对准该参考点。请试着在整个下滑阶段都保持对准该点。%1&lt;t&gt;&lt;/t&gt;4. 假如那个参考点过高，代表你会错失该点，请增加一点你的油门来修正下滑率。假如那个点过低，请减低你的油门或是把襟翼张更大。%1&lt;t&gt;&lt;/t&gt;5. 当你最终到跑道上空时，减低油门至最低并轻轻的拉起你的机鼻直到起落架触地。最后再使用%14刹车即可完成降落。</Chinesesimp>
+        <Chinesesimp>良好的进近是整个降落中的关键。%1&lt;t&gt;&lt;/t&gt;1. 把你的飞机与跑道对齐并使用%11降低油门至1/3左右，略高于失速的速度。%1&lt;t&gt;&lt;/t&gt;2. 稍微压低你的机鼻，使用%12放下你的起落架，并用%13张开你的襟翼。%1&lt;t&gt;&lt;/t&gt;3. 在跑道上选一个参考点(例如：跑道号码)并使你的飞行路径标志（FPM）对准该参考点。请试着在整个下滑阶段都保持对准该点。%1&lt;t&gt;&lt;/t&gt;4. 假如那个参考点过高，代表你会错失该点，请增加一点你的油门来修正下滑率。假如那个点过低，请减低你的油门或是把襟翼张更大。%1&lt;t&gt;&lt;/t&gt;5. 当你最终到跑道上空时，减低油门至最低并轻轻的拉起你的机鼻直到起落架触地。最后再使用%14刹车即可完成降落。</Chinesesimp>
       </Key>
       <Key ID="str_a3_controls2">
         <Original>Other specific actions include:%1%2Flaps - extend %19 and retract %20 %1%2%21 for landing gear</Original>
         <Chinese>其他額外的操控:%1%2襟翼-使用%19來張開襟翼，用%20來收回襟翼%1%2用%21來收放起落架</Chinese>
-        <Chinesesimp>其他额外的操控:%1%2襟翼-使用%19来张开襟翼，用%20来收回襟翼%1%2用%21来收放起落架</Chinesesimp>
+        <Chinesesimp>其他额外的操控：%1%2襟翼 — 使用%19来张开襟翼，用%20来收回襟翼%1%2用%21来收放起落架</Chinesesimp>
       </Key>
       <Key ID="str_a3_connection2">
         <Original>If you steal an enemy UAV Terminal, you will be able to create a connection to enemy UAVs. Be aware that an enemy UAV will always be attacking to your side in the automatic mode because you can't reprogram its internal computing unit.</Original>
         <Chinese>如果你偷取敵人的無人載具終端機，你可以建立與敵方無人載具的連接。請注意，當敵人無人載具在自動模式底下的時候，會主動攻擊你的陣營，因為你無法重新編寫其內部的程式編碼。</Chinese>
-        <Chinesesimp>如果你偷取敌人的无人载具终端机，你可以建立与敌方无人载具的连接。请注意，当敌人无人载具在自动模式底下的时候，会主动攻击你的阵营，因为你无法重新编写其内部的程式编码。</Chinesesimp>
+        <Chinesesimp>如果你偷取敌人的无人机终端，你可以建立与敌方无人机的连接。请注意，当敌人无人机在自动模式底下的时候，会主动攻击你的阵营，因为你无法重新编写其内部的程式编码。</Chinesesimp>
       </Key>
       <Key ID="str_a3_connection1">
         <Original>To take control over a friendly autonomous vehicle, you must have a %3%11%4 item assigned in the GPS slot in your inventory. Connection to a UAV can be created in the UAV Terminal.%1%2Open the action menu via %12, select %3%13%4.%1%2Select the UAV from the top-left drop down menu.%1%2Take control of a driver or a gunner position using buttons on the top-right.%1%2Use the action menu to switch between positions or to release UAV controls.%1There can be only one UAV connected to your terminal at any time.</Original>
         <Chinese>要控制一臺友軍的無人載具，你必須擁有一個%3%11%4在你背包中的GPS欄位。與無人載具的連接可以在無人載具終端機中被建立。%1%2使用%12來打開動作選單，選擇%3%13%4。%1%2使用%14點擊可被控制的無人載具。%1%2選擇%3%15%4。%1%2你可以在左上角的選單中選擇無人載具。%1%2在右上角選擇你要控制的位置。%1%2在操控無人載具時，你可以透過動作選單來切換控制的位置。%1任何時候，你的終端機至多只能連接一臺無人載具。</Chinese>
-        <Chinesesimp>要控制一台友军的无人载具，你必须拥有一个%3%11%4在你背包中的 GPS 栏位。与无人载具的连接可以在无人载具终端机中被建立。%1%2使用%12来打开动作选单，选择%3%13%4。%1%2使用%14点击可被控制的无人载具。%1%2选择%3%15%4。%1%2你可以在左上角的选单中选择无人载具。%1%2在右上角选择你要控制的位置。%1%2在操控无人载具时，你可以透过动作选单来切换控制的位置。%1任何时候，你的终端机至多只能连接一台无人载具。</Chinesesimp>
+        <Chinesesimp>要控制一台友军的无人机，你必须拥有一个%3%11%4在你背包中的 GPS 栏位。与无人机的连接可以在无人机终端中被建立。%1%2使用%12来打开动作选单，选择%3%13%4。%1%2使用%14点击可被控制的无人机。%1%2选择%3%15%4。%1%2你可以在左上角的选单中选择无人机。%1%2在右上角选择你要控制的位置。%1%2在操控无人机时，你可以透过动作选单来切换控制的位置。%1任何时候，你的终端至多只能连接一台无人机。</Chinesesimp>
       </Key>
       <Key ID="str_a3_controls0">
         <Original>Aircraft maneuver on three axes: Pitch, Roll, and Yaw. %1%2Pitch or nose up %11 and nose down %12. %1%2Roll or bank left %15 and right %16. %1%2Yaw or steer left %17 and right %18. %1%2Hold %13 to increase throttle, hold %14 to decrease throttle.</Original>
         <Chinese>飛機總共可以在三個方向上做運動:俯仰，滾轉以及偏航。%1%2俯仰可以透過%11來抬升機鼻或是用%12降低機鼻。%1%2滾轉可以透過%15來向左滾或是用%16來向右滾。%1%2偏航(以及機輪)可以透過%17來向左轉或用%18向右轉。%1%2按住%13來增加推力，按住%14來降低推力。</Chinese>
-        <Chinesesimp>飞机总共可以在三个方向上做运动:俯仰，滚转以及偏航。%1%2俯仰可以透过%11来抬升机鼻或是用%12降低机鼻。%1%2滚转可以透过%15来向左滚或是用%16来向右滚。%1%2偏航（以及机轮）可以透过%17来向左转或用%18向右转。%1%2按住%13来增加推力，按住%14来降低推力。</Chinesesimp>
+        <Chinesesimp>飞机总共可以在三个方向上做运动：俯仰，滚转以及偏航。%1%2俯仰可以透过%11来抬升机鼻或是用%12降低机鼻。%1%2滚转可以透过%15来向左滚或是用%16来向右滚。%1%2偏航（以及机轮）可以透过%17来向左转或用%18向右转。%1%2按住%13来增加推力，按住%14来降低推力。</Chinesesimp>
       </Key>
       <Key ID="str_a3_connection0">
         <Original>UAV Connection</Original>
         <Chinese>無人載具連接</Chinese>
-        <Chinesesimp>无人载具连接</Chinesesimp>
+        <Chinesesimp>无人机连接</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_teamgear1">
         <Original>Team Inventory</Original>
@@ -187,7 +187,7 @@
       <Key ID="str_a3_cfghints_tacticaltease2">
         <Original>Please note that the following texts are just excerpts from full, 350 page long Arma 3 Tactical Guide written by Andrew „dslyecxi“ Gluck. This digital guide is available as part of Digital Deluxe Editions and also can be bought separately in our online shop in both %3&lt;a href='https://store.bistudio.com/products/arma3-tactical-guide-pdf'&gt;digital&lt;/a&gt;%4 and %3&lt;a href='https://store.bistudio.com/products/arma3-tactical-guide-printed'&gt;printed&lt;/a&gt;%4 version.</Original>
         <Chinese>此戰術指南由Andrew'Dslyecxi'Gluck來編寫，內容有350頁，收錄於有購買數位豪華版的人的遊戲資料夾裡面。你可以在這邊看到更多詳情:%3&lt;ahref='https://store.bistudio.com/products/arma3-tactical-guide-pdf'&gt;電子書&lt;/a&gt;%4或%3&lt;ahref='https://store.bistudio.com/products/arma3-tactical-guide-printed'&gt;實體書&lt;/a&gt;%4。</Chinese>
-        <Chinesesimp>此战术指南由 Andrew'Dslyecxi'Gluck 来编写，内容有350页，收录于有购买数字豪华版的人的游戏文件夹里面。你可以在这边看到更多详情:%3&lt;ahref='https://store.bistudio.com/products/arma3-tactical-guide-pdf'&gt;电子书&lt;/a&gt;%4或%3&lt;ahref='https://store.bistudio.com/products/arma3-tactical-guide-printed'&gt;实体书&lt;/a&gt;%4。</Chinesesimp>
+        <Chinesesimp>此战术指南由 Andrew'Dslyecxi'Gluck 来编写，内容有350页，收录于有购买数字豪华版的人的游戏文件夹里面。你可以在这边看到更多详情：%3&lt;ahref='https：//store.bistudio.com/products/arma3-tactical-guide-pdf'&gt;电子书&lt;/a&gt;%4或%3&lt;ahref='https：//store.bistudio.com/products/arma3-tactical-guide-printed'&gt;实体书&lt;/a&gt;%4。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_tacticaltease1">
         <Original>Welcome to the Tactical Guide. This section intends to teach you about the Tactics, Techniques and Procedures of combat. The topics were specifically picked to help you gain a tactical advantage in each stage of our episodic campaign.</Original>
@@ -202,32 +202,32 @@
       <Key ID="str_a3_basics2">
         <Original>You can show the output of the UAV camera even in standard view by pressing %11.</Original>
         <Chinese>你在標準視角中可以按%11來查看無人載具的攝影機視角。</Chinese>
-        <Chinesesimp>你在标准视角中可以按%11来查看无人载具的摄影机视角。</Chinesesimp>
+        <Chinesesimp>你在标准视角中可以按%11来查看无人机的摄影机视角。</Chinesesimp>
       </Key>
       <Key ID="str_a3_basics1">
         <Original>UAVs (Unmanned Autonomous Vehicle) are remotely controlled vehicles which operate without a human crew onboard. They can be used for many applications where it may be inconvenient, dangerous, or impossible to have a human operator present. Each one of them has its own internal computing unit and is able to make certain decisions by itself (transport from one place to another, enemy/friendly recognition, etc.).</Original>
         <Chinese>無人載具(無人操控自動載具)是無人駕駛的遙控載具。它們能夠用於多個領域。例如那些不方便，危險或人類不能到達的地方。每個無人載具都擁有內建電腦且能夠自主行動(移動與敵我識別等許多功能。)</Chinese>
-        <Chinesesimp>无人载具(无人操控自动载具)是无人驾驶的遥控载具。它们能够用于多个领域。例如那些不方便，危险或人类不能到达的地方。每个无人载具都拥有内置电脑且能够自主行动（移动与敌我识别等许多功能。）</Chinesesimp>
+        <Chinesesimp>无人机(无人操控自动载具)是无人驾驶的遥控载具。它们能够用于多个领域。例如那些不方便，危险或人类不能到达的地方。每个无人机都拥有内置电脑且能够自主行动（移动与敌我识别等许多功能。）</Chinesesimp>
       </Key>
       <Key ID="str_a3_basics0">
         <Original>UAV Basics</Original>
         <Chinese>無人載具基本介紹</Chinese>
-        <Chinesesimp>无人载具基本介绍</Chinesesimp>
+        <Chinesesimp>无人机基本介绍</Chinesesimp>
       </Key>
       <Key ID="str_a3_backpack1">
         <Original>Big UAVs are too heavy for carrying, but small ones like %3%11%4 can be disassembled into a backpack.%1%2Open the action menu with %12 or %13.%1%2Select %3%14%4.&lt;br/&gt;Backpack with a UAV has no capacity to carry anything else.&lt;br/&gt;&lt;br/&gt;You need to be wearing a UAV backpack for assembling a UAV from a backpack. To do so, just select %3%15%4 in action menu.</Original>
         <Chinese>大型無人載具因為過重而無法攜帶，但是像%3%11%4一樣小型的無人載具就可以拆開並放入背包。%1%2以%12或%13打開動作選單。%1%2選擇%3%14%4。&lt;br/&gt;裝載無人載具的背包，已經沒有容量可以裝下其他的東西。&lt;br/&gt;&lt;br/&gt;你需要背著無人載具的背包才能組裝無人載具。從動作選單中選擇%3%15%4來組裝它。</Chinese>
-        <Chinesesimp>大型无人载具因为过重而无法携带，但是像%3%11%4一样小型的无人载具就可以拆开并放入背包。%1%2以%12或%13打开动作选单。%1%2选择%3%14%4。&lt;br/&gt;装载无人载具的背包，已经没有容量可以装下其他的东西。&lt;br/&gt;&lt;br/&gt;你需要背着无人载具的背包才能组装无人载具。从动作选单中选择%3%15%4来组装它。</Chinesesimp>
+        <Chinesesimp>大型无人机因为过重而无法携带，但是像%3%11%4一样小型的无人机就可以拆开并放入背包。%1%2以%12或%13打开动作选单。%1%2选择%3%14%4。&lt;br/&gt;装载无人机的背包，已经没有容量可以装下其他的东西。&lt;br/&gt;&lt;br/&gt;你需要背着无人机的背包才能组装无人机。从动作选单中选择%3%15%4来组装它。</Chinesesimp>
       </Key>
       <Key ID="str_a3_backpack0">
         <Original>UAV in a Backpack</Original>
         <Chinese>無人載具裝在背包裡</Chinese>
-        <Chinesesimp>无人载具装在背包里</Chinesesimp>
+        <Chinesesimp>无人机装在背包里</Chinesesimp>
       </Key>
       <Key ID="str_a3_0">
         <Original>UAV</Original>
         <Chinese>無人載具</Chinese>
-        <Chinesesimp>无人载具</Chinesesimp>
+        <Chinesesimp>无人机</Chinesesimp>
       </Key>
       <Key ID="str_a3_assemble">
         <Original>Assemble</Original>
@@ -247,22 +247,22 @@
       <Key ID="STR_A3_FM_Welcome0">
         <Original>New to Arma?</Original>
         <Chinese>第一次玩武裝突襲?</Chinese>
-        <Chinesesimp>第一次玩武装突袭?</Chinesesimp>
+        <Chinesesimp>第一次玩武装突袭？</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FM_Welcome1">
         <Original>Arma 3 is a %3unique military game%4 with an %3infantry focus%4. Built upon %3appropriate%4, %3useful%4 and %3engaging%4 elements of %3simulation%4, it's an %3accessible platform%4 for a variety of official and community playable / sandbox content, based on the principles of %3authenticity%4, %3diversity%4 and %3opportunity%4.%1%1%2Richly detailed battlefields%1%2Diverse range of authentically simulated vehicles and weapons%1%2Varied pieces of playable content in singleplayer and multiplayer%1%2Powerful scenario editor, mod creation and a creative community%1%2Learn section with bootcamp and virtual reality trainings to get you started%1%1More at %3&lt;a href='http://www.arma3.com'&gt;arma3.com&lt;/a&gt;%4</Original>
         <Chinese>武裝突襲3是一個%3獨特的軍事遊戲%4，並且%3專注於步兵戰鬥%4上的體驗。建立於%3合理%4，%3有用%4和%3引人入勝%4的%3擬真%4元素，這個%3平臺%4集合了各種官方和玩家論壇的模組或任務，這些模組或任務都基於%3真實性%4，%3多樣性%4和%3隨機性%4來當做開發原則。%1%1%2細節豐富的戰場%1%2種類繁多且真實模擬的載具與武器%1%2單人與多人遊戲中各種豐富且有趣的遊戲內容%1%2強大的任務編輯器，模組工具和創意無限的玩家論壇%1%2你可以先遊玩新兵訓練與虛擬實境訓練來開始體驗遊戲%1%1更多介紹請上%3&lt;ahref='https://www.arma3.com'&gt;arma3.com&lt;/a&gt;%4來觀看</Chinese>
-        <Chinesesimp>武装突袭3是一个%3独特的军事游戏%4，并且%3专注于步兵战斗%4上的体验。建立于%3合理%4，%3有用%4和%3引人入胜%4的%3拟真%4元素，这个%3平台%4集合了各种官方和玩家论坛的模组或任务，这些模组或任务都基于%3真实性%4，%3多样性%4和%3随机性%4来当做开发原则。%1%1%2细节丰富的战场%1%2种类繁多且真实模拟的载具与武器%1%2单人与多人游戏中各种丰富且有趣的游戏内容%1%2强大的任务编辑器，模组工具和创意无限的玩家论坛%1%2你可以先游玩新兵训练与虚拟实境训练来开始体验游戏%1%1更多介绍请上%3&lt;ahref='https://www.arma3.com'&gt;arma3.com&lt;/a&gt;%4来观看</Chinesesimp>
+        <Chinesesimp>武装突袭3是一个%3独特的军事游戏%4，并且%3专注于步兵战斗%4上的体验。建立于%3合理%4，%3有用%4和%3引人入胜%4的%3拟真%4元素，这个%3平台%4集合了各种官方和玩家论坛的模组或任务，这些模组或任务都基于%3真实性%4，%3多样性%4和%3随机性%4来当做开发原则。%1%1%2细节丰富的战场%1%2种类繁多且真实模拟的载具与武器%1%2单人与多人游戏中各种丰富且有趣的游戏内容%1%2强大的任务编辑器，模组工具和创意无限的玩家论坛%1%2你可以先游玩新兵训练与虚拟实境训练来开始体验游戏%1%1更多介绍请上%3&lt;ahref='https：//www.arma3.com'&gt;arma3.com&lt;/a&gt;%4来观看</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FM_Welcome2">
         <Original>Arma Veteran?</Original>
         <Chinese>ArmaA老兵?</Chinese>
-        <Chinesesimp>武装突袭老兵?</Chinesesimp>
+        <Chinesesimp>武装突袭老兵？</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FM_Welcome3">
         <Original>As compared to Arma 2, you'll find the significantly updated %3Real Virtuality™ 4.0%4 engine powering your experience. With it, we're aiming to take the elements that make Arma great, enhance them where appropriate, and deliver a robust %3platform%4 for future growth.%1%1%2Fluid new animations%1%2Upgraded sound engine%1%2Ragdoll simulation%1%2PhysX™-supported vehicles%1%1More at %3&lt;a href='http://www.arma3.com/whatsnew'&gt;arma3.com/whatsnew&lt;/a&gt;%4</Original>
         <Chinese>與武裝突襲2相比，你會發現%3Real Virtuality™ 4.0%4引擎的效能有顯著的提升。有了它，我們能加上更多的元素來使武裝突襲變得更棒，在適當的情況下對遊戲進行調整，並且發展了一個堅固的%3平臺%4以供未來成長。%1%1%2流暢的人物動作%1%2升級的聲音引擎%1%2布娃娃仿真%1%2PhysX™-物理效果運算%1%1更多訊息請登錄%3&lt;ahref='https://www.arma3.com/whatsnew'&gt;arma3.com/whatsnew&lt;/a&gt;%4來查看</Chinese>
-        <Chinesesimp>与武装突袭2相比，你会发现%3Real Virtuality™ 4.0%4引擎的效能有显着的提升。有了它，我们能加上更多的元素来使武装突袭变得更棒，在适当的情况下对游戏进行调整，并且发展了一个坚固的%3平台%4以供未来成长。%1%1%2流畅的人物动作%1%2升级的声音引擎%1%2布娃娃仿真%1%2PhysX™-物理效果模拟%1%1更多信息请登录%3&lt;ahref='https://www.arma3.com/whatsnew'&gt;arma3.com/whatsnew&lt;/a&gt;%4来查看</Chinesesimp>
+        <Chinesesimp>与武装突袭2相比，你会发现%3Real Virtuality™ 4.0%4引擎的效能有显着的提升。有了它，我们能加上更多的元素来使武装突袭变得更棒，在适当的情况下对游戏进行调整，并且发展了一个坚固的%3平台%4以供未来成长。%1%1%2流畅的人物动作%1%2升级的声音引擎%1%2布娃娃仿真%1%2PhysX™-物理效果模拟%1%1更多信息请登录%3&lt;ahref='https：//www.arma3.com/whatsnew'&gt;arma3.com/whatsnew&lt;/a&gt;%4来查看</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FM_Welcome4">
         <Original>Main Release</Original>
@@ -272,7 +272,7 @@
       <Key ID="STR_A3_FM_Welcome5">
         <Original>After our Alpha and Beta programs, we're now unleashing the primary Arma 3 release. This is just the %3beginning%4 however. We see this as the proper start of the Arma 3 %3platform%4. Both us and you will hopefully expand and enhance it for years to come. These are just a few of the highlighted changes since the Beta:%1%1%2%3Altis%4 - the massive virtual terrain inviting you for endless exploration%1%2%3Armor%4 - Main Battle Tanks, self-propelled artillery and Anti-Aircraft vehicles%1%2%3Drones%4 - quadcopters, Unmanned Ground Vehicles and fixed-wing UAVs%1%2%3Play%4 - more showcases, multiplayer scenarios and Firing Drills%1%2%3Campaign%4 - released for %3FREE%4 in several episodes during the months following launch%1%1More at %3&lt;a href='http://www.arma3.com/whatsnewfull/'&gt;arma3.com/whatsnewfull&lt;/a&gt;%4</Original>
         <Chinese>繼Alpha測試版和Beta測試版之後，我們現在很榮幸為大家推出武裝突襲3正式版。不過，這只不過是剛剛%3開始%4而已。我們把它看作是武裝突襲3%3這個平臺%4的開始。在今後的幾年裡，我們和各位玩家都會對它進行擴展和增強。以下特色是正式版與Beta版最大的不同:%1%1%2%3阿爾蒂斯%4-廣大的虛擬地圖邀請您一同來探索%1%2%3裝甲%4-主戰坦克，自走炮和防空載具%1%2%3無人載具%4-四軸飛行器，地面無人載具和固定翼無人載具%1%2%3遊戲%4-更多的任務展示，多人任務和射擊訓練%1%2%3戰役%4-將在發行後的幾個月內，分成幾個章節來讓大家%3免費%4遊玩%1%1更多訊息請參見%3&lt;ahref='https://www.arma3.com/whatsnewfull/'&gt;arma3.com/whatsnewfull&lt;/a&gt;%4</Chinese>
-        <Chinesesimp>继 Alpha 测试版和 Beta 测试版之后，我们现在很荣幸为大家推出武装突袭3正式版。不过，这只不过是刚刚%3开始%4而已。我们把它看作是武装突袭3%3这个平台%4的开始。在今后的几年里，我们和各位玩家都会对它进行扩展和增强。以下特色是正式版与 Beta 版最大的不同:%1%1%2%3阿尔蒂斯%4-广大的虚拟地图邀请您一同来探索%1%2%3装甲%4-主战坦克，自行火炮和防空载具%1%2%3无人载具%4-四轴飞行器，地面无人载具和固定翼无人载具%1%2%3游戏%4-更多的任务展示，多人任务和射击训练%1%2%3战役%4-将在发行后的几个月内，分成几个章节来让大家%3免费%4游玩%1%1更多信息请参见%3&lt;ahref='https://www.arma3.com/whatsnewfull/'&gt;arma3.com/whatsnewfull&lt;/a&gt;%4</Chinesesimp>
+        <Chinesesimp>继 Alpha 测试版和 Beta 测试版之后，我们现在很荣幸为大家推出武装突袭3正式版。不过，这只不过是刚刚%3开始%4而已。我们把它看作是武装突袭3%3这个平台%4的开始。在今后的几年里，我们和各位玩家都会对它进行扩展和增强。以下特色是正式版与 Beta 版最大的不同：%1%1%2%3阿尔蒂斯%4-广大的虚拟地图邀请您一同来探索%1%2%3装甲%4-主战坦克，自行火炮和防空载具%1%2%3无人机%4-四轴飞行器，地面无人机和固定翼无人机%1%2%3游戏%4-更多的任务展示，多人任务和射击训练%1%2%3战役%4-将在发行后的几个月内，分成几个章节来让大家%3免费%4游玩%1%1更多信息请参见%3&lt;ahref='https：//www.arma3.com/whatsnewfull/'&gt;arma3.com/whatsnewfull&lt;/a&gt;%4</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FM_Welcome6">
         <Original>Prepare for War</Original>
@@ -282,7 +282,7 @@
       <Key ID="STR_A3_FM_Welcome7">
         <Original>To get off to the best possible start - and to get the most out of your experience - please look through a quick set of options. Then, either have a look at what the game offers, or start exploring yourself!%1%1%2%3Video options%4 - improved automatic benchmark should provide better defaults, but have a look in the video options to hit the perfect balance between performance, quality, and personal preference.%1%2%3Controls%4 - some default bindings are different to Arma 2 (e.g. grenades and inventory). See how you like them, experiment with the different presets on offer, or configure your own set up.%1%2%3Playable Content%4 - check out showcases of our new features and gameplay, load up quick and fun challenges, cooperate with friends in multiplayer, or dig into the sandbox with the editor. More content will be added gradually!%1%2%3Feedback%4 - help us by reporting issues on the Feedback Tracker.%1%1Thank you for your support and cya on the battlefield!</Original>
         <Chinese>為了取得一個美好的開始-並充分享受你的遊戲經驗-請瀏覽一下快速設置選項。然後，再看一眼這個遊戲都提供些什麼，或者開始自己去探索!%1%1%2%3畫面設定%4-自動檢測會提供一個更好的默認設置，但還是最好自己看一看畫面設定中的各項參數，以期能在性能，質量和個人偏好之間達到一個最好的平衡。%1%2%3控制%4-一些默認的鍵位設置與武裝突襲2不同了(比如手榴彈和背包)。看看你是否習慣，使用遊戲提供的幾套不同鍵位設置或者自定義你自己的一套鍵位。%1%2%3可玩內容%4-玩玩任務展示來體驗新的特色，參與快速且有趣的挑戰，在多人模式中和好友們合作，或者在沙箱模式中和設計師們一起鑽研任務設計。更多的內容將被逐步地加入!%1%2%3反饋%4-通過反饋來提報問題給我們。%1%1感謝你的支持，我們戰場上見!</Chinese>
-        <Chinesesimp>为了取得一个美好的开始-并充分享受你的游戏经验-请浏览一下快速设置选项。然后，再看一眼这个游戏都提供些什么，或者开始自己去探索!%1%1%2%3画面设定%4-自动检测会提供一个更好的默认设置，但还是最好自己看一看画面设定中的各项参数，以期能在性能，质量和个人偏好之间达到一个最好的平衡。%1%2%3控制%4-一些默认的键位设置与武装突袭2不同了（比如手榴弹和背包）。看看你是否习惯，使用游戏提供的几套不同键位设置或者自定义你自己的一套键位。%1%2%3可玩内容%4-玩玩任务展示来体验新的特色，参与快速且有趣的挑战，在多人模式中和好友们合作，或者在沙箱模式中和设计师们一起钻研任务设计。更多的内容将被逐步地加入!%1%2%3反馈%4-通过反馈来提报问题给我们。%1%1感谢你的支持，我们战场上见!</Chinesesimp>
+        <Chinesesimp>为了取得一个美好的开始 — 并充分享受你的游戏经验 — 请浏览一下快速设置选项。然后，再看一眼这个游戏都提供些什么，或者开始自己去探索！%1%1%2%3画面设定%4-自动检测会提供一个更好的默认设置，但还是最好自己看一看画面设定中的各项参数，以期能在性能，质量和个人偏好之间达到一个最好的平衡。%1%2%3控制%4-一些默认的键位设置与武装突袭2不同了（比如手榴弹和背包）。看看你是否习惯，使用游戏提供的几套不同键位设置或者自定义你自己的一套键位。%1%2%3可玩内容%4-玩玩任务展示来体验新的特色，参与快速且有趣的挑战，在多人模式中和好友们合作，或者在沙箱模式中和设计师们一起钻研任务设计。更多的内容将被逐步地加入！%1%2%3反馈%4-通过反馈来提报问题给我们。%1%1感谢你的支持，我们战场上见！</Chinesesimp>
       </Key>
     </Container>
     <Container name="Equipment">
@@ -340,7 +340,7 @@
           <Key ID="str_a3_cfgweapons_pdw2000_base_f0">
             <Original>Submachine Gun&lt;br/&gt;Caliber: 9x21 mm</Original>
             <Chinese>衝鋒槍&lt;br/&gt;口徑:9x21公厘</Chinese>
-            <Chinesesimp>冲锋枪&lt;br/&gt;口径:9x21mm</Chinesesimp>
+            <Chinesesimp>冲锋枪&lt;br/&gt;口径：9x21mm</Chinesesimp>
           </Key>
         </Container>
         <Container name="DisplayName">
@@ -738,7 +738,7 @@
         <Key ID="str_a3_cfgweapons_optic_tws_mg1">
           <Original>Thermal Weapon Sight for Machineguns&lt;br /&gt;Magnification: 4x–10x</Original>
           <Chinese>熱成像瞄準鏡(機槍用)&lt;br/&gt;倍率:4x–10x</Chinese>
-          <Chinesesimp>热成像瞄准镜（机枪用）&lt;br/&gt;倍率:4x–10x</Chinesesimp>
+          <Chinesesimp>热成像瞄准镜（机枪用）&lt;br/&gt;倍率：4x–10x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_tws_sniper0">
           <Original>TWS Sniper</Original>
@@ -748,7 +748,7 @@
         <Key ID="str_a3_cfgweapons_optic_tws_sniper1">
           <Original>Thermal Weapon Sight for Sniper rifles&lt;br /&gt;Magnification: 13x–35x</Original>
           <Chinese>熱成像瞄準鏡(狙擊槍用)&lt;br/&gt;倍率:13x–35x</Chinese>
-          <Chinesesimp>热成像瞄准镜（狙击枪用）&lt;br/&gt;倍率:13x–35x</Chinesesimp>
+          <Chinesesimp>热成像瞄准镜（狙击枪用）&lt;br/&gt;倍率：13x–35x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_nightstalker0">
           <Original>Nightstalker</Original>
@@ -758,12 +758,12 @@
         <Key ID="str_a3_cfgweapons_optic_nightstalker1">
           <Original>Nightstalker Sight&lt;br /&gt;Magnification: 4x–10x</Original>
           <Chinese>夜行者瞄準鏡&lt;br/&gt;倍率:4x–10x</Chinese>
-          <Chinesesimp>夜行者瞄准镜&lt;br/&gt;倍率:4x–10x</Chinesesimp>
+          <Chinesesimp>夜行者瞄准镜&lt;br/&gt;倍率：4x–10x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_tws1">
           <Original>Thermal Weapon Sight&lt;br /&gt;Magnification: 4x–10x</Original>
           <Chinese>熱成像瞄準鏡&lt;br/&gt;倍率:4x–10x</Chinese>
-          <Chinesesimp>热成像瞄准镜&lt;br/&gt;倍率:4x–10x</Chinesesimp>
+          <Chinesesimp>热成像瞄准镜&lt;br/&gt;倍率：4x–10x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_tws_mg0">
           <Original>TWS MG</Original>
@@ -783,7 +783,7 @@
         <Key ID="str_a3_cfgweapons_optic_cows1">
           <Original>Combined Weapon Sight&lt;br /&gt;Magnification: 7x–16x</Original>
           <Chinese>組合式瞄準鏡&lt;br/&gt;倍率:7x–16x</Chinese>
-          <Chinesesimp>组合式瞄准镜&lt;br/&gt;倍率:7x–16x</Chinesesimp>
+          <Chinesesimp>组合式瞄准镜&lt;br/&gt;倍率：7x–16x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_nvs0">
           <Original>NVS</Original>
@@ -793,19 +793,19 @@
         <Key ID="str_a3_cfgweapons_optic_nvs1">
           <Original>Night Vision Scope&lt;br /&gt;Magnification: 5x</Original>
           <Chinese>夜視瞄準鏡&lt;br/&gt;倍率:5x</Chinese>
-          <Chinesesimp>夜视瞄准镜&lt;br/&gt;倍率:5x</Chinesesimp>
+          <Chinesesimp>夜视瞄准镜&lt;br/&gt;倍率：5x</Chinesesimp>
         </Key>
       </Container>
       <Container name="Items">
         <Key ID="STR_A3_CFGWeapons_Items_UAVTerminal">
           <Original>UAV Terminal</Original>
           <Chinese>無人載具終端機</Chinese>
-          <Chinesesimp>无人载具终端机</Chinesesimp>
+          <Chinesesimp>无人机终端</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGWeapons_Items_UAVTerminal_desc">
           <Original>Use this Terminal to connect to UAVs.</Original>
           <Chinese>使用此終端機來連接無人載具。</Chinese>
-          <Chinesesimp>使用此终端机来连接无人载具。</Chinesesimp>
+          <Chinesesimp>使用此终端来连接无人机。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgglasses_g_lady_dark0">
           <Original>Ladies Shades (Sea)</Original>
@@ -835,17 +835,17 @@
         <Key ID="STR_A3_CFGWeapons_Items_UAVTerminal1">
           <Original>UAV Terminal [NATO]</Original>
           <Chinese>無人載具終端機[北約]</Chinese>
-          <Chinesesimp>无人载具终端机[北约]</Chinesesimp>
+          <Chinesesimp>无人机终端[北约]</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGWeapons_Items_UAVTerminal2">
           <Original>UAV Terminal [CSAT]</Original>
           <Chinese>無人載具終端機[廣協同盟]</Chinese>
-          <Chinesesimp>无人载具终端机[广协]</Chinesesimp>
+          <Chinesesimp>无人机终端[广协]</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGWeapons_Items_UAVTerminal3">
           <Original>UAV Terminal [AAF]</Original>
           <Chinese>無人載具終端機[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>无人载具终端机[AAF]</Chinesesimp>
+          <Chinesesimp>无人机终端[AAF]</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -1309,7 +1309,7 @@
         <Key ID="str_a3_cfgvehicles_o_uav_02_cas_f0">
           <Original>K40 Ababil-3 (CAS)</Original>
           <Chinese>K40"燕子"-3空中無人載具(密接空中支援)</Chinese>
-          <Chinesesimp>K40"燕子"-3空中无人载具（近距离空中支援）</Chinesesimp>
+          <Chinesesimp>K40"燕子"-3无人机（近距离空中支援）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_plane_fighter_03">
           <Original>A-143 Buzzard</Original>
@@ -1554,7 +1554,7 @@
         <Key ID="STR_A3_CFGVEHICLES_O_UAV_01">
           <Original>Tayran AR-2</Original>
           <Chinese>"泰蘭"AR-2空中無人載具</Chinese>
-          <Chinesesimp>"泰兰"AR-2空中无人载具</Chinesesimp>
+          <Chinesesimp>"泰兰"AR-2无人机</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_01_arty_base0">
           <Original>M4 Scorcher</Original>
@@ -1656,7 +1656,7 @@
         <Key ID="str_a3_cfgvehicles_ugv_01_base_library0">
           <Original>The Stomper is a remote controlled unmanned ground combat vehicle designed for reconnaissance, surveillance and support. It's able to operate autonomously in large areas, while sending real-time data to the control center. Each wheel is powered by a separate electric engine, whose batteries are linked together to a diesel engine power unit. An armed variant of the Stomper is fitted with a RCWS turret carrying 40 mm cannon and 12.7 mm HMG. An OPFOR variant, designated Saif and Saif RCWS, is a cheaper and less reliable copy from the Asian region.</Original>
           <Chinese>"踐踏者"是一種設計用來偵察，監視和支援的遠程控制地面無人載具。它能夠在很大的區域內自主操作，並不間斷的發送數據回到控制中心。每個輪子是由各自的電動引擎所驅動，每個電動引擎在一起連接在柴油發電機上。武裝後的"踐踏者"裝有遙控砲臺，其上設有40公厘機砲和12.7公厘重機槍。而紅方的地面無人載具，則是被取名叫"薩夫"，是一種來自亞洲地區廉價且不太可靠的山寨版"踐踏者"。</Chinese>
-          <Chinesesimp>"践踏者"是一种设计用来侦察，监视和支援的远程控制地面无人载具。它能够在很大的区域内自主操作，并不间断地发送数据回到控制中心。每个轮子都由独立的电动机驱动，各个电动机的电池则一起连接在柴油发电机上。武装后的"践踏者"装有遥控武器站，其上设有40mm 榴弹发射器和12.7 mm 重机枪。而红方的无人车则被取名叫"萨夫"，是一种来自亚洲地区廉价且不太可靠的山寨版"践踏者"。</Chinesesimp>
+          <Chinesesimp>"践踏者"是一种设计用来侦察，监视和支援的远程控制地面无人机。它能够在很大的区域内自主操作，并不间断地发送数据回到控制中心。每个轮子都由独立的电动机驱动，各个电动机的电池则一起连接在柴油发电机上。武装后的"践踏者"装有遥控武器站，其上设有40mm 榴弹发射器和12.7 mm 重机枪。而红方的无人车则被取名叫"萨夫"，是一种来自亚洲地区廉价且不太可靠的山寨版"践踏者"。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_car_base_library0">
           <Original>A four-seat hatchback car mass-produced in the Far East to satisfy increasing demand for family cars. Economical operation, enhanced safety and a roomy trunk made these cars widely popular in the whole of Europe. Also comes in a sporty version.</Original>
@@ -2219,7 +2219,7 @@
         <Key ID="str_a3_cfgvehicles_land_metal_wooden_rack_f0">
           <Original>Metal-Wooden Rack</Original>
           <Chinese>金屬-木架</Chinese>
-          <Chinesesimp>金属-木架</Chinesesimp>
+          <Chinesesimp>金属 — 木架</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_chairwood_f0">
           <Original>Chair (Wooden)</Original>
@@ -3110,7 +3110,7 @@
         <Key ID="str_a3_cfgvehicles_land_uav_control_terminal_f0">
           <Original>UAV Control Terminal</Original>
           <Chinese>無人載具控制端</Chinese>
-          <Chinesesimp>无人载具控制端</Chinesesimp>
+          <Chinesesimp>无人机控制端</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_metalbarrel_burning_f0">
           <Original>Metal Barrel (burning)</Original>
@@ -3638,7 +3638,7 @@
         <Key ID="str_a3_cfgvehicles_steel_plate_l_stand_f0">
           <Original>Steel Plate (Large - Stand)</Original>
           <Chinese>圓形鋼板(大-站立)</Chinese>
-          <Chinesesimp>圆形钢板（大-站立）</Chinesesimp>
+          <Chinesesimp>圆形钢板（大 — 站立）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_steel_plate_s_f0">
           <Original>Steel Plate (Small)</Original>
@@ -3663,7 +3663,7 @@
         <Key ID="str_a3_cfgvehicles_steel_plate_s_stand_f0">
           <Original>Steel Plate (Small - Stand)</Original>
           <Chinese>圓形鋼板(小-站立)</Chinese>
-          <Chinesesimp>圆形钢板（小-站立）</Chinesesimp>
+          <Chinesesimp>圆形钢板（小 — 站立）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_steel_plate_stand_f0">
           <Original>Steel Plate (Stand)</Original>
@@ -3683,12 +3683,12 @@
         <Key ID="str_a3_cfgvehicles_targetp_inf_b_acc1_side_f0">
           <Original>Moving Target 2 (Side - Zones)</Original>
           <Chinese>目標移動靶2(左右-區塊)</Chinese>
-          <Chinesesimp>目标移动靶2（左右-区块）</Chinesesimp>
+          <Chinesesimp>目标移动靶2（左右 — 区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_b_acc1_straight_f0">
           <Original>Moving Target 2 (Front - Zones)</Original>
           <Chinese>目標移動靶2(前後-區塊)</Chinese>
-          <Chinesesimp>目标移动靶2（前后-区块）</Chinesesimp>
+          <Chinesesimp>目标移动靶2（前后 — 区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_c_f0">
           <Original>Pop-Up Target 3</Original>
@@ -3713,12 +3713,12 @@
         <Key ID="str_a3_cfgvehicles_targetp_inf_b_acc2_side_f0">
           <Original>Moving Target 2 (Side - Accuracy)</Original>
           <Chinese>目標移動靶2(左右-精準度)</Chinese>
-          <Chinesesimp>目标移动靶2（左右-精准度）</Chinesesimp>
+          <Chinesesimp>目标移动靶2（左右 — 精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_b_acc2_straight_f0">
           <Original>Moving Target 2 (Front - Accuracy)</Original>
           <Chinese>目標移動靶2(前後-精準度)</Chinese>
-          <Chinesesimp>目标移动靶2（前后-精准度）</Chinesesimp>
+          <Chinesesimp>目标移动靶2（前后 — 精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_c_acc1_f0">
           <Original>Pop-Up Target 3 (Zones)</Original>
@@ -3728,12 +3728,12 @@
         <Key ID="str_a3_cfgvehicles_targetp_inf_c_acc1_side_f0">
           <Original>Moving Target 3 (Side - Zones)</Original>
           <Chinese>目標移動靶3(左右-區塊)</Chinese>
-          <Chinesesimp>目标移动靶3（左右-区块）</Chinesesimp>
+          <Chinesesimp>目标移动靶3（左右 — 区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_c_acc1_straight_f0">
           <Original>Moving Target 3 (Front - Zones)</Original>
           <Chinese>目標移動靶3(前後-區塊)</Chinese>
-          <Chinesesimp>目标移动靶3（前后-区块）</Chinesesimp>
+          <Chinesesimp>目标移动靶3（前后 — 区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_c_acc2_f0">
           <Original>Pop-Up Target 3 (Accuracy)</Original>
@@ -3743,12 +3743,12 @@
         <Key ID="str_a3_cfgvehicles_targetp_inf_c_acc2_side_f0">
           <Original>Moving Target 3 (Side - Accuracy)</Original>
           <Chinese>目標移動靶3(左右-精準度)</Chinese>
-          <Chinesesimp>目标移动靶3（左右-精准度）</Chinesesimp>
+          <Chinesesimp>目标移动靶3（左右 — 精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_c_acc2_straight_f0">
           <Original>Moving Target 3 (Front - Accuracy)</Original>
           <Chinese>目標移動靶3(前後-精準度)</Chinese>
-          <Chinesesimp>目标移动靶3（前后-精准度）</Chinesesimp>
+          <Chinesesimp>目标移动靶3（前后 — 精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_civ_a_straight_f0">
           <Original>Moving Hostage 1 (Front)</Original>
@@ -3808,12 +3808,12 @@
         <Key ID="str_a3_cfgvehicles_targetp_zom_a_acc1_side_f0">
           <Original>Moving Zombie 1 (Side - Zones)</Original>
           <Chinese>殭屍移動靶1(左右-區塊)</Chinese>
-          <Chinesesimp>僵尸移动靶1（左右-区块）</Chinesesimp>
+          <Chinesesimp>僵尸移动靶1（左右 — 区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_zom_a_acc1_straight_f0">
           <Original>Moving Zombie 1 (Front - Zones)</Original>
           <Chinese>殭屍移動靶1(前後-區塊)</Chinese>
-          <Chinesesimp>僵尸移动靶1（前后-区块）</Chinesesimp>
+          <Chinesesimp>僵尸移动靶1（前后 — 区块）</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -4679,7 +4679,7 @@
         <Key ID="str_a3_cfgworlds_altis_loadingtext18">
           <Original>Strong winds and plenty of sun make Altis a perfect place for renewable energy sources: many wind and solar power plants have been built in the last decade, replacing two older oil-burning power plants.</Original>
           <Chinese>強勁的風力和充足的陽光使阿爾蒂斯成為生產再生能源的一個完美地區:在過去10多年裡，許多風力和太陽能發電廠就開始在這裡建設，並換掉了兩個舊式的燃油發電廠。</Chinese>
-          <Chinesesimp>强劲的风力和充足的阳光使阿尔蒂斯成为完美适合可再生能源的地区:在过去十多年里建立了许多风力和太阳能发电厂，并换掉了两个旧式的燃油发电厂。</Chinesesimp>
+          <Chinesesimp>强劲的风力和充足的阳光使阿尔蒂斯成为完美适合可再生能源的地区：在过去十多年里建立了许多风力和太阳能发电厂，并换掉了两个旧式的燃油发电厂。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext17">
           <Original>Many windmills are scattered across Altis, with the most notable ones in Zaros, Telos and Kore.</Original>
@@ -4694,7 +4694,7 @@
         <Key ID="str_a3_cfgworlds_altis_loadingtext15">
           <Original>Most guides recommend a visit to several Antique ruins scattered over the island: the Old Kavala, the Amphitheater and Temple of Iraklia ruin over Pefkas Bay.</Original>
           <Chinese>大多數的旅行指南都會推薦前去遊覽散佈在島嶼上的幾處古代廢墟:老卡瓦拉，圓形劇場和位於佩夫卡海灣的伊拉克利亞神廟廢墟。</Chinese>
-          <Chinesesimp>大多数的旅行指南都会推荐前去游览散布在岛屿上的几处古代废墟:旧卡瓦拉，圆形剧场和佩夫卡斯湾上的伊拉克利亚神庙废墟。</Chinesesimp>
+          <Chinesesimp>大多数的旅行指南都会推荐前去游览散布在岛屿上的几处古代废墟：旧卡瓦拉，圆形剧场和佩夫卡斯湾上的伊拉克利亚神庙废墟。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext14">
           <Original>There is a picturesque chapel on the rocky promontory over the sea in Agios Konstantinos, believed to be built on the much older remnants of an Antique temple.</Original>
@@ -4714,7 +4714,7 @@
         <Key ID="str_a3_cfgworlds_altis_loadingtext11">
           <Original>There are 3 periodically flooded salt lakes in the east of Altis: Almyra, Limni and Ochrolimni.</Original>
           <Chinese>在阿爾蒂斯東部有3個定期氾濫的鹹水湖:阿爾米拉湖，利姆尼湖和奧赫羅利姆尼湖。</Chinese>
-          <Chinesesimp>在阿尔蒂斯东部有3个定期泛滥的咸水湖:阿尔米拉湖，利姆尼湖和奥赫罗利姆尼湖。</Chinesesimp>
+          <Chinesesimp>在阿尔蒂斯东部有3个定期泛滥的咸水湖：阿尔米拉湖，利姆尼湖和奥赫罗利姆尼湖。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext10">
           <Original>There is a desert north of village of Abdera, featuring a truly unique environment and popular sightseeing spot for adventurers.</Original>
@@ -4737,7 +4737,7 @@
       <Key ID="STR_A3_cfgVehicles_SignAd_SponsorS_F0">
         <Original>Sign (Sponsor - Small)</Original>
         <Chinese>標誌(空白-小)</Chinese>
-        <Chinesesimp>标志（空白-小）</Chinesesimp>
+        <Chinesesimp>标志（空白 — 小）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_Sponsor_Vrana_F0">
         <Original>Sign (Vrana)</Original>
@@ -4762,7 +4762,7 @@
       <Key ID="STR_A3_cfgVehicles_SignAd_SponsorS_Vrana_F0">
         <Original>Sign (Vrana - Small)</Original>
         <Chinese>標誌(沃爾納企業-小)</Chinese>
-        <Chinesesimp>标志（沃尔纳企业-小）</Chinesesimp>
+        <Chinesesimp>标志（沃尔纳企业 — 小）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_SponsorS_ARMEX_F0">
         <Original>Sign (ARMEX - Small)</Original>
@@ -4787,17 +4787,17 @@
       <Key ID="STR_A3_cfgVehicles_SignAd_SponsorS_ION_F0">
         <Original>Sign (ION - Small)</Original>
         <Chinese>標誌(ION傭兵公司-小)</Chinese>
-        <Chinesesimp>标志（ION 佣兵公司-小）</Chinesesimp>
+        <Chinesesimp>标志（ION 佣兵公司 — 小）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_SponsorS_Larkin_F0">
         <Original>Sign (Larkin - Small)</Original>
         <Chinese>標誌(拉爾金-小)</Chinese>
-        <Chinesesimp>标志（拉尔金-小）</Chinesesimp>
+        <Chinesesimp>标志（拉尔金 — 小）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgVehicles_SignAd_SponsorS_Noisecontrollers_F0">
         <Original>Sign (Noisecontrollers - Small)</Original>
         <Chinese>標誌(控制噪音-小)</Chinese>
-        <Chinesesimp>标志（控制噪音-小）</Chinesesimp>
+        <Chinesesimp>标志（控制噪音 — 小）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Static_F">

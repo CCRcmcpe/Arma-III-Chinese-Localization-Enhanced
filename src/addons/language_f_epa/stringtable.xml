@@ -344,62 +344,62 @@
       <Key ID="STR_A3_CfgMusic_LeadTrack01_F_EPA">
         <Original>Stage A: Lead Track 01 (Conquistador)</Original>
         <Chinese>第一章:主音軌01(征服者)</Chinese>
-        <Chinesesimp>第一章:主音轨01（征服者）</Chinesesimp>
+        <Chinesesimp>第一章：主音轨01（征服者）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack02a_F_EPA">
         <Original>Stage A: Lead Track 02 (Aegis Blues - Alternative 1)</Original>
         <Chinese>第一章:主音軌02(神盾藍?-另類1)</Chinese>
-        <Chinesesimp>第一章:主音轨02（神盾蓝调-编曲1）</Chinesesimp>
+        <Chinesesimp>第一章：主音轨02（神盾蓝调 — 编曲1）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack02b_F_EPA">
         <Original>Stage A: Lead Track 02 (Aegis Blues - Alternative 2)</Original>
         <Chinese>第一章:主音軌02(神盾藍?-另類2)</Chinese>
-        <Chinesesimp>第一章:主音轨02（神盾蓝调-编曲2）</Chinesesimp>
+        <Chinesesimp>第一章：主音轨02（神盾蓝调 — 编曲2）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack02_F_EPA">
         <Original>Stage A: Lead Track 02 (Aegis Blues)</Original>
         <Chinese>第一章:主音軌02(神盾藍?)</Chinese>
-        <Chinesesimp>第一章:主音轨02（神盾蓝调）</Chinesesimp>
+        <Chinesesimp>第一章：主音轨02（神盾蓝调）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack03_F_EPA">
         <Original>Stage A: Lead Track 03 (Survive the Hard Part)</Original>
         <Chinese>第一章:主音軌03(在困境中生存)</Chinese>
-        <Chinesesimp>第一章:主音轨03（在困境中生存）</Chinesesimp>
+        <Chinesesimp>第一章：主音轨03（在困境中生存）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack01a_F_EPA">
         <Original>Stage A: Event Track 01 (Fragmented - Alternative)</Original>
         <Chinese>第一章:事件音軌01(支離破碎-另類)</Chinese>
-        <Chinesesimp>第一章:事件音轨01（支离破碎-编曲）</Chinesesimp>
+        <Chinesesimp>第一章：事件音轨01（支离破碎 — 编曲）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack03a_F_EPA">
         <Original>Stage A: Lead Track 03 (Survive the Hard Part - Alternative)</Original>
         <Chinese>第一章:主音軌03(在困境中生存-另類)</Chinese>
-        <Chinesesimp>第一章:主音轨03（逆境求生-编曲）</Chinesesimp>
+        <Chinesesimp>第一章：主音轨03（逆境求生 — 编曲）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack01_F_EPA">
         <Original>Stage A: Event Track 01 (Fragmented)</Original>
         <Chinese>第一章:事件音軌01(支離破碎)</Chinese>
-        <Chinesesimp>第一章:事件音轨01（支离破碎）</Chinesesimp>
+        <Chinesesimp>第一章：事件音轨01（支离破碎）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack02a_F_EPA">
         <Original>Stage A: Event Track 02 (Horizon Scan - Alternative)</Original>
         <Chinese>第一章:事件音軌02(掃視四周-另類)</Chinese>
-        <Chinesesimp>第一章:事件音轨02（扫视四周-编曲）</Chinesesimp>
+        <Chinesesimp>第一章：事件音轨02（扫视四周 — 编曲）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack02_F_EPA">
         <Original>Stage A: Event Track 02 (Horizon Scan)</Original>
         <Chinese>第一章:事件音軌02(掃視四周)</Chinese>
-        <Chinesesimp>第一章:事件音轨02（扫视四周）</Chinesesimp>
+        <Chinesesimp>第一章：事件音轨02（扫视四周）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack03a_F_EPA">
         <Original>Stage A: Event Track 03 (Chemistry of War - Alternative)</Original>
         <Chinese>第一章:事件音軌03(戰爭變幻-另類)</Chinese>
-        <Chinesesimp>第一章:事件音轨03（战争变幻-编曲）</Chinesesimp>
+        <Chinesesimp>第一章：事件音轨03（战争变幻 — 编曲）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack03_F_EPA">
         <Original>Stage A: Event Track 03 (Chemistry of War)</Original>
         <Chinese>第一章:事件音軌03(化學戰爭)</Chinese>
-        <Chinesesimp>第一章:事件音轨03（战争变幻）</Chinesesimp>
+        <Chinesesimp>第一章：事件音轨03（战争变幻）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Modules_F">
@@ -407,7 +407,7 @@
         <Key ID="str_a3_cfgvehicles_modulesector_f_moduledescription_triggerunlock_0">
           <Original>When the sector is captured by a side defined in trigger ACTIVATION field, the trigger will be activated. When repeated activation is enabled, it will be deactivated once the side is no longer in control of the sector.&lt;br /&gt;&lt;br /&gt;You can synchronize other modules (e.g., Respawn Position) to this trigger to tie them to sector owner.</Original>
           <Chinese>當防禦區被一方佔領時，如果觸發器有設定內容，佔領時將會被執行。而當重複啟用被勾選時，觸發器將會在區域不再被掌控後解除。&lt;br/&gt;&lt;br/&gt;你可以使用此模塊去同步別的模塊(例如:重生位置)。</Chinese>
-          <Chinesesimp>当防御区被由触发器"激活"区所定义的阵营占领，触发器将被出发。而当重复启用被勾选时，触发器将会在区域不再被掌控后解除。&lt;br/&gt;&lt;br/&gt;你可以使用此模块去同步别的模块（例如:重生位置）。</Chinesesimp>
+          <Chinesesimp>当防御区被由触发器"激活"区所定义的阵营占领，触发器将被出发。而当重复启用被勾选时，触发器将会在区域不再被掌控后解除。&lt;br/&gt;&lt;br/&gt;你可以使用此模块去同步别的模块（例如：重生位置）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulesector_f_arguments_scorereward_1">
           <Original>Score awarded to the side which seized the sector</Original>
@@ -446,7 +446,7 @@
       <Key ID="str_a3_cfgweapons_srifle_dmr_01_f1">
         <Original>Assault rifle &lt;br/&gt;Caliber: 7.62x54 mm</Original>
         <Chinese>突擊步槍&lt;br/&gt;口徑:7.62x54公厘</Chinese>
-        <Chinesesimp>突击步枪&lt;br/&gt;口径:7.62x54mm</Chinesesimp>
+        <Chinesesimp>突击步枪&lt;br/&gt;口径：7.62x54mm</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_srifle_dmr_01_f0">
         <Original>Rahim 7.62 mm</Original>
@@ -456,7 +456,7 @@
       <Key ID="str_a3_cfgweapons_optic_mrd1">
         <Original>MRD&lt;br /&gt;Magnification: 1x</Original>
         <Chinese>掛盾式設計瞄準鏡&lt;br/&gt;倍率:1x</Chinese>
-        <Chinesesimp>挂盾式设计瞄准镜&lt;br/&gt;倍率:1x</Chinesesimp>
+        <Chinesesimp>挂盾式设计瞄准镜&lt;br/&gt;倍率：1x</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_optic_yorris0">
         <Original>Yorris J2</Original>
@@ -466,7 +466,7 @@
       <Key ID="str_a3_cfgweapons_optic_yorris1">
         <Original>Y-J2&lt;br /&gt;Magnification: 1x</Original>
         <Chinese>Y-J2&lt;br/&gt;倍率:1x</Chinese>
-        <Chinesesimp>Y-J2&lt;br/&gt;倍率:1x</Chinesesimp>
+        <Chinesesimp>Y-J2&lt;br/&gt;倍率：1x</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_02_f_library0">
         <Original>The Zubr .45 ACP is a revolver handgun with a distinctive design. The muzzle position is aligned with the bottom chamber. Compared to normal topmost revolvers, this change reduces the muzzle flip after shooting by directing the recoil more into the shooter's wrist. </Original>
@@ -501,12 +501,12 @@
       <Key ID="str_a3_cfgmagazines_6rnd_45acp_cylinder1">
         <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 6&lt;br /&gt;Used in: Zubr</Original>
         <Chinese>口徑:.45ACP&lt;br/&gt;發數:6&lt;br/&gt;使用於:野牛</Chinese>
-        <Chinesesimp>口径:.45ACP&lt;br/&gt;发数:6&lt;br/&gt;使用于:野牛</Chinesesimp>
+        <Chinesesimp>口径：.45ACP&lt;br/&gt;发数：6&lt;br/&gt;使用于：野牛</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_5rnd_127x108_apds_mag1">
         <Original>Caliber: 12.7x108 mm APDS&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: GM6 Lynx</Original>
         <Chinese>口徑:12.7x108公厘脫殼穿甲彈&lt;br/&gt;發數:5&lt;br/&gt;使用於:GM6"山貓"</Chinese>
-        <Chinesesimp>口径:12.7x108mm 脱壳穿甲弹&lt;br/&gt;发数:5&lt;br/&gt;使用于:GM6"山猫"</Chinesesimp>
+        <Chinesesimp>口径：12.7x108mm 脱壳穿甲弹&lt;br/&gt;发数：5&lt;br/&gt;使用于：GM6"山猫"</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_6rnd_45acp_cylinder0">
         <Original>.45 ACP 6Rnd Cylinder</Original>
@@ -526,7 +526,7 @@
       <Key ID="str_a3_cfgmagazines_10rnd_762x51_mag1">
         <Original>Caliber: 7.62x54 mm&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: Rahim</Original>
         <Chinese>口徑:7.62x54公厘&lt;br/&gt;發數:10&lt;br/&gt;使用於:"拉希姆"</Chinese>
-        <Chinesesimp>口径:7.62x54mm &lt;br/&gt;发数:10&lt;br/&gt;使用于:"拉希姆"</Chinesesimp>
+        <Chinesesimp>口径：7.62x54mm &lt;br/&gt;发数：10&lt;br/&gt;使用于："拉希姆"</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_10rnd_762x51_mag0">
         <Original>7.62 mm 10Rnd Mag</Original>
@@ -541,7 +541,7 @@
       <Key ID="str_a3_cfgmagazines_11rnd_45acp_mag1">
         <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 11&lt;br /&gt;Used in: 4-five</Original>
         <Chinese>口徑:.45ACP&lt;br/&gt;發數:11&lt;br/&gt;使用於:4-five</Chinese>
-        <Chinesesimp>口径:.45ACP&lt;br/&gt;发数:11&lt;br/&gt;使用于:4-five</Chinesesimp>
+        <Chinesesimp>口径：.45ACP&lt;br/&gt;发数：11&lt;br/&gt;使用于：4-five</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_acc_dms0">
         <Original>DMS</Original>
@@ -551,7 +551,7 @@
       <Key ID="str_a3_cfgweapons_acc_dms1">
         <Original>DMS&lt;br /&gt;Magnification: 2x–4x</Original>
         <Chinese>精準射手瞄準鏡&lt;br/&gt;倍率:2x–4x</Chinese>
-        <Chinesesimp>精准射手瞄准镜&lt;br/&gt;倍率:2x–4x</Chinesesimp>
+        <Chinesesimp>精准射手瞄准镜&lt;br/&gt;倍率：2x–4x</Chinesesimp>
       </Key>
     </Container>
   </Package>

@@ -1457,7 +1457,7 @@
       <Key ID="str_a3_cfgmods_argo_assets_maldenterrain1">
         <Original>Explore the classic Malden terrain from Arma: Cold War Assault, re-imagined for the 2035 setting. Find some hidden additions while enjoying the places that started it all.</Original>
         <Chinese>探索經典的武裝突襲:冷戰危機地圖馬爾登，重新以2035年的姿態製作。在享受這個地圖的同時也請探索一些隱藏的要素。</Chinese>
-        <Chinesesimp>探索经典的武装突袭:冷战危机地图马尔登，重新以2035年的样貌制作。在享受这个地图的同时也请探索一些隐藏的要素。</Chinesesimp>
+        <Chinesesimp>探索经典的武装突袭：冷战危机地图马尔登，重新以2035年的样貌制作。在享受这个地图的同时也请探索一些隐藏的要素。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_argo_assets_maldenterrain0">
         <Original>Malden 2035</Original>
@@ -1566,17 +1566,17 @@
       <Key ID="str_a3_rscdisplaywelcome_malden_pard_list1">
         <Original>this 62 km2 terrain is a re-imagining of the original Malden from &lt;a href='%2' color='%1'&gt;Arma: Cold War Assault&lt;/a&gt;</Original>
         <Chinese>這個62平方公里的小島是以&lt;ahref='%2'color='%1'&gt;武裝突襲:冷戰危機&lt;/a&gt;的經典地圖製作而成</Chinese>
-        <Chinesesimp>这个62平方千米的小岛是以&lt;ahref='%2'color='%1'&gt;武装突袭:冷战危机&lt;/a&gt;的经典地图制作而成</Chinesesimp>
+        <Chinesesimp>这个62平方千米的小岛是以&lt;ahref='%2'color='%1'&gt;武装突袭：冷战危机&lt;/a&gt;的经典地图制作而成</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_pard_footer">
         <Original>See you on Malden!</Original>
         <Chinese>與你在馬爾登上見!</Chinese>
-        <Chinesesimp>与你在马尔登上见!</Chinesesimp>
+        <Chinesesimp>与你在马尔登上见！</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_pard">
         <Original>Arma 3 Malden DLC contains the following free content for everyone who owns the base game:</Original>
         <Chinese>武裝突襲3馬爾登資料片包含了以下免費內容給任何擁有主程式的玩家:</Chinese>
-        <Chinesesimp>武装突袭3马尔登 DLC 包含了以下免费内容给任何拥有主程序的玩家:</Chinesesimp>
+        <Chinesesimp>武装突袭3马尔登 DLC 包含了以下免费内容给任何拥有主程序的玩家：</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_parc_title">
         <Original>MULTIPLAYER MODES</Original>
@@ -1586,7 +1586,7 @@
       <Key ID="str_a3_rscdisplaywelcome_malden_parc">
         <Original>To (re)introduce Malden to you in a fun way, we are releasing a completely new &lt;t color='%1'&gt;multiplayer&lt;/t&gt; mode, Combat Patrol, as well as instances of the Escape mode for our two most recent terrains (Tanoa and Malden). &lt;a href='%3' color='%2'&gt;Combat Patrol&lt;/a&gt; is a quick and dynamic cooperative multiplayer mode in which you are a member of an infantry team with the possibility to select the Area of Operations. Each play-through will be different thanks to the mode's heavily randomized nature and behavior. If you want to experience authentic Arma gameplay, then Combat Patrol is a great starting point. The mode is available for all of our official terrains, including Malden. &lt;t color='%1'&gt;Escape&lt;/t&gt; is the multiplayer mode known from its original Altis variant, now also available for Malden and Tanoa (as a bonus for &lt;a href='%4' color='%2'&gt;Apex&lt;/a&gt; owners). Can you handle the challenge and escape the islands together against overwhelming odds?</Original>
         <Chinese>為了以有趣的方式重新向你介紹馬爾登，我們釋出了一個全新的&lt;tcolor='%1'&gt;多人遊戲&lt;/t&gt;模式，戰鬥巡邏，同時也讓逃離的任務模式增加到最新的兩個地圖上(塔諾亞和馬爾登)。&lt;ahref='%3'color='%2'&gt;戰鬥巡邏&lt;/a&gt;是個快速且動態的多人合作遊戲模式，你跟你的隊友可以自行選擇要出任務的地點。感謝模組高度化的隨機性，在你每次遊玩任務的時候都會有不一樣的體驗。如果你想體驗正宗的武裝突襲遊戲體驗的話，那麼戰鬥巡邏就是個不錯的開始。這個模式是可以在我們所有原版的地圖上遊玩，包括新推出的馬爾登。&lt;tcolor='%1'&gt;逃離&lt;/t&gt;這個多人遊戲模式是從原本阿爾蒂斯上的任務變化而來的，現在也可以在馬爾登與塔諾亞上玩到此模式(也當作是給擁有&lt;ahref='%4'color='%2'&gt;頂尖&lt;/a&gt;資料片玩家的額外內容)。你能突破所有挑戰並成功逃離這些島嗎?</Chinese>
-        <Chinesesimp>为了以有趣的方式重新向你介绍马尔登，我们放出了一个全新的&lt;tcolor='%1'&gt;多人游戏&lt;/t&gt;模式，战斗巡逻，同时也让逃离的任务模式增加到最新的两个地图上(塔诺亚和马尔登)。&lt;ahref='%3'color='%2'&gt;战斗巡逻&lt;/a&gt;是个快速且动态的多人合作游戏模式，你跟你的队友可以自行选择执行任务的地点。感谢模组高度化的随机性，在你每次游玩任务的时候都会有不一样的体验。如果你想体验正宗的武装突袭游戏体验的话，那么战斗巡逻就是个不错的开始。这个模式是可以在我们所有原版的地图上游玩，包括新推出的马尔登。&lt;tcolor='%1'&gt;逃离&lt;/t&gt;这个多人游戏模式是从原本阿尔蒂斯上的任务变化而来的，现在也可以在马尔登与塔诺亚上玩到此模式（也当作是给拥有&lt;ahref='%4'color='%2'&gt;Apex&lt;/a&gt;DLC 玩家的额外内容）。你能完成所有挑战并成功逃离这些岛吗?</Chinesesimp>
+        <Chinesesimp>为了以有趣的方式重新向你介绍马尔登，我们放出了一个全新的&lt;tcolor='%1'&gt;多人游戏&lt;/t&gt;模式，战斗巡逻，同时也让逃离的任务模式增加到最新的两个地图上(塔诺亚和马尔登)。&lt;ahref='%3'color='%2'&gt;战斗巡逻&lt;/a&gt;是个快速且动态的多人合作游戏模式，你跟你的队友可以自行选择执行任务的地点。感谢模组高度化的随机性，在你每次游玩任务的时候都会有不一样的体验。如果你想体验正宗的武装突袭游戏体验的话，那么战斗巡逻就是个不错的开始。这个模式是可以在我们所有原版的地图上游玩，包括新推出的马尔登。&lt;tcolor='%1'&gt;逃离&lt;/t&gt;这个多人游戏模式是从原本阿尔蒂斯上的任务变化而来的，现在也可以在马尔登与塔诺亚上玩到此模式（也当作是给拥有&lt;ahref='%4'color='%2'&gt;Apex&lt;/a&gt;DLC 玩家的额外内容）。你能完成所有挑战并成功逃离这些岛吗？</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_parb_title">
         <Original>NEW TERRAIN_</Original>
@@ -1601,12 +1601,12 @@
       <Key ID="str_a3_rscdisplaywelcome_malden_parb">
         <Original>&lt;t color='%1'&gt;Malden 2035&lt;/t&gt; is our fresh take on the original &lt;a href='%3' color='%2'&gt;Malden&lt;/a&gt;. We've tried to stay as close as possible to the vision of the original island and hopefully veterans of the series will find lots of familiar places. While Malden re-uses many vanilla Arma 3 structures, vegetation, and similar assets, we have also included some splendid additions such as colored buildings, vineyards, and barns. These have helped us to recreate the terrain to Arma 3 standards. Malden benefits from &lt;a href='%4' color='%2'&gt;Argo&lt;/a&gt;'s infantry focus, where a lot of effort was put into the gameplay flow of each location. As such, Malden is more suitable for Close Quarters Combat than previous terrains. Now go and explore the desert, rocky cliffs, dense forests and other impressive areas!</Original>
         <Chinese>&lt;tcolor='%1'&gt;馬爾登2035&lt;/t&gt;是我們以經典的&lt;ahref='%3'color='%2'&gt;Malden&lt;/a&gt;地圖重新製作而成。我們盡可能的保留原來島嶼的一些景色，希望能勾起老兵們在這個島上的回憶。儘管馬爾登重新使用了許多原版武裝突襲3的建築，植被與物件等等，我們仍特別為這個島製作了像是彩色的房子，葡萄園與穀倉等。這些都幫助我們重製這個島嶼到武裝突襲3應有的標準。馬爾登受益於&lt;ahref='%4'color='%2'&gt;Argo&lt;/a&gt;的步兵戰，在許多地點上都有一定程度的加強遊戲體驗。也因為如此，馬爾登比其他島嶼更適合拿來做為近距離戰鬥。現在請立刻前往體驗沙漠，巖石峭壁，茂密的森林與其他特別的地點!</Chinese>
-        <Chinesesimp>&lt;tcolor='%1'&gt;马尔登2035&lt;/t&gt;是我们以经典的&lt;ahref='%3'color='%2'&gt;马尔登&lt;/a&gt;地图重新制作而成。我们尽可能的保留原来岛屿的一些景色，希望能勾起老兵们在这个岛上的回忆。尽管马尔登重新使用了许多原版武装突袭3的建筑，植被与物件等等，我们仍特别为这个岛制作了像是彩色的房子，葡萄园与谷仓等。这些都帮助我们重制这个岛屿到武装突袭3应有的标准。马尔登受益于&lt;ahref='%4'color='%2'&gt;Argo&lt;/a&gt;的步兵战，在许多地点上都有一定程度的加强游戏体验。也因为如此，马尔登比其他岛屿更适合拿来做为近距离战斗。现在请立刻前往体验沙漠，岩石峭壁，茂密的森林与其他特别的地点!</Chinesesimp>
+        <Chinesesimp>&lt;tcolor='%1'&gt;马尔登2035&lt;/t&gt;是我们以经典的&lt;ahref='%3'color='%2'&gt;马尔登&lt;/a&gt;地图重新制作而成。我们尽可能的保留原来岛屿的一些景色，希望能勾起老兵们在这个岛上的回忆。尽管马尔登重新使用了许多原版武装突袭3的建筑，植被与物件等等，我们仍特别为这个岛制作了像是彩色的房子，葡萄园与谷仓等。这些都帮助我们重制这个岛屿到武装突袭3应有的标准。马尔登受益于&lt;ahref='%4'color='%2'&gt;Argo&lt;/a&gt;的步兵战，在许多地点上都有一定程度的加强游戏体验。也因为如此，马尔登比其他岛屿更适合拿来做为近距离战斗。现在请立刻前往体验沙漠，岩石峭壁，茂密的森林与其他特别的地点！</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_para">
         <Original>Welcome back to Malden, soldier! Sixteen years ago, we started our amazing journey with the Arma franchise here. We hope you'll enjoy this recreation of &lt;t color='%1'&gt;Malden&lt;/t&gt;, which is sure to bring back many memories of a certain flashpoint occurring on the island. Alongside the new terrain, we are also releasing a new cooperative mode: &lt;t color='%1'&gt;Combat Patrol&lt;/t&gt;. Please enjoy this free DLC as a token of our appreciation to the best community in the world. You have been with us every step of the way and got Arma to where it is now. &lt;t color='%1'&gt;Thank you!&lt;/t&gt;</Original>
         <Chinese>歡迎回到馬爾登，大兵!16年前，我們從這邊開始了武裝突襲系列的奇幻旅程。我們希望你能享受這個重新製作的&lt;tcolor='%1'&gt;Malden&lt;/t&gt;，這島肯定能為你帶來許多以前經典的回憶。除了新的地形，我們也釋出了新的多人合作遊戲模式:&lt;tcolor='%1'&gt;戰鬥巡邏&lt;/t&gt;。這個資料片是免費送給全世界最讚的玩家社群的禮物。謝謝你們一直以來陪伴武裝突襲走到今天。&lt;tcolor='%1'&gt;感謝你們!&lt;/t&gt;</Chinese>
-        <Chinesesimp>欢迎回到马尔登，大兵!16年前，我们从这边开始了武装突袭3系列的奇幻旅程。我们希望你能享受这个重新制作的&lt;tcolor='%1'&gt;马尔登&lt;/t&gt;，马尔登岛肯定能为你带来许多以前经典的回忆。除了新的地形，我们也放出了新的多人合作游戏模式:&lt;tcolor='%1'&gt;战斗巡逻&lt;/t&gt;。这个 DLC 是免费送给全世界最赞的玩家社区的礼物。谢谢你们一直以来陪伴武装突袭走到今天。&lt;tcolor='%1'&gt;感谢你们!&lt;/t&gt;</Chinesesimp>
+        <Chinesesimp>欢迎回到马尔登，大兵！16年前，我们从这边开始了武装突袭3系列的奇幻旅程。我们希望你能享受这个重新制作的&lt;tcolor='%1'&gt;马尔登&lt;/t&gt;，马尔登岛肯定能为你带来许多以前经典的回忆。除了新的地形，我们也放出了新的多人合作游戏模式：&lt;tcolor='%1'&gt;战斗巡逻&lt;/t&gt;。这个 DLC 是免费送给全世界最赞的玩家社区的礼物。谢谢你们一直以来陪伴武装突袭走到今天。&lt;tcolor='%1'&gt;感谢你们！&lt;/t&gt;</Chinesesimp>
       </Key>
     </Container>
     <Container name="Props_F_Argo">
@@ -2022,7 +2022,7 @@
         <Key ID="str_a3_cfgworlds_malden_loadingtext130">
           <Original>National tree of Malden is the stone pine (Pinus pinea).</Original>
           <Chinese>馬爾登的國樹是石松樹(學名:Pinuspinea)。</Chinese>
-          <Chinesesimp>马尔登的国树是石松树（学名:Pinuspinea）。</Chinesesimp>
+          <Chinesesimp>马尔登的国树是石松树（学名：Pinuspinea）。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext120">
           <Original>Saint Martin chapel near La Rivière is being visited by the pilgrims from all the Malden Islands.</Original>

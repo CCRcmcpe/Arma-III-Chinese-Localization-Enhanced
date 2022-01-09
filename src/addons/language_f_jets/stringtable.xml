@@ -9,8 +9,8 @@
       </Key>
       <Key ID="str_a3_hint_targetingcamera_desc">
         <Original>Some aircraft are equipped with high-magnification cameras with day, night and thermal modes. Coupled with a laser designator, they can be used to 'paint' targets for your weaponry or for other friendly units.%1&lt;t&gt;&lt;/t&gt;1. Use %11 to switch to and from the targeting pod.%1&lt;t&gt;&lt;/t&gt;2. To stabilize the camera on an area press %12%1&lt;t&gt;&lt;/t&gt;3. To re-center camera to boresight or marked target press %13</Original>
-        <Chinese>有一些飛機配備著高倍率的目標瞄準攝像頭可用於白天，在晚上還有熱成像模式可供使用。配合上雷射指示器，你就可以為你自己的雷射導引武器進行導引，也可以幫助友軍進行雷射導引。%1&lt;t&gt;&lt;/t&gt;1。使用%11來開啟目標瞄準吊艙。%1&lt;t&gt;&lt;/t&gt;2。按下%12即可穩定鏡頭在你瞄準的區域或目標上%1&lt;t&gt;&lt;/t&gt;3。按下%13即可重設你鏡頭的角度到飛機正前方或是被標記的目標上</Chinese>
-        <Chinesesimp>有些飞机配备着高倍率的白光，夜间和热成像摄像机。配合激光指示器，他们可以为你或友军标记目标。%1&lt;t&gt;&lt;/t&gt;1。使用%11来开启目标瞄准吊舱。%1&lt;t&gt;&lt;/t&gt;2。按下%12即可稳定镜头在你瞄准的区域或目标上%1&lt;t&gt;&lt;/t&gt;3。按下%13即可重设镜头的角度到飞机正前方或是被标记的目标上</Chinesesimp>
+        <Chinese>有一些飛機配備著高倍率的目標瞄準攝像頭可用於白天，在晚上還有熱成像模式可供使用。配合上雷射指示器，你就可以為你自己的雷射導引武器進行導引，也可以幫助友軍進行雷射導引。%1&lt;t&gt;&lt;/t&gt;1.使用%11來開啟目標瞄準吊艙。%1&lt;t&gt;&lt;/t&gt;2.按下%12即可穩定鏡頭在你瞄準的區域或目標上%1&lt;t&gt;&lt;/t&gt;3.按下%13即可重設你鏡頭的角度到飛機正前方或是被標記的目標上</Chinese>
+        <Chinesesimp>有些飞机配备着高倍率的白光，夜间和热成像摄像机。配合激光指示器，他们可以为你或友军标记目标。%1&lt;t&gt;&lt;/t&gt;1.使用%11来开启目标瞄准吊舱。%1&lt;t&gt;&lt;/t&gt;2.按下%12即可稳定镜头在你瞄准的区域或目标上%1&lt;t&gt;&lt;/t&gt;3.按下%13即可重设镜头的角度到飞机正前方或是被标记的目标上</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_sensortypes_title">
         <Original>Sensor Types</Original>
@@ -20,7 +20,7 @@
       <Key ID="str_a3_hint_sensortypes_tip">
         <Original>%1%2Laser and Strobe - detect targets that are lased or designated by IR grenades.%1%2Footmobiles - special sensor for detection of human targets, used primarily on small UAVs.</Original>
         <Chinese>%1%2雷射與紅外線頻閃器-顯示出被雷射或是紅外線頻閃器標定的目標。%1%2步兵-這種特殊的傳感器可用來偵測步兵之用，通常被裝備在小型的無人機上。</Chinese>
-        <Chinesesimp>%1%2激光与红外频闪器-显示出被激光或是红外频闪器标记的目标。%1%2步兵-这种特殊的传感器可用来侦测步兵，通常被装备在小型的无人机上。</Chinesesimp>
+        <Chinesesimp>%1%2激光与红外频闪器 — 显示出被激光或是红外频闪器标记的目标。%1%2步兵 — 这种特殊的传感器可用来侦测步兵，通常被装备在小型的无人机上。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_sensortypes_desc">
         <Original>Vehicle sensor suites often consist of several individual sensor types. Each sensor has different properties and indicators on the Sensor Display.%1%2Infrared (red) - detects heated targets.%1%2Visual (yellow) - detects any visible target, becomes less effective in the dark.%1%2Active Radar (cyan) - detects any target beyond visual range. Can be switched on/off.%1%2Passive Radar (green) - detects activated Radars at max. twice their own range.</Original>
@@ -39,8 +39,8 @@
       </Key>
       <Key ID="str_a3_hint_sensors_desc">
         <Original>Some vehicles have sensors to detect and track targets automatically.%1&lt;t&gt;&lt;/t&gt;1. Switch to Sensor Display %11.%1&lt;t&gt;&lt;/t&gt;2. Press %12 to mark next target.%1&lt;t&gt;&lt;/t&gt;3. You can also use %13 to mark a target under your cursor.%1&lt;t&gt;&lt;/t&gt;4. Marked target is indicated on both the display and in the scene.%1Any guided weapon you select will now try to lock onto this target. Some unguided weapons may provide a lead computation.</Original>
-        <Chinese>有些載具的傳感器可以自動偵測並追蹤目標。%1&lt;t&gt;&lt;/t&gt;1。使用%11來切換到傳感器畫面。%1&lt;t&gt;&lt;/t&gt;2。按下%12來標記下一個目標。%1&lt;t&gt;&lt;/t&gt;3。你也可以使用%13來標記在你準心之下的目標。%1&lt;t&gt;&lt;/t&gt;4。被標記的目標可以在傳感器畫面與抬頭顯示器上看到。%1如果你當前的武器是可以追蹤目標的類型，它就會自行開始嘗試鎖定。一些無導引武器可能會提供你一些前置量的提示。</Chinese>
-        <Chinesesimp>有些载具的传感器可以自动侦测并追踪目标。%1&lt;t&gt;&lt;/t&gt;1。使用%11来切换到传感器画面。%1&lt;t&gt;&lt;/t&gt;2。按下%12来标记下一个目标。%1&lt;t&gt;&lt;/t&gt;3。你也可以使用%13来标记在你准星之下的目标。%1&lt;t&gt;&lt;/t&gt;4。被标记的目标可以在传感器画面与平视显示器上看到。%1如果你当前的武器是可以追踪目标的类型，它就会自行开始尝试锁定。某些无制导武器可能会提供前置量的提示。</Chinesesimp>
+        <Chinese>有些載具的傳感器可以自動偵測並追蹤目標。%1&lt;t&gt;&lt;/t&gt;1.使用%11來切換到傳感器畫面。%1&lt;t&gt;&lt;/t&gt;2.按下%12來標記下一個目標。%1&lt;t&gt;&lt;/t&gt;3.你也可以使用%13來標記在你準心之下的目標。%1&lt;t&gt;&lt;/t&gt;4.被標記的目標可以在傳感器畫面與抬頭顯示器上看到。%1如果你當前的武器是可以追蹤目標的類型，它就會自行開始嘗試鎖定。一些無導引武器可能會提供你一些前置量的提示。</Chinese>
+        <Chinesesimp>有些载具的传感器可以自动侦测并追踪目标。%1&lt;t&gt;&lt;/t&gt;1.使用%11来切换到传感器画面。%1&lt;t&gt;&lt;/t&gt;2.按下%12来标记下一个目标。%1&lt;t&gt;&lt;/t&gt;3.你也可以使用%13来标记在你准星之下的目标。%1&lt;t&gt;&lt;/t&gt;4.被标记的目标可以在传感器画面与平视显示器上看到。%1如果你当前的武器是可以追踪目标的类型，它就会自行开始尝试锁定。某些无制导武器可能会提供前置量的提示。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_sensordisplay_title">
         <Original>Sensor Display</Original>
@@ -70,7 +70,7 @@
       <Key ID="str_a3_hint_loadout_desc">
         <Original>A vehicle can come with different weapon loadouts and ammunition; bombs, rockets, missiles, cannon - all are interchangeable and can be assigned to fit the vehicle's role in any given mission. Check your weapon stores at the beginning of a mission, before engaging the enemy.</Original>
         <Chinese>一臺載具能有不同的武器與彈藥配置;諸如炸彈，火箭彈，飛彈與機砲等等-這些都是可以自行配置，讓武器配置適合當前執行的任務。建議你在與敵人正式交戰前，務必要先檢查自己載具的武器有哪些。</Chinese>
-        <Chinesesimp>一台载具能有不同的武器与弹药配置;诸如炸弹，火箭弹，导弹与机炮等等-这些都是可以自行配置，令武器配置适合当前执行的任务。建议你在与敌人正式交战前，务必要先检查自己载具的武器有哪些。</Chinesesimp>
+        <Chinesesimp>一台载具能有不同的武器与弹药配置;诸如炸弹，火箭弹，导弹与机炮等等 — 这些都是可以自行配置，令武器配置适合当前执行的任务。建议你在与敌人正式交战前，务必要先检查自己载具的武器有哪些。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_ilslanding_title">
         <Original>ILS Approach</Original>
@@ -80,7 +80,7 @@
       <Key ID="str_a3_hint_ilslanding_desc">
         <Original>To help you land at night or in adverse conditions, your HUD will enter the ILS mode when the landing gear is down. Providing you with:%1%2An outline of the runway to see where you're going to land.%1%2Glideslope deviation guides; fly them to form a cross at the center of the HUD.%1%2Angle-of-attack indication next to your flight path vector.</Original>
         <Chinese>為了幫助你在夜間或是壞天氣之下降落，你的抬頭顯示器會在起落架放下後自動進入儀器降落的模式。他會提供以下資訊:%1%2會把你即將要降落的跑道用一個外框標記出來。%1%2下滑道偏差指示器;把這個指示器的兩條線對準形成一個十字，這樣你的飛機就會剛好在下滑道上。%1%2攻角指示器會出現在飛行路徑指示器的旁邊。</Chinese>
-        <Chinesesimp>为了帮助你在夜间或是恶劣天气下降落，你的抬头显示器会在起落架放下后自动进入仪表降落模式。它会提供以下信息:%1%2会把你即将要降落的跑道用一个外框标记出来。%1%2下滑道偏差指示器;把这个指示器的两条线对准形成一个十字，这样你的飞机就会刚好在下滑道上。%1%2攻角指示器会出现在飞行路径指示器的旁边。</Chinesesimp>
+        <Chinesesimp>为了帮助你在夜间或是恶劣天气下降落，你的抬头显示器会在起落架放下后自动进入仪表降落模式。它会提供以下信息：%1%2会把你即将要降落的跑道用一个外框标记出来。%1%2下滑道偏差指示器;把这个指示器的两条线对准形成一个十字，这样你的飞机就会刚好在下滑道上。%1%2攻角指示器会出现在飞行路径指示器的旁边。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_huds_title">
         <Original>HUDs and HMDs</Original>
@@ -90,7 +90,7 @@
       <Key ID="str_a3_hint_huds_desc">
         <Original>Head-up displays provide you with critical flight and weapons data as you look outside. The most important elements are: %1%2Airspeed%1%2Altitude%1%2Heading%1%2Pitch%1%2%11 Boresight or waterline, showing where the aircraft is pointing%1%2%12 Flight path vector (FPV), showing where the aircraft is going%1%2Climb rate%1%2Weapon and ammo count%1%2%13 Target box%1%2Threat and stall warnings</Original>
         <Chinese>抬頭顯示器能讓你在觀察飛機外面的同時能獲得重要的飛行參數與武器資料。重要的的數值有以下幾種:%1%2空速%1%2高度%1%2航向%1%2俯仰角%1%2%11視軸線，顯示你飛機機鼻的指向%1%2%12飛行路徑指示器(FPV)，這可以讓你知道飛機將會飛到哪去%1%2爬升率%1%2武器彈藥數量%1%2%13目標標定框%1%2威脅與失速警告</Chinese>
-        <Chinesesimp>抬头显示器能让你在观察飞机外面的同时能获得重要的飞行参数与武器资料。重要的的数值有以下几种:%1%2空速%1%2高度%1%2航向%1%2俯仰角%1%2%11视轴线，显示你飞机机鼻的指向%1%2%12飞行路径指示器（FPV），这可以让你知道飞机将会飞到哪去%1%2爬升率%1%2武器弹药数量%1%2%13目标标记框%1%2威胁与失速警告</Chinesesimp>
+        <Chinesesimp>抬头显示器能让你在观察飞机外面的同时能获得重要的飞行参数与武器资料。重要的的数值有以下几种：%1%2空速%1%2高度%1%2航向%1%2俯仰角%1%2%11视轴线，显示你飞机机鼻的指向%1%2%12飞行路径指示器（FPV），这可以让你知道飞机将会飞到哪去%1%2爬升率%1%2武器弹药数量%1%2%13目标标记框%1%2威胁与失速警告</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_fcs_title">
         <Original>Fire Control Systems</Original>
@@ -100,7 +100,7 @@
       <Key ID="str_a3_hint_fcs_tip">
         <Original>%2Does the measured speed and range seem valid? If not, start over.%1%2GND SCT indicates terrain reflections.%1%2Keep in mind that the FCS may not provide a fire solution for targets that are too far away or are moving too fast.</Original>
         <Chinese>%2量測所得的速度和距離看來合理嗎?若不合理，請重測一次。%1%2GND SCT指示有地形反射的狀況。%1%2請記住，若目標距離太遠或移動速度過快，那射控系統就有可能無法提供射擊方案。</Chinese>
-        <Chinesesimp>%2量测所得的速度和距离看来合理吗?若不合理，请重测一次。%1%2GND SCT 指示有地形反射的状况。%1%2请记住，若目标距离太远或移动速度过快，那射控系统就有可能无法提供射击方案。</Chinesesimp>
+        <Chinesesimp>%2量测所得的速度和距离看来合理吗？若不合理，请重测一次。%1%2GND SCT 指示有地形反射的状况。%1%2请记住，若目标距离太远或移动速度过快，那射控系统就有可能无法提供射击方案。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_fcs_desc">
         <Original>More advanced weapons have a Fire Control System (FCS). It provides weapon zeroing and automatically calculates lead time for your target.%1%2Aim at your target and press %11 to lase it and log its speed and range.%1%2Keep tracking the target under your crosshair.%1%2Shoot when 'RDY' appears on the screen.%1If the target suddenly changes speed or direction, you need to start over.</Original>
@@ -124,8 +124,8 @@
       </Key>
       <Key ID="str_a3_hint_carriertakeoff_desc">
         <Original>To take-off from the carrier:%1&lt;t&gt;&lt;/t&gt;1. Align the aircraft with one of the four catapults.%1&lt;t&gt;&lt;/t&gt;2. Use %3Launch%4 in the action menu when aligned with the direction of the launch catapult.</Original>
-        <Chinese>要從航空母艦起飛有以下步驟:%1&lt;t&gt;&lt;/t&gt;1。使飛機對準其中一個彈射器。%1&lt;t&gt;&lt;/t&gt;2。當你對準好彈射器以後，使用動作選單中的%3啟動%4來執行起飛。</Chinese>
-        <Chinesesimp>要从航空母舰起飞有以下步骤:%1&lt;t&gt;&lt;/t&gt;1。使飞机对准其中一个弹射器。%1&lt;t&gt;&lt;/t&gt;2。当你对准好弹射器以后，使用动作选单中的%3启动%4来执行起飞。</Chinesesimp>
+        <Chinese>要從航空母艦起飛有以下步驟:%1&lt;t&gt;&lt;/t&gt;1.使飛機對準其中一個彈射器。%1&lt;t&gt;&lt;/t&gt;2.當你對準好彈射器以後，使用動作選單中的%3啟動%4來執行起飛。</Chinese>
+        <Chinesesimp>要从航空母舰起飞有以下步骤：%1&lt;t&gt;&lt;/t&gt;1.使飞机对准其中一个弹射器。%1&lt;t&gt;&lt;/t&gt;2.当你对准好弹射器以后，使用动作选单中的%3启动%4来执行起飞。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_carrierlanding_title">
         <Original>Carrier Landing</Original>
@@ -139,8 +139,8 @@
       </Key>
       <Key ID="str_a3_hint_carrierlanding_desc">
         <Original>Landing on the short deck of a ship is challenging.%1&lt;t&gt;&lt;/t&gt;1. Follow the standard landing approach.%1&lt;t&gt;&lt;/t&gt;2. Deploy %3Tailhook%4 via action menu.%1&lt;t&gt;&lt;/t&gt;3. ILS may help you maintain the needed precision and stability.%1&lt;t&gt;&lt;/t&gt;4. Line up the aircraft behind the ship at about 10 degrees right of the ships line.%1&lt;t&gt;&lt;/t&gt;5. Aim for the field of three wires which is located about 20 percent of the way down the length of the landing deck.%1&lt;t&gt;&lt;/t&gt;6. Be ready to go full throttle if you miss the wires. Go around and try again.</Original>
-        <Chinese>降落在航空母艦上是一項艱鉅的任務。%1&lt;t&gt;&lt;/t&gt;1。遵行標準的進場程序。%1&lt;t&gt;&lt;/t&gt;2。使用動作選單放下%3尾鉤%4。%1&lt;t&gt;&lt;/t&gt;3。儀器降落系統(ILS)或許能幫你保持一定的精準度與穩定性。%1&lt;t&gt;&lt;/t&gt;4。對準跑道，跑道與船的中心線有10度左右的夾角。%1&lt;t&gt;&lt;/t&gt;5。瞄準甲板上的鉤鎖，他們在跑道前百分之20左右的地方。%1&lt;t&gt;&lt;/t&gt;6。請準備好你的油門，當你錯失鉤鎖後必須馬上推到最大馬力。重飛並再次執行降落程序。</Chinese>
-        <Chinesesimp>降落在航空母舰上是一项艰巨的任务。%1&lt;t&gt;&lt;/t&gt;1。遵行标准的进场程序。%1&lt;t&gt;&lt;/t&gt;2。使用动作选单放下%3尾钩%4。%1&lt;t&gt;&lt;/t&gt;3。仪器降落系统（ILS）或许能帮你保持一定的精准度与稳定性。%1&lt;t&gt;&lt;/t&gt;4。对准跑道，跑道与船的中心线有10度左右的夹角。%1&lt;t&gt;&lt;/t&gt;5。瞄准甲板上的钩锁，它们在跑道前百分之20左右的地方。%1&lt;t&gt;&lt;/t&gt;6。请准备好你的油门，当你错失钩锁后必须立刻推到最大推力。重飞并再次执行降落程序。</Chinesesimp>
+        <Chinese>降落在航空母艦上是一項艱鉅的任務。%1&lt;t&gt;&lt;/t&gt;1.遵行標準的進場程序。%1&lt;t&gt;&lt;/t&gt;2.使用動作選單放下%3尾鉤%4。%1&lt;t&gt;&lt;/t&gt;3.儀器降落系統(ILS)或許能幫你保持一定的精準度與穩定性。%1&lt;t&gt;&lt;/t&gt;4.對準跑道，跑道與船的中心線有10度左右的夾角。%1&lt;t&gt;&lt;/t&gt;5.瞄準甲板上的鉤鎖，他們在跑道前百分之20左右的地方。%1&lt;t&gt;&lt;/t&gt;6.請準備好你的油門，當你錯失鉤鎖後必須馬上推到最大馬力。重飛並再次執行降落程序。</Chinese>
+        <Chinesesimp>降落在航空母舰上是一项艰巨的任务。%1&lt;t&gt;&lt;/t&gt;1.遵行标准的进场程序。%1&lt;t&gt;&lt;/t&gt;2.使用动作选单放下%3尾钩%4。%1&lt;t&gt;&lt;/t&gt;3.仪器降落系统（ILS）或许能帮你保持一定的精准度与稳定性。%1&lt;t&gt;&lt;/t&gt;4.对准跑道，跑道与船的中心线有10度左右的夹角。%1&lt;t&gt;&lt;/t&gt;5.瞄准甲板上的钩锁，它们在跑道前百分之20左右的地方。%1&lt;t&gt;&lt;/t&gt;6.请准备好你的油门，当你错失钩锁后必须立刻推到最大推力。重飞并再次执行降落程序。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_bombs_title">
         <Original>Bombs</Original>
@@ -150,12 +150,12 @@
       <Key ID="str_a3_hint_bombs_tip">
         <Original>You can try dropping a bomb, so it detonates on the reverse side of a salient feature, such as a hill. If a small X appears inside the CCIP cross in your optics, then it shows that the bomb will land beyond the terrain in front of you.</Original>
         <Chinese>您可以試著投下炸彈，讓炸彈在顯著地形的反向坡上爆炸，例如:山丘。如果(CCIP)裡的準心出現X，那代表炸彈會落在你瞄準之外的地方。</Chinese>
-        <Chinesesimp>您可以试着投下炸弹，让炸弹在显着地形的反向坡上爆炸，例如:山丘。如果（CCIP）里的准心出现X，那代表炸弹会落在你瞄准之外的地方。</Chinesesimp>
+        <Chinesesimp>您可以试着投下炸弹，让炸弹在显着地形的反向坡上爆炸，例如：山丘。如果（CCIP）里的准心出现X，那代表炸弹会落在你瞄准之外的地方。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_bombs_desc">
         <Original>A bomb is an airdropped explosive munition. After releasing, it follows a ballistic path. Where the bomb will land, if released at the given moment, is shown by a continuously-computed impact point (CCIP) in your HUD - a small crosshair or circle with a dot.%1%1Guided bombs can make corrections to this path to achieve better precision or to strike a moving target. At certain altitude a laser guided bomb (LGB) will automatically home in on the nearest laser spot (marked by your own targeting camera or friendly JTAC).%1 1. Press %11 to mark a lased spot.%1 2. Maneuver to bring the CCIP and marked laser together.%1 3. Release the bomb once the icons overlap or are reasonably close together.</Original>
         <Chinese>投擲炸彈前，您的HUD會顯示連續計算彈著點(CCIP)--一個小型的十字準心或一圓圈顯示當前炸彈的預期落點。當炸彈投出後便隨著拋物線下落直到顯示的落點上。%1%1導引型炸彈可以調整彈道路線，提升精準度、或是攻擊移動中的目標。到達適當高度後，雷射導引炸彈(LGB)會自動瞄準最近雷射標定地點，雷射標定可以由您的瞄準吊艙、或是友方的聯合終端攻擊管制員(JTAC)完成。%1 1. 按下%11來雷射標定一個地點。%1 2. 移動飛機使CCIP的十準心和標定點重疊。%1 3. 待兩者重疊、或足夠接近時投出炸彈。</Chinese>
-        <Chinesesimp>投掷炸弹前，您的 HUD 会显示连续计算弹着点(CCIP)--一个小型的十字准心或一圆圈显示当前炸弹的预期落点。当炸弹投出后便随着抛物线下落直到显示的落点上。%1%1制导型炸弹可以调整弹道路线，提升精准度、或是攻击移动中的目标。到达适当高度后，激光制导炸弹(LGB)会自动瞄准最近激光标定地点，激光标定可以由您的瞄准吊舱、或是友方的联合终端攻击管制员（JTAC）完成。%1 1. 按下%11来激光标记一个地点。%1 2. 移动飞机使 CCIP 的十准心和标记点重叠。%1 3. 待两者重叠、或足够接近时投出炸弹。</Chinesesimp>
+        <Chinesesimp>投掷炸弹前，您的 HUD 会显示连续计算弹着点(CCIP)——一个小型的十字准心或一圆圈显示当前炸弹的预期落点。当炸弹投出后便随着抛物线下落直到显示的落点上。%1%1制导型炸弹可以调整弹道路线，提升精准度、或是攻击移动中的目标。到达适当高度后，激光制导炸弹(LGB)会自动瞄准最近激光标定地点，激光标定可以由您的瞄准吊舱、或是友方的联合终端攻击管制员（JTAC）完成。%1 1. 按下%11来激光标记一个地点。%1 2. 移动飞机使 CCIP 的十准心和标记点重叠。%1 3. 待两者重叠、或足够接近时投出炸弹。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_airplanedamage_title">
         <Original>Extended Airplane Hitpoints</Original>
@@ -1017,7 +1017,7 @@
       <Key ID="str_a3_cfgmods_jets_features_dlcjetsmisc1">
         <Original>Optional new throttle behavior, new airplane animation and MFD sources for modders, tweaked controls, and more!</Original>
         <Chinese>可選的新式油門操作，新的飛機動作，多功能顯示螢幕與更加擬真的操作等等!</Chinese>
-        <Chinesesimp>可选的新式节流阀操作，新的飞机动画，多功能显示屏幕与更加拟真的操作等等!</Chinesesimp>
+        <Chinesesimp>可选的新式节流阀操作，新的飞机动画，多功能显示屏幕与更加拟真的操作等等！</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_jets_features_dlcjetshitpoints1">
         <Original>More simulated weak-spots for airplanes, ranging from single engine failure to fuel leaks and HUD malfunctions.</Original>

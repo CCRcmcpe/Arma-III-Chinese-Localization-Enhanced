@@ -13,32 +13,32 @@
             <Key ID="str_a3_time_trials_misctt_rof_10">
               <Original>Good time!</Original>
               <Chinese>不錯!</Chinese>
-              <Chinesesimp>不错!</Chinesesimp>
+              <Chinesesimp>不错！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_11">
               <Original>Splendid!</Original>
               <Chinese>漂亮!</Chinese>
-              <Chinesesimp>漂亮!</Chinesesimp>
+              <Chinesesimp>漂亮！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_12">
               <Original>Check Point missed!</Original>
               <Chinese>錯失檢查點!</Chinese>
-              <Chinesesimp>错失检查点!</Chinesesimp>
+              <Chinesesimp>错失检查点！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_13">
               <Original>Missed Check Point!</Original>
               <Chinese>你沒經過檢查點!</Chinese>
-              <Chinesesimp>你没经过检查点!</Chinesesimp>
+              <Chinesesimp>你没经过检查点！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_14">
               <Original>Skipped Check Point!</Original>
               <Chinese>跳過檢查點!</Chinese>
-              <Chinesesimp>跳过检查点!</Chinesesimp>
+              <Chinesesimp>跳过检查点！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_15">
               <Original>Check Point skipped!</Original>
               <Chinese>你跳過了檢查點!</Chinese>
-              <Chinesesimp>你跳过了检查点!</Chinesesimp>
+              <Chinesesimp>你跳过了检查点！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_16">
               <Original>Give it another go</Original>
@@ -58,17 +58,17 @@
             <Key ID="str_a3_time_trials_misctt_rof_2">
               <Original>Missed!</Original>
               <Chinese>失誤!</Chinese>
-              <Chinesesimp>失误!</Chinesesimp>
+              <Chinesesimp>失误！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_3">
               <Original>Not clear!</Original>
               <Chinese>沒有肅清!</Chinese>
-              <Chinesesimp>没有肃清!</Chinesesimp>
+              <Chinesesimp>没有肃清！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_4">
               <Original>Nope!</Original>
               <Chinese>沒了!</Chinese>
-              <Chinesesimp>没了!</Chinesesimp>
+              <Chinesesimp>没了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_5">
               <Original>Race finished</Original>
@@ -88,22 +88,22 @@
             <Key ID="str_a3_time_trials_misctt_rof_8">
               <Original>Finished!</Original>
               <Chinese>完成!</Chinese>
-              <Chinesesimp>完成!</Chinesesimp>
+              <Chinesesimp>完成！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_9">
               <Original>Good race!</Original>
               <Chinese>跑的好!</Chinese>
-              <Chinesesimp>跑的好!</Chinesesimp>
+              <Chinesesimp>跑的好！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_0">
               <Original>Driver ready?</Original>
               <Chinese>駕駛預備?</Chinese>
-              <Chinesesimp>驾驶预备?</Chinesesimp>
+              <Chinesesimp>驾驶预备？</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_19">
               <Original>Too low!</Original>
               <Chinese>太慢了!</Chinese>
-              <Chinesesimp>太慢了!</Chinesesimp>
+              <Chinesesimp>太慢了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_20">
               <Original>Not high enough</Original>
@@ -123,7 +123,7 @@
             <Key ID="str_a3_time_trials_misctt_rof_23">
               <Original>Too high!</Original>
               <Chinese>太高了!</Chinese>
-              <Chinesesimp>太高了!</Chinesesimp>
+              <Chinesesimp>太高了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_24">
               <Original>Not low enough</Original>
@@ -143,7 +143,7 @@
             <Key ID="str_a3_time_trials_misctt_rof_27">
               <Original>Too soon!</Original>
               <Chinese>太快了!</Chinese>
-              <Chinesesimp>太快了!</Chinesesimp>
+              <Chinesesimp>太快了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_28">
               <Original>Stay</Original>
@@ -163,7 +163,7 @@
             <Key ID="str_a3_time_trials_misctt_rof_31">
               <Original>Don't move!</Original>
               <Chinese>不要動!</Chinese>
-              <Chinesesimp>不要动!</Chinesesimp>
+              <Chinesesimp>不要动！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_32">
               <Original>Heading ...</Original>
@@ -178,27 +178,27 @@
             <Key ID="str_a3_time_trials_misctt_rof_34">
               <Original>Facing the wrong way!</Original>
               <Chinese>你面對錯的方向了!</Chinese>
-              <Chinesesimp>你面对错的方向了!</Chinesesimp>
+              <Chinesesimp>你面对错的方向了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_35">
               <Original>Watch your cargo!</Original>
               <Chinese>看好你的貨物!</Chinese>
-              <Chinesesimp>看好你的货物!</Chinesesimp>
+              <Chinesesimp>看好你的货物！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_36">
               <Original>Transport penalty!</Original>
               <Chinese>運輸懲罰!</Chinese>
-              <Chinesesimp>运输惩罚!</Chinesesimp>
+              <Chinesesimp>运输惩罚！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_37">
               <Original>Transport bonus!</Original>
               <Chinese>運輸獎勵!</Chinese>
-              <Chinesesimp>运输奖励!</Chinesesimp>
+              <Chinesesimp>运输奖励！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_38">
               <Original>Drop bonus!</Original>
               <Chinese>放下獎勵!</Chinese>
-              <Chinesesimp>放下奖励!</Chinesesimp>
+              <Chinesesimp>放下奖励！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_39">
               <Original>Good drop</Original>
@@ -208,7 +208,7 @@
             <Key ID="str_a3_time_trials_misctt_rof_40">
               <Original>Nice drop!</Original>
               <Chinese>放得不錯!</Chinese>
-              <Chinesesimp>放得不错!</Chinesesimp>
+              <Chinesesimp>放得不错！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_41">
               <Original>Check cargo</Original>
@@ -218,22 +218,22 @@
             <Key ID="str_a3_time_trials_misctt_rof_42">
               <Original>Hook up!</Original>
               <Chinese>掛起!</Chinese>
-              <Chinesesimp>挂起!</Chinesesimp>
+              <Chinesesimp>挂起！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_43">
               <Original>Pick up the load!</Original>
               <Chinese>掛起他!</Chinese>
-              <Chinesesimp>挂起它!</Chinesesimp>
+              <Chinesesimp>挂起它！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_44">
               <Original>Release!</Original>
               <Chinese>釋放!</Chinese>
-              <Chinesesimp>释放!</Chinesesimp>
+              <Chinesesimp>释放！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_45">
               <Original>Drop it!</Original>
               <Chinese>放下他!</Chinese>
-              <Chinesesimp>放下它!</Chinesesimp>
+              <Chinesesimp>放下它！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_46">
               <Original>Drop</Original>
@@ -248,7 +248,7 @@
             <Key ID="str_a3_time_trials_misctt_rof_48">
               <Original>Get in!</Original>
               <Chinese>進入!</Chinese>
-              <Chinesesimp>进入!</Chinesesimp>
+              <Chinesesimp>进入！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_49">
               <Original>To the vehicle</Original>
@@ -258,17 +258,17 @@
             <Key ID="str_a3_time_trials_misctt_rof_50">
               <Original>Disembark!</Original>
               <Chinese>下車!</Chinese>
-              <Chinesesimp>下车!</Chinesesimp>
+              <Chinesesimp>下车！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_51">
               <Original>Get out!</Original>
               <Chinese>滾開!</Chinese>
-              <Chinesesimp>滚开!</Chinesesimp>
+              <Chinesesimp>滚开！</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_52">
               <Original>Out!</Original>
               <Chinese>出去!</Chinese>
-              <Chinesesimp>出去!</Chinesesimp>
+              <Chinesesimp>出去！</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -277,7 +277,7 @@
             <Key ID="str_a3_zone_restriction_warn_has_leader_ada_0">
               <Original>Sergeant, where are you going?</Original>
               <Chinese>中士，你想要去哪裡?</Chinese>
-              <Chinesesimp>中士，你想去哪儿啊?</Chinesesimp>
+              <Chinesesimp>中士，你想去哪儿啊？</Chinesesimp>
             </Key>
             <Key ID="str_a3_zone_restriction_warn_has_leader_ada_1">
               <Original>Get back here, Conway.</Original>
@@ -423,17 +423,17 @@
             <Key ID="str_a3_boot_m05_d05_results_lac_0">
               <Original>What the fuck was that?</Original>
               <Chinese>那到底在搞啥鬼?</Chinese>
-              <Chinesesimp>那他妈是在干啥?</Chinesesimp>
+              <Chinesesimp>那他妈是在干啥？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_d05_results_lac_1">
               <Original>Who was that asshole?</Original>
               <Chinese>那個混蛋是誰?</Chinese>
-              <Chinesesimp>那个混蛋是谁?</Chinesesimp>
+              <Chinesesimp>那个混蛋是谁？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_d05_results_lac_2">
               <Original>That's their top brass? Now I know why they're so fucked up.</Original>
               <Chinese>他是他們的高層?現在我總算知道他們為啥總是那麼混帳了。</Chinese>
-              <Chinesesimp>他是他们的高层?我算知道为什么他们总是那么混帐了。</Chinesesimp>
+              <Chinesesimp>他是他们的高层？我算知道为什么他们总是那么混帐了。</Chinesesimp>
             </Key>
           </Container>
           <Container name="d01_Hate" audioFilePath="\a3\dubbing_f_bootcamp\boot_m05" dialogName="d01_Hate" dubbingLanguage="english" namePrefix="boot_m05_d01_hate" note="" participants="BOOT B Lacey;BOOT B Adams;" situation="lacey is getting frustrated">
@@ -467,17 +467,17 @@
             <Key ID="str_a3_boot_m05_45_aftermath_lac_1">
               <Original>Hey! What are you doing?</Original>
               <Chinese>嘿!你在幹什麼?</Chinese>
-              <Chinesesimp>嘿!你在干什么?</Chinesesimp>
+              <Chinesesimp>嘿！你在干什么？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_45_aftermath_lac_2">
               <Original>Hey, asshole, I'm talking to you!</Original>
               <Chinese>嘿，混蛋，我在跟你講話!</Chinese>
-              <Chinesesimp>嘿，混蛋，我在跟你讲话!</Chinesesimp>
+              <Chinesesimp>嘿，混蛋，我在跟你讲话！</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_45_aftermath_bhq_2">
               <Original>1-2, stand down. How copy?</Original>
               <Chinese>"1-2"，退下。有收到嗎?</Chinese>
-              <Chinesesimp>"1-2"，退下。有收到吗?</Chinesesimp>
+              <Chinesesimp>"1-2"，退下。有收到吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_45_aftermath_lac_3">
               <Original>Buddy, I'm warning you, you pick this fight and you'll lose.</Original>
@@ -492,17 +492,17 @@
             <Key ID="str_a3_boot_m05_45_aftermath_lac_4">
               <Original>What's the problem? Your men are abusing these prisoners.</Original>
               <Chinese>搞什麼鬼?你的人正在凌虐這些囚犯。</Chinese>
-              <Chinesesimp>有什么事情?你的人正在凌虐这些俘虏。</Chinesesimp>
+              <Chinesesimp>有什么事情？你的人正在凌虐这些俘虏。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_45_aftermath_ihq_0">
               <Original>Is there a problem here, Sergeant?</Original>
               <Chinese>有什麼事情嗎，中士?</Chinese>
-              <Chinesesimp>有什么事情吗，中士?</Chinesesimp>
+              <Chinesesimp>有什么事情吗，中士？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_45_aftermath_lac_5">
               <Original>The hell it is! Corporal, arrest them.</Original>
               <Chinese>見鬼了!下士，逮捕他們。</Chinese>
-              <Chinesesimp>见鬼了!下士，逮捕他们。</Chinesesimp>
+              <Chinesesimp>见鬼了！下士，逮捕他们。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_45_aftermath_isa_0">
               <Original>This is none of your business, American.</Original>
@@ -537,7 +537,7 @@
             <Key ID="str_a3_boot_m05_45_aftermath_lac_8">
               <Original>What? Sir, if I may-</Original>
               <Chinese>什麼?長官，我可以-</Chinese>
-              <Chinesesimp>什么?长官，要是我能-</Chinesesimp>
+              <Chinesesimp>什么？长官，要是我能-</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_45_aftermath_lac_9">
               <Original>... Solid copy, sir. Out.</Original>
@@ -592,12 +592,12 @@
             <Key ID="str_a3_boot_m05_20_fire_ada_1">
               <Original>Broadway, Alpha 1-1 Actual. What's the situation in Kavala? Over.</Original>
               <Chinese>"百老匯"，這裡是"Alpha1-1"隊長。現在卡瓦拉的情況如何?完畢。</Chinese>
-              <Chinesesimp>"百老汇"，这里是 Alpha1-1"领队。现在卡瓦拉的情况如何?完毕。</Chinesesimp>
+              <Chinesesimp>"百老汇"，这里是 Alpha1-1"领队。现在卡瓦拉的情况如何？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_20_fire_ada_2">
               <Original>Copy. Interrogative, what do you need us for? Over.</Original>
               <Chinese>收到。我有疑問，你需要我們為你做什麼?完畢。</Chinese>
-              <Chinesesimp>收到。我有疑问，你需要我们做什么?完毕。</Chinesesimp>
+              <Chinesesimp>收到。我有疑问，你需要我们做什么？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_20_fire_ada_3">
               <Original>Solid copy, sir. We'll keep you updated. 1-1 out.</Original>
@@ -627,21 +627,21 @@
             <Key ID="str_a3_boot_m05_20_fire_bhq_4">
               <Original>We're getting conflicting reports left and right. I need someone on the ground. How copy?</Original>
               <Chinese>我快被相互矛盾的情報給煩死了。我需要有人在现场。有收到嗎?</Chinese>
-              <Chinesesimp>我手里尽是各种相互矛盾的情报。我需要有人在现场。懂吗?</Chinesesimp>
+              <Chinesesimp>我手里尽是各种相互矛盾的情报。我需要有人在现场。懂吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_Checkpoint" audioFilePath="\a3\dubbing_f_bootcamp\boot_m05" dialogName="15_Checkpoint" dubbingLanguage="english" namePrefix="boot_m05_15_checkpoint" note="" participants="BOOT B Adams;" situation="helicopter flies over the battle at the checkpoint">
             <Key ID="str_a3_boot_m05_15_checkpoint_ada_0">
               <Original>Damn. What the hell happened?</Original>
               <Chinese>該死。發生了什麼事情?</Chinese>
-              <Chinesesimp>该死。发生什么事了?</Chinesesimp>
+              <Chinesesimp>该死。发生什么事了？</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_CSAT" audioFilePath="\a3\dubbing_f_bootcamp\boot_m05" dialogName="10_CSAT" dubbingLanguage="english" namePrefix="boot_m05_10_csat" note="" participants="BOOT B Soldier A;BOOT B Soldier B;" situation="a wild csat helicopter appears">
             <Key ID="str_a3_boot_m05_10_csat_bsa_0">
               <Original>What's CSAT doing here?</Original>
               <Chinese>廣協同盟在這裡幹什麼?</Chinese>
-              <Chinesesimp>广协在这里干什么?</Chinesesimp>
+              <Chinesesimp>广协在这里干什么？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_10_csat_bsb_0">
               <Original>Just marking their territory, as per usual.</Original>
@@ -668,7 +668,7 @@
             <Key ID="str_a3_boot_m05_05_situation_bsb_0">
               <Original>What's the situation?</Original>
               <Chinese>這裡的狀況怎樣?</Chinese>
-              <Chinesesimp>这里的状况怎样?</Chinesesimp>
+              <Chinesesimp>这里的状况怎样？</Chinesesimp>
             </Key>
           </Container>
           <Key ID="str_a3_boot_m05_epilogue_2">
@@ -679,7 +679,7 @@
           <Key ID="str_a3_boot_m05_epilogue_3">
             <Original>With conflict brewing in the Pacific, the world - and NATO itself - slowly started to forget about the tiny island republic.</Original>
             <Chinese>隨著太平洋的局勢不斷升溫，全世界-甚至是北約自己-都漸漸的淡忘掉這個小島國。</Chinese>
-            <Chinesesimp>随着太平洋的局势不断升温，全世界-甚至包括北约自身-都渐渐的淡忘掉这个小岛国。</Chinesesimp>
+            <Chinesesimp>随着太平洋的局势不断升温，全世界 — 甚至包括北约自身 — 都渐渐的淡忘掉这个小岛国。</Chinesesimp>
           </Key>
           <Container name="01_Start" audioFilePath="\a3\dubbing_f_bootcamp\boot_m05" dialogName="01_Start" dubbingLanguage="english" namePrefix="boot_m05_01_start" note="" participants="BOOT B Soldier B;" situation="reinforcements approaching">
             <Key ID="str_a3_boot_m05_01_start_bsb_0">
@@ -808,7 +808,7 @@
           <Key ID="str_a3_boot_m04_bis_roe_desc">
             <Original>Follow the Rules of Engagement - do not fire unless fired upon.</Original>
             <Chinese>遵守交戰守則-不要開火，除非對方先開火。</Chinese>
-            <Chinesesimp>遵守交战守则-不开第一枪。</Chinesesimp>
+            <Chinesesimp>遵守交战守则 — 不开第一枪。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_bis_locate_title">
             <Original>Locate the Convoy</Original>
@@ -831,21 +831,21 @@
             <Key ID="str_a3_boot_m04_x05_wounded_player_lac_0">
               <Original>We've got wounded over here!</Original>
               <Chinese>我們這裡有名傷兵!</Chinese>
-              <Chinesesimp>这里有名伤兵!</Chinesesimp>
+              <Chinesesimp>这里有名伤兵！</Chinesesimp>
             </Key>
           </Container>
           <Container name="x01_Ignored_ROE" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="x01_Ignored_ROE" dubbingLanguage="english" namePrefix="boot_m04_x01_ignored_roe" note="" participants="BOOT B Adams;" situation="player disobeyed the rules of engagement">
             <Key ID="str_a3_boot_m04_x01_ignored_roe_ada_0">
               <Original>What the fuck, Conway? Everyone, open up!</Original>
               <Chinese>搞啥鬼，康維?所有人，開火!</Chinese>
-              <Chinesesimp>搞什么鬼，康维?所有人，开火!</Chinesesimp>
+              <Chinesesimp>搞什么鬼，康维？所有人，开火！</Chinesesimp>
             </Key>
           </Container>
           <Container name="d01_Situation" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="d01_Situation" dubbingLanguage="english" namePrefix="boot_m04_d01_situation" note="" participants="BOOT B Lacey;BOOT B Adams;" situation="talking about the situation">
             <Key ID="str_a3_boot_m04_d01_situation_ada_0">
               <Original>Who can blame him? He's the one that always has to do the cleaning up around here.</Original>
               <Chinese>誰能怪他呢?他總是在這邊擔當清理善後的工作。</Chinese>
-              <Chinesesimp>谁能怪他呢?他总是在这边担任清理善后的工作。</Chinesesimp>
+              <Chinesesimp>谁能怪他呢？他总是在这边担任清理善后的工作。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_d01_situation_ada_1">
               <Original>The AAF and FIA consenting to a sit-down within the country's Ministry of Defense.</Original>
@@ -867,7 +867,7 @@
             <Key ID="str_a3_boot_m04_95_check_up_ada_0">
               <Original>Son, can you hear me?</Original>
               <Chinese>孩子，你聽的到我嗎?</Chinese>
-              <Chinesesimp>孩子，你听得到我说话吗?</Chinesesimp>
+              <Chinesesimp>孩子，你听得到我说话吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_95_check_up_ada_1">
               <Original>... He's non-responsive.</Original>
@@ -879,7 +879,7 @@
             <Key ID="str_a3_boot_m04_90_wounded_leader_ada_0">
               <Original>We've got wounded over here!</Original>
               <Chinese>我們這裡有名傷兵!</Chinese>
-              <Chinesesimp>这里有名伤兵!</Chinesesimp>
+              <Chinesesimp>这里有名伤兵！</Chinesesimp>
             </Key>
           </Container>
           <Container name="85_All_Clear" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="85_All_Clear" dubbingLanguage="english" namePrefix="boot_m04_85_all_clear" note="" participants="BOOT B Adams;BOOT B Lacey;BOOT B HQ;" situation="team defeats fia">
@@ -913,28 +913,28 @@
             <Key ID="str_a3_boot_m04_80_wave_2_ada_0">
               <Original>Southwest! At the tree line!</Original>
               <Chinese>西南方!樹林線那邊!</Chinese>
-              <Chinesesimp>西南方!树林线那边!</Chinesesimp>
+              <Chinesesimp>西南方！树林线那边！</Chinesesimp>
             </Key>
           </Container>
           <Container name="70_Move_Up" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="70_Move_Up" dubbingLanguage="english" namePrefix="boot_m04_70_move_up" note="" participants="BOOT B Adams;" situation="adams keeps his team organized">
             <Key ID="str_a3_boot_m04_70_move_up_ada_0">
               <Original>Move up! Stick to cover! Watch the trees!</Original>
               <Chinese>前進!尋找掩體!看好樹林的方向!</Chinese>
-              <Chinesesimp>前进!寻找掩体!看好树林的方向!</Chinesesimp>
+              <Chinesesimp>前进！寻找掩体！看好树林的方向！</Chinesesimp>
             </Key>
           </Container>
           <Container name="65_Regroup" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="65_Regroup" dubbingLanguage="english" namePrefix="boot_m04_65_regroup" note="" participants="BOOT B Adams;" situation="adams orders the team to regroup">
             <Key ID="str_a3_boot_m04_65_regroup_ada_0">
               <Original>Everyone, on me!</Original>
               <Chinese>所有人，跟著我!</Chinese>
-              <Chinesesimp>所有人，跟着我!</Chinesesimp>
+              <Chinesesimp>所有人，跟着我！</Chinesesimp>
             </Key>
           </Container>
           <Container name="60_Engage" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="60_Engage" dubbingLanguage="english" namePrefix="boot_m04_60_engage" note="" participants="BOOT B Adams;" situation="adams orders the team to engage after being fired at">
             <Key ID="str_a3_boot_m04_60_engage_ada_0">
               <Original>Drop them!</Original>
               <Chinese>放倒他們!</Chinese>
-              <Chinesesimp>放倒他们!</Chinesesimp>
+              <Chinesesimp>放倒他们！</Chinesesimp>
             </Key>
           </Container>
           <Container name="55_Covering" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="55_Covering" dubbingLanguage="english" namePrefix="boot_m04_55_covering" note="" participants="BOOT B Adams;BOOT B Soldier A;" situation="adams checks with the rest of the team">
@@ -953,14 +953,14 @@
             <Key ID="str_a3_boot_m04_50_friendly_ada_0">
               <Original>Hold fire! We're friendlies!</Original>
               <Chinese>不要開火!我們是友軍!</Chinese>
-              <Chinesesimp>不要开火!我们是友军!</Chinesesimp>
+              <Chinesesimp>不要开火！我们是友军！</Chinesesimp>
             </Key>
           </Container>
           <Container name="45_Spotted" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="45_Spotted" dubbingLanguage="english" namePrefix="boot_m04_45_spotted" note="" participants="BOOT B Adams;" situation="adams spots the fia">
             <Key ID="str_a3_boot_m04_45_spotted_ada_0">
               <Original>Woah!</Original>
               <Chinese>哇!</Chinese>
-              <Chinesesimp>哇!</Chinesesimp>
+              <Chinesesimp>哇！</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_45_spotted_ada_1">
               <Original>Dead ahead, Sergeant.</Original>
@@ -979,7 +979,7 @@
             <Key ID="str_a3_boot_m04_35_overwatch_ada_0">
               <Original>Copy. What do you see?</Original>
               <Chinese>收到。你有看到什麼嗎?</Chinese>
-              <Chinesesimp>收到。你有看到什么吗?</Chinesesimp>
+              <Chinesesimp>收到。你有看到什么吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_35_overwatch_ada_1">
               <Original>Understood. Maintain overwatch. We're moving up.</Original>
@@ -1042,7 +1042,7 @@
             <Key ID="str_a3_boot_m04_15_roe_bhq_0">
               <Original>And, Staff Sergeant - in all likelihood - you're going to have FIA guerrillas waiting for you down there.</Original>
               <Chinese>還有，上士-有可能的話-你們可能會在底下遇到自由獨立同盟的游擊隊。</Chinese>
-              <Chinesesimp>还有，上士-很有可能-当地可能会有 FIA 游击队在等着你。</Chinesesimp>
+              <Chinesesimp>还有，上士 — 很有可能 — 当地可能会有 FIA 游击队在等着你。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_15_roe_bhq_1">
               <Original>Stick to the ROE. Do not fire unless fired upon. However, that does not mean you are to roll over and take it. Confirm, over.</Original>
@@ -1054,12 +1054,12 @@
             <Key ID="str_a3_boot_m04_125_perimeter_ada_0">
               <Original>Alright, hold this perimeter!</Original>
               <Chinese>好，鞏固這裡的四周!</Chinese>
-              <Chinesesimp>好，巩固阵地!</Chinesesimp>
+              <Chinesesimp>好，巩固阵地！</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_125_perimeter_ada_1">
               <Original>I'm not in the mood for any more surprises!</Original>
               <Chinese>我現在沒有心情承受另外一起驚喜!</Chinese>
-              <Chinesesimp>我现在没有心情承受另外一起惊喜!</Chinesesimp>
+              <Chinesesimp>我现在没有心情承受另外一起惊喜！</Chinesesimp>
             </Key>
           </Container>
           <Container name="120_Treated" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="120_Treated" dubbingLanguage="english" namePrefix="boot_m04_120_treated" note="" participants="BOOT B Lacey;" situation="player treated the wounded aaf">
@@ -1092,12 +1092,12 @@
             <Key ID="str_a3_boot_m04_10_convoy_found_ada_0">
               <Original>There! On the road.</Original>
               <Chinese>那裡!在路上。</Chinese>
-              <Chinesesimp>那里!在路上。</Chinesesimp>
+              <Chinesesimp>那里！在路上。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_10_convoy_found_ada_1">
               <Original>Broadway, Alpha 1-1 Actual. We have a visual on the convoy. Grid 073-123. How copy? Over.</Original>
               <Chinese>"百老匯"，這裡是"Alpha1-1"隊長。我們已經目視到車隊了。座標在073-123。有收到嗎?完畢。</Chinese>
-              <Chinesesimp>"百老汇"，这里是 Alpha1-1"队长。我们已经目视到车队了。座标在073-123。有收到吗?完毕。</Chinesesimp>
+              <Chinesesimp>"百老汇"，这里是 Alpha1-1"队长。我们已经目视到车队了。座标在073-123。有收到吗？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_10_convoy_found_bhq_0">
               <Original>1-1 Actual, Broadway. Copy. Dispatching reinforcements. Secure the area and await their arrival.</Original>
@@ -1109,7 +1109,7 @@
             <Key ID="str_a3_boot_m04_105_report_ada_0">
               <Original>Broadway, do you read? Over.</Original>
               <Chinese>"百老匯"，你有收到嗎?完畢。</Chinese>
-              <Chinesesimp>"百老汇"，你有收到吗?完毕。</Chinesesimp>
+              <Chinesesimp>"百老汇"，你有收到吗？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_105_report_bhq_0">
               <Original>Confirmed, 1-1. Send traffic. Over.</Original>
@@ -1152,22 +1152,22 @@
             <Key ID="str_a3_boot_m04_01_start_ada_0">
               <Original>Christ, did they put enough stairs in this thing?</Original>
               <Chinese>天殺的，他們到底有沒有放夠用的樓梯在這棟建築裡?</Chinese>
-              <Chinesesimp>天杀的，他们到底有没有放足够用的楼梯在这栋建筑里?</Chinesesimp>
+              <Chinesesimp>天杀的，他们到底有没有放足够用的楼梯在这栋建筑里？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_01_start_ada_1">
               <Original>No, sir!</Original>
               <Chinese>沒有，長官!</Chinese>
-              <Chinesesimp>没有，长官!</Chinesesimp>
+              <Chinesesimp>没有，长官！</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_01_start_ada_2">
               <Original>You're kidding me?</Original>
               <Chinese>你沒在開玩笑吧?</Chinese>
-              <Chinesesimp>你没在开玩笑吧?</Chinesesimp>
+              <Chinesesimp>你没在开玩笑吧？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_01_start_bhq_0">
               <Original>Having trouble there, Staff Sergeant?</Original>
               <Chinese>有問題嗎，上士?</Chinese>
-              <Chinesesimp>有问题吗，上士?</Chinesesimp>
+              <Chinesesimp>有问题吗，上士？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_01_start_ada_3">
               <Original>Copy.</Original>
@@ -1182,7 +1182,7 @@
             <Key ID="str_a3_boot_m04_01_start_lac_0">
               <Original>Any word from the MoD sit-down, sir?</Original>
               <Chinese>有從國防部傳回任何會議的消息嗎，長官?</Chinese>
-              <Chinesesimp>有任何关于国防部会谈的消息吗，长官?</Chinesesimp>
+              <Chinesesimp>有任何关于国防部会谈的消息吗，长官？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_01_start_bhq_2">
               <Original>Negative. Nothing from the AAF or the guerrillas.</Original>
@@ -1202,12 +1202,12 @@
             <Key ID="str_a3_boot_m04_01_start_bhq_5">
               <Original>Why do you think you boys are here?</Original>
               <Chinese>不然你們倆認為你們兩個人在這裡是要幹什麼?</Chinese>
-              <Chinesesimp>不然你们俩认为你们是来干什么的?</Chinesesimp>
+              <Chinesesimp>不然你们俩认为你们是来干什么的？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_01_start_lac_1">
               <Original>Figure that missing Greenback convoy has something to do with it?</Original>
               <Chinese>找到那支失蹤的綠軍車隊能緩解情勢嗎?</Chinese>
-              <Chinesesimp>找到那支失踪的绿军车队能缓解局势吗?</Chinesesimp>
+              <Chinesesimp>找到那支失踪的绿军车队能缓解局势吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_01_start_bhq_6">
               <Original>There's your ride.</Original>
@@ -1439,7 +1439,7 @@
             <Key ID="str_a3_boot_m02_x20_long_3_warning_ada_0">
               <Original>... Once more, just for the sake of clarity: 100 meters, bearing 290.</Original>
               <Chinese>...再提醒你一次:它距離100公尺，方位290。</Chinese>
-              <Chinesesimp>...再提醒你一次:它距离100米，方位290。</Chinesesimp>
+              <Chinesesimp>...再提醒你一次：它距离100米，方位290。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x15_Long_2_Reprimand" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="x15_Long_2_Reprimand" dubbingLanguage="english" namePrefix="boot_m02_x15_long_2_reprimand" note="" participants="BOOT B Adams;" situation="adams points out the target">
@@ -1474,7 +1474,7 @@
             <Key ID="str_a3_boot_m02_d20_fatigue_ada_0">
               <Original>'What is the Sergeant doing?', I hear you ask.</Original>
               <Chinese>'中士正在幹什麼?'，我聽到你們的問題了。</Chinese>
-              <Chinesesimp>'中士正在干什么?'，我听到你问了。</Chinesesimp>
+              <Chinesesimp>'中士正在干什么？'，我听到你问了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m02_d20_fatigue_ada_1">
               <Original>Well, in all honesty, I have no idea. Although, I think we can all agree, it's quite a sight to behold.</Original>
@@ -1484,7 +1484,7 @@
             <Key ID="str_a3_boot_m02_d20_fatigue_ada_2">
               <Original>However, his completely spontaneous and totally unplanned marathon conveniently brings us to our next lesson: fatigue.</Original>
               <Chinese>然而，有賴他馬拉松式的亂跑，這能讓我們更容易進入到下一個課題:疲勞。</Chinese>
-              <Chinesesimp>然而，有赖他无目的且毫无计划性的马拉松长跑，我们能更能容易地进入到下一个课题:疲劳。</Chinesesimp>
+              <Chinesesimp>然而，有赖他无目的且毫无计划性的马拉松长跑，我们能更能容易地进入到下一个课题：疲劳。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m02_d20_fatigue_ada_3">
               <Original>It can - and it will - be your worst nightmare in the field, should you fail to regulate it effectively.</Original>
@@ -1494,7 +1494,7 @@
             <Key ID="str_a3_boot_m02_d20_fatigue_lac_0">
               <Original>Fuck you, Staff Sergeant!</Original>
               <Chinese>去你的，上士!</Chinese>
-              <Chinesesimp>去你的，上士!</Chinesesimp>
+              <Chinesesimp>去你的，上士！</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m02_d20_fatigue_ada_4">
               <Original>Push yourself too hard, and you'll find yourself unable to hit shit - even when the situation requires otherwise.</Original>
@@ -1504,7 +1504,7 @@
             <Key ID="str_a3_boot_m02_d20_fatigue_ada_5">
               <Original>And, hell - if that's not enough for you - you'll just grow to hate the sound of your own wheezing.</Original>
               <Chinese>而且，如果這對你們來說還不夠的話-你們還會被自己的喘息聲所困擾。</Chinese>
-              <Chinesesimp>而且，如果这对你们来说还不够的话-你们还会被自己的喘息声所困扰。</Chinesesimp>
+              <Chinesesimp>而且，如果这对你们来说还不够的话 — 你们还会被自己的喘息声所困扰。</Chinesesimp>
             </Key>
           </Container>
           <Container name="d15_Run_Around" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="d15_Run_Around" dubbingLanguage="english" namePrefix="boot_m02_d15_run_around" note="" participants="BOOT B Adams;BOOT B Lacey;" situation="adams instructs lacey to teach the trainees about fatigue">
@@ -1548,7 +1548,7 @@
             <Key ID="str_a3_boot_m02_d10_ballistics_and_bearings_ada_2">
               <Original>Are you ready, Sergeant?</Original>
               <Chinese>你準備好了嗎，中士?</Chinese>
-              <Chinesesimp>你准备好了吗，中士?</Chinesesimp>
+              <Chinesesimp>你准备好了吗，中士？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m02_d10_ballistics_and_bearings_ada_3">
               <Original>Alright. First target -</Original>
@@ -1570,7 +1570,7 @@
             <Key ID="str_a3_boot_m02_d05_aaf_anger_ada_1">
               <Original>- but this guy? This guy's a special kind of fuckwit.</Original>
               <Chinese>-但是這些傢伙?這些傢伙真是有夠他媽的煩人。</Chinese>
-              <Chinesesimp>-但是这些家伙?这些家伙真他妈的烦人。</Chinesesimp>
+              <Chinesesimp>-但是这些家伙？这些家伙真他妈的烦人。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m02_d05_aaf_anger_lac_0">
               <Original>Yeah, right...</Original>
@@ -1582,12 +1582,12 @@
             <Key ID="str_a3_boot_m02_d01_hello_world_ada_0">
               <Original>So, what'd'ya think?</Original>
               <Chinese>所以，你的感想如何?</Chinese>
-              <Chinesesimp>所以，你的感想如何?</Chinesesimp>
+              <Chinesesimp>所以，你的感想如何？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m02_d01_hello_world_ada_1">
               <Original>Right?</Original>
               <Chinese>我就說吧?</Chinese>
-              <Chinesesimp>我就说吧?</Chinesesimp>
+              <Chinesesimp>我就说吧？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m02_d01_hello_world_ada_2">
               <Original>Ah... here comes the cavalry.</Original>
@@ -1607,7 +1607,7 @@
             <Key ID="str_a3_boot_m02_d01_hello_world_ada_4">
               <Original>Tell you what: you go get it working. I'll get things set up here.</Original>
               <Chinese>這麼辦好了:你去搞定它。我會先把這邊安置妥當。</Chinese>
-              <Chinesesimp>这么办好了:你去搞定它。我会先把这边安置妥当。</Chinesesimp>
+              <Chinesesimp>这么办好了：你去搞定它。我会先把这边安置妥当。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m02_d01_hello_world_lac_1">
               <Original>Copy.</Original>
@@ -1633,7 +1633,7 @@
             <Key ID="str_a3_boot_m02_85_shot_fatigued_ada_0">
               <Original>See? Now the Sergeant has to battle himself as he fires.</Original>
               <Chinese>看到了嗎?現在中士必須與自己氣喘噓噓的身體戰鬥。</Chinese>
-              <Chinesesimp>看到了吗?现在中士必须与自己气喘吁吁的身体战斗。</Chinesesimp>
+              <Chinesesimp>看到了吗？现在中士必须与自己气喘吁吁的身体战斗。</Chinesesimp>
             </Key>
           </Container>
           <Container name="80_Shoot_All" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="80_Shoot_All" dubbingLanguage="english" namePrefix="boot_m02_80_shoot_all" note="" participants="BOOT B Adams;" situation="adams orders the player to engage all targets">
@@ -1654,7 +1654,7 @@
             <Key ID="str_a3_boot_m02_70_hold_breath_ada_0">
               <Original>Remember: control your breathing. Aim for clean, focused shots.</Original>
               <Chinese>請記住:控制你的呼吸。先瞄準，再憋氣，最後射擊。</Chinese>
-              <Chinesesimp>请记住:控制你的呼吸。先瞄准，再憋气，最后射击。</Chinesesimp>
+              <Chinesesimp>请记住：控制你的呼吸。先瞄准，再憋气，最后射击。</Chinesesimp>
             </Key>
           </Container>
           <Container name="65_Long_3" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="65_Long_3" dubbingLanguage="english" namePrefix="boot_m02_65_long_3" note="" participants="BOOT B Adams;" situation="adams tells player to engage the target">
@@ -1699,7 +1699,7 @@
             <Key ID="str_a3_boot_m02_49_csat_isb_0">
               <Original>Helicopters? Well. Speaking of CSAT.</Original>
               <Chinese>直升機?哇嗚。?曹操曹操到。</Chinese>
-              <Chinesesimp>直升机?好吧。说曹操曹操到。</Chinesesimp>
+              <Chinesesimp>直升机？好吧。说曹操曹操到。</Chinesesimp>
             </Key>
           </Container>
           <Container name="45_Suggest_Prone" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="45_Suggest_Prone" dubbingLanguage="english" namePrefix="boot_m02_45_suggest_prone" note="" participants="BOOT B Adams;" situation="adams explains the pros and cons of firing while prone">
@@ -1723,7 +1723,7 @@
             <Key ID="str_a3_boot_m02_40_suggest_crouch_ada_1">
               <Original>So - whenever possible - try to crouch down before firing.</Original>
               <Chinese>所以-只要有機會的話-請試著在開火前就蹲下。</Chinese>
-              <Chinesesimp>所以-只要有机会的话-请试着在开火前就蹲下。</Chinesesimp>
+              <Chinesesimp>所以 — 只要有机会的话 — 请试着在开火前就蹲下。</Chinesesimp>
             </Key>
           </Container>
           <Container name="35_Suggest_Stand" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="35_Suggest_Stand" dubbingLanguage="english" namePrefix="boot_m02_35_suggest_stand" note="" participants="BOOT B Adams;" situation="adams explains the pros and cons of firing while standing">
@@ -1778,7 +1778,7 @@
             <Key ID="str_a3_boot_m02_15_introduction_isb_0">
               <Original>Cabin crew?</Original>
               <Chinese>服務員?</Chinese>
-              <Chinesesimp>服务员?</Chinesesimp>
+              <Chinesesimp>服务员？</Chinesesimp>
             </Key>
           </Container>
           <Container name="110_Incident" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="110_Incident" dubbingLanguage="english" namePrefix="boot_m02_110_incident" note="" participants="BOOT I Soldier A;" situation="aaf once again interrupt adams">
@@ -1792,7 +1792,7 @@
             <Key ID="str_a3_boot_m02_10_assembled_ada_0">
               <Original>Copy. Alright, everyone! Gather round.</Original>
               <Chinese>收到。好的，所有人!靠過來。</Chinese>
-              <Chinesesimp>收到。好的，所有人!靠过来。</Chinesesimp>
+              <Chinesesimp>收到。好的，所有人！靠过来。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m02_10_assembled_ada_1">
               <Original>Sorry, they're all we've got on hand.</Original>
@@ -1807,7 +1807,7 @@
             <Key ID="str_a3_boot_m02_10_assembled_isb_0">
               <Original>CSAT targets? Really?</Original>
               <Chinese>廣協同盟目標?沒開玩笑吧?</Chinese>
-              <Chinesesimp>广协靶子?没搞错吧?</Chinesesimp>
+              <Chinesesimp>广协靶子？没搞错吧？</Chinesesimp>
             </Key>
           </Container>
           <Container name="105_All_Down" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="105_All_Down" dubbingLanguage="english" namePrefix="boot_m02_105_all_down" note="" participants="BOOT B Adams;" situation="player hit all targets">
@@ -1828,12 +1828,12 @@
             <Key ID="str_a3_boot_m02_05_annoying_ada_0">
               <Original>I'm sorry, I thought I told you to go bother someone else?</Original>
               <Chinese>很抱歉，我剛剛不是叫你們去煩別人了嗎?</Chinese>
-              <Chinesesimp>不好意思，我刚刚不是叫你们去烦别人了吗?</Chinesesimp>
+              <Chinesesimp>不好意思，我刚刚不是叫你们去烦别人了吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m02_05_annoying_isa_0">
               <Original>American? Respond. Over.</Original>
               <Chinese>美國佬?請回答。完畢。</Chinese>
-              <Chinesesimp>美国佬?请回答。完毕。</Chinesesimp>
+              <Chinesesimp>美国佬？请回答。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="01_Start" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="01_Start" dubbingLanguage="english" namePrefix="boot_m02_01_start" note="" participants="BOOT B Adams;" situation="adams tells the player to come to him">
@@ -2016,31 +2016,31 @@
             <Key ID="str_a3_boot_m01_d20_shutdown_lac_0">
               <Original>Got any-more tanks lying around?</Original>
               <Chinese>你還想再放坦克在我旁邊嗎?</Chinese>
-              <Chinesesimp>你还想再放坦克在我旁边吗?</Chinesesimp>
+              <Chinesesimp>你还想再放坦克在我旁边吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="d15_Deaf" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="d15_Deaf" dubbingLanguage="english" namePrefix="boot_m01_d15_deaf" note="" participants="BOOT B Lacey;BOOT B Adams;" situation="adams spawns a tank and fires its cannon close to lacey">
             <Key ID="str_a3_boot_m01_d15_deaf_ada_0">
               <Original>Sorry about that!</Original>
               <Chinese>抱歉啦!</Chinese>
-              <Chinesesimp>抱歉啦!</Chinesesimp>
+              <Chinesesimp>抱歉啦！</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m01_d15_deaf_lac_0">
               <Original>Jesus Christ! Deafen me, why don't you?</Original>
               <Chinese>天殺的!這可震聾我了，你在搞啥?</Chinese>
-              <Chinesesimp>活见鬼!你怎么不干脆把我震聋啊?</Chinesesimp>
+              <Chinesesimp>活见鬼！你怎么不干脆把我震聋啊？</Chinesesimp>
             </Key>
           </Container>
           <Container name="d10_Fun" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="d10_Fun" dubbingLanguage="english" namePrefix="boot_m01_d10_fun" note="" participants="BOOT B Lacey;BOOT B Adams;" situation="adams spawns and plays with a helicopter, lacey notices">
             <Key ID="str_a3_boot_m01_d10_fun_ada_0">
               <Original>You know it!</Original>
               <Chinese>你知道的!</Chinese>
-              <Chinesesimp>你懂的!</Chinesesimp>
+              <Chinesesimp>你懂的！</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m01_d10_fun_lac_0">
               <Original>You having fun up there?</Original>
               <Chinese>你好像玩的很開心嗎?</Chinese>
-              <Chinesesimp>你好像玩的很开心?</Chinesesimp>
+              <Chinesesimp>你好像玩的很开心？</Chinesesimp>
             </Key>
           </Container>
           <Container name="d05_Course" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="d05_Course" dubbingLanguage="english" namePrefix="boot_m01_d05_course" note="" participants="BOOT B Adams;BOOT B Lacey;" situation="adams tells lacey what to expect with the course">
@@ -2062,14 +2062,14 @@
             <Key ID="str_a3_boot_m01_d05_course_lac_0">
               <Original>Oh, that's what 'it' wants, huh? Great...</Original>
               <Chinese>喔，這真的是'它'所希望的，恩?太棒了...</Chinese>
-              <Chinesesimp>喔，这真的是'它'所希望的，嗯?太棒了...</Chinesesimp>
+              <Chinesesimp>喔，这真的是'它'所希望的，嗯？太棒了...</Chinesesimp>
             </Key>
           </Container>
           <Container name="d01_Reveal" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="d01_Reveal" dubbingLanguage="english" namePrefix="boot_m01_d01_reveal" note="" participants="BOOT B Lacey;BOOT B Adams;" situation="vr program boots, player sees the world for the first time">
             <Key ID="str_a3_boot_m01_d01_reveal_ada_0">
               <Original>I know, right?</Original>
               <Chinese>對阿，超棒的對吧?</Chinese>
-              <Chinesesimp>对啊，超棒的对吧?</Chinesesimp>
+              <Chinesesimp>对啊，超棒的对吧？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m01_d01_reveal_ada_1">
               <Original>Okay... Let's see what this baby can do...</Original>
@@ -2079,7 +2079,7 @@
             <Key ID="str_a3_boot_m01_d01_reveal_lac_0">
               <Original>Holy shit!</Original>
               <Chinese>哇塞!</Chinese>
-              <Chinesesimp>我的天!</Chinesesimp>
+              <Chinesesimp>我的天！</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m01_d01_reveal_lac_1">
               <Original>Yeah, you weren't kidding.</Original>
@@ -2091,7 +2091,7 @@
             <Key ID="str_a3_boot_m01_65_interruption_ada_0">
               <Original>Say again? Negative...</Original>
               <Chinese>請重發?否定...</Chinese>
-              <Chinesesimp>再说一遍?不行...</Chinesesimp>
+              <Chinesesimp>再说一遍？不行...</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m01_65_interruption_ada_1">
               <Original>Uh... Yes, this is Staff Sergeant Adams. Send it.</Original>
@@ -2101,7 +2101,7 @@
             <Key ID="str_a3_boot_m01_65_interruption_ada_2">
               <Original>Christ, these people... Hold on!</Original>
               <Chinese>該死，這些人...請稍等!</Chinese>
-              <Chinesesimp>该死，这些人...请稍等!</Chinesesimp>
+              <Chinesesimp>该死，这些人...请稍等！</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m01_65_interruption_ada_3">
               <Original>You know what? Go bother someone else. Out.</Original>
@@ -2118,7 +2118,7 @@
             <Key ID="str_a3_boot_m01_60_to_start_ada_0">
               <Original>Sergeant, if you'd be so kind?</Original>
               <Chinese>中士，再過來這邊吧?</Chinese>
-              <Chinesesimp>中士，再过来这边吧?</Chinesesimp>
+              <Chinesesimp>中士，再过来这边吧？</Chinesesimp>
             </Key>
           </Container>
           <Container name="55_All_Down" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="55_All_Down" dubbingLanguage="english" namePrefix="boot_m01_55_all_down" note="" participants="BOOT B Adams;" situation="player hits the second target, adams moves on">
@@ -2198,7 +2198,7 @@
             <Key ID="str_a3_boot_m01_10_surprised_lac_0">
               <Original>Woah!</Original>
               <Chinese>哇嗚!</Chinese>
-              <Chinesesimp>喔!</Chinesesimp>
+              <Chinesesimp>喔！</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_Turn_On" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="05_Turn_On" dubbingLanguage="english" namePrefix="boot_m01_05_turn_on" note="" participants="BOOT B Adams;" situation="vr program boots">
@@ -2545,17 +2545,17 @@
           <Key ID="str_a3_mp_bootcamp_lane_weaponsrange">
             <Original>Weapons Range: Lane</Original>
             <Chinese>武器靶場:靶位</Chinese>
-            <Chinesesimp>武器靶场:靶位</Chinesesimp>
+            <Chinesesimp>武器靶场：靶位</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_bootcamp_lane_vehiclesrange">
             <Original>Vehicle Range: Lane</Original>
             <Chinese>載具靶場:靶位</Chinese>
-            <Chinesesimp>载具靶场:靶位</Chinesesimp>
+            <Chinesesimp>载具靶场：靶位</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_bootcamp_lane_grenadesrange">
             <Original>Grenade Range: Lane</Original>
             <Chinese>手榴彈靶場:靶位</Chinese>
-            <Chinesesimp>手榴弹靶场:靶位</Chinesesimp>
+            <Chinesesimp>手榴弹靶场：靶位</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_bootcamp_hint_poi_pressandhold">
             <Original>Press and hold</Original>
@@ -2640,7 +2640,7 @@
           <Key ID="str_a3_mp_bootcamp_briefing_instructor_training_description">
             <Original>By the book,&lt;br /&gt;&lt;br /&gt;You not only have the chance, but it is also advised to go through each researched, documented and iterated course of training.&lt;br /&gt;These include the Infantry Stage and the Motorized Vehicle Course and can be accessed through the Zeus interface, within the CREATE section, Modules - Training - Bootcamp Stage and place it.&lt;br /&gt;&lt;br /&gt;Infantry Stage:&lt;br /&gt;- Guide your Recruits through the Infantry Course and show them the basics of Infantry movement, weapon handling and real world exercise, it is said that, after completing this course, a Recruit is able to behave like a soldier in the front line of a battlefield.&lt;br /&gt;&lt;br /&gt;Motorized Vehicles Stage:&lt;br /&gt;- Take your Recruits through the Motorized Vehicles Course and show them the basics of driving a vehicle through a rought terrain, using it's weapons and a real world exercise. There is a considerable amount of reports that after going through this course, a Recruit is able to participate in an operation where he will drive or shoot from a vehicle.</Original>
             <Chinese>藉由此次訓練課程，&lt;br/&gt;&lt;br/&gt;你不僅能教新兵你知道的知識，你還可以透過宙斯的系統來發考題給他們。&lt;br/&gt;你可以在宙斯介面中的模塊中，找到訓練課程這個模塊，讓你開始步兵或載具課程。&lt;br/&gt;&lt;br/&gt;步兵課程:&lt;br/&gt;-引導你的新兵學習基本步兵移動，武器掌握與實戰體驗，在完成這個課程後，新兵應該就能應付戰場前線的情況。&lt;br/&gt;&lt;br/&gt;摩托化載具課程e:&lt;br/&gt;-帶領你的新兵學習載具的掌握，像是駛過複雜的地形，使用車載武器等等。在完成這個課程後，新兵應該就能應付基本的載具任務了。</Chinese>
-            <Chinesesimp>藉由此次训练课程，&lt;br/&gt;&lt;br/&gt;你不仅能教新兵你知道的知识，你还可以透过宙斯的系统来发考题给他们。&lt;br/&gt;你可以在宙斯界面中的模块中，找到训练课程这个模块，让你开始步兵或载具课程。&lt;br/&gt;&lt;br/&gt;步兵课程:&lt;br/&gt;-引导你的新兵学习基本步兵移动，武器掌握与实战体验，在完成这个课程后，新兵应该就能应对战场前线的情况。&lt;br/&gt;&lt;br/&gt;摩托化载具课程e:&lt;br/&gt;-带领你的新兵学习载具的掌握，像是驶过复杂的地形，使用车载武器等等。在完成这个课程后，新兵应该就能应对基本的载具任务了。</Chinesesimp>
+            <Chinesesimp>藉由此次训练课程，&lt;br/&gt;&lt;br/&gt;你不仅能教新兵你知道的知识，你还可以透过宙斯的系统来发考题给他们。&lt;br/&gt;你可以在宙斯界面中的模块中，找到训练课程这个模块，让你开始步兵或载具课程。&lt;br/&gt;&lt;br/&gt;步兵课程：&lt;br/&gt;-引导你的新兵学习基本步兵移动，武器掌握与实战体验，在完成这个课程后，新兵应该就能应对战场前线的情况。&lt;br/&gt;&lt;br/&gt;摩托化载具课程e：&lt;br/&gt;-带领你的新兵学习载具的掌握，像是驶过复杂的地形，使用车载武器等等。在完成这个课程后，新兵应该就能应对基本的载具任务了。</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_bootcamp_briefing_instructor_obstaclecourses_title">
             <Original>Obstacle Courses</Original>
@@ -2816,19 +2816,19 @@
             <Key ID="str_a3_boot_m03_x40_mark_location_again_ada_0">
               <Original>Figure you know where they are now, Sergeant?</Original>
               <Chinese>這下你知道他們的位置了嗎，中士?</Chinese>
-              <Chinesesimp>这下你知道他们的位置了吗，中士?</Chinesesimp>
+              <Chinesesimp>这下你知道他们的位置了吗，中士？</Chinesesimp>
             </Key>
           </Container>
           <Container name="x35_Mark_Location_Info" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="x35_Mark_Location_Info" dubbingLanguage="english" namePrefix="boot_m03_x35_mark_location_info" note="" participants="BOOT B Adams;BOOT I Soldier A;" situation="adams asks the aaf for more information">
             <Key ID="str_a3_boot_m03_x35_mark_location_info_ada_0">
               <Original>Are you guys around some buildings, or are you in the middle of nowhere?</Original>
               <Chinese>你們附近有任何建築嗎，還是身處在蠻荒之地?</Chinese>
-              <Chinesesimp>你们附近有任何建筑吗，还是身处在蛮荒之地?</Chinesesimp>
+              <Chinesesimp>你们附近有任何建筑吗，还是身处在蛮荒之地？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_x35_mark_location_info_ada_1">
               <Original>So you have another road leading to you?</Original>
               <Chinese>所以有另一條路前往你們那邊?</Chinese>
-              <Chinesesimp>所以有另一条路前往你们那边?</Chinesesimp>
+              <Chinesesimp>所以有另一条路前往你们那边？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_x35_mark_location_info_ada_2">
               <Original>Copy.</Original>
@@ -2909,7 +2909,7 @@
             <Key ID="str_a3_boot_m03_d05_returned_lac_0">
               <Original>Status?</Original>
               <Chinese>狀況?</Chinese>
-              <Chinesesimp>状况?</Chinesesimp>
+              <Chinesesimp>状况？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_d05_returned_ada_2">
               <Original>I've told these idiots to clean up the mess. They'll handle the weapons.</Original>
@@ -2936,12 +2936,12 @@
             <Key ID="str_a3_boot_m03_d01_situation_ada_0">
               <Original>What the hell happened here?</Original>
               <Chinese>這裡他媽的發生了什麼事?</Chinese>
-              <Chinesesimp>这里他妈的发生了什么事?</Chinesesimp>
+              <Chinesesimp>这里他妈的发生了什么事？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_d01_situation_ada_1">
               <Original>And these people? They attacked you?</Original>
               <Chinese>那這些人呢?他們攻擊你?</Chinese>
-              <Chinesesimp>那这些人呢?他们攻击你?</Chinesesimp>
+              <Chinesesimp>那这些人呢？他们攻击你？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_d01_situation_lac_0">
               <Original>Christ...</Original>
@@ -2956,12 +2956,12 @@
             <Key ID="str_a3_boot_m03_d01_situation_ada_3">
               <Original>Did you sweep the buildings? And what's the deal with that man over there?</Original>
               <Chinese>你有沒有掃蕩過建築了?而且你有沒有去處理一下那邊那個人?</Chinese>
-              <Chinesesimp>你有没有扫荡过建筑?而且你有没有去处理一下那边那个人?</Chinesesimp>
+              <Chinesesimp>你有没有扫荡过建筑？而且你有没有去处理一下那边那个人？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_d01_situation_lac_1">
               <Original>Patrol, huh?</Original>
               <Chinese>巡邏，哼?</Chinese>
-              <Chinesesimp>巡逻，哼?</Chinesesimp>
+              <Chinesesimp>巡逻，哼？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_d01_situation_isa_0">
               <Original>We were on patrol. We were attacked.</Original>
@@ -2971,7 +2971,7 @@
             <Key ID="str_a3_boot_m03_d01_situation_ada_4">
               <Original>You searched all of them? ... Including the ones down there?</Original>
               <Chinese>你真的搜索全部了?...包括那邊那棟?</Chinese>
-              <Chinesesimp>你真的都搜了?...包括那边那栋?</Chinesesimp>
+              <Chinesesimp>你真的都搜了？...包括那边那栋？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_d01_situation_isa_1">
               <Original>Yes.</Original>
@@ -2981,12 +2981,12 @@
             <Key ID="str_a3_boot_m03_d01_situation_lac_2">
               <Original>You ever heard of excessive force?</Original>
               <Chinese>你有沒有聽過濫用暴力這個詞?</Chinese>
-              <Chinesesimp>你有没有听过滥用暴力这个词?</Chinesesimp>
+              <Chinesesimp>你有没有听过滥用暴力这个词？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_d01_situation_ada_5">
               <Original>And that man? Do you have medical support inbound?</Original>
               <Chinese>還有那個人?你有沒有請求醫療支援過來這邊?</Chinese>
-              <Chinesesimp>还有那个人?你有没有请求过医疗支援?</Chinesesimp>
+              <Chinesesimp>还有那个人？你有没有请求过医疗支援？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_d01_situation_lac_3">
               <Original>Staff Sergeant, they're just civilians.</Original>
@@ -2996,7 +2996,7 @@
             <Key ID="str_a3_boot_m03_d01_situation_isa_2">
               <Original>Yes. Was I unclear?</Original>
               <Chinese>是的。難道我說的不夠清楚?</Chinese>
-              <Chinesesimp>是的。难道我说的不够清楚?</Chinesesimp>
+              <Chinesesimp>是的。难道我说的不够清楚？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_d01_situation_ada_6">
               <Original>Sergeant, search those buildings down there.</Original>
@@ -3011,7 +3011,7 @@
             <Key ID="str_a3_boot_m03_d01_situation_ada_8">
               <Original>And you, call for a goddamn medevac. Now.</Original>
               <Chinese>還有你，趕快去給我呼叫他媽的醫療後送。現在。</Chinese>
-              <Chinesesimp>还有你，赶快去给我呼叫他妈的医疗后送。现在。</Chinesesimp>
+              <Chinesesimp>还有你，赶快他妈的去给我呼叫医疗后送。现在。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_d01_situation_isa_3">
               <Original>Yes, we did. They´re clean.</Original>
@@ -3026,7 +3026,7 @@
             <Key ID="str_a3_boot_m03_d01_situation_lac_4">
               <Original>Are you kidding me?</Original>
               <Chinese>你在跟我開玩笑嗎?</Chinese>
-              <Chinesesimp>你在跟我开玩笑吗?</Chinesesimp>
+              <Chinesesimp>你在跟我开玩笑吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_d01_situation_isa_5">
               <Original>No.</Original>
@@ -3064,7 +3064,7 @@
             <Key ID="str_a3_boot_m03_80_get_in_ada_0">
               <Original>The rest of you? Load up!</Original>
               <Chinese>剩下的人?上車吧!</Chinese>
-              <Chinesesimp>剩下的人?上车吧!</Chinesesimp>
+              <Chinesesimp>剩下的人？上车吧！</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_80_get_in_ada_1">
               <Original>Conway, you're driving.</Original>
@@ -3098,7 +3098,7 @@
             <Key ID="str_a3_boot_m03_70_en_route_isa_0">
               <Original>American? What is your status?</Original>
               <Chinese>美國佬?你們的狀況如何?</Chinese>
-              <Chinesesimp>美国佬?你们的状况如何?</Chinesesimp>
+              <Chinesesimp>美国佬？你们的状况如何？</Chinesesimp>
             </Key>
           </Container>
           <Container name="65_Location_Marked" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="65_Location_Marked" dubbingLanguage="english" namePrefix="boot_m03_65_location_marked" note="" participants="BOOT B Adams;" situation="the player successfully marked the aaf's location">
@@ -3117,7 +3117,7 @@
             <Key ID="str_a3_boot_m03_60_mark_location_ada_1">
               <Original>It tells us that - if the information provided is accurate - they must be somewhere near there.</Original>
               <Chinese>這說明了一件事-假如他們的情報沒有說錯的話-他們應該就在那裡附近。</Chinese>
-              <Chinesesimp>这说明了一件事-假如他们的情报没有说错的话-他们应该就在那里附近。</Chinesesimp>
+              <Chinesesimp>这说明了一件事 — 假如他们的情报没有说错的话 — 他们应该就在那里附近。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_60_mark_location_ada_2">
               <Original>However, the intersect won't always be exact. Use common sense to enhance your accuracy, or try to obtain further information.</Original>
@@ -3156,14 +3156,14 @@
             <Key ID="str_a3_boot_m03_50_mark_hill_ada_1">
               <Original>Think you can locate it, Sergeant?</Original>
               <Chinese>你能找到它嗎，中士?</Chinese>
-              <Chinesesimp>你能找到它吗，中士?</Chinesesimp>
+              <Chinesesimp>你能找到它吗，中士？</Chinesesimp>
             </Key>
           </Container>
           <Container name="49_More_Info" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="49_More_Info" dubbingLanguage="english" namePrefix="boot_m03_49_more_info" note="" participants="BOOT B Adams;BOOT I Soldier A;" situation="the aaf provide the next bit of info">
             <Key ID="str_a3_boot_m03_49_more_info_ada_0">
               <Original>Can you guys give us any other landmarks to go on?</Original>
               <Chinese>你們還能給點其他的地標資訊嗎?</Chinese>
-              <Chinesesimp>你们还能给点其他的地标信息吗?</Chinesesimp>
+              <Chinesesimp>你们还能给点其他的地标信息吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_49_more_info_ada_1">
               <Original>Copy. Wait one.</Original>
@@ -3197,19 +3197,19 @@
             <Key ID="str_a3_boot_m03_40_mark_town_isb_0">
               <Original>Klicks?</Original>
               <Chinese>千米?</Chinese>
-              <Chinesesimp>千米?</Chinesesimp>
+              <Chinesesimp>千米？</Chinesesimp>
             </Key>
           </Container>
           <Container name="35_Info" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="35_Info" dubbingLanguage="english" namePrefix="boot_m03_35_info" note="" participants="BOOT B Adams;BOOT I Soldier A;" situation="the aaf provide more info on their location">
             <Key ID="str_a3_boot_m03_35_info_ada_0">
               <Original>You guys still there?</Original>
               <Chinese>你們還在那邊嗎?</Chinese>
-              <Chinesesimp>你们还在那边吗?</Chinesesimp>
+              <Chinesesimp>你们还在那边吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_35_info_ada_1">
               <Original>We need some landmarks to go off, here. Do you have anything we can use? Did you spot anything recognizable en route to your location? Over.</Original>
               <Chinese>我們這裡需要一點地標才能開使定位。你有任何我們需要的資訊嗎?你們在來到現在位置的途中有識別到任何位置嗎?完畢。</Chinese>
-              <Chinesesimp>我们这里需要一点地标才能开始定位。你有任何我们需要的信息吗?你们在来到现在位置的途中有识别到任何位置吗?完毕。</Chinesesimp>
+              <Chinesesimp>我们这里需要一点地标才能开始定位。你有任何我们需要的信息吗？你们在来到现在位置的途中有识别到任何位置吗？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_35_info_ada_2">
               <Original>Okay, that's one. Hold on.</Original>
@@ -3238,7 +3238,7 @@
             <Key ID="str_a3_boot_m03_25_grids_ada_0">
               <Original>Before we begin, Sergeant - if you'd be so kind - stick a marker on our location. 066-159.</Original>
               <Chinese>在我們開始前，中士-假如你是個好人的話-請幫我們標記我們所在的點。066-159。</Chinese>
-              <Chinesesimp>在我们开始前，中士-假如你是个好人的话-请帮我们标记我们所在的点。066-159。</Chinesesimp>
+              <Chinesesimp>在我们开始前，中士 — 假如你是个好人的话 — 请帮我们标记我们所在的点。066-159。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_25_grids_ada_1">
               <Original>For those just tuning in, six-figure grids are a crucial navigational tool.</Original>
@@ -3286,7 +3286,7 @@
             <Key ID="str_a3_boot_m03_145_stash_found_isa_0">
               <Original>You see? They were a threat.</Original>
               <Chinese>你看吧?他們是威脅。</Chinese>
-              <Chinesesimp>你看吧?他们是威胁。</Chinesesimp>
+              <Chinesesimp>你看吧？他们是威胁。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_145_stash_found_lac_0">
               <Original>Adams, I've got a weapon stash here. Small arms and explosives. Definitely guerrilla. Over.</Original>
@@ -3355,7 +3355,7 @@
             <Key ID="str_a3_boot_m03_110_sitrep_ada_1">
               <Original>Broadway, Alpha 1-1 Actual. Was that what I think it was? Over.</Original>
               <Chinese>"百老匯"，這裡是"Alpha1-1"隊長。地震應該沒啥事吧?完畢。</Chinese>
-              <Chinesesimp>"百老汇"，这里是 Alpha1-1"领队。这会是我想的那样吗?完毕。</Chinesesimp>
+              <Chinesesimp>"百老汇"，这里是 Alpha1-1"领队。这会是我想的那样吗？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_110_sitrep_ada_2">
               <Original>Copy, Broadw-</Original>
@@ -3397,7 +3397,7 @@
             <Key ID="str_a3_boot_m03_10_gather_ada_1">
               <Original>Come on, don't be shy now - we're going to learn something useful.</Original>
               <Chinese>來，別害羞-我們來學點有用的東西。</Chinese>
-              <Chinesesimp>来，别害羞-我们来学点有用的东西。</Chinesesimp>
+              <Chinesesimp>来，别害羞 — 我们来学点有用的东西。</Chinesesimp>
             </Key>
           </Container>
           <Container name="105_Earthquake" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="105_Earthquake" dubbingLanguage="english" namePrefix="boot_m03_105_earthquake" note="" participants="BOOT B Soldier A;" situation="earthquake triggered">
@@ -3435,17 +3435,17 @@
             <Key ID="str_a3_boot_m03_01_start_ada_0">
               <Original>What do you mean 'incident'? Send us your grid. Over.</Original>
               <Chinese>你的'意外'是什麼意思?請給我你們的座標。完畢。</Chinese>
-              <Chinesesimp>你说的"事件"是什么意思?请给我你们的座标。完毕。</Chinesesimp>
+              <Chinesesimp>你说的"事件"是什么意思？请给我你们的座标。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_01_start_ada_1">
               <Original>Say again? Why not? Over.</Original>
               <Chinese>請重發?為什麼不行?完畢。</Chinese>
-              <Chinesesimp>再说一遍?为什么不行?完毕。</Chinesesimp>
+              <Chinesesimp>再说一遍？为什么不行？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_01_start_ada_2">
               <Original>GPS?</Original>
               <Chinese>GPS?</Chinese>
-              <Chinesesimp>GPS?</Chinesesimp>
+              <Chinesesimp>GPS？</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_01_start_isa_0">
               <Original>We... Cannot do that.</Original>
@@ -3479,21 +3479,21 @@
             <Key ID="str_a3_boot_m03_45_hill_marked_ada_0">
               <Original>Okay, look where the lines intersect. They should be some place near there. Think you can figure out where?</Original>
               <Chinese>好，現在讓我們看看線在哪裡相交。他們應該就在那附近左右。你能找到他們嗎?</Chinese>
-              <Chinesesimp>好，现在让我们看看线在哪里相交。他们应该就在那附近左右。你能找到他们吗?</Chinesesimp>
+              <Chinesesimp>好，现在让我们看看线在哪里相交。他们应该就在那附近左右。你能找到他们吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_Mark_Hill" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="40_Mark_Hill" dubbingLanguage="english" namePrefix="boot_m03_40_mark_hill" note="" participants="BOOT B Adams;" situation="adams tells lacey to mark the hill">
             <Key ID="str_a3_boot_m03_40_mark_hill_ada_0">
               <Original>Sounds like that's probably southwest from Syrta. Think you can locate?</Original>
               <Chinese>聽起來那山應該在西爾塔西南方。你有找到嗎?</Chinese>
-              <Chinesesimp>听起来那山应该在西尔塔西南方。你有找到吗?</Chinesesimp>
+              <Chinesesimp>听起来那山应该在西尔塔西南方。你有找到吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="35_Radio" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="35_Radio" dubbingLanguage="english" namePrefix="boot_m03_35_radio" note="" participants="BOOT B Adams;BOOT I Soldier A;" situation="adams asks for more info from the aaf">
             <Key ID="str_a3_boot_m03_35_radio_ada_0">
               <Original>Can you identify any other landmarks? A hill, a road, anything? Over.</Original>
               <Chinese>你們可以辨識附近任何的地標嗎?山頭，道路，任何東西?完畢。</Chinese>
-              <Chinesesimp>你们可以辨识附近任何的地标吗?山头，道路，任何东西?完毕。</Chinesesimp>
+              <Chinesesimp>你们可以辨识附近任何的地标吗？山头，道路，任何东西？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_35_radio_ada_1">
               <Original>Okay, that should help. Hold on.</Original>
@@ -3684,7 +3684,7 @@
             <Key ID="STR_A3_Commanding_Actions_title">
               <Original>Commanding - Actions</Original>
               <Chinese>指揮-動作</Chinese>
-              <Chinesesimp>指挥-操作</Chinesesimp>
+              <Chinesesimp>指挥 — 操作</Chinesesimp>
             </Key>
           </Container>
           <Container name="Commanding_Behaviour">
@@ -3806,7 +3806,7 @@
             <Key ID="STR_A3_Commanding_Behaviour_title">
               <Original>Commanding - Behavior</Original>
               <Chinese>指揮-行為</Chinese>
-              <Chinesesimp>指挥-行为</Chinesesimp>
+              <Chinesesimp>指挥 — 行为</Chinesesimp>
             </Key>
           </Container>
           <Container name="Commanding_Movement">
@@ -3893,7 +3893,7 @@
             <Key ID="STR_A3_Commanding_Movement_title">
               <Original>Commanding - Movement</Original>
               <Chinese>指揮-移動</Chinese>
-              <Chinesesimp>指挥-移动</Chinesesimp>
+              <Chinesesimp>指挥 — 移动</Chinesesimp>
             </Key>
           </Container>
           <Container name="Commanding_Vehicles">
@@ -3950,7 +3950,7 @@
             <Key ID="STR_A3_Task162_name">
               <Original>Subordinate - return</Original>
               <Chinese>部下-返回</Chinese>
-              <Chinesesimp>部下-返回</Chinesesimp>
+              <Chinesesimp>部下 — 返回</Chinesesimp>
             </Key>
             <Key ID="STR_A3_Task161_desc">
               <Original>Use the Map and Context menu to send your AI subordinate to the marked location.</Original>
@@ -3995,7 +3995,7 @@
             <Key ID="STR_A3_Commanding_Vehicles_title">
               <Original>Commanding - Vehicles</Original>
               <Chinese>指揮-載具</Chinese>
-              <Chinesesimp>指挥-载具</Chinesesimp>
+              <Chinesesimp>指挥 — 载具</Chinesesimp>
             </Key>
           </Container>
           <Container name="Ballistics">
@@ -4243,7 +4243,7 @@
             <Key ID="str_a3_vr_targetdesignation_task2_text">
               <Original>Connect your terminal to the UAV.</Original>
               <Chinese>使你的終端機與無人載具連線。</Chinese>
-              <Chinesesimp>使你的终端机与无人载具连接。</Chinesesimp>
+              <Chinesesimp>使你的终端与无人机连接。</Chinesesimp>
             </Key>
             <Key ID="str_a3_vr_targetdesignation_task1_title">
               <Original>Mark the Target</Original>
@@ -4253,12 +4253,12 @@
             <Key ID="str_a3_vr_targetdesignation_task1_text">
               <Original>Use your designator to mark the nearby tank.</Original>
               <Chinese>使用無人載具上的雷射指示器標定坦克。</Chinese>
-              <Chinesesimp>使用无人载具上的激光指示器标记坦克。</Chinesesimp>
+              <Chinesesimp>使用无人机上的激光指示器标记坦克。</Chinesesimp>
             </Key>
             <Key ID="str_a3_vr_targetdesignation_target_lost">
               <Original>Target lost!</Original>
               <Chinese>失去目標!</Chinese>
-              <Chinesesimp>失去目标!</Chinesesimp>
+              <Chinesesimp>失去目标！</Chinesesimp>
             </Key>
             <Key ID="str_a3_vr_targetdesignation_stage3_title">
               <Original>Portable UAV</Original>
@@ -4283,12 +4283,12 @@
             <Key ID="str_a3_vr_targetdesignation_blast_warn">
               <Original>Move away from the blast radius!</Original>
               <Chinese>請遠離爆炸半徑!</Chinese>
-              <Chinesesimp>请远离爆炸半径!</Chinesesimp>
+              <Chinesesimp>请远离爆炸半径！</Chinesesimp>
             </Key>
             <Key ID="str_a3_vr_targetdesignation_return">
               <Original>Return to the course area!</Original>
               <Chinese>請返回教學區域!</Chinese>
-              <Chinesesimp>请返回教学区域!</Chinesesimp>
+              <Chinesesimp>请返回教学区域！</Chinesesimp>
             </Key>
           </Container>
           <Key ID="str_a3_vr_consult_manual">
@@ -4304,7 +4304,7 @@
           <Key ID="STR_A3_VR_course_unlock1">
             <Original>To unlock, you must finish:</Original>
             <Chinese>要解鎖此課程，你必須先完成:</Chinese>
-            <Chinesesimp>要解锁此课程，你必须先完成:</Chinesesimp>
+            <Chinesesimp>要解锁此课程，你必须先完成：</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -4327,7 +4327,7 @@
         <Key ID="STR_A3_BootcampDifficultyWarning">
           <Original>For an optimal Bootcamp experience, it is recommended to use the Regular Difficulty preset. Switch now?</Original>
           <Chinese>為了獲得最好的新兵訓練效果，建議你使用普通難度來遊玩。要切換難度嗎?</Chinese>
-          <Chinesesimp>为了获得最好的新兵训练效果，建议你使用普通难度来游玩。要切换难度吗?</Chinesesimp>
+          <Chinesesimp>为了获得最好的新兵训练效果，建议你使用普通难度来游玩。要切换难度吗？</Chinesesimp>
         </Key>
         <Key ID="STR_A3_BootcampOverview">
           <Original>One year before the events of 'The East Wind', NATO peacekeepers and government forces conduct joint training exercises in The Republic of Altis and Stratis.</Original>

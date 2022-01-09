@@ -273,47 +273,47 @@
             <Key ID="str_a3_mp_groundsupport_60_uav_bhq_0">
               <Original>All elements, we have a UAV on standby. Out.</Original>
               <Chinese>所有單位，我們有架無人載具可使用。通話完畢。</Chinese>
-              <Chinesesimp>所有单位，我们有架无人载具可使用。通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位，我们有架无人机可使用。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_60_uav_bhq_1">
               <Original>All units, be advised, we have a UAV on standby, ready for tasking. Out.</Original>
               <Chinese>所有單位，請注意，我們有架無人載具可使用，準備好執行任務。通話完畢。</Chinese>
-              <Chinesesimp>所有单位，请注意，我们有架无人载具可使用，准备好执行任务。通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位，请注意，我们有架无人机可使用，准备好执行任务。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_60_uav_bhq_2">
               <Original>Be advised, a UAV is now on standby. Out.</Original>
               <Chinese>請注意，有架無人載具準備好執行任務。通話完畢。</Chinese>
-              <Chinesesimp>请注意，有架无人载具准备好执行任务。通话完毕。</Chinesesimp>
+              <Chinesesimp>请注意，有架无人机准备好执行任务。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_60_uav_ohq_0">
               <Original>All elements, we have a UAV on standby. Out.</Original>
               <Chinese>所有單位，我們有架無人載具可使用。通話完畢。</Chinese>
-              <Chinesesimp>所有单位，我们有架无人载具可使用。通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位，我们有架无人机可使用。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_60_uav_ihq_0">
               <Original>All elements, we have a UAV on standby. Out.</Original>
               <Chinese>所有單位，我們有架無人載具可使用。通話完畢。</Chinese>
-              <Chinesesimp>所有单位，我们有架无人载具可使用。通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位，我们有架无人机可使用。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_60_uav_ihq_1">
               <Original>All units, be advised, we have a UAV on standby, ready for tasking. Out.</Original>
               <Chinese>所有單位，請注意，我們有架無人載具可使用，準備好執行任務。通話完畢。</Chinese>
-              <Chinesesimp>所有单位，请注意，我们有架无人载具可使用，准备好执行任务。通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位，请注意，我们有架无人机可使用，准备好执行任务。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_60_uav_ohq_1">
               <Original>All units, be advised, we have a UAV on standby, ready for tasking. Out.</Original>
               <Chinese>所有單位，請注意，我們有架無人載具可使用，準備好執行任務。通話完畢。</Chinese>
-              <Chinesesimp>所有单位，请注意，我们有架无人载具可使用，准备好执行任务。通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位，请注意，我们有架无人机可使用，准备好执行任务。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_60_uav_ihq_2">
               <Original>Be advised, a UAV is now on standby. Out.</Original>
               <Chinese>請注意，有架無人載具準備好執行任務。通話完畢。</Chinese>
-              <Chinesesimp>请注意，有架无人载具准备好执行任务。通话完毕。</Chinesesimp>
+              <Chinesesimp>请注意，有架无人机准备好执行任务。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_60_uav_ohq_2">
               <Original>Be advised, a UAV is now on standby. Out.</Original>
               <Chinese>請注意，有架無人載具準備好執行任務。通話完畢。</Chinese>
-              <Chinesesimp>请注意，有架无人载具准备好执行任务。通话完毕。</Chinesesimp>
+              <Chinesesimp>请注意，有架无人机准备好执行任务。通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="55_Armor" audioFilePath="\a3\dubbing_f_heli\mp_groundsupport" dialogName="55_Armor" dubbingLanguage="english" namePrefix="mp_groundsupport_55_armor" note="" participants="HELI B HQ;HELI O HQ;HELI I HQ;" situation="hq broadcasts info about commencing heavy armor support.">
@@ -372,12 +372,12 @@
             <Key ID="str_a3_mp_groundsupport_50_cas_bhq_1">
               <Original>Be advised, friendly close air support is inbound.</Original>
               <Chinese>請注意，友軍密接空中支援來襲。</Chinese>
-              <Chinesesimp>请注意，友军密接空中支援来袭。</Chinesesimp>
+              <Chinesesimp>请注意，友军 CAS 来袭。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_50_cas_bhq_2">
               <Original>All elements, friendly CAS is inbound on enemy positions.</Original>
               <Chinese>所有單位，友軍密接空中支援來襲。</Chinese>
-              <Chinesesimp>所有单位，友军密接空中支援来袭。</Chinesesimp>
+              <Chinesesimp>所有单位，友军 CAS 来袭。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_50_cas_ohq_0">
               <Original>All callsigns, be advised, friendly close air support is inbound.</Original>
@@ -407,7 +407,7 @@
             <Key ID="str_a3_mp_groundsupport_50_cas_ohq_2">
               <Original>All elements, friendly CAS is inbound on enemy positions.</Original>
               <Chinese>所有單位，友軍密接空中支援來襲。</Chinese>
-              <Chinesesimp>所有单位，友军密接空中支援来袭。</Chinesesimp>
+              <Chinesesimp>所有单位，友军 CAS 来袭。</Chinesesimp>
             </Key>
           </Container>
           <Container name="45_Artillery" audioFilePath="\a3\dubbing_f_heli\mp_groundsupport" dialogName="45_Artillery" dubbingLanguage="english" namePrefix="mp_groundsupport_45_artillery" note="" participants="HELI B HQ;HELI O HQ;HELI I HQ;" situation="hq broadcasts info about commencing artillery support.">
@@ -790,47 +790,47 @@
             <Key ID="str_a3_mp_groundsupport_20_lowticketsenemy_bhq_0">
               <Original>All callsigns, we have the upper hand. Keep the pressure on! Out.</Original>
               <Chinese>所有單位，我們佔上風了。繼續保持!通話完畢。</Chinese>
-              <Chinesesimp>所有单位，我们占上风了。继续保持!通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位，我们占上风了。继续保持！通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_20_lowticketsenemy_bhq_1">
               <Original>All elements, be advised, the enemy are starting to retreat. Keep pushing forward!</Original>
               <Chinese>所有單位，請注意，敵軍開始撤退了。繼續向前推進!</Chinese>
-              <Chinesesimp>所有单位，请注意，敌军开始撤退了。继续向前推进!</Chinesesimp>
+              <Chinesesimp>所有单位，请注意，敌军开始撤退了。继续向前推进！</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_20_lowticketsenemy_bhq_2">
               <Original>The enemy are retreating. Keep up the momentum!</Original>
               <Chinese>敵軍正在撤退。請保持攻勢!</Chinese>
-              <Chinesesimp>敌军正在撤退。请保持攻势!</Chinesesimp>
+              <Chinesesimp>敌军正在撤退。请保持攻势！</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_20_lowticketsenemy_ohq_0">
               <Original>All callsigns, we have the upper hand. Keep the pressure on! Out.</Original>
               <Chinese>所有單位，我們佔上風了。繼續保持!通話完畢。</Chinese>
-              <Chinesesimp>所有单位，我们占上风了。继续保持!通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位，我们占上风了。继续保持！通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_20_lowticketsenemy_ihq_0">
               <Original>All callsigns, we have the upper hand. Keep the pressure on! Out.</Original>
               <Chinese>所有單位，我們佔上風了。繼續保持!通話完畢。</Chinese>
-              <Chinesesimp>所有单位，我们占上风了。继续保持!通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位，我们占上风了。继续保持！通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_20_lowticketsenemy_ihq_1">
               <Original>All elements, be advised, the enemy are starting to retreat. Keep pushing forward!</Original>
               <Chinese>所有單位，請注意，敵軍開始撤退了。繼續向前推進!</Chinese>
-              <Chinesesimp>所有单位，请注意，敌军开始撤退了。继续向前推进!</Chinesesimp>
+              <Chinesesimp>所有单位，请注意，敌军开始撤退了。继续向前推进！</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_20_lowticketsenemy_ohq_1">
               <Original>All elements, be advised, the enemy are starting to retreat. Keep pushing forward!</Original>
               <Chinese>所有單位，請注意，敵軍開始撤退了。繼續向前推進!</Chinese>
-              <Chinesesimp>所有单位，请注意，敌军开始撤退了。继续向前推进!</Chinesesimp>
+              <Chinesesimp>所有单位，请注意，敌军开始撤退了。继续向前推进！</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_20_lowticketsenemy_ihq_2">
               <Original>The enemy are retreating. Keep up the momentum!</Original>
               <Chinese>敵軍正在撤退。請保持攻勢!</Chinese>
-              <Chinesesimp>敌军正在撤退。请保持攻势!</Chinesesimp>
+              <Chinesesimp>敌军正在撤退。请保持攻势！</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_20_lowticketsenemy_ohq_2">
               <Original>The enemy are retreating. Keep up the momentum!</Original>
               <Chinese>敵軍正在撤退。請保持攻勢!</Chinese>
-              <Chinesesimp>敌军正在撤退。请保持攻势!</Chinesesimp>
+              <Chinesesimp>敌军正在撤退。请保持攻势！</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_DisembarkedWrongLocation" audioFilePath="\a3\dubbing_f_heli\mp_groundsupport" dialogName="20_DisembarkedWrongLocation" dubbingLanguage="english" namePrefix="mp_groundsupport_20_disembarkedwronglocation" note="" participants="HELI B HQ;HELI O HQ;HELI I HQ;" situation="hq let's the player know that the ground units have disembarked his vehicle (at the wrong location)">
@@ -931,47 +931,47 @@
             <Key ID="str_a3_mp_groundsupport_15_lowtickets_bhq_0">
               <Original>All callsigns, the enemy are gaining the upper hand. Stop them!</Original>
               <Chinese>所有單位，敵軍正佔上風。阻止他們!</Chinese>
-              <Chinesesimp>所有单位，敌军正占上风。阻止他们!</Chinesesimp>
+              <Chinesesimp>所有单位，敌军正占上风。阻止他们！</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_15_lowtickets_bhq_1">
               <Original>The enemy is pushing us back. They cannot break through our lines!</Original>
               <Chinese>敵軍正擊退我們。不能讓他們打敗我們!</Chinese>
-              <Chinesesimp>敌军正击退我们。不能让他们打败我们!</Chinesesimp>
+              <Chinesesimp>敌军正击退我们。不能让他们打败我们！</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_15_lowtickets_bhq_2">
               <Original>Enemy forces are breaking through. Push them back!</Original>
               <Chinese>敵軍部隊正在擊破我軍防線。擋住他們!</Chinese>
-              <Chinesesimp>敌军部队正在击破我军防线。挡住他们!</Chinesesimp>
+              <Chinesesimp>敌军部队正在击破我军防线。挡住他们！</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_15_lowtickets_ohq_0">
               <Original>All callsigns, the enemy are gaining the upper hand. Stop them!</Original>
               <Chinese>所有單位，敵軍正佔上風。阻止他們!</Chinese>
-              <Chinesesimp>所有单位，敌军正占上风。阻止他们!</Chinesesimp>
+              <Chinesesimp>所有单位，敌军正占上风。阻止他们！</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_15_lowtickets_ihq_0">
               <Original>All callsigns, the enemy are gaining the upper hand. Stop them!</Original>
               <Chinese>所有單位，敵軍正佔上風。阻止他們!</Chinese>
-              <Chinesesimp>所有单位，敌军正占上风。阻止他们!</Chinesesimp>
+              <Chinesesimp>所有单位，敌军正占上风。阻止他们！</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_15_lowtickets_ihq_1">
               <Original>The enemy is pushing us back. They cannot break through our lines!</Original>
               <Chinese>敵軍正擊退我們。不能讓他們打敗我們!</Chinese>
-              <Chinesesimp>敌军正击退我们。不能让他们打败我们!</Chinesesimp>
+              <Chinesesimp>敌军正击退我们。不能让他们打败我们！</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_15_lowtickets_ohq_1">
               <Original>The enemy is pushing us back. They cannot break through our lines!</Original>
               <Chinese>敵軍正擊退我們。不能讓他們打敗我們!</Chinese>
-              <Chinesesimp>敌军正击退我们。不能让他们打败我们!</Chinesesimp>
+              <Chinesesimp>敌军正击退我们。不能让他们打败我们！</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_15_lowtickets_ihq_2">
               <Original>Enemy forces are breaking through. Push them back!</Original>
               <Chinese>敵軍部隊正在擊破我軍防線。擋住他們!</Chinese>
-              <Chinesesimp>敌军部队正在击破我军防线。挡住他们!</Chinesesimp>
+              <Chinesesimp>敌军部队正在击破我军防线。挡住他们！</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_groundsupport_15_lowtickets_ohq_2">
               <Original>Enemy forces are breaking through. Push them back!</Original>
               <Chinese>敵軍部隊正在擊破我軍防線。擋住他們!</Chinese>
-              <Chinesesimp>敌军部队正在击破我军防线。挡住他们!</Chinesesimp>
+              <Chinesesimp>敌军部队正在击破我军防线。挡住他们！</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_Disembarked" audioFilePath="\a3\dubbing_f_heli\mp_groundsupport" dialogName="15_Disembarked" dubbingLanguage="english" namePrefix="mp_groundsupport_15_disembarked" note="" participants="HELI B HQ;HELI O HQ;HELI I HQ;" situation="hq let's the player know that the ground units have disembarked his vehicle">
@@ -1585,12 +1585,12 @@
             <Key ID="str_a3_showcase_slingloading_x10_mayday_pil_0">
               <Original>Mayday! Mayday! Mayday!</Original>
               <Chinese>求救!求救!求救!</Chinese>
-              <Chinesesimp>求救!求救!求救!</Chinesesimp>
+              <Chinesesimp>求救！求救！求救！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_x10_mayday_pil_1">
               <Original>November is going down! I repeat, we're going down!</Original>
               <Chinese>November正在失去高度!我重複一遍，我們正在失去高度!</Chinese>
-              <Chinesesimp>November 正在坠落!我重复一遍，我们正在坠落!</Chinesesimp>
+              <Chinesesimp>November 正在坠落！我重复一遍，我们正在坠落！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_x10_mayday_tow_0">
               <Original>Copy, November. Dispatching search and rescue to your grid.</Original>
@@ -1648,7 +1648,7 @@
             <Key ID="str_a3_showcase_slingloading_37_landed_pil_0">
               <Original>Everyone out!</Original>
               <Chinese>所有人出去!</Chinese>
-              <Chinesesimp>所有人下去!</Chinesesimp>
+              <Chinesesimp>所有人下去！</Chinesesimp>
             </Key>
           </Container>
           <Container name="36_HotLZ" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="36_HotLZ" dubbingLanguage="english" namePrefix="showcase_slingloading_36_hotlz" note="" participants="HELI B Pilot;" situation="player approaching hot lz">
@@ -1699,7 +1699,7 @@
             <Key ID="str_a3_showcase_slingloading_30_changeofplan_tow_3">
               <Original>Expect a hot LZ. How copy?</Original>
               <Chinese>預計降落點是危險的。有收到嗎?</Chinese>
-              <Chinesesimp>预计降落点是危险的。有收到吗?</Chinesesimp>
+              <Chinesesimp>预计降落点是危险的。有收到吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="25_StriderDropped" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="25_StriderDropped" dubbingLanguage="english" namePrefix="showcase_slingloading_25_striderdropped" note="" participants="HELI B Pilot;HELI B Tower;" situation="player has just dropped the strider at the lz">
@@ -1777,7 +1777,7 @@
             <Key ID="str_a3_showcase_slingloading_16_newtask_tow_3">
               <Original>How copy, over?</Original>
               <Chinese>有收到嗎，完畢?</Chinese>
-              <Chinesesimp>有收到吗，完毕?</Chinesesimp>
+              <Chinesesimp>有收到吗，完毕？</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_AmmoDropped" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="15_AmmoDropped" dubbingLanguage="english" namePrefix="showcase_slingloading_15_ammodropped" note="" participants="HELI B Pilot;HELI B Tower;" situation="player has just delivered the artillery ammo">
@@ -1789,7 +1789,7 @@
             <Key ID="str_a3_showcase_slingloading_15_ammodropped_pil_1">
               <Original>What's the news? Over.</Original>
               <Chinese>有新消息嗎?完畢。</Chinese>
-              <Chinesesimp>有新消息吗?完毕。</Chinesesimp>
+              <Chinesesimp>有新消息吗？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_15_ammodropped_tow_0">
               <Original>Copy, November. Standby.</Original>
@@ -1833,7 +1833,7 @@
             <Key ID="str_a3_showcase_slingloading_05_takeoff_tow_0">
               <Original>Copy, November. Today's forecast - clear skies with a weak westerly wind. That's gonna run up at about 5 knots.</Original>
               <Chinese>收到，November。以下是今日氣象-天氣晴朗並帶有微弱的西風。風速最高為5節。</Chinese>
-              <Chinesesimp>收到，November。以下是今日气象-天气晴朗并带有微弱的西风。风速最高可达5节。</Chinesesimp>
+              <Chinesesimp>收到，November。以下是今日气象 — 天气晴朗并带有微弱的西风。风速最高可达5节。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_05_takeoff_tow_1">
               <Original>Be advised, you've got two friendly birds sharing your airspace. Flight levels between 350 and 650 feet.</Original>
@@ -1848,7 +1848,7 @@
             <Key ID="str_a3_showcase_slingloading_05_takeoff_tow_3">
               <Original>And that's all I've got for you at this time, November. How copy?</Original>
               <Chinese>以上就是我必須交付給你的情報，November。有收到嗎?</Chinese>
-              <Chinesesimp>以上就是我必须交付给你的情报，November。有收到吗?</Chinesesimp>
+              <Chinesesimp>以上就是我必须交付给你的情报，November。有收到吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_05_takeoff_tow_4">
               <Original>Copy. Happy trails.</Original>
@@ -1865,7 +1865,7 @@
             <Key ID="str_a3_showcase_slingloading_01_prologue_tow_0">
               <Original>November, status?</Original>
               <Chinese>November，狀況如何?</Chinese>
-              <Chinesesimp>November，状况如何?</Chinesesimp>
+              <Chinesesimp>November，状况如何？</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_01_prologue_tow_1">
               <Original>Copy.</Original>
@@ -1886,7 +1886,7 @@
           <Key ID="STR_A3_Showcase_SlingLoading_Titlecard">
             <Original>SHOWCASE: SLING LOADING - New transport helicopters, Sling Load Assistant, Logistical support</Original>
             <Chinese>任務展示:吊掛-新運輸直升機，吊掛輔助，後勤支援</Chinese>
-            <Chinesesimp>任务展示:吊挂-新运输直升机，吊挂辅助，后勤支援</Chinesesimp>
+            <Chinesesimp>任务展示：吊挂 — 新运输直升机，吊挂辅助，后勤支援</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskAmmoDrop_description">
             <Original>Transport the container to the current position of our %2self-propelled artillery platoon%1.</Original>
@@ -1931,7 +1931,7 @@
           <Key ID="STR_A3_Showcase_SlingLoading_Briefing_Mission_text">
             <Original>One of our self-propelled artillery platoons, positioned on the eastern coast of the Gulf of Pyrgos, has requested resupply. Your task is to transport ammunition from %2the AAC airfield%1 to their position. &lt;br /&gt;&lt;br /&gt;Note: to compensate for the added weight of sling-loaded cargo, your fuel reserve has been limited. Should you require refueling, support forces stationed at %3the AAC airfield%1 are on standby.</Original>
             <Chinese>我們位在皮爾戈斯灣東岸的火炮排向我們申請補給支援。你的任務就是從%2阿爾蒂斯空中俱樂部機場%1中吊掛彈藥至它們的位置。&lt;br/&gt;&lt;br/&gt;注意事項:為了平衡吊掛貨物的重量，你的油料將不會被加滿。假如你需要加油，你可以在%3機場%1找到待命中的地勤人員來為你補給。</Chinese>
-            <Chinesesimp>我们位在皮尔戈斯湾东岸的自行火炮排向我们申请补给支援。你的任务就是从%2阿尔蒂斯空中俱乐部机场%1中吊挂弹药至它们的位置。&lt;br/&gt;&lt;br/&gt;注意事项:为了平衡吊挂货物的重量，你的油料将不会被加满。假如你需要加油，你可以在%3机场%1找到待命中的地勤人员来为你补给。</Chinesesimp>
+            <Chinesesimp>我们位在皮尔戈斯湾东岸的自行火炮排向我们申请补给支援。你的任务就是从%2阿尔蒂斯空中俱乐部机场%1中吊挂弹药至它们的位置。&lt;br/&gt;&lt;br/&gt;注意事项：为了平衡吊挂货物的重量，你的油料将不会被加满。假如你需要加油，你可以在%3机场%1找到待命中的地勤人员来为你补给。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskGetIn_description">
             <Original>Board your CH-67 Huron as the Pilot.</Original>
@@ -1946,7 +1946,7 @@
           <Key ID="STR_A3_Showcase_SlingLoading_Briefing_Intel_text">
             <Original>Weather: Clear with good visibility. &lt;br /&gt;Wind: West-to-East, 2-4m/s.</Original>
             <Chinese>天氣:晴朗，視野良好。&lt;br/&gt;風:由西向東，風速每秒2-4公尺。</Chinese>
-            <Chinesesimp>天气:晴朗，视野良好。&lt;br/&gt;风:由西向东，风速2-4米每秒。</Chinesesimp>
+            <Chinesesimp>天气：晴朗，视野良好。&lt;br/&gt;风：由西向东，风速2-4米每秒。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_Briefing_Signal_text">
             <Original>November - Your callsign. &lt;br /&gt;Eagle - Control tower.</Original>
@@ -2011,17 +2011,17 @@
           <Key ID="STR_A3_Showcase_SlingLoading_Debriefing_Fail01_text">
             <Original>Your Helicopter was Destroyed!</Original>
             <Chinese>你的直升機已被摧毀!</Chinese>
-            <Chinesesimp>你的直升机已被摧毁!</Chinesesimp>
+            <Chinesesimp>你的直升机已被摧毁！</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_Debriefing_Fail02_text">
             <Original>The Cargo was Destroyed!</Original>
             <Chinese>貨物被摧毀!</Chinese>
-            <Chinesesimp>货物被摧毁!</Chinesesimp>
+            <Chinesesimp>货物被摧毁！</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_Debriefing_Fail03_text">
             <Original>You Failed to Follow Your Orders!</Original>
             <Chinese>你並沒有遵照命令!</Chinese>
-            <Chinesesimp>你并没有遵照命令!</Chinesesimp>
+            <Chinesesimp>你并没有遵照命令！</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskReinforcementsLoad_WP">
             <Original>LOAD</Original>
@@ -2078,32 +2078,32 @@
           <Key ID="str_a3_time_trials_sp_tt06_name">
             <Original>TT6: Runway Lap</Original>
             <Chinese>TT6:跑道</Chinese>
-            <Chinesesimp>TT6:跑道</Chinesesimp>
+            <Chinesesimp>TT6：跑道</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt07_name">
             <Original>TT7: Hillside Groove</Original>
             <Chinese>TT7:山溝</Chinese>
-            <Chinesesimp>TT7:山沟</Chinesesimp>
+            <Chinesesimp>TT7：山沟</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt08_name">
             <Original>TT8: King of the Hill</Original>
             <Chinese>TT8:山丘之王</Chinese>
-            <Chinesesimp>TT8:山丘之王</Chinesesimp>
+            <Chinesesimp>TT8：山丘之王</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt09_name">
             <Original>TT9: Kiss the Ground</Original>
             <Chinese>TT9:親吻地面</Chinese>
-            <Chinesesimp>TT9:亲吻地面</Chinesesimp>
+            <Chinesesimp>TT9：亲吻地面</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt10_name">
             <Original>TT10: Kart Delivery</Original>
             <Chinese>TT10:運送卡丁車</Chinese>
-            <Chinesesimp>TT10:运送卡丁车</Chinesesimp>
+            <Chinesesimp>TT10：运送卡丁车</Chinesesimp>
           </Key>
           <Key ID="STR_A3_TIME_TRIALS_DIARY_REC5_TEXT">
             <Original>There are several special Check Point features: timeouts, on-ground requirements and omni-directionality.&lt;br /&gt;&lt;br /&gt;Timeouts require you to keep your vehicle within the Check Point area until the timer runs out. This could be to force a hover or landing.&lt;br /&gt;&lt;br /&gt;Normal Check Points require you to fly through them from the front to the back. Some Check Points don't have this requirement and can be entered and exited from any direction.&lt;br /&gt;&lt;br /&gt;Some Check Points require you to be on the ground (landed). Note that you don't necessarily need to be standing still!</Original>
             <Chinese>以下有幾個特別的檢查點:計時，落地，指向性等檢查點。&lt;br/&gt;&lt;br/&gt;計時類的檢查點你必須把載具停在檢查點的感應範圍內直到檢定結束。你可以使用懸停或落地來達到此一條件。&lt;br/&gt;&lt;br/&gt;普通的檢查點你必須從進入點飛入，並從出口出來才算完成檢定。但有些檢查點並無方向的限制。&lt;br/&gt;&lt;br/&gt;有些檢查點需要你降落才算完成檢定。(但你並不一定需要完全等到停止不動)</Chinese>
-            <Chinesesimp>以下有几个特别的检查点:计时，落地，指向性等检查点。&lt;br/&gt;&lt;br/&gt;计时类的检查点你必须把载具停在检查点的感应范围内直到检定结束。你可以使用悬停或落地来达到此一条件。&lt;br/&gt;&lt;br/&gt;普通的检查点你必须从进入点飞入，并从出口出来才算完成检定。但有些检查点并无方向的限制。&lt;br/&gt;&lt;br/&gt;有些检查点需要你降落才算完成检定。（但你并不一定需要完全等到停止不动）</Chinesesimp>
+            <Chinesesimp>以下有几个特别的检查点：计时，落地，指向性等检查点。&lt;br/&gt;&lt;br/&gt;计时类的检查点你必须把载具停在检查点的感应范围内直到检定结束。你可以使用悬停或落地来达到此一条件。&lt;br/&gt;&lt;br/&gt;普通的检查点你必须从进入点飞入，并从出口出来才算完成检定。但有些检查点并无方向的限制。&lt;br/&gt;&lt;br/&gt;有些检查点需要你降落才算完成检定。（但你并不一定需要完全等到停止不动）</Chinesesimp>
           </Key>
           <Key ID="STR_A3_TIME_TRIALS_DIARY_REC5_TITLE">
             <Original>Helicopter Check Points</Original>
@@ -2153,7 +2153,7 @@
           <Key ID="STR_A3_TIME_TRIALS_DIARY_REC7_TEXT">
             <Original>%1Consider flying Helicopter Time Trials using the Advanced Flight Model available in the game's options. You may shave off a few extra seconds.&lt;br /&gt;&lt;br /&gt;%1In helicopters especially, don't fly directly towards a Check Point. Plan your path, anticipate the orientation of the next Check Point and line up in advance.&lt;br /&gt;&lt;br /&gt;%1You will not be able to always fly your helicopter at maximum speed. Take inertia into account, burn off excess speed in time and please, mind the ground!</Original>
             <Chinese>%1使用高級飛行模式可能有助你減少更多計時賽的秒數。&lt;br/&gt;&lt;br/&gt;%1在直升機的計時賽中，不要直接向你的檢查點飛去，仔細規劃，調整飛行方向，好讓你在過了這個檢查點後能迅速趕往下一個檢查點。&lt;br/&gt;&lt;br/&gt;%1你並不能總是讓直升機待在高速的狀態下，你必須考慮到慣性。還有請你必須時時小心你與地面的距離!</Chinese>
-            <Chinesesimp>%1使用高级飞行模式可能有助你减少更多计时赛的秒数。&lt;br/&gt;&lt;br/&gt;%1在直升机的计时赛中，不要直接向你的检查点飞去，仔细规划，调整飞行方向，好让你在过了这个检查点后能迅速赶往下一个检查点。&lt;br/&gt;&lt;br/&gt;%1你并不能总是让直升机待在高速的状态下，你必须考虑到惯性。还有请你必须时时小心你与地面的距离!</Chinesesimp>
+            <Chinesesimp>%1使用高级飞行模式可能有助你减少更多计时赛的秒数。&lt;br/&gt;&lt;br/&gt;%1在直升机的计时赛中，不要直接向你的检查点飞去，仔细规划，调整飞行方向，好让你在过了这个检查点后能迅速赶往下一个检查点。&lt;br/&gt;&lt;br/&gt;%1你并不能总是让直升机待在高速的状态下，你必须考虑到惯性。还有请你必须时时小心你与地面的距离！</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt09_overview">
             <Original>This special trial combines several special Check Points, where you need to hover or even land.</Original>
@@ -2178,7 +2178,7 @@
           <Key ID="str_a3_time_trials_sp_tt07_overview">
             <Original>With its spaced out Check Points across the Altian countryside, this trial blends high speeds and terrain following abilities. Watch out for wind turbines and power lines!</Original>
             <Chinese>此次的檢查點配合著地形所擺設，你必須準確的跟著它們飛越低空。請小心風力發電機與電線!</Chinese>
-            <Chinesesimp>此次的检查点配合着地形所摆设，你必须准确的跟着它们飞越低空。请小心风力发电机与电线!</Chinesesimp>
+            <Chinesesimp>此次的检查点配合着地形所摆设，你必须准确的跟着它们飞越低空。请小心风力发电机与电线！</Chinesesimp>
           </Key>
           <Key ID="STR_A3_TIME_TRIALS_HELI_NAME">
             <Original>Helicopters</Original>
@@ -2198,29 +2198,29 @@
           <Key ID="STR_A3_TIME_TRIALS_HINT_RESULTS_BONUS1">
             <Original>Cargo accuracy:</Original>
             <Chinese>貨物投放準確度:</Chinese>
-            <Chinesesimp>货物投放准确度:</Chinesesimp>
+            <Chinesesimp>货物投放准确度：</Chinesesimp>
           </Key>
           <Key ID="STR_A3_TIME_TRIALS_HINT_RESULTS_BONUS2">
             <Original>Quick cargo pick-up:</Original>
             <Chinese>快速撿起貨物:</Chinese>
-            <Chinesesimp>快速捡起货物:</Chinesesimp>
+            <Chinesesimp>快速捡起货物：</Chinesesimp>
           </Key>
           <Key ID="STR_A3_TIME_TRIALS_HINT_RESULTS_PENALTY2">
             <Original>Cargo damage:</Original>
             <Chinese>貨物損傷:</Chinese>
-            <Chinesesimp>货物损伤:</Chinesesimp>
+            <Chinesesimp>货物损伤：</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_hint_rules1a">
             <Original>Wait or gain some speed to quick-start!</Original>
             <Chinese>等待或加速來快速開始比賽!</Chinese>
-            <Chinesesimp>等待或加速来快速开始比赛!</Chinesesimp>
+            <Chinesesimp>等待或加速来快速开始比赛！</Chinesesimp>
           </Key>
         </Container>
         <Container name="VR">
           <Key ID="str_a3_vr_heli_weapons_title">
             <Original>Helicopter - Weapon Systems</Original>
             <Chinese>直升機-武器系統</Chinese>
-            <Chinesesimp>直升机-武器系统</Chinesesimp>
+            <Chinesesimp>直升机 — 武器系统</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_heli_weapons_task6_text">
             <Original>Eliminate at least 5 targets using your autocannon.</Original>
@@ -2295,7 +2295,7 @@
           <Key ID="str_a3_vr_heli_sling_title">
             <Original>Helicopter - Sling Loading</Original>
             <Chinese>直升機-吊掛</Chinese>
-            <Chinesesimp>直升机-吊挂</Chinesesimp>
+            <Chinesesimp>直升机 — 吊挂</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_heli_sling_task4_title">
             <Original>Unhook the Cargo at Mark</Original>
@@ -2345,7 +2345,7 @@
           <Key ID="str_a3_vr_heli_basics_title">
             <Original>Helicopter - Basics</Original>
             <Chinese>直升機-基礎課程</Chinese>
-            <Chinesesimp>直升机-基础课程</Chinesesimp>
+            <Chinesesimp>直升机 — 基础课程</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_heli_basics_task9_title">
             <Original>Stop the Helicopter</Original>
@@ -2500,12 +2500,12 @@
           <Key ID="str_a3_vr_heli_advanced_too_low">
             <Original>Too low!</Original>
             <Chinese>太低!</Chinese>
-            <Chinesesimp>太低!</Chinesesimp>
+            <Chinesesimp>太低！</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_heli_advanced_title">
             <Original>Helicopter - Advanced</Original>
             <Chinese>直升機-進階</Chinese>
-            <Chinesesimp>直升机-高级</Chinesesimp>
+            <Chinesesimp>直升机 — 高级</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_heli_advanced_task9_title">
             <Original>Maintain Altitude</Original>
@@ -2635,12 +2635,12 @@
           <Key ID="str_a3_vr_heli_advanced_stage5_title">
             <Original>Crash Landing: Autorotation</Original>
             <Chinese>迫降:自轉</Chinese>
-            <Chinesesimp>迫降:自转</Chinesesimp>
+            <Chinesesimp>迫降：自转</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_heli_advanced_stage6_title">
             <Original>Crash Landing: Tail Rotor Failure</Original>
             <Chinese>迫降:尾槳失效</Chinese>
-            <Chinesesimp>迫降:尾桨失效</Chinesesimp>
+            <Chinesesimp>迫降：尾桨失效</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_heli_advanced_tail_failure">
             <Original>Incoming tail rotor failure...</Original>
@@ -3013,22 +3013,22 @@
         <Key ID="str_a3_mp_groundsupport_tips_base_medevac">
           <Original>Medevac - where medevac'd forces are to be delivered.</Original>
           <Chinese>醫療後送-傷患必須送往的地方。</Chinese>
-          <Chinesesimp>医疗后送-伤患必须送往的地方。</Chinesesimp>
+          <Chinesesimp>医疗后送 — 伤患必须送往的地方。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_tips_base_maintenance">
           <Original>Maintenance - where helicopters can be resupplied.</Original>
           <Chinese>維護區-可在那邊進行補給。</Chinese>
-          <Chinesesimp>维护区-可在那边进行补给。</Chinesesimp>
+          <Chinesesimp>维护区 — 可在那边进行补给。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_tips_base_helipad">
           <Original>Helipad - where helicopters will spawn.</Original>
           <Chinese>直升機停機坪-直升機將重生在那邊。</Chinese>
-          <Chinesesimp>直升机停机坪-直升机将重生在那边。</Chinesesimp>
+          <Chinesesimp>直升机停机坪 — 直升机将重生在那边。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_tips_base">
           <Original>Each side's base is composed of 3 special areas:</Original>
           <Chinese>每個陣營的基地內將包含以下3種特殊的區域:</Chinese>
-          <Chinesesimp>每个阵营的基地内将包含以下3种特殊的区域:</Chinesesimp>
+          <Chinesesimp>每个阵营的基地内将包含以下3种特殊的区域：</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_tips_assignedtasks">
           <Original>Complete tasks assigned during the game to further increase your score.</Original>
@@ -3168,7 +3168,7 @@
         <Key ID="str_a3_mp_groundsupport_rules_tasks">
           <Original>There are 4 ways pilots can support ground forces: infantry transport, supply transport, close air support and medevac.</Original>
           <Chinese>有4種支援地面部隊的方式:步兵運輸，補給運輸，密接空中支援與醫療後送。</Chinese>
-          <Chinesesimp>有4种支援地面部队的方式:步兵运输，补给运输，近距离空中支援与医疗后送。</Chinesesimp>
+          <Chinesesimp>有4种支援地面部队的方式：步兵运输，补给运输，近距离空中支援与医疗后送。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_rules_sectors">
           <Original>The battlefield is divided into multiple sectors that can be captured by either side.</Original>
@@ -3178,7 +3178,7 @@
         <Key ID="str_a3_mp_groundsupport_rules_role">
           <Original>Players are not capturing sectors! Sectors are instead captured by ground forces.</Original>
           <Chinese>玩家無法佔領佔領區!佔領區只能交由地面部隊來佔領。</Chinese>
-          <Chinesesimp>玩家无法占领占领区!占领区只能交由地面部队来占领。</Chinesesimp>
+          <Chinesesimp>玩家无法占领占领区！占领区只能交由地面部队来占领。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_rules_pilots">
           <Original>Players act as pilots supporting ground forces with their helicopters.</Original>
@@ -3348,7 +3348,7 @@
         <Key ID="str_a3_mp_groundsupport_hints_group_markers_main_text">
           <Original>By pressing %11 you can toggle group markers on friendly units. The group markers consist of several elements:&lt;br/&gt;%2 middle - unit type.&lt;br/&gt;%2 left - request type.&lt;br/&gt;%2 right - selected by player.</Original>
           <Chinese>按下%11即可切換開啟友軍的小隊標記。小組標記的內容如下:&lt;br/&gt;%2中間-單位類型。&lt;br/&gt;%2左邊-請求的類型。&lt;br/&gt;%2右邊-由哪個玩家負責執行。</Chinese>
-          <Chinesesimp>按下%11即可切换开启友军的小队标记。小组标记的内容如下:&lt;br/&gt;%2中间-单位类型。&lt;br/&gt;%2左边-请求的类型。&lt;br/&gt;%2右边-由哪个玩家负责执行。</Chinesesimp>
+          <Chinesesimp>按下%11即可切换开启友军的小队标记。小组标记的内容如下：&lt;br/&gt;%2中间 — 单位类型。&lt;br/&gt;%2左边 — 请求的类型。&lt;br/&gt;%2右边 — 由哪个玩家负责执行。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_hints_medevac_request_label">
           <Original>Medevac Request</Original>
@@ -3403,7 +3403,7 @@
         <Key ID="str_a3_mp_groundsupport_hints_tactical_strikes_main_text">
           <Original>Well done! A %3Tactical Strike%4 was just initiated by Headquarters.</Original>
           <Chinese>幹得好!總部已開始一項新的%3戰術打擊%4。</Chinese>
-          <Chinesesimp>干得好!总部已开始一项新的%3战术打击%4。</Chinesesimp>
+          <Chinesesimp>干得好！总部已开始一项新的%3战术打击%4。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_hints_tactical_strikes_xtra_text">
           <Original>The approximate location of the %3Tactical Strike% is marked on the map.</Original>
@@ -3428,12 +3428,12 @@
         <Key ID="str_a3_mp_groundsupport_request_owners">
           <Original>Selected by:</Original>
           <Chinese>執行的玩家:</Chinese>
-          <Chinesesimp>执行的玩家:</Chinesesimp>
+          <Chinesesimp>执行的玩家：</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_tips_completingtasks_main">
           <Original>There are 4 type of tasks, sorted by their strategic importance and Score that they reward you with: Close Air Support &gt; Resupply &gt; Medevac &gt; Transport.</Original>
           <Chinese>有4種不同類型的任務，依戰略重要性與得分高低來做排列:密接空中支援&gt;運輸補給&gt;醫療後送&gt;運輸。</Chinese>
-          <Chinesesimp>有4种不同类型的任务，依战略重要性与得分高低来做排列:近距离空中支援&gt;运输补给&gt;医疗后送&gt;运输。</Chinesesimp>
+          <Chinesesimp>有4种不同类型的任务，依战略重要性与得分高低来做排列：近距离空中支援&gt;运输补给&gt;医疗后送&gt;运输。</Chinesesimp>
         </Key>
       </Container>
     </Container>

@@ -41,7 +41,7 @@
         <Key ID="str_a3_showcase_jets_titlecard">
           <Original>SHOWCASE: FIGHTER JETS - New fixed-wing aircraft, Improved sensors, Dynamic load-outs</Original>
           <Chinese>任務展示:戰鬥機-新的固定翼飛機，改進的傳感器，動態裝備</Chinese>
-          <Chinesesimp>任务展示:战斗机-新的固定翼飞机，改进的传感器，动态装备</Chinesesimp>
+          <Chinesesimp>任务展示：战斗机 — 新的固定翼飞机，改进的传感器，动态装备</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_sitrep_text">
           <Original>USS Freedom, Mediterranean Sea</Original>
@@ -71,17 +71,17 @@
         <Key ID="str_a3_showcase_jets_debriefing_win03_description">
           <Original>Outstanding job, pilot! The skies are clear and ground units are pushing through the enemy lines.</Original>
           <Chinese>幹的真棒，飛行員!天空已經安全，而我們地面的部隊也開始在進攻了。</Chinese>
-          <Chinesesimp>干的真棒，飞行员!天空已经安全，而我们地面的部队也开始进攻了。</Chinesesimp>
+          <Chinesesimp>干的真棒，飞行员！天空已经安全，而我们地面的部队也开始进攻了。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_debriefing_win02_description">
           <Original>Good job, pilot! You've supported the ground assault by destroying an enemy strongpoint.</Original>
           <Chinese>幹的好，飛行員!你成功打擊了一處敵方據點來讓我軍地面部隊得到支援。</Chinese>
-          <Chinesesimp>干的好，飞行员!你成功摧毁了一处敌方据点，支援了我军的地面突击。</Chinesesimp>
+          <Chinesesimp>干的好，飞行员！你成功摧毁了一处敌方据点，支援了我军的地面突击。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_debriefing_win01_description">
           <Original>Good job, pilot! Opfor air threats have been eliminated. The skies are clear.</Original>
           <Chinese>幹的好，飛行員!敵方空中單位已被殲滅。天空是我們的了。</Chinese>
-          <Chinesesimp>干的好，飞行员!敌方空中单位已被歼灭。天空是我们的了。</Chinesesimp>
+          <Chinesesimp>干的好，飞行员！敌方空中单位已被歼灭。天空是我们的了。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_debriefing_fail02_description">
           <Original>Your plane was shot down over Altis.</Original>
@@ -246,7 +246,7 @@
         <Key ID="str_a3_showcase_jets_01_intro_tower_0">
           <Original>Captain - QRA update.</Original>
           <Chinese>上校-緊急任務報告。</Chinese>
-          <Chinesesimp>上校-紧急任务报告。</Chinesesimp>
+          <Chinesesimp>上校 — 紧急任务报告。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_01_intro_tower_1">
           <Original>Early-warning radars have a pair of unknown contacts, one hundred klicks north, approaching fast.</Original>
@@ -256,7 +256,7 @@
         <Key ID="str_a3_showcase_jets_01_intro_tower_2">
           <Original>Possible CSAT strike on Altis International. Get up there and interdict - we can't let them target the airport; our entire operation would be at risk.</Original>
           <Chinese>應該是廣協同盟的戰機飛在阿爾蒂斯國際機場上。請前往那邊並攔截他們-我們不能讓他們攻擊機場;要不然我們的整場行動就會陷入危機。</Chinese>
-          <Chinesesimp>应该是广协的战机正要空袭阿尔蒂斯国际机场。请前往那边并拦截他们-我们不能让他们攻击机场;要不然我们的整场行动就会陷入危机。</Chinesesimp>
+          <Chinesesimp>应该是广协的战机正要空袭阿尔蒂斯国际机场。请前往那边并拦截他们 — 我们不能让他们攻击机场;要不然我们的整场行动就会陷入危机。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_05_preflight_pilot_0">
           <Original>Hornet 1, Two is spooled up and ready for take-off.</Original>
@@ -271,7 +271,7 @@
         <Key ID="str_a3_showcase_jets_05_preflight_wingman_0">
           <Original>Hornet 2, you set?</Original>
           <Chinese>"大黃蜂2"，你好了嗎?</Chinese>
-          <Chinesesimp>"大黄蜂2"，你好了吗?</Chinesesimp>
+          <Chinesesimp>"大黄蜂2"，你好了吗？</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_05_preflight_wingman_1">
           <Original>Alright. Let's do this.</Original>
@@ -301,7 +301,7 @@
         <Key ID="str_a3_showcase_jets_15_flight_wingman_0">
           <Original>Two, you see anything?</Original>
           <Chinese>2機，你有看到什麼嗎?</Chinese>
-          <Chinesesimp>2号机，你有看到什么吗?</Chinesesimp>
+          <Chinesesimp>2号机，你有看到什么吗？</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_15_flight_wingman_1">
           <Original>Roger. Stay sharp. Keep your eyes open. Out.</Original>
@@ -311,22 +311,22 @@
         <Key ID="str_a3_showcase_jets_20_wingmanhit_pilot_0">
           <Original>Incoming!</Original>
           <Chinese>敵機來襲!</Chinese>
-          <Chinesesimp>导弹来袭!</Chinesesimp>
+          <Chinesesimp>导弹来袭！</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_20_wingmanhit_wingman_0">
           <Original>Hornet 1, spiked!</Original>
           <Chinese>這裡是"大黃蜂1"，我被照射了!</Chinese>
-          <Chinesesimp>这里是"大黄蜂1"，我被照射了!</Chinesesimp>
+          <Chinesesimp>这里是"大黄蜂1"，我被照射了！</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_20_wingmanhit_wingman_1">
           <Original>Hornet 1, avionics fucked! Repeat! I'm...</Original>
           <Chinese>這裡是"大黃蜂1"，航電失效!重複一遍!我的...</Chinese>
-          <Chinesesimp>这里是"大黄蜂1"，航电失效!重复一遍!我的...</Chinesesimp>
+          <Chinesesimp>这里是"大黄蜂1"，航电失效！重复一遍！我的...</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_22_reportwingmanhit_pilot_0">
           <Original>Hornet 1, do you read?</Original>
           <Chinese>"大黃蜂1"，你有收到嗎?</Chinese>
-          <Chinesesimp>"大黄蜂1"，你有收到吗?</Chinesesimp>
+          <Chinesesimp>"大黄蜂1"，你有收到吗？</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_22_reportwingmanhit_pilot_1">
           <Original>Shit. Shit. Shit.</Original>
@@ -336,7 +336,7 @@
         <Key ID="str_a3_showcase_jets_22_reportwingmanhit_pilot_2">
           <Original>Freeway. Hornet 2. Hornet 1 is down. Advise, over!</Original>
           <Chinese>"自由路"。這裡是"大黃蜂2"。"大黃蜂1"已被擊落。請指示，完畢!</Chinese>
-          <Chinesesimp>"自由路"。这里是"大黄蜂2"。"大黄蜂1"已被击落。请指示，完毕!</Chinesesimp>
+          <Chinesesimp>"自由路"。这里是"大黄蜂2"。"大黄蜂1"已被击落。请指示，完毕！</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_22_reportwingmanhit_tower_0">
           <Original>Acknowledged, Hornet 2. Fangs out. Rerouting Eagle squadron for immediate assist.</Original>
@@ -346,12 +346,12 @@
         <Key ID="str_a3_showcase_jets_25_scratchone_pilot_0">
           <Original>Splash one!</Original>
           <Chinese>擊落一架!</Chinese>
-          <Chinesesimp>击落一架!</Chinesesimp>
+          <Chinesesimp>击落一架！</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_25_scratchone_pilot_1">
           <Original>This one's for you, Chris!</Original>
           <Chinese>克里斯，這架是為你打的!</Chinese>
-          <Chinesesimp>克里斯，这架是为你打的!</Chinesesimp>
+          <Chinesesimp>克里斯，这架是为你打的！</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_30_reinforcements_tower_0">
           <Original>Hornet 2, this is Freeway. Eagle's in the killbox and engaging bandits.</Original>
@@ -371,17 +371,17 @@
         <Key ID="str_a3_showcase_jets_35_winchester_tower_1">
           <Original>Divert to Altis International Airport or head back here - your call. Rearm, then re-engage. Out.</Original>
           <Chinese>請前往阿爾蒂斯國際機場或是返回來這裡-你自己決定。重新補給後再繼續交戰。通話完畢。</Chinese>
-          <Chinesesimp>请前往阿尔蒂斯国际机场或是返回这里-你自己决定。重新补给后再继续交战。通话完毕。</Chinesesimp>
+          <Chinesesimp>请前往阿尔蒂斯国际机场或是返回这里 — 你自己决定。重新补给后再继续交战。通话完毕。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_40_skiesclear_pilot_0">
           <Original>All enemy jets destroyed - the skies are ours.</Original>
           <Chinese>敵軍戰機皆已殲滅-天空是我們的了。</Chinese>
-          <Chinesesimp>敌军战机都已击落-天空是我们的了。</Chinesesimp>
+          <Chinesesimp>敌军战机都已击落 — 天空是我们的了。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_45_groundclear_pilot_0">
           <Original>Shack!</Original>
           <Chinese>命中!</Chinese>
-          <Chinesesimp>命中!</Chinesesimp>
+          <Chinesesimp>命中！</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_45_groundclear_pilot_1">
           <Original>Hornet 2, enemy armor neutralized. Over.</Original>
@@ -411,12 +411,12 @@
         <Key ID="str_a3_showcase_jets_60_castask_tower_0">
           <Original>Hornet-2, ground forces are reporting CSAT armor on Hill 87. I'm retasking you to take them out. How copy? Over.</Original>
           <Chinese>"大黃蜂2"，地面部隊報告有廣協同盟的裝甲載具出現在87高地上。我重新指派你前往殲滅掉他們。有收到嗎?完畢。</Chinese>
-          <Chinesesimp>"大黄蜂2"，地面部队报告有广协的装甲车辆出现在87高地上。我重新指派你前往歼灭掉他们。有收到吗?完毕。</Chinesesimp>
+          <Chinesesimp>"大黄蜂2"，地面部队报告有广协的装甲车辆出现在87高地上。我重新指派你前往歼灭掉他们。有收到吗？完毕。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_65_minordamage_pilot_0">
           <Original>Hornet-2, I'm hit!</Original>
           <Chinese>這裡是"大黃蜂2"，我中彈了!</Chinese>
-          <Chinesesimp>这里是"大黄蜂2"，我中弹了!</Chinesesimp>
+          <Chinesesimp>这里是"大黄蜂2"，我中弹了！</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_65_minordamage_pilot_1">
           <Original>Roger, Freeway, I'm RTB.</Original>
@@ -431,12 +431,12 @@
         <Key ID="str_a3_showcase_jets_70_majordamage_pilot_0">
           <Original>Mayday! Mayday! Mayday! This is Hornet-2, losing altitude!</Original>
           <Chinese>求救!求救!求救!這裡是"大黃蜂2"，失去高度中!</Chinese>
-          <Chinesesimp>求救!求救!求救!这里是"大黄蜂2"，失去高度中!</Chinesesimp>
+          <Chinesesimp>求救！求救！求救！这里是"大黄蜂2"，失去高度中！</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_70_majordamage_pilot_1">
           <Original>Christ, I - I'm punching out!</Original>
           <Chinese>天殺的，我-我要彈射了!</Chinese>
-          <Chinesesimp>天杀的，我-我要弹射了!</Chinesesimp>
+          <Chinesesimp>天杀的，我 — 我要弹射了！</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_75_ejected_pilot_0">
           <Original>Well... this is gonna suck.</Original>
@@ -554,12 +554,12 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_footer">
         <Original>You can be our wingman any time!</Original>
         <Chinese>歡迎你隨時成為我們的僚機!</Chinese>
-        <Chinesesimp>欢迎你随时成为我们的僚机!</Chinesesimp>
+        <Chinesesimp>欢迎你随时成为我们的僚机！</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare">
         <Original>Arma 3 Jets takes to the skies with the following premium content and platform additions:</Original>
         <Chinese>武裝突襲3戰機資料片為天空帶來了以下優質付費內容:</Chinese>
-        <Chinesesimp>武装突袭3战机 DLC 为天空带来了以下优质付费内容:</Chinesesimp>
+        <Chinesesimp>武装突袭3战机 DLC 为天空带来了以下优质付费内容：</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pard_unmapped">
         <Original>Unmapped</Original>
@@ -649,7 +649,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_parc_list8">
         <Original>optional new throttle behavior, new airplane animation and &lt;a href='%2' color='%1'&gt;MFD&lt;/a&gt; sources for modders, tweaked controls, and more!</Original>
         <Chinese>可選的新式油門操作，新的飛機動作，&lt;ahref='%2'color='%1'&gt;多功能顯示螢幕&lt;/a&gt;與更加擬真的操作等等!</Chinese>
-        <Chinesesimp>可选的新式油门操作，新的飞机动作，&lt;ahref='%2'color='%1'&gt;多功能显示屏幕&lt;/a&gt;与更加拟真的操作等等!</Chinesesimp>
+        <Chinesesimp>可选的新式油门操作，新的飞机动作，&lt;ahref='%2'color='%1'&gt;多功能显示屏幕&lt;/a&gt;与更加拟真的操作等等！</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_parc_list7_title">
         <Original>Ejection Seats</Original>
@@ -724,7 +724,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_parc">
         <Original>We're pleased to have been able to provide the entire Arma 3 player-base with a solid set of features in the form of a &lt;t color='%1'&gt;free platform update&lt;/t&gt;. Not only do these improvements complement the premium aircraft splendidly, but they can and will be deployed for certain other existing vehicle types and (we hope!) by mod teams as well:</Original>
         <Chinese>我們很高興能再次為武裝突襲3這個平臺提供&lt;tcolor='%1'&gt;免費的特色更新&lt;/t&gt;。這些新功能不僅只出現在新的付費載具上，你可以在所有的載具上找到這些新功能，而且我們相信很快所有載具模組的製作團隊也會一起更新上來:</Chinese>
-        <Chinesesimp>我们很高兴能再次为武装突袭3这个平台提供&lt;tcolor='%1'&gt;免费的特色更新&lt;/t&gt;。这些新功能不仅只出现在新的付费载具上，你可以在所有的载具上找到这些新功能，而且我们相信很快所有载具模组的制作团队也会一起更新上来:</Chinesesimp>
+        <Chinesesimp>我们很高兴能再次为武装突袭3这个平台提供&lt;tcolor='%1'&gt;免费的特色更新&lt;/t&gt;。这些新功能不仅只出现在新的付费载具上，你可以在所有的载具上找到这些新功能，而且我们相信很快所有载具模组的制作团队也会一起更新上来：</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_parb_title">
         <Original>PREMIUM</Original>
@@ -744,7 +744,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_para">
         <Original>Scrambling all pilots! We've launched the &lt;t color='%1'&gt;Arma 3 Jets&lt;/t&gt; DLC for immediate interdiction. We hope this first huge milestone on our &lt;a href='%3' color='%2'&gt;2017 roadmap&lt;/a&gt; will please fans of vehicle gameplay and those looking for an even deeper combined arms experience. For the first time in Arma 3's development, this DLC was created together with a third-party external team: &lt;t color='%1'&gt;BRAVO ZERO ONE Studios&lt;/t&gt;, led by &lt;a href='%4' color='%2'&gt;Make Arma Not War&lt;/a&gt; winner Joshua "Saul" Carpenter. We would like to thank these talented developers for their hard work! Inspect the strong line-up of new assets and features below, or jump right into the cockpit for takeoff!</Original>
         <Chinese>通告所有飛行員!我們已經讓&lt;tcolor='%1'&gt;武裝突襲3戰機&lt;/t&gt;資料片正式上市。我們希望這個&lt;ahref='%3'color='%2'&gt;2017規劃藍圖&lt;/a&gt;的第一個里程碑能讓那些載具愛好者與想要更加擬真體驗的玩家有所感受。關於這次資料片的開發，我們是第一次與其他第三方團隊合作:&lt;tcolor='%1'&gt;BRAVO ZERO ONE工作室&lt;/t&gt;，是由&lt;ahref='%4'color='%2'&gt;讓武裝突襲不要戰爭&lt;/a&gt;的贏家Joshua"Saul"Carpenter所領軍。我們很感謝這些厲害的作者做出如此厲害的內容!你可以看看底下的訊息來了解新載具與新特色，或是現在立刻進入遊戲中直接體驗!</Chinese>
-        <Chinesesimp>通告所有飞行员!我们已经让&lt;tcolor='%1'&gt;武装突袭3战机&lt;/t&gt;DLC 正式上市。我们希望这个&lt;ahref='%3'color='%2'&gt;2017规划蓝图&lt;/a&gt;的第一个里程碑能让那些载具爱好者与想要更加拟真体验的玩家有所感受。关于这次 DLC 的开发，我们是第一次与其他第三方团队合作:&lt;tcolor='%1'&gt;BRAVO ZERO ONE 工作室&lt;/t&gt;，是由&lt;ahref='%4'color='%2'&gt;让武装突袭不要战争&lt;/a&gt;的赢家 Joshua"Saul"Carpenter 所领军。我们很感谢这些厉害的作者做出如此厉害的内容!你可以看看底下的信息来了解新载具与新特色，或是现在立刻进入游戏中直接体验!</Chinesesimp>
+        <Chinesesimp>通告所有飞行员！我们已经让&lt;tcolor='%1'&gt;武装突袭3战机&lt;/t&gt;DLC 正式上市。我们希望这个&lt;ahref='%3'color='%2'&gt;2017规划蓝图&lt;/a&gt;的第一个里程碑能让那些载具爱好者与想要更加拟真体验的玩家有所感受。关于这次 DLC 的开发，我们是第一次与其他第三方团队合作：&lt;tcolor='%1'&gt;BRAVO ZERO ONE 工作室&lt;/t&gt;，是由&lt;ahref='%4'color='%2'&gt;让武装突袭不要战争&lt;/a&gt;的赢家 Joshua"Saul"Carpenter 所领军。我们很感谢这些厉害的作者做出如此厉害的内容！你可以看看底下的信息来了解新载具与新特色，或是现在立刻进入游戏中直接体验！</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list10">
         <Original>use the Y-32 Xi'an aircraft to support friendly troops on Tanoa against NATO forces (bonus for &lt;a href='%2'&gt;Apex&lt;/a&gt; owners)</Original>
@@ -761,7 +761,7 @@
       <Key ID="STR_A3_CfgHints_PremiumContent_PremiumJets1">
         <Original>Dominate the skies over the battlefield in 3 new fighter aircraft and an Unmanned Combat Air Vehicle. Fly fast and agile air superiority jets to provide air support in the dedicated Showcase, and more, in the Arma 3 Jets DLC.%1&lt;img size='9' shadow='0' image='A3\Data_F_Jets\Images\jets_fm_overview_co' /&gt;%1%2F/A-181 Black Wasp II - a fifth generation NATO carrier-based fighter jet%1%2To-201 Shikra - a fifth generation CSAT air superiority fighter jet%1%2A-149 Gryphon - an advanced fourth generation AAF fighter jet%1%2Sentinel - a NATO carrier-based Unmanned Combat Air Vehicle%1%2Deck Crew Vests - colored vests for various characters roles on the carrier%1%2Showcase Fighter Jets - take to the skies over Altis and engage in Air-to-Air and Air-to-Ground operations%1%2Official Sound Track - a new music track befitting the jets theme%1%2Achievements - a set of extra &lt;a href='http://steamcommunity.com/stats/107410/achievements'&gt;Steam Achievements&lt;/a&gt;%1</Original>
         <Chinese>駕馭全新的3款戰機與1款無人戰機，你就可以稱霸整個戰場的領空。你可以在任務展示中體驗到新飛機的高速與敏捷性，讓你獲得絕對的空優，這些盡在武裝突襲3戰機資料片中。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Jets\Images\jets_fm_overview_co'/&gt;%1%2F/A-181"黑蜂"2型戰鬥攻擊機-北約的一臺第五代艦載戰鬥攻擊機%1%2To-201"褐耳鷹"戰鬥機-廣協同盟的一臺第五代空優戰鬥機%1%2A-149"獅鷲"戰鬥機-阿爾蒂斯武裝力量的一臺先進第四代戰鬥機%1%2"哨兵"無人戰機-北約的一臺艦載無人戰機%1%2甲板人員背心-數種不同顏色的背心供航空母艦的甲板人員使用%1%2戰鬥機任務展示-前往阿爾蒂斯體驗空對空與空對地的飛行任務%1%2官方原聲帶-一首配合戰機主題的曲子%1%2成就-新的一組&lt;ahref='http://steamcommunity.com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinese>
-        <Chinesesimp>驾驭全新的3款战机与1款无人战机，你就可以称霸整个战场的领空。你可以在任务展示中体验到新飞机的高速与敏捷性，让你获得绝对的空优，这些尽在武装突袭3战机 DLC 中。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Jets\Images\jets_fm_overview_co'/&gt;%1%2F/A-181"黑蜂"2型战斗攻击机-北约的一台第五代舰载战斗攻击机%1%2To-201"褐耳鹰"战斗机-广协的一台第五代空优战斗机%1%2A-149"狮鹫"战斗机-AAF 的一台先进第四代战斗机%1%2"哨兵"无人战机-北约的一台舰载无人战机%1%2甲板人员背心-数种不同颜色的背心供航空母舰的甲板人员使用%1%2战斗机任务展示-前往阿尔蒂斯体验空对空与空对地的飞行任务%1%2官方原声带-一首配合战机主题的曲子%1%2成就-新的一组&lt;ahref='http://steamcommunity.com/stats/107410/achievements'&gt;Steam 成就&lt;/a&gt;%1</Chinesesimp>
+        <Chinesesimp>驾驭全新的3款战机与1款无人战机，你就可以称霸整个战场的领空。你可以在任务展示中体验到新飞机的高速与敏捷性，让你获得绝对的空优，这些尽在武装突袭3战机 DLC 中。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Jets\Images\jets_fm_overview_co'/&gt;%1%2F/A-181"黑蜂"2型战斗攻击机 — 北约的一台第五代舰载战斗攻击机%1%2To-201"褐耳鹰"战斗机 — 广协的一台第五代空优战斗机%1%2A-149"狮鹫"战斗机-AAF 的一台先进第四代战斗机%1%2"哨兵"无人战机 — 北约的一台舰载无人战机%1%2甲板人员背心 — 数种不同颜色的背心供航空母舰的甲板人员使用%1%2战斗机任务展示 — 前往阿尔蒂斯体验空对空与空对地的飞行任务%1%2官方原声带 — 一首配合战机主题的曲子%1%2成就 — 新的一组&lt;ahref='http：//steamcommunity.com/stats/107410/achievements'&gt;Steam 成就&lt;/a&gt;%1</Chinesesimp>
       </Key>
     </Container>
   </Package>

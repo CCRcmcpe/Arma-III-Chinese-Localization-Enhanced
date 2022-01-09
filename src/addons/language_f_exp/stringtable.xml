@@ -4815,12 +4815,12 @@
       <Key ID="str_a3_rscdisplaywelcome_exp_pard_footer2">
         <Original>Even at its apex, there is a long and bright future ahead for Arma 3. We are all supported by an army of modders, entertained by hordes of streamers, serviced by battalions of server admins and motivated by legions of players. Hope you enjoy your time together!</Original>
         <Chinese>即使現在遊戲已經很頂尖，但我們仍看的到武裝突襲3更光明且璀璨的未來在前方的路上。我們之所以可以做到這些，都是因為各種軍隊模組的製作人，遊戲實況者，伺服器管理員與各戰隊的支持才能走到今天。希望你們能繼續在這邊享受這款遊戲!</Chinese>
-        <Chinesesimp>即使现在游戏已经很顶尖，但我们仍看的到武装突袭3更光明且璀璨的未来在前方的路上。我们之所以可以做到这些，都是因为各种军队模组的制作人，游戏实况者，服务器管理员与各战队的支持才能走到今天。希望你们能继续享受这款游戏!</Chinesesimp>
+        <Chinesesimp>即使现在游戏已经很顶尖，但我们仍看的到武装突袭3更光明且璀璨的未来在前方的路上。我们之所以可以做到这些，都是因为各种军队模组的制作人，游戏实况者，服务器管理员与各战队的支持才能走到今天。希望你们能继续享受这款游戏！</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_pard">
         <Original>We've worked on the &lt;t color='%1'&gt;#RoadToApex&lt;/t&gt; for a long time, releasing improvements in various large updates. Many usability improvements, new features and other forms of support have &lt;t color='%1'&gt;freely enhanced the platform&lt;/t&gt; for every player out there. Let's reflect on the highlights:</Original>
         <Chinese>我們已經在&lt;tcolor='%1'&gt;#前往頂尖之路&lt;/t&gt;上奮鬥許久，在這之中釋出了許多重要更新。許多實用的改進，新的特色與&lt;tcolor='%1'&gt;其他各種玩家有感的形式&lt;/t&gt;在這遊戲平臺上。現在讓我們來回頭看看有那些亮點吧:</Chinese>
-        <Chinesesimp>我们已经在&lt;tcolor='%1'&gt;#前往顶尖之路&lt;/t&gt;上奋斗许久，在这之中放出了许多重要更新。许多实用的改进，新的特色与&lt;tcolor='%1'&gt;其他各种玩家有感的形式&lt;/t&gt;在这游戏平台上。现在让我们来回头看看有那些亮点吧:</Chinesesimp>
+        <Chinesesimp>我们已经在&lt;tcolor='%1'&gt;#前往顶尖之路&lt;/t&gt;上奋斗许久，在这之中放出了许多重要更新。许多实用的改进，新的特色与&lt;tcolor='%1'&gt;其他各种玩家有感的形式&lt;/t&gt;在这游戏平台上。现在让我们来回头看看有那些亮点吧：</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parc_title">
         <Original>TANOA_</Original>
@@ -4865,7 +4865,7 @@
       <Key ID="str_a3_rscdisplaywelcome_exp_parc">
         <Original>Undoubtedly the star of the show is our new &lt;t color='%1'&gt;100 km² South Pacific archipelago&lt;/t&gt;: &lt;t color='%1'&gt;Tanoa&lt;/t&gt;. Book your passage today to this lush tropical destination, sometimes described as a "green hell", with Arma 3 Apex.</Original>
         <Chinese>毫無疑問，這次更新的主角無疑屬於這個&lt;tcolor='%1'&gt;100平方公里的南太平洋群島&lt;/t&gt;:&lt;tcolor='%1'&gt;塔諾亞&lt;/t&gt;。趕快隨著武裝突襲3頂尖的腳步一同前往這個叢林密布的小島，這小島有時也被稱為"綠色地獄"。</Chinese>
-        <Chinesesimp>毫无疑问，这次更新的主角无疑属于这个&lt;tcolor='%1'&gt;100平方千米的南太平洋群岛&lt;/t&gt;:&lt;tcolor='%1'&gt;塔诺亚&lt;/t&gt;。赶快随着武装突袭3 Apex 的脚步一同前往这个丛林密布的小岛，这小岛有时也被称为"绿色地狱"。</Chinesesimp>
+        <Chinesesimp>毫无疑问，这次更新的主角无疑属于这个&lt;tcolor='%1'&gt;100平方千米的南太平洋群岛&lt;/t&gt;：&lt;tcolor='%1'&gt;塔诺亚&lt;/t&gt;。赶快随着武装突袭3 Apex 的脚步一同前往这个丛林密布的小岛，这小岛有时也被称为"绿色地狱"。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_title">
         <Original>APEX</Original>
@@ -5025,7 +5025,7 @@
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list13">
         <Original>become familiar with the End Game mode in a singleplayer scenario</Original>
         <Chinese>在單人模式中體驗當前最受歡迎的模式-終戰</Chinese>
-        <Chinesesimp>在单人模式中体验当前最受欢迎的模式-终战</Chinesesimp>
+        <Chinesesimp>在单人模式中体验当前最受欢迎的模式 — 终战</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list12_title">
         <Original>"Apex Protocol"</Original>
@@ -5065,12 +5065,12 @@
       <Key ID="str_a3_rscdisplaywelcome_exp_parb">
         <Original>Much like our previous DLC releases, this expansion features a &lt;t color='%1'&gt;premium content pack&lt;/t&gt; and is supported by a &lt;t color='%1'&gt;free platform update&lt;/t&gt;. Having purchased Arma 3 Apex, you gain unrestricted access to &lt;t color='%1'&gt;a new terrain packed with new objects, 10 new vehicles, 13 new weapons, a new campaign and more&lt;/t&gt;. You will also be supporting the continued development of the Arma 3 platform. On behalf of our team and every player out there, we would like to thank you for this! Those who have not quite yet made the call to enlist, can try out the premium vehicles, weapons and character gear in the Virtual Arsenal. So, what exactly has been added in the Arma 3 Apex?</Original>
         <Chinese>就像我們其他的資料片一樣，這個資料片也有著&lt;tcolor='%1'&gt;付費內容&lt;/t&gt;與一些&lt;tcolor='%1'&gt;免費更新&lt;/t&gt;包含在裡頭。對於那些已經購買武裝突襲3頂尖的人來說，他們可以自由享用&lt;tcolor='%1'&gt;新地圖與其包含的物件，10臺新載具，13把新武器與一個新戰役等優質內容&lt;/t&gt;。你的購買也等同於繼續支持武裝突襲3的開發，使這個遊戲平臺更加豐富。我們全體開發人員都非常感謝各位的支持，這些感激無法一語道盡!而那些尚未購買頂尖的朋友，你們可以再虛擬軍火庫中嘗試這些付費內容，再決定是否購買。現在，讓我們來看看武裝突襲3頂尖到底包含了那些實質內容?</Chinese>
-        <Chinesesimp>就像我们其他的 DLC 一样，这个 DLC 也有着&lt;tcolor='%1'&gt;付费内容&lt;/t&gt;与一些&lt;tcolor='%1'&gt;免费更新&lt;/t&gt;包含在里头。对于那些已经购买武装突袭3 Apex 的人来说，他们可以自由享用&lt;tcolor='%1'&gt;新地图与其包含的物件，10台新载具，13把新武器与一个新战役等优质内容&lt;/t&gt;。你的购买也等同于继续支持武装突袭3的开发，使这个游戏平台更加丰富。我们全体开发人员都非常感谢各位的支持，这些感激无法一语道尽!而那些尚未购买 Apex 的朋友，你们可以再虚拟军火库中尝试这些付费内容，再决定是否购买。现在，让我们来看看武装突袭3 Apex 到底包含了那些实质内容?</Chinesesimp>
+        <Chinesesimp>就像我们其他的 DLC 一样，这个 DLC 也有着&lt;tcolor='%1'&gt;付费内容&lt;/t&gt;与一些&lt;tcolor='%1'&gt;免费更新&lt;/t&gt;包含在里头。对于那些已经购买武装突袭3 Apex 的人来说，他们可以自由享用&lt;tcolor='%1'&gt;新地图与其包含的物件，10台新载具，13把新武器与一个新战役等优质内容&lt;/t&gt;。你的购买也等同于继续支持武装突袭3的开发，使这个游戏平台更加丰富。我们全体开发人员都非常感谢各位的支持，这些感激无法一语道尽！而那些尚未购买 Apex 的朋友，你们可以再虚拟军火库中尝试这些付费内容，再决定是否购买。现在，让我们来看看武装突袭3 Apex 到底包含了那些实质内容？</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_para">
         <Original>The time has come to deploy on a tour of duty to a brand new warzone with the release of &lt;t color='%1'&gt;Arma 3 Apex&lt;/t&gt;. We are proud to present a major milestone for the game and the platform it is built upon. Representing the pinnacle of over 15 years of development, we hope you will enjoy one of the most meaningful gaming experiences on a PC!</Original>
         <Chinese>準備好在&lt;tcolor='%1'&gt;武裝突襲3頂尖&lt;/t&gt;中迎接全新的戰場。我們很榮幸為這個遊戲平臺再創新的里程碑。這也是我們15年來開發工作的頂峰，我們希望你能享受這個最佳的PC遊戲!</Chinese>
-        <Chinesesimp>准备好在&lt;tcolor='%1'&gt;武装突袭3 Apex&lt;/t&gt;中迎接全新的战场。我们很荣幸为这个游戏平台再创新的里程碑。这也是我们15年来开发工作的顶峰，我们希望你能享受这个最佳的 PC 游戏!</Chinesesimp>
+        <Chinesesimp>准备好在&lt;tcolor='%1'&gt;武装突袭3 Apex&lt;/t&gt;中迎接全新的战场。我们很荣幸为这个游戏平台再创新的里程碑。这也是我们15年来开发工作的顶峰，我们希望你能享受这个最佳的 PC 游戏！</Chinesesimp>
       </Key>
     </Container>
     <Container name="FieldManual">
@@ -5082,7 +5082,7 @@
       <Key ID="str_a3_cfghints_premiumcontent_premiumapex1">
         <Original>Be deployed to the 100 km² South Pacific island archipelago Tanoa, with 13 new weapons and 10 new vehicles, a co-op campaign, and more, in the Arma 3 Apex expansion.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co' /&gt;%1%2Tanoa Terrain%1%2Vehicles - V-44 X Blackfish VTOL, Y-32 Xi'an VTOL, Prowler LSV, Qilin LSV, KH-3A Fenghuang Drone, MQ-12 Falcon Drone, Caesar BTT Propellor Airplane, MB 4WD Offroad Car, RHIB Boat, Water Scooter%1%2Weapons - AKS-74U 5.45 mm Assault Rifle, AKM 7.62 mm Assault Rifle, AK-12 7.62 mm Assault Rifle, RPG-7 Launcher, PM 9 mm Pistol, SPAR-16/S/17 Assault Rifles, CAR-95 5.8 mm Assault Rifle, CAR-95-1 5.8 mm Light Support Weapon, LIM-85 5.56 mm Light Machine Gun, Type 115 6.5 mm / .50 cal Assault Rifle, Protector 9 mm Sub-Machine Gun, CMR-76 6.5 mm Designated Marksman Rifle, ERCO Optics%1%2Gear - new clothes, uniforms, backpacks, headgear, NVGs, and more%1%2Syndikat Faction - a criminal organisation composed of armed thugs and ex-paramilitaries%1%2Gendarmerie Faction - the local Tanoa law enforcement agency%1%2NATO &amp;amp; CSAT Special Forces - operators equipped with modern weaponry, thermal-masking camouflage, new Night Vision Goggles, and other unique gear%1%2NATO &amp;amp; CSAT Pacific Forces - suitably camouflaged assets for the primary armed forces%1%2Props - Tanoa environment decorations and special field equipment%1%2Character Appearances - Tanoan and Chinese%1%2Radio Protocols - French, French-English and Chinese%1%2"Apex Protocol" - a 1-4 player co-op campaign with ties to "The East Wind"%1%2Showcase End Game - become familiar with the End Game mode in a singleplayer scenario%1%2&lt;a href='https://community.bistudio.com/wiki/MP_End_Game'&gt;End Game&lt;/a&gt; Instances - "Moddergat" and "Balavu" variants specifically designed for Tanoa's varied environments%1%2&lt;a href="https://arma3.com/dlc/zeus"&gt;Zeus&lt;/a&gt; - Tanoa Game Master scenarios%1%2Official Sound Track - new tracks to score "Apex Protocol"%1%2Main Menu - a re-imagined take on your main window into the game%1%2Controls Presets - play using the new default "Arma 3 Apex" preset, or stick to the setup you're used to via "Arma 3"%1%2Achievements - a set of extra &lt;a href='http://steamcommunity.com/stats/107410/achievements'&gt;Steam Achievements&lt;/a&gt;%1</Original>
         <Chinese>準備好，你即將被佈署到一處100平方公里的南太平洋群島-塔諾亞，此資料片為您帶來13種新武器與10輛新載具，以及一個可多人合作的劇情戰役，這些內容盡在武裝突襲3頂尖資料片之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2塔諾亞島嶼%1%2載具-V-44X"黑鯨"垂直起降機，Y-32"西安"垂直起降機，"徘徊者"輕型突擊車，"麒麟"輕型突擊車，KH-3A"鳳凰"無人偵察機，MQ-12"獵隼"無人直升機，"凱撒"BTT單引擎飛機，四輪驅動越野車，硬殼充氣快艇，水上摩托車%1%2武器-AKS-74U 5.45公厘突擊步槍，AKM 7.62公厘突擊步槍，AK-12 7.62公厘突擊步槍，RPG-7發射器，PM 9公厘手槍，SPAR-16/S/17突擊步槍，CAR-95 5.8公厘突擊步槍，CAR-95-1 5.8公厘輕型支援武器，LIM-85 5.56公厘輕機槍，115式 6.5公厘/.50口徑突擊步槍，"保護者" 9公厘衝鋒槍，CMR-76 6.5公厘指定精準射手步槍，增強型步槍戰鬥光學瞄準鏡%1%2裝備-新衣服，制服，背包，頭盔，夜視鏡等等%1%2辛迪加陣營-一個由前準軍事人員與罪犯等所組成的犯罪組織%1%2憲兵隊陣營-塔諾亞當地的執法組織%1%2北約&amp;amp;廣協同盟特種部隊-裝備更先進的武器，防熱成像迷彩，新式夜視鏡以及其他的獨特裝備%1%2北約&amp;amp;廣協同盟太平洋部隊-主力部隊裝備著與當地符合的迷彩偽裝%1%2道具-塔諾亞當地的環境物件與專業道具%1%2登場人物-塔諾亞人與中國人%1%2無線電對話-法語，法式英語與中文%1%2"頂尖協議"-接續"東風"戰役的合作戰役，可由1-4人共同遊玩%1%2終戰任務展示-在單人模式中體驗當前最受歡迎的模式-終戰%1%2新的&lt;ahref='https://community.bistudio.com/wiki/MP_End_Game'&gt;終戰&lt;/a&gt;任務-在"莫德爾加"與"巴拉武"兩座城市中體驗我們為塔諾亞設計的終戰模式%1%2&lt;ahref="https://arma3.com/dlc/zeus"&gt;宙斯&lt;/a&gt;-為塔諾亞設計的遊戲管理員模式%1%2官方原聲帶-聆聽為"頂尖協議"新譜寫的曲子%1%2主選單-全新的主選單介面%1%2控制設定-你可以使用我們為"武裝突襲3頂尖"新設計的控制設定配置，抑或繼續使用原來的舊有配置%1%2成就-一組新的&lt;ahref='http://steamcommunity.com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinese>
-        <Chinesesimp>准备好，你即将被布署到一处100平方千米的南太平洋群岛-塔诺亚，此 DLC 为您带来13种新武器与10辆新载具，以及一个可多人合作的剧情战役，这些内容尽在武装突袭3 Apex DLC 之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2塔诺亚岛屿%1%2载具-V-44X"黑鲸"垂直起降机，Y-32"西安"垂直起降机，"徘徊者"轻型突击车，"麒麟"轻型突击车，KH-3A"凤凰"无人侦察机，MQ-12"猎隼"无人直升机，"凯撒"BTT 单引擎飞机，四轮驱动越野车，硬壳充气快艇，水上摩托车%1%2武器-AKS-74U 5.45 mm 突击步枪，AKM 7.62mm 突击步枪，AK-12 7.62mm 突击步枪，RPG-7发射器，PM 9mm 手枪，SPAR-16/S/17突击步枪，CAR-95 5.8mm 突击步枪，CAR-95-1 5.8mm 轻型支援武器，LIM-85 5.56mm 轻机枪，115式 6.5mm /.50口径突击步枪，"保护者" 9mm 冲锋枪，CMR-76 6.5mm 指定精准射手步枪，增强型步枪战斗光学瞄准镜%1%2装备-新衣服，制服，背包，头盔，夜视镜等等%1%2辛迪加阵营-一个由前准军事人员与罪犯等所组成的犯罪组织%1%2宪兵队阵营-塔诺亚当地的执法组织%1%2北约&amp;amp;广协特种部队-装备更先进的武器，防热成像迷彩，新式夜视镜以及其他的独特装备%1%2北约&amp;amp;广协太平洋部队-主力部队装备着与当地符合的迷彩伪装%1%2道具-塔诺亚当地的环境物件与专业道具%1%2登场人物-塔诺亚人与中国人%1%2无线电对话-法语，法式英语与中文%1%2"Apex 协议"-接续"东风"战役的合作战役，可由1-4人共同游玩%1%2终战任务展示-在单人模式中体验当前最受欢迎的模式-终战%1%2新的&lt;ahref='https://community.bistudio.com/wiki/MP_End_Game'&gt;终战&lt;/a&gt;任务-在"莫德尔加"与"巴拉武"两座城市中体验我们为塔诺亚设计的终战模式%1%2&lt;ahref="https://arma3.com/dlc/zeus"&gt;宙斯&lt;/a&gt;-为塔诺亚设计的游戏管理员模式%1%2官方原声带-聆听为"Apex 协议"新谱写的曲子%1%2主菜单-全新的主菜单界面%1%2控制设定-你可以使用我们为"武装突袭3 Apex"新设计的控制设定配置，抑或继续使用原来的旧有配置%1%2成就-一组新的&lt;ahref='http://steamcommunity.com/stats/107410/achievements'&gt;Steam 成就&lt;/a&gt;%1</Chinesesimp>
+        <Chinesesimp>准备好，你即将被布署到一处100平方千米的南太平洋群岛 — 塔诺亚，此 DLC 为您带来13种新武器与10辆新载具，以及一个可多人合作的剧情战役，这些内容尽在武装突袭3 Apex DLC 之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2塔诺亚岛屿%1%2载具-V-44X"黑鲸"垂直起降机，Y-32"西安"垂直起降机，"徘徊者"轻型突击车，"麒麟"轻型突击车，KH-3A"凤凰"无人侦察机，MQ-12"猎隼"无人直升机，"凯撒"BTT 单引擎飞机，四轮驱动越野车，硬壳充气快艇，水上摩托车%1%2武器-AKS-74U 5.45 mm 突击步枪，AKM 7.62mm 突击步枪，AK-12 7.62mm 突击步枪，RPG-7发射器，PM 9mm 手枪，SPAR-16/S/17突击步枪，CAR-95 5.8mm 突击步枪，CAR-95-1 5.8mm 轻型支援武器，LIM-85 5.56mm 轻机枪，115式 6.5mm /.50口径突击步枪，"保护者"9mm 冲锋枪，CMR-76 6.5mm 指定精准射手步枪，增强型步枪战斗光学瞄准镜%1%2装备 — 新衣服，制服，背包，头盔，夜视镜等等%1%2辛迪加阵营 — 一个由前准军事人员与罪犯等所组成的犯罪组织%1%2宪兵队阵营 — 塔诺亚当地的执法组织%1%2北约&amp;amp;广协特种部队 — 装备更先进的武器，防热成像迷彩，新式夜视镜以及其他的独特装备%1%2北约&amp;amp;广协太平洋部队 — 主力部队装备着与当地符合的迷彩伪装%1%2道具 — 塔诺亚当地的环境物件与专业道具%1%2登场人物 — 塔诺亚人与中国人%1%2无线电对话 — 法语，法式英语与中文%1%2"Apex 协议"-接续"东风"战役的合作战役，可由1-4人共同游玩%1%2终战任务展示 — 在单人模式中体验当前最受欢迎的模式 — 终战%1%2新的&lt;ahref='https：//community.bistudio.com/wiki/MP_End_Game'&gt;终战&lt;/a&gt;任务 — 在"莫德尔加"与"巴拉武"两座城市中体验我们为塔诺亚设计的终战模式%1%2&lt;ahref="https：//arma3.com/dlc/zeus"&gt;宙斯&lt;/a&gt;-为塔诺亚设计的游戏管理员模式%1%2官方原声带 — 聆听为"Apex 协议"新谱写的曲子%1%2主菜单 — 全新的主菜单界面%1%2控制设定 — 你可以使用我们为"武装突袭3 Apex"新设计的控制设定配置，抑或继续使用原来的旧有配置%1%2成就 — 一组新的&lt;ahref='http：//steamcommunity.com/stats/107410/achievements'&gt;Steam 成就&lt;/a&gt;%1</Chinesesimp>
       </Key>
     </Container>
     <Container name="Roles">
@@ -5132,7 +5132,7 @@
         <Key ID="STR_A3_RequiredTrait_MedicSpeedMultiplier">
           <Original>Required Trait: Medic Speed Multiplier</Original>
           <Chinese>需要專業:醫護兵速度加乘</Chinese>
-          <Chinesesimp>需要专业:卫生兵速度加成</Chinesesimp>
+          <Chinesesimp>需要专业：卫生兵速度加成</Chinesesimp>
         </Key>
         <Key ID="STR_A3_ForceRespawnDuration">
           <Original>Force Respawn Duration</Original>
@@ -5152,7 +5152,7 @@
         <Key ID="STR_A3_RequiredItems_ConsumeFirstAidKit">
           <Original>Required Items: Consume 'First Aid Kit'</Original>
           <Chinese>需要物品:消耗'急救箱'</Chinese>
-          <Chinesesimp>需要物品:消耗'急救箱'</Chinesesimp>
+          <Chinesesimp>需要物品：消耗'急救箱'</Chinesesimp>
         </Key>
         <Key ID="STR_A3_MedicSpeedMultiplier">
           <Original>Medic Speed Multiplier</Original>
@@ -5380,7 +5380,7 @@
       <Key ID="str_a3_handlerespawnmenuextras_revive4">
         <Original>Revive is %1disabled%2!</Original>
         <Chinese>已%1關閉%2復甦!</Chinese>
-        <Chinesesimp>已%1关闭%2复苏!</Chinesesimp>
+        <Chinesesimp>已%1关闭%2复苏！</Chinesesimp>
       </Key>
       <Key ID="STR_A3_respawn_Waiting">
         <Original>W A I T I N G</Original>
@@ -5395,32 +5395,32 @@
       <Key ID="str_a3_handlerespawnmenuextras_revive3">
         <Original>You need a %1Medikit%2 to revive!</Original>
         <Chinese>你必須使用%1醫療包%2來進行復甦!</Chinese>
-        <Chinesesimp>你必须使用%1医疗包%2来进行复苏!</Chinesesimp>
+        <Chinesesimp>你必须使用%1医疗包%2来进行复苏！</Chinesesimp>
       </Key>
       <Key ID="str_a3_handlerespawnmenuextras_revive2">
         <Original>You need a %1First Aid Kit%2 to revive!</Original>
         <Chinese>你必須使用%1急救箱%2來進行復甦!</Chinese>
-        <Chinesesimp>你必须使用%1急救箱%2来进行复苏!</Chinesesimp>
+        <Chinesesimp>你必须使用%1急救箱%2来进行复苏！</Chinesesimp>
       </Key>
       <Key ID="str_a3_handlerespawnmenuextras_revive1">
         <Original>Revive is %1always%2 available!</Original>
         <Chinese>可%1隨時%2進行復甦!</Chinese>
-        <Chinesesimp>可%1随时%2进行复苏!</Chinesesimp>
+        <Chinesesimp>可%1随时%2进行复苏！</Chinesesimp>
       </Key>
       <Key ID="str_a3_handlerespawnmenuextras_respawn3">
         <Original>Respawn is %1disabled%2!</Original>
         <Chinese>已%1關閉%2重生!</Chinese>
-        <Chinesesimp>已%1关闭%2重生!</Chinesesimp>
+        <Chinesesimp>已%1关闭%2重生！</Chinesesimp>
       </Key>
       <Key ID="str_a3_handlerespawnmenuextras_respawn2">
         <Original>Your respawns are %1limited%2 to %3%4%2!%2</Original>
         <Chinese>你的重生次數還剩下%3%4%2!%2</Chinese>
-        <Chinesesimp>你的重生次数还剩下%3%4%2!%2</Chinesesimp>
+        <Chinesesimp>你的重生次数还剩下%3%4%2！%2</Chinesesimp>
       </Key>
       <Key ID="str_a3_handlerespawnmenuextras_respawn1">
         <Original>You have %1unlimited%2 respawns!</Original>
         <Chinese>你可以%1無限次%2重生!</Chinese>
-        <Chinesesimp>你可以%1无限次%2重生!</Chinesesimp>
+        <Chinesesimp>你可以%1无限次%2重生！</Chinesesimp>
       </Key>
     </Container>
     <Container name="UI">
@@ -5428,42 +5428,42 @@
         <Key ID="str_a3_cfgunitinsignia_ctrg15_ge0">
           <Original>CTRG 15 - GE</Original>
           <Chinese>戰研大隊15-德國</Chinese>
-          <Chinesesimp>第15战研大队-德国</Chinesesimp>
+          <Chinesesimp>第15战研大队 — 德国</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgunitinsignia_ctrg15_ie0">
           <Original>CTRG 15 - IE</Original>
           <Chinese>戰研大隊15-愛爾蘭</Chinese>
-          <Chinesesimp>第15战研大队-爱尔兰</Chinesesimp>
+          <Chinesesimp>第15战研大队 — 爱尔兰</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgunitinsignia_ctrg15_pt0">
           <Original>CTRG 15 - PT</Original>
           <Chinese>戰研大隊15-葡萄牙</Chinese>
-          <Chinesesimp>第15战研大队-葡萄牙</Chinesesimp>
+          <Chinesesimp>第15战研大队 — 葡萄牙</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgunitinsignia_ctrg15_uk0">
           <Original>CTRG 15 - UK</Original>
           <Chinese>戰研大隊15-英國</Chinese>
-          <Chinesesimp>第15战研大队-英国</Chinesesimp>
+          <Chinesesimp>第15战研大队 — 英国</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgunitinsignia_ctrg15_us0">
           <Original>CTRG 15 - US</Original>
           <Chinese>戰研大隊15-美國</Chinese>
-          <Chinesesimp>第15战研大队-美国</Chinesesimp>
+          <Chinesesimp>第15战研大队 — 美国</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgUnitInsignia_CTRG14_NATO0">
           <Original>CTRG 14 - NATO</Original>
           <Chinese>戰研大隊14-北約</Chinese>
-          <Chinesesimp>第14战研大队-北约</Chinesesimp>
+          <Chinesesimp>第14战研大队 — 北约</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgunitinsignia_ctrg15_ca0">
           <Original>CTRG 15 - CA</Original>
           <Chinese>戰研大隊15-加拿大</Chinese>
-          <Chinesesimp>第15战研大队-加拿大</Chinesesimp>
+          <Chinesesimp>第15战研大队 — 加拿大</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgUnitInsignia_CTRG15_NATO0">
           <Original>CTRG 15 - NATO</Original>
           <Chinese>戰研大隊15-北約</Chinese>
-          <Chinesesimp>第15战研大队-北约</Chinesesimp>
+          <Chinesesimp>第15战研大队 — 北约</Chinesesimp>
         </Key>
       </Container>
       <Key ID="STR_A3_ACTION_LOAD_VEHICLE">
@@ -5924,7 +5924,7 @@
         <Key ID="STR_A3_RscDisplayMain_InfoVersion_New_tooltip">
           <Original>Game update released!</Original>
           <Chinese>已發布新的遊戲更新!</Chinese>
-          <Chinesesimp>已发布新的游戏更新!</Chinesesimp>
+          <Chinesesimp>已发布新的游戏更新！</Chinesesimp>
         </Key>
         <Key ID="STR_A3_RscDisplayMain_Spotlight_Open">
           <Original>Open</Original>
@@ -6140,7 +6140,7 @@
         <Key ID="str_a3_rscdisplaykeymapmsgbox_text">
           <Original>The Hold Breath feature is now bound to Left Shift in the Apex preset instead of Right Mouse Button. The Use Default Action feature and the Use Selected Action feature were differentiated in all presets. Would you like to update your preset?</Original>
           <Chinese>暫停呼吸的按鍵，在頂尖預設中已經更改到了左Shift鍵上，取代原本的滑鼠右鍵。預設的按鍵方案與新增的按鍵方案有許多的不同。你要更改你的按鍵方案嗎?</Chinese>
-          <Chinesesimp>暂停呼吸的按键，在 Apex 预设中已经更改到了左 Shift 键上，取代原本的鼠标右键。预设的按键方案与新增的按键方案有许多的不同。你要更改你的按键方案吗?</Chinesesimp>
+          <Chinesesimp>暂停呼吸的按键，在 Apex 预设中已经更改到了左 Shift 键上，取代原本的鼠标右键。预设的按键方案与新增的按键方案有许多的不同。你要更改你的按键方案吗？</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -6201,7 +6201,7 @@
         <Key ID="str_a3_cfgweapons_hgun_pistol_01_f1">
           <Original>Handgun&lt;br /&gt;Caliber: 9x21 mm</Original>
           <Chinese>手槍&lt;br/&gt;口徑:9x21公厘</Chinese>
-          <Chinesesimp>手枪&lt;br/&gt;口径:9x21mm</Chinesesimp>
+          <Chinesesimp>手枪&lt;br/&gt;口径：9x21mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_hgun_pistol_01_f0">
           <Original>PM 9 mm</Original>
@@ -6233,7 +6233,7 @@
         <Key ID="str_a3_cfgweapons_arifle_spar_03_base_f1">
           <Original>Marksman rifle&lt;br /&gt;Caliber: 7.62x51 mm</Original>
           <Chinese>精準射手步槍&lt;br/&gt;口徑:7.62x51公厘</Chinese>
-          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:7.62x51mm</Chinesesimp>
+          <Chinesesimp>精准射手步枪&lt;br/&gt;口径：7.62x51mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_03_base_f_library0">
           <Original>The SPAR-17 designated marksman rifle is in many ways similar to the SPAR-16. The main difference is the chambering to 7.62 mm which also means a longer, thicker barrel and more weight. Thanks to the more powerful ammunition, the SPAR-17 is most suitable for ranges from 600 to 800 meters. The rifle offers a single and full auto mode and is, like the SPAR-16, compatible with a large number of accessories.</Original>
@@ -6273,7 +6273,7 @@
         <Key ID="str_a3_cfgweapons_arifle_spar_02_base_f1">
           <Original>Light Machine Gun&lt;br /&gt;Caliber: 5.56x45 mm</Original>
           <Chinese>輕機槍&lt;br/&gt;口徑:5.56x45mm</Chinese>
-          <Chinesesimp>轻机枪&lt;br/&gt;口径:5.56x45mm</Chinesesimp>
+          <Chinesesimp>轻机枪&lt;br/&gt;口径：5.56x45mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_gl_snd_f0">
           <Original>SPAR-16 GL 5.56 mm (Sand)</Original>
@@ -6318,7 +6318,7 @@
         <Key ID="str_a3_cfgweapons_arifle_spar_01_base_f1">
           <Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
           <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45公厘</Chinese>
-          <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45mm</Chinesesimp>
+          <Chinesesimp>突击步枪&lt;br/&gt;口径：5.56x45mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_base_f_library0">
           <Original>The SPAR-16 is a standard issue assault rifle of CTRG units in Pacific, chambered for 5.56 mm ammunition. The gun is a reliable rifle compatible with a large number of accessories. Multiple variants of this rifle exist, each suitable for a different role. The SPAR-16 GL is equipped with an underslung grenade launcher, the SPAR-16S with its thicker barrel and drum magazine works as a light support weapon.</Original>
@@ -6388,7 +6388,7 @@
         <Key ID="str_a3_cfgweapons_arifle_ctars_base_f1">
           <Original>Light Machine Gun&lt;br /&gt;Caliber: 5.8x42 mm</Original>
           <Chinese>輕機槍&lt;br/&gt;口徑:5.8x42mm</Chinese>
-          <Chinesesimp>轻机枪&lt;br/&gt;口径:5.8x42mm</Chinesesimp>
+          <Chinesesimp>轻机枪&lt;br/&gt;口径：5.8x42mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_blk_f0">
           <Original>CAR-95 5.8 mm (Black)</Original>
@@ -6428,12 +6428,12 @@
         <Key ID="str_a3_cfgweapons_arifle_ctar_base_f1">
           <Original>Assault Rifle&lt;br /&gt;Caliber: 5.8x42 mm</Original>
           <Chinese>突擊步槍&lt;br/&gt;口徑:5.8x42mm</Chinese>
-          <Chinesesimp>突击步枪&lt;br/&gt;口径:5.8x42mm</Chinesesimp>
+          <Chinesesimp>突击步枪&lt;br/&gt;口径：5.8x42mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_base_f_library0">
           <Original>A bullpup style assault rifle used by CSAT Pacific forces. It works as a common platform for different weapon types: a standard rifle, GL variant with attached grenade launcher and a light support version with a longer barrel and drum magazine. The CAR-95 uses polymer materials in its construction and fires 5.8x42 mm small-caliber, high-velocity bullets.</Original>
           <Chinese>這是把被廣協同盟太平洋部隊所使用的無托式突擊步槍。它有者不同的版本:標準版，加掛榴彈發射器的版本，使用圓形彈鼓的輕機槍版本。CAR-95的外殼使用了聚合物當作材料，並使用5.8x42公厘的小口徑，高射速子彈。</Chinese>
-          <Chinesesimp>这是一种被广协太平洋部队所使用的无托式突击步枪。它有多种不同的版本:标准版，加挂榴弹发射器的版本，使用圆形弹鼓的轻机枪版本。CAR-95的外壳使用了聚合物当作材料，并使用5.8x42mm 的小口径，高射速子弹。</Chinesesimp>
+          <Chinesesimp>这是一种被广协太平洋部队所使用的无托式突击步枪。它有多种不同的版本：标准版，加挂榴弹发射器的版本，使用圆形弹鼓的轻机枪版本。CAR-95的外壳使用了聚合物当作材料，并使用5.8x42mm 的小口径，高射速子弹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_blk_f0">
           <Original>Type 115 6.5 mm (Black)</Original>
@@ -6458,7 +6458,7 @@
         <Key ID="str_a3_cfgweapons_arifle_aks_base_f1">
           <Original>Assault Rifle&lt;br /&gt;Caliber: 5.45x39 mm</Original>
           <Chinese>突擊步槍&lt;br/&gt;口徑:5.45x39公厘</Chinese>
-          <Chinesesimp>突击步枪&lt;br/&gt;口径:5.45x39mm</Chinesesimp>
+          <Chinesesimp>突击步枪&lt;br/&gt;口径：5.45x39mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_akm_f0">
           <Original>AKM 7.62 mm</Original>
@@ -6483,22 +6483,22 @@
         <Key ID="str_a3_cfgweapons_arifle_arx_base_f1">
           <Original>Assault Rifle&lt;br /&gt;Caliber: 6.5x39 mm / .50 BW</Original>
           <Chinese>突擊步槍&lt;br/&gt;口徑:6.5x39公厘/.50BW</Chinese>
-          <Chinesesimp>突击步枪&lt;br/&gt;口径:6.5x39mm /.50BW</Chinesesimp>
+          <Chinesesimp>突击步枪&lt;br/&gt;口径：6.5x39mm /.50BW</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_base_f_library0">
           <Original>The Type 115 is a modern multi weapon. It consists of two separate weapons combined into a single unit: a lower semi auto rifle chambered to fire 0.50 caseless rounds and upper automatic/ semi auto rifle chambered in caseless 6.5mm. The gun can be modified by attachments to fulfill various roles in battle. Its versatility turns every soldier into an universal threat against both infantry and armored targets.</Original>
           <Chinese>115式是把現代的多功能武器。它把兩種不同的武器組裝成一把武器:下掛的半自動步槍使用了.50無殼彈，而上層的全自動/半自動步槍則使用了6.5公厘子彈。此把武器可再搭配不同的槍身配件來配合不同的任務。藉由這把武器，戰場上的士兵便能同時打擊步兵與裝甲目標。</Chinese>
-          <Chinesesimp>115式是把现代的多功能武器。它把两种不同的武器组装成一把武器:下挂的半自动步枪使用.50无壳弹，而上层的全自动/半自动步枪则使用6.5 mm 弹。此把武器可再搭配不同的枪身配件来执行不同的任务。藉由这把武器，战场上的士兵便能同时打击步兵与装甲目标。</Chinesesimp>
+          <Chinesesimp>115式是把现代的多功能武器。它把两种不同的武器组装成一把武器：下挂的半自动步枪使用.50无壳弹，而上层的全自动/半自动步枪则使用6.5 mm 弹。此把武器可再搭配不同的枪身配件来执行不同的任务。藉由这把武器，战场上的士兵便能同时打击步兵与装甲目标。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ak12_base_f_library0">
           <Original>The AK-12 is a modern assault rifle designed to replace the legendary AK-74 as general issue for the Russian Army. The weapon introduces many improvements over its predecessors: better recoil control, versions suitable for various ammunition, compatibility with several underslung grenade launchers, accessory rails, or better ergonomics. This particular version is chambered in 7.62x39 mm, so it trades a bit of accuracy for a bigger punch and better penetration.</Original>
           <Chinese>AK-12是由俄羅斯軍方所研製的一把現代突擊步槍，用意是為了取代傳奇的AK-74成為主力裝備。這把武器改進了許多前輩的缺點:改進的後座力反饋，適用不同類型的子彈，兼容不同的下掛式榴彈發射器，戰術導軌及更好的人體工學造型。在此版本中使用了7.62x39公厘的子彈，這種子彈雖然犧牲了些準確度，但卻大大增加了穿甲力與殺傷力。</Chinese>
-          <Chinesesimp>AK-12是由俄罗斯军方所研制的一把现代突击步枪，用意是为了取代传奇的 AK-74成为主力装备。这把武器改进了许多前辈的缺点:改进的后座力反馈，适用不同类型的子弹，兼容不同的下挂式榴弹发射器，战术导轨及更好的人体工学造型。在此版本中使用了7.62x39mm 的子弹，这种子弹虽然牺牲了些准确度，但大大增加了穿甲力与杀伤力。</Chinesesimp>
+          <Chinesesimp>AK-12是由俄罗斯军方所研制的一把现代突击步枪，用意是为了取代传奇的 AK-74成为主力装备。这把武器改进了许多前辈的缺点：改进的后座力反馈，适用不同类型的子弹，兼容不同的下挂式榴弹发射器，战术导轨及更好的人体工学造型。在此版本中使用了7.62x39mm 的子弹，这种子弹虽然牺牲了些准确度，但大大增加了穿甲力与杀伤力。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ak12_base_f1">
           <Original>Assault Rifle&lt;br /&gt;Caliber: 7.62x39 mm</Original>
           <Chinese>突擊步槍&lt;br/&gt;口徑:7.62x39公厘</Chinese>
-          <Chinesesimp>突击步枪&lt;br/&gt;口径:7.62x39mm</Chinesesimp>
+          <Chinesesimp>突击步枪&lt;br/&gt;口径：7.62x39mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ak12_base_f0">
           <Original>AK-12 7.62 mm</Original>
@@ -6570,7 +6570,7 @@
         <Key ID="str_a3_cfgweapons_optic_erco_blk_f1">
           <Original>Enhanced Rifle Combat Optics&lt;br /&gt;Magnification: 2x</Original>
           <Chinese>增強型步槍戰鬥光學瞄準鏡&lt;br/&gt;倍率:2x</Chinese>
-          <Chinesesimp>增强型步枪战斗光学瞄准镜&lt;br/&gt;倍率:2x</Chinesesimp>
+          <Chinesesimp>增强型步枪战斗光学瞄准镜&lt;br/&gt;倍率：2x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_erco_blk_f0">
           <Original>ERCO (Black)</Original>
@@ -6717,7 +6717,7 @@
         <Key ID="str_a3_cfgweapons_dmr_07_base_f1">
           <Original>Marksman Rifle&lt;br /&gt;Caliber: 6.5x39 mm</Original>
           <Chinese>精準射手步槍&lt;br/&gt;口徑:6.5x39公厘</Chinese>
-          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:6.5x39mm</Chinesesimp>
+          <Chinesesimp>精准射手步枪&lt;br/&gt;口径：6.5x39mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_07_base_f0">
           <Original>CMR-76 6.5 mm</Original>
@@ -6776,7 +6776,7 @@
         <Key ID="str_a3_cfgweapons_lmg_03_base_f1">
           <Original>Light Machine Gun&lt;br /&gt;Caliber: 5.56x45 mm</Original>
           <Chinese>輕機槍&lt;br/&gt;口徑:5.56x45公厘</Chinese>
-          <Chinesesimp>轻机枪&lt;br/&gt;口径:5.56x45mm</Chinesesimp>
+          <Chinesesimp>轻机枪&lt;br/&gt;口径：5.56x45mm</Chinesesimp>
         </Key>
       </Container>
       <Container name="SMGs">
@@ -6788,7 +6788,7 @@
         <Key ID="str_a3_cfgweapons_smg_05_base_f1">
           <Original>Submachine Gun&lt;br /&gt;Caliber: 9x21 mm</Original>
           <Chinese>衝鋒槍&lt;br/&gt;口徑:9x21公厘</Chinese>
-          <Chinesesimp>冲锋枪&lt;br/&gt;口径:9x21mm</Chinesesimp>
+          <Chinesesimp>冲锋枪&lt;br/&gt;口径：9x21mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_smg_05_base_f0">
           <Original>Protector 9 mm</Original>
@@ -6800,7 +6800,7 @@
         <Key ID="str_a3_cfgmagazines_rpg7_f1">
           <Original>Type: Anti-Tank Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: RPG-7</Original>
           <Chinese>類型:反坦克榴彈&lt;br/&gt;發數:1&lt;br/&gt;使用於:RPG-7</Chinese>
-          <Chinesesimp>类型:反坦克榴弹&lt;br/&gt;发数:1&lt;br/&gt;使用于:RPG-7</Chinesesimp>
+          <Chinesesimp>类型：反坦克榴弹&lt;br/&gt;发数：1&lt;br/&gt;使用于：RPG-7</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_rpg7_f0">
           <Original>PG-7VM HEAT Grenade</Original>
@@ -6825,7 +6825,7 @@
         <Key ID="str_a3_cfgmagazines_500rnd_65x39_belt1">
           <Original>Caliber: 6.5x39 mm&lt;br /&gt;Rounds: 500&lt;br /&gt;Used in: Vehicles</Original>
           <Chinese>口徑:6.5x39公厘&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
-          <Chinesesimp>口径:6.5x39mm &lt;br/&gt;发数:500&lt;br/&gt;使用于:载具</Chinesesimp>
+          <Chinesesimp>口径：6.5x39mm &lt;br/&gt;发数：500&lt;br/&gt;使用于：载具</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_500rnd_65x39_belt0">
           <Original>6.5 mm 500Rnd Belt Case</Original>
@@ -6855,7 +6855,7 @@
         <Key ID="str_a3_cfgmagazines_30rnd_762x39_mag_f1">
           <Original>Caliber: 7.62x39 mm&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: AK-12, AK-12 GL, AKM</Original>
           <Chinese>口徑:7.62x39公厘&lt;br/&gt;發數:30&lt;br/&gt;使用於:AK-12，AK-12 GL，AKM</Chinese>
-          <Chinesesimp>口径:7.62x39mm &lt;br/&gt;发数:30&lt;br/&gt;使用于:AK-12，AK-12 GL，AKM</Chinesesimp>
+          <Chinesesimp>口径：7.62x39mm &lt;br/&gt;发数：30&lt;br/&gt;使用于：AK-12，AK-12 GL，AKM</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_762x39_mag_f0">
           <Original>7.62 mm 30Rnd Reload Tracer (Yellow) Mag</Original>
@@ -6870,7 +6870,7 @@
         <Key ID="str_a3_cfgmagazines_30rnd_580x42_mag_f1">
           <Original>Caliber: 5.8x42 mm&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: CAR-95, CAR-95 GL</Original>
           <Chinese>口徑:5.8x42公厘&lt;br/&gt;發數:30&lt;br/&gt;使用於:CAR-95，CAR-95 GL</Chinese>
-          <Chinesesimp>口径:5.8x42mm &lt;br/&gt;发数:30&lt;br/&gt;使用于:CAR-95，CAR-95 GL</Chinesesimp>
+          <Chinesesimp>口径：5.8x42mm &lt;br/&gt;发数：30&lt;br/&gt;使用于：CAR-95，CAR-95 GL</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_580x42_mag_f0">
           <Original>5.8 mm 30Rnd Mag</Original>
@@ -6895,7 +6895,7 @@
         <Key ID="str_a3_cfgmagazines_30rnd_545x39_mag_f1">
           <Original>Caliber: 5.45x39 mm&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: AKS-74U</Original>
           <Chinese>口徑:5.45x39公厘&lt;br/&gt;發數:30&lt;br/&gt;使用於:AKS-74U</Chinese>
-          <Chinesesimp>口径:5.45x39mm &lt;br/&gt;发数:30&lt;br/&gt;使用于:AKS-74U</Chinesesimp>
+          <Chinesesimp>口径：5.45x39mm &lt;br/&gt;发数：30&lt;br/&gt;使用于：AKS-74U</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_545x39_mag_f0">
           <Original>5.45 mm 30Rnd Reload Tracer (Yellow) Mag</Original>
@@ -6905,7 +6905,7 @@
         <Key ID="str_a3_cfgmagazines_20rnd_650x39_cased_mag_f1">
           <Original>Caliber: 6.5x39 mm&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: CMR-76</Original>
           <Chinese>口徑:6.5x39公厘&lt;br/&gt;發數:20&lt;br/&gt;使用於:CMR-76</Chinese>
-          <Chinesesimp>口径:6.5x39mm lt;br/&gt;发数:20&lt;br/&gt;使用于:CMR-76</Chinesesimp>
+          <Chinesesimp>口径：6.5x39mm lt;br/&gt;发数：20&lt;br/&gt;使用于：CMR-76</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_20rnd_650x39_cased_mag_f0">
           <Original>6.5 mm 20Rnd Mag</Original>
@@ -6930,7 +6930,7 @@
         <Key ID="str_a3_cfgmagazines_200rnd_556x45_box_f1">
           <Original>Caliber: 5.56x45 mm&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: LIM-85</Original>
           <Chinese>口徑:5.56x45公厘&lt;br/&gt;發數:200&lt;br/&gt;使用於:LIM-85</Chinese>
-          <Chinesesimp>口径:5.56x45mm &lt;br/&gt;发数:200&lt;br/&gt;使用于:LIM-85</Chinesesimp>
+          <Chinesesimp>口径：5.56x45mm &lt;br/&gt;发数：200&lt;br/&gt;使用于：LIM-85</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_200rnd_556x45_box_f0">
           <Original>5.56 mm 200Rnd Reload Tracer (Yellow) Box</Original>
@@ -6945,7 +6945,7 @@
         <Key ID="str_a3_cfgmagazines_150rnd_556x45_drum_mag_f1">
           <Original>Caliber: 5.56x45 mm&lt;br /&gt;Rounds: 150&lt;br /&gt;Used in: SPAR-16S</Original>
           <Chinese>口徑:5.56x45公厘&lt;br/&gt;發數:150&lt;br/&gt;使用於:SPAR-16S</Chinese>
-          <Chinesesimp>口径:5.56x45mm &lt;br/&gt;发数:150&lt;br/&gt;使用于:SPAR-16S</Chinesesimp>
+          <Chinesesimp>口径：5.56x45mm &lt;br/&gt;发数：150&lt;br/&gt;使用于：SPAR-16S</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_150rnd_556x45_drum_mag_f0">
           <Original>5.56 mm 150Rnd Mag</Original>
@@ -6955,7 +6955,7 @@
         <Key ID="str_a3_cfgmagazines_10rnd_9x21_mag1">
           <Original>Caliber: 9x21 mm&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: PM</Original>
           <Chinese>口徑:9x21公厘&lt;br/&gt;發數:10&lt;br/&gt;使用於:PM</Chinese>
-          <Chinesesimp>口径:9x21mm &lt;br/&gt;发数:10&lt;br/&gt;使用于:PM</Chinesesimp>
+          <Chinesesimp>口径：9x21mm &lt;br/&gt;发数：10&lt;br/&gt;使用于：PM</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_9x21_mag0">
           <Original>9 mm 10Rnd Mag</Original>
@@ -6965,7 +6965,7 @@
         <Key ID="str_a3_cfgmagazines_10rnd_50bw_mag_f1">
           <Original>Caliber: .50 BW - Caseless&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: Type 115</Original>
           <Chinese>口徑:.50BW-無殼彈&lt;br/&gt;發數:10&lt;br/&gt;使用於:115式</Chinese>
-          <Chinesesimp>口径:.50BW-无壳弹&lt;br/&gt;发数:10&lt;br/&gt;使用于:115式</Chinesesimp>
+          <Chinesesimp>口径：.50BW-无壳弹&lt;br/&gt;发数：10&lt;br/&gt;使用于：115式</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_50bw_mag_f0">
           <Original>.50 BW 10Rnd Caseless Mag</Original>
@@ -6980,7 +6980,7 @@
         <Key ID="str_a3_cfgmagazines_100rnd_580x42_mag_f1">
           <Original>Caliber: 5.8x42 mm&lt;br /&gt;Rounds: 100&lt;br /&gt;Used in: CAR-95-1</Original>
           <Chinese>口徑:5.8x42公厘&lt;br/&gt;發數:100&lt;br/&gt;使用於:CAR-95-1</Chinese>
-          <Chinesesimp>口径:5.8x42mm &lt;br/&gt;发数:100&lt;br/&gt;使用于:CAR-95-1</Chinesesimp>
+          <Chinesesimp>口径：5.8x42mm &lt;br/&gt;发数：100&lt;br/&gt;使用于：CAR-95-1</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_100rnd_580x42_mag_f0">
           <Original>5.8 mm 100Rnd Mag</Original>
@@ -7217,7 +7217,7 @@
       <Key ID="str_a3_ravitaisland010">
         <Original>Ravi-ta Island</Original>
         <Chinese>拉維-塔島</Chinese>
-        <Chinesesimp>拉维-塔岛</Chinesesimp>
+        <Chinesesimp>拉维 — 塔岛</Chinesesimp>
       </Key>
       <Key ID="str_a3_rautake010">
         <Original>Rautake</Original>
@@ -7805,7 +7805,7 @@
       <Key ID="STR_A3_CfgMusic_AmbientTrack01a_F_Exp">
         <Original>Through The Jungle - Part 1</Original>
         <Chinese>穿過叢林-第一部</Chinese>
-        <Chinesesimp>穿过丛林-第一部</Chinesesimp>
+        <Chinesesimp>穿过丛林 — 第一部</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack01a_F_Exp">
         <Original>This Is War (Apex Remix) - Part 1</Original>
@@ -7835,7 +7835,7 @@
       <Key ID="STR_A3_CfgMusic_AmbientTrack01b_F_Exp">
         <Original>Through The Jungle - Part 2</Original>
         <Chinese>穿過叢林-第二部</Chinese>
-        <Chinesesimp>穿过丛林-第二部</Chinesesimp>
+        <Chinesesimp>穿过丛林 — 第二部</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack01_F_Exp">
         <Original>Through The Jungle</Original>
@@ -7845,22 +7845,22 @@
       <Key ID="STR_A3_CfgMusic_AmbientTrack02a_F_Exp">
         <Original>Welcome To Tanoa - Part 1</Original>
         <Chinese>歡迎來到塔諾亞-第一部</Chinese>
-        <Chinesesimp>欢迎来到塔诺亚-第一部</Chinesesimp>
+        <Chinesesimp>欢迎来到塔诺亚 — 第一部</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02b_F_Exp">
         <Original>Welcome To Tanoa - Part 2</Original>
         <Chinese>歡迎來到塔諾亞-第二部</Chinese>
-        <Chinesesimp>欢迎来到塔诺亚-第二部</Chinesesimp>
+        <Chinesesimp>欢迎来到塔诺亚 — 第二部</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02c_F_Exp">
         <Original>Welcome To Tanoa - Part 3</Original>
         <Chinese>歡迎來到塔諾亞-第三部</Chinese>
-        <Chinesesimp>欢迎来到塔诺亚-第三部</Chinesesimp>
+        <Chinesesimp>欢迎来到塔诺亚 — 第三部</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02d_F_Exp">
         <Original>Welcome To Tanoa - Part 4</Original>
         <Chinese>歡迎來到塔諾亞-第四部</Chinese>
-        <Chinesesimp>欢迎来到塔诺亚-第四部</Chinesesimp>
+        <Chinesesimp>欢迎来到塔诺亚 — 第四部</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02_F_Exp">
         <Original>Welcome To Tanoa</Original>
@@ -7870,7 +7870,7 @@
       <Key ID="STR_A3_CfgMusic_LeadTrack04_F_Exp">
         <Original>This Is War (Apex Remix - Alternative 1)</Original>
         <Chinese>這是戰爭(頂尖混音版-另類1)</Chinese>
-        <Chinesesimp>这就是战争（Apex 混音版-另类1）</Chinesesimp>
+        <Chinesesimp>这就是战争（Apex 混音版 — 另类1）</Chinesesimp>
       </Key>
     </Container>
   </Package>

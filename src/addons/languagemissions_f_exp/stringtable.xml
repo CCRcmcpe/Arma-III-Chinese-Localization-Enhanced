@@ -6,8 +6,8 @@
         <Container name="EXP_m05_sp">
           <Key ID="str_a3_exp_m05_sp_signal">
             <Original>%2Raider 1%1 - Lead element.&lt;br/&gt;%2Raider 2%1 - Supporting team.&lt;br/&gt;%3Keystone%1 - Group 14 Operative.&lt;br/&gt;&lt;br/&gt;Watchtower - CTRG Headquarters.&lt;br/&gt;Kingfish 1 - Boat Extraction.&lt;br/&gt;Angel 1-3 - Supporting helicopter.</Original>
-            <Chinese>%2"突襲者1"%1-領導小隊。&lt;br/&gt;%2"突襲者2"%1-支援小隊。&lt;br/&gt;%3"拱心石"%1-14分隊隊長。&lt;br/&gt;&lt;br/&gt;"守望塔"-戰研小組指揮部。&lt;br/&gt;"王魚1"-撤離船。&lt;br/&gt;"天使1-3"-支援直升機。</Chinese>
-            <Chinesesimp>%2"突袭者1"%1-指挥分队。&lt;br/&gt;%2"突袭者2"%1-支援小组。&lt;br/&gt;%3"拱心石"%1-第14大队干员。&lt;br/&gt;&lt;br/&gt;"守望塔"-战研大队指挥部。&lt;br/&gt;"王鱼1"-撤离船。&lt;br/&gt;"天使1-3"-支援直升机。</Chinesesimp>
+            <Chinese>%2"突襲者1"%1-領導小隊。&lt;br/&gt;%2"突襲者2"%1-支援小隊。&lt;br/&gt;%3"基石"%1-14分隊隊長。&lt;br/&gt;&lt;br/&gt;"守望塔"-戰研小組指揮部。&lt;br/&gt;"王魚1"-撤離船。&lt;br/&gt;"天使1-3"-支援直升機。</Chinese>
+            <Chinesesimp>%2"突袭者1"%1-指挥分队。&lt;br/&gt;%2"突袭者2"%1-支援小组。&lt;br/&gt;%3"基石"%1-第14大队干员。&lt;br/&gt;&lt;br/&gt;"守望塔"-战研大队指挥部。&lt;br/&gt;"王鱼1"-撤离船。&lt;br/&gt;"天使1-3"-支援直升机。</Chinesesimp>
           </Key>
           <Container name="y25_boats" audioFilePath="\a3\dubbing_f_exp\exp_m05_sp" dialogName="y25_boats" dubbingLanguage="english" namePrefix="exp_m05_sp_y25_boats" note="" participants="EXC B Grimm;EXC B Watchtower;" situation="player's team exfiltrated.">
             <Key ID="str_a3_exp_m05_sp_y25_boats_grm_0">
@@ -48,8 +48,8 @@
           </Key>
           <Key ID="str_a3_exp_m05_sp_execution">
             <Original>1. Extract %2Keystone%1.</Original>
-            <Chinese>1. 撤離%2"拱心石"%1。</Chinese>
-            <Chinesesimp>1. 撤离%2"拱心石"%1。</Chinesesimp>
+            <Chinese>1. 撤離%2"基石"%1。</Chinese>
+            <Chinesesimp>1. 撤离%2"基石"%1。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m05_sp_debriefing">
             <Original>Despite multiple problems with extraction, you were able to escape from the island in a boat.</Original>
@@ -60,7 +60,7 @@
             <Key ID="str_a3_exp_m05_sp_y2_grimmcovering_grm_0">
               <Original>You're covered, move! I'll follow!</Original>
               <Chinese>我掩護你了，快走!我會跟上!</Chinese>
-              <Chinesesimp>我掩护你了，快走!我会跟上!</Chinesesimp>
+              <Chinesesimp>我掩护你了，快走！我会跟上！</Chinesesimp>
             </Key>
           </Container>
           <Container name="y1_warning" audioFilePath="\a3\dubbing_f_exp\exp_m05_sp" dialogName="y1_warning" dubbingLanguage="english" namePrefix="exp_m05_sp_y1_warning" note="" participants="EXC B Knox;" situation="player at lz, syndikat interdict raider teams.">
@@ -74,7 +74,7 @@
             <Key ID="str_a3_exp_m05_sp_y19_splash_grm_0">
               <Original>Roger, Watchtower, we can improvise - out.</Original>
               <Chinese>了解，"守望塔"，我們可以做到的-通話完畢。</Chinese>
-              <Chinesesimp>了解，"守望塔"，我们可以做到的-通话完毕。</Chinesesimp>
+              <Chinesesimp>了解，"守望塔"，我们可以做到的 — 通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_sp_y19_splash_wat_0">
               <Original>Sergeant Grimm, this is Watchtower.</Original>
@@ -116,39 +116,39 @@
             <Key ID="str_a3_exp_m05_sp_y17_strike_rik_0">
               <Original>Grimm, you catch that?</Original>
               <Chinese>格里姆，你有聽到嗎?</Chinese>
-              <Chinesesimp>格里姆，你有听到吗?</Chinesesimp>
+              <Chinesesimp>格里姆，你有听到吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_sp_y17_strike_rik_1">
               <Original>Better clear out, artillery's inbound - you're the new actual. Command's working on a gameplan; update in five.</Original>
               <Chinese>你最好趕快閃了，火炮即將抵達-我命你為新隊長。負責指揮剩下的人員;祝好運。</Chinese>
-              <Chinesesimp>你最好赶快撤，火炮即将抵达-我命你为新队长。负责指挥剩下的人员;祝好运。</Chinesesimp>
+              <Chinesesimp>你最好赶快撤，火炮即将抵达 — 我命你为新队长。负责指挥剩下的人员;祝好运。</Chinesesimp>
             </Key>
           </Container>
           <Container name="y10_moveBack" audioFilePath="\a3\dubbing_f_exp\exp_m05_sp" dialogName="y10_moveBack" dubbingLanguage="english" namePrefix="exp_m05_sp_y10_moveback" note="" participants="EXC B Riker;EXC B Knox;EXC B Watchtower;" situation="helicopter leaves without all on board.">
             <Key ID="str_a3_exp_m05_sp_y10_moveback_knx_0">
               <Original>Jesus Christ!</Original>
               <Chinese>天殺的!</Chinese>
-              <Chinesesimp>天杀的!</Chinesesimp>
+              <Chinesesimp>天杀的！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_sp_y10_moveback_rik_0">
               <Original>Keystone and majority Raider elements RTB on Angel, minus figures three, I say again, we are minus figures three!</Original>
-              <Chinese>"拱心石"與大多數的突襲者成員皆已搭上天使開始返回中，尚有人員未登機，我重複一遍，我們尚有人員未登機!</Chinese>
-              <Chinesesimp>"拱心石"与大多数的突袭者成员皆已搭上天使开始返回中，尚有人员未登机，我重复一遍，我们尚有人员未登机!</Chinesesimp>
+              <Chinese>"基石"與大多數的突襲者成員皆已搭上天使開始返回中，尚有人員未登機，我重複一遍，我們尚有人員未登機!</Chinese>
+              <Chinesesimp>"基石"与大多数的突袭者成员皆已搭上天使开始返回中，尚有人员未登机，我重复一遍，我们尚有人员未登机！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_sp_y10_moveback_rik_1">
               <Original>Requesting permission to put down and re-engage, how copy? Over.</Original>
               <Chinese>請求允許讓我們重新著陸並交戰，有收到嗎?完畢。</Chinese>
-              <Chinesesimp>请求允许让我们重新着陆并交战，有收到吗?完毕。</Chinesesimp>
+              <Chinesesimp>请求允许让我们重新着陆并交战，有收到吗？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_sp_y10_moveback_wat_0">
               <Original>Raider 1, what's your status?</Original>
               <Chinese>"突襲者1"，回報你們的狀況?</Chinese>
-              <Chinesesimp>"突袭者1"，回报你们的状况?</Chinesesimp>
+              <Chinesesimp>"突袭者1"，回报你们的状况？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_sp_y10_moveback_wat_1">
               <Original>Copy, Raider 1. Negative. Primary task has precedence. Allocate TACON - we'll send ordnance to on-call target. ETA one mike.</Original>
               <Chinese>收到，"突襲者1"。否定請求。請繼續遵循主要目標。分配戰術資源中-我們會送幾發彈藥到請求的地點上。預計1分鐘後抵達。</Chinese>
-              <Chinesesimp>收到，"突袭者1"。否定请求。请继续遵循主要目标。分配战术资源中-我们会送几发弹药到请求的地点上。预计1分钟后抵达。</Chinesesimp>
+              <Chinesesimp>收到，"突袭者1"。否定请求。请继续遵循主要目标。分配战术资源中 — 我们会送几发弹药到请求的地点上。预计1分钟后抵达。</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -242,7 +242,7 @@
             <Key ID="str_a3_exp_m04_sp_pre05_blocking_rik_0">
               <Original>Received - connecting feed now... okay, visual, 5 by 5, wait out.</Original>
               <Chinese>收到-正在建立起實況...好，看到畫面了，訊號清晰，暫時通話完畢。</Chinese>
-              <Chinesesimp>收到-正在建立起实况...好，看到画面了，信号清晰，暂时通话完毕。</Chinesesimp>
+              <Chinesesimp>收到 — 正在建立起实况...好，看到画面了，信号清晰，暂时通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="pre04_allDead" audioFilePath="\a3\dubbing_f_exp\exp_m04_sp" dialogName="pre04_allDead" dubbingLanguage="english" namePrefix="exp_m04_sp_pre04_alldead" note="" participants="EXC B Riker;" situation="all enemies are dead.">
@@ -256,19 +256,19 @@
             <Key ID="str_a3_exp_m04_sp_pre03_fire_rik_0">
               <Original>Execute - go!</Original>
               <Chinese>預備-開火!</Chinese>
-              <Chinesesimp>预备-开火!</Chinesesimp>
+              <Chinesesimp>预备 — 开火！</Chinesesimp>
             </Key>
           </Container>
           <Container name="pre02_Spooked" audioFilePath="\a3\dubbing_f_exp\exp_m04_sp" dialogName="pre02_Spooked" dubbingLanguage="english" namePrefix="exp_m04_sp_pre02_spooked" note="" participants="EXC B Riker;EXC B Grimm;" situation="the noise from raider 2's helicopter alerts syndikat sentries.">
             <Key ID="str_a3_exp_m04_sp_pre02_spooked_grm_0">
               <Original>You hear that?</Original>
               <Chinese>你們聽到了嗎?</Chinese>
-              <Chinesesimp>你们听到了吗?</Chinesesimp>
+              <Chinesesimp>你们听到了吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_sp_pre02_spooked_grm_1">
               <Original>Damn it. They don't seem spooked...?</Original>
               <Chinese>該死。敵人似乎沒有注意到...?</Chinese>
-              <Chinesesimp>该死。敌人似乎没有注意到...?</Chinesesimp>
+              <Chinesesimp>该死。敌人似乎没有注意到...？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_sp_pre02_spooked_rik_0">
               <Original>It's Raider 2's little bird.</Original>
@@ -307,24 +307,24 @@
             <Key ID="str_a3_exp_m04_sp_43_attruck_rik_1">
               <Original>Everyone in!</Original>
               <Chinese>大家都進來!</Chinese>
-              <Chinesesimp>大家都进来!</Chinesesimp>
+              <Chinesesimp>大家都进来！</Chinesesimp>
             </Key>
           </Container>
           <Container name="41_R2Found" audioFilePath="\a3\dubbing_f_exp\exp_m04_sp" dialogName="41_R2Found" dubbingLanguage="english" namePrefix="exp_m04_sp_41_r2found" note="" participants="EXC B Knox;EXC B Grimm;" situation="grimm found raider 2.">
             <Key ID="str_a3_exp_m04_sp_41_r2found_grm_0">
               <Original>I got cutoff. Riker and the others - they're heading to the secondary exfil point</Original>
               <Chinese>我被迫與他們分開了。瑞克與其他人-他們正在前往第二撤離點</Chinese>
-              <Chinesesimp>我被迫与他们分开了。瑞克与其他人-他们正在前往第二撤离点</Chinesesimp>
+              <Chinesesimp>我被迫与他们分开了。瑞克与其他人 — 他们正在前往第二撤离点</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_sp_41_r2found_knx_0">
               <Original>Grimm, what the hell? You're on your own?</Original>
               <Chinese>格里姆，搞啥阿?怎麼只有你一個人?</Chinese>
-              <Chinesesimp>格里姆，搞啥啊?怎么只有你一个人?</Chinesesimp>
+              <Chinesesimp>格里姆，搞啥啊？怎么只有你一个人？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_sp_41_r2found_knx_1">
               <Original>Amateur hour's over then, huh? No problem - just, uh, you know - try and keep the pace, we ain't stoppin'.</Original>
               <Chinese>真驚險的一段時間，不是嗎?沒問題的-不過，恩，你知道的-趕快跟上我們的腳步，我們不會停下來休息。</Chinese>
-              <Chinesesimp>别再搞的那么难看了，成吗?没问题的-不过，嗯，你知道的-赶快跟紧，我们不会停下来休息。</Chinesesimp>
+              <Chinesesimp>别再搞的那么难看了，成吗？没问题的 — 不过，嗯，你知道的 — 赶快跟紧，我们不会停下来休息。</Chinesesimp>
             </Key>
           </Container>
           <Container name="39_Report_3" audioFilePath="\a3\dubbing_f_exp\exp_m04_sp" dialogName="39_Report_3" dubbingLanguage="english" namePrefix="exp_m04_sp_39_report_3" note="" participants="EXC B Knox;EXC B Grimm;" situation="grimm is close to raider 2's position.">
@@ -348,12 +348,12 @@
             <Key ID="str_a3_exp_m04_sp_37_report_1_grm_1">
               <Original>I see a lot of dead - but no sign of Raider 2. Can only guess they're following the contigency plan, over.</Original>
               <Chinese>我這邊見到了許多屍體-但沒有找到"突襲者2"。只能猜他們還在執行備用方案，完畢。</Chinese>
-              <Chinesesimp>我这边见到了许多尸体-但没有找到"突袭者2"。只能猜他们还在执行备用方案，完毕。</Chinesesimp>
+              <Chinesesimp>我这边见到了许多尸体 — 但没有找到"突袭者2"。只能猜他们还在执行备用方案，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_sp_37_report_1_grm_2">
               <Original>Riker!</Original>
               <Chinese>瑞克!</Chinese>
-              <Chinesesimp>瑞克!</Chinesesimp>
+              <Chinesesimp>瑞克！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_sp_37_report_1_rik_0">
               <Original>Acknowledged. Salvo's secured transportation, make -</Original>
@@ -363,24 +363,24 @@
             <Key ID="str_a3_exp_m04_sp_37_report_1_rik_1">
               <Original>Grimm, Syndikat - do not attempt to reach us here - you're behind their vector of attack.</Original>
               <Chinese>格里姆，這裡有辛迪加-不要嘗試來我們這邊-你正在他們的火線之後。</Chinese>
-              <Chinesesimp>格里姆，这里有辛迪加-不要尝试来我们这边-你正在他们的火线之后。</Chinesesimp>
+              <Chinesesimp>格里姆，这里有辛迪加 — 不要尝试来我们这边 — 你正在他们的火线之后。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_sp_37_report_1_rik_2">
               <Original>Proceed to the extraction on foot, use the jungle - we'll RV on the other side. Expedite!</Original>
               <Chinese>請步行前往撤離點，使用叢林當掩護-我們會前往另一個撤離點。加緊腳步!</Chinese>
-              <Chinesesimp>请步行前往撤离点，使用丛林当掩护-我们会前往另一个撤离点。加紧脚步!</Chinesesimp>
+              <Chinesesimp>请步行前往撤离点，使用丛林当掩护 — 我们会前往另一个撤离点。加紧脚步！</Chinesesimp>
             </Key>
           </Container>
           <Container name="33_r2response" audioFilePath="\a3\dubbing_f_exp\exp_m04_sp" dialogName="33_r2response" dubbingLanguage="english" namePrefix="exp_m04_sp_33_r2response" note="" participants="EXC B Knox;EXC B Grimm;" situation="raider 2 leader responds.">
             <Key ID="str_a3_exp_m04_sp_33_r2response_grm_0">
               <Original>Got it. Hang tough - I'm en route, out.</Original>
               <Chinese>收到。在那邊等我-我正在路上了，通話完畢。</Chinese>
-              <Chinesesimp>收到。在那边等我-我正在路上了，通话完毕。</Chinesesimp>
+              <Chinesesimp>收到。在那边等我 — 我正在路上了，通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_sp_33_r2response_knx_0">
               <Original>Fuck me dead. That you, Grimm?</Original>
               <Chinese>嚇死寶寶了。是你嗎，格里姆?</Chinese>
-              <Chinesesimp>吓死宝宝了。是你吗，格里姆?</Chinesesimp>
+              <Chinesesimp>吓死宝宝了。是你吗，格里姆？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_sp_33_r2response_knx_1">
               <Original>Enemy chewed up our comms, we're, uh, just a sec...</Original>
@@ -390,7 +390,7 @@
             <Key ID="str_a3_exp_m04_sp_33_r2response_knx_2">
               <Original>Namuvaka... you're sure?</Original>
               <Chinese>那慕瓦卡...你確定嗎?</Chinese>
-              <Chinesesimp>那慕瓦卡...你确定吗?</Chinesesimp>
+              <Chinesesimp>那慕瓦卡...你确定吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_sp_33_r2response_knx_3">
               <Original>North of Namuvaka. Grid 027-058, moving on 059.</Original>
@@ -402,12 +402,12 @@
             <Key ID="str_a3_exp_m04_sp_32_callingraider2_grm_0">
               <Original>Raider 2, do you read me? Over.</Original>
               <Chinese>"突襲者2"，你們有聽到我嗎?完畢。</Chinese>
-              <Chinesesimp>"突袭者2"，你们有听到我吗?完毕。</Chinesesimp>
+              <Chinesesimp>"突袭者2"，你们有听到我吗？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_sp_32_callingraider2_grm_1">
               <Original>Raider 2, Raider 1-3, Knox, what's your position? Over.</Original>
               <Chinese>"突襲者2"，這裡是"突襲者1"-3，諾克斯，你們在哪?完畢。</Chinese>
-              <Chinesesimp>"突袭者2"，这里是"突袭者1"-3，诺克斯，你们在哪?完毕。</Chinesesimp>
+              <Chinesesimp>"突袭者2"，这里是"突袭者1"-3，诺克斯，你们在哪？完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="31_FindRaider2" audioFilePath="\a3\dubbing_f_exp\exp_m04_sp" dialogName="31_FindRaider2" dubbingLanguage="english" namePrefix="exp_m04_sp_31_findraider2" note="" participants="EXC B Riker;EXC B Grimm;" situation="new tasking for player.">
@@ -424,7 +424,7 @@
             <Key ID="str_a3_exp_m04_sp_31_findraider2_rik_1">
               <Original>Raider 1 to Raider 2 - report in, over...?</Original>
               <Chinese>"突襲者1"呼叫"突襲者2"-回答，完畢...?</Chinese>
-              <Chinesesimp>"突袭者1"呼叫"突袭者2"-回答，完毕...?</Chinesesimp>
+              <Chinesesimp>"突袭者1"呼叫"突袭者2"-回答，完毕...？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_sp_31_findraider2_rik_2">
               <Original>I'll hold here, patch up Truck. If they're alive, they might try and make a pass.</Original>
@@ -451,35 +451,35 @@
             <Key ID="str_a3_exp_m04_sp_14_recovered_rik_0">
               <Original>Salvo, check on Truck - Grimm - we clear?</Original>
               <Chinese>薩爾沃，去檢查下"卡車"-格里姆-我們安全了嗎?</Chinese>
-              <Chinesesimp>萨尔沃，去检查下"卡车"-格里姆-我们安全了吗?</Chinesesimp>
+              <Chinesesimp>萨尔沃，去检查下"卡车"-格里姆 — 我们安全了吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="13_LSVs" audioFilePath="\a3\dubbing_f_exp\exp_m04_sp" dialogName="13_LSVs" dubbingLanguage="english" namePrefix="exp_m04_sp_13_lsvs" note="" participants="EXC B Riker;" situation="riker spots csat lsvs on the road.">
             <Key ID="str_a3_exp_m04_sp_13_lsvs_rik_0">
               <Original>On the road! LSVs!</Original>
               <Chinese>注意道路!有輕型突擊車!</Chinese>
-              <Chinesesimp>注意道路!有轻型突击车!</Chinesesimp>
+              <Chinesesimp>注意道路！有轻型突击车！</Chinesesimp>
             </Key>
           </Container>
           <Container name="12_TruckHit" audioFilePath="\a3\dubbing_f_exp\exp_m04_sp" dialogName="12_TruckHit" dubbingLanguage="english" namePrefix="exp_m04_sp_12_truckhit" note="" participants="EXC B Grimm;" situation="truck is knocked unconscious by an explosion.">
             <Key ID="str_a3_exp_m04_sp_12_truckhit_grm_0">
               <Original>Truck's hit!</Original>
               <Chinese>"卡車"中彈!</Chinese>
-              <Chinesesimp>"卡车"中弹!</Chinesesimp>
+              <Chinesesimp>"卡车"中弹！</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_Attack" audioFilePath="\a3\dubbing_f_exp\exp_m04_sp" dialogName="10_Attack" dubbingLanguage="english" namePrefix="exp_m04_sp_10_attack" note="" participants="EXC B Riker;" situation="riker spots viper.">
             <Key ID="str_a3_exp_m04_sp_10_attack_rik_0">
               <Original>Pointers on the tree line, 1-5-0 - light them up!</Original>
               <Chinese>瞄準樹林線，方位1-5-0-幹掉他們!</Chinese>
-              <Chinesesimp>瞄准树林线，方位1-5-0-干掉他们!</Chinesesimp>
+              <Chinesesimp>瞄准树林线，方位1-5-0-干掉他们！</Chinesesimp>
             </Key>
           </Container>
           <Container name="051_LostComms" audioFilePath="\a3\dubbing_f_exp\exp_m04_sp" dialogName="051_LostComms" dubbingLanguage="english" namePrefix="exp_m04_sp_051_lostcomms" note="" participants="EXC B Riker;EXC B Grimm;" situation="raider 1 is jammed by viper.">
             <Key ID="str_a3_exp_m04_sp_051_lostcomms_grm_0">
               <Original>My GPS is out, we're being jammed!</Original>
               <Chinese>我的GPS沒有畫面了，我們的訊號正在被干擾!</Chinese>
-              <Chinesesimp>我的 GPS 没有画面了，我们被干扰了!</Chinesesimp>
+              <Chinesesimp>我的 GPS 没有画面了，我们被干扰了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_sp_051_lostcomms_rik_0">
               <Original>Say again, over.</Original>
@@ -494,7 +494,7 @@
             <Key ID="str_a3_exp_m04_sp_051_lostcomms_rik_2">
               <Original>Fuck - look alive, ready-up for contact!</Original>
               <Chinese>幹-提高警覺，準備接敵!</Chinese>
-              <Chinesesimp>操-提高警惕，准备接敌!</Chinesesimp>
+              <Chinesesimp>操 — 提高警惕，准备接敌！</Chinesesimp>
             </Key>
           </Container>
           <Container name="01_ArrivedAtBlocking" audioFilePath="\a3\dubbing_f_exp\exp_m04_sp" dialogName="01_ArrivedAtBlocking" dubbingLanguage="english" namePrefix="exp_m04_sp_01_arrivedatblocking" note="" participants="EXC B Riker;EXC B Grimm;" situation="riker gives orders to his team.">
@@ -506,12 +506,12 @@
             <Key ID="str_a3_exp_m04_sp_01_arrivedatblocking_rik_0">
               <Original>Truck, Salvo - all around defence, make it happen.</Original>
               <Chinese>"卡車"，薩爾沃-在這建立起防線，快準備好。</Chinese>
-              <Chinesesimp>"卡车"，萨尔沃-在这建立起防线，快准备好。</Chinesesimp>
+              <Chinesesimp>"卡车"，萨尔沃 — 在这建立起防线，快准备好。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_sp_01_arrivedatblocking_rik_1">
               <Original>Grimm - mine the road, we don't want anything getting through.</Original>
               <Chinese>格里姆-在道路上鋪設點地雷，我不想要有任何東西能突破我們的防線。</Chinese>
-              <Chinesesimp>格里姆-在道路上铺设点地雷，我不想要有任何东西能突破我们的防线。</Chinesesimp>
+              <Chinesesimp>格里姆 — 在道路上铺设点地雷，我不想要有任何东西能突破我们的防线。</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -564,7 +564,7 @@
           <Key ID="str_a3_showcase_vtol_tsk_pilots_desc">
             <Original>Find Lion 5, a downed To-199 Neophron pilot. He should be %2somewhere in the vicinity of Vagalala%1. Look for a red smoke signal and land nearby. &lt;br /&gt;&lt;br /&gt;Exercise caution, as the enemy will be searching for Lion 5 as well. Try to make the CSAR as fast as possible - we won't have anyone available to search for you, if you suffer a similar fate...</Original>
             <Chinese>找到"獅子5"，他是一名To-199"禿鷲"攻擊機的飛行員。他應該在%2瓦加拉拉的附近%1. 找到紅色煙霧並降落在旁邊。&lt;br/&gt;&lt;br/&gt;你們要小心，敵人也正在尋找"獅子5"。請盡快搜索並救出他-我們沒有任何餘力能幫你進行搜索。</Chinese>
-            <Chinesesimp>找到"狮子5"，他是一名 To-199"秃鹫"攻击机的飞行员。他应该在%2瓦加拉拉附近%1. 找到红色烟雾并降落在旁边。&lt;br/&gt;&lt;br/&gt;你们要小心，敌人也正在寻找"狮子5"。请尽快搜索并救出他-我们没有任何余力能帮你进行搜索。</Chinesesimp>
+            <Chinesesimp>找到"狮子5"，他是一名 To-199"秃鹫"攻击机的飞行员。他应该在%2瓦加拉拉附近%1. 找到红色烟雾并降落在旁边。&lt;br/&gt;&lt;br/&gt;你们要小心，敌人也正在寻找"狮子5"。请尽快搜索并救出他 — 我们没有任何余力能帮你进行搜索。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vtol_tsk_pickup_title">
             <Original>Load Rhino 3</Original>
@@ -604,7 +604,7 @@
           <Key ID="str_a3_showcase_vtol_tsk_ifvs_desc">
             <Original>NATO has the upper hand when it comes to armored combat vehicles - our Marids are no match for their AMV-7s and 40mm cannons. Locate and destroy at least two of them to improve the strategic situation on the ground and elevate the morale of our troops. &lt;br /&gt;&lt;br /&gt;Locations: &lt;br /&gt;%2Sugarcane factory%1 - one confirmed, another possible &lt;br /&gt;%3Harcourt%1 - one damaged during an assault on the city &lt;br /&gt;%4Georgetown%1 - one spotted near the harbor, but it might have relocated &lt;br /&gt;&lt;br /&gt;Take great care when you deal with these IFVs - their FCS can easily track low and slow-flying aircraft.</Original>
             <Chinese>北約在裝甲車的質量上佔有優勢，我們的"馬里德"裝甲運兵車無法應付他們AMV-7的40公厘火炮。尋找並摧毀至少兩輛敵人的AMV-7，這可以有效增加我軍地面部隊的士氣與戰術優勢。&lt;br/&gt;&lt;br/&gt;地點:&lt;br/&gt;%2甘蔗工廠%1-確認至少有一臺，可能還有另外一臺&lt;br/&gt;%3哈爾庫爾%1-附近有一臺在進攻城市的行動中受損的步兵戰車&lt;br/&gt;%4Georgetown%1-有一臺被發現在港口附近，但他很有可能已經移動位置了&lt;br/&gt;&lt;br/&gt;在你應付這些步兵戰車時要小心，他們的火控系統能有效追蹤並打擊低空低速的飛行載具。</Chinese>
-            <Chinesesimp>北约在装甲车的质量上占有优势，我们的"马里德"装甲运兵车无法应付他们 AMV-7的40mm 火炮。寻找并摧毁至少两辆敌人的 AMV-7，这可以有效增加我军地面部队的士气与战术优势。&lt;br/&gt;&lt;br/&gt;地点:&lt;br/&gt;%2甘蔗工厂%1-确认至少有一台，可能还有另外一台&lt;br/&gt;%3哈尔库尔%1-附近有一台在进攻城市的行动中受损的步兵战车&lt;br/&gt;%4Georgetown%1-有一台被发现在港口附近，但他很有可能已经移动位置了&lt;br/&gt;&lt;br/&gt;在你应付这些步兵战车时要小心，他们的火控系统能有效追踪并打击低空低速的飞行载具。</Chinesesimp>
+            <Chinesesimp>北约在装甲车的质量上占有优势，我们的"马里德"装甲运兵车无法应付他们 AMV-7的40mm 火炮。寻找并摧毁至少两辆敌人的 AMV-7，这可以有效增加我军地面部队的士气与战术优势。&lt;br/&gt;&lt;br/&gt;地点：&lt;br/&gt;%2甘蔗工厂%1-确认至少有一台，可能还有另外一台&lt;br/&gt;%3哈尔库尔%1-附近有一台在进攻城市的行动中受损的步兵战车&lt;br/&gt;%4Georgetown%1-有一台被发现在港口附近，但他很有可能已经移动位置了&lt;br/&gt;&lt;br/&gt;在你应付这些步兵战车时要小心，他们的火控系统能有效追踪并打击低空低速的飞行载具。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vtol_tsk_gunship_title">
             <Original>Destroy Attack Heli (optional)</Original>
@@ -659,7 +659,7 @@
           <Key ID="str_a3_showcase_vtol_mission">
             <Original>As a pilot of a Y-32 Xi'an VTOL, you'll be supporting our forces in battle. &lt;br /&gt;&lt;br /&gt;Do not actively engage the enemy with troops on board - their transportation to the combat zone is priority. Once we have boots on the ground, you are free to attack targets of opportunity or provide close air support upon request. &lt;br /&gt;&lt;br /&gt;Major NATO positions are marked on your map - avoid these areas, as they have solid AA protection. Although our adversary has no self-propelled anti-aircraft guns on Tanoa, they do have man-portable anti-air defense systems. &lt;br /&gt;&lt;br /&gt;In case of damage or shortage of fuel, land back at the airport and resupply at the maintenance area.</Original>
             <Chinese>作為一名Y-32"西安"垂直起降機的駕駛，你將在戰鬥中支援我方部隊。&lt;br/&gt;&lt;br/&gt;不要在你還在搭載人員時就與敵人積極交戰-運輸他們到戰區才是你的首要目標。當我們的步兵成功抵達目的地後，你就可以自由攻擊各個機會目標或是提供密接空中支援給有需要的部隊。&lt;br/&gt;&lt;br/&gt;北約部隊的主要位置都已經標記在地圖上-盡量避開這些地區，他們在那邊都有架設防空系統。儘管我們的敵人並沒有佈署自行防空高射炮在塔諾亞上，但他們有讓人員攜帶可攜式防空飛彈。&lt;br/&gt;&lt;br/&gt;假如有需要的話，你可以返回機場的維修補給站去進行維修，加油與補彈。</Chinese>
-            <Chinesesimp>作为一名Y-32"西安"垂直起降机的飞行员，你将在战斗中支援我方部队。&lt;br/&gt;&lt;br/&gt;不要在你还在搭载人员时就与敌人积极交战-运输他们到战区才是你的首要目标。当我们的步兵成功抵达目的地后，你就可以自由攻击各个机会目标或是提供近距离空中支援给有需要的部队。&lt;br/&gt;&lt;br/&gt;北约部队的主要位置都已经标记在地图上-尽量避开这些地区，他们在那边都有架设防空系统。尽管我们的敌人并没有在塔诺亚布署自行防空高射炮，但他们有便携式防空导弹。&lt;br/&gt;&lt;br/&gt;假如有需要的话，你可以返回机场的维修补给站去进行维修，加油与补弹。</Chinesesimp>
+            <Chinesesimp>作为一名Y-32"西安"垂直起降机的飞行员，你将在战斗中支援我方部队。&lt;br/&gt;&lt;br/&gt;不要在你还在搭载人员时就与敌人积极交战 — 运输他们到战区才是你的首要目标。当我们的步兵成功抵达目的地后，你就可以自由攻击各个机会目标或是提供近距离空中支援给有需要的部队。&lt;br/&gt;&lt;br/&gt;北约部队的主要位置都已经标记在地图上 — 尽量避开这些地区，他们在那边都有架设防空系统。尽管我们的敌人并没有在塔诺亚布署自行防空高射炮，但他们有便携式防空导弹。&lt;br/&gt;&lt;br/&gt;假如有需要的话，你可以返回机场的维修补给站去进行维修，加油与补弹。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vtol_marker_medical">
             <Original>First aid station</Original>
@@ -683,13 +683,13 @@
           </Key>
           <Key ID="str_a3_showcase_vtol_execution">
             <Original>1. Get in your %2Y-32 Xi'an VTOL%1 &lt;br /&gt;2. Take off from the %3airport%1 &lt;br /&gt;3. Load Rhino 3 from %4Bala Airstrip%1 &lt;br /&gt;4. Drop Rhino 3 over %5Tuvanaka Island%1 &lt;br /&gt;5. Escort Dragonfly 7 with reinforcements from %3airport%1 to %6Lijnhaven%1 &lt;br /&gt;6. %7RTB%1 in case of no new orders</Original>
-            <Chinese>1. 進入你的%2Y-32"西安"垂直起降機%1&lt;br/&gt;2. 從%3機場%1起飛&lt;br/&gt;3. 前往%4巴拉簡易機場%1搭載"犀牛3"&lt;br/&gt;4. 前往%5圖瓦納卡島%1空投"犀牛3"&lt;br/&gt;5. 護送"蜻蜓7"運送援軍從%3機場%1前往%6萊茵哈文%1&lt;br/&gt;6。當沒有任何任務以後就%7返回基地%1</Chinese>
-            <Chinesesimp>1. 进入你的%2Y-32"西安"垂直起降机%1&lt;br/&gt;2. 从%3机场%1起飞&lt;br/&gt;3. 前往%4巴拉简易机场%1搭载"犀牛3"&lt;br/&gt;4. 前往%5图瓦纳卡岛%1空投"犀牛3"&lt;br/&gt;5. 护送"蜻蜓7"运送援军从%3机场%1前往%6莱因哈文%1&lt;br/&gt;6。当没有任何任务以后就%7返回基地%1</Chinesesimp>
+            <Chinese>1. 進入你的%2Y-32"西安"垂直起降機%1&lt;br/&gt;2. 從%3機場%1起飛&lt;br/&gt;3. 前往%4巴拉簡易機場%1搭載"犀牛3"&lt;br/&gt;4. 前往%5圖瓦納卡島%1空投"犀牛3"&lt;br/&gt;5. 護送"蜻蜓7"運送援軍從%3機場%1前往%6萊茵哈文%1&lt;br/&gt;6.當沒有任何任務以後就%7返回基地%1</Chinese>
+            <Chinesesimp>1. 进入你的%2Y-32"西安"垂直起降机%1&lt;br/&gt;2. 从%3机场%1起飞&lt;br/&gt;3. 前往%4巴拉简易机场%1搭载"犀牛3"&lt;br/&gt;4. 前往%5图瓦纳卡岛%1空投"犀牛3"&lt;br/&gt;5. 护送"蜻蜓7"运送援军从%3机场%1前往%6莱因哈文%1&lt;br/&gt;6.当没有任何任务以后就%7返回基地%1</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vtol_end_04">
             <Original>You successfully completed all major tasks and have greatly improved our strategic situation by destroying several enemy IFVs and an attack helicopter! Excellent work!</Original>
             <Chinese>你成功完成了所有的主要目標並且透過擊毀敵人多量步兵戰車與一臺武裝直升機來大大增加了我們的戰術優勢!幹的好極了!</Chinese>
-            <Chinesesimp>你成功完成了所有的主要目标，并且通过击毁敌人多辆步兵战车与一架武装直升机大大增加了我们的战术优势!干的好极了!</Chinesesimp>
+            <Chinesesimp>你成功完成了所有的主要目标，并且通过击毁敌人多辆步兵战车与一架武装直升机大大增加了我们的战术优势！干的好极了！</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vtol_end_03">
             <Original>You successfully completed all major tasks and even shot down an enemy gunship.</Original>
@@ -788,31 +788,31 @@
             <Key ID="str_a3_showcase_vtol_x20_tarudead_phq_0">
               <Original>Abort mission, I repeat, abort mission!</Original>
               <Chinese>中止任務，重複一遍，中止任務!</Chinese>
-              <Chinesesimp>中止任务，重复一遍，中止任务!</Chinesesimp>
+              <Chinesesimp>中止任务，重复一遍，中止任务！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vtol_x20_tarudead_xia_0">
               <Original>Dragonfly 7's down!</Original>
               <Chinese>"蜻蜓7"被擊落!</Chinese>
-              <Chinesesimp>"蜻蜓7"被击落!</Chinesesimp>
+              <Chinesesimp>"蜻蜓7"被击落！</Chinesesimp>
             </Key>
           </Container>
           <Container name="x15_ParatroopersDead" audioFilePath="\a3\dubbing_f_exp\showcase_vtol" dialogName="x15_ParatroopersDead" dubbingLanguage="english" namePrefix="showcase_vtol_x15_paratroopersdead" note="" participants="JETS O PHQ;JETS O Pilot;" situation="paratroopers were killed during the task">
             <Key ID="str_a3_showcase_vtol_x15_paratroopersdead_phq_0">
               <Original>That's unacceptable, Shark 1. Abort mission and return to base immediately!</Original>
               <Chinese>這種事我無法接受，"鯊魚1"。中止任務並立即返回基地!</Chinese>
-              <Chinesesimp>这种事我无法接受，"鲨鱼1"。中止任务并立即返回基地!</Chinesesimp>
+              <Chinesesimp>这种事我无法接受，"鲨鱼1"。中止任务并立即返回基地！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vtol_x15_paratroopersdead_xia_0">
               <Original>Swordfish - update - Rhino 3 suffered heavy casualties!</Original>
               <Chinese>"劍魚"-有新情況-"犀牛3"傷亡慘重!</Chinese>
-              <Chinesesimp>"剑鱼"-有新情况-"犀牛3"伤亡惨重!</Chinesesimp>
+              <Chinesesimp>"剑鱼"-有新情况-"犀牛3"伤亡惨重！</Chinesesimp>
             </Key>
           </Container>
           <Container name="x11_TaruClose" audioFilePath="\a3\dubbing_f_exp\showcase_vtol" dialogName="x11_TaruClose" dubbingLanguage="english" namePrefix="showcase_vtol_x11_taruclose" note="" participants="JETS O Pilot;" situation="player is too close to taru">
             <Key ID="str_a3_showcase_vtol_x11_taruclose_xia_0">
               <Original>That's a little too close!</Original>
               <Chinese>這也太近了點兒!</Chinese>
-              <Chinesesimp>这也太近了点儿!</Chinesesimp>
+              <Chinesesimp>这也太近了点儿！</Chinesesimp>
             </Key>
           </Container>
           <Container name="x10_TaruFar" audioFilePath="\a3\dubbing_f_exp\showcase_vtol" dialogName="x10_TaruFar" dubbingLanguage="english" namePrefix="showcase_vtol_x10_tarufar" note="" participants="JETS O PHQ;" situation="hq tells player not to leave taru unprotected">
@@ -826,14 +826,14 @@
             <Key ID="str_a3_showcase_vtol_x05_ff_xia_0">
               <Original>Those were friendlies!</Original>
               <Chinese>那些是友軍!</Chinese>
-              <Chinesesimp>那些是友军!</Chinesesimp>
+              <Chinesesimp>那些是友军！</Chinesesimp>
             </Key>
           </Container>
           <Container name="x01_XianKO" audioFilePath="\a3\dubbing_f_exp\showcase_vtol" dialogName="x01_XianKO" dubbingLanguage="english" namePrefix="showcase_vtol_x01_xianko" note="" participants="JETS O Pilot;" situation="player's vtol is down">
             <Key ID="str_a3_showcase_vtol_x01_xianko_xia_0">
               <Original>Damn, game's over!</Original>
               <Chinese>該死，這下玩完了!</Chinese>
-              <Chinesesimp>该死，这下玩完了!</Chinesesimp>
+              <Chinesesimp>该死，这下玩完了！</Chinesesimp>
             </Key>
           </Container>
           <Container name="85_IFVsDestroyed" audioFilePath="\a3\dubbing_f_exp\showcase_vtol" dialogName="85_IFVsDestroyed" dubbingLanguage="english" namePrefix="showcase_vtol_85_ifvsdestroyed" note="" participants="JETS O PHQ;JETS O Pilot;" situation="player reporting he destroyed second marshall">
@@ -891,14 +891,14 @@
             <Key ID="str_a3_showcase_vtol_81_rtbcompleted_xia_0">
               <Original>Glad to hear that, sir - we did everything we could.</Original>
               <Chinese>很高興聽你這麼說，長官-我們也是竭盡所能了。</Chinese>
-              <Chinesesimp>很高兴听你这么说，长官-我们也是竭尽所能了。</Chinesesimp>
+              <Chinesesimp>很高兴听你这么说，长官 — 我们也是竭尽所能了。</Chinesesimp>
             </Key>
           </Container>
           <Container name="80_RTB" audioFilePath="\a3\dubbing_f_exp\showcase_vtol" dialogName="80_RTB" dubbingLanguage="english" namePrefix="showcase_vtol_80_rtb" note="" participants="JETS O PHQ;" situation="hq telling player he can rtb">
             <Key ID="str_a3_showcase_vtol_80_rtb_phq_0">
               <Original>Shark 1, good news - our units in Lijnhaven managed to fend off the attack.</Original>
               <Chinese>"鯊魚1"，有好消息-我們在萊茵哈文的部隊成功擋住了敵人的進攻。</Chinese>
-              <Chinesesimp>"鲨鱼1"，有好消息-我们在莱因哈文的部队成功挡住了敌人的进攻。</Chinesesimp>
+              <Chinesesimp>"鲨鱼1"，有好消息 — 我们在莱因哈文的部队成功挡住了敌人的进攻。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vtol_80_rtb_phq_1">
               <Original>There were casualties, but the city's still under our control.</Original>
@@ -920,14 +920,14 @@
             <Key ID="str_a3_showcase_vtol_75_gunshipdestroyed_xia_0">
               <Original>That ought to teach those gweilos a lesson!</Original>
               <Chinese>給這幫洋鬼子點兒教訓!</Chinese>
-              <Chinesesimp>给这帮洋鬼子点儿教训!</Chinesesimp>
+              <Chinesesimp>给这帮洋鬼子点儿教训！</Chinesesimp>
             </Key>
           </Container>
           <Container name="70_GunshipSpotted" audioFilePath="\a3\dubbing_f_exp\showcase_vtol" dialogName="70_GunshipSpotted" dubbingLanguage="english" namePrefix="showcase_vtol_70_gunshipspotted" note="" participants="JETS O Pilot;" situation="enemy gunship spotted">
             <Key ID="str_a3_showcase_vtol_70_gunshipspotted_xia_0">
               <Original>Enemy helo!</Original>
               <Chinese>敵軍直升機!</Chinese>
-              <Chinesesimp>敌军直升机!</Chinesesimp>
+              <Chinesesimp>敌军直升机！</Chinesesimp>
             </Key>
           </Container>
           <Container name="65_Home" audioFilePath="\a3\dubbing_f_exp\showcase_vtol" dialogName="65_Home" dubbingLanguage="english" namePrefix="showcase_vtol_65_home" note="" participants="JETS O Pilot;" situation="player back at base">
@@ -970,7 +970,7 @@
             <Key ID="str_a3_showcase_vtol_51_getinpilots_xia_0">
               <Original>Move, move, move!</Original>
               <Chinese>快，快，快!</Chinese>
-              <Chinesesimp>快，快，快!</Chinesesimp>
+              <Chinesesimp>快，快，快！</Chinesesimp>
             </Key>
           </Container>
           <Container name="50_Rescue" audioFilePath="\a3\dubbing_f_exp\showcase_vtol" dialogName="50_Rescue" dubbingLanguage="english" namePrefix="showcase_vtol_50_rescue" note="" participants="JETS O PHQ;JETS O Pilot;" situation="hq informs player about csar task">
@@ -982,7 +982,7 @@
             <Key ID="str_a3_showcase_vtol_50_rescue_phq_1">
               <Original>Location - Vagalala sector, land at red smoke.</Original>
               <Chinese>地點-瓦加拉拉區域，在紅色煙霧處降落。</Chinese>
-              <Chinesesimp>地点-瓦加拉拉区域，在红色烟雾处降落。</Chinesesimp>
+              <Chinesesimp>地点 — 瓦加拉拉区域，在红色烟雾处降落。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vtol_50_rescue_phq_2">
               <Original>Enemy contact unavoidable, expect enemy QRF searching the area. Good luck. Out.</Original>
@@ -999,7 +999,7 @@
             <Key ID="str_a3_showcase_vtol_45_tarudone_phq_0">
               <Original>Copy, Shark 1. Provide close air support and standby for new tasking.</Original>
               <Chinese>收到，"鯊魚1"。提供密接空中支援並原地待命。</Chinese>
-              <Chinesesimp>收到，"鲨鱼1"。提供密接空中支援并原地待命。</Chinesesimp>
+              <Chinesesimp>收到，"鲨鱼1"。提供 CAS 并原地待命。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vtol_45_tarudone_xia_0">
               <Original>Dragonfly 7 has reached the waypoint, hot LZ, but reinforcements delivered successfully.</Original>
@@ -1016,14 +1016,14 @@
             <Key ID="str_a3_showcase_vtol_42_pawneedown_xia_0">
               <Original>Bandit down!</Original>
               <Chinese>敵軍被幹掉了!</Chinese>
-              <Chinesesimp>敌军被干掉了!</Chinesesimp>
+              <Chinesesimp>敌军被干掉了！</Chinesesimp>
             </Key>
           </Container>
           <Container name="41_Pawnee" audioFilePath="\a3\dubbing_f_exp\showcase_vtol" dialogName="41_Pawnee" dubbingLanguage="english" namePrefix="showcase_vtol_41_pawnee" note="" participants="JETS O Pilot;" situation="enemy pawnee picked up on a radar">
             <Key ID="str_a3_showcase_vtol_41_pawnee_xia_0">
               <Original>We've got a bandit inbound!</Original>
               <Chinese>遭遇敵軍!</Chinese>
-              <Chinesesimp>遭遇敌军!</Chinesesimp>
+              <Chinesesimp>遭遇敌军！</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_TaruStart" audioFilePath="\a3\dubbing_f_exp\showcase_vtol" dialogName="40_TaruStart" dubbingLanguage="english" namePrefix="showcase_vtol_40_tarustart" note="" participants="JETS O PHQ;JETS O Pilot;" situation="player joined in with taru and is heading to lijnhaven">
@@ -1079,7 +1079,7 @@
             <Key ID="str_a3_showcase_vtol_30_jumpout_xia_0">
               <Original>Rhino 3 – green light - jump!</Original>
               <Chinese>"犀牛3"–綠燈-跳!</Chinese>
-              <Chinesesimp>"犀牛3"–绿灯-跳!</Chinesesimp>
+              <Chinesesimp>"犀牛3"–绿灯 — 跳！</Chinesesimp>
             </Key>
           </Container>
           <Container name="26_Params" audioFilePath="\a3\dubbing_f_exp\showcase_vtol" dialogName="26_Params" dubbingLanguage="english" namePrefix="showcase_vtol_26_params" note="" participants="JETS O Pilot;" situation="repeating params for successful paradrop">
@@ -1151,7 +1151,7 @@
             <Key ID="str_a3_showcase_vtol_08_runway35_phq_1">
               <Original>You're on the wrong runway, Shark 1 - 35 is heading directly into the combat zone!</Original>
               <Chinese>"鯊魚1"，你上錯跑道了-35號是直接通往戰場的!</Chinese>
-              <Chinesesimp>"鲨鱼1"，你上错跑道了-35号是直接通往战场的!</Chinesesimp>
+              <Chinesesimp>"鲨鱼1"，你上错跑道了-35号是直接通往战场的！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vtol_08_runway35_xia_0">
               <Original>Swordfish, Shark 1 has reached Runway 35.</Original>
@@ -1355,17 +1355,17 @@
             <Key ID="str_a3_mp_end_game_systems_55_enemyhasschematics_bhq_0">
               <Original>All callsigns, the enemy has acquired the Schematics. Move now to retrieve! Out.</Original>
               <Chinese>所有單位，敵人已獲得了武器藍圖。請趕快前往攔截!通話完畢。</Chinese>
-              <Chinesesimp>所有单位，敌人已获得了武器蓝图。请赶快前往拦截!通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位，敌人已获得了武器蓝图。请赶快前往拦截！通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_end_game_systems_55_enemyhasschematics_ohq_0">
               <Original>All callsigns, the enemy has acquired the Schematics. Move now to retrieve! Out.</Original>
               <Chinese>所有單位，敵人已獲得了武器藍圖。請趕快前往攔截!通話完畢。</Chinese>
-              <Chinesesimp>所有单位，敌人已获得了武器蓝图。请赶快前往拦截!通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位，敌人已获得了武器蓝图。请赶快前往拦截！通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_end_game_systems_55_enemyhasschematics_phq_0">
               <Original>All callsigns, the enemy has acquired the Schematics. Move now to retrieve! Out.</Original>
               <Chinese>所有單位，敵人已獲得了武器藍圖。請趕快前往攔截!通話完畢。</Chinese>
-              <Chinesesimp>所有单位，敌人已获得了武器蓝图。请赶快前往拦截!通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位，敌人已获得了武器蓝图。请赶快前往拦截！通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="50_Upload" audioFilePath="\a3\dubbing_f_exp\mp_end_game_systems" dialogName="50_Upload" dubbingLanguage="english" namePrefix="mp_end_game_systems_50_upload" note="" participants="EXC B HQ;EXC O HQ;EXC O PAC HQ;" situation="hq registers that a player picked up the intel">
@@ -1559,17 +1559,17 @@
             <Key ID="str_a3_mp_end_game_systems_07_endbad_bhq_0">
               <Original>All callsigns - abort mission. I say again - abort mission. Return to base immediately. Broadway out.</Original>
               <Chinese>所有單位-中止任務。我重複一遍-中止任務。請立即返回基地。"百老匯"通話完畢。</Chinese>
-              <Chinesesimp>所有单位-中止任务。我重复一遍-中止任务。请立即返回基地。"百老汇"通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位 — 中止任务。我重复一遍 — 中止任务。请立即返回基地。"百老汇"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_end_game_systems_07_endbad_ohq_0">
               <Original>All callsigns - abort mission. I say again - abort mission. Return to base immediately. Griffin out.</Original>
               <Chinese>所有單位-中止任務。我重複一遍-中止任務。請立即返回基地。"獅鷲"通話完畢。</Chinese>
-              <Chinesesimp>所有单位-中止任务。我重复一遍-中止任务。请立即返回基地。"狮鹫"通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位 — 中止任务。我重复一遍 — 中止任务。请立即返回基地。"狮鹫"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_end_game_systems_07_endbad_phq_0">
               <Original>All callsigns - abort mission. I say again - abort mission. Return to base immediately. Griffin out.</Original>
               <Chinese>所有單位-中止任務。我重複一遍-中止任務。請立即返回基地。"獅鷲"通話完畢。</Chinese>
-              <Chinesesimp>所有单位-中止任务。我重复一遍-中止任务。请立即返回基地。"狮鹫"通话完毕。</Chinesesimp>
+              <Chinesesimp>所有单位 — 中止任务。我重复一遍 — 中止任务。请立即返回基地。"狮鹫"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_EndGood" audioFilePath="\a3\dubbing_f_exp\mp_end_game_systems" dialogName="05_EndGood" dubbingLanguage="english" namePrefix="mp_end_game_systems_05_endgood" note="" participants="EXC B HQ;EXC O HQ;EXC O PAC HQ;" situation="hq commends the players for winning the round">
@@ -1627,18 +1627,18 @@
         <Container name="EXP_m05">
           <Key ID="str_a3_exp_m05_timeline">
             <Original>Keystone Extraction</Original>
-            <Chinese>"拱心石"撤離行動</Chinese>
-            <Chinesesimp>"拱心石"撤离</Chinesesimp>
+            <Chinese>"基石"撤離行動</Chinese>
+            <Chinesesimp>"基石"撤离</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m05_situation">
             <Original>Having secured %2Keystone%1 and with the enemy on high alert, it's time to leave this place.</Original>
-            <Chinese>在我們成功救出%2"拱心石"%1後，敵人也進入了高度警戒的狀態，是時候離開這個地方了。</Chinese>
-            <Chinesesimp>在我们成功救出%2"拱心石"%1后，敌人也进入了高度警戒的状态，是时候离开这个地方了。</Chinesesimp>
+            <Chinese>在我們成功救出%2"基石"%1後，敵人也進入了高度警戒的狀態，是時候離開這個地方了。</Chinese>
+            <Chinesesimp>在我们成功救出%2"基石"%1后，敌人也进入了高度警戒的状态，是时候离开这个地方了。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m05_sitrep_3">
             <Original>06:45 Hours</Original>
             <Chinese>06:45時分</Chinese>
-            <Chinesesimp>06:45时</Chinesesimp>
+            <Chinesesimp>06：45时</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m05_sitrep_2">
             <Original>Tuesday, August 14th, 2035</Original>
@@ -1652,8 +1652,8 @@
           </Key>
           <Key ID="str_a3_exp_m05_signal">
             <Original>%2Raider 1%1 - Lead element.&lt;br/&gt;%2Keystone%1 - Mission target.&lt;br/&gt;%3Raider 2%1 - Your team.&lt;br/&gt;Watchtower - CTRG Headquarters.</Original>
-            <Chinese>%2"突襲者1"%1-領導小隊。&lt;br/&gt;%2"拱心石"%1-任務目標。&lt;br/&gt;%3"突襲者2"%1-你的小隊。&lt;br/&gt;"守望塔"-戰研小組指揮部。</Chinese>
-            <Chinesesimp>%2"突袭者1"%1-指挥分队。&lt;br/&gt;%2"拱心石"%1-任务目标。&lt;br/&gt;%3"突袭者2"%1-你的小组。&lt;br/&gt;"守望塔"-战研大队指挥部。</Chinesesimp>
+            <Chinese>%2"突襲者1"%1-領導小隊。&lt;br/&gt;%2"基石"%1-任務目標。&lt;br/&gt;%3"突襲者2"%1-你的小隊。&lt;br/&gt;"守望塔"-戰研小組指揮部。</Chinese>
+            <Chinesesimp>%2"突袭者1"%1-指挥分队。&lt;br/&gt;%2"基石"%1-任务目标。&lt;br/&gt;%3"突袭者2"%1-你的小组。&lt;br/&gt;"守望塔"-战研大队指挥部。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m05_respawn_4">
             <Original>Forest</Original>
@@ -1677,8 +1677,8 @@
           </Key>
           <Key ID="str_a3_exp_m05_overview">
             <Original>Deep in enemy territory and vastly outnumbered, Group 15 race to get Keystone to safety.</Original>
-            <Chinese>深入敵人領土並面對為數眾多的敵人，15分隊正努力幫助"拱心石"安全撤離。</Chinese>
-            <Chinesesimp>深入敌人领土并面对为数众多的敌人，15大队正努力帮助"拱心石"安全撤离。</Chinesesimp>
+            <Chinese>深入敵人領土並面對為數眾多的敵人，15分隊正努力幫助"基石"安全撤離。</Chinese>
+            <Chinesesimp>深入敌人领土并面对为数众多的敌人，15大队正努力帮助"基石"安全撤离。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m05_missionname">
             <Original>05 Extraction</Original>
@@ -1687,8 +1687,8 @@
           </Key>
           <Key ID="str_a3_exp_m05_mission">
             <Original>Assist %2Raider 1%1 with escorting %2Keystone%1 off the island.</Original>
-            <Chinese>協助%2"突襲者1"%1護送%2"拱心石"%1離開這個小島。</Chinese>
-            <Chinesesimp>协助%2"突袭者1"%1护送%2"拱心石"%1离开这个小岛。</Chinesesimp>
+            <Chinese>協助%2"突襲者1"%1護送%2"基石"%1離開這個小島。</Chinese>
+            <Chinesesimp>协助%2"突袭者1"%1护送%2"基石"%1离开这个小岛。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m05_lz_title">
             <Original>Reach the LZ</Original>
@@ -1737,23 +1737,23 @@
           </Key>
           <Key ID="str_a3_exp_m05_execution">
             <Original>1. Extract %2Keystone%1</Original>
-            <Chinese>1. 撤離%2"拱心石"%1</Chinese>
-            <Chinesesimp>1. 撤离%2"拱心石"%1</Chinesesimp>
+            <Chinese>1. 撤離%2"基石"%1</Chinese>
+            <Chinesesimp>1. 撤离%2"基石"%1</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m05_evacuate_title">
             <Original>Extract Keystone</Original>
-            <Chinese>撤離"拱心石"</Chinese>
-            <Chinesesimp>撤离"拱心石"</Chinesesimp>
+            <Chinese>撤離"基石"</Chinese>
+            <Chinesesimp>撤离"基石"</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m05_evacuate_marker">
             <Original>KEYSTONE</Original>
-            <Chinese>"拱心石"</Chinese>
-            <Chinesesimp>"拱心石"</Chinesesimp>
+            <Chinese>"基石"</Chinese>
+            <Chinesesimp>"基石"</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m05_evacuate_description">
             <Original>Escort Raider 1 and Keystone off the island.</Original>
-            <Chinese>護送"突襲者1"與"拱心石"離開這個小島。</Chinese>
-            <Chinesesimp>护送"突袭者1"与"拱心石"离开这个小岛。</Chinesesimp>
+            <Chinese>護送"突襲者1"與"基石"離開這個小島。</Chinese>
+            <Chinesesimp>护送"突袭者1"与"基石"离开这个小岛。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m05_debriefing">
             <Original>Despite Viper's best efforts, you were able to successfully extract Captain Miller from the AO.</Original>
@@ -1804,17 +1804,17 @@
             <Key ID="str_a3_exp_m05_x15_keystonesuppressed_rik_1">
               <Original>Under fire! Raider 2, we need help! Now!</Original>
               <Chinese>正遭受攻擊!"突襲者2"，我們需要你們的協助!現在!</Chinese>
-              <Chinesesimp>正遭受攻击!"突袭者2"，我们需要你们的协助!现在!</Chinesesimp>
+              <Chinesesimp>正遭受攻击！"突袭者2"，我们需要你们的协助！现在！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_x15_keystonesuppressed_rik_2">
               <Original>Raider 2, we need to move from here, now! Keep moving!</Original>
               <Chinese>"突襲者2"，我們必須馬上離開這裡!趕快移動!</Chinese>
-              <Chinesesimp>"突袭者2"，我们必须马上离开这里!赶快移动!</Chinesesimp>
+              <Chinesesimp>"突袭者2"，我们必须马上离开这里！赶快移动！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_x15_keystonesuppressed_rik_3">
               <Original>Raider 2, support-fire!</Original>
               <Chinese>"突襲者2"，支援火力!</Chinese>
-              <Chinesesimp>"突袭者2"，支援火力!</Chinesesimp>
+              <Chinesesimp>"突袭者2"，支援火力！</Chinesesimp>
             </Key>
           </Container>
           <Container name="x10_KeepMoving" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="x10_KeepMoving" dubbingLanguage="english" namePrefix="exp_m05_x10_keepmoving" note="" participants="EXC B Riker;" situation="support squad reminds players about the importance of continuous movement towards the objective">
@@ -1826,17 +1826,17 @@
             <Key ID="str_a3_exp_m05_x10_keepmoving_rik_1">
               <Original>Raider 2, we need to go!</Original>
               <Chinese>"突襲者2"，我們必須走了!</Chinese>
-              <Chinesesimp>"突袭者2"，我们必须走了!</Chinesesimp>
+              <Chinesesimp>"突袭者2"，我们必须走了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_x10_keepmoving_rik_2">
               <Original>Keep moving, Raider 2, over-exposed here!</Original>
               <Chinese>保持移動，"突襲者2"，這裡太空曠了!</Chinese>
-              <Chinesesimp>保持移动，"突袭者2"，这里太空旷了!</Chinesesimp>
+              <Chinesesimp>保持移动，"突袭者2"，这里太空旷了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_x10_keepmoving_rik_3">
               <Original>Recce ahead, Raider 2, quit fuckin around!</Original>
               <Chinese>往前偵察，"突襲者2"，不要再閒晃了!</Chinese>
-              <Chinesesimp>往前侦察，"突袭者2"，不要再闲晃了!</Chinesesimp>
+              <Chinesesimp>往前侦察，"突袭者2"，不要再闲晃了！</Chinesesimp>
             </Key>
           </Container>
           <Container name="x05_Holding" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="x05_Holding" dubbingLanguage="english" namePrefix="exp_m05_x05_holding" note="" participants="EXC B Riker;" situation="support squad stops moving because they are in range of players which are scouting ahead">
@@ -1848,39 +1848,39 @@
             <Key ID="str_a3_exp_m05_x05_holding_rik_1">
               <Original>Finding cover!</Original>
               <Chinese>正在尋找掩護!</Chinese>
-              <Chinesesimp>正在寻找掩护!</Chinesesimp>
+              <Chinesesimp>正在寻找掩护！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_x05_holding_rik_2">
               <Original>Holding!</Original>
               <Chinese>停止移動!</Chinese>
-              <Chinesesimp>停止移动!</Chinesesimp>
+              <Chinesesimp>停止移动！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_x05_holding_rik_3">
               <Original>On you!</Original>
               <Chinese>在你們後面了!</Chinese>
-              <Chinesesimp>在你们后面了!</Chinesesimp>
+              <Chinesesimp>在你们后面了！</Chinesesimp>
             </Key>
           </Container>
           <Container name="x00_Moving" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="x00_Moving" dubbingLanguage="english" namePrefix="exp_m05_x00_moving" note="" participants="EXC B Riker;" situation="support squad starts moving to get closer to players which are scouting ahead">
             <Key ID="str_a3_exp_m05_x00_moving_rik_0">
               <Original>We're on the move!</Original>
               <Chinese>我們正在移動!</Chinese>
-              <Chinesesimp>我们正在移动!</Chinesesimp>
+              <Chinesesimp>我们正在移动！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_x00_moving_rik_1">
               <Original>Moving out!</Original>
               <Chinese>移動中!</Chinese>
-              <Chinesesimp>移动中!</Chinesesimp>
+              <Chinesesimp>移动中！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_x00_moving_rik_2">
               <Original>Moving!</Original>
               <Chinese>正在移動!</Chinese>
-              <Chinesesimp>正在移动!</Chinesesimp>
+              <Chinesesimp>正在移动！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_x00_moving_rik_3">
               <Original>On the move!</Original>
               <Chinese>正在移動中!</Chinese>
-              <Chinesesimp>正在移动中!</Chinesesimp>
+              <Chinesesimp>正在移动中！</Chinesesimp>
             </Key>
           </Container>
           <Container name="b50_Reveal" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="b50_Reveal" dubbingLanguage="english" namePrefix="exp_m05_b50_reveal" note="" participants="EXC B Miller;EXC B Riker;EXC B CTRG Commander;" situation="miller is revealed for the first time, support team lead registers his rescue">
@@ -1892,74 +1892,74 @@
             <Key ID="str_a3_exp_m05_b50_reveal_mil_0">
               <Original>Fucking hell, lads. What took you so long?</Original>
               <Chinese>天殺的，夥計們。你們怎麼這麼久才來?</Chinese>
-              <Chinesesimp>天杀的，伙计们。你们怎么这么久才来?</Chinesesimp>
+              <Chinesesimp>天杀的，伙计们。你们怎么这么久才来？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_b50_reveal_rik_0">
               <Original>Watchtower, Raider 1. Keystone secure. I say again, Keystone secure. Request exfil. Over?</Original>
-              <Chinese>"守望塔"，這裡是"突襲者1"。"拱心石"已安全。我重複一遍，"拱心石"已安全。請求撤離。完畢?</Chinese>
-              <Chinesesimp>"守望塔"，这里是"突袭者1"。"拱心石"已安全。我重复一遍，"拱心石"已安全。请求撤离。完毕?</Chinesesimp>
+              <Chinese>"守望塔"，這裡是"突襲者1"。"基石"已安全。我重複一遍，"基石"已安全。請求撤離。完畢?</Chinese>
+              <Chinesesimp>"守望塔"，这里是"突袭者1"。"基石"已安全。我重复一遍，"基石"已安全。请求撤离。完毕？</Chinesesimp>
             </Key>
           </Container>
           <Container name="b45_Clear" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="b45_Clear" dubbingLanguage="english" namePrefix="exp_m05_b45_clear" note="" participants="EXC B Riker;EXC B Grimm;" situation="support team members call out that the room's clear">
             <Key ID="str_a3_exp_m05_b45_clear_grm_0">
               <Original>Clear!</Original>
               <Chinese>安全!</Chinese>
-              <Chinesesimp>安全!</Chinesesimp>
+              <Chinesesimp>安全！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_b45_clear_rik_0">
               <Original>Clear!</Original>
               <Chinese>安全!</Chinese>
-              <Chinesesimp>安全!</Chinesesimp>
+              <Chinesesimp>安全！</Chinesesimp>
             </Key>
           </Container>
           <Container name="b40_Flash_3" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="b40_Flash_3" dubbingLanguage="english" namePrefix="exp_m05_b40_flash_3" note="" participants="EXC B Riker;" situation="support lead throws a flashbang into the second room">
             <Key ID="str_a3_exp_m05_b40_flash_3_rik_0">
               <Original>2 times enemy!</Original>
               <Chinese>2名敵人!</Chinese>
-              <Chinesesimp>2名敌人!</Chinesesimp>
+              <Chinesesimp>2名敌人！</Chinesesimp>
             </Key>
           </Container>
           <Container name="b40_Flash_2" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="b40_Flash_2" dubbingLanguage="english" namePrefix="exp_m05_b40_flash_2" note="" participants="EXC B Riker;" situation="support lead throws a flashbang into the second room">
             <Key ID="str_a3_exp_m05_b40_flash_2_rik_0">
               <Original>Flash!</Original>
               <Chinese>閃光彈!</Chinese>
-              <Chinesesimp>闪光弹!</Chinesesimp>
+              <Chinesesimp>闪光弹！</Chinesesimp>
             </Key>
           </Container>
           <Container name="b35_Man_Down" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="b35_Man_Down" dubbingLanguage="english" namePrefix="exp_m05_b35_man_down" note="" participants="EXC B Riker;EXC B Salvo;" situation="point man gets hit (non-lethal), other support team member sees it">
             <Key ID="str_a3_exp_m05_b35_man_down_rik_0">
               <Original>Stay down, Truck! Stay down!</Original>
               <Chinese>趴著，"卡車"!趴著!</Chinese>
-              <Chinesesimp>趴着，"卡车"!趴着!</Chinesesimp>
+              <Chinesesimp>趴着，"卡车"！趴着！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_b35_man_down_rik_1">
               <Original>Push, push! Second door! Stack up!</Original>
               <Chinese>推進，推進!第二扇門!預備!</Chinese>
-              <Chinesesimp>推进，推进!第二扇门!预备!</Chinesesimp>
+              <Chinesesimp>推进，推进！第二扇门！预备！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_b35_man_down_sal_0">
               <Original>Truck's hit!</Original>
               <Chinese>"卡車"中彈了。</Chinese>
-              <Chinesesimp>"卡车"中弹了!</Chinesesimp>
+              <Chinesesimp>"卡车"中弹了！</Chinesesimp>
             </Key>
           </Container>
           <Container name="b30_Contact" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="b30_Contact" dubbingLanguage="english" namePrefix="exp_m05_b30_contact" note="" participants="EXC B Truck;" situation="point man spots and engages first enemy">
             <Key ID="str_a3_exp_m05_b30_contact_trk_0">
               <Original>1 times enemy front! Open door left!</Original>
               <Chinese>1名敵人在前方!門的左邊!</Chinese>
-              <Chinesesimp>1名敌人在前方!门左边!</Chinesesimp>
+              <Chinesesimp>1名敌人在前方！门左边！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_b30_contact_trk_1">
               <Original>I'm hit!</Original>
               <Chinese>我中彈了。</Chinese>
-              <Chinesesimp>我中弹了!</Chinesesimp>
+              <Chinesesimp>我中弹了！</Chinesesimp>
             </Key>
           </Container>
           <Container name="b25_Breaching" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="b25_Breaching" dubbingLanguage="english" namePrefix="exp_m05_b25_breaching" note="" participants="EXC B Truck;" situation="point man announces breach">
             <Key ID="str_a3_exp_m05_b25_breaching_trk_0">
               <Original>Go! Go!</Original>
               <Chinese>衝!衝!</Chinese>
-              <Chinesesimp>冲!冲!</Chinesesimp>
+              <Chinesesimp>冲！冲！</Chinesesimp>
             </Key>
           </Container>
           <Container name="b20_Flash" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="b20_Flash" dubbingLanguage="english" namePrefix="exp_m05_b20_flash" note="" participants="EXC B Riker;" situation="support lead throws the flashbang into the building">
@@ -1991,8 +1991,8 @@
           <Container name="b05_Connecting" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="b05_Connecting" dubbingLanguage="english" namePrefix="exp_m05_b05_connecting" note="" participants="EXC B Riker;EXC B CTRG Commander;" situation="support lead notifies watchtower that they're about to breach">
             <Key ID="str_a3_exp_m05_b05_connecting_com_0">
               <Original>Roger that, Raider 1. Priority is Keystone. Watch arcs. PID all PAC's. Flicking to video feed.</Original>
-              <Chinese>收到，"突襲者1"。優先目標是"拱心石"。掃視周遭。核對所有人員。正在開啟實況轉播。</Chinese>
-              <Chinesesimp>收到，"突袭者1"。优先目标是"拱心石"。扫视周遭。核对所有人员。正在开启实况转播。</Chinesesimp>
+              <Chinese>收到，"突襲者1"。優先目標是"基石"。掃視周遭。核對所有人員。正在開啟實況轉播。</Chinese>
+              <Chinesesimp>收到，"突袭者1"。优先目标是"基石"。扫视周遭。核对所有人员。正在开启实况转播。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_b05_connecting_rik_0">
               <Original>Watchtower, be advised, we're clearing Toronto. Stacking for breach on obvious.</Original>
@@ -2028,7 +2028,7 @@
             <Key ID="str_a3_exp_m05_80_leavethejungle_grm_0">
               <Original>Heads up! The boats are still here.</Original>
               <Chinese>注意!我們的船仍在這邊。</Chinese>
-              <Chinesesimp>注意!我们的船仍在这边。</Chinesesimp>
+              <Chinesesimp>注意！我们的船仍在这边。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_80_leavethejungle_rik_0">
               <Original>Alright. Mount up. Let's get outta here.</Original>
@@ -2094,7 +2094,7 @@
             <Key ID="str_a3_exp_m05_70_movetoboats_trk_0">
               <Original>What's the play?</Original>
               <Chinese>所以計劃是?</Chinese>
-              <Chinesesimp>所以计划是?</Chinesesimp>
+              <Chinesesimp>所以计划是？</Chinesesimp>
             </Key>
           </Container>
           <Container name="65_TheBoats" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="65_TheBoats" dubbingLanguage="english" namePrefix="exp_m05_65_theboats" note="" participants="EXC B CTRG Commander;EXC B Grimm;EXC B Riker;EXC B Miller;" situation="description">
@@ -2111,12 +2111,12 @@
             <Key ID="str_a3_exp_m05_65_theboats_rik_0">
               <Original>Any ideas? Now would be the time.</Original>
               <Chinese>有任何想法嗎?現在最好提出來。</Chinese>
-              <Chinesesimp>有任何想法吗?现在最好提出来。</Chinesesimp>
+              <Chinesesimp>有任何想法吗？现在最好提出来。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_65_theboats_mil_0">
               <Original>What was your infil?</Original>
               <Chinese>你們是怎麼潛入這裡的?</Chinese>
-              <Chinesesimp>你们是怎么潜入这里的?</Chinesesimp>
+              <Chinesesimp>你们是怎么潜入这里的？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_65_theboats_mil_1">
               <Original>I thought you lads were extracting me.</Original>
@@ -2148,7 +2148,7 @@
             <Key ID="str_a3_exp_m05_60_pilotleaves_pil_0">
               <Original>Shit! Hydraulics are hit.</Original>
               <Chinese>該死!尾槳被擊中了。</Chinese>
-              <Chinesesimp>该死!尾桨被击中了。</Chinesesimp>
+              <Chinesesimp>该死！尾桨被击中了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_60_pilotleaves_pil_1">
               <Original>Angel 3-1, I'm limping home. Put SAR teams on standby.</Original>
@@ -2160,7 +2160,7 @@
             <Key ID="str_a3_exp_m05_55_chopperhit_pil_0">
               <Original>Northstar, this is Angel 1-3! We're taking accurate fire from the radio mast.</Original>
               <Chinese>"北極星"，這裡是"天使1-3"!我們正被來自無線電塔的火力攻擊。</Chinese>
-              <Chinesesimp>"北极星"，这里是"天使1-3"!我们正被来自无线电塔的火力攻击。</Chinesesimp>
+              <Chinesesimp>"北极星"，这里是"天使1-3"！我们正被来自无线电塔的火力攻击。</Chinesesimp>
             </Key>
           </Container>
           <Container name="50_ChopperETA" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="50_ChopperETA" dubbingLanguage="english" namePrefix="exp_m05_50_choppereta" note="" participants="EXC B SOF Liaison;" situation="description">
@@ -2184,12 +2184,12 @@
             <Key ID="str_a3_exp_m05_45_whatwasthat2_trk_0">
               <Original>Are they targeting us?</Original>
               <Chinese>他們是在瞄準我們嗎?</Chinese>
-              <Chinesesimp>他们是在瞄准我们吗?</Chinesesimp>
+              <Chinesesimp>他们是在瞄准我们吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_45_whatwasthat2_sal_0">
               <Original>Well, you have such pretty eyes, Truck, how could they not?</Original>
               <Chinese>你的眼睛挺利的啊，"卡車"，他們怎麼可能不是?</Chinese>
-              <Chinesesimp>你的眼睛挺利的啊，"卡车"，他们怎么可能不是?</Chinesesimp>
+              <Chinesesimp>你的眼睛挺利的啊，"卡车"，他们怎么可能不是？</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_WhatWasThat" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="40_WhatWasThat" dubbingLanguage="english" namePrefix="exp_m05_40_whatwasthat" note="" participants="EXC B Riker;EXC B Miller;EXC B Grimm;" situation="context about the enemy while running to next location">
@@ -2206,7 +2206,7 @@
             <Key ID="str_a3_exp_m05_40_whatwasthat_rik_0">
               <Original>Miller, what are we facing here?</Original>
               <Chinese>米勒，我們到底在面對些什麼人?</Chinese>
-              <Chinesesimp>米勒，我们到底在面对些什么人?</Chinesesimp>
+              <Chinesesimp>米勒，我们到底在面对些什么人？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_40_whatwasthat_mil_1">
               <Original>It's unclear. More than I thought.</Original>
@@ -2216,7 +2216,7 @@
             <Key ID="str_a3_exp_m05_40_whatwasthat_rik_1">
               <Original>Estimated numbers?</Original>
               <Chinese>大約人數?</Chinese>
-              <Chinesesimp>大约人数?</Chinesesimp>
+              <Chinesesimp>大约人数？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_40_whatwasthat_mil_2">
               <Original>They're a threat. But we've made it this far. That's a good start.</Original>
@@ -2257,17 +2257,17 @@
             <Key ID="str_a3_exp_m05_25_boatdestroyed_com_0">
               <Original>Raider 1, SITREP?</Original>
               <Chinese>"突襲者1"，狀況回報?</Chinese>
-              <Chinesesimp>"突袭者1"，状况回报?</Chinesesimp>
+              <Chinesesimp>"突袭者1"，状况回报？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_25_boatdestroyed_com_1">
               <Original>Raider 1, send SITREP as soon as, out!</Original>
               <Chinese>"突襲者1"，等下盡快再進行回報，通話完畢!</Chinese>
-              <Chinesesimp>"突袭者1"，等下尽快再进行回报，通话完毕!</Chinesesimp>
+              <Chinesesimp>"突袭者1"，等下尽快再进行回报，通话完毕！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_25_boatdestroyed_rik_0">
               <Original>Shit! Watchtower, Contact! Kingfish is hit! Suspected AT system! Wait out.</Original>
               <Chinese>該死!"守望塔"，接敵!"王魚1"中彈了!猜測是反裝甲武器!暫時通話完畢。</Chinese>
-              <Chinesesimp>该死!"守望塔"，接敌!"王鱼1"中弹了!猜测是反装甲武器!暂时通话完毕。</Chinesesimp>
+              <Chinesesimp>该死！"守望塔"，接敌！"王鱼1"中弹了！猜测是反装甲武器！暂时通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_25_boatdestroyed_mil_0">
               <Original>It's Viper. We're being hunted.</Original>
@@ -2277,12 +2277,12 @@
             <Key ID="str_a3_exp_m05_25_boatdestroyed_rik_1">
               <Original>Watchtower! Contact, wait out!</Original>
               <Chinese>"守望塔"!接敵中，暫時通話完畢。</Chinese>
-              <Chinesesimp>"守望塔"!接敌中，暂时通话完毕。</Chinesesimp>
+              <Chinesesimp>"守望塔"！接敌中，暂时通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_25_boatdestroyed_rik_2">
               <Original>We need to move, get into cover!</Original>
               <Chinese>我們必須移動，快找掩護!</Chinese>
-              <Chinesesimp>我们必须移动，快找掩护!</Chinesesimp>
+              <Chinesesimp>我们必须移动，快找掩护！</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_WaitForBoat" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="20_WaitForBoat" dubbingLanguage="english" namePrefix="exp_m05_20_waitforboat" note="" participants="EXC B CTRG Commander;EXC B Riker;" situation="players reach the extraction position and have to wait for the boat which will transport them">
@@ -2311,19 +2311,19 @@
             <Key ID="str_a3_exp_m05_15_expositiontwo_sal_0">
               <Original>All these Chinese, Russian, Iranian weapons we keep finding - and who knows what else - someone's bringing them in.</Original>
               <Chinese>我們一直不斷發現到這些中國，俄羅斯和伊朗的武器-天知道還有些什麼-有人把這些給運進來的。</Chinese>
-              <Chinesesimp>我们一直不断发现到这些中国，俄罗斯和伊朗的武器-天知道还有些什么-有人把这些给运进来的。</Chinesesimp>
+              <Chinesesimp>我们一直不断发现到这些中国，俄罗斯和伊朗的武器 — 天知道还有些什么 — 有人把这些给运进来的。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_15_expositiontwo_trk_0">
               <Original>But what's their agenda?</Original>
               <Chinese>他們到底在策劃些什麼?</Chinese>
-              <Chinesesimp>他们到底在策划些什么?</Chinesesimp>
+              <Chinesesimp>他们到底在策划些什么？</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_ExpositionOne" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="10_ExpositionOne" dubbingLanguage="english" namePrefix="exp_m05_10_expositionone" note="" participants="EXC B Grimm;EXC B Miller;EXC B Salvo;" situation="plot explanation, why and by whom keystone was captured">
             <Key ID="str_a3_exp_m05_10_expositionone_grm_0">
               <Original>We had a run-in with them. I heard Mandarin. Is it CSAT?</Original>
               <Chinese>我們曾碰見過他們。我聽到了普通話。他們是廣協同盟吧?</Chinese>
-              <Chinesesimp>我们曾碰见过他们。我听到了普通话。他们是广协吧?</Chinesesimp>
+              <Chinesesimp>我们曾碰见过他们。我听到了普通话。他们是广协吧？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_10_expositionone_mil_0">
               <Original>I'll bring you up to speed once we're clear.</Original>
@@ -2333,7 +2333,7 @@
             <Key ID="str_a3_exp_m05_10_expositionone_sal_0">
               <Original>So, what's the story? Who took you hostage?</Original>
               <Chinese>那麼，到底是怎樣?是誰綁架了你?</Chinese>
-              <Chinesesimp>那么，到底是怎样?是谁绑架了你?</Chinesesimp>
+              <Chinesesimp>那么，到底是怎样？是谁绑架了你？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_10_expositionone_mil_1">
               <Original>They're not. Officially.</Original>
@@ -2350,17 +2350,17 @@
             <Key ID="str_a3_exp_m05_05_onthemove_grm_0">
               <Original>Yeah, from Group 14. Hey, how you holding up, Captain?</Original>
               <Chinese>是阿，他來自14分隊。嘿，你怎麼也拿起裝備了，上尉?</Chinese>
-              <Chinesesimp>是阿，他来自14大队。嘿，你还好吗，上校?</Chinesesimp>
+              <Chinesesimp>是阿，他来自14大队。嘿，你还好吗，上校？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_05_onthemove_grm_1">
               <Original>And Truck? How you doing back there?</Original>
               <Chinese>還有"卡車"?你有沒有怎麼樣?</Chinese>
-              <Chinesesimp>还有"卡车"?你有没有怎么样?</Chinesesimp>
+              <Chinesesimp>还有"卡车"？你有没有怎么样？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_05_onthemove_sal_0">
               <Original>So, this is Miller?</Original>
               <Chinese>所以，這就是米勒?</Chinese>
-              <Chinesesimp>所以，这就是米勒?</Chinesesimp>
+              <Chinesesimp>所以，这就是米勒？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_05_onthemove_mil_0">
               <Original>I've been better.</Original>
@@ -2375,7 +2375,7 @@
             <Key ID="str_a3_exp_m05_05_onthemove_sal_1">
               <Original>So what, Truck, you're like a bullet magnet these days?</Original>
               <Chinese>哈，"卡車"，你最近是個子彈磁鐵喔?</Chinese>
-              <Chinesesimp>哈，"卡车"，你最近是个子弹磁铁喔?</Chinesesimp>
+              <Chinesesimp>哈，"卡车"，你最近是个子弹磁铁喔？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_05_onthemove_trk_0">
               <Original>I'm good, I'm good.</Original>
@@ -2385,7 +2385,7 @@
             <Key ID="str_a3_exp_m05_05_onthemove_trk_1">
               <Original>Hit my plate. Put me on my ass - but no real injuries.</Original>
               <Chinese>子彈擊中我的防彈衣。讓我跌坐到地板上-但沒有真正受傷。</Chinese>
-              <Chinesesimp>子弹击中我的防弹衣。给我狠狠来了下-但没有真正受伤。</Chinesesimp>
+              <Chinesesimp>子弹击中我的防弹衣。给我狠狠来了下 — 但没有真正受伤。</Chinesesimp>
             </Key>
           </Container>
           <Container name="00_MoveToBeach" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="00_MoveToBeach" dubbingLanguage="english" namePrefix="exp_m05_00_movetobeach" note="" participants="EXC B CTRG Commander;EXC B Riker;" situation="right at the start of the mission, players are told to move to the extraction point">
@@ -2401,8 +2401,8 @@
             </Key>
             <Key ID="str_a3_exp_m05_00_movetobeach_rik_0">
               <Original>Roger. Raider 1 stays with Keystone, Raider 2 will move on point. Over.</Original>
-              <Chinese>收到。"突襲者1"會待在"拱心石"旁邊，"突襲者2"會為我們開路。完畢。</Chinese>
-              <Chinesesimp>收到。"突袭者1"会待在"拱心石"旁边，"突袭者2"会为我们开路。完毕。</Chinesesimp>
+              <Chinese>收到。"突襲者1"會待在"基石"旁邊，"突襲者2"會為我們開路。完畢。</Chinese>
+              <Chinesesimp>收到。"突袭者1"会待在"基石"旁边，"突袭者2"会为我们开路。完毕。</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -2460,7 +2460,7 @@
           <Key ID="str_a3_exp_m06_sitrep03">
             <Original>16:30 Hours</Original>
             <Chinese>16:30時分</Chinese>
-            <Chinesesimp>16:30时</Chinesesimp>
+            <Chinesesimp>16：30时</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m06_sitrep02">
             <Original>Thursday, August 16th, 2035</Original>
@@ -2474,8 +2474,8 @@
           </Key>
           <Key ID="str_a3_exp_m06_signal">
             <Original>%1Raider 1%2 - Lead element.&lt;br/&gt;%3Raider 2%2 - Your team.&lt;br/&gt;Watchtower - CTRG Headquarters.&lt;br/&gt;Keystone - Captain Miller.</Original>
-            <Chinese>%1"突襲者1"%2-領導小隊。&lt;br/&gt;%3"突襲者2"%2-你的小隊。&lt;br/&gt;"守望塔"-戰研小組指揮部。&lt;br/&gt;"拱心石"-米勒上校。</Chinese>
-            <Chinesesimp>%1"突袭者1"%2-指挥分队。&lt;br/&gt;%3"突袭者2"%2-你的小组。&lt;br/&gt;"守望塔"-战研大队指挥部。&lt;br/&gt;"拱心石"-米勒上校。</Chinesesimp>
+            <Chinese>%1"突襲者1"%2-領導小隊。&lt;br/&gt;%3"突襲者2"%2-你的小隊。&lt;br/&gt;"守望塔"-戰研小組指揮部。&lt;br/&gt;"基石"-米勒上校。</Chinese>
+            <Chinesesimp>%1"突袭者1"%2-指挥分队。&lt;br/&gt;%3"突袭者2"%2-你的小组。&lt;br/&gt;"守望塔"-战研大队指挥部。&lt;br/&gt;"基石"-米勒上校。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m06_rv_title">
             <Original>Rendezvous with Miller</Original>
@@ -2664,8 +2664,8 @@
           </Key>
           <Key ID="str_a3_exp_m06_keystone">
             <Original>Keystone</Original>
-            <Chinese>"拱心石"</Chinese>
-            <Chinesesimp>"拱心石"</Chinesesimp>
+            <Chinese>"基石"</Chinese>
+            <Chinesesimp>"基石"</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m06_insertionpoint">
             <Original>Insertion Point</Original>
@@ -2674,8 +2674,8 @@
           </Key>
           <Key ID="str_a3_exp_m06_execution">
             <Original>1. Capture %1Sosovu Island%2.&lt;br /&gt;2. Locate Viper's base of operations.&lt;br /&gt;3. Secure and extract the Eastwind Device.</Original>
-            <Chinese>1. 佔領%1索索武島%2。&lt;br/&gt;2。尋找"毒蛇"的作戰基地。&lt;br/&gt;3。確保並撤離東風裝置。</Chinese>
-            <Chinesesimp>1. 占领%1索索武岛%2。&lt;br/&gt;2。寻找"毒蛇"的作战基地。&lt;br/&gt;3。确保并撤离东风装置。</Chinesesimp>
+            <Chinese>1. 佔領%1索索武島%2。&lt;br/&gt;2.尋找"毒蛇"的作戰基地。&lt;br/&gt;3.確保並撤離東風裝置。</Chinese>
+            <Chinesesimp>1. 占领%1索索武岛%2。&lt;br/&gt;2.寻找"毒蛇"的作战基地。&lt;br/&gt;3.确保并撤离东风装置。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m06_end1_description">
             <Original>Sosovu Island was captured and Viper's base of operations was discovered. However, the Eastwind Device has disappeared.</Original>
@@ -2721,7 +2721,7 @@
             <Key ID="str_a3_exp_m06_x20_drone_info_mil_2">
               <Original>You'll need a terminal to do so. Check their cargo bins, there may be one there.</Original>
               <Chinese>但你們必須擁有終端機才能連線。去檢查他們的包包或是箱子，那邊應該會有一個。</Chinese>
-              <Chinesesimp>但你们必须拥有终端机才能连接。去检查他们的包包或是箱子，那边应该会有一个。</Chinesesimp>
+              <Chinesesimp>但你们必须拥有终端才能连接。去检查他们的包包或是箱子，那边应该会有一个。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x15_Skipped" audioFilePath="\a3\dubbing_f_exp\exp_m06" dialogName="x15_Skipped" dubbingLanguage="english" namePrefix="exp_m06_x15_skipped" note="" participants="EXC B Miller;" situation="players skipped the patrol and/or the drone">
@@ -2800,12 +2800,12 @@
             <Key ID="str_a3_exp_m06_b23_viperblacksite_lia_0">
               <Original>And, what? Syndikat leadership just plays along with CSAT's 'earthquake weapon'?</Original>
               <Chinese>什麼?你是說辛迪加的老大一直在跟廣協同盟合作使用這項'地震武器'?</Chinese>
-              <Chinesesimp>什么?你是说辛迪加的老大一直在跟广协合作使用这项'地震武器'?</Chinesesimp>
+              <Chinesesimp>什么？你是说辛迪加的老大一直在跟广协合作使用这项'地震武器'？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_b23_viperblacksite_lia_1">
               <Original>I see. So, what's the situation now?</Original>
               <Chinese>我懂了。所以，現在的狀況如何?</Chinese>
-              <Chinesesimp>我懂了。所以，现在的状况如何?</Chinesesimp>
+              <Chinesesimp>我懂了。所以，现在的状况如何？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_b23_viperblacksite_mil_0">
               <Original>I can't say if Warlock knows who he's really dealing with, let alone that they may be responsible for the disaster. Frankly, it's not my concern.</Original>
@@ -2827,7 +2827,7 @@
             <Key ID="str_a3_exp_m06_b20_projecteastwind_lia_0">
               <Original>'Viper'? Where have I heard that before..?</Original>
               <Chinese>"毒蛇"?我好像在哪裡有聽過...?</Chinese>
-              <Chinesesimp>"毒蛇"?我好像在哪里有听过...?</Chinesesimp>
+              <Chinesesimp>"毒蛇"？我好像在哪里有听过...？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_b20_projecteastwind_mil_0">
               <Original>The fact is, we have scant intel. The little we have is classified.</Original>
@@ -2847,7 +2847,7 @@
             <Key ID="str_a3_exp_m06_b20_projecteastwind_mil_3">
               <Original>Bottom line: we believe Viper possess the means - a device - to trigger a natural disaster.</Original>
               <Chinese>重點是:我們相信"毒蛇"握有一種裝置-可以用它來引發自然災難。</Chinese>
-              <Chinesesimp>重点是:我们相信"毒蛇"握有一种装置-可以用它来引发自然灾难。</Chinesesimp>
+              <Chinesesimp>重点是：我们相信"毒蛇"握有一种装置 — 可以用它来引发自然灾难。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_b20_projecteastwind_mil_4">
               <Original>It's clear they're using Tanoan dissidents as cover.</Original>
@@ -2859,7 +2859,7 @@
             <Key ID="str_a3_exp_m06_b15_csatagenda_com_0">
               <Original>Let's get to the meat of this, shall we?</Original>
               <Chinese>就讓我們直接把話講明吧，好嗎?</Chinese>
-              <Chinesesimp>就让我们直接把话讲明吧，好吗?</Chinesesimp>
+              <Chinesesimp>就让我们直接把话讲明吧，好吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_b15_csatagenda_lia_0">
               <Original>Hold on now, that makes no sense. It was a goddamn Tsunami, Captain.</Original>
@@ -2891,12 +2891,12 @@
             <Key ID="str_a3_exp_m06_b10_csatconnection_lia_0">
               <Original>Wait. You guys have been operating here before we brought you in to deal with our Syndikat problem?</Original>
               <Chinese>等等。你們在我們把你們請過來對付辛迪加之前便已經在這裡了?</Chinese>
-              <Chinesesimp>等等。你们在我们把你们请过来对付辛迪加之前便已经在这里了?</Chinesesimp>
+              <Chinesesimp>等等。你们在我们把你们请过来对付辛迪加之前便已经在这里了？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_b10_csatconnection_mil_0">
               <Original>Over the past 4 weeks I've been on the ground and - in the last 4 days - focused on the Northern Division.</Original>
               <Chinese>在過去的4個星期中，我便已經開始行動-而在過去的4天裡-則是專注在北部的區域。</Chinese>
-              <Chinesesimp>在过去的4个星期中，我便已经开始行动-而在过去的4天里-则是专注在北部的区域。</Chinesesimp>
+              <Chinesesimp>在过去的4个星期中，我便已经开始行动 — 而在过去的4天里 — 则是专注在北部的区域。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_b10_csatconnection_mil_1">
               <Original>Yes. Although the connection wasn't clear, at first.</Original>
@@ -2912,8 +2912,8 @@
           <Container name="b05_MillerIntro" audioFilePath="\a3\dubbing_f_exp\exp_m06" dialogName="b05_MillerIntro" dubbingLanguage="english" namePrefix="exp_m06_b05_millerintro" note="" participants="EXC B CTRG Commander;EXC B Miller MIL;EXC B SOF Liaison;" situation="commander introduces miller, who's in the field">
             <Key ID="str_a3_exp_m06_b05_millerintro_com_0">
               <Original>Okay, we're on with CTRG 2 i/c, Captain, Scott Miller. Callsign: Keystone. Scott, you there?</Original>
-              <Chinese>好的，我們正與戰研小組情蒐人員，上尉，史考特·米勒通話。呼號:"拱心石"。史考特，你在嗎?</Chinese>
-              <Chinesesimp>好的，我们正与战研大队情搜人员，上校，斯考特·米勒通话。呼号:"拱心石"。斯考特，你在吗?</Chinesesimp>
+              <Chinese>好的，我們正與戰研小組情蒐人員，上尉，史考特·米勒通話。呼號:"基石"。史考特，你在嗎?</Chinese>
+              <Chinesesimp>好的，我们正与战研大队情搜人员，上校，斯考特·米勒通话。呼号："基石"。斯考特，你在吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_b05_millerintro_com_1">
               <Original>Scott, I'm here with our NATO SOF Liaison, Vince Broadale.</Original>
@@ -2940,7 +2940,7 @@
             <Key ID="str_a3_exp_m06_b01_briefingstart_com_0">
               <Original>Ready? We're on a timeline here.</Original>
               <Chinese>好了嗎?現在是個重要的時刻。</Chinese>
-              <Chinesesimp>好了吗?现在是个重要的时刻。</Chinesesimp>
+              <Chinesesimp>好了吗？现在是个重要的时刻。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_b01_briefingstart_lia_0">
               <Original>Yeah.</Original>
@@ -2978,8 +2978,8 @@
             </Key>
             <Key ID="str_a3_exp_m06_90_rendezvous_com_1">
               <Original>Raider 2, RV with Keystone and post security until transport arrives. Out.</Original>
-              <Chinese>"突襲者2"，去與"拱心石"會合並鞏固該地直到運輸載具的抵達。通話完畢。</Chinese>
-              <Chinesesimp>"突袭者2"，去与"拱心石"会合并巩固该地直到运输载具的抵达。通话完毕。</Chinesesimp>
+              <Chinese>"突襲者2"，去與"基石"會合並鞏固該地直到運輸載具的抵達。通話完畢。</Chinese>
+              <Chinesesimp>"突袭者2"，去与"基石"会合并巩固该地直到运输载具的抵达。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_90_rendezvous_mil_0">
               <Original>Alright. ENDEX.</Original>
@@ -3001,7 +3001,7 @@
             <Key ID="str_a3_exp_m06_85_self_destruct_mil_1">
               <Original>They're detonating the drones. Get away from them, rapid!</Original>
               <Chinese>他們正在引爆無人機。快從無人機的旁邊離開，快!</Chinese>
-              <Chinesesimp>他们正在引爆无人机。快从无人机的旁边离开，快!</Chinesesimp>
+              <Chinesesimp>他们正在引爆无人机。快从无人机的旁边离开，快！</Chinesesimp>
             </Key>
           </Container>
           <Container name="80_Island_Captured" audioFilePath="\a3\dubbing_f_exp\exp_m06" dialogName="80_Island_Captured" dubbingLanguage="english" namePrefix="exp_m06_80_island_captured" note="" participants="EXC B CTRG Commander;" situation="hq tells players they've secured the island">
@@ -3024,13 +3024,13 @@
             </Key>
             <Key ID="str_a3_exp_m06_75_corpses_mil_2">
               <Original>Indeed. Keystone out.</Original>
-              <Chinese>確實。"拱心石"通話完畢。</Chinese>
-              <Chinesesimp>确实。"拱心石"通话完毕。</Chinesesimp>
+              <Chinese>確實。"基石"通話完畢。</Chinese>
+              <Chinesesimp>确实。"基石"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_75_corpses_rik_0">
               <Original>Syndikat double-cross?</Original>
               <Chinese>辛迪加黑吃黑?</Chinese>
-              <Chinesesimp>辛迪加黑吃黑?</Chinesesimp>
+              <Chinesesimp>辛迪加黑吃黑？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_75_corpses_rik_1">
               <Original>This just got interesting.</Original>
@@ -3049,7 +3049,7 @@
             <Key ID="str_a3_exp_m06_65_terminal_reminder_mil_0">
               <Original>You'll need a terminal to slave that drone.</Original>
               <Chinese>你們必須使用終端機才能控制那臺無人機。</Chinese>
-              <Chinesesimp>你们必须使用终端机才能控制那台无人车。</Chinesesimp>
+              <Chinesesimp>你们必须使用终端才能控制那台无人车。</Chinesesimp>
             </Key>
           </Container>
           <Container name="60_Turret_Spotted" audioFilePath="\a3\dubbing_f_exp\exp_m06" dialogName="60_Turret_Spotted" dubbingLanguage="english" namePrefix="exp_m06_60_turret_spotted" note="" participants="EXC B Miller;" situation="players discover an autonomous turret for the first time">
@@ -3080,7 +3080,7 @@
             <Key ID="str_a3_exp_m06_50_terminal_spotted_mil_0">
               <Original>That station controls an aerial drone, Raider 2. You'll need a UAV terminal to hack it.</Original>
               <Chinese>這個控制站連接著空中無人載具，"突襲者2"。你們必須使用終端機來駭進去。</Chinese>
-              <Chinesesimp>这个控制站连接着一架无人机，"突袭者2"。你们必须使用终端机来黑进去。</Chinesesimp>
+              <Chinesesimp>这个控制站连接着一架无人机，"突袭者2"。你们必须使用终端来黑进去。</Chinesesimp>
             </Key>
           </Container>
           <Container name="45_Reveal" audioFilePath="\a3\dubbing_f_exp\exp_m06" dialogName="45_Reveal" dubbingLanguage="english" namePrefix="exp_m06_45_reveal" note="" participants="EXC B CTRG Commander;EXC B Salvo;EXC B Grimm;EXC B Miller;" situation="hq confirms the island has been taken over by syndikat">
@@ -3124,7 +3124,7 @@
             <Key ID="str_a3_exp_m06_40_drones_attack_mil_0">
               <Original>If you can get close, you should be able to slave control to your terminal.</Original>
               <Chinese>假如你們夠靠近控制站的話，你們就能轉移控制權限到手上的終端機。</Chinese>
-              <Chinesesimp>假如你们够靠近控制站的话，你们就能转移控制权限到手上的终端机。</Chinesesimp>
+              <Chinesesimp>假如你们够靠近控制站的话，你们就能转移控制权限到手上的终端。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_40_drones_attack_mil_1">
               <Original>Fuck. Looks like their guidance systems are offline. You'll have to pilot them manually.</Original>
@@ -3179,7 +3179,7 @@
             <Key ID="str_a3_exp_m06_15_drone_connect_mil_1">
               <Original>Raider 2, that drone'll be connected to Viper's network. If you have a terminal, try to force your way in.</Original>
               <Chinese>"突襲者2"，這無人機是與"毒蛇"的網路一起連接的。假如你們有終端機的話，請試著登入看看。</Chinese>
-              <Chinesesimp>"突袭者2"，这无人机是与"毒蛇"的网络一起连接的。假如你们有终端机的话，请试着登入看看。</Chinesesimp>
+              <Chinesesimp>"突袭者2"，这无人机是与"毒蛇"的网络一起连接的。假如你们有终端的话，请试着登入看看。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_15_drone_connect_mil_2">
               <Original>May even be one in its cargo bins.</Original>
@@ -3202,13 +3202,13 @@
           <Container name="105_ApexReport" audioFilePath="\a3\dubbing_f_exp\exp_m06" dialogName="105_ApexReport" dubbingLanguage="english" namePrefix="exp_m06_105_apexreport" note="" participants="EXC B Miller;EXC B CTRG Commander;" situation="miller updates hq on the situation">
             <Key ID="str_a3_exp_m06_105_apexreport_com_0">
               <Original>Acknowledged, Keystone. Grab whatever intel you can - and get us some footage of that Viper camp.</Original>
-              <Chinese>了解，"拱心石"。拿取所有能拿的情報-然後用畫面給我們看一下"毒蛇"的營地。</Chinese>
-              <Chinesesimp>了解，"拱心石"。拿取所有能拿的情报-然后用画面给我们看一下"毒蛇"的营地。</Chinesesimp>
+              <Chinese>了解，"基石"。拿取所有能拿的情報-然後用畫面給我們看一下"毒蛇"的營地。</Chinese>
+              <Chinesesimp>了解，"基石"。拿取所有能拿的情报 — 然后用画面给我们看一下"毒蛇"的营地。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_105_apexreport_mil_0">
               <Original>Watchtower, Keystone. Objective is now clear.</Original>
-              <Chinese>"守望塔"，這裡是"拱心石"。目標已安全。</Chinese>
-              <Chinesesimp>"守望塔"，这里是"拱心石"。目标已安全。</Chinesesimp>
+              <Chinese>"守望塔"，這裡是"基石"。目標已安全。</Chinese>
+              <Chinesesimp>"守望塔"，这里是"基石"。目标已安全。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_105_apexreport_mil_1">
               <Original>We've located the Viper black site, but no sign of the Device. I say again, Eastwind Device is not here, over.</Original>
@@ -3253,8 +3253,8 @@
           <Container name="01_Start" audioFilePath="\a3\dubbing_f_exp\exp_m06" dialogName="01_Start" dubbingLanguage="english" namePrefix="exp_m06_01_start" note="" participants="EXC B Miller;EXC B CTRG Commander;" situation="hq connects the feed, miller tells players to regroup">
             <Key ID="str_a3_exp_m06_01_start_com_0">
               <Original>Keystone, Watchtower, we're synced.</Original>
-              <Chinese>"拱心石"，這裡是"守望塔"，訊號已同步。</Chinese>
-              <Chinesesimp>"拱心石"，这里是"守望塔"，信号已同步。</Chinesesimp>
+              <Chinese>"基石"，這裡是"守望塔"，訊號已同步。</Chinese>
+              <Chinesesimp>"基石"，这里是"守望塔"，信号已同步。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_01_start_mil_0">
               <Original>Roger. Out.</Original>
@@ -3271,8 +3271,8 @@
         <Container name="EXP_m03">
           <Key ID="str_a3_exp_m03_timeline">
             <Original>48 Hours before Keystone Extraction</Original>
-            <Chinese>"拱心石"撤離行動前48小時</Chinese>
-            <Chinesesimp>"拱心石"撤离行动前48小时</Chinesesimp>
+            <Chinese>"基石"撤離行動前48小時</Chinese>
+            <Chinesesimp>"基石"撤离行动前48小时</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m03_tasks_tsk_destroy4_title">
             <Original>Destroy the 4th Stockpile</Original>
@@ -3367,7 +3367,7 @@
           <Key ID="str_a3_exp_m03_sitreptext_3">
             <Original>06:30 Hours</Original>
             <Chinese>06:30時分</Chinese>
-            <Chinesesimp>06:30时</Chinesesimp>
+            <Chinesesimp>06：30时</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m03_sitreptext_2">
             <Original>Sunday, August 12th, 2035</Original>
@@ -3512,7 +3512,7 @@
           <Key ID="str_a3_exp_m03_briefing_intel_1">
             <Original>Valid Syndikat targets marked for demolition:</Original>
             <Chinese>需被摧毀的辛迪加目標:</Chinese>
-            <Chinesesimp>需被摧毁的辛迪加目标:</Chinesesimp>
+            <Chinesesimp>需被摧毁的辛迪加目标：</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m03_briefing_execution_2">
             <Original>2. Move to %2extract%1.</Original>
@@ -3538,26 +3538,26 @@
             <Key ID="str_a3_exp_m03_x03_late_arrival_pil_0">
               <Original>Raider 2, Angel 3-2, what the hell is taking so long? Get to the LZ, now!</Original>
               <Chinese>"突襲者2"，這裡是"天使3-2"，你們在搞啥飛機阿，搞那麼久?趕快過來降落點，馬上!</Chinese>
-              <Chinesesimp>"突袭者2"，这里是"天使3-2"，你们怎么搞那么久?赶快来降落点，马上!</Chinesesimp>
+              <Chinesesimp>"突袭者2"，这里是"天使3-2"，你们怎么搞那么久？赶快来降落点，马上！</Chinesesimp>
             </Key>
           </Container>
           <Container name="x02_slow_players" audioFilePath="\a3\dubbing_f_exp\exp_m03" dialogName="x02_slow_players" dubbingLanguage="english" namePrefix="exp_m03_x02_slow_players" note="" participants="EXC B Pilot;" situation="players lost their vehicle">
             <Key ID="str_a3_exp_m03_x02_slow_players_pil_0">
               <Original>Where are rest of you guys?</Original>
               <Chinese>你們其他人在哪裡?</Chinese>
-              <Chinesesimp>你们其他人在哪里?</Chinesesimp>
+              <Chinesesimp>你们其他人在哪里？</Chinesesimp>
             </Key>
           </Container>
           <Container name="x01_accident" audioFilePath="\a3\dubbing_f_exp\exp_m03" dialogName="x01_accident" dubbingLanguage="english" namePrefix="exp_m03_x01_accident" note="" participants="EXC B CTRG Commander;" situation="players lost their vehicle">
             <Key ID="str_a3_exp_m03_x01_accident_com_0">
               <Original>For Christ's sake, Raider 2, who taught you to drive?</Original>
               <Chinese>天殺的，"突襲者2"，是誰教你們開車的?</Chinese>
-              <Chinesesimp>看在老天爷份儿上，"突袭者2"，是谁教你们开车的?</Chinesesimp>
+              <Chinesesimp>看在老天爷份儿上，"突袭者2"，是谁教你们开车的？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m03_x01_accident_com_1">
               <Original>On your feet, and hump it to the LZ. On the double!</Original>
               <Chinese>趕快用你們的腳走到降落點那裡。加緊速度!</Chinese>
-              <Chinesesimp>赶快用你们的脚走到降落点那里。加紧速度!</Chinesesimp>
+              <Chinesesimp>赶快用你们的脚走到降落点那里。加紧速度！</Chinesesimp>
             </Key>
           </Container>
           <Container name="b25_Situation_3" audioFilePath="\a3\dubbing_f_exp\exp_m03" dialogName="b25_Situation_3" dubbingLanguage="english" namePrefix="exp_m03_b25_situation_3" note="" participants="EXC B CTRG Commander;EXC B SOF Liaison;" situation="commanders introduction">
@@ -3586,7 +3586,7 @@
             <Key ID="str_a3_exp_m03_b20_situation_2_com_0">
               <Original>No time for politics. As I said: this is time sensitive.</Original>
               <Chinese>沒有時間去搞政治了。而且就像我說的:現在時機很緊迫。</Chinese>
-              <Chinesesimp>没有时间去搞政治了。而且就像我说的:现在时机很紧迫。</Chinesesimp>
+              <Chinesesimp>没有时间去搞政治了。而且就像我说的：现在时机很紧迫。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m03_b20_situation_2_com_1">
               <Original>My CTRG team is here now. We'll finish the job.</Original>
@@ -3628,7 +3628,7 @@
             <Key ID="str_a3_exp_m03_b20_situation_1_lia_0">
               <Original>What's the play?</Original>
               <Chinese>有什麼計劃?</Chinese>
-              <Chinesesimp>有什么计划?</Chinesesimp>
+              <Chinesesimp>有什么计划？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m03_b20_situation_1_com_2">
               <Original>Maybe, maybe not. Could just be a distribution hub.</Original>
@@ -3638,12 +3638,12 @@
             <Key ID="str_a3_exp_m03_b20_situation_1_com_3">
               <Original>That's why we need to hit them now - before they can move this kit out to the adjacent islands.</Original>
               <Chinese>這就是為什麼我們得現在立刻攻擊他們-搶在他們把這些東西給移到別的島嶼上之前。</Chinese>
-              <Chinesesimp>这就是为什么我们得现在立刻攻击他们-抢在他们把这些东西给移到别的岛屿上之前。</Chinesesimp>
+              <Chinesesimp>这就是为什么我们得现在立刻攻击他们 — 抢在他们把这些东西给移到别的岛屿上之前。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m03_b20_situation_1_lia_1">
               <Original>Syndikat planning something big?</Original>
               <Chinese>辛迪加打算做什麼大事嗎?</Chinese>
-              <Chinesesimp>辛迪加打算做什么大事吗?</Chinesesimp>
+              <Chinesesimp>辛迪加打算做什么大事吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="b15_WeaponsCache" audioFilePath="\a3\dubbing_f_exp\exp_m03" dialogName="b15_WeaponsCache" dubbingLanguage="english" namePrefix="exp_m03_b15_weaponscache" note="" participants="EXC B CTRG Commander;EXC B SOF Liaison;" situation="commanders introduction">
@@ -3670,7 +3670,7 @@
             <Key ID="str_a3_exp_m03_b15_weaponscache_lia_1">
               <Original>How so?</Original>
               <Chinese>怎麼說?</Chinese>
-              <Chinesesimp>怎么说?</Chinesesimp>
+              <Chinesesimp>怎么说？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m03_b15_weaponscache_com_3">
               <Original>Exactly. We've not been able to get a LOCSTAT on him as of yet. Guy's a ghost.</Original>
@@ -3687,7 +3687,7 @@
             <Key ID="str_a3_exp_m03_b10_interrupt_com_0">
               <Original>What's that?</Original>
               <Chinese>什麼箱子?</Chinese>
-              <Chinesesimp>什么箱子?</Chinesesimp>
+              <Chinesesimp>什么箱子？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m03_b10_interrupt_lia_0">
               <Original>That cache was a curveball.</Original>
@@ -3704,7 +3704,7 @@
             <Key ID="str_a3_exp_m03_b01_altiswrapup_aan_1">
               <Original>With a new round of NATO-CSAT talks due imminently, strategic analysts point to encouraging signs of a lasting peace, with a shared peacekeeping deal on the table.</Original>
               <Chinese>而藉由新一輪的北約-廣協同盟緊急會談，各戰略分析人員都指出世界有正走向長久和平的跡象，最後雙方也在談判桌上達成共同維持和平的協議。</Chinese>
-              <Chinesesimp>而借由新一轮的北约-广协紧急会谈，各战略分析人员都指出世界有正走向长久和平的迹象，最后双方也在谈判桌上达成共同维持和平的协议。</Chinesesimp>
+              <Chinesesimp>而借由新一轮的北约 — 广协紧急会谈，各战略分析人员都指出世界有正走向长久和平的迹象，最后双方也在谈判桌上达成共同维持和平的协议。</Chinesesimp>
             </Key>
           </Container>
           <Container name="60_LZ" audioFilePath="\a3\dubbing_f_exp\exp_m03" dialogName="60_LZ" dubbingLanguage="english" namePrefix="exp_m03_60_lz" note="" participants="EXC B Riker;EXC B Pilot;EXC B SOF Liaison;EXC B Salvo;" situation="talk near the chopper">
@@ -3721,17 +3721,17 @@
             <Key ID="str_a3_exp_m03_60_lz_pil_0">
               <Original>Welcome to LZ Vesuvius, boys! We've been waiting for you.</Original>
               <Chinese>歡迎來到維蘇威降落點，伙計們!我們正在等著你們。</Chinese>
-              <Chinesesimp>欢迎来到维苏威降落点，伙计们!我们正在等着你们。</Chinesesimp>
+              <Chinesesimp>欢迎来到维苏威降落点，伙计们！我们正在等着你们。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m03_60_lz_pil_1">
               <Original>Hey, hold up, weren't you supposed to arrive in an LSV?</Original>
               <Chinese>嘿，等等，你們不是該駕駛著一臺輕型突擊車過來嗎?</Chinese>
-              <Chinesesimp>嘿，等等，你们不是该驾驶着一台轻型突击车过来吗?</Chinesesimp>
+              <Chinesesimp>嘿，等等，你们不是该驾驶着一台轻型突击车过来吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m03_60_lz_pil_2">
               <Original>Northstar Actual, this is Angel 3-2. We picking up anyone else? Over.</Original>
               <Chinese>"北極星"指揮，這裡是"天使3-2"。還有要接送的人嗎?完畢。</Chinese>
-              <Chinesesimp>"北极星"指挥，这里是"天使3-2"。还有要接送的人吗?完毕。</Chinesesimp>
+              <Chinesesimp>"北极星"指挥，这里是"天使3-2"。还有要接送的人吗？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m03_60_lz_lia_2">
               <Original>Roger that. We'll put aside some bacon and eggs for you, Angel 3-2. Out.</Original>
@@ -3761,7 +3761,7 @@
             <Key ID="str_a3_exp_m03_60_lz_sal_0">
               <Original>Repairs? Is this guy for real?</Original>
               <Chinese>維修?他不是在說笑吧?</Chinese>
-              <Chinesesimp>维修?他不是在说笑吧?</Chinesesimp>
+              <Chinesesimp>维修？他不是在说笑吧？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m03_60_lz_pil_6">
               <Original>Now let's try to get back to the Task Force before all the breakfast is gone.</Original>
@@ -3815,7 +3815,7 @@
             <Key ID="str_a3_exp_m03_57_reach_observatory_trk_0">
               <Original>So, NATO's gonna be our chauffeur again?</Original>
               <Chinese>所以，北約再次成為了我們的司機?</Chinese>
-              <Chinesesimp>所以，北约再次成为了我们的司机?</Chinesesimp>
+              <Chinesesimp>所以，北约再次成为了我们的司机？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m03_57_reach_observatory_rik_1">
               <Original>Let's move.</Original>
@@ -3857,7 +3857,7 @@
             <Key ID="str_a3_exp_m03_55_reach_observatory_trk_0">
               <Original>A Blackfish? I'd rather walk.</Original>
               <Chinese>一臺"黑魚"?我還比較情願用走的。</Chinese>
-              <Chinesesimp>一架"黑鱼"?我还比较情愿用走的。</Chinesesimp>
+              <Chinesesimp>一架"黑鱼"？我还比较情愿用走的。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m03_55_reach_observatory_rik_0">
               <Original>Shut up, Salvo.</Original>
@@ -3867,7 +3867,7 @@
             <Key ID="str_a3_exp_m03_55_reach_observatory_sal_0">
               <Original>Riker, c'mon. We really catching a ride in one of those death traps?</Original>
               <Chinese>瑞克，拜託。我們真的要去搭那種死亡陷阱嗎?</Chinese>
-              <Chinesesimp>瑞克，拜托。我们真的要去搭那种死亡陷阱吗?</Chinesesimp>
+              <Chinesesimp>瑞克，拜托。我们真的要去搭那种死亡陷阱吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m03_55_reach_observatory_rik_1">
               <Original>Roger your last, Watchtower.</Original>
@@ -3935,7 +3935,7 @@
             <Key ID="str_a3_exp_m03_30_supportteamretreating_rik_1">
               <Original>We're not doing much good from up here - my callsigns gonna press an attack, over.</Original>
               <Chinese>我們從這邊無法有效的還擊-我的小隊正打算發起進攻，完畢。</Chinese>
-              <Chinesesimp>我们从这边无法有效的还击-我的小队正打算发起进攻，完毕。</Chinesesimp>
+              <Chinesesimp>我们从这边无法有效的还击 — 我的小队正打算发起进攻，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="25_allSuppliesDestroyed" audioFilePath="\a3\dubbing_f_exp\exp_m03" dialogName="25_allSuppliesDestroyed" dubbingLanguage="english" namePrefix="exp_m03_25_allsuppliesdestroyed" note="" participants="EXC B CTRG Commander;" situation="players rig all supplies with explosives">
@@ -3947,7 +3947,7 @@
             <Key ID="str_a3_exp_m03_25_allsuppliesdestroyed_com_1">
               <Original>New mission: your callsign, complete, is to move to exfil.</Original>
               <Chinese>新任務:你們的主要目標已達成，現在請前往撤離點。</Chinese>
-              <Chinesesimp>新任务:你们的主要目标已达成，现在请前往撤离点。</Chinesesimp>
+              <Chinesesimp>新任务：你们的主要目标已达成，现在请前往撤离点。</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_SuppliesDestroyed" audioFilePath="\a3\dubbing_f_exp\exp_m03" dialogName="20_SuppliesDestroyed" dubbingLanguage="english" namePrefix="exp_m03_20_suppliesdestroyed" note="" participants="EXC B CTRG Commander;" situation="players rig explosives on most of supply crates.">
@@ -3966,7 +3966,7 @@
             <Key ID="str_a3_exp_m03_15_detected_rik_0">
               <Original>Contact! Wait out!</Original>
               <Chinese>接敵!先停火!</Chinese>
-              <Chinesesimp>接敌!先别打!</Chinesesimp>
+              <Chinesesimp>接敌！先别打！</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_Overwatch" audioFilePath="\a3\dubbing_f_exp\exp_m03" dialogName="10_Overwatch" dubbingLanguage="english" namePrefix="exp_m03_10_overwatch" note="" participants="EXC B CTRG Commander;EXC B Riker;" situation="players reached overwatch on depot">
@@ -4073,8 +4073,8 @@
         <Container name="EXP_m02">
           <Key ID="str_a3_exp_m02_timeline">
             <Original>72 Hours before Keystone Extraction</Original>
-            <Chinese>"拱心石"撤離行動前72小時</Chinese>
-            <Chinesesimp>"拱心石"撤离行动前72小时</Chinesesimp>
+            <Chinese>"基石"撤離行動前72小時</Chinese>
+            <Chinesesimp>"基石"撤离行动前72小时</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m02_tasks_bis_rv_title">
             <Original>RV with Raider 1</Original>
@@ -4119,7 +4119,7 @@
           <Key ID="str_a3_exp_m02_sitreptext_3">
             <Original>11:10 Hours</Original>
             <Chinese>11:10時分</Chinese>
-            <Chinesesimp>11:10时</Chinesesimp>
+            <Chinesesimp>11：10时</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m02_sitreptext_2">
             <Original>Saturday, August 11th, 2035</Original>
@@ -4235,17 +4235,17 @@
             <Key ID="str_a3_exp_m02_b30_context_3_com_1">
               <Original>We ran your intel. 'Warlock', right?</Original>
               <Chinese>我們讀了你的情報。'術士'，對吧?</Chinese>
-              <Chinesesimp>我们读了你的情报。'术士'，对吧?</Chinesesimp>
+              <Chinesesimp>我们读了你的情报。'术士'，对吧？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_b30_context_3_lia_0">
               <Original>We've been tracking 'Syndikat' for a while. Face value? Bunch of thugs. Guns, drugs. Very violent.</Original>
               <Chinese>我們已經追蹤'辛迪加'這個組織一段時間了。他們嗎?一堆暴徒。槍枝，毒品。非常暴力。</Chinese>
-              <Chinesesimp>我们已经追踪'辛迪加'这个组织一段时间了。他们吗?一堆暴徒。枪支，毒品。非常暴力。</Chinesesimp>
+              <Chinesesimp>我们已经追踪'辛迪加'这个组织一段时间了。他们吗？一堆暴徒。枪支，毒品。非常暴力。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_b30_context_3_lia_1">
               <Original>But - given the current mess - they're expanding.</Original>
               <Chinese>而且-藉由這次災害-他們還不斷的擴大組織。</Chinese>
-              <Chinesesimp>而且-借由这次灾害-他们还不断的扩大组织。</Chinesesimp>
+              <Chinesesimp>而且 — 借由这次灾害 — 他们还不断的扩大组织。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_b30_context_3_lia_2">
               <Original>Right. But there's more to it.</Original>
@@ -4262,7 +4262,7 @@
             <Key ID="str_a3_exp_m02_x20_ambush_backstop_grm_0">
               <Original>Convoy's hit the line. Blowing my charges, clear!</Original>
               <Chinese>車隊碰到線了。正在引爆我的炸藥，淨空!</Chinese>
-              <Chinesesimp>车队碰到线了。正在引爆我的炸药，闪开!</Chinesesimp>
+              <Chinesesimp>车队碰到线了。正在引爆我的炸药，闪开！</Chinesesimp>
             </Key>
           </Container>
           <Container name="x15_Ambush_Spatne" audioFilePath="\a3\dubbing_f_exp\exp_m02" dialogName="x15_Ambush_Spatne" dubbingLanguage="english" namePrefix="exp_m02_x15_ambush_spatne" note="" participants="EXC B Grimm;" situation="players fucking ambush up. select a line at random.">
@@ -4317,7 +4317,7 @@
             <Key ID="str_a3_exp_m02_b50_situation_3_lia_0">
               <Original>And Warlock?</Original>
               <Chinese>那"術士"呢?</Chinese>
-              <Chinesesimp>那"术士"呢?</Chinesesimp>
+              <Chinesesimp>那"术士"呢？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_b50_situation_3_com_3">
               <Original>We can do one better than that. I'll set up a feed.</Original>
@@ -4327,7 +4327,7 @@
             <Key ID="str_a3_exp_m02_b50_situation_3_lia_1">
               <Original>We got eyes on?</Original>
               <Chinese>我們看的到嗎?</Chinese>
-              <Chinesesimp>我们看的到吗?</Chinesesimp>
+              <Chinesesimp>我们看的到吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="b45_Situation_2" audioFilePath="\a3\dubbing_f_exp\exp_m02" dialogName="b45_Situation_2" dubbingLanguage="english" namePrefix="exp_m02_b45_situation_2" note="" participants="EXC B CTRG Commander;EXC B SOF Liaison;" situation="bringing nato liaison up to speed">
@@ -4366,7 +4366,7 @@
             <Key ID="str_a3_exp_m02_b40_situation_1_com_0">
               <Original>Yeah - hold up a sec - let me bring that up.</Original>
               <Chinese>是阿-等我幾秒鐘-讓我把他點開。</Chinese>
-              <Chinesesimp>是啊-等我几秒钟-让我把他点开。</Chinesesimp>
+              <Chinesesimp>是啊 — 等我几秒钟 — 让我把他点开。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_b40_situation_1_com_1">
               <Original>Alright, so your local source, uh...</Original>
@@ -4408,7 +4408,7 @@
             <Key ID="str_a3_exp_m02_b35_context_4_lia_0">
               <Original>Syndikat are pretty big - but they're scattered.</Original>
               <Chinese>辛迪加的確很大-但他們卻很鬆散。</Chinese>
-              <Chinesesimp>辛迪加的确很大-但他们却很松散。</Chinesesimp>
+              <Chinesesimp>辛迪加的确很大 — 但他们却很松散。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_b35_context_4_lia_1">
               <Original>They operate in cells. Somehow Warlock holds it all together.</Original>
@@ -4430,7 +4430,7 @@
             <Key ID="str_a3_exp_m02_b25_context_2_com_1">
               <Original>Now, we've got assets in the field, so this Exercise - this disaster 'clean up' shit - it's a distraction for us.</Original>
               <Chinese>現在我們在這邊還有佈署著單位，但這個行動-災害該死的'清理'工作-卻使我們分神了。</Chinese>
-              <Chinesesimp>现在我们在这边还有布署着单位，但这个行动-灾害该死的'清理'工作-却使我们分神了。</Chinesesimp>
+              <Chinesesimp>现在我们在这边还有布署着单位，但这个行动 — 灾害该死的'清理'工作 — 却使我们分神了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_b25_context_2_com_2">
               <Original>Heh.</Original>
@@ -4440,7 +4440,7 @@
             <Key ID="str_a3_exp_m02_b25_context_2_lia_0">
               <Original>I get that. Look, it's political, strategic. The region's a mess - we're just here to help.</Original>
               <Chinese>我明白了。你看，他們的政治，戰略。這個國家真是一團糟-而我們只是過來幫忙的。</Chinese>
-              <Chinesesimp>我明白了。你看，他们的政治，战略。这个国家真是一团糟-而我们只是过来帮忙的。</Chinesesimp>
+              <Chinesesimp>我明白了。你看，他们的政治，战略。这个国家真是一团糟 — 而我们只是过来帮忙的。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_b25_context_2_lia_1">
               <Original>That's where CTRG comes in. We need a ... special tool for the job.</Original>
@@ -4457,12 +4457,12 @@
             <Key ID="str_a3_exp_m02_b20_context_1_com_1">
               <Original>But - as our NATO liaison - you should be aware of a few, uh, 'operational extras'.</Original>
               <Chinese>但-作為北約的聯絡人-你應該也知道一些，恩，'額外的行動'吧。</Chinese>
-              <Chinesesimp>但-作为北约的联络人-你应该也知道一些，嗯，'额外的行动'吧。</Chinesesimp>
+              <Chinesesimp>但 — 作为北约的联络人 — 你应该也知道一些，嗯，'额外的行动'吧。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_b20_context_1_lia_0">
               <Original>Heh. Well - as your NATO liaison - I'm all ears, commander.</Original>
               <Chinese>嘿。這個嗎-既然我是你的北約聯絡人-我知道的可多了，指揮官。</Chinese>
-              <Chinesesimp>嘿。这个嘛-既然我是你的北约联络人-我知道的可多了，指挥官。</Chinesesimp>
+              <Chinesesimp>嘿。这个嘛 — 既然我是你的北约联络人 — 我知道的可多了，指挥官。</Chinesesimp>
             </Key>
           </Container>
           <Container name="b15_TechGrumble" audioFilePath="\a3\dubbing_f_exp\exp_m02" dialogName="b15_TechGrumble" dubbingLanguage="english" namePrefix="exp_m02_b15_techgrumble" note="" participants="EXC B CTRG Commander;" situation="bitching about security timeout">
@@ -4476,7 +4476,7 @@
             <Key ID="str_a3_exp_m02_b10_voicesoff_com_0">
               <Original>You ready?</Original>
               <Chinese>你好了嗎?</Chinese>
-              <Chinesesimp>你好了吗?</Chinesesimp>
+              <Chinesesimp>你好了吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_b10_voicesoff_lia_0">
               <Original>Sure. Let's get started.</Original>
@@ -4538,7 +4538,7 @@
             <Key ID="str_a3_exp_m02_84_newintel_com_2">
               <Original>Find any and all Syndikat PACs in the area. Roger, over?</Original>
               <Chinese>去該區找到並殲滅所有辛迪加的人員。收到了嗎，完畢?</Chinese>
-              <Chinesesimp>去该区找到并歼灭所有辛迪加的人员。收到了吗，完毕?</Chinesesimp>
+              <Chinesesimp>去该区找到并歼灭所有辛迪加的人员。收到了吗，完毕？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_84_newintel_lia_0">
               <Original>Raider 1, this is Northstar Actual, local police spotted a handful of heavily-armed paramilitaries in your area.</Original>
@@ -4585,7 +4585,7 @@
             <Key ID="str_a3_exp_m02_84_2_newintel_comment_trk_0">
               <Original>What did Northstar mean, 'paramilitaries'? Aren't Syndikat just a bunch of untrained thugs?</Original>
               <Chinese>"北極星"的那句話是什麼意思，'準軍事人員'?難道辛迪加不單純只是些沒經過訓練的混混嗎?</Chinese>
-              <Chinesesimp>"北极星"的那句话是什么意思，'准军事人员'?难道辛迪加不单纯只是些没经过训练的混混吗?</Chinesesimp>
+              <Chinesesimp>"北极星"的那句话是什么意思，'准军事人员'？难道辛迪加不单纯只是些没经过训练的混混吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_84_2_newintel_comment_grm_2">
               <Original>Exactly.</Original>
@@ -4617,14 +4617,14 @@
             <Key ID="str_a3_exp_m02_83_waitone_trk_0">
               <Original>What's the hold up?</Original>
               <Chinese>為啥要等一下阿?</Chinese>
-              <Chinesesimp>为啥要等一下啊?</Chinesesimp>
+              <Chinesesimp>为啥要等一下啊？</Chinesesimp>
             </Key>
           </Container>
           <Container name="80_Convoy_Destroyed" audioFilePath="\a3\dubbing_f_exp\exp_m02" dialogName="80_Convoy_Destroyed" dubbingLanguage="english" namePrefix="exp_m02_80_convoy_destroyed" note="" participants="EXC B Riker;EXC B CTRG Commander;EXC B Grimm;EXC B Truck;EXC B Salvo;" situation="players destroyed the convoy">
             <Key ID="str_a3_exp_m02_80_convoy_destroyed_com_0">
               <Original>Roger, Raider 1. Interrogative, any sign of Warlock?</Original>
               <Chinese>收到，"突襲者1"。提個問題，有任何"術士"的蹤跡嗎?</Chinese>
-              <Chinesesimp>收到，"突袭者1"。提个问题，有任何"术士"的踪迹吗?</Chinesesimp>
+              <Chinesesimp>收到，"突袭者1"。提个问题，有任何"术士"的踪迹吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_80_convoy_destroyed_com_1">
               <Original>Acknowledged. Wait.</Original>
@@ -4727,7 +4727,7 @@
             <Key ID="str_a3_exp_m02_60_charge_set_rik_1">
               <Original>Grimm, how you doing?</Original>
               <Chinese>格里姆，你那邊怎樣?</Chinese>
-              <Chinesesimp>格里姆，你那边怎样?</Chinesesimp>
+              <Chinesesimp>格里姆，你那边怎样？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_60_charge_set_rik_2">
               <Original>Alright. We're good to go on our end.</Original>
@@ -4781,12 +4781,12 @@
             <Key ID="str_a3_exp_m02_30_plan_grm_1">
               <Original>Feel free to throw down your own stuff. Just keep it low profile, yeah? And hit the convoy before they reach the stop line.</Original>
               <Chinese>你們可以在前面點隨意放置炸藥。但請保持低調，記得囉?然後記得在車隊碰到停止線之前就攻擊他們。</Chinese>
-              <Chinesesimp>你们可以在前面点随意放置炸药。但请保持低调，记得啰?然后记得在车队碰到停止线之前就攻击他们。</Chinesesimp>
+              <Chinesesimp>你们可以在前面点随意放置炸药。但请保持低调，记得啰？然后记得在车队碰到停止线之前就攻击他们。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_30_plan_grm_2">
               <Original>Remember: it's on your go. Riker, Truck and Salvo will box them in once you've set things off.</Original>
               <Chinese>記住:由你們來決定時機。瑞克，"卡車"和薩爾沃會在你們引爆炸藥後包圍他們。</Chinese>
-              <Chinesesimp>记住:由你们来决定时机。瑞克，"卡车"和萨尔沃会在你们引爆炸药后包围他们。</Chinesesimp>
+              <Chinesesimp>记住：由你们来决定时机。瑞克，"卡车"和萨尔沃会在你们引爆炸药后包围他们。</Chinesesimp>
             </Key>
           </Container>
           <Container name="25_Briefing" audioFilePath="\a3\dubbing_f_exp\exp_m02" dialogName="25_Briefing" dubbingLanguage="english" namePrefix="exp_m02_25_briefing" note="" participants="EXC B Riker;EXC B CTRG Commander;EXC B Grimm;EXC B Salvo;EXC B Truck;" situation="players are given information in some temple ruins">
@@ -4813,7 +4813,7 @@
             <Key ID="str_a3_exp_m02_25_briefing_trk_0">
               <Original>And Warlock?</Original>
               <Chinese>那"術士"呢?</Chinese>
-              <Chinesesimp>那"术士"呢?</Chinesesimp>
+              <Chinesesimp>那"术士"呢？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_25_briefing_grm_1">
               <Original>Got it. Moving.</Original>
@@ -4828,7 +4828,7 @@
             <Key ID="str_a3_exp_m02_25_briefing_rik_3">
               <Original>Watchtower, Raider 1. Send SITREP on Syndikat convoy, over?</Original>
               <Chinese>"守望塔"，這裡是"突襲者1"。請回報辛迪加車隊的狀況，完畢?</Chinese>
-              <Chinesesimp>"守望塔"，这里是"突袭者1"。请回报辛迪加车队的状况，完毕?</Chinesesimp>
+              <Chinesesimp>"守望塔"，这里是"突袭者1"。请回报辛迪加车队的状况，完毕？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_25_briefing_rik_4">
               <Original>Roger, Watchtower. Raider 1 out.</Original>
@@ -4843,7 +4843,7 @@
             <Key ID="str_a3_exp_m02_25_briefing_rik_6">
               <Original>Grimm, you there?</Original>
               <Chinese>格里姆，你在嗎?</Chinese>
-              <Chinesesimp>格里姆，你在吗?</Chinesesimp>
+              <Chinesesimp>格里姆，你在吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_25_briefing_rik_7">
               <Original>Take Raider 2 and post on the road. I'll move east with Truck and Salvo to cut their egress.</Original>
@@ -4858,7 +4858,7 @@
             <Key ID="str_a3_exp_m02_25_briefing_rik_9">
               <Original>Remember, folks, there's a bridge over there. Leave it standing. Locals have it hard enough as it is - we're here to help, not hinder.</Original>
               <Chinese>記住了大夥，那邊有一座橋。不要把他炸斷了。當地人很需要它-我們是來幫助的，不是來搞破壞的。</Chinese>
-              <Chinesesimp>记住了大伙，那边有一座桥。不要把他炸断了。当地人很需要它-我们是来帮助的，不是来搞破坏的。</Chinesesimp>
+              <Chinesesimp>记住了大伙，那边有一座桥。不要把他炸断了。当地人很需要它 — 我们是来帮助的，不是来搞破坏的。</Chinesesimp>
             </Key>
           </Container>
           <Container name="23_LOL" audioFilePath="\a3\dubbing_f_exp\exp_m02" dialogName="23_LOL" dubbingLanguage="english" namePrefix="exp_m02_23_lol" note="" participants="EXC B Salvo;EXC B Truck;" situation="sal is looking at an ugly statue. separated in case va does a horrible job.">
@@ -4875,7 +4875,7 @@
             <Key ID="str_a3_exp_m02_23_lol_trk_0">
               <Original>What?</Original>
               <Chinese>幹嘛?</Chinese>
-              <Chinesesimp>干嘛?</Chinesesimp>
+              <Chinesesimp>干嘛？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_23_lol_trk_1">
               <Original>Fuck off, Sal.</Original>
@@ -4966,7 +4966,7 @@
             <Key ID="str_a3_exp_m02_107_chineseforeshadow_trk_0">
               <Original>See the markings on those crates? Looked Chinese to me.</Original>
               <Chinese>你們有看到箱子上那些標記嗎?我看起來像是中文字。</Chinese>
-              <Chinesesimp>你们有看到箱子上那些标记吗?我看起来像是中文字。</Chinesesimp>
+              <Chinesesimp>你们有看到箱子上那些标记吗？我看起来像是中文字。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_107_chineseforeshadow_sal_0">
               <Original>Hardly surprising. Black market's saturated with their shit.</Original>
@@ -5066,8 +5066,8 @@
           </Key>
           <Key ID="str_a3_exp_m04_timeline">
             <Original>24 Hours before Keystone Extraction</Original>
-            <Chinese>"拱心石"撤離行動前24小時</Chinese>
-            <Chinesesimp>"拱心石"撤离行动前24小时</Chinesesimp>
+            <Chinese>"基石"撤離行動前24小時</Chinese>
+            <Chinesesimp>"基石"撤离行动前24小时</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m04_situation">
             <Original>Following our assault on Syndikat's supply lines, Blue Cap informed us that Warlock has called a meeting of Syndikat leadership at a %1safehouse%2 near the village of %3Namuvaka%2. This presents us with an opportunity we can't afford to pass up.&lt;br /&gt;&lt;br /&gt;The location is heavily guarded and lies within Syndikat territory, so expect a sizable enemy presence.&lt;br /&gt;&lt;br /&gt;We have the element of surprise, so let's use it. If we're quick, we'll be able to catch them off guard.</Original>
@@ -5077,7 +5077,7 @@
           <Key ID="str_a3_exp_m04_sitrep03">
             <Original>00:00 Hours</Original>
             <Chinese>00:00時分</Chinese>
-            <Chinesesimp>00:00时</Chinesesimp>
+            <Chinesesimp>00：00时</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m04_sitrep02">
             <Original>Monday, August 13th, 2035</Original>
@@ -5156,8 +5156,8 @@
           </Key>
           <Key ID="str_a3_exp_m04_execution">
             <Original>1. Clear the %1target area%2.&lt;br /&gt;2. Capture %3Warlock%2.&lt;br /&gt;3. Move to %4primary exfil%2.</Original>
-            <Chinese>1. 肅清%1目標區%2。&lt;br/&gt;2。逮捕%3"術士"%2. &lt;br/&gt;3。前往%4第一撤離點%2。</Chinese>
-            <Chinesesimp>1. 肃清%1目标区%2。&lt;br/&gt;2。逮捕%3"术士"%2. &lt;br/&gt;3。前往%4第一撤离点%2。</Chinesesimp>
+            <Chinese>1. 肅清%1目標區%2。&lt;br/&gt;2.逮捕%3"術士"%2. &lt;br/&gt;3.前往%4第一撤離點%2。</Chinese>
+            <Chinesesimp>1. 肃清%1目标区%2。&lt;br/&gt;2.逮捕%3"术士"%2. &lt;br/&gt;3.前往%4第一撤离点%2。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m04_end1_description">
             <Original>Despite being lured into a trap, you managed to extract safely from the AO. Whoever these CSAT operatives are, it's likely we haven't seen the last of them</Original>
@@ -5208,17 +5208,17 @@
             <Key ID="str_a3_exp_m04_f05_viper_syndikat_fre_1">
               <Original>What did you expect? That we could manage them alone?</Original>
               <Chinese>你們期待著什麼?讓我們單獨討論並解決它?</Chinese>
-              <Chinesesimp>你们期待什么?让我们自己收拾它?</Chinesesimp>
+              <Chinesesimp>你们期待什么？让我们自己收拾它？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_f05_viper_syndikat_fre_2">
               <Original>It was your men who failed!</Original>
               <Chinese>那是你的人馬失敗了!</Chinese>
-              <Chinesesimp>那是你的人失败了!</Chinesesimp>
+              <Chinesesimp>那是你的人失败了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_f05_viper_syndikat_fre_3">
               <Original>Fuck!</Original>
               <Chinese>靠!</Chinese>
-              <Chinesesimp>靠!</Chinesesimp>
+              <Chinesesimp>靠！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_f05_viper_syndikat_vip_0">
               <Original>We gave you instructions. You failed to follow them.</Original>
@@ -5272,7 +5272,7 @@
             <Key ID="str_a3_exp_m04_70_end_lia_1">
               <Original>You haven't told me everything, have you?</Original>
               <Chinese>你並沒有告訴我全部的事情，是嗎?</Chinese>
-              <Chinesesimp>你并没有告诉我全部的事情，是吗?</Chinesesimp>
+              <Chinesesimp>你并没有告诉我全部的事情，是吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_70_end_lia_2">
               <Original>Looks like you just made it my concern, Major.</Original>
@@ -5320,7 +5320,7 @@
             <Key ID="str_a3_exp_m04_b35_connect_lia_0">
               <Original>What about NATO support?</Original>
               <Chinese>那需要北約的支援嗎?</Chinese>
-              <Chinesesimp>那需要北约的支援吗?</Chinesesimp>
+              <Chinesesimp>那需要北约的支援吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_b35_connect_com_2">
               <Original>I'll connect the feed.</Original>
@@ -5352,7 +5352,7 @@
             <Key ID="str_a3_exp_m04_b30_situation_4_lia_0">
               <Original>What's the execution?</Original>
               <Chinese>任務計劃呢?</Chinese>
-              <Chinesesimp>任务计划呢?</Chinesesimp>
+              <Chinesesimp>任务计划呢？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_b30_situation_4_lia_1">
               <Original>Sounds simple.</Original>
@@ -5384,7 +5384,7 @@
             <Key ID="str_a3_exp_m04_b25_situation_3_lia_1">
               <Original>Who, Daltgreen?</Original>
               <Chinese>誰，達特格林?</Chinese>
-              <Chinesesimp>谁，达特格林?</Chinesesimp>
+              <Chinesesimp>谁，达特格林？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_b25_situation_3_com_3">
               <Original>Looks like it. 'Blue Cap' provided a location.</Original>
@@ -5394,7 +5394,7 @@
             <Key ID="str_a3_exp_m04_b25_situation_3_lia_2">
               <Original>Anything concrete?</Original>
               <Chinese>有任何具體的事實嗎?</Chinese>
-              <Chinesesimp>有任何具体的事实吗?</Chinesesimp>
+              <Chinesesimp>有任何具体的事实吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_b25_situation_3_com_4">
               <Original>One sec.</Original>
@@ -5404,12 +5404,12 @@
             <Key ID="str_a3_exp_m04_b25_situation_3_lia_3">
               <Original>Warlock?</Original>
               <Chinese>"術士"辦的?</Chinese>
-              <Chinesesimp>"术士"办的?</Chinesesimp>
+              <Chinesesimp>"术士"办的？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_b25_situation_3_lia_4">
               <Original>Can you bring it up?</Original>
               <Chinese>你能指出位置嗎?</Chinese>
-              <Chinesesimp>你能指出位置吗?</Chinesesimp>
+              <Chinesesimp>你能指出位置吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="b20_Situation_2" audioFilePath="\a3\dubbing_f_exp\exp_m04" dialogName="b20_Situation_2" dubbingLanguage="english" namePrefix="exp_m04_b20_situation_2" note="" participants="EXC B CTRG Commander;EXC B SOF Liaison;" situation="commanders introduction">
@@ -5436,7 +5436,7 @@
             <Key ID="str_a3_exp_m04_b20_situation_2_lia_0">
               <Original>Details?</Original>
               <Chinese>細節呢?</Chinese>
-              <Chinesesimp>细节呢?</Chinesesimp>
+              <Chinesesimp>细节呢？</Chinesesimp>
             </Key>
           </Container>
           <Container name="b15_Situation_1" audioFilePath="\a3\dubbing_f_exp\exp_m04" dialogName="b15_Situation_1" dubbingLanguage="english" namePrefix="exp_m04_b15_situation_1" note="" participants="EXC B CTRG Commander;EXC B SOF Liaison;" situation="commanders introduction">
@@ -5453,7 +5453,7 @@
             <Key ID="str_a3_exp_m04_b15_situation_1_lia_0">
               <Original>Wasn't that the point?</Original>
               <Chinese>這不就是我們想要的嗎?</Chinese>
-              <Chinesesimp>这不就是我们想要的吗?</Chinesesimp>
+              <Chinesesimp>这不就是我们想要的吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_b15_situation_1_lia_1">
               <Original>Heh.</Original>
@@ -5465,7 +5465,7 @@
             <Key ID="str_a3_exp_m04_b10_interrupt_lia_0">
               <Original>Okay, let's get started. What's the latest?</Original>
               <Chinese>好的，讓我們開始吧。有什麼最新消息嗎?</Chinese>
-              <Chinesesimp>好的，让我们开始吧。有什么最新消息吗?</Chinesesimp>
+              <Chinesesimp>好的，让我们开始吧。有什么最新消息吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="b05_TanoaReport_2" audioFilePath="\a3\dubbing_f_exp\exp_m04" dialogName="b05_TanoaReport_2" dubbingLanguage="english" namePrefix="exp_m04_b05_tanoareport_2" note="" participants="EXC C Correspondent;" situation="extra background if there is time.">
@@ -5491,7 +5491,7 @@
             <Key ID="str_a3_exp_m04_65_feed_start_sal_0">
               <Original>This shit again?</Original>
               <Chinese>該死還來?</Chinese>
-              <Chinesesimp>该死还来?</Chinesesimp>
+              <Chinesesimp>该死还来？</Chinesesimp>
             </Key>
           </Container>
           <Container name="60_Status" audioFilePath="\a3\dubbing_f_exp\exp_m04" dialogName="60_Status" dubbingLanguage="english" namePrefix="exp_m04_60_status" note="" participants="EXC B Riker;EXC B Salvo;EXC B Truck;EXC B Grimm;" situation="team chats in the back of the truck">
@@ -5503,12 +5503,12 @@
             <Key ID="str_a3_exp_m04_60_status_rik_0">
               <Original>Truck, how's the arm back there, buddy?</Original>
               <Chinese>"卡車"，你的手臂好多了嗎，伙計?</Chinese>
-              <Chinesesimp>"卡车"，你的手臂好点了吗，伙计?</Chinesesimp>
+              <Chinesesimp>"卡车"，你的手臂好点了吗，伙计？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_60_status_sal_0">
               <Original>What the fuck just happened, anyway?</Original>
               <Chinese>天殺的，剛剛到底發生了什麼事?</Chinese>
-              <Chinesesimp>天杀的，刚刚到底发生了什么事?</Chinesesimp>
+              <Chinesesimp>天杀的，刚刚到底发生了什么事？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_60_status_trk_0">
               <Original>Hurts like a motherfucker. Packed it, strapped three FFD's on er. Bleeding's stopped.</Original>
@@ -5532,7 +5532,7 @@
             <Key ID="str_a3_exp_m04_50_near_exfil_rik_0">
               <Original>Raider 2! Mount up!</Original>
               <Chinese>"突襲者2"!上車!</Chinese>
-              <Chinesesimp>"突袭者2"!上车!</Chinesesimp>
+              <Chinesesimp>"突袭者2"！上车！</Chinesesimp>
             </Key>
           </Container>
           <Container name="45_Mystery" audioFilePath="\a3\dubbing_f_exp\exp_m04" dialogName="45_Mystery" dubbingLanguage="english" namePrefix="exp_m04_45_mystery" note="" participants="EXC B Riker;EXC B CTRG Commander;" situation="players divert to a civilian truck">
@@ -5544,7 +5544,7 @@
             <Key ID="str_a3_exp_m04_45_mystery_com_1">
               <Original>Leave it, Sergeant. You'll have a full debrief once you return. Over?</Original>
               <Chinese>先別急，中士。等你們回來後會再向你們好好說明。完畢?</Chinese>
-              <Chinesesimp>先别急，中士。等你们回来后会再向你们好好说明。完毕?</Chinesesimp>
+              <Chinesesimp>先别急，中士。等你们回来后会再向你们好好说明。完毕？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_45_mystery_rik_0">
               <Original>Raider 2, be advised, we've commandeered a civilian truck for transport. PID your targetry.</Original>
@@ -5559,7 +5559,7 @@
             <Key ID="str_a3_exp_m04_45_mystery_rik_2">
               <Original>What's going on, boss? I thought 14 went dark after Altis?</Original>
               <Chinese>到底發生了什麼事，老大?我以為14分隊在阿爾蒂斯事件以後就被滅團了?</Chinese>
-              <Chinesesimp>到底发生了什么事，老大?我还以为14大队在阿尔蒂斯事件以后就全灭了?</Chinesesimp>
+              <Chinesesimp>到底发生了什么事，老大？我还以为14大队在阿尔蒂斯事件以后就全灭了？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_45_mystery_rik_3">
               <Original>Raider 1, out.</Original>
@@ -5590,12 +5590,12 @@
             <Key ID="str_a3_exp_m04_30_feed_end_com_1">
               <Original>New tasking: your callsign complete, is to move to the secondary exfil. Over.</Original>
               <Chinese>新任務:你小隊的任務已完成，現在請前往第二撤離點。完畢。</Chinese>
-              <Chinesesimp>新任务:你小队的任务已完成，现在请前往第二撤离点。完毕。</Chinesesimp>
+              <Chinesesimp>新任务：你小队的任务已完成，现在请前往第二撤离点。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_30_feed_end_rik_0">
               <Original>Watchtower, what's our play, over?</Original>
               <Chinese>"守望塔"，我們該幹什麼，完畢?</Chinese>
-              <Chinesesimp>"守望塔"，我们该干什么，完毕?</Chinesesimp>
+              <Chinesesimp>"守望塔"，我们该干什么，完毕？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_30_feed_end_com_2">
               <Original>We have intel working on it now. Just focus on the task at hand. Out.</Original>
@@ -5610,14 +5610,14 @@
             <Key ID="str_a3_exp_m04_30_feed_end_rik_2">
               <Original>Interrogative, can you confirm the origin of these broadcasts? Over.</Original>
               <Chinese>提個問題，你能確認出這些影片的來源嗎?完畢。</Chinese>
-              <Chinesesimp>提个问题，你能确认出这些影片的来源吗?完毕。</Chinesesimp>
+              <Chinesesimp>提个问题，你能确认出这些影片的来源吗？完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="25_Feed_Explain" audioFilePath="\a3\dubbing_f_exp\exp_m04" dialogName="25_Feed_Explain" dubbingLanguage="english" namePrefix="exp_m04_25_feed_explain" note="" participants="EXC B Riker;" situation="riker begins to suspect he knows the source">
             <Key ID="str_a3_exp_m04_25_feed_explain_rik_0">
               <Original>Watchtower, is this who I think it is?</Original>
               <Chinese>"守望塔"，這訊號源會不會是我認識的那個人?</Chinese>
-              <Chinesesimp>"守望塔"，这信号源会不会是我认识的那个人?</Chinesesimp>
+              <Chinesesimp>"守望塔"，这信号源会不会是我认识的那个人？</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_Feed_Start" audioFilePath="\a3\dubbing_f_exp\exp_m04" dialogName="20_Feed_Start" dubbingLanguage="english" namePrefix="exp_m04_20_feed_start" note="" participants="EXC B Riker;" situation="another unknown feed is starting">
@@ -5641,7 +5641,7 @@
             <Key ID="str_a3_exp_m04_15_defeated_rik_0">
               <Original>Watchtower, Raider 1. Radio check, over?</Original>
               <Chinese>"守望塔"，這裡是"突襲者1"。無線電檢查，完畢?</Chinese>
-              <Chinesesimp>"守望塔"，这里是"突袭者1"。无线电检查，完毕?</Chinesesimp>
+              <Chinesesimp>"守望塔"，这里是"突袭者1"。无线电检查，完毕？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_15_defeated_rik_1">
               <Original>Be advised, multiple enemy dead; 1 times friendly, type 3 casualty, walking wounded. Truck's on his feet now.</Original>
@@ -5656,7 +5656,7 @@
             <Key ID="str_a3_exp_m04_15_defeated_rik_3">
               <Original>Definitely Chinese - maybe CSAT - but, their equipment is pretty advanced. Prototypes, maybe.</Original>
               <Chinese>絕對是中國人-或許是廣協同盟的-但他們的裝備相當先進。或許是實驗性裝備。</Chinese>
-              <Chinesesimp>绝对是中国人-或许是广协的-但他们的装备相当先进。或许是实验性装备。</Chinesesimp>
+              <Chinesesimp>绝对是中国人 — 或许是广协的 — 但他们的装备相当先进。或许是实验性装备。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_Attack" audioFilePath="\a3\dubbing_f_exp\exp_m04" dialogName="10_Attack" dubbingLanguage="english" namePrefix="exp_m04_10_attack" note="" participants="EXC B CTRG Commander;" situation="the other team has gone quiet">
@@ -5675,22 +5675,22 @@
             <Key ID="str_a3_exp_m04_05_empty_com_1">
               <Original>Raider 1, I say again, confirm point of origin. Raider 1, radio check, over? Raider 1, nothing heard, out.</Original>
               <Chinese>"突襲者1"，我重複一遍，請確認訊號來源。"突襲者1"，無線電檢查，完畢?"突襲者1"，我這什麼都沒聽到，通話完畢。</Chinese>
-              <Chinesesimp>"突袭者1"，我重复一遍，请确认信号来源。"突袭者1"，无线电检查，完毕?"突袭者1"，我这什么都没听到，通话完毕。</Chinesesimp>
+              <Chinesesimp>"突袭者1"，我重复一遍，请确认信号来源。"突袭者1"，无线电检查，完毕？"突袭者1"，我这什么都没听到，通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_05_empty_rik_0">
               <Original>Shit, that's Blue Cap!</Original>
               <Chinese>該死，那是藍帽!</Chinese>
-              <Chinesesimp>该死，那是蓝帽!</Chinesesimp>
+              <Chinesesimp>该死，那是蓝帽！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_05_empty_rik_1">
               <Original>Watchtower, SITREP, our POC's been - the fuck?</Original>
               <Chinese>"守望塔"，狀況回報，我們的線人他被-搞啥鬼?</Chinese>
-              <Chinesesimp>"守望塔"，状况回报，我们的线人他被-搞啥鬼?</Chinesesimp>
+              <Chinesesimp>"守望塔"，状况回报，我们的线人他被 — 搞啥鬼？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_05_empty_rik_2">
               <Original>We being hacked here? Watchtower, someone's connecting to - wait, no, it's a burst transmission.</Original>
               <Chinese>我們被駭入了嗎?"守望塔"，某人正在連接-等等，不，這是個脈衝傳輸。</Chinese>
-              <Chinesesimp>我们被侵入了吗?"守望塔"，某人正在连接-等等，不，这是个脉冲传输。</Chinesesimp>
+              <Chinesesimp>我们被侵入了吗？"守望塔"，某人正在连接 — 等等，不，这是个脉冲传输。</Chinesesimp>
             </Key>
           </Container>
           <Key ID="str_a3_exp_m04_missiontitle">
@@ -5717,7 +5717,7 @@
             <Key ID="str_a3_exp_m04_01_blocking_rik_0">
               <Original>Watchtower, Raider 1. Radio check over?</Original>
               <Chinese>"守望塔"，這裡是"突襲者1"。無線電檢查完畢?</Chinese>
-              <Chinesesimp>"守望塔"，这里是"突袭者1"。无线电检查完毕?</Chinesesimp>
+              <Chinesesimp>"守望塔"，这里是"突袭者1"。无线电检查完毕？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_01_blocking_rik_1">
               <Original>That's me set up at the blocking position. Raider 2's ready to move in on Warlock now. Over.</Original>
@@ -5850,7 +5850,7 @@
           <Key ID="str_a3_exp_m07_sitrep03">
             <Original>18:50 Hours</Original>
             <Chinese>18:50時分</Chinese>
-            <Chinesesimp>18:50时</Chinesesimp>
+            <Chinesesimp>18：50时</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m07_sitrep02">
             <Original>Friday, August 17th, 2035</Original>
@@ -5864,8 +5864,8 @@
           </Key>
           <Key ID="str_a3_exp_m07_signal">
             <Original>%2Raider 1%1 - Lead element.&lt;br /&gt;%4Raider 2%3 - Your team.&lt;br /&gt;Watchtower - CTRG Headquarters.&lt;br /&gt;%6Keystone%5 - Captain Miller.</Original>
-            <Chinese>%2"突襲者1"%1-領導小隊。&lt;br/&gt;%4"突襲者2"%3-你的小隊。&lt;br/&gt;"守望塔"-戰研小組指揮部。&lt;br/&gt;%6"拱心石"%5-米勒上校。</Chinese>
-            <Chinesesimp>%2"突袭者1"%1-指挥分队。&lt;br/&gt;%4"突袭者2"%3-你的小组。&lt;br/&gt;"守望塔"-战研大队指挥部。&lt;br/&gt;%6"拱心石"%5-米勒上校。</Chinesesimp>
+            <Chinese>%2"突襲者1"%1-領導小隊。&lt;br/&gt;%4"突襲者2"%3-你的小隊。&lt;br/&gt;"守望塔"-戰研小組指揮部。&lt;br/&gt;%6"基石"%5-米勒上校。</Chinese>
+            <Chinesesimp>%2"突袭者1"%1-指挥分队。&lt;br/&gt;%4"突袭者2"%3-你的小组。&lt;br/&gt;"守望塔"-战研大队指挥部。&lt;br/&gt;%6"基石"%5-米勒上校。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m07_respawnsouthsector">
             <Original>Southern Sector</Original>
@@ -6004,8 +6004,8 @@
           </Key>
           <Key ID="str_a3_exp_m07_callsignkeystone">
             <Original>Keystone</Original>
-            <Chinese>"拱心石"</Chinese>
-            <Chinesesimp>"拱心石"</Chinesesimp>
+            <Chinese>"基石"</Chinese>
+            <Chinesesimp>"基石"</Chinesesimp>
           </Key>
           <Key ID="STR_A3_EXP_m07_action_disarm">
             <Original>Enter Disarm Codes</Original>
@@ -6070,12 +6070,12 @@
             <Key ID="str_a3_exp_m07_x20_shakestrong_com_0">
               <Original>Yes. Intensity will ramp up until the mainshock event. All callsigns, expedite!</Original>
               <Chinese>是的。強度將會一直增加直到引起主震。所有單位，加緊速度!</Chinese>
-              <Chinesesimp>是的。强度将会一直增加直到引起主震。所有单位，加快脚步!</Chinesesimp>
+              <Chinesesimp>是的。强度将会一直增加直到引起主震。所有单位，加快脚步！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_x20_shakestrong_rik_0">
               <Original>Watchtower, are these quakes getting stronger?</Original>
               <Chinese>"守望塔"，這地震是不是越來越強了?</Chinese>
-              <Chinesesimp>"守望塔"，这地震是不是越来越强了?</Chinesesimp>
+              <Chinesesimp>"守望塔"，这地震是不是越来越强了？</Chinesesimp>
             </Key>
           </Container>
           <Container name="x15_Shake" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="x15_Shake" dubbingLanguage="english" namePrefix="exp_m07_x15_shake" note="" participants="EXC B Riker;EXC B CTRG Commander;EXC B Miller;" situation="the teams feel some earthquakes.">
@@ -6092,7 +6092,7 @@
             <Key ID="str_a3_exp_m07_x15_shake_rik_0">
               <Original>Watchtower, this is Raider 1. We just felt a tremor at our position - what's the latest at Blue Pearl?</Original>
               <Chinese>"守望塔"，這裡是"突襲者1"。我們剛剛感到一陣搖晃-有藍珍珠港那邊最新的消息嗎?</Chinese>
-              <Chinesesimp>"守望塔"，这里是"突袭者1"。我们刚刚感到一阵摇晃-有蓝珍珠港那边最新的消息吗?</Chinesesimp>
+              <Chinesesimp>"守望塔"，这里是"突袭者1"。我们刚刚感到一阵摇晃 — 有蓝珍珠港那边最新的消息吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_x15_shake_mil_0">
               <Original>Confirmed here. Eastwind is armed.</Original>
@@ -6111,7 +6111,7 @@
             <Key ID="str_a3_exp_m07_x05_devicedisarmed_mil_0">
               <Original>Raider 2, it's on you now. Move!</Original>
               <Chinese>"突襲者2"，該換你們了。快!</Chinese>
-              <Chinesesimp>"突袭者2"，该换你们了。快!</Chinesesimp>
+              <Chinesesimp>"突袭者2"，该换你们了。快！</Chinesesimp>
             </Key>
           </Container>
           <Container name="x00_BossNotHere" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="x00_BossNotHere" dubbingLanguage="english" namePrefix="exp_m07_x00_bossnothere" note="" participants="EXC B CTRG Commander;" situation="players arrive at an empty compound">
@@ -6130,7 +6130,7 @@
             <Key ID="str_a3_exp_m07_o25_stinger_com_0">
               <Original>Oh? What's that?</Original>
               <Chinese>喔?什麼事?</Chinese>
-              <Chinesesimp>喔?什么事?</Chinesesimp>
+              <Chinesesimp>喔？什么事？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_o25_stinger_lia_0">
               <Original>Hey, before we move on to the brief. I can't help but notice just one thing here, gents.</Original>
@@ -6157,7 +6157,7 @@
             <Key ID="str_a3_exp_m07_o20_commentary_com_0">
               <Original>Everyone here?</Original>
               <Chinese>大家都在嗎?</Chinese>
-              <Chinesesimp>大家都在吗?</Chinesesimp>
+              <Chinesesimp>大家都在吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_o20_commentary_com_1">
               <Original>Roger.</Original>
@@ -6215,7 +6215,7 @@
             <Key ID="str_a3_exp_m07_o16_apexsoundbite_voicesoff_com_0">
               <Original>Who's the journalist?</Original>
               <Chinese>這記者是誰?</Chinese>
-              <Chinesesimp>这记者是谁?</Chinesesimp>
+              <Chinesesimp>这记者是谁？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_o16_apexsoundbite_voicesoff_com_1">
               <Original>He asks a lot of questions.</Original>
@@ -6297,7 +6297,7 @@
             <Key ID="str_a3_exp_m07_o01_apexsoundbite_revelation_aan_1">
               <Original>Documents seen by AAN investigative journalists - the so-called 'Apex Protocol Papers' - have exposed a global network of illegal CSAT operations.</Original>
               <Chinese>AAN的調查記者看到了一份文件-一份叫做'頂尖協議書'的文件-披露了廣協同盟在世界上各種違法的行動。</Chinese>
-              <Chinesesimp>AAN 的调查记者看到了一份文件-一份叫做'Apex 协议'的文件-披露了广协的全球非法活动网络。</Chinesesimp>
+              <Chinesesimp>AAN 的调查记者看到了一份文件 — 一份叫做'Apex 协议'的文件 — 披露了广协的全球非法活动网络。</Chinesesimp>
             </Key>
           </Container>
           <Container name="b30_SilentStrike" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="b30_SilentStrike" dubbingLanguage="english" namePrefix="exp_m07_b30_silentstrike" note="" participants="EXC B CTRG Commander;EXC B SOF Liaison;EXC B Miller MIL;" situation="commander reveals syndikat plan">
@@ -6314,7 +6314,7 @@
             <Key ID="str_a3_exp_m07_b30_silentstrike_lia_0">
               <Original>Okay. What are the details?</Original>
               <Chinese>好的。那任務細節呢?</Chinese>
-              <Chinesesimp>好的。那任务细节呢?</Chinesesimp>
+              <Chinesesimp>好的。那任务细节呢？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_b30_silentstrike_com_2">
               <Original>Speed is paramount. We'll sort out Warlock, grab the key and secure the device.</Original>
@@ -6371,7 +6371,7 @@
             <Key ID="str_a3_exp_m07_b25_warlockplan_lia_2">
               <Original>So, Warlock's got a contingency. Expecting a Viper double-cross?</Original>
               <Chinese>所以，"術士"有個備案。避免被"毒蛇"黑吃黑?</Chinese>
-              <Chinesesimp>所以，"术士"有个备案。避免被"毒蛇"黑吃黑?</Chinesesimp>
+              <Chinesesimp>所以，"术士"有个备案。避免被"毒蛇"黑吃黑？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_b25_warlockplan_mil_3">
               <Original>There's a snag. SIGINT suggests the device has been armed.</Original>
@@ -6392,8 +6392,8 @@
             </Key>
             <Key ID="str_a3_exp_m07_b20_uptospeed_com_1">
               <Original>Keystone, Watchtower. Let's bring Vince up to speed, over.</Original>
-              <Chinese>"拱心石"，這裡是"守望塔"。讓我們來跟文思解釋下狀況，完畢。</Chinese>
-              <Chinesesimp>"拱心石"，这里是"守望塔"。让我们来跟文思解释下状况，完毕。</Chinesesimp>
+              <Chinese>"基石"，這裡是"守望塔"。讓我們來跟文思解釋下狀況，完畢。</Chinese>
+              <Chinesesimp>"基石"，这里是"守望塔"。让我们来跟文思解释下状况，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_b20_uptospeed_lia_0">
               <Original>Alright, enough.</Original>
@@ -6403,19 +6403,19 @@
             <Key ID="str_a3_exp_m07_b20_uptospeed_lia_1">
               <Original>What does that mean, 'pay for it'? He'll use this 'Eastwind' device?</Original>
               <Chinese>那是什麼意思，'付出代價'?他將要使用'東風'裝置嗎?</Chinese>
-              <Chinesesimp>那是什么意思，'付出代价'?他将要使用'东风'装置吗?</Chinesesimp>
+              <Chinesesimp>那是什么意思，'付出代价'？他将要使用'东风'装置吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="b15_WarlockDeal" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="b15_WarlockDeal" dubbingLanguage="english" namePrefix="exp_m07_b15_warlockdeal" note="" participants="EXC I Warlock;" situation="syndikat boss goes a-murderin">
             <Key ID="str_a3_exp_m07_b15_warlockdeal_war_0">
               <Original>Fucking ghosts. Think you can disappear?</Original>
               <Chinese>他媽的幽靈。你們以為你們可以藏得住嗎?</Chinese>
-              <Chinesesimp>他妈的幽灵。你们以为你们可以藏得住吗?</Chinesesimp>
+              <Chinesesimp>他妈的幽灵。你们以为你们可以藏得住吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_b15_warlockdeal_war_1">
               <Original>This is our home. Our home!</Original>
               <Chinese>這是我們的家。我們的家!</Chinese>
-              <Chinesesimp>这是我们的家。我们的家!</Chinesesimp>
+              <Chinesesimp>这是我们的家。我们的家！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_b15_warlockdeal_war_2">
               <Original>One step too far. The jungle is a dangerous place.</Original>
@@ -6425,14 +6425,14 @@
             <Key ID="str_a3_exp_m07_b15_warlockdeal_war_3">
               <Original>We'll take your toy. And you will pay for it, all of it!</Original>
               <Chinese>我們將拿走你們的玩具。然後你們就等著付出代價吧，全部的代價！</Chinese>
-              <Chinesesimp>我们将拿走你们的玩具。然后你们就等着付出代价吧，全部的代价!</Chinesesimp>
+              <Chinesesimp>我们将拿走你们的玩具。然后你们就等着付出代价吧，全部的代价！</Chinesesimp>
             </Key>
           </Container>
           <Container name="b15b_WarlockDeal_Translate" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="b15b_WarlockDeal_Translate" dubbingLanguage="english" namePrefix="exp_m07_b15b_warlockdeal_translate" note="" participants="EXC I Warlock;" situation="syndikat boss goes a-murderin - translation">
             <Key ID="str_a3_exp_m07_b15b_warlockdeal_translate_war_0">
               <Original>Putain de fantômes. Vous pensez que vous pouvez disparaître?</Original>
               <Chinese>他媽的幽靈。你們以為你們可以藏得住嗎?</Chinese>
-              <Chinesesimp>他妈的幽灵。你们以为你们可以藏得住吗?</Chinesesimp>
+              <Chinesesimp>他妈的幽灵。你们以为你们可以藏得住吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_b15b_warlockdeal_translate_war_1">
               <Original>C'est notre patrie. Nos terres!</Original>
@@ -6447,7 +6447,7 @@
             <Key ID="str_a3_exp_m07_b15b_warlockdeal_translate_war_3">
               <Original>Nous allons prendre votre jouet. Et vous allez payer pour ça. Pour tout ça.</Original>
               <Chinese>我們將拿走你們的玩具。然後你們就等著付出代價吧，全部的代價！</Chinese>
-              <Chinesesimp>我们将拿走你们的玩具。然后你们就等着付出代价吧，全部的代价!</Chinesesimp>
+              <Chinesesimp>我们将拿走你们的玩具。然后你们就等着付出代价吧，全部的代价！</Chinesesimp>
             </Key>
           </Container>
           <Container name="b10_BadNews" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="b10_BadNews" dubbingLanguage="english" namePrefix="exp_m07_b10_badnews" note="" participants="EXC B CTRG Commander;EXC B SOF Liaison;" situation="commander reveals syndikat attack">
@@ -6464,7 +6464,7 @@
             <Key ID="str_a3_exp_m07_b10_badnews_lia_0">
               <Original>And that's the bad news?</Original>
               <Chinese>這就是壞消息?</Chinese>
-              <Chinesesimp>这就是坏消息?</Chinesesimp>
+              <Chinesesimp>这就是坏消息？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_b10_badnews_com_2">
               <Original>Warlock himself.</Original>
@@ -6496,7 +6496,7 @@
             <Key ID="str_a3_exp_m07_b05_basilexposition_com_2">
               <Original>This strategy - the so-called 'Apex Protocol' - it's a pretext for CSAT diplomats, special advisors - even peacekeeping forces - to deploy.</Original>
               <Chinese>這個戰略-他們稱之為'頂尖協議'-用來當作所有外交官，特別顧問-甚至是維和部隊的佈署藉口。</Chinese>
-              <Chinesesimp>这个战略-他们称之为'Apex 协议'-用来当作所有外交官，特别顾问-甚至是维和部队的布署借口。</Chinesesimp>
+              <Chinesesimp>这个战略 — 他们称之为'Apex 协议'-用来当作所有外交官，特别顾问 — 甚至是维和部队的布署借口。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_b05_basilexposition_com_3">
               <Original>Correct. Grooming a network of pro-CSAT governments.</Original>
@@ -6528,7 +6528,7 @@
             <Key ID="str_a3_exp_m07_b01_sosovusecured_lia_0">
               <Original>Stroke of luck. Do we know what happened yet?</Original>
               <Chinese>真是好運。那我們知道發生了什麼事嗎?</Chinese>
-              <Chinesesimp>真是好运。那我们知道发生了什么事吗?</Chinesesimp>
+              <Chinesesimp>真是好运。那我们知道发生了什么事吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="97_ViperUnitsDown" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="97_ViperUnitsDown" dubbingLanguage="english" namePrefix="exp_m07_97_viperunitsdown" note="" participants="EXC B Riker;EXC B CTRG Commander;" situation="description">
@@ -6540,19 +6540,19 @@
             <Key ID="str_a3_exp_m07_97_viperunitsdown_rik_0">
               <Original>Watchtower, SITREP, most Viper callsigns engaged and destroyed. 1 or 2 are running, can we pursue?</Original>
               <Chinese>"守望塔"，狀況回報，大部分的"毒蛇"皆已消滅。有1到2名跑走了，我們要追擊嗎?</Chinese>
-              <Chinesesimp>"守望塔"，状况回报，大部分的"毒蛇"皆已消灭。有1到2名跑走了，我们要追击吗?</Chinesesimp>
+              <Chinesesimp>"守望塔"，状况回报，大部分的"毒蛇"皆已消灭。有1到2名跑走了，我们要追击吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="96_BothKeysEntered" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="96_BothKeysEntered" dubbingLanguage="english" namePrefix="exp_m07_96_bothkeysentered" note="" participants="EXC B Miller;EXC B CTRG Commander;EXC B Riker;EXC B Falcon;" situation="final battle triggered">
             <Key ID="str_a3_exp_m07_96_bothkeysentered_com_0">
               <Original>Good job, Keystone!</Original>
-              <Chinese>幹的好，"拱心石"!</Chinese>
-              <Chinesesimp>干的好，"拱心石"!</Chinesesimp>
+              <Chinese>幹的好，"基石"!</Chinese>
+              <Chinesesimp>干的好，"基石"！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_96_bothkeysentered_com_1">
               <Original>Roger, diverting additional support. All callsigns, post security on Eastwind. Keystone, Raider 2, hold that position.</Original>
-              <Chinese>收到，正在調遣其他的支援過去。所有單位，請確保東風的安全。"拱心石"，"突襲者2"，堅守崗位。</Chinese>
-              <Chinesesimp>收到，正在调遣其他的支援过去。所有单位，请确保东风的安全。"拱心石"，"突袭者2"，坚守岗位。</Chinesesimp>
+              <Chinese>收到，正在調遣其他的支援過去。所有單位，請確保東風的安全。"基石"，"突襲者2"，堅守崗位。</Chinese>
+              <Chinesesimp>收到，正在调遣其他的支援过去。所有单位，请确保东风的安全。"基石"，"突袭者2"，坚守岗位。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_96_bothkeysentered_mil_0">
               <Original>Watchtower, that's the device sorted.</Original>
@@ -6566,8 +6566,8 @@
             </Key>
             <Key ID="str_a3_exp_m07_96_bothkeysentered_rik_0">
               <Original>Watchtower, Raider 1. We see a small QRF moving towards Keystone.</Original>
-              <Chinese>"守望塔"，這裡是"突襲者1"。我們看見到了一支小型快速反應部隊正在前往"拱心石"他們那邊。</Chinese>
-              <Chinesesimp>"守望塔"，这里是"突袭者1"。我们看见到了一支小型快速反应部队正在前往"拱心石"他们那边。</Chinesesimp>
+              <Chinese>"守望塔"，這裡是"突襲者1"。我們看見到了一支小型快速反應部隊正在前往"基石"他們那邊。</Chinese>
+              <Chinesesimp>"守望塔"，这里是"突袭者1"。我们看见到了一支小型快速反应部队正在前往"基石"他们那边。</Chinesesimp>
             </Key>
           </Container>
           <Container name="95_DeviceDisarmed" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="95_DeviceDisarmed" dubbingLanguage="english" namePrefix="exp_m07_95_devicedisarmed" note="" participants="EXC B Miller;" situation="players ordered to disarm the device">
@@ -6585,13 +6585,13 @@
           <Container name="90_WatchYourFire" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="90_WatchYourFire" dubbingLanguage="english" namePrefix="exp_m07_90_watchyourfire" note="" participants="EXC B Falcon;EXC B Riker;EXC B Miller;" situation="raider 1 and falcon moving in">
             <Key ID="str_a3_exp_m07_90_watchyourfire_fal_0">
               <Original>Raider 1, this is Falcon, we see you. We're on the deck. Set up on our right flank. We'll move towards Keystone.</Original>
-              <Chinese>"突襲者1"，這裡是"獵鷹"，我們看見你們了。我們在甲板這，把你們的人佈署到我們的右側。我們準備前往到"拱心石"那邊了。</Chinese>
-              <Chinesesimp>"突袭者1"，这里是猎鹰，我们看见你们了。我们就位了，把你们的人布署到我们的右侧。我们准备前往到"拱心石"那边了。</Chinesesimp>
+              <Chinese>"突襲者1"，這裡是"獵鷹"，我們看見你們了。我們在甲板這，把你們的人佈署到我們的右側。我們準備前往到"基石"那邊了。</Chinese>
+              <Chinesesimp>"突袭者1"，这里是猎鹰，我们看见你们了。我们就位了，把你们的人布署到我们的右侧。我们准备前往到"基石"那边了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_90_watchyourfire_fal_1">
               <Original>Oh, we appreciate that, Keystone!</Original>
-              <Chinese>喔，真感謝你的提醒，"拱心石"!</Chinese>
-              <Chinesesimp>喔，真感谢你的提醒，"拱心石"!</Chinesesimp>
+              <Chinese>喔，真感謝你的提醒，"基石"!</Chinese>
+              <Chinesesimp>喔，真感谢你的提醒，"基石"！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_90_watchyourfire_mil_0">
               <Original>Raider 2, be advised, friendlies coming in. Check fire.</Original>
@@ -6624,20 +6624,20 @@
           <Container name="80_ProtectMiller" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="80_ProtectMiller" dubbingLanguage="english" namePrefix="exp_m07_80_protectmiller" note="" participants="EXC B CTRG Commander;EXC B Miller;" situation="miller arrives at players' location">
             <Key ID="str_a3_exp_m07_80_protectmiller_com_0">
               <Original>You heard it. Raider 2, hold the area. Keystone will initiate the disarm sequence.</Original>
-              <Chinese>你們都聽到了。"突襲者2"，堅守該區。"拱心石"會開始關閉程序。</Chinese>
-              <Chinesesimp>你们都听到了。"突袭者2"，坚守该区。"拱心石"会开始关闭程序。</Chinesesimp>
+              <Chinese>你們都聽到了。"突襲者2"，堅守該區。"基石"會開始關閉程序。</Chinese>
+              <Chinesesimp>你们都听到了。"突袭者2"，坚守该区。"基石"会开始关闭程序。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_80_protectmiller_mil_0">
               <Original>C'mon, lads, give us some support!</Original>
               <Chinese>來吧，伙計們，給我些掩護!</Chinese>
-              <Chinesesimp>来吧，伙计们，给我些掩护!</Chinesesimp>
+              <Chinesesimp>来吧，伙计们，给我些掩护！</Chinesesimp>
             </Key>
           </Container>
           <Container name="75_DisarmDevice" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="75_DisarmDevice" dubbingLanguage="english" namePrefix="exp_m07_75_disarmdevice" note="" participants="EXC B CTRG Commander;EXC B Miller;EXC B Falcon;" situation="players reach the eastwind location">
             <Key ID="str_a3_exp_m07_75_disarmdevice_com_0">
               <Original>Keystone, Raider 2 is in position at location. What's your LOCSTAT?</Original>
-              <Chinese>"拱心石"，"突襲者2"已到達位置。請問你的位置在哪?</Chinese>
-              <Chinesesimp>"拱心石"，"突袭者2"已到达位置。请问你的位置在哪?</Chinesesimp>
+              <Chinese>"基石"，"突襲者2"已到達位置。請問你的位置在哪?</Chinese>
+              <Chinesesimp>"基石"，"突袭者2"已到达位置。请问你的位置在哪？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_75_disarmdevice_com_1">
               <Original>Roger. Falcon, get boots on the ground.</Original>
@@ -6678,8 +6678,8 @@
             </Key>
             <Key ID="str_a3_exp_m07_70_airsupport_fal_1">
               <Original>You're lucky they pay me pop-star wages to save your arse, Keystone.</Original>
-              <Chinese>你真幸運，他們付錢請我們來救你的屁股，"拱心石"。</Chinese>
-              <Chinesesimp>你真幸运，他们付钱请我们来救你的屁股，"拱心石"。</Chinesesimp>
+              <Chinese>你真幸運，他們付錢請我們來救你的屁股，"基石"。</Chinese>
+              <Chinesesimp>你真幸运，他们付钱请我们来救你的屁股，"基石"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_70_airsupport_mil_0">
               <Original>Nice to have you with us, Falcon. Join the party, feel free to shoot something.</Original>
@@ -6706,7 +6706,7 @@
             <Key ID="str_a3_exp_m07_65_syndikatmovement_rik_0">
               <Original>Watchtower, Raider 1. Any artillery support available? Over.</Original>
               <Chinese>"守望塔"，這裡是"突襲者1"。有任何火炮的支援嗎?完畢。</Chinese>
-              <Chinesesimp>"守望塔"，这里是"突袭者1"。有任何火炮的支援吗?完毕。</Chinesesimp>
+              <Chinesesimp>"守望塔"，这里是"突袭者1"。有任何火炮的支援吗？完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="63_MillerTeam" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="63_MillerTeam" dubbingLanguage="english" namePrefix="exp_m07_63_millerteam" note="" participants="EXC B Miller;EXC B Riker;" situation="falcon are introduced">
@@ -6717,37 +6717,37 @@
             </Key>
             <Key ID="str_a3_exp_m07_63_millerteam_mil_1">
               <Original>I say again, that's me on task, callsign Falcon will provide support. Keystone out.</Original>
-              <Chinese>我重複一遍，我的小隊正在過來，呼號為"獵鷹"，他們會協助你們。"拱心石"通話完畢。</Chinese>
-              <Chinesesimp>我重复一遍，我的小队正在过来，呼号为猎鹰，他们会协助你们。"拱心石"通话完毕。</Chinesesimp>
+              <Chinese>我重複一遍，我的小隊正在過來，呼號為"獵鷹"，他們會協助你們。"基石"通話完畢。</Chinese>
+              <Chinesesimp>我重复一遍，我的小队正在过来，呼号为猎鹰，他们会协助你们。"基石"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_63_millerteam_rik_0">
               <Original>Say again your last, Keystone? Over.</Original>
-              <Chinese>請重複一遍，"拱心石"?完畢。</Chinese>
-              <Chinesesimp>请重复一遍，"拱心石"?完毕。</Chinesesimp>
+              <Chinese>請重複一遍，"基石"?完畢。</Chinese>
+              <Chinesesimp>请重复一遍，"基石"？完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="60_SupportTeam" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="60_SupportTeam" dubbingLanguage="english" namePrefix="exp_m07_60_supportteam" note="" participants="EXC B CTRG Commander;EXC B Riker;EXC B Miller;" situation="raider 1 finally did their job">
             <Key ID="str_a3_exp_m07_60_supportteam_com_0">
               <Original>Confirmed. Raider 1, RV with Keystone and Raider 2 at the port. Assist with the final push, out.</Original>
-              <Chinese>已確認。"突襲者1"，去與"拱心石"和"突襲者2"在港口會合。協助最後的階段，通話完畢。</Chinese>
-              <Chinesesimp>已确认。"突袭者1"，去与"拱心石"和"突袭者2"在港口会合。协助最后的阶段，通话完毕。</Chinesesimp>
+              <Chinese>已確認。"突襲者1"，去與"基石"和"突襲者2"在港口會合。協助最後的階段，通話完畢。</Chinese>
+              <Chinesesimp>已确认。"突袭者1"，去与"基石"和"突袭者2"在港口会合。协助最后的阶段，通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_60_supportteam_mil_0">
               <Original>Raider 1, this is Keystone. Confirmed. No lights observed.</Original>
-              <Chinese>"突襲者1"，這裡是"拱心石"。已確認。燈光已經熄了。</Chinese>
-              <Chinesesimp>"突袭者1"，这里是"拱心石"。已确认。灯光已经熄了。</Chinesesimp>
+              <Chinese>"突襲者1"，這裡是"基石"。已確認。燈光已經熄了。</Chinese>
+              <Chinesesimp>"突袭者1"，这里是"基石"。已确认。灯光已经熄了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_60_supportteam_rik_0">
               <Original>Watchtower, backup generator destroyed. Confirm, Over?</Original>
               <Chinese>"守望塔"，備用發電機已摧毀。確認了嗎，完畢?</Chinese>
-              <Chinesesimp>"守望塔"，备用发电机已摧毁。确认了吗，完毕?</Chinesesimp>
+              <Chinesesimp>"守望塔"，备用发电机已摧毁。确认了吗，完毕？</Chinesesimp>
             </Key>
           </Container>
           <Container name="55_ViperReveal" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="55_ViperReveal" dubbingLanguage="english" namePrefix="exp_m07_55_viperreveal" note="" participants="EXC B CTRG Commander;EXC B Miller;" situation="viper reminder">
             <Key ID="str_a3_exp_m07_55_viperreveal_com_0">
               <Original>Keystone, SITREP, confirmed several Viper dead at the meeting location.</Original>
-              <Chinese>"拱心石"，狀況回報，已確認到有幾名"毒蛇"死在會議地點。</Chinese>
-              <Chinesesimp>"拱心石"，状况回报，已确认到有几名"毒蛇"死在会议地点。</Chinesesimp>
+              <Chinese>"基石"，狀況回報，已確認到有幾名"毒蛇"死在會議地點。</Chinese>
+              <Chinesesimp>"基石"，状况回报，已确认到有几名"毒蛇"死在会议地点。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_55_viperreveal_com_1">
               <Original>Looks like Raider 2 intervened before they could complete their deal.</Original>
@@ -6785,8 +6785,8 @@
             </Key>
             <Key ID="str_a3_exp_m07_45_movetodevice_mil_0">
               <Original>Raider 2, Keystone, be advised, I'm already moving. The target is buzzing with Syndikat.</Original>
-              <Chinese>"突襲者2"，這裡是"拱心石"，請注意，我已經在過去的路上。目標區充滿了辛迪加的人。</Chinese>
-              <Chinesesimp>"突袭者2"，这里是"拱心石"，请注意，我已经在过去的路上。目标区充满了辛迪加的人。</Chinesesimp>
+              <Chinese>"突襲者2"，這裡是"基石"，請注意，我已經在過去的路上。目標區充滿了辛迪加的人。</Chinese>
+              <Chinesesimp>"突袭者2"，这里是"基石"，请注意，我已经在过去的路上。目标区充满了辛迪加的人。</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_BossDead" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="40_BossDead" dubbingLanguage="english" namePrefix="exp_m07_40_bossdead" note="" participants="EXC B CTRG Commander;EXC B Miller;" situation="miller has the key; players order to get theirs.">
@@ -6797,8 +6797,8 @@
             </Key>
             <Key ID="str_a3_exp_m07_40_bossdead_mil_0">
               <Original>Watchtower, Keystone. Task complete. I have the second key. Now moving on Eastwind. Over.</Original>
-              <Chinese>"守望塔"，"拱心石"。任務完成。我拿到第二份密碼了。現正移動到東風的位置那裡。完畢。</Chinese>
-              <Chinesesimp>"守望塔"，"拱心石"。任务完成。我拿到第二份密码了。现正移动到东风的位置那里。完毕。</Chinesesimp>
+              <Chinese>"守望塔"，"基石"。任務完成。我拿到第二份密碼了。現正移動到東風的位置那裡。完畢。</Chinese>
+              <Chinesesimp>"守望塔"，"基石"。任务完成。我拿到第二份密码了。现正移动到东风的位置那里。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="35_TheMeeting" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="35_TheMeeting" dubbingLanguage="english" namePrefix="exp_m07_35_themeeting" note="" participants="EXC B CTRG Commander;" situation="players team arrive at the viper meeting">
@@ -6861,7 +6861,7 @@
             <Key ID="str_a3_exp_m07_20_secondarycodes_com_2">
               <Original>To clarify: we need both keys to deactivate Eastwind.</Original>
               <Chinese>重點是:我們必須擁有這兩個密碼才能關閉東風。</Chinese>
-              <Chinesesimp>重点是:我们必须拥有这两个密码才能关闭东风。</Chinesesimp>
+              <Chinesesimp>重点是：我们必须拥有这两个密码才能关闭东风。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_20_secondarycodes_mil_0">
               <Original>Roger, send.</Original>
@@ -6870,13 +6870,13 @@
             </Key>
             <Key ID="str_a3_exp_m07_20_secondarycodes_com_3">
               <Original>Raider 2, continue on tasking, out to you. Keystone, new mission: retrieve the second key.</Original>
-              <Chinese>"突襲者2"，繼續你們的任務，對你通話完畢。"拱心石"，新任務:取回第二份密碼。</Chinese>
-              <Chinesesimp>"突袭者2"，继续你们的任务，对你通话完毕。"拱心石"，新任务:取回第二份密码。</Chinesesimp>
+              <Chinese>"突襲者2"，繼續你們的任務，對你通話完畢。"基石"，新任務:取回第二份密碼。</Chinese>
+              <Chinesesimp>"突袭者2"，继续你们的任务，对你通话完毕。"基石"，新任务：取回第二份密码。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_20_secondarycodes_mil_1">
               <Original>Smart play - he's expecting trouble.</Original>
               <Chinese>這招厲害-他猜可能會有麻煩。</Chinese>
-              <Chinesesimp>这招厉害-他猜可能会有麻烦。</Chinesesimp>
+              <Chinesesimp>这招厉害 — 他猜可能会有麻烦。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_20_secondarycodes_mil_2">
               <Original>Already on it, boss. Out.</Original>
@@ -6893,14 +6893,14 @@
             <Key ID="str_a3_exp_m07_15_viperforeshadow_mil_0">
               <Original>Watchtower, SITREP on Viper? Over.</Original>
               <Chinese>"守望塔"，有關於"毒蛇"的消息嗎?完畢。</Chinese>
-              <Chinesesimp>"守望塔"，有关于"毒蛇"的消息吗?完毕。</Chinesesimp>
+              <Chinesesimp>"守望塔"，有关于"毒蛇"的消息吗？完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="11_BackPowerOnline" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="11_BackPowerOnline" dubbingLanguage="english" namePrefix="exp_m07_11_backpoweronline" note="" participants="EXC B Miller;EXC B CTRG Commander;EXC B Riker;" situation="something went wrong, power back online">
             <Key ID="str_a3_exp_m07_11_backpoweronline_com_0">
               <Original>Roger, Keystone. Wait.</Original>
-              <Chinese>收到，"拱心石"。請稍等。</Chinese>
-              <Chinesesimp>收到，"拱心石"。请稍等。</Chinesesimp>
+              <Chinese>收到，"基石"。請稍等。</Chinese>
+              <Chinesesimp>收到，"基石"。请稍等。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_11_backpoweronline_com_1">
               <Original>Raider 1, send SITREP, over.</Original>
@@ -6931,8 +6931,8 @@
           <Container name="110_Outro" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="110_Outro" dubbingLanguage="english" namePrefix="exp_m07_110_outro" note="" participants="EXC B Miller;EXC B CTRG Commander;" situation="loading eastwind device.">
             <Key ID="str_a3_exp_m07_110_outro_com_0">
               <Original>Roger, Keystone. All callsigns, move to exfil!</Original>
-              <Chinese>收到，"拱心石"。所有單位，請開始撤離!</Chinese>
-              <Chinesesimp>收到，"拱心石"。所有单位，请开始撤离!</Chinesesimp>
+              <Chinese>收到，"基石"。所有單位，請開始撤離!</Chinese>
+              <Chinesesimp>收到，"基石"。所有单位，请开始撤离！</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_110_outro_mil_0">
               <Original>Alright. Payload secure. Falcon, continue on task.</Original>
@@ -6941,8 +6941,8 @@
             </Key>
             <Key ID="str_a3_exp_m07_110_outro_mil_1">
               <Original>Watchtower, this is Keystone. We're figures few to ENDEX.</Original>
-              <Chinese>"守望塔"，這裡是"拱心石"。我們再一下下就可以收工了。</Chinese>
-              <Chinesesimp>"守望塔"，这里是"拱心石"。我们再一下下就可以收工了。</Chinesesimp>
+              <Chinese>"守望塔"，這裡是"基石"。我們再一下下就可以收工了。</Chinese>
+              <Chinesesimp>"守望塔"，这里是"基石"。我们再一下下就可以收工了。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_FindBoss" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="10_FindBoss" dubbingLanguage="english" namePrefix="exp_m07_10_findboss" note="" participants="EXC B CTRG Commander;" situation="players ordered to move in">
@@ -7006,8 +7006,8 @@
           <Container name="05_Mark" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="05_Mark" dubbingLanguage="english" namePrefix="exp_m07_05_mark" note="" participants="EXC B Miller;EXC B CTRG Commander;EXC B Riker;" situation="order to detonate">
             <Key ID="str_a3_exp_m07_05_mark_com_0">
               <Original>Keystone, Raider 1, blow your charges, now.</Original>
-              <Chinese>"拱心石"，"突襲者1"，現在引爆你們的炸藥。</Chinese>
-              <Chinesesimp>"拱心石"，"突袭者1"，现在引爆你们的炸药。</Chinesesimp>
+              <Chinese>"基石"，"突襲者1"，現在引爆你們的炸藥。</Chinese>
+              <Chinesesimp>"基石"，"突袭者1"，现在引爆你们的炸药。</Chinesesimp>
             </Key>
           </Container>
           <Key ID="str_a3_exp_m07_missiontitle">
@@ -7023,8 +7023,8 @@
           <Container name="00_Intro" audioFilePath="\a3\dubbing_f_exp\exp_m07" dialogName="00_Intro" dubbingLanguage="english" namePrefix="exp_m07_00_intro" note="" participants="EXC B Miller;EXC B CTRG Commander;EXC B Riker;" situation="mission start. teams ready to blow power.">
             <Key ID="str_a3_exp_m07_00_intro_com_0">
               <Original>Roger, Keystone. Raider 1, SITREP, over?</Original>
-              <Chinese>收到，"拱心石"。"突襲者1"，狀況回報，完畢?</Chinese>
-              <Chinesesimp>收到，"拱心石"。"突袭者1"，状况回报，完毕?</Chinesesimp>
+              <Chinese>收到，"基石"。"突襲者1"，狀況回報，完畢?</Chinese>
+              <Chinesesimp>收到，"基石"。"突袭者1"，状况回报，完毕？</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_00_intro_com_1">
               <Original>Roger. Detonate on my mark.</Original>
@@ -7033,8 +7033,8 @@
             </Key>
             <Key ID="str_a3_exp_m07_00_intro_mil_0">
               <Original>Watchtower, Keystone, be advised, charges set at the transformer station. Ready to fire, over.</Original>
-              <Chinese>"守望塔"，這裡是"拱心石"，請注意，炸藥已裝設在變電所裡面。準備好引爆了，完畢。</Chinese>
-              <Chinesesimp>"守望塔"，这里是"拱心石"，请注意，炸药已装设在变电所里面。准备好引爆了，完毕。</Chinesesimp>
+              <Chinese>"守望塔"，這裡是"基石"，請注意，炸藥已裝設在變電所裡面。準備好引爆了，完畢。</Chinese>
+              <Chinesesimp>"守望塔"，这里是"基石"，请注意，炸药已装设在变电所里面。准备好引爆了，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m07_00_intro_rik_0">
               <Original>Raider 1 in position at backup generators. Awaiting your go.</Original>
@@ -7061,8 +7061,8 @@
           </Key>
           <Key ID="str_a3_exp_m01_tasksecondtext">
             <Original>Search target location %2'New York'%1 for any signs of Keystone.</Original>
-            <Chinese>搜索%2'紐約'點%1是否有"拱心石"的蹤影。</Chinese>
-            <Chinesesimp>搜索%2'纽约'点%1是否有"拱心石"的踪影。</Chinesesimp>
+            <Chinese>搜索%2'紐約'點%1是否有"基石"的蹤影。</Chinese>
+            <Chinesesimp>搜索%2'纽约'点%1是否有"基石"的踪影。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m01_taskfirsttitle">
             <Original>Clear the Outpost</Original>
@@ -7081,8 +7081,8 @@
           </Key>
           <Key ID="str_a3_exp_m01_taskfinaltext">
             <Original>Search %2target location 'Toronto'%1 for any signs of Keystone.</Original>
-            <Chinese>搜索%2'多倫多'點%1是否有"拱心石"的蹤影。</Chinese>
-            <Chinesesimp>搜索%2'多伦多'点%1是否有"拱心石"的踪影。</Chinesesimp>
+            <Chinese>搜索%2'多倫多'點%1是否有"基石"的蹤影。</Chinese>
+            <Chinesesimp>搜索%2'多伦多'点%1是否有"基石"的踪影。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m01_taskbuildingtitle">
             <Original>Search the Building</Original>
@@ -7096,13 +7096,13 @@
           </Key>
           <Key ID="str_a3_exp_m01_situation">
             <Original>Keystone is held somewhere inside the enemy's island stronghold in southern Tanoa. &lt;br /&gt;&lt;br /&gt;We anticipate heavy enemy activity in and around the AO. &lt;br /&gt;&lt;br /&gt;Time is of the essence. Locate, secure and extract Keystone.</Original>
-            <Chinese>"拱心石"被敵人關押在塔諾亞南邊小島的據點之中。&lt;br/&gt;&lt;br/&gt;我們預期在任務區域內及附近都有著大量的敵人。&lt;br/&gt;&lt;br/&gt;時間就是金錢。搜索，肅清並救出"拱心石"。</Chinese>
-            <Chinesesimp>"拱心石"被敌人关押在塔诺亚南部小岛的据点之中。&lt;br/&gt;&lt;br/&gt;我们预期在任务区域内及附近都有着大量的敌人。&lt;br/&gt;&lt;br/&gt;时间宝贵。搜索，肃清并救出"拱心石"。</Chinesesimp>
+            <Chinese>"基石"被敵人關押在塔諾亞南邊小島的據點之中。&lt;br/&gt;&lt;br/&gt;我們預期在任務區域內及附近都有著大量的敵人。&lt;br/&gt;&lt;br/&gt;時間就是金錢。搜索，肅清並救出"基石"。</Chinese>
+            <Chinesesimp>"基石"被敌人关押在塔诺亚南部小岛的据点之中。&lt;br/&gt;&lt;br/&gt;我们预期在任务区域内及附近都有着大量的敌人。&lt;br/&gt;&lt;br/&gt;时间宝贵。搜索，肃清并救出"基石"。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m01_sitrep04">
             <Original>06:20 Hours</Original>
             <Chinese>06:20時分</Chinese>
-            <Chinesesimp>06:20时</Chinesesimp>
+            <Chinesesimp>06：20时</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m01_sitrep03">
             <Original>Tuesday, August 14th, 2035</Original>
@@ -7121,8 +7121,8 @@
           </Key>
           <Key ID="str_a3_exp_m01_signal">
             <Original>%2Raider 1%1 - Lead element.&lt;br /&gt;%3Raider 2%1 - Your team.&lt;br /&gt;Watchtower - CTRG Headquarters.&lt;br /&gt;Keystone - Mission target.</Original>
-            <Chinese>%2"突襲者1"%1-領導小隊。&lt;br/&gt;%3"突襲者2"%1-你的小隊。&lt;br/&gt;"守望塔"-戰研小組指揮部。&lt;br/&gt;"拱心石"-任務目標。</Chinese>
-            <Chinesesimp>%2"突袭者1"%1-指挥分队。&lt;br/&gt;%3"突袭者2"%1-你的小组。&lt;br/&gt;"守望塔"-战研大队指挥部。&lt;br/&gt;"拱心石"-任务目标。</Chinesesimp>
+            <Chinese>%2"突襲者1"%1-領導小隊。&lt;br/&gt;%3"突襲者2"%1-你的小隊。&lt;br/&gt;"守望塔"-戰研小組指揮部。&lt;br/&gt;"基石"-任務目標。</Chinese>
+            <Chinesesimp>%2"突袭者1"%1-指挥分队。&lt;br/&gt;%3"突袭者2"%1-你的小组。&lt;br/&gt;"守望塔"-战研大队指挥部。&lt;br/&gt;"基石"-任务目标。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m01_respawntower">
             <Original>Radio Tower</Original>
@@ -7176,13 +7176,13 @@
           </Key>
           <Key ID="str_a3_exp_m01_missionname">
             <Original>01 Keystone</Original>
-            <Chinese>01"拱心石"</Chinese>
-            <Chinesesimp>01 Keystone</Chinesesimp>
+            <Chinese>01"基石"</Chinese>
+            <Chinesesimp>01"基石"</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m01_mission">
             <Original>Insertion will be via rubber assault boats.&lt;br /&gt;&lt;br /&gt;%2Raider 1%1 will insert west of the %3target location%1. %4Raider 2%1, your team, will be inserted to the north-west.&lt;br /&gt;&lt;br /&gt;From there, you are to sweep and clear all target locations with the assistance of Raider 1. Extraction will be made available upon the successful acquisition of Keystone.</Original>
-            <Chinese>你們將使用橡皮艇來潛入該地。&lt;br/&gt;&lt;br/&gt;%2"突襲者1"%1將會從%3目標點%1的西方進入。而你們的小隊，%4"突襲者2"%1，將會從西北方進入。&lt;br/&gt;&lt;br/&gt;從那裡開始，你們將與"突襲者1"一起肅清數個目標位置。在你們救回"拱心石"以後會再跟你們說撤離計劃。</Chinese>
-            <Chinesesimp>你们将使用橡皮艇来潜入该地。&lt;br/&gt;&lt;br/&gt;%2"突袭者1"%1将会从%3目标点%1的西方进入。而你们的小队，%4"突袭者2"%1，将会从西北方进入。&lt;br/&gt;&lt;br/&gt;从那里开始，你们将与"突袭者1"一起肃清数个目标位置。在你们救回"拱心石"以后会再跟你们说撤离计划。</Chinesesimp>
+            <Chinese>你們將使用橡皮艇來潛入該地。&lt;br/&gt;&lt;br/&gt;%2"突襲者1"%1將會從%3目標點%1的西方進入。而你們的小隊，%4"突襲者2"%1，將會從西北方進入。&lt;br/&gt;&lt;br/&gt;從那裡開始，你們將與"突襲者1"一起肅清數個目標位置。在你們救回"基石"以後會再跟你們說撤離計劃。</Chinese>
+            <Chinesesimp>你们将使用橡皮艇来潜入该地。&lt;br/&gt;&lt;br/&gt;%2"突袭者1"%1将会从%3目标点%1的西方进入。而你们的小队，%4"突袭者2"%1，将会从西北方进入。&lt;br/&gt;&lt;br/&gt;从那里开始，你们将与"突袭者1"一起肃清数个目标位置。在你们救回"基石"以后会再跟你们说撤离计划。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m01_markertoronto">
             <Original>Toronto</Original>
@@ -7216,8 +7216,8 @@
           </Key>
           <Key ID="str_a3_exp_m01_execution">
             <Original>1. Locate Keystone.&lt;br /&gt;2. Extract.</Original>
-            <Chinese>1. 找到"拱心石"。&lt;br/&gt;2. 撤離。</Chinese>
-            <Chinesesimp>1. 找到"拱心石"。&lt;br/&gt;2. 撤离。</Chinesesimp>
+            <Chinese>1. 找到"基石"。&lt;br/&gt;2. 撤離。</Chinese>
+            <Chinesesimp>1. 找到"基石"。&lt;br/&gt;2. 撤离。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m01_debriefing">
             <Original>To be continued.</Original>
@@ -7291,7 +7291,7 @@
             <Key ID="str_a3_exp_m01_p30_left_building_pol_0">
               <Original>Hey! Where are you going?!</Original>
               <Chinese>嘿!你要去哪裡?</Chinese>
-              <Chinesesimp>嘿!你要去哪里?</Chinesesimp>
+              <Chinesesimp>嘿！你要去哪里？</Chinesesimp>
             </Key>
           </Container>
           <Container name="p25_Untie" audioFilePath="\a3\dubbing_f_exp\exp_m01" dialogName="p25_Untie" dubbingLanguage="english" namePrefix="exp_m01_p25_untie" note="" participants="EXC B Police Officer;" situation="captive police officer asks players to untie him">
@@ -7305,7 +7305,7 @@
             <Key ID="str_a3_exp_m01_p20_not_clear_pol_0">
               <Original>Look out, there are more of them!</Original>
               <Chinese>小心，這裡還有更多他們的人!</Chinese>
-              <Chinesesimp>小心，这里还有更多他们的人!</Chinesesimp>
+              <Chinesesimp>小心，这里还有更多他们的人！</Chinesesimp>
             </Key>
           </Container>
           <Container name="p16_NoShootTarget" audioFilePath="\a3\dubbing_f_exp\exp_m01" dialogName="p16_NoShootTarget" dubbingLanguage="english" namePrefix="exp_m01_p16_noshoottarget" note="" participants="EXC B Riker;" situation="players enter the building and the captive police officer spots them">
@@ -7319,35 +7319,35 @@
             <Key ID="str_a3_exp_m01_p15_inside_building_pol_0">
               <Original>Don't shoot!</Original>
               <Chinese>別開火!</Chinese>
-              <Chinesesimp>别开火!</Chinesesimp>
+              <Chinesesimp>别开火！</Chinesesimp>
             </Key>
           </Container>
           <Container name="p10_Help_3" audioFilePath="\a3\dubbing_f_exp\exp_m01" dialogName="p10_Help_3" dubbingLanguage="english" namePrefix="exp_m01_p10_help_3" note="" participants="EXC B Police Officer;" situation="captive police officer calls out for help (variant 3)">
             <Key ID="str_a3_exp_m01_p10_help_3_pol_0">
               <Original>Can anyone hear me?</Original>
               <Chinese>有任何人聽見我嗎?</Chinese>
-              <Chinesesimp>有任何人听见我吗?</Chinesesimp>
+              <Chinesesimp>有任何人听见我吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="p05_Help_2" audioFilePath="\a3\dubbing_f_exp\exp_m01" dialogName="p05_Help_2" dubbingLanguage="english" namePrefix="exp_m01_p05_help_2" note="" participants="EXC B Police Officer;" situation="captive police officer calls out for help (variant 2)">
             <Key ID="str_a3_exp_m01_p05_help_2_pol_0">
               <Original>In here!</Original>
               <Chinese>在這邊!</Chinese>
-              <Chinesesimp>在这边!</Chinesesimp>
+              <Chinesesimp>在这边！</Chinesesimp>
             </Key>
           </Container>
           <Container name="p01_Help_1" audioFilePath="\a3\dubbing_f_exp\exp_m01" dialogName="p01_Help_1" dubbingLanguage="english" namePrefix="exp_m01_p01_help_1" note="" participants="EXC B Police Officer;" situation="captive police officer calls out for help (variant 1)">
             <Key ID="str_a3_exp_m01_p01_help_1_pol_0">
               <Original>Help!</Original>
               <Chinese>救命!</Chinese>
-              <Chinesesimp>救命!</Chinesesimp>
+              <Chinesesimp>救命！</Chinesesimp>
             </Key>
           </Container>
           <Container name="65_Support_Searched" audioFilePath="\a3\dubbing_f_exp\exp_m01" dialogName="65_Support_Searched" dubbingLanguage="english" namePrefix="exp_m01_65_support_searched" note="" participants="EXC B Riker;" situation="support lead informs players that their building was empty and that they're coming to assist the players with the second building">
             <Key ID="str_a3_exp_m01_65_support_searched_rik_0">
               <Original>Negative eyes on Keystone at our current position, Raider 2. Moving to you.</Original>
-              <Chinese>我們正邊沒有發現到"拱心石"的蹤影，"突襲者2"。正在過去與你們會合。</Chinese>
-              <Chinesesimp>我们正边没有发现到"拱心石"的踪影，"突袭者2"。正在过去与你们会合。</Chinesesimp>
+              <Chinese>我們正邊沒有發現到"基石"的蹤影，"突襲者2"。正在過去與你們會合。</Chinese>
+              <Chinesesimp>我们正边没有发现到"基石"的踪影，"突袭者2"。正在过去与你们会合。</Chinesesimp>
             </Key>
           </Container>
           <Container name="60_QRF" audioFilePath="\a3\dubbing_f_exp\exp_m01" dialogName="60_QRF" dubbingLanguage="english" namePrefix="exp_m01_60_qrf" note="" participants="EXC B CTRG Commander;" situation="hq informs the support team and players that the qrf they chose to ignore is moving to the last location">
@@ -7385,7 +7385,7 @@
             <Key ID="str_a3_exp_m01_50_plan_rik_0">
               <Original>Raider 2, we're set up on the east side of the road. There's 2 buildings of interest: one on our side, one on yours.</Original>
               <Chinese>"突襲者2"，我們正在道路的東邊待命。這裡有兩棟可疑的建築:一個在我們這邊，一個在你們那邊。</Chinese>
-              <Chinesesimp>"突袭者2"，我们正在道路的东边待命。这里有两栋可疑的建筑:一个在我们这边，一个在你们那边。</Chinesesimp>
+              <Chinesesimp>"突袭者2"，我们正在道路的东边待命。这里有两栋可疑的建筑：一个在我们这边，一个在你们那边。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m01_50_plan_rik_1">
               <Original>Your route in's blocked by trees. Recommend you move out to a flank for a better view.</Original>
@@ -7411,8 +7411,8 @@
             </Key>
             <Key ID="str_a3_exp_m01_45_second_rik_1">
               <Original>Watchtower, SITREP, no sign of Keystone at New York. Over.</Original>
-              <Chinese>"守望塔"，狀況回報，'紐約'點這邊也沒發現到"拱心石"的蹤影。完畢。</Chinese>
-              <Chinesesimp>"守望塔"，状况回报，'纽约'点这边也没发现到"拱心石"的踪影。完毕。</Chinesesimp>
+              <Chinese>"守望塔"，狀況回報，'紐約'點這邊也沒發現到"基石"的蹤影。完畢。</Chinese>
+              <Chinesesimp>"守望塔"，状况回报，'纽约'点这边也没发现到"基石"的踪影。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_Paras" audioFilePath="\a3\dubbing_f_exp\exp_m01" dialogName="40_Paras" dubbingLanguage="english" namePrefix="exp_m01_40_paras" note="" participants="EXC B Riker;EXC B Grimm;" situation="support lead sees the enemy paramilitaries the players spotted">
@@ -7457,8 +7457,8 @@
             </Key>
             <Key ID="str_a3_exp_m01_35_continue_rik_0">
               <Original>Watchtower, be advised, London is clear. Negative eyes on Keystone.</Original>
-              <Chinese>"守望塔"，請注意，'倫敦'點已肅清。沒有找到"拱心石"。</Chinese>
-              <Chinesesimp>"守望塔"，请注意，'伦敦'点已肃清。没有找到"拱心石"。</Chinesesimp>
+              <Chinese>"守望塔"，請注意，'倫敦'點已肅清。沒有找到"基石"。</Chinese>
+              <Chinesesimp>"守望塔"，请注意，'伦敦'点已肃清。没有找到"基石"。</Chinesesimp>
             </Key>
           </Container>
           <Container name="30_Weapons" audioFilePath="\a3\dubbing_f_exp\exp_m01" dialogName="30_Weapons" dubbingLanguage="english" namePrefix="exp_m01_30_weapons" note="" participants="EXC B Riker;EXC B Grimm;" situation="support team sees the weapons the players found in the building">
@@ -7477,7 +7477,7 @@
             <Key ID="str_a3_exp_m01_25_search_rik_0">
               <Original>Move in on the building. Go!</Original>
               <Chinese>進入那個建築。動作!</Chinese>
-              <Chinesesimp>进入那个建筑。快上!</Chinesesimp>
+              <Chinesesimp>进入那个建筑。快上！</Chinesesimp>
             </Key>
           </Container>
           <Container name="23_NotSoQuiet" audioFilePath="\a3\dubbing_f_exp\exp_m01" dialogName="23_NotSoQuiet" dubbingLanguage="english" namePrefix="exp_m01_23_notsoquiet" note="" participants="EXC B Riker;" situation="support lead reports players made a contact with the enemy">
@@ -7522,8 +7522,8 @@
           </Container>
           <Key ID="str_a3_exp_m01_missiontitle">
             <Original>Keystone</Original>
-            <Chinese>"拱心石"</Chinese>
-            <Chinesesimp>"拱心石"</Chinesesimp>
+            <Chinese>"基石"</Chinese>
+            <Chinesesimp>"基石"</Chinesesimp>
           </Key>
           <Key ID="STR_A3_exp_m01_policeOfficer">
             <Original>Police Officer</Original>
@@ -7641,7 +7641,7 @@
           <Key ID="str_a3_showcase_endgame_titlecard">
             <Original>SHOWCASE: END GAME - Tanoa, New vehicles and weapons, End Game</Original>
             <Chinese>任務展示:終戰-塔諾亞，新載具與新武器，終戰</Chinese>
-            <Chinesesimp>任务展示:终战-塔诺亚，新载具与新武器，终战</Chinesesimp>
+            <Chinesesimp>任务展示：终战 — 塔诺亚，新载具与新武器，终战</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_endgame_taskuploadtitle">
             <Original>Upload the Schematics</Original>
@@ -7651,7 +7651,7 @@
           <Key ID="str_a3_showcase_endgame_taskuploadtext">
             <Original>Return to %2FOB%1 and upload the schematics via the terminal.</Original>
             <Chinese>返回%2前線作戰基地%1並使用終端機來上傳武器藍圖。</Chinese>
-            <Chinesesimp>返回%2前线作战基地%1并使用终端机来上传武器蓝图。</Chinesesimp>
+            <Chinesesimp>返回%2前线作战基地%1并使用终端来上传武器蓝图。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_endgame_taskschematicstitle">
             <Original>Secure the Schematics</Original>
@@ -7676,7 +7676,7 @@
           <Key ID="str_a3_showcase_endgame_taskintel02title">
             <Original>Intel - Compound</Original>
             <Chinese>情報-工廠</Chinese>
-            <Chinesesimp>情报-工厂</Chinesesimp>
+            <Chinesesimp>情报 — 工厂</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_endgame_taskintel02text">
             <Original>Secure the Syndikat %2compound%1 north of the city and sweep the location for any useful intel.</Original>
@@ -7686,7 +7686,7 @@
           <Key ID="str_a3_showcase_endgame_taskintel01title">
             <Original>Intel - Warehouse</Original>
             <Chinese>情報-倉庫</Chinese>
-            <Chinesesimp>情报-仓库</Chinesesimp>
+            <Chinesesimp>情报 — 仓库</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_endgame_taskintel01text">
             <Original>Proceed to Ouméré, eliminate all hostile forces and sweep the %2location%1 for any useful intel.</Original>
@@ -7741,7 +7741,7 @@
           <Key ID="str_a3_showcase_endgame_mission">
             <Original>You are to move to the AO, neutralize all Syndikat forces, secure the schematics and upload them to our secure servers. Be on the look out for any CSAT and Syndikat presence in and around the AO.</Original>
             <Chinese>你將前往任務地點肅清所有辛迪加的部隊，奪得武器藍圖並上傳到我們的終端機之中。任務過程中請隨時留意任何廣協同盟與辛迪加的活動。</Chinese>
-            <Chinesesimp>你将前往任务地点肃清所有辛迪加的部队，夺得武器蓝图并上传到我们的终端机之中。任务过程中请随时留意任何广协与辛迪加的活动。</Chinesesimp>
+            <Chinesesimp>你将前往任务地点肃清所有辛迪加的部队，夺得武器蓝图并上传到我们的终端之中。任务过程中请随时留意任何广协与辛迪加的活动。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_endgame_markersupplybox">
             <Original>Supply box</Original>
@@ -7761,7 +7761,7 @@
           <Key ID="str_a3_showcase_endgame_end04">
             <Original>Insubordination will not be tolerated!</Original>
             <Chinese>以下犯上是絕不能被容忍的!</Chinese>
-            <Chinesesimp>以下犯上是绝不能被容忍的!</Chinesesimp>
+            <Chinesesimp>以下犯上是绝不能被容忍的！</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_endgame_end03">
             <Original>You successfully captured and uploaded the schematics to our secure servers, but you also let the enemy gunship retreat unharmed.</Original>
@@ -7787,7 +7787,7 @@
             <Key ID="str_a3_showcase_endgame_x01_charliedown_rik_0">
               <Original>Raider 2, radio check, over?</Original>
               <Chinese>"突襲者2"，無線電檢查，完畢?</Chinese>
-              <Chinesesimp>"突袭者2"，无线电检查，完毕?</Chinesesimp>
+              <Chinesesimp>"突袭者2"，无线电检查，完毕？</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_endgame_x01_charliedown_rik_1">
               <Original>Raider 2, nothing heard, out.</Original>
@@ -7797,7 +7797,7 @@
             <Key ID="str_a3_showcase_endgame_x01_charliedown_rik_2">
               <Original>Watchtower, Raider 1, I have no comms with Raider 2, over?</Original>
               <Chinese>"守望塔"，這裡是"突襲者1"，我們與"突襲者2"失去聯繫，完畢?</Chinese>
-              <Chinesesimp>"守望塔"，这里是"突袭者1"，我们与"突袭者2"失去联系，完毕?</Chinesesimp>
+              <Chinesesimp>"守望塔"，这里是"突袭者1"，我们与"突袭者2"失去联系，完毕？</Chinesesimp>
             </Key>
           </Container>
           <Container name="62_GunshipRTB" audioFilePath="\a3\dubbing_f_exp\showcase_endgame" dialogName="62_GunshipRTB" dubbingLanguage="english" namePrefix="showcase_endgame_62_gunshiprtb" note="" participants="EXC B Riker;EXC B CTRG Commander;" situation="player informs hq that the gunship is leaving">
@@ -7814,7 +7814,7 @@
             <Key ID="str_a3_showcase_endgame_62_gunshiprtb_rik_1">
               <Original>This might be the best time to send a helicopter, over?</Original>
               <Chinese>這可能是最佳時機來派遣撤離直升機過來，完畢?</Chinese>
-              <Chinesesimp>这可能是最佳时机来派遣撤离直升机过来，完毕?</Chinesesimp>
+              <Chinesesimp>这可能是最佳时机来派遣撤离直升机过来，完毕？</Chinesesimp>
             </Key>
           </Container>
           <Container name="61_GunshipFled" audioFilePath="\a3\dubbing_f_exp\showcase_endgame" dialogName="61_GunshipFled" dubbingLanguage="english" namePrefix="showcase_endgame_61_gunshipfled" note="" participants="EXC B Riker;EXC B CTRG Commander;" situation="player informs hq that the gunship is fleeing">
@@ -7843,7 +7843,7 @@
             <Key ID="str_a3_showcase_endgame_60_gunshipdown_rik_0">
               <Original>Watchtower, SITREP, 1x enemy AH, engaged and destroyed. Over?</Original>
               <Chinese>"守望塔"，狀況回報，1臺敵方武裝直升機已經被我們擊落。完畢?</Chinese>
-              <Chinesesimp>"守望塔"，状况回报，1台敌方武装直升机已经被我们击落。完毕?</Chinesesimp>
+              <Chinesesimp>"守望塔"，状况回报，1台敌方武装直升机已经被我们击落。完毕？</Chinesesimp>
             </Key>
           </Container>
           <Container name="55_SchematicsUploaded" audioFilePath="\a3\dubbing_f_exp\showcase_endgame" dialogName="55_SchematicsUploaded" dubbingLanguage="english" namePrefix="showcase_endgame_55_schematicsuploaded" note="" participants="EXC B Riker;EXC B CTRG Commander;" situation="schematics uploaded, player still is (or could be) under enemy fire">
@@ -7855,12 +7855,12 @@
             <Key ID="str_a3_showcase_endgame_55_schematicsuploaded_com_1">
               <Original>Watchtower to all callsigns, be aware, radar is picking up possible enemy advancing from the south-west!</Original>
               <Chinese>"守望塔"呼叫所有突襲者小隊，請小心，雷達偵測到敵人將可能從西南方發起進攻!</Chinese>
-              <Chinesesimp>"守望塔"呼叫所有突袭者小队，请小心，雷达侦测到敌人将可能从西南方发起进攻!</Chinesesimp>
+              <Chinesesimp>"守望塔"呼叫所有突袭者小队，请小心，雷达侦测到敌人将可能从西南方发起进攻！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_endgame_55_schematicsuploaded_rik_0">
               <Original>Watchtower, schematics sent. We need QRF or a rotary exfil. Over?</Original>
               <Chinese>"守望塔"，武器藍圖傳送完畢。但我們急需增援或是直升機撤離。完畢?</Chinese>
-              <Chinesesimp>"守望塔"，武器蓝图传送完毕。但我们急需增援或是直升机撤离。完毕?</Chinesesimp>
+              <Chinesesimp>"守望塔"，武器蓝图传送完毕。但我们急需增援或是直升机撤离。完毕？</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_endgame_55_schematicsuploaded_com_2">
               <Original>Find cover and prepare for the worst.</Original>
@@ -7928,7 +7928,7 @@
             <Key ID="str_a3_showcase_endgame_40_charlieattack_rik_0">
               <Original>Raider 2, fire!</Original>
               <Chinese>"突襲者2"，攻擊!</Chinese>
-              <Chinesesimp>"突袭者2"，攻击!</Chinesesimp>
+              <Chinesesimp>"突袭者2"，攻击！</Chinesesimp>
             </Key>
           </Container>
           <Container name="35_CharlieReady" audioFilePath="\a3\dubbing_f_exp\showcase_endgame" dialogName="35_CharlieReady" dubbingLanguage="english" namePrefix="showcase_endgame_35_charlieready" note="" participants="EXC B Grimm;" situation="raider 2 informs player that the team is ready to strike the camp">
@@ -7957,7 +7957,7 @@
             <Key ID="str_a3_showcase_endgame_30_schematicsrevealed_com_2">
               <Original>Further to my last, our Int. Officer suggests an HVT at said location - some type of scientist or engineer.</Original>
               <Chinese>接續剛剛的話題，根據我們的情報。該地可能也有位重要目標-可能是一名科學家或是工程師之類的人物。</Chinese>
-              <Chinesesimp>接续刚刚的话题，根据我们的情报。该地可能也有位重要目标-可能是一名科学家或是工程师之类的人物。</Chinesesimp>
+              <Chinesesimp>接续刚刚的话题，根据我们的情报。该地可能也有位重要目标 — 可能是一名科学家或是工程师之类的人物。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_endgame_30_schematicsrevealed_com_3">
               <Original>Raider 1 will approach from the east, Raider 2 from the west. Sync your attack. Raider 1's lead callsign.</Original>
@@ -7967,7 +7967,7 @@
             <Key ID="str_a3_showcase_endgame_30_schematicsrevealed_com_4">
               <Original>Tasking: Clear the objective, retrieve the Eastwind schematics. Capture the HVT if possible.</Original>
               <Chinese>任務賦予:肅清目標，取得東風裝置的藍圖。假如可以的話，順便帶回那位重要目標。</Chinese>
-              <Chinesesimp>任务赋予:肃清目标，取得东风装置的蓝图。假如可以的话，顺便带回那位重要目标。</Chinesesimp>
+              <Chinesesimp>任务赋予：肃清目标，取得东风装置的蓝图。假如可以的话，顺便带回那位重要目标。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_endgame_30_schematicsrevealed_grm_0">
               <Original>Raider 2, roger. We'll send SITREP once in position. Out.</Original>
@@ -8038,7 +8038,7 @@
             <Key ID="str_a3_showcase_endgame_15_reinforcements_com_2">
               <Original>Tasking: Raider 1 will move north and attack, while Raider 2 moves west.</Original>
               <Chinese>任務賦予:"突襲者1"將前往北邊並展開攻擊，與此同時"突襲者2"將前往西邊。</Chinese>
-              <Chinesesimp>任务赋予:"突袭者1"将前往北边并展开攻击，与此同时"突袭者2"将前往西边。</Chinesesimp>
+              <Chinesesimp>任务赋予："突袭者1"将前往北边并展开攻击，与此同时"突袭者2"将前往西边。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_endgame_15_reinforcements_com_3">
               <Original>Recce those positions. Look for any Eastwind int. Expect Syndikat and CSAT in the area.</Original>
@@ -8070,7 +8070,7 @@
             <Key ID="str_a3_showcase_endgame_10_mindyourheads_pil_1">
               <Original>Keep clear!</Original>
               <Chinese>保持地面淨空!</Chinese>
-              <Chinesesimp>保持地面净空!</Chinesesimp>
+              <Chinesesimp>保持地面净空！</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_FOBTaken" audioFilePath="\a3\dubbing_f_exp\showcase_endgame" dialogName="05_FOBTaken" dubbingLanguage="english" namePrefix="showcase_endgame_05_fobtaken" note="" participants="EXC B CTRG Commander;EXC B Pilot;EXC B Riker;" situation="fob taken, helicopter with reinforcements on the way">
@@ -8087,7 +8087,7 @@
             <Key ID="str_a3_showcase_endgame_05_fobtaken_rik_0">
               <Original>Watchtower, Raider 1, SITREP: Area clear. Enemy PAC's engaged and destroyed. Over?</Original>
               <Chinese>"守望塔"，這裡是"突襲者1"，狀況回報:目標區已安全。敵方人員皆已殲滅。完畢?</Chinese>
-              <Chinesesimp>"守望塔"，这里是"突袭者1"，状况回报:目标区已安全。敌方人员皆已歼灭。完毕?</Chinesesimp>
+              <Chinesesimp>"守望塔"，这里是"突袭者1"，状况回报：目标区已安全。敌方人员皆已歼灭。完毕？</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_endgame_05_fobtaken_com_2">
               <Original>Roger. Out.</Original>
@@ -8349,7 +8349,7 @@
           <Key ID="str_a3_escapefromtanoa_end01desc">
             <Original>Against all odds, you managed to escape from Tanoa. Great work!</Original>
             <Chinese>儘管困難重重，你們仍設法逃出了塔諾亞。幹的好!</Chinese>
-            <Chinesesimp>尽管困难重重，你们仍设法逃出了塔诺亚。干的好!</Chinesesimp>
+            <Chinesesimp>尽管困难重重，你们仍设法逃出了塔诺亚。干的好！</Chinesesimp>
           </Key>
           <Key ID="STR_A3_escape_marker_base">
             <Original>CSAT base</Original>
@@ -8377,7 +8377,7 @@
         <Key ID="STR_A3_ApexProtocol_class_Grenadier">
           <Original>02: Grenadier</Original>
           <Chinese>02:榴彈兵</Chinese>
-          <Chinesesimp>02:掷弹手</Chinesesimp>
+          <Chinesesimp>02：掷弹手</Chinesesimp>
         </Key>
         <Key ID="STR_A3_ApexProtocol_action_Search">
           <Original>Search</Original>
@@ -8387,12 +8387,12 @@
         <Key ID="STR_A3_ApexProtocol_class_Paramedic">
           <Original>01: Paramedic</Original>
           <Chinese>01:急救醫護</Chinese>
-          <Chinesesimp>01:急救卫生员</Chinesesimp>
+          <Chinesesimp>01：急救卫生员</Chinesesimp>
         </Key>
         <Key ID="STR_A3_ApexProtocol_class_Autorifleman">
           <Original>03: Autorifleman</Original>
           <Chinese>03:自動步槍兵</Chinese>
-          <Chinesesimp>03:自动步枪手</Chinesesimp>
+          <Chinesesimp>03：自动步枪手</Chinesesimp>
         </Key>
         <Key ID="STR_A3_ApexProtocol_action_UAVControl">
           <Original>Transfer Authority</Original>
@@ -8402,17 +8402,17 @@
         <Key ID="STR_A3_ApexProtocol_class_Scout">
           <Original>01: Scout</Original>
           <Chinese>01:偵察兵</Chinese>
-          <Chinesesimp>01:侦察兵</Chinesesimp>
+          <Chinesesimp>01：侦察兵</Chinesesimp>
         </Key>
         <Key ID="STR_A3_ApexProtocol_class_Sharpshooter">
           <Original>02: Sharpshooter</Original>
           <Chinese>02:狙擊手</Chinese>
-          <Chinesesimp>02:特等射手</Chinesesimp>
+          <Chinesesimp>02：特等射手</Chinesesimp>
         </Key>
         <Key ID="STR_A3_ApexProtocol_class_Engineer">
           <Original>02: Engineer</Original>
           <Chinese>02:工兵</Chinese>
-          <Chinesesimp>02:工兵</Chinesesimp>
+          <Chinesesimp>02：工兵</Chinesesimp>
         </Key>
         <Key ID="STR_A3_ApexProtocol_action_Untie">
           <Original>Untie Police Officer</Original>
@@ -8422,7 +8422,7 @@
         <Key ID="STR_A3_ApexProtocol_class_Saboteur">
           <Original>03: Saboteur</Original>
           <Chinese>03:破壞兵</Chinese>
-          <Chinesesimp>03:爆破手</Chinesesimp>
+          <Chinesesimp>03：爆破手</Chinesesimp>
         </Key>
         <Key ID="STR_A3_ApexProtocol_BIS_Presents">
           <Original>BOHEMIA INTERACTIVE PRESENTS</Original>
@@ -8432,7 +8432,7 @@
         <Key ID="STR_A3_ApexProtocol_class_ATRifleman">
           <Original>03: AT Rifleman</Original>
           <Chinese>03:反坦克步兵</Chinese>
-          <Chinesesimp>03:反坦克步枪手</Chinesesimp>
+          <Chinesesimp>03：反坦克步枪手</Chinesesimp>
         </Key>
         <Key ID="STR_A3_ApexProtocol_callsign_Angel13">
           <Original>Angel 1-3</Original>
@@ -8456,8 +8456,8 @@
         </Key>
         <Key ID="STR_A3_ApexProtocol_callsign_Keystone">
           <Original>Keystone</Original>
-          <Chinese>"拱心石"</Chinese>
-          <Chinesesimp>"拱心石"</Chinesesimp>
+          <Chinese>"基石"</Chinese>
+          <Chinesesimp>"基石"</Chinesesimp>
         </Key>
         <Key ID="STR_A3_ApexProtocol_callsign_Raider2">
           <Original>Raider 2</Original>
@@ -8497,7 +8497,7 @@
         <Key ID="STR_A3_ApexProtocol_class_Rifleman">
           <Original>01: Rifleman</Original>
           <Chinese>01:步槍兵</Chinese>
-          <Chinesesimp>01:步枪手</Chinesesimp>
+          <Chinesesimp>01：步枪手</Chinesesimp>
         </Key>
         <Key ID="STR_A3_ApexProtocol_callsign_Watchtower">
           <Original>Watchtower</Original>

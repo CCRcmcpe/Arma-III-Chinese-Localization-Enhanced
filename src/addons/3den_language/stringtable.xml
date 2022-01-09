@@ -393,12 +393,12 @@
             <Key ID="str_3den_display3den_menubar_spaceoutrowin_text">
               <Original>Outro - Win</Original>
               <Chinese>結局-勝利</Chinese>
-              <Chinesesimp>结局-胜利</Chinesesimp>
+              <Chinesesimp>结局 — 胜利</Chinesesimp>
             </Key>
             <Key ID="str_3den_display3den_menubar_spaceoutrolose_text">
               <Original>Outro - Lose</Original>
               <Chinese>結局-失敗</Chinese>
-              <Chinesesimp>结局-失败</Chinesesimp>
+              <Chinesesimp>结局 — 失败</Chinesesimp>
             </Key>
             <Key ID="str_3den_display3den_menubar_spacemission_text">
               <Original>Scenario</Original>
@@ -805,7 +805,7 @@
             <Key ID="STR_3DEN_Display3DEN_Play_Phase_OutroWin">
               <Original>Play Outro - Win</Original>
               <Chinese>遊玩結局-勝利</Chinese>
-              <Chinesesimp>运行结局-胜利</Chinesesimp>
+              <Chinesesimp>运行结局 — 胜利</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_Play_Phase_Intro">
               <Original>Play Intro</Original>
@@ -815,7 +815,7 @@
             <Key ID="STR_3DEN_Display3DEN_Play_Phase_OutroLose">
               <Original>Play Outro - Lose</Original>
               <Chinese>遊玩結局-失敗</Chinese>
-              <Chinesesimp>运行结局-失败</Chinesesimp>
+              <Chinesesimp>运行结局 — 失败</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_Play_Env_SP">
               <Original>In Singleplayer</Original>
@@ -926,7 +926,7 @@
             <Key ID="STR_3DEN_CreateObjectEmptyWarning_text">
               <Original>Looking for empty vehicles?</Original>
               <Chinese>你在尋找空的載具嗎?</Chinese>
-              <Chinesesimp>你在寻找空的载具吗?</Chinesesimp>
+              <Chinesesimp>你在寻找空的载具吗？</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_CustomCompositionPanel_Add_tooltip">
               <Original>Save new custom composition from currently selected entities.</Original>
@@ -961,7 +961,7 @@
             <Key ID="STR_3DEN_Display3DEN_SearchEditButton_tooltip">
               <Original>Search in the entity list.\nUse '#' followed by entity type to search for all entities of the given type (e.g., 'Waypoint'). Supported types:\n#Object\n#Group\n#Trigger\n#Waypoint\n#Logic\n#Marker\n#Comment</Original>
               <Chinese>在場上物件清單上搜尋。\n使用'#'來當作開頭，好在場上物件清單上搜尋不同類型的物件(例如'Waypoint')。支援的類型如下(用英文輸入即可):\n#Object\n#Group\n#Trigger\n#Waypoint\n#Logic\n#Marker\n#Comment</Chinese>
-              <Chinesesimp>在场上物件清单上搜寻。\n使用'#'来当作开头，好在场上物件清单上搜寻不同类型的物件(例如'Waypoint')。支持的类型如下（用英文输入即可）:\n#Object\n#Group\n#Trigger\n#Waypoint\n#Logic\n#Marker\n#Comment</Chinesesimp>
+              <Chinesesimp>在场上物件清单上搜寻。\n使用'#'来当作开头，好在场上物件清单上搜寻不同类型的物件(例如'Waypoint')。支持的类型如下（用英文输入即可）：\n#Object\n#Group\n#Trigger\n#Waypoint\n#Logic\n#Marker\n#Comment</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -970,7 +970,7 @@
           <Key ID="STR_3DEN_Display3DENEditAttributes_Title_text">
             <Original>Edit: %s</Original>
             <Chinese>編輯:%s</Chinese>
-            <Chinesesimp>编辑:%s</Chinesesimp>
+            <Chinesesimp>编辑：%s</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Display3DENEditAttributes_AttributeEnable_tooltip">
             <Original>Enable to set the attribute for all the selected entities</Original>
@@ -1024,7 +1024,7 @@
           <Key ID="STR_3DEN_Display3DENSave_textDate">
             <Original>%d/%m/%Y  %H:%M</Original>
             <Chinese>%d/%m/%Y  %H:%M</Chinese>
-            <Chinesesimp>%d/%m/%Y  %H:%M</Chinesesimp>
+            <Chinesesimp>%d/%m/%Y  %H：%M</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Display3DENSave_Filter_Terrain_text">
             <Original>Terrain</Original>
@@ -1195,7 +1195,7 @@
           <Key ID="STR_3DEN_RscDisplayArcadeMap_Watermark_text">
             <Original>WARNING: YOU ARE USING THE DEPRECIATED 2D EDITOR!</Original>
             <Chinese>警告:你正在使用功能殘缺的2D編輯器!</Chinese>
-            <Chinesesimp>警告：你正在使用老旧的2D编辑器!</Chinesesimp>
+            <Chinesesimp>警告：你正在使用老旧的2D编辑器！</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -1514,7 +1514,7 @@
           <Key ID="str_3den_waypoint_attribute_condition_tooltip">
             <Original>Repeatedly calculated condition, must return boolean expression. When the waypoint type conditions are met and this expression returns true, the waypoint is completed.\nPassed variables are:\n* this - group leader\n* thisList - array with all group members</Original>
             <Chinese>重複計算條件，必須回傳布林值。當路徑點條件都達成會回傳true布林值，路徑點就會被判定完成。\n可傳遞的變數:\n*this-小隊長\n*thisList-所有小隊中的成員</Chinese>
-            <Chinesesimp>重复计算条件，必须回传布林值。当路径点条件都达成会回传 true 布林值，路径点就会被判定完成。\n可传递的变量:\n*this-小队长\n*thisList-所有小队中的成员</Chinesesimp>
+            <Chinesesimp>重复计算条件，必须回传布林值。当路径点条件都达成会回传 true 布林值，路径点就会被判定完成。\n可传递的变量：\n*this-小队长\n*thisList-所有小队中的成员</Chinesesimp>
           </Key>
           <Key ID="str_3den_waypoint_attribute_script_displayname">
             <Original>Script</Original>
@@ -1589,7 +1589,7 @@
           <Key ID="str_3den_waypoint_attribute_onactivation_tooltip">
             <Original>Expression called when the waypoint is completed.\nPassed variables are:\n* this - group leader\n* thisList - array with all group members</Original>
             <Chinese>當路徑點完成時會執行的腳本命令。\n可傳遞的變數:\n*this-小隊長\n*thisList-所有小隊中的成員</Chinese>
-            <Chinesesimp>当路径点完成时会执行的脚本命令。\n可传递的变量:\n*this-小队长\n*thisList-所有小队中的成员</Chinesesimp>
+            <Chinesesimp>当路径点完成时会执行的脚本命令。\n可传递的变量：\n*this-小队长\n*thisList-所有小队中的成员</Chinesesimp>
           </Key>
           <Key ID="str_3den_waypoint_attribute_order_tooltip">
             <Original>Order in which waypoints follow. When changing order, the waypoint will take position of the selected one, pushing all other further down.</Original>
@@ -1793,7 +1793,7 @@
             <Key ID="str_3den_tutorials_intro_sections_oldeditor_discontinued_text">
               <Original>The discontinued features are:&lt;br /&gt;%1Map object interaction (e.g., attaching waypoints to map objects)&lt;br /&gt;%1AND and OR waypoints for logics&lt;br /&gt;%1"Special" object attribute:&lt;br /&gt;&lt;%2&gt;Flying&lt;%3&gt; is set by increasing altitude.&lt;br /&gt;&lt;%2&gt;Formation&lt;%3&gt; is available in the context menu.&lt;br /&gt;&lt;%2&gt;In Cargo&lt;%3&gt; is achieved by moving characters to vehicles directly.</Original>
               <Chinese>被刪掉的功能如下:&lt;br/&gt;%1地圖物件互動(像是綁定路徑點到地圖物件上)&lt;br/&gt;%1[和]與[或]的邏輯路徑點&lt;br/&gt;%1載具的"特殊狀態":&lt;br/&gt;&lt;%2&gt;在飛行中&lt;%3&gt;的功能被高度系統取代(設定一定的高度會使飛行載具自動進入飛行)。&lt;br/&gt;&lt;%2&gt;在編隊內&lt;%3&gt;的功能被包含到了屬性選單中。&lt;br/&gt;&lt;%2&gt;在載具內&lt;%3&gt;的功能則是可以簡單透過拖曳單位進入載具來達成。</Chinese>
-              <Chinesesimp>被删掉的功能如下:&lt;br/&gt;%1地图物件互动(像是绑定路径点到地图物件上)&lt;br/&gt;%1[和]与[或]的逻辑路径点&lt;br/&gt;%1载具的"特殊状态":&lt;br/&gt;&lt;%2&gt;在飞行中&lt;%3&gt;的功能被高度系统取代（设置一定的高度会使飞行载具自动进入飞行）。&lt;br/&gt;&lt;%2&gt;在编队内&lt;%3&gt;的功能被包含到了属性菜单中。&lt;br/&gt;&lt;%2&gt;在载具内&lt;%3&gt;的功能则是可以简单通过拖拽单位进入载具来达成。</Chinesesimp>
+              <Chinesesimp>被删掉的功能如下：&lt;br/&gt;%1地图物件互动(像是绑定路径点到地图物件上)&lt;br/&gt;%1[和]与[或]的逻辑路径点&lt;br/&gt;%1载具的"特殊状态"：&lt;br/&gt;&lt;%2&gt;在飞行中&lt;%3&gt;的功能被高度系统取代（设置一定的高度会使飞行载具自动进入飞行）。&lt;br/&gt;&lt;%2&gt;在编队内&lt;%3&gt;的功能被包含到了属性菜单中。&lt;br/&gt;&lt;%2&gt;在载具内&lt;%3&gt;的功能则是可以简单通过拖拽单位进入载具来达成。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_intro_sections_oldeditor_crew_text">
               <Original>You can now edit vehicle crew individually. When you hover the cursor over a vehicle, an interactive list of all crew members inside will be expanded next to the vehicle icon.&lt;br /&gt;&lt;br /&gt;When the vehicle has visible crew positions (e.g., soldiers sitting inside a car), you can also see icons directly on each member.</Original>
@@ -1926,12 +1926,12 @@
             <Key ID="str_3den_tutorials_editing_sections_layers_types_text">
               <Original>Two types of layers exist:&lt;br /&gt;%1%10 &lt;%2&gt;Root Layer&lt;%3&gt; - automatic layers for each entity type. Cannot be modified.&lt;br /&gt;%1%11 &lt;%2&gt;Custom Layer&lt;%3&gt; - can contain any entity type and can be freely edited.</Original>
               <Chinese>有兩種圖層類型:&lt;br/&gt;%1%10&lt;%2&gt;基礎圖層&lt;%3&gt;-最基礎的物件分類。無法被編輯。&lt;br/&gt;%1%11&lt;%2&gt;自定義圖層&lt;%3&gt;-可包含任何你想要的物件類型，此圖層可自由被編輯。</Chinese>
-              <Chinesesimp>有两种图层类型:&lt;br/&gt;%1%10&lt;%2&gt;基础图层&lt;%3&gt;-最基础的物件分类。无法被编辑。&lt;br/&gt;%1%11&lt;%2&gt;自定义图层&lt;%3&gt;-可包含任何你想要的物件类型，此图层可自由被编辑。</Chinesesimp>
+              <Chinesesimp>有两种图层类型：&lt;br/&gt;%1%10&lt;%2&gt;基础图层&lt;%3&gt;-最基础的物件分类。无法被编辑。&lt;br/&gt;%1%11&lt;%2&gt;自定义图层&lt;%3&gt;-可包含任何你想要的物件类型，此图层可自由被编辑。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_layers_select_text">
               <Original>You can quickly select entities in the layer. Press the &lt;%2&gt;Right Mouse Button&lt;%3&gt; on a layer, expand the &lt;%2&gt;Select...&lt;%3&gt; option, and pick from one of these options:&lt;br /&gt;%1&lt;%2&gt;Select Immediate Children&lt;%3&gt; - selects all entities directly in the layer, but not in the sub-layers.&lt;br /&gt;%1&lt;%2&gt;Select All Descendants&lt;%3&gt; - selects all the entities in the layer and all the sub-layers.</Original>
               <Chinese>你可以快速選擇圖層。對圖層按下&lt;%2&gt;滑鼠右鍵&lt;%3&gt;，然後到&lt;%2&gt;選擇...&lt;%3&gt;的選項中找到你要的選擇模式:&lt;br/&gt;%1&lt;%2&gt;選擇直屬子物件&lt;%3&gt;-選擇該圖層的直屬子物件，但更深層的子物件便不會被選取到。&lt;br/&gt;%1&lt;%2&gt;選擇所有子物件&lt;%3&gt;-選擇圖層底下所有的子物件。</Chinese>
-              <Chinesesimp>你可以快速选择图层。对图层按下&lt;%2&gt;鼠标右键&lt;%3&gt;，然后到&lt;%2&gt;选择...&lt;%3&gt;的选项中找到你要的选择模式:&lt;br/&gt;%1&lt;%2&gt;选择直属子物件&lt;%3&gt;-选择该图层的直属子物件，但更深层的子物件便不会被选取到。&lt;br/&gt;%1&lt;%2&gt;选择所有子物件&lt;%3&gt;-选择图层底下所有的子物件。</Chinesesimp>
+              <Chinesesimp>你可以快速选择图层。对图层按下&lt;%2&gt;鼠标右键&lt;%3&gt;，然后到&lt;%2&gt;选择...&lt;%3&gt;的选项中找到你要的选择模式：&lt;br/&gt;%1&lt;%2&gt;选择直属子物件&lt;%3&gt;-选择该图层的直属子物件，但更深层的子物件便不会被选取到。&lt;br/&gt;%1&lt;%2&gt;选择所有子物件&lt;%3&gt;-选择图层底下所有的子物件。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_layers_remove_text">
               <Original>To remove the selected layer, press the &lt;%2&gt;Move to Root&lt;%3&gt; button. Entities inside will not be deleted, and they will end up back in the root folders.</Original>
@@ -1966,7 +1966,7 @@
             <Key ID="str_3den_tutorials_editing_sections_layers_attributes_text">
               <Original>Press the &lt;%2&gt;Right Mouse Button&lt;%3&gt; on a layer and select &lt;%2&gt;Attributes&lt;%3&gt; to open layer attributes.&lt;br /&gt;You can rename the layer here, and configure its interaction:&lt;br /&gt;%1&lt;%2&gt;Enable Transformation&lt;%3&gt; - when disabled, you will not be able to select layer entities in the view.&lt;br /&gt;%1&lt;%2&gt;Enable Visibility&lt;%3&gt; - when disabled, layer entities will not be displayed in the view at all.</Original>
               <Chinese>在圖層上按下&lt;%2&gt;滑鼠右鍵&lt;%3&gt;並選擇&lt;%2&gt;屬性&lt;%3&gt;即可開啟該圖層的屬性視窗。&lt;br/&gt;你可以在這邊為圖層重新命名，並設定以下功能:&lt;br/&gt;%1&lt;%2&gt;開啟編輯&lt;%3&gt;-本功能關閉時，你在畫面中將無法編輯或移動屬於該圖層的任何物件。&lt;br/&gt;%1&lt;%2&gt;開啟可見性&lt;%3&gt;-本功能關閉時，你在畫面中將無法看到屬於該圖層的任何物件。</Chinese>
-              <Chinesesimp>在图层上按下&lt;%2&gt;鼠标右键&lt;%3&gt;并选择&lt;%2&gt;属性&lt;%3&gt;即可开启该图层的属性窗口。&lt;br/&gt;你可以在这边为图层重新命名，并设置以下功能:&lt;br/&gt;%1&lt;%2&gt;开启编辑&lt;%3&gt;-本功能关闭时，你在画面中将无法编辑或移动属于该图层的任何物件。&lt;br/&gt;%1&lt;%2&gt;开启可见性&lt;%3&gt;-本功能关闭时，你在画面中将无法看到属于该图层的任何物件。</Chinesesimp>
+              <Chinesesimp>在图层上按下&lt;%2&gt;鼠标右键&lt;%3&gt;并选择&lt;%2&gt;属性&lt;%3&gt;即可开启该图层的属性窗口。&lt;br/&gt;你可以在这边为图层重新命名，并设置以下功能：&lt;br/&gt;%1&lt;%2&gt;开启编辑&lt;%3&gt;-本功能关闭时，你在画面中将无法编辑或移动属于该图层的任何物件。&lt;br/&gt;%1&lt;%2&gt;开启可见性&lt;%3&gt;-本功能关闭时，你在画面中将无法看到属于该图层的任何物件。</Chinesesimp>
             </Key>
           </Container>
           <Container name="Placing">
@@ -1988,7 +1988,7 @@
             <Key ID="str_3den_tutorials_editing_sections_placing_emptyvehicles_text">
               <Original>By default, vehicles are placed with crew inside. Toggle between placing manned and unmanned vehicles using a switch below the asset browser.&lt;br /&gt;You can also &lt;%2&gt;hold Alt&lt;%3&gt; while placing to inverse the functionality.</Original>
               <Chinese>在預設的設定中，載具放置時是會有組員的。要切換有人或無人的載具狀態，可以透過素材瀏覽器底下的選項來做切換。&lt;br/&gt;除此之外你也可以在放置單位時&lt;%2&gt;按住Alt&lt;%3&gt;來放置無人載具。</Chinese>
-              <Chinesesimp>在默认设置中，载具放置时是会有组员的。要切换有人或无人的载具状态，可以通过素材浏览器底下的选项来做切换。&lt;br/&gt;除此之外你也可以在放置单位时&lt;%2&gt;按住 Alt&lt;%3&gt;来放置无人载具。</Chinesesimp>
+              <Chinesesimp>在默认设置中，载具放置时是会有组员的。要切换有人或无人的载具状态，可以通过素材浏览器底下的选项来做切换。&lt;br/&gt;除此之外你也可以在放置单位时&lt;%2&gt;按住 Alt&lt;%3&gt;来放置无人机。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_placing_drag_text">
               <Original>Alternatively, you can place an entity by &lt;%2&gt;dragging&lt;%3&gt; it from the asset browser to the desired position in the view.</Original>
@@ -2062,7 +2062,7 @@
             <Key ID="str_3den_tutorials_editing_sections_crew_roles_text">
               <Original>The available vehicle roles are:&lt;br /&gt;%10&lt;%2&gt; Driver / Pilot&lt;%3&gt; - controls vehicle movement&lt;br /&gt;%11&lt;%2&gt; Commander&lt;%3&gt; - can issue orders to other crew members.&lt;br /&gt;%12&lt;%2&gt; Turret&lt;%3&gt; - any other active crew member, such as the gunner, co-pilot, or passenger with the ability to shoot from the vehicle&lt;br /&gt;%13&lt;%2&gt; Passenger&lt;%3&gt; - passive role, just takes a ride</Original>
               <Chinese>載具中的位置如下:&lt;br/&gt;%10&lt;%2&gt;駕駛/飛行員&lt;%3&gt;-控制載具的移動&lt;br/&gt;%11&lt;%2&gt;車長&lt;%3&gt;-可下達命令給其他組員。&lt;br/&gt;%12&lt;%2&gt;砲座&lt;%3&gt;-像是射手，副駕駛，可從座位上射擊的乘客都算在這位置中&lt;br/&gt;%13&lt;%2&gt;乘客&lt;%3&gt;-被動的單位，單純乘坐而已</Chinese>
-              <Chinesesimp>载具中的位置如下:&lt;br/&gt;%10&lt;%2&gt;驾驶/飞行员&lt;%3&gt;-控制载具的移动&lt;br/&gt;%11&lt;%2&gt;车长&lt;%3&gt;-可下达命令给其他组员。&lt;br/&gt;%12&lt;%2&gt;炮座&lt;%3&gt;-像是射手，副驾驶，可从座位上射击的乘客都算在这位置中&lt;br/&gt;%13&lt;%2&gt;乘客&lt;%3&gt;-被动的单位，单纯乘坐而已</Chinesesimp>
+              <Chinesesimp>载具中的位置如下：&lt;br/&gt;%10&lt;%2&gt;驾驶/飞行员&lt;%3&gt;-控制载具的移动&lt;br/&gt;%11&lt;%2&gt;车长&lt;%3&gt;-可下达命令给其他组员。&lt;br/&gt;%12&lt;%2&gt;炮座&lt;%3&gt;-像是射手，副驾驶，可从座位上射击的乘客都算在这位置中&lt;br/&gt;%13&lt;%2&gt;乘客&lt;%3&gt;-被动的单位，单纯乘坐而已</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_crew_panel_text">
               <Original>When you hover over a vehicle, a panel with all the crew icons will be shown next to the vehicle's icon.&lt;br /&gt;The additional icon is shown on the crew members which are rendered in the scene (i.e., the car driver, but not a tank driver who is hidden inside).</Original>
@@ -2124,7 +2124,7 @@
             <Key ID="str_3den_tutorials_editing_sections_widget_intro_text">
               <Original>&lt;%2&gt;Transformation widget&lt;%3&gt; is a tool for precise entity manipulation. It consists of a set of color-coded parts, each offering a transformation in a different axis:&lt;br /&gt;&lt;t color='%11' font='%10'&gt;X&lt;/t&gt; - West to East, or local left to right&lt;br /&gt;&lt;t color='%12' font='%10'&gt;Y&lt;/t&gt; - South to North, or local back to front&lt;br /&gt;&lt;t color='%13' font='%10'&gt;Z&lt;/t&gt; - up&lt;br /&gt;Each of the axes can be manipulated by dragging it. The entity icon in the middle can still be used for moving the entity around.</Original>
               <Chinese>&lt;%2&gt;變形工具&lt;%3&gt;可用來更精準的移動物件。它使用了不同顏色的代號，用來表示物件不同的變形軸:&lt;br/&gt;&lt;tcolor='%11'font='%10'&gt;X&lt;/t&gt;-由西向東，或者由左至右&lt;br/&gt;&lt;tcolor='%12'font='%10'&gt;Y&lt;/t&gt;-由南向北，或者由後至前&lt;br/&gt;&lt;tcolor='%13'font='%10'&gt;Z&lt;/t&gt;-高度&lt;br/&gt;每個軸心都可透過拖曳來進行編輯。而在物件中心的圖示仍可被當作移動整體物件的功能。</Chinese>
-              <Chinesesimp>&lt;%2&gt;转换工具&lt;%3&gt;可用来更精准的移动物件。它使用了不同颜色的代号，用来表示物件不同的转换轴:&lt;br/&gt;&lt;tcolor='%11'font='%10'&gt;X&lt;/t&gt;-由西向东，或者由左至右&lt;br/&gt;&lt;tcolor='%12'font='%10'&gt;Y&lt;/t&gt;-由南向北，或者由后至前&lt;br/&gt;&lt;tcolor='%13'font='%10'&gt;Z&lt;/t&gt;-高度&lt;br/&gt;每个轴心都可通过拖拽来进行编辑。而在物件中心的图示仍可被当作移动整体物件的功能。</Chinesesimp>
+              <Chinesesimp>&lt;%2&gt;转换工具&lt;%3&gt;可用来更精准的移动物件。它使用了不同颜色的代号，用来表示物件不同的转换轴：&lt;br/&gt;&lt;tcolor='%11'font='%10'&gt;X&lt;/t&gt;-由西向东，或者由左至右&lt;br/&gt;&lt;tcolor='%12'font='%10'&gt;Y&lt;/t&gt;-由南向北，或者由后至前&lt;br/&gt;&lt;tcolor='%13'font='%10'&gt;Z&lt;/t&gt;-高度&lt;br/&gt;每个轴心都可通过拖拽来进行编辑。而在物件中心的图示仍可被当作移动整体物件的功能。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_widget_coordinatesystem_text">
               <Original>You can chose the reference &lt;%2&gt;coordinate system&lt;%3&gt; the widget will use. The entity can be transformed either by world axes (X points to the East), or along its own local axes (X points to the right of the entity).</Original>
@@ -2148,7 +2148,7 @@
             <Key ID="str_3den_tutorials_entities_sections_object_types_text">
               <Original>Objects can be divided into three main types:&lt;br /&gt;%1 &lt;%2&gt;Character&lt;%3&gt;&lt;br /&gt;%1 &lt;%2&gt;Vehicle&lt;%3&gt;&lt;br /&gt;%1 &lt;%2&gt;Prop&lt;%3&gt;</Original>
               <Chinese>物件可被歸類成三種主要類別:&lt;br/&gt;%1&lt;%2&gt;角色&lt;%3&gt;&lt;br/&gt;%1&lt;%2&gt;載具&lt;%3&gt;&lt;br/&gt;%1&lt;%2&gt;道具&lt;%3&gt;</Chinese>
-              <Chinesesimp>物件可被归类成三种主要类别:&lt;br/&gt;%1&lt;%2&gt;角色&lt;%3&gt;&lt;br/&gt;%1&lt;%2&gt;载具&lt;%3&gt;&lt;br/&gt;%1&lt;%2&gt;道具&lt;%3&gt;</Chinesesimp>
+              <Chinesesimp>物件可被归类成三种主要类别：&lt;br/&gt;%1&lt;%2&gt;角色&lt;%3&gt;&lt;br/&gt;%1&lt;%2&gt;载具&lt;%3&gt;&lt;br/&gt;%1&lt;%2&gt;道具&lt;%3&gt;</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_object_prop_text">
               <Original>&lt;%2&gt;Prop&lt;%3&gt; is any other object without special functionality, for example, houses, fences or signs. Empty vehicles are not props. Animals are, mainly because they cannot be considered characters.</Original>
@@ -2345,7 +2345,7 @@
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_place_text">
               <Original>Once created, you can find your compositions in &lt;%2&gt;Compositions &gt; Custom&lt;%3&gt;. Place it as any other entity - either select it and then click in the scene on a desired position, or drag it from the list to the scene.</Original>
               <Chinese>當組件新增完成，你可以在&lt;%2&gt;組件&gt;自定義&lt;%3&gt;中找到他們。放置他們就跟放置其他物件一樣簡單-只需選取他們並點在畫面上的位置即可擺放，也可透過拖曳的方式擺放。</Chinese>
-              <Chinesesimp>当组件新增完成，你可以在&lt;%2&gt;组件&gt;自定义&lt;%3&gt;中找到他们。放置他们就跟放置其他物件一样简单-只需选取他们并点在画面上的位置即可摆放，也可通过拖拽的方式摆放。</Chinesesimp>
+              <Chinesesimp>当组件新增完成，你可以在&lt;%2&gt;组件&gt;自定义&lt;%3&gt;中找到他们。放置他们就跟放置其他物件一样简单 — 只需选取他们并点在画面上的位置即可摆放，也可通过拖拽的方式摆放。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_placeatl_text">
               <Original>Vertical mode defines how the composition will be placed.&lt;br /&gt;%1&lt;%2&gt;Terrain Level&lt;%3&gt; - composition will be snapped to the surface underneath. Please note that objects which are placed on another object may no longer be positioned precisely.&lt;br /&gt;%1&lt;%2&gt;Sea Level&lt;%3&gt; - the composition will be placed exactly as it was saved, ignoring the surface slope.</Original>
@@ -2411,7 +2411,7 @@
             <Key ID="str_3den_tutorials_scenario_sections_phases_sequence_text">
               <Original>The sequence of phases is:&lt;br /&gt;1. Intro&lt;br /&gt;2. Scenario&lt;br /&gt;3. Outro Win or Outro Lose</Original>
               <Chinese>任務階段分為以下幾種:&lt;br/&gt;1.開場&lt;br/&gt;2.任務&lt;br/&gt;3.結局-勝利或結局-失敗</Chinese>
-              <Chinesesimp>任务阶段分为以下几种:&lt;br/&gt;1.开场&lt;br/&gt;2.任务&lt;br/&gt;3.结局-胜利或结局-失败</Chinesesimp>
+              <Chinesesimp>任务阶段分为以下几种：&lt;br/&gt;1.开场&lt;br/&gt;2.任务&lt;br/&gt;3.结局 — 胜利或结局 — 失败</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_phases_phasescenario_text">
               <Original>&lt;%2&gt;Scenario&lt;%3&gt; is the core part. It is the only phase available in multiplayer, and the only one where player has control over his character.</Original>
@@ -2421,7 +2421,7 @@
             <Key ID="str_3den_tutorials_scenario_sections_phases_phaseoutro_text">
               <Original>&lt;%2&gt;Outro - Win&lt;%3&gt; and &lt;%2&gt;Outro - Lose&lt;%3&gt; phases are similar to the Intro, but are played after the scenario ends. 'The Win' part is selected when the scenario ends successfully, otherwise the 'Lose' part is chosen.</Original>
               <Chinese>&lt;%2&gt;結局-勝利&lt;%3&gt;和&lt;%2&gt;結局-失敗&lt;%3&gt;階段類似於開場，差別在於此階段僅在任務結束後執行。當任務勝利時會讀取'結局-勝利'，相反的當任務失敗時會讀取'結局-失敗'。</Chinese>
-              <Chinesesimp>&lt;%2&gt;结局-胜利&lt;%3&gt;和&lt;%2&gt;结局-失败&lt;%3&gt;阶段类似于开场，差别在于此阶段仅在任务结束后执行。当任务胜利时会读取'结局-胜利'，相反的当任务失败时会读取'结局-失败'。</Chinesesimp>
+              <Chinesesimp>&lt;%2&gt;结局 — 胜利&lt;%3&gt;和&lt;%2&gt;结局 — 失败&lt;%3&gt;阶段类似于开场，差别在于此阶段仅在任务结束后执行。当任务胜利时会读取'结局 — 胜利'，相反的当任务失败时会读取'结局 — 失败'。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_phases_phaseintro_text">
               <Original>In singleplayer, &lt;%2&gt;Intro&lt;%3&gt; is automatically played before the scenario starts (even before briefing). It is primarily used for cutscenes, and it can be skipped using the button in the pause menu.</Original>
@@ -2610,12 +2610,12 @@
           <Key ID="str_3den_trigger_attribute_ondeactivation_tooltip">
             <Original>Expression executed once the trigger is deactivated.\nPassed variables are:\n* thisTrigger - trigger object</Original>
             <Chinese>當觸發器條件從true變回false後，[被解除觸發時]的腳本命令才會開始執行。\n可傳遞的變數:\n*thisTrigger-觸發器物件</Chinese>
-            <Chinesesimp>当触发器条件从 true 变回 false 后，[被解除触发时]的脚本命令才会开始执行。\n可传递的变量:\n*thisTrigger-触发器物件</Chinesesimp>
+            <Chinesesimp>当触发器条件从 true 变回 false 后，[被解除触发时]的脚本命令才会开始执行。\n可传递的变量：\n*thisTrigger-触发器物件</Chinesesimp>
           </Key>
           <Key ID="str_3den_trigger_attribute_onactivation_tooltip">
             <Original>Expression executed once the trigger is activated.\nPassed variables are:\n* thisList - list of all objects in trigger area, based on 'Activation'\n* thisTrigger - trigger object</Original>
             <Chinese>當觸發器條件變成true後，[被觸發時]的腳本命令才會開始執行。\n可傳遞的變數:\n*thisList-被'啟用者'的陣營值所影響，表示觸發器範圍中同'啟用者'陣營的所有物件\n*thisTrigger-觸發器物件</Chinese>
-            <Chinesesimp>当触发器条件变成 true 后，[被触发时]的脚本命令才会开始执行。\n可传递的变量:\n*thisList-被'启用者'的阵营值所影响，表示触发器范围中同'启用者'阵营的所有物件\n*thisTrigger-触发器物件</Chinesesimp>
+            <Chinesesimp>当触发器条件变成 true 后，[被触发时]的脚本命令才会开始执行。\n可传递的变量：\n*thisList-被'启用者'的阵营值所影响，表示触发器范围中同'启用者'阵营的所有物件\n*thisTrigger-触发器物件</Chinesesimp>
           </Key>
           <Key ID="str_3den_trigger_attribute_soundenvironment_displayname">
             <Original>Environment</Original>
@@ -2680,7 +2680,7 @@
           <Key ID="str_3den_trigger_attribute_condition_tooltip">
             <Original>Repeatedly calculated condition, must return boolean expression. When true, the trigger will be activated.\nPassed variables are:\n* this - boolean value of activation condition\n* thisList - list of all objects in trigger area, based on 'Activation'\n* thisTrigger - trigger object</Original>
             <Chinese>重複計算條件，必須回傳布林值。當回傳得到true時，觸發器就會被觸發。\n可傳遞的變數:\n*this-選擇啟用類型成為條件\n*thisList-被'啟用者'的陣營值所影響，表示觸發器範圍中同'啟用者'陣營的所有物件\n*thisTrigger-觸發器物件</Chinese>
-            <Chinesesimp>重复计算条件，必须回传布林值。当回传得到 true 时，触发器就会被触发。\n可传递的变量:\n*this-选择启用类型成为条件\n*thisList-被'启用者'的阵营值所影响，表示触发器范围中同'启用者'阵营的所有物件\n*thisTrigger-触发器物件</Chinesesimp>
+            <Chinesesimp>重复计算条件，必须回传布林值。当回传得到 true 时，触发器就会被触发。\n可传递的变量：\n*this-选择启用类型成为条件\n*thisList-被'启用者'的阵营值所影响，表示触发器范围中同'启用者'阵营的所有物件\n*thisTrigger-触发器物件</Chinesesimp>
           </Key>
           <Key ID="str_3den_trigger_attribute_custom_displayname">
             <Original>Trigger Specific - %s</Original>
@@ -2976,7 +2976,7 @@
           <Key ID="str_3den_object_attribute_dynsim_tooltip">
             <Original>Entity simulation is enabled only if the player or an enemy unit is nearby.\n\nNote: Doesn't work on simple objects and it overwrites basic simulation settings.</Original>
             <Chinese>啟用本功能後，此物件只會在有玩家或該單位的敵方在附近時才會開始運算。\n\n注意:此功能並不會對簡單物件產生效用，此功能也會直接覆蓋掉開啟運算功能的設定值。</Chinese>
-            <Chinesesimp>启用本功能后，此物件只会在有玩家或该单位的敌方在附近时才会开始模拟。\n\n注意:此功能并不会对简单物件产生效用，此功能也会直接覆盖掉启用模拟的设置值。</Chinesesimp>
+            <Chinesesimp>启用本功能后，此物件只会在有玩家或该单位的敌方在附近时才会开始模拟。\n\n注意：此功能并不会对简单物件产生效用，此功能也会直接覆盖掉启用模拟的设置值。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_hideobject_tooltip">
             <Original>Show model and collisions. Even when disabled, the object will be simulated normally (e.g., soldiers will still be able to move and shoot).</Original>
@@ -3016,7 +3016,7 @@
           <Key ID="str_3den_object_attribute_enablesimulation_tooltip">
             <Original>When disabled, the object will freeze and ignore any input or collisions.\n\nNote: This option doesn't have any effect on dynamically simulated objects.</Original>
             <Chinese>當關閉時，該物件便會靜止不動，忽略所有的按鍵輸入與碰撞。\n\n注意:此選項並不會對動態運算之物件產生影響。</Chinese>
-            <Chinesesimp>当关闭时，该物件便会静止不动，忽略所有的按键输入与碰撞。\n\n注意:此选项并不会对动态模拟的物件产生影响。</Chinesesimp>
+            <Chinesesimp>当关闭时，该物件便会静止不动，忽略所有的按键输入与碰撞。\n\n注意：此选项并不会对动态模拟的物件产生影响。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_fuel_displayname">
             <Original>Fuel</Original>
@@ -3066,7 +3066,7 @@
           <Key ID="str_3den_object_attribute_namesound_tooltip">
             <Original>Call sign used in radio protocol (e.g., leader will order 'Kerry, fall back' instead of generic '2, fall back'). It doesn't affect character's actual name; consider changing it as well so they match together.</Original>
             <Chinese>呼號被用在無線電通訊中(範例:在設定後隊長會這樣叫你，'克里，快回來'來取代本來的'2，快回來')。這個選項並不會影響到角色的名稱;請仔細考慮好來讓名稱與呼號不相衝突。</Chinese>
-            <Chinesesimp>呼号被用在无线电通信中（范例:在设置后队长会这样叫你，'克里，快回来'来取代本来的'2，快回来'）。这个选项并不会影响到角色的名称;请仔细考虑以便让名称与呼号不相冲突。</Chinesesimp>
+            <Chinesesimp>呼号被用在无线电通信中（范例：在设置后队长会这样叫你，'克里，快回来'来取代本来的'2，快回来'）。这个选项并不会影响到角色的名称;请仔细考虑以便让名称与呼号不相冲突。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objectmaterialcustom0_displayname">
             <Original>Material #0</Original>
@@ -3106,7 +3106,7 @@
           <Key ID="str_3den_object_attribute_simpleobject_tooltip">
             <Original>When enabled, the object will behave like a map object (e.g. rocks or trees), which significantly saves performance. This option is available only for objects where it leads to improved performance.\n\nWarning: If set, the setting is enforced at the start of the scenario and is irreversible during its runtime!</Original>
             <Chinese>當本功能開啟時，此物件的表現就會像是一般的地形物件(例如房子或是樹)，這可顯著的節省遊戲效能。這功能只會在該載具內並無任何機組員時才可啟用。\n\n警告:此功能將會在遊戲開始後啟用，爾後不能再做任何更改！</Chinese>
-            <Chinesesimp>当本功能开启时，此物件的表现就会像是一般的地形物件（例如房子或是树），这可显着的节省游戏性能。这功能只会在该载具内并无任何机组员时才可启用。\n\n警告:此功能将会在游戏开始后启用，之后不能再做任何更改！</Chinesesimp>
+            <Chinesesimp>当本功能开启时，此物件的表现就会像是一般的地形物件（例如房子或是树），这可显着的节省游戏性能。这功能只会在该载具内并无任何机组员时才可启用。\n\n警告：此功能将会在游戏开始后启用，之后不能再做任何更改！</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objectmaterialcustom6_displayname">
             <Original>Material #6</Original>
@@ -5290,7 +5290,7 @@
             <Key ID="str_3den_preferences_attribute_custommissionfolders_tooltip">
               <Original>Paths to folders to be scanned for scenarios in 'Open Scenario' window.\nPaths start in the game root, and are divided by a semicolon.\nExample: A3\Missions_F_EXPA\Campaign\Scenarios</Original>
               <Chinese>設定'開啟任務'的資料夾路徑。\n初始路徑是在遊戲根目錄底下，使用分號來做區別。\n例子:A3\Missions_F_EXPA\Campaign\Scenarios</Chinese>
-              <Chinesesimp>设置'开启任务'的文件夹路径。\n初始路径是在游戏根目录底下，使用分号来做区别。\n例子:A3\Missions_F_EXPA\Campaign\Scenarios</Chinesesimp>
+              <Chinesesimp>设置'开启任务'的文件夹路径。\n初始路径是在游戏根目录底下，使用分号来做区别。\n例子：A3\Missions_F_EXPA\Campaign\Scenarios</Chinesesimp>
             </Key>
             <Key ID="str_3den_preferences_attribute_custommissionfolders_displayname">
               <Original>Mission Folders</Original>
@@ -5456,12 +5456,12 @@
             <Key ID="str_3den_scenario_attribute_showuavfeed_tooltip">
               <Original>When disabled, the UAV feed will not be available in the scene after pressing the 'AV Camera' key.</Original>
               <Chinese>當本功能關閉時，無人載具攝影機畫面將不會在按下按鈕後顯示。</Chinese>
-              <Chinesesimp>当本功能关闭时，无人载具摄影机画面将不会在按下按钮后显示。</Chinesesimp>
+              <Chinesesimp>当本功能关闭时，无人机摄影机画面将不会在按下按钮后显示。</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_showuavfeed_displayname">
               <Original>Show UAV Feed</Original>
               <Chinese>顯示無人載具攝影機</Chinese>
-              <Chinesesimp>显示 UAV 画面传输</Chinesesimp>
+              <Chinesesimp>显示无人机画面传输</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_showmap_tooltip">
               <Original>When disabled, a black screen is shown instead of the map. Tasks, notes and other information will remain accessible. Can also be achieved by removing the map from the player's inventory.</Original>
@@ -5823,7 +5823,7 @@
           <Key ID="str_3den_group_attribute_deleteempty_tooltip">
             <Original>Automatically delete the group when it's empty.\n\nNote: Deletion is not immediate.</Original>
             <Chinese>當此群組之中已經沒有任何物件，此群組會自動被刪除。\n\n注意:刪除並不會立即執行。</Chinese>
-            <Chinesesimp>当此群组之中已经没有任何物件，此群组会自动被删除。\n\n注意:删除并不会立即执行。</Chinesesimp>
+            <Chinesesimp>当此群组之中已经没有任何物件，此群组会自动被删除。\n\n注意：删除并不会立即执行。</Chinesesimp>
           </Key>
           <Key ID="str_3den_group_attribute_dynsim_displayname">
             <Original>Enable Dynamic Simulation</Original>

@@ -45,12 +45,12 @@
       <Key ID="str_a3_firingdrills_targets2">
         <Original>%2Targets can appear immediately or after a little while.%1%2Targets can disappear after a short time.%1%2Targets can move along rails.%1%2Targets can activate after hitting another target.%1%2Sometimes only specifically colored targets should be hit.%1%2Targets may require multiple hits.%1%2Accuracy zones on targets can reduce your time when struck.%1%2Optional bonus targets lower your time.%1%2No-shoot targets must not be engaged!%1%1Targets can sometimes be randomly positioned or randomly appearing.</Original>
         <Chinese>%2目標可以立刻出現或者等一會兒再出現。%1%2短時間內目標會消失。%1%2目標可以沿著軌道前進。%1%2擊中一個目標後另一個目標就會開啟。%1%2有時候只能射擊指定顏色的目標。%1%2目標可能需要多次射擊才會被擊倒。%1%2擊中目標上的靶心可以減少最終時間。%1%2可選的額外獎勵目標可以減少你的最終時間。%1%2禁止射擊的目標一定不能被擊中!%1%1目標可能隨機在不同的地方出現，或者隨機在不同的時間出現。</Chinese>
-        <Chinesesimp>%2目标可以立刻出现或者等一会儿再出现。%1%2短时间内目标会消失。%1%2目标可以沿着轨道前进。%1%2击中一个目标后另一个目标就会开启。%1%2有时候只能射击指定颜色的目标。%1%2目标可能需要多次射击才会被击倒。%1%2击中目标上的靶心可以减少最终时间。%1%2可选的额外奖励目标可以减少你的最终时间。%1%2禁止射击的目标一定不能被击中!%1%1目标可能随机在不同的地方出现，或者随机在不同的时间出现。</Chinesesimp>
+        <Chinesesimp>%2目标可以立刻出现或者等一会儿再出现。%1%2短时间内目标会消失。%1%2目标可以沿着轨道前进。%1%2击中一个目标后另一个目标就会开启。%1%2有时候只能射击指定颜色的目标。%1%2目标可能需要多次射击才会被击倒。%1%2击中目标上的靶心可以减少最终时间。%1%2可选的额外奖励目标可以减少你的最终时间。%1%2禁止射击的目标一定不能被击中！%1%1目标可能随机在不同的地方出现，或者随机在不同的时间出现。</Chinesesimp>
       </Key>
       <Key ID="str_a3_firingdrills_targets1">
         <Original>There are various types of targets that appear at Check Points:</Original>
         <Chinese>在檢查點時會出現各種類型的目標:</Chinese>
-        <Chinesesimp>在检查点时会出现各种类型的目标:</Chinesesimp>
+        <Chinesesimp>在检查点时会出现各种类型的目标：</Chinesesimp>
       </Key>
       <Key ID="str_a3_firingdrills_targets0">
         <Original>Targets</Original>
@@ -110,7 +110,7 @@
       <Key ID="str_a3_cfghints_command_vehicles0">
         <Original>Order your men to get in a certain vehicle:%1%2Select your units with %3[F2-F10]%4.%1%2Press %3[4]%4 to bring up the list of nearby vehicles.%1%2Select a vehicle from the list.%1According to the vehicle type, you have the option to choose between specific positions like driver, gunner or commander.</Original>
         <Chinese>命令你的人進入某個載具:%1%2使用%3[F2-F10]%4選擇你的隊員。%1%2按下%3[4]%4來顯示附近的載具列表。%1%2從列表中選擇一個載具。%1根據載具的類型，你可以選擇不同的座位，例如駕駛，砲手，或者指揮官。</Chinese>
-        <Chinesesimp>命令你的人进入某个载具:%1%2使用%3[F2-F10]%4选择你的队员。%1%2按下%3[4]%4来显示附近的载具列表。%1%2从列表中选择一个载具。%1根据载具的类型，你可以选择不同的座位，例如驾驶，炮手，或者指挥官。</Chinesesimp>
+        <Chinesesimp>命令你的人进入某个载具：%1%2使用%3[F2-F10]%4选择你的队员。%1%2按下%3[4]%4来显示附近的载具列表。%1%2从列表中选择一个载具。%1根据载具的类型，你可以选择不同的座位，例如驾驶，炮手，或者指挥官。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_command_stances1">
         <Original>Stances</Original>
@@ -155,12 +155,12 @@
       <Key ID="str_a3_firingdrills_rules1">
         <Original>Firing Drills can be completed using one of two rule-sets: training and competitive.</Original>
         <Chinese>射擊訓練有兩種規則:訓練模式和競爭模式。</Chinese>
-        <Chinesesimp>射击训练有两种规则:训练模式和竞争模式。</Chinesesimp>
+        <Chinesesimp>射击训练有两种规则：训练模式和竞争模式。</Chinesesimp>
       </Key>
       <Key ID="str_a3_firingdrills_rules2">
         <Original>%2Training: less strict and about familiarizing with the course. Medal times cannot be challenged while training.%1%1%2Competitive: stricter rules and competitors are penalized when breaking rules. Medal times can be beaten here!</Original>
         <Chinese>%2訓練:不嚴格要求熟悉課程。訓練的時候不能挑戰獎牌時間。%1%1%2競爭:破壞紀律時會受到更嚴格的懲罰。可以在這裡打破獎牌時間!</Chinese>
-        <Chinesesimp>%2训练:不严格要求熟悉课程。训练的时候不能挑战奖牌时间。%1%1%2竞争:破坏纪律时会受到更严格的惩罚。可以在这里打破奖牌时间!</Chinesesimp>
+        <Chinesesimp>%2训练：不严格要求熟悉课程。训练的时候不能挑战奖牌时间。%1%1%2竞争：破坏纪律时会受到更严格的惩罚。可以在这里打破奖牌时间！</Chinesesimp>
       </Key>
       <Key ID="str_a3_firingdrills_tips0">
         <Original>Tips</Original>
@@ -170,12 +170,12 @@
       <Key ID="str_a3_firingdrills_tips1">
         <Original>%2 Firing Drills are not meant to be aced in one attempt. Study the courses, find shortcuts and get creative.%1%1%2Observe on-screen Check Point briefings, voice instructions and other indicators to know which stance and weapon to use.%1%1%2Plan your reloads and weapon switches well! Doing this in a smart way can save you many seconds.</Original>
         <Chinese>%2射擊訓練不是要一次成功。而是透過學習課程，找到捷徑並變得更聰明。%1%1%2觀察螢幕上的檢查點簡介指令和其它告示牌來了解使用哪種姿勢和武器。%1%1%2好好計劃如何換子彈和切換武器!聰明的做法會節省你很多時間。</Chinese>
-        <Chinesesimp>%2射击训练不是要一次成功。而是通过学习课程，找到捷径并变得更熟练。%1%1%2观察屏幕上的检查点简介指令和其它告示牌来了解使用哪种姿势和武器。%1%1%2好好计划如何换子弹和切换武器!聪明的做法会节省你很多时间。</Chinesesimp>
+        <Chinesesimp>%2射击训练不是要一次成功。而是通过学习课程，找到捷径并变得更熟练。%1%1%2观察屏幕上的检查点简介指令和其它告示牌来了解使用哪种姿势和武器。%1%1%2好好计划如何换子弹和切换武器！聪明的做法会节省你很多时间。</Chinesesimp>
       </Key>
       <Key ID="str_a3_firingdrills_tips2">
         <Original>%2Don't always trust the most direct route. Sometimes a detour can be quicker if there are no obstacles in your path.%1%1%2Consider what will cost you more time: missing a target and re-engaging it, or moving on and taking the penalty.%1%1%2Think about your aiming path from target to target, as well as clever use of fire modes. Remember that some targets offer bonuses for accuracy.%1%1%2Scan for bonus targets, but balance your search time against the gained bonuses. Check your map for clues.%1%1%2Not all targets appear upon arriving at a Check Point. Remain vigilant until the all clear is given.%1%1%2Consider your fatigue and how often you sprint. It all affects your continued performance and aiming.</Original>
         <Chinese>不要總是相信直線的路線。有時走沒有障礙的小路反而會比較快。%1%1%2考慮什麼事讓你花費了更多的時間:錯過目標並重新追?目標，或是繼續移動不管目標而獲得的懲罰。%1%1%2考慮你在目標與目標間的火線，同樣也要明智的使用射擊模式。記住，準確射擊某一些目標可以讓你獲得加成獎勵。%1%1%2搜尋加成目標，但要平衡你搜索與獲得加成的時間，不要因小失大。查看地圖來獲得線索。%1%1%2到達檢查點時並不會馬上顯示所有目標。在擊倒全部目標前請隨時保持警覺。%1%1%2考慮到疲憊與衝刺頻率。這些都影響到你的行動力與瞄準精度。</Chinese>
-        <Chinesesimp>不要总是相信直线的路线。有时走没有障碍的小路反而会比较快。%1%1%2考虑什么事让你花费了更多的时间:错过目标并重新追踪目标，或是继续移动不管目标而获得的惩罚。%1%1%2考虑你在目标与目标间的火线，同样也要明智的使用射击模式。记住，准确射击某一些目标可以让你获得加成奖励。%1%1%2搜寻加成目标，但要平衡你搜索与获得加成的时间，不要因小失大。查看地图来获得线索。%1%1%2到达检查点时并不会马上显示所有目标。在击倒全部目标前请随时保持警觉。%1%1%2考虑到疲惫与冲刺频率。这些都影响到你的行动力与瞄准精度。</Chinesesimp>
+        <Chinesesimp>不要总是相信直线的路线。有时走没有障碍的小路反而会比较快。%1%1%2考虑什么事让你花费了更多的时间：错过目标并重新追踪目标，或是继续移动不管目标而获得的惩罚。%1%1%2考虑你在目标与目标间的火线，同样也要明智的使用射击模式。记住，准确射击某一些目标可以让你获得加成奖励。%1%1%2搜寻加成目标，但要平衡你搜索与获得加成的时间，不要因小失大。查看地图来获得线索。%1%1%2到达检查点时并不会马上显示所有目标。在击倒全部目标前请随时保持警觉。%1%1%2考虑到疲惫与冲刺频率。这些都影响到你的行动力与瞄准精度。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Roads_F">
@@ -264,7 +264,7 @@
       <Key ID="STR_A3_titles_sheep_communication">
         <Original>Sheep - idle communication.</Original>
         <Chinese>綿羊-閒置通信。</Chinese>
-        <Chinesesimp>绵羊-闲置通信。</Chinesesimp>
+        <Chinesesimp>绵羊 — 闲置通信。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Equipment">
@@ -538,32 +538,32 @@
           <Key ID="str_a3_weapons_f_beta_cfgmagazines_9rnd_45acp_mag1">
             <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: ACP-C2</Original>
             <Chinese>口徑:.45ACP&lt;br/&gt;發數:9&lt;br/&gt;使用於:ACP-C2</Chinese>
-            <Chinesesimp>口径:.45ACP&lt;br/&gt;发数:9&lt;br/&gt;使用于:ACP-C2</Chinesesimp>
+            <Chinesesimp>口径：.45ACP&lt;br/&gt;发数：9&lt;br/&gt;使用于：ACP-C2</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_titan_ap1">
             <Original>Type: Antipersonnel&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Titan MPRL Compact</Original>
             <Chinese>類型:穿甲彈&lt;br/&gt;發數:1&lt;br/&gt;使用於:"泰坦"多功能火箭發射器(緊湊型)</Chinese>
-            <Chinesesimp>类型:穿甲弹&lt;br/&gt;发数:1&lt;br/&gt;使用于:"泰坦"多功能火箭发射器（紧凑型）</Chinesesimp>
+            <Chinesesimp>类型：穿甲弹&lt;br/&gt;发数：1&lt;br/&gt;使用于："泰坦"多功能火箭发射器（紧凑型）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_titan_at1">
             <Original>Type: Anti-Tank&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Titan MPRL Compact</Original>
             <Chinese>類型:反坦克&lt;br/&gt;發數:1&lt;br/&gt;使用於:"泰坦"多功能火箭發射器(緊湊型)</Chinese>
-            <Chinesesimp>类型:反坦克&lt;br/&gt;发数:1&lt;br/&gt;使用于:"泰坦"多功能火箭发射器（紧凑型）</Chinesesimp>
+            <Chinesesimp>类型：反坦克&lt;br/&gt;发数：1&lt;br/&gt;使用于："泰坦"多功能火箭发射器（紧凑型）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_titan_aa1">
             <Original>Type: Anti-Air&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Titan MPRL</Original>
             <Chinese>類型:防空&lt;br/&gt;發數:1&lt;br/&gt;使用於:"泰坦"多功能火箭發射器</Chinese>
-            <Chinesesimp>类型:防空&lt;br/&gt;发数:1&lt;br/&gt;使用于:"泰坦"多功能火箭发射器</Chinesesimp>
+            <Chinesesimp>类型：防空&lt;br/&gt;发数：1&lt;br/&gt;使用于："泰坦"多功能火箭发射器</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_150rnd_762x51_box_tracer1">
             <Original>Caliber: 7.62x54 mm Tracer - Green&lt;br/&gt;Rounds: 150&lt;br /&gt;Used in: Zafir</Original>
             <Chinese>口徑:7.62x54公厘曳光彈-綠色&lt;br/&gt;發數:150&lt;br/&gt;使用於:"扎菲爾"</Chinese>
-            <Chinesesimp>口径:7.62x54mm 曳光弹-绿色&lt;br/&gt;发数:150&lt;br/&gt;使用于:"扎菲尔"</Chinesesimp>
+            <Chinesesimp>口径：7.62x54mm 曳光弹 — 绿色&lt;br/&gt;发数：150&lt;br/&gt;使用于："扎菲尔"</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_150rnd_762x51_box1">
             <Original>Caliber: 7.62x54 mm&lt;br/&gt;Rounds: 150&lt;br /&gt;Used in: Zafir</Original>
             <Chinese>口徑:7.62x54公厘&lt;br/&gt;發數:150&lt;br/&gt;使用於:"扎菲爾"</Chinese>
-            <Chinesesimp>口径:7.62x54mm &lt;br/&gt;发数:150&lt;br/&gt;使用于:"扎菲尔"</Chinesesimp>
+            <Chinesesimp>口径：7.62x54mm &lt;br/&gt;发数：150&lt;br/&gt;使用于："扎菲尔"</Chinesesimp>
           </Key>
         </Container>
         <Container name="DisplayNameShort">
@@ -669,62 +669,62 @@
           <Key ID="str_cfgweapons_launch_mprl_short_f1">
             <Original>Rocket Launcher&lt;br /&gt;Ammo: 127 mm Titan Rocket</Original>
             <Chinese>火箭發射器&lt;br/&gt;彈藥:127公厘"泰坦"火箭彈</Chinese>
-            <Chinesesimp>火箭发射器&lt;br/&gt;弹药:127mm "泰坦"火箭弹</Chinesesimp>
+            <Chinesesimp>火箭发射器&lt;br/&gt;弹药：127mm "泰坦"火箭弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_lmg_zafir_f1">
             <Original>Light Machine Gun&lt;br /&gt;Caliber: 7.62x54 mm</Original>
             <Chinese>輕機槍&lt;br/&gt;口徑:7.62x54公厘</Chinese>
-            <Chinesesimp>轻机枪&lt;br/&gt;口径:7.62x54mm</Chinesesimp>
+            <Chinesesimp>轻机枪&lt;br/&gt;口径：7.62x54mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk201">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45公厘</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45mm</Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径：5.56x45mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_01_base_f0">
             <Original>Submachine Gun&lt;br /&gt;Caliber: .45 ACP</Original>
             <Chinese>衝鋒槍&lt;br/&gt;口徑:.45ACP</Chinese>
-            <Chinesesimp>冲锋枪&lt;br/&gt;口径:.45ACP</Chinesesimp>
+            <Chinesesimp>冲锋枪&lt;br/&gt;口径：.45ACP</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20c1">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45公厘</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45mm</Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径：5.56x45mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_021">
             <Original>Submachine Gun&lt;br /&gt;Caliber: 9x21 mm</Original>
             <Chinese>衝鋒槍&lt;br/&gt;口徑:9x21公厘</Chinese>
-            <Chinesesimp>冲锋枪&lt;br/&gt;口径:9x21mm</Chinesesimp>
+            <Chinesesimp>冲锋枪&lt;br/&gt;口径：9x21mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20_gl1">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45公厘</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45mm</Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径：5.56x45mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_011">
             <Original>Submachine Gun&lt;br /&gt;Caliber: .45 ACP</Original>
             <Chinese>衝鋒槍&lt;br/&gt;口徑:.45ACP</Chinese>
-            <Chinesesimp>冲锋枪&lt;br/&gt;口径:.45ACP</Chinesesimp>
+            <Chinesesimp>冲锋枪&lt;br/&gt;口径：.45ACP</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_hgun_acpc2_f_2">
             <Original>Handgun&lt;br /&gt;Caliber: .45 ACP</Original>
             <Chinese>手槍&lt;br/&gt;口徑:.45ACP</Chinese>
-            <Chinesesimp>手枪&lt;br/&gt;口径:.45ACP</Chinesesimp>
+            <Chinesesimp>手枪&lt;br/&gt;口径：.45ACP</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_02_base_f0">
             <Original>Submachine Gun&lt;br /&gt;Caliber: 9x21 mm</Original>
             <Chinese>衝鋒槍&lt;br/&gt;口徑:9x21公厘</Chinese>
-            <Chinesesimp>冲锋枪&lt;br/&gt;口径:9x21mm</Chinesesimp>
+            <Chinesesimp>冲锋枪&lt;br/&gt;口径：9x21mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_mk20_base_f0">
             <Original>Assault rifle  &lt;br/&gt;Caliber: 5.56x45 mm NATO</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45公厘北約彈</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45mm 北约弹</Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径：5.56x45mm 北约弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_mprl1">
             <Original>Rocket Launcher&lt;br /&gt;Ammo: 127 mm Titan Rocket</Original>
             <Chinese>火箭發射器&lt;br/&gt;彈藥:127公厘"泰坦"火箭彈</Chinese>
-            <Chinesesimp>火箭发射器&lt;br/&gt;弹药:127mm "泰坦"火箭弹</Chinesesimp>
+            <Chinesesimp>火箭发射器&lt;br/&gt;弹药：127mm "泰坦"火箭弹</Chinesesimp>
           </Key>
         </Container>
         <Container name="DisplayName">
@@ -843,7 +843,7 @@
           <Key ID="str_a3_cfgweapons_arifle_mk20_library0">
             <Original>The Mk20 is a gas-operated rotating bolt, selective-fire weapon, which was designed as a highly moddable weapon. Its design and front ejection system allows true ambidextrous use. Two other variants of Mk20 exist. The Mk20C comes with a shorter barrel suitable for close combat and the Mk20 ELGM comes with an enhanced grenade launching module.</Original>
             <Chinese>Mk20是一把帶氣動式旋轉槍機的點射武器，它被設計為一種高度模組化的武器。有兩個Mk20的衍生型:帶有短槍管的Mk20C適合近戰，和附帶了一個增強型榴彈發射器的Mk20 ELGM。</Chinese>
-            <Chinesesimp>Mk20是一种导气式旋转枪机闭锁的可调射击方式武器，为高度模块化设计。Mk20的有两种衍生型:短枪管的 Mk20C适合近战，Mk20 ELGM 附带了一具增强型榴弹发射器。</Chinesesimp>
+            <Chinesesimp>Mk20是一种导气式旋转枪机闭锁的可调射击方式武器，为高度模块化设计。Mk20的有两种衍生型：短枪管的 Mk20C适合近战，Mk20 ELGM 附带了一具增强型榴弹发射器。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgWeapons_launch_MPRL_short_Library0">
             <Original>The Titan Multi-Purpose Rocket Launcher is a shoulder system for launching guided rockets. This compact version trades increased portability for less powerful rockets and cannot launch anti-air missiles. It's adapted to be launched from closed quarters, has several modes of guidance and thanks to its advanced jet engine, it's capable of hitting even fast moving targets at short distances. </Original>
@@ -1713,7 +1713,7 @@
         <Key ID="str_a3_cfgweapons_optic_valdada1">
           <Original>MRCO&lt;br /&gt;Magnification: 2x</Original>
           <Chinese>多距離戰鬥瞄準鏡&lt;br/&gt;倍率:2x</Chinese>
-          <Chinesesimp>多距离战斗瞄准镜&lt;br/&gt;倍率:2x</Chinesesimp>
+          <Chinesesimp>多距离战斗瞄准镜&lt;br/&gt;倍率：2x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_acp0">
           <Original>Sound Suppressor (.45 ACP)</Original>
@@ -2148,7 +2148,7 @@
         <Key ID="str_a3_cfgvehicles_truck_01_base_library0">
           <Original>The Heavy Expanded Mobility Tactical Truck is an 8x8 diesel-powered off-road truck. It serves as a standard heavy transport vehicle for BLUFOR armies. There are several versions covering the basic transport functions: cargo, refuel, medical, repair, and ammo resupply. </Original>
           <Chinese>重型機動戰術卡車是一個八輪驅動的柴油越野卡車。它服役於藍方，並被當作標準重型運輸載具。除了基本的運輸功能，它還有幾個其它版本:貨運，燃油補給，維修支援和彈藥補給。</Chinese>
-          <Chinesesimp>重型增程机动战术卡车是一种八轮驱动的柴油越野卡车。它服役于蓝方，并被当作标准重型运输载具。除了基本的运输功能，它还有几个其它版本:货运，燃油补给，维修支援和弹药补给。</Chinesesimp>
+          <Chinesesimp>重型增程机动战术卡车是一种八轮驱动的柴油越野卡车。它服役于蓝方，并被当作标准重型运输载具。除了基本的运输功能，它还有几个其它版本：货运，燃油补给，维修支援和弹药补给。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_sdv_base_library0">
           <Original>The SDV is a manned submersible vehicle used to transport teams of divers over long distances under water. Its construction is based on the SEALs Delivery Vehicle from the early 21st century, but the engine and maneuverability have been increased rapidly. Divers drive the SDV while exposed to water and breathing from the vehicle's compressed air supply or using their own SCUBA gear. The SDV can take up to four passengers, but can be operated by just one person. It also contains a small compartment to store additional equipment.</Original>
@@ -2261,7 +2261,7 @@
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_acc2_straight_f0">
           <Original>Moving Target 1 (Front - Accuracy)</Original>
           <Chinese>目標移動靶1(前後-精準度)</Chinese>
-          <Chinesesimp>目标移动靶1（前后-精准度）</Chinesesimp>
+          <Chinesesimp>目标移动靶1（前后 — 精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_side_f0">
           <Original>Moving Target 1 (Side)</Original>
@@ -2281,17 +2281,17 @@
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_acc2_side_f0">
           <Original>Moving Target 1 (Side - Accuracy)</Original>
           <Chinese>目標移動靶1(左右-精準度)</Chinese>
-          <Chinesesimp>目标移动靶1（左右-精准度）</Chinesesimp>
+          <Chinesesimp>目标移动靶1（左右 — 精准度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_acc1_side_f0">
           <Original>Moving Target 1 (Side - Zones)</Original>
           <Chinese>目標移動靶1(左右-區塊)</Chinese>
-          <Chinesesimp>目标移动靶1（左右-区块）</Chinesesimp>
+          <Chinesesimp>目标移动靶1（左右 — 区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_acc1_straight_f0">
           <Original>Moving Target 1 (Front - Zones)</Original>
           <Chinese>目標移動靶1(前後-區塊)</Chinese>
-          <Chinesesimp>目标移动靶1（前后-区块）</Chinesesimp>
+          <Chinesesimp>目标移动靶1（前后 — 区块）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_targetp_inf_a_acc2_f0">
           <Original>Pop-Up Target 1 (Accuracy)</Original>
@@ -2344,7 +2344,7 @@
       <Key ID="str_a3_cfgvehicles_module_f_moduledescription_anything_0">
         <Original>Any object - persons, vehicles, static objects, etc.</Original>
         <Chinese>任何物件-人，載具，靜態物件，等等。</Chinese>
-        <Chinesesimp>任何物件-人，载具，静态物件，等等。</Chinesesimp>
+        <Chinesesimp>任何物件 — 人，载具，静态物件，等等。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_module_f_moduledescription_anystaticobject_1">
         <Original>Any static object</Original>
@@ -2695,7 +2695,7 @@
         <Key ID="str_a3_cfgvehicles_modulehealth_f_arguments_bodypart_1">
           <Original>Which body part should be affected?</Original>
           <Chinese>應該影響身體的哪個部位?</Chinese>
-          <Chinesesimp>应该影响身体的哪个部位?</Chinesesimp>
+          <Chinesesimp>应该影响身体的哪个部位？</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulehealth_f_arguments_bodypart_0">
           <Original>Body part</Original>
@@ -2740,7 +2740,7 @@
         <Key ID="str_a3_cfgvehicles_moduledooropen_f_arguments_hatch_1">
           <Original>Applies to all hatches in radius?</Original>
           <Chinese>適用多少半徑內的所有艙蓋?</Chinese>
-          <Chinesesimp>适用多少半径内的所有舱盖?</Chinesesimp>
+          <Chinesesimp>适用多少半径内的所有舱盖？</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledooropen_f_arguments_hatch_0">
           <Original>Hatches</Original>
@@ -2750,7 +2750,7 @@
         <Key ID="str_a3_cfgvehicles_moduledooropen_f_arguments_door_1">
           <Original>Applies to all doors in radius?</Original>
           <Chinese>適用多少半徑內的所有門?</Chinese>
-          <Chinesesimp>适用多少半径内的所有门?</Chinesesimp>
+          <Chinesesimp>适用多少半径内的所有门？</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledooropen_f_arguments_door_0">
           <Original>Doors</Original>
@@ -2860,7 +2860,7 @@
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_1">
           <Original>Which vehicle part should be affected?</Original>
           <Chinese>應該影響到載具的哪個部位?</Chinese>
-          <Chinesesimp>应该影响到载具的哪个部位?</Chinesesimp>
+          <Chinesesimp>应该影响到载具的哪个部位？</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledamage_f_arguments_bodypart_0">
           <Original>Vehicle part</Original>
@@ -3254,7 +3254,7 @@
         <Key ID="str_a3_cfgvehicles_bis_effect_sepia_0">
           <Original>Post process: Sepia</Original>
           <Chinese>後期處理:深褐色</Chinese>
-          <Chinesesimp>后期处理:深褐色</Chinesesimp>
+          <Chinesesimp>后期处理：深褐色</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bis_effect_movienight_moduledescription_0">
           <Original>Add a movie night screen effect.</Original>
@@ -3264,7 +3264,7 @@
         <Key ID="str_a3_cfgvehicles_bis_effect_movienight_0">
           <Original>Post process: Movie Night</Original>
           <Chinese>後期處理:電影夜晚</Chinese>
-          <Chinesesimp>后期处理:电影夜晚</Chinesesimp>
+          <Chinesesimp>后期处理：电影夜晚</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bis_effect_filmgrain_moduledescription_0">
           <Original>Add a film grain screen effect.</Original>
@@ -3274,7 +3274,7 @@
         <Key ID="str_a3_cfgvehicles_bis_effect_filmgrain_0">
           <Original>Post process: Film Grain</Original>
           <Chinese>後期處理:膠片顆粒</Chinese>
-          <Chinesesimp>后期处理:胶片颗粒</Chinesesimp>
+          <Chinesesimp>后期处理：胶片颗粒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bis_effect_day_moduledescription_0">
           <Original>Add a movie day screen effect.</Original>
@@ -3284,7 +3284,7 @@
         <Key ID="str_a3_cfgvehicles_bis_effect_day_0">
           <Original>Post process: Movie Day</Original>
           <Chinese>後期處理:電影白天</Chinese>
-          <Chinesesimp>后期处理:电影白天</Chinesesimp>
+          <Chinesesimp>后期处理：电影白天</Chinesesimp>
         </Key>
       </Container>
       <Container name="HC">
@@ -3500,7 +3500,7 @@
         <Key ID="str_a3_cfgvehicles_modulegroupid_moduledescription_0">
           <Original>Assign group callsign. Each group has to have a unique callsign - assigning an existing one will remove it from the group which used it previously.</Original>
           <Chinese>指定隊伍的呼號。每個隊伍都有獨特的呼號-指定已經存在的呼號，此呼號會從之前使用它的隊伍中被刪除。</Chinese>
-          <Chinesesimp>指定队伍的呼号。每个队伍都有独特的呼号-指定已经存在的呼号，此呼号会从之前使用它的队伍中被删除。</Chinesesimp>
+          <Chinesesimp>指定队伍的呼号。每个队伍都有独特的呼号 — 指定已经存在的呼号，此呼号会从之前使用它的队伍中被删除。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulegroupid_arguments_custom_1">
           <Original>When not empty, it will replace the preset military callsign.</Original>
@@ -3804,7 +3804,7 @@
         <Key ID="str_a3_cfgvehicles_modulelivefeedterminate_f_0">
           <Original>Live Feed - Terminate</Original>
           <Chinese>即時影像-終止</Chinese>
-          <Chinesesimp>即时影像-终止</Chinesesimp>
+          <Chinesesimp>即时影像 — 终止</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulelivefeedsettarget_f_moduledescription_modulelivefeedinit_f0">
           <Original>The selected vehicle or defined position will become the target of this live feed.</Original>
@@ -3834,7 +3834,7 @@
         <Key ID="str_a3_cfgvehicles_modulelivefeedsettarget_f_0">
           <Original>Live Feed - Set Target</Original>
           <Chinese>即時影像-設定目標</Chinese>
-          <Chinesesimp>即时影像-设定目标</Chinesesimp>
+          <Chinesesimp>即时影像 — 设定目标</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulelivefeedsetsource_f_moduledescription_modulelivefeedinit_f0">
           <Original>The selected unit will become the broadcaster of this live feed.</Original>
@@ -3849,7 +3849,7 @@
         <Key ID="str_a3_cfgvehicles_modulelivefeedsetsource_f_0">
           <Original>Live Feed - Set Source</Original>
           <Chinese>即時影像-設定來源</Chinese>
-          <Chinesesimp>即时影像-设定来源</Chinesesimp>
+          <Chinesesimp>即时影像 — 设定来源</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulelivefeedinit_f_moduledescription0">
           <Original>Initialize the live feed. Use the other live feed modules to adjust its parameters.</Original>
@@ -3859,7 +3859,7 @@
         <Key ID="str_a3_cfgvehicles_modulelivefeedinit_f_0">
           <Original>Live Feed - Init</Original>
           <Chinese>即時影像-初始化</Chinese>
-          <Chinesesimp>即时影像-初始化</Chinesesimp>
+          <Chinesesimp>即时影像 — 初始化</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulelivefeedeffects_f_moduledescription_modulelivefeedinit_f0">
           <Original>The selected screen effects will be applied to this live feed.</Original>
@@ -3894,12 +3894,12 @@
         <Key ID="str_a3_cfgvehicles_modulelivefeedeffects_f_arguments_effectmode_0">
           <Original>Effect Mode:</Original>
           <Chinese>效果模式:</Chinese>
-          <Chinesesimp>效果模式:</Chinesesimp>
+          <Chinesesimp>效果模式：</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulelivefeedeffects_f_0">
           <Original>Live Feed - Effects</Original>
           <Chinese>即時影像-效果</Chinese>
-          <Chinesesimp>即时影像-效果</Chinesesimp>
+          <Chinesesimp>即时影像 — 效果</Chinesesimp>
         </Key>
       </Container>
       <Container name="Misc">
@@ -4548,7 +4548,7 @@ Rules of Engagement are up to you:&lt;br /&gt;
       <Key ID="str_a3_bis_fnc_intructirfigure_newintel1">
         <Original>&lt;t align = 'left'&gt;New Intel Available:</Original>
         <Chinese>&lt;talign='left'&gt;獲得新情報:</Chinese>
-        <Chinesesimp>&lt;talign='left'&gt;获得新情报:</Chinesesimp>
+        <Chinesesimp>&lt;talign='left'&gt;获得新情报：</Chinesesimp>
       </Key>
       <Key ID="str_a3_bis_fnc_intructirfigure_newintel2">
         <Original>&lt;br/&gt;Press [Tab] to access&lt;/t&gt;</Original>
@@ -4558,12 +4558,12 @@ Rules of Engagement are up to you:&lt;br /&gt;
       <Key ID="str_a3_bis_fnc_respawnmenuposition_warning">
         <Original>Warning: Enemies nearby</Original>
         <Chinese>警告:敵軍在附近</Chinese>
-        <Chinesesimp>警告:敌军在附近</Chinesesimp>
+        <Chinesesimp>警告：敌军在附近</Chinesesimp>
       </Key>
       <Key ID="str_a3_bis_fnc_strategicmapmousebuttonclick_prompt">
         <Original>Proceed to "%1"?</Original>
         <Chinese>前往""%1""?</Chinese>
-        <Chinesesimp>前往""%1""?</Chinesesimp>
+        <Chinesesimp>前往""%1""？</Chinesesimp>
       </Key>
     </Container>
     <Container name="Sounds_F">
@@ -4635,17 +4635,17 @@ Rules of Engagement are up to you:&lt;br /&gt;
       <Key ID="str_a3_cfgsounds_alarm_blufor0">
         <Original>Alarm - BLUFOR</Original>
         <Chinese>警報-藍方</Chinese>
-        <Chinesesimp>警报-蓝方</Chinesesimp>
+        <Chinesesimp>警报 — 蓝方</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgsounds_alarm_independent0">
         <Original>Alarm - Independent</Original>
         <Chinese>警報-中立方</Chinese>
-        <Chinesesimp>警报-中立方</Chinesesimp>
+        <Chinesesimp>警报 — 中立方</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgsounds_alarm_opfor0">
         <Original>Alarm - OPFOR</Original>
         <Chinese>警報-紅方</Chinese>
-        <Chinesesimp>警报-红方</Chinesesimp>
+        <Chinesesimp>警报 — 红方</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgenvsounds_coast0">
         <Original>Coast</Original>

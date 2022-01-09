@@ -5,7 +5,7 @@
       <Key ID="str_a3_cfgmagazines_6rnd_greensignal_f1">
         <Original>Type: Flare Slugs - Green&lt;br /&gt;Rounds: 6&lt;br /&gt;Used in: Starter Pistol</Original>
         <Chinese>類型:信號彈-綠色&lt;br/&gt;發數:6&lt;br/&gt;使用於:發令槍</Chinese>
-        <Chinesesimp>类型:信号弹-绿色&lt;br/&gt;发数:6&lt;br/&gt;使用于:发令枪</Chinesesimp>
+        <Chinesesimp>类型：信号弹 — 绿色&lt;br/&gt;发数：6&lt;br/&gt;使用于：发令枪</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_6rnd_redsignal_f0">
         <Original>6Rnd Signal Cylinder (Red)</Original>
@@ -15,7 +15,7 @@
       <Key ID="str_a3_cfgmagazines_6rnd_redsignal_f1">
         <Original>Type: Flare Slugs - Red&lt;br /&gt;Rounds: 6&lt;br /&gt;Used in: Starter Pistol</Original>
         <Chinese>類型:信號彈-紅色&lt;br/&gt;發數:6&lt;br/&gt;使用於:發令槍</Chinese>
-        <Chinesesimp>类型:信号弹-红色&lt;br/&gt;发数:6&lt;br/&gt;使用于:发令枪</Chinesesimp>
+        <Chinesesimp>类型：信号弹 — 红色&lt;br/&gt;发数：6&lt;br/&gt;使用于：发令枪</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_hgun_pistol_signal_f_library0">
         <Original>Starter pistol is a revolver commonly used to start competitive races. Only the sound of the shot is used as the starting signal. This pistol uses flares, and a cloud of smoke can be seen when the gun goes off.</Original>
@@ -35,7 +35,7 @@
       <Key ID="str_a3_cfgweapons_hgun_pistol_signal_f1">
         <Original>Non-combat gun&lt;br /&gt;Caliber: 10 mm Signal Slugs</Original>
         <Chinese>非戰鬥用槍&lt;br/&gt;口徑:10mm信號彈</Chinese>
-        <Chinesesimp>非战斗用枪&lt;br/&gt;口径:10mm 信号弹</Chinesesimp>
+        <Chinesesimp>非战斗用枪&lt;br/&gt;口径：10mm 信号弹</Chinesesimp>
       </Key>
     </Container>
     <Container name="MoveToCore">
@@ -72,7 +72,7 @@
       <Key ID="str_a3_cfghints_premiumcontent_premiumdefine1">
         <Original>Assets that are part of premium content packages, such as official DLC, must be purchased to unlock fully. While using an unowned asset, certain restrictions apply and notifications are displayed.%1Premium Content Examples:%1%2Weapons%1%2Vehicles%1%2Characters%1%2Items%1%2Scenarios%1%2Terrains%1Press %11 to open the store page.</Original>
         <Chinese>某些屬於官方資料片的模組，將須購買完成後才能有完整的體驗。當你沒購買卻使用某些資料片的內容時，將會出現提示訊息。%1付費內容有包括以下模組:%1%2武器%1%2載具%1%2角色%1%2物品%1%2任務%1%2地圖%1按下%11來開啟商店頁面。</Chinese>
-        <Chinesesimp>某些属于官方 DLC 的模组，需要购买完成后才能有完整的体验。当你没购买却使用某些 DLC 的内容时，将会出现提示信息。%1付费内容有包括以下模组:%1%2武器%1%2载具%1%2角色%1%2物品%1%2任务%1%2地图%1按下%11来开启商店页面。</Chinesesimp>
+        <Chinesesimp>某些属于官方 DLC 的模组，需要购买完成后才能有完整的体验。当你没购买却使用某些 DLC 的内容时，将会出现提示信息。%1付费内容有包括以下模组：%1%2武器%1%2载具%1%2角色%1%2物品%1%2任务%1%2地图%1按下%11来开启商店页面。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumkarts0">
         <Original>Karts DLC</Original>
@@ -82,7 +82,7 @@
       <Key ID="str_a3_cfghints_premiumcontent_premiumkarts1">
         <Original>Bring the battle to the race track! Get behind the wheel of a racing kart and fight for pole position in the Arma 3 Karts DLC.%1&lt;img size='9' shadow='0' image='A3\Data_F_Kart\Images\karts_illustration_06_ca.paa' /&gt;%1%2&lt;t&gt;&lt;/t&gt;Vehicle: Racing Kart - 4 distinctive variants and a random color variant%1%2&lt;t&gt;&lt;/t&gt;Character: Racer - a driver matching to kart variants.%1%2&lt;t&gt;&lt;/t&gt;Character: Marshal%1%2&lt;t&gt;&lt;/t&gt;Weapon: Starter pistol%1%2&lt;t&gt;&lt;/t&gt;5 Singleplayer Time Trial Challenges%1%2&lt;t&gt;&lt;/t&gt;2 Multiplayer Kart Races%1%2&lt;t&gt;&lt;/t&gt;Race objects%1%2&lt;t&gt;&lt;/t&gt;Various Zeus Race Modules%1%2&lt;t&gt;&lt;/t&gt;16 Steam Achievements%1&lt;t&gt;&lt;/t&gt;</Original>
         <Chinese>讓我們把戰鬥拉到賽道上!搖動你的排檔，讓我們一起在武裝突襲3卡丁車資料片中衝出一片天。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Kart\Images\karts_illustration_06_ca.paa'/&gt;%1%2&lt;t&gt;&lt;/t&gt;載具:卡丁車-4種顏色塗裝各異的車款%1%2&lt;t&gt;&lt;/t&gt;角色:賽車手-完整的賽車手服裝。%1%2&lt;t&gt;&lt;/t&gt;角色:賽車場工作人員%1%2&lt;t&gt;&lt;/t&gt;武器:發令槍%1%2&lt;t&gt;&lt;/t&gt;5單人計時賽任務%1%2&lt;t&gt;&lt;/t&gt;2個多人卡丁賽車任務%1%2&lt;t&gt;&lt;/t&gt;賽車物件%1%2&lt;t&gt;&lt;/t&gt;數個宙斯任務用的賽車模塊%1%2&lt;t&gt;&lt;/t&gt;16個新的Steam成就%1&lt;t&gt;&lt;/t&gt;</Chinese>
-        <Chinesesimp>让我们把战斗拉到赛道上!摇动你的排档，让我们一起在武装突袭3卡丁车 DLC 中冲出一片天。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Kart\Images\karts_illustration_06_ca.paa'/&gt;%1%2&lt;t&gt;&lt;/t&gt;载具:卡丁车-4种颜色涂装各异的车款%1%2&lt;t&gt;&lt;/t&gt;角色:赛车手-完整的赛车手服装。%1%2&lt;t&gt;&lt;/t&gt;角色:赛车场工作人员%1%2&lt;t&gt;&lt;/t&gt;武器:发令枪%1%2&lt;t&gt;&lt;/t&gt;5单人计时赛任务%1%2&lt;t&gt;&lt;/t&gt;2个多人卡丁赛车任务%1%2&lt;t&gt;&lt;/t&gt;赛车物件%1%2&lt;t&gt;&lt;/t&gt;数个宙斯任务用的赛车模块%1%2&lt;t&gt;&lt;/t&gt;16个新的 Steam 成就%1&lt;t&gt;&lt;/t&gt;</Chinesesimp>
+        <Chinesesimp>让我们把战斗拉到赛道上！摇动你的排档，让我们一起在武装突袭3卡丁车 DLC 中冲出一片天。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Kart\Images\karts_illustration_06_ca.paa'/&gt;%1%2&lt;t&gt;&lt;/t&gt;载具：卡丁车-4种颜色涂装各异的车款%1%2&lt;t&gt;&lt;/t&gt;角色：赛车手 — 完整的赛车手服装。%1%2&lt;t&gt;&lt;/t&gt;角色：赛车场工作人员%1%2&lt;t&gt;&lt;/t&gt;武器：发令枪%1%2&lt;t&gt;&lt;/t&gt;5单人计时赛任务%1%2&lt;t&gt;&lt;/t&gt;2个多人卡丁赛车任务%1%2&lt;t&gt;&lt;/t&gt;赛车物件%1%2&lt;t&gt;&lt;/t&gt;数个宙斯任务用的赛车模块%1%2&lt;t&gt;&lt;/t&gt;16个新的 Steam 成就%1&lt;t&gt;&lt;/t&gt;</Chinesesimp>
       </Key>
       <Key ID="STR_A3_dlc_popup_main_menu">
         <Original>Arma 3 Karts DLC now available. Click to purchase</Original>
@@ -117,7 +117,7 @@
       <Key ID="STR_A3_dlc_loading_screen_text">
         <Original>Bring the battle to the race track! Get behind the wheel of a racing kart and fight for pole position in the Arma 3 Karts DLC.</Original>
         <Chinese>讓我們把戰鬥拉到賽道上!搖動你的排檔，讓我們一起在武裝突襲3卡丁車資料片中衝出一片天。</Chinese>
-        <Chinesesimp>让我们把战斗拉到赛道上!摇动你的排档，让我们一起在武装突袭3卡丁车 DLC 中冲出一片天。</Chinesesimp>
+        <Chinesesimp>让我们把战斗拉到赛道上！摇动你的排档，让我们一起在武装突袭3卡丁车 DLC 中冲出一片天。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_dlcmessage_dlc28852002">
         <Original>Full use of premium content is exclusive to owners.</Original>
@@ -187,7 +187,7 @@
       <Key ID="STR_A3_dlc_debriefing_session_time">
         <Original>Session time: %1h %2m %3s</Original>
         <Chinese>花費時間:%1時%2分%3秒</Chinese>
-        <Chinesesimp>花费时间:%1时%2分%3秒</Chinesesimp>
+        <Chinesesimp>花费时间：%1时%2分%3秒</Chinesesimp>
       </Key>
       <Key ID="STR_A3_dlc_debriefing_statistics">
         <Original>Premium Content Statistics</Original>
@@ -197,7 +197,7 @@
       <Key ID="STR_A3_dlc_debriefing_total_time">
         <Original>Total play time: %1h %2m %3s</Original>
         <Chinese>完整遊玩時間:%1時%2分%3秒</Chinese>
-        <Chinesesimp>完整游玩时间:%1时%2分%3秒</Chinesesimp>
+        <Chinesesimp>完整游玩时间：%1时%2分%3秒</Chinesesimp>
       </Key>
       <Key ID="STR_A3_dlc_vehicle_entry_prevention_text">
         <Original>This content is part of Karts DLC. Purchase it to enter this vehicle.</Original>
@@ -212,7 +212,7 @@
       <Key ID="STR_A3_dlc_karts_expansions_text">
         <Original>Bring the battle to the race track! Get behind the wheel of a racing kart and fight for pole position in the Arma 3 Karts DLC.</Original>
         <Chinese>讓我們把戰鬥拉到賽道上!搖動你的排檔，讓我們一起在武裝突襲3卡丁車資料片中衝出一片天。</Chinese>
-        <Chinesesimp>让我们把战斗拉到赛道上!摇动你的排档，让我们一起在武装突袭3卡丁车 DLC 中冲出一片天。</Chinesesimp>
+        <Chinesesimp>让我们把战斗拉到赛道上！摇动你的排档，让我们一起在武装突袭3卡丁车 DLC 中冲出一片天。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_dlc_karts_fm_headline_flaregun">
         <Original>Starter Pistol</Original>
@@ -583,17 +583,17 @@
       <Key ID="str_a3_cfgvehicles_moduleobjectiveracecp_f0">
         <Original>Race - Check Point</Original>
         <Chinese>賽車-檢查點</Chinese>
-        <Chinesesimp>赛车-检查点</Chinesesimp>
+        <Chinesesimp>赛车 — 检查点</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_moduleobjectiveracefinish_f0">
         <Original>Race - Finish</Original>
         <Chinese>賽車-完成</Chinese>
-        <Chinesesimp>赛车-完成</Chinesesimp>
+        <Chinesesimp>赛车 — 完成</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_moduleobjectiveracestart_f0">
         <Original>Race - Lineup</Original>
         <Chinese>賽車-起跑點</Chinese>
-        <Chinesesimp>赛车-起跑点</Chinesesimp>
+        <Chinesesimp>赛车 — 起跑点</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfggroupicons_quit0">
         <Original>Quit</Original>
@@ -608,12 +608,12 @@
       <Key ID="str_a3_module_objracestart_zeustitle">
         <Original>The objective will be completed automatically when a 'Race - Finish' module is placed. This module will disappear afterwards.</Original>
         <Chinese>目標將會在'賽車-完成'放置後自動完成。這個模塊會在頒獎之後自動消失。</Chinese>
-        <Chinesesimp>目标将会在'赛车-完成'放置后自动完成。这个模块会在颁奖之后自动消失。</Chinesesimp>
+        <Chinesesimp>目标将会在'赛车 — 完成'放置后自动完成。这个模块会在颁奖之后自动消失。</Chinesesimp>
       </Key>
       <Key ID="str_a3_module_objracefinish_taskdesc">
         <Original>Race to the destination! You'll have to pass all Check Points (if they're used).</Original>
         <Chinese>駛往目的地!你必須通過所有的檢查點。</Chinese>
-        <Chinesesimp>驶往目的地!你必须通过所有的检查点。</Chinesesimp>
+        <Chinesesimp>驶往目的地！你必须通过所有的检查点。</Chinesesimp>
       </Key>
       <Key ID="str_a3_module_objracestart_tasktitle">
         <Original>Line Up and Get Ready</Original>
@@ -638,7 +638,7 @@
       <Key ID="str_a3_module_objracestart_taskdesc">
         <Original>Move to the lineup and wait for the race!</Original>
         <Chinese>前往起跑點並等待各參賽者!</Chinese>
-        <Chinesesimp>前往起跑点并等待各参赛者!</Chinesesimp>
+        <Chinesesimp>前往起跑点并等待各参赛者！</Chinesesimp>
       </Key>
       <Key ID="str_a3_module_objracefinish_winner">
         <Original>Winner</Original>
@@ -712,7 +712,7 @@
       <Key ID="str_a3_cfgvehicles_signad_sponsors_redstone_f0">
         <Original>Sign (Redstone - Small)</Original>
         <Chinese>標誌(紅石-小)</Chinese>
-        <Chinesesimp>标志（红石-小）</Chinesesimp>
+        <Chinesesimp>标志（红石 — 小）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_signad_sponsors_redburger_f0">
         <Original>Sign (Redburger - Small)</Original>
@@ -722,17 +722,17 @@
       <Key ID="str_a3_cfgvehicles_signad_sponsors_fuel_white_f0">
         <Original>Sign (Fuel, white - Small)</Original>
         <Chinese>標誌(燃油公司，白色-小)</Chinese>
-        <Chinesesimp>标志（燃油公司，白色-小）</Chinesesimp>
+        <Chinesesimp>标志（燃油公司，白色 — 小）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_signad_sponsors_fuel_green_f0">
         <Original>Sign (Fuel, green - Small)</Original>
         <Chinese>標誌(燃油公司，綠色-小)</Chinese>
-        <Chinesesimp>标志（燃油公司，绿色-小）</Chinesesimp>
+        <Chinesesimp>标志（燃油公司，绿色 — 小）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_signad_sponsors_burstkoke_f0">
         <Original>Sign (Burstkoke - Small)</Original>
         <Chinese>標誌(爆破口樂-小)</Chinese>
-        <Chinesesimp>标志（爆破口乐-小）</Chinesesimp>
+        <Chinesesimp>标志（爆破口乐 — 小）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_signad_sponsors_blueking_f0">
         <Original>Sign (Blueking - Small)</Original>
@@ -989,7 +989,7 @@
       <Key ID="STR_A3_Acheivements_Karts_General1">
         <Original>Started your first Arma 3 scenario - welcome!</Original>
         <Chinese>開始你武裝突襲3第一個任務-歡迎!</Chinese>
-        <Chinesesimp>开始你武装突袭3第一个任务-欢迎!</Chinesesimp>
+        <Chinesesimp>开始你武装突袭3第一个任务 — 欢迎！</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Acheivements_Karts_General1_Title">
         <Original>This is War</Original>
@@ -1171,7 +1171,7 @@
       <Key ID="str_a3_rscdisplaywelcome_kart_pard_footer2">
         <Original>Thank you for your support!</Original>
         <Chinese>感謝你們的支持!</Chinese>
-        <Chinesesimp>感谢你们的支持!</Chinesesimp>
+        <Chinesesimp>感谢你们的支持！</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_kart_pard_footer">
         <Original>More at www.arma3.com/whatsnewkarts</Original>
@@ -1261,7 +1261,7 @@
       <Key ID="str_a3_rscdisplaywelcome_kart_parc">
         <Original>Arma 3 Karts contains the following:</Original>
         <Chinese>武裝突襲3卡丁車包括以下內容:</Chinese>
-        <Chinesesimp>武装突袭3卡丁车包括以下内容:</Chinesesimp>
+        <Chinesesimp>武装突袭3卡丁车包括以下内容：</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_kart_parb_title">
         <Original>KARTS</Original>
@@ -1276,7 +1276,7 @@
       <Key ID="str_a3_rscdisplaywelcome_kart_parb_list3">
         <Original>Arma 3 is a varied and open experience with lots of gameplay possibilities. It can't hurt to have a little non-combat fun!</Original>
         <Chinese>武裝突襲3不只是用來玩軍事戰鬥的遊戲，它有許多可能性，你能從中找到許多樂趣!</Chinese>
-        <Chinesesimp>武装突袭3不只是用来玩军事战斗的游戏，它有许多可能性，你能从中找到许多乐趣!</Chinesesimp>
+        <Chinesesimp>武装突袭3不只是用来玩军事战斗的游戏，它有许多可能性，你能从中找到许多乐趣！</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_kart_parb_list2_title">
         <Original>Charity</Original>
@@ -1301,12 +1301,12 @@
       <Key ID="str_a3_rscdisplaywelcome_kart_parb">
         <Original>The premium content package has several goals:</Original>
         <Chinese>付費內容有以下目標:</Chinese>
-        <Chinesesimp>付费内容有以下目标:</Chinesesimp>
+        <Chinesesimp>付费内容有以下目标：</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_kart_para">
         <Original>Start your engines - this is &lt;t color='%1'&gt;Arma 3%2 Karts&lt;/t&gt;! When we unveiled our 2014 April Fools joke via the Splendid Split parody video, some of you were quite keen for us to release the go-karts package for real. So here it is, for everyone to try! Enjoy this little sidestep in our typically military sandbox!</Original>
         <Chinese>啟動你的引擎-這裡是&lt;tcolor='%1'&gt;武裝突襲3%2卡丁車&lt;/t&gt;!當我們於2014年愚人節放出影片時，很多人都熱中一個問題，那就是我們到底會不會發布卡丁車這個模組?這就是了，我們公布它來讓大家遊玩!讓我們來享受難得的一段休閒之旅吧!</Chinese>
-        <Chinesesimp>启动你的引擎-这里是&lt;tcolor='%1'&gt;武装突袭3%2卡丁车&lt;/t&gt;!当我们于2014年愚人节放出影片时，很多人都热衷一个问题，那就是我们到底会不会发布卡丁车这个模组?这就是了，我们公布它来让大家游玩!让我们来享受难得的一段休闲之旅吧!</Chinesesimp>
+        <Chinesesimp>启动你的引擎 — 这里是&lt;tcolor='%1'&gt;武装突袭3%2卡丁车&lt;/t&gt;！当我们于2014年愚人节放出影片时，很多人都热衷一个问题，那就是我们到底会不会发布卡丁车这个模组？这就是了，我们公布它来让大家游玩！让我们来享受难得的一段休闲之旅吧！</Chinesesimp>
       </Key>
     </Container>
   </Package>
