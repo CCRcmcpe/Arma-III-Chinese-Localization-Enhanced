@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="Arma3">
   <Package name="Language_EPA">
     <Container name="Structures_F">
@@ -92,80 +92,80 @@
         <Chinese>錫罐</Chinese>
         <Chinesesimp>锡罐</Chinesesimp>
       </Key>
-      <Key ID="STR_A3_antibiotics">
-        <Original>Antibiotics</Original>
-        <Chinese>抗生素</Chinese>
-        <Chinesesimp>抗生素</Chinesesimp>
+      <Key ID="str_a3_cfgvehicles_eaudecombat_01_box_base_f0">
+        <Original>Aftershave (Boxed)</Original>
+        <Chinese>鬍後乳液（盒裝）</Chinese>
+        <Chinesesimp>须后香液（盒装）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_shovel">
         <Original>Shovel</Original>
         <Chinese>鏟子</Chinese>
         <Chinesesimp>铲子</Chinesesimp>
       </Key>
-      <Key ID="STR_A3_baked_beens">
-        <Original>Baked Beans</Original>
-        <Chinese>焗豆</Chinese>
-        <Chinesesimp>烤豆子</Chinesesimp>
+      <Key ID="str_a3_cfgvehicles_eaudecombat_01_base_f0">
+        <Original>Aftershave</Original>
+        <Chinese>鬍後乳液</Chinese>
+        <Chinesesimp>须后香液</Chinesesimp>
       </Key>
       <Key ID="STR_A3_rice">
         <Original>Rice</Original>
         <Chinese>米飯</Chinese>
         <Chinesesimp>米饭</Chinesesimp>
       </Key>
-      <Key ID="STR_A3_bandages">
-        <Original>Bandages</Original>
-        <Chinese>繃帶</Chinese>
-        <Chinesesimp>绷带</Chinesesimp>
+      <Key ID="STR_A3_antibiotics">
+        <Original>Antibiotics</Original>
+        <Chinese>抗生素</Chinese>
+        <Chinesesimp>抗生素</Chinesesimp>
       </Key>
       <Key ID="STR_A3_powdered_milk">
         <Original>Powdered milk</Original>
         <Chinese>奶粉</Chinese>
         <Chinesesimp>奶粉</Chinesesimp>
       </Key>
-      <Key ID="STR_A3_broken_tree">
-        <Original>Broken tree</Original>
-        <Chinese>斷掉的樹</Chinese>
-        <Chinesesimp>断掉的树</Chinesesimp>
+      <Key ID="STR_A3_baked_beens">
+        <Original>Baked Beans</Original>
+        <Chinese>焗豆</Chinese>
+        <Chinesesimp>烤豆子</Chinesesimp>
       </Key>
       <Key ID="STR_A3_portable_lights_single">
         <Original>Portable Lights (Single)</Original>
         <Chinese>手提燈(單)</Chinese>
         <Chinesesimp>手提灯（单）</Chinesesimp>
       </Key>
-      <Key ID="STR_A3_batteries">
-        <Original>Battery</Original>
-        <Chinese>電池</Chinese>
-        <Chinesesimp>电池</Chinesesimp>
+      <Key ID="STR_A3_bandages">
+        <Original>Bandages</Original>
+        <Chinese>繃帶</Chinese>
+        <Chinesesimp>绷带</Chinesesimp>
       </Key>
       <Key ID="STR_A3_portable_lights_double">
         <Original>Portable Lights (Double)</Original>
         <Chinese>手提燈(雙)</Chinese>
         <Chinesesimp>手提灯（双）</Chinesesimp>
       </Key>
-      <Key ID="STR_A3_blood_bag">
-        <Original>Blood bag</Original>
-        <Chinese>血袋</Chinese>
-        <Chinesesimp>血袋</Chinesesimp>
+      <Key ID="STR_A3_broken_tree">
+        <Original>Broken tree</Original>
+        <Chinese>斷掉的樹</Chinese>
+        <Chinesesimp>断掉的树</Chinesesimp>
       </Key>
       <Key ID="STR_A3_pain_killers">
         <Original>Pain killers</Original>
         <Chinese>止痛藥</Chinese>
         <Chinesesimp>止痛药</Chinesesimp>
       </Key>
-      <Key ID="STR_A3_box_of_matches">
-        <Original>Box of matches</Original>
-        <Chinese>火柴盒</Chinese>
-        <Chinesesimp>火柴盒</Chinesesimp>
+      <Key ID="STR_A3_batteries">
+        <Original>Battery</Original>
+        <Chinese>電池</Chinese>
+        <Chinesesimp>电池</Chinesesimp>
       </Key>
       <Key ID="STR_A3_metal_wire">
         <Original>Metal wire</Original>
         <Chinese>金屬線</Chinese>
         <Chinesesimp>金属线</Chinesesimp>
       </Key>
-      <Key ID="STR_A3_butane_canister">
-        <Original>Butane canister</Original>
-        <Chinese>丁烷罐</Chinese>
-        <Chinesesimp>丁烷罐</Chinesesimp>
+      <Key ID="STR_A3_blood_bag">
+        <Original>Blood bag</Original>
+        <Chinese>血袋</Chinese>
+        <Chinesesimp>血袋</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgvehicles_invisible_wall">
         <Original>Invisible Wall</Original>
@@ -177,55 +177,65 @@
         <Chinese>暖暖包</Chinese>
         <Chinesesimp>暖手包</Chinesesimp>
       </Key>
-      <Key ID="STR_A3_butane_torch">
-        <Original>Butane torch</Original>
-        <Chinese>丁烷噴槍</Chinese>
-        <Chinesesimp>丁烷喷枪</Chinesesimp>
+      <Key ID="STR_A3_box_of_matches">
+        <Original>Box of matches</Original>
+        <Chinese>火柴盒</Chinese>
+        <Chinesesimp>火柴盒</Chinesesimp>
       </Key>
       <Key ID="STR_A3_gas_cooker">
         <Original>Gas cooker</Original>
         <Chinese>瓦斯爐</Chinese>
         <Chinesesimp>燃气炉</Chinesesimp>
       </Key>
-      <Key ID="STR_A3_can_opener">
-        <Original>Can opener</Original>
-        <Chinese>開罐器</Chinese>
-        <Chinesesimp>开罐器</Chinesesimp>
+      <Key ID="STR_A3_butane_canister">
+        <Original>Butane canister</Original>
+        <Chinese>丁烷罐</Chinese>
+        <Chinesesimp>丁烷罐</Chinesesimp>
       </Key>
       <Key ID="STR_A3_gas_canister">
         <Original>Gas canister</Original>
         <Chinese>瓦斯罐</Chinese>
         <Chinesesimp>燃气罐</Chinesesimp>
       </Key>
-      <Key ID="STR_A3_canteen">
-        <Original>Canteen</Original>
-        <Chinese>水壺</Chinese>
-        <Chinesesimp>水壶</Chinesesimp>
+      <Key ID="STR_A3_butane_torch">
+        <Original>Butane torch</Original>
+        <Chinese>丁烷噴槍</Chinese>
+        <Chinesesimp>丁烷喷枪</Chinesesimp>
       </Key>
       <Key ID="STR_A3_fire_extinguisher">
         <Original>Fire extinguisher</Original>
         <Chinese>滅火器</Chinese>
         <Chinesesimp>灭火器</Chinesesimp>
       </Key>
-      <Key ID="STR_A3_cereal_box">
-        <Original>Cereal box</Original>
-        <Chinese>麥片盒</Chinese>
-        <Chinesesimp>麦片盒</Chinesesimp>
+      <Key ID="STR_A3_can_opener">
+        <Original>Can opener</Original>
+        <Chinese>開罐器</Chinese>
+        <Chinesesimp>开罐器</Chinesesimp>
       </Key>
       <Key ID="STR_A3_duct_tape">
         <Original>Duct tape</Original>
         <Chinese>膠帶</Chinese>
         <Chinesesimp>胶带</Chinesesimp>
       </Key>
-      <Key ID="STR_A3_defibrillator">
-        <Original>Defibrillator</Original>
-        <Chinese>除顫器</Chinese>
-        <Chinesesimp>除颤器</Chinesesimp>
+      <Key ID="STR_A3_canteen">
+        <Original>Canteen</Original>
+        <Chinese>水壺</Chinese>
+        <Chinesesimp>水壶</Chinesesimp>
       </Key>
       <Key ID="STR_A3_disinfectant_spray">
         <Original>Disinfectant spray</Original>
         <Chinese>消毒噴罐</Chinese>
         <Chinesesimp>消毒喷罐</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_cereal_box">
+        <Original>Cereal box</Original>
+        <Chinese>麥片盒</Chinese>
+        <Chinesesimp>麦片盒</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_defibrillator">
+        <Original>Defibrillator</Original>
+        <Chinese>除顫器</Chinese>
+        <Chinesesimp>除颤器</Chinesesimp>
       </Key>
     </Container>
     <Container name="Characters_F">

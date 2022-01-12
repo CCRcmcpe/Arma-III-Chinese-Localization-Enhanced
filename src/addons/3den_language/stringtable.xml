@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="3DEN">
   <Package name="3DEN_Language">
     <Container name="UI">
@@ -953,15 +953,35 @@
               <Chinese>放置有組員的載具</Chinese>
               <Chinesesimp>放置有组员的载具</Chinesesimp>
             </Key>
-            <Key ID="STR_3DEN_Display3DEN_ModsButton">
-              <Original>Filter by mods</Original>
-              <Chinese>使用模組來過濾</Chinese>
-              <Chinesesimp>使用模组来过滤</Chinesesimp>
+            <Key ID="STR_3DEN_Display3DEN_CustomCompositionPanel_MissingAddons_tooltip">
+              <Original>The composition requires content which is not installed!\nIt can be placed without the unavailable entities.</Original>
+              <Chinese>本結構需要的內容尚未安裝！\n它可以在沒有不可用的實體情況下放置。</Chinese>
+              <Chinesesimp>该组合所需要内容尚未安装！\n没有不可用实体时，可放置该组合。</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_SearchEditButton_tooltip">
               <Original>Search in the entity list.\nUse '#' followed by entity type to search for all entities of the given type (e.g., 'Waypoint'). Supported types:\n#Object\n#Group\n#Trigger\n#Waypoint\n#Logic\n#Marker\n#Comment</Original>
               <Chinese>在場上物件清單上搜尋。\n使用'#'來當作開頭，好在場上物件清單上搜尋不同類型的物件(例如'Waypoint')。支援的類型如下(用英文輸入即可):\n#Object\n#Group\n#Trigger\n#Waypoint\n#Logic\n#Marker\n#Comment</Chinese>
               <Chinesesimp>在场上物件清单上搜寻。\n使用'#'来当作开头，好在场上物件清单上搜寻不同类型的物件(例如'Waypoint')。支持的类型如下（用英文输入即可）：\n#Object\n#Group\n#Trigger\n#Waypoint\n#Logic\n#Marker\n#Comment</Chinesesimp>
+            </Key>
+            <Key ID="STR_3DEN_Display3DEN_CustomCompositionPanel_OpenItemWorkshop_tooltip">
+              <Original>Open Steam Workshop with the selected composition.</Original>
+              <Chinese>使用選擇的結構打開 Steam 工作坊。</Chinese>
+              <Chinesesimp>以选定的组合打开 Steam 创意工坊。</Chinesesimp>
+            </Key>
+            <Key ID="STR_3DEN_Display3DEN_ModsButton">
+              <Original>Filter by mods</Original>
+              <Chinese>使用模組來過濾</Chinese>
+              <Chinesesimp>使用模组来过滤</Chinesesimp>
+            </Key>
+            <Key ID="STR_3DEN_Display3DEN_CustomCompositionPanel_OpenWorkshop_tooltip">
+              <Original>Open Steam Workshop with all available compositions.</Original>
+              <Chinese>Open Steam Workshop with all available compositions.</Chinese>
+              <Chinesesimp>Open Steam Workshop with all available compositions.</Chinesesimp>
+            </Key>
+            <Key ID="STR_3DEN_Display3DEN_CustomCompositionPanel_Unsubscribe_tooltip">
+              <Original>Unsubscribe from the selected composition.</Original>
+              <Chinese>取消訂閱選擇的結構。</Chinese>
+              <Chinesesimp>取消订阅选定的组合。</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -1107,10 +1127,10 @@
             <Chinese>===遺失的模組===</Chinese>
             <Chinesesimp>===缺失模组===</Chinesesimp>
           </Key>
-          <Key ID="STR_3DEN_Display3DENRequiredAddons_Filter_Author_text">
-            <Original>Author</Original>
-            <Chinese>作者</Chinese>
-            <Chinesesimp>作者</Chinesesimp>
+          <Key ID="STR_3DEN_Display3DENRequiredAddons_btnForceLoad">
+            <Original>Force Load</Original>
+            <Chinese>強制載入</Chinese>
+            <Chinesesimp>强制加载</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Display3DENRequiredAddons_Title_text">
             <Original>Required Addons</Original>
@@ -1127,30 +1147,45 @@
             <Chinese>任務需要的模組並沒有被安裝！</Chinese>
             <Chinesesimp>任务需要尚未加载的模组！</Chinesesimp>
           </Key>
-          <Key ID="STR_3DEN_Display3DENRequiredAddons_Filter_Name_text">
-            <Original>Name</Original>
-            <Chinese>名稱</Chinese>
-            <Chinesesimp>名称</Chinesesimp>
+          <Key ID="STR_3DEN_Display3DENRequiredAddons_btnForceLoad_tooltip">
+            <Original>Force loading of the scenario even though required content will be missing. Autosaving will be disabled until you next manually save. Consider backing up the scenario files first!</Original>
+            <Chinese>強制載入缺失必要內容的情境。自動儲存將會停用，直至下次手動儲存。建議玩家預先備份情境檔案。</Chinese>
+            <Chinesesimp>强制加载场景，即使可能会缺少要求的内容。自动保存将被禁用，直到下一次手动保存为止。请考虑先备份场景文件！</Chinesesimp>
+          </Key>
+          <Key ID="STR_3DEN_Display3DENRequiredAddons_Filter_Author_text">
+            <Original>Author</Original>
+            <Chinese>作者</Chinese>
+            <Chinesesimp>作者</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Display3DENRequiredAddons_Notification_text">
             <Original>All content required by the scenario is installed</Original>
             <Chinese>所有任務需要的模組已安裝</Chinese>
             <Chinesesimp>任务需要的所有模组均已安装</Chinesesimp>
           </Key>
+          <Key ID="STR_3DEN_Display3DENRequiredAddons_Filter_Name_text">
+            <Original>Name</Original>
+            <Chinese>名稱</Chinese>
+            <Chinesesimp>名称</Chinesesimp>
+          </Key>
           <Key ID="STR_3DEN_Display3DENRequiredAddons_Tabs_Advanced">
             <Original>Advanced</Original>
             <Chinese>進階</Chinese>
             <Chinesesimp>高级</Chinesesimp>
+          </Key>
+          <Key ID="STR_3DEN_Display3DENRequiredAddons_URL_text">
+            <Original>Website</Original>
+            <Chinese>網站</Chinese>
+            <Chinesesimp>网站</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Display3DENRequiredAddons_Tabs_Basic">
             <Original>Basic</Original>
             <Chinese>基本</Chinese>
             <Chinesesimp>基本</Chinesesimp>
           </Key>
-          <Key ID="STR_3DEN_Display3DENRequiredAddons_URL_text">
-            <Original>Website</Original>
-            <Chinese>網站</Chinese>
-            <Chinesesimp>网站</Chinesesimp>
+          <Key ID="STR_3DEN_Display3DENRequiredAddons_warningForceLoad">
+            <Original>Scenario was loaded despite missing content. Some objects may be missing or not work correctly.\nAutosaves have been disabled until the next manual save.</Original>
+            <Chinese>在缺失內容的情況下載入情境，某些對象可能缺失或不正常運行。\n自動儲存已經停用，直至下次手動儲存。</Chinese>
+            <Chinesesimp>尽管缺少了一些内容，但仍会加载场景。某些对象可能会缺失或无法正常发挥作用。\n自动保存将被禁用，直到下一次手动保存为止。</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -2727,6 +2762,16 @@
             <Chinese>音樂</Chinese>
             <Chinesesimp>音乐</Chinesesimp>
           </Key>
+          <Key ID="str_3den_trigger_attribute_triggerinterval_displayname">
+            <Original>Interval</Original>
+            <Chinese>間隔</Chinese>
+            <Chinesesimp>时间间隔</Chinesesimp>
+          </Key>
+          <Key ID="str_3den_trigger_attribute_triggerinterval_tooltip">
+            <Original>How frequently the trigger condition is evaluated in seconds.</Original>
+            <Chinese>觸發條件的評估頻率，單位為秒。</Chinese>
+            <Chinesesimp>评估触发条件的频繁程度，以秒为单位。</Chinesesimp>
+          </Key>
         </Container>
         <Container name="AttributeCategories">
           <Key ID="STR_3DEN_Trigger_AttributeCategory_Activation">
@@ -3562,6 +3607,11 @@
           <Chinese>讀取任務時發生錯誤！</Chinese>
           <Chinesesimp>读取任务时发生错误！</Chinesesimp>
         </Key>
+        <Key ID="STR_3DEN_Messages_missionLoadRequiredAddons">
+          <Original>Unable to open the scenario due to missing addons (%s)</Original>
+          <Chinese>缺失附加內容（%s），無法打開情境。</Chinese>
+          <Chinesesimp>由于缺少插件（%s），无法加载该场景</Chinesesimp>
+        </Key>
         <Key ID="STR_3DEN_Messages_missionMerge">
           <Original>Merging will include all entities in the selected scenario into the currently opened scenario. No external files will be included. Do you want to merge into the scenario?</Original>
           <Chinese>合併會將選擇任務的所有物件匯進至目前已開啟的任務當中。而外部文件並不會跟著匯入。請問你想要合併任務嗎？</Chinese>
@@ -3571,6 +3621,11 @@
           <Original>Cannot merge 2D editor scenario into the current scenario!</Original>
           <Chinese>無法合併2D編輯器的任務至當前任務中！</Chinese>
           <Chinesesimp>无法合并2D编辑器的任务至当前任务中！</Chinesesimp>
+        </Key>
+        <Key ID="STR_3DEN_Messages_steamCompositionUnsubscribe">
+          <Original>Do you want to unsubscribe from the composition?</Original>
+          <Chinese>是否要取消訂閱這個結構？</Chinese>
+          <Chinesesimp>您是否要取消订阅该组合？</Chinesesimp>
         </Key>
       </Container>
       <Container name="Marker">
@@ -5367,15 +5422,15 @@
               <Chinese>自動群組</Chinese>
               <Chinesesimp>自动编组</Chinesesimp>
             </Key>
-            <Key ID="str_3den_preferences_attribute_cameraadaptivespeed_displayname">
-              <Original>Adaptive Speed</Original>
-              <Chinese>自適應速度</Chinese>
-              <Chinesesimp>自适应速度</Chinesesimp>
+            <Key ID="str_3den_preferences_attribute_autolayer_displayname">
+              <Original>Automatic Composition Layering</Original>
+              <Chinese>自動結構分層</Chinese>
+              <Chinesesimp>自动组合分层</Chinesesimp>
             </Key>
-            <Key ID="str_3den_preferences_attribute_cameraadaptivespeed_tooltip">
-              <Original>When enabled, the camera speed will be based on altitude above surface. The greater the altitude, the faster the speed.</Original>
-              <Chinese>當開啟時，攝影機的移動速度將根據地表高度來進行調整。高度越高，攝影機的移動速度就越快。</Chinese>
-              <Chinesesimp>当开启时，摄影机的移动速度将根据地表高度来进行调整。高度越高，摄影机的移动速度就越快。</Chinesesimp>
+            <Key ID="str_3den_preferences_attribute_autolayer_tooltip">
+              <Original>When enabled, any placed compositions (custom or otherwise) will have their entities grouped into a new layer.</Original>
+              <Chinese>啟動本功能後，所有已放置的結構（無論是否為自訂）會將其對象分組納入新的圖層。</Chinese>
+              <Chinesesimp>启用后，任何放置好的组合（自定义或其他）都会将其实体组合成一个新层。</Chinesesimp>
             </Key>
             <Key ID="str_3den_preferences_attribute_startrandom_displayname">
               <Original>Start on Random Position</Original>
@@ -5386,6 +5441,16 @@
               <Original>When enabled, the camera will start on a random position after launching the editor or loading a different terrain.</Original>
               <Chinese>當本功能開啟時，編輯器會在開啟或讀取地形後隨機選擇一個攝影機位置。</Chinese>
               <Chinesesimp>当本功能开启时，编辑器会在开启或读取地形后随机选择一个摄影机位置。</Chinesesimp>
+            </Key>
+            <Key ID="str_3den_preferences_attribute_cameraadaptivespeed_displayname">
+              <Original>Adaptive Speed</Original>
+              <Chinese>自適應速度</Chinese>
+              <Chinesesimp>自适应速度</Chinesesimp>
+            </Key>
+            <Key ID="str_3den_preferences_attribute_cameraadaptivespeed_tooltip">
+              <Original>When enabled, the camera speed will be based on altitude above surface. The greater the altitude, the faster the speed.</Original>
+              <Chinese>當開啟時，攝影機的移動速度將根據地表高度來進行調整。高度越高，攝影機的移動速度就越快。</Chinese>
+              <Chinesesimp>当开启时，摄影机的移动速度将根据地表高度来进行调整。高度越高，摄影机的移动速度就越快。</Chinesesimp>
             </Key>
             <Key ID="str_3den_preferences_attribute_camerazoomspeedmod_displayname">
               <Original>Mouse wheel Sensitivity</Original>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="Arma3">
   <Package name="Language_Beta">
     <Container name="FieldManual">
@@ -3156,6 +3156,26 @@
           <Chinese>模塊將會向上射擊曳光彈，用來製造戰鬥的假象。</Chinese>
           <Chinesesimp>模块将会向上射击曳光弹，用来制造战斗的假象。</Chinesesimp>
         </Key>
+        <Key ID="str_a3_cfgvehicles_moduletracers_f_arguments_weapon2">
+          <Original>Weapon classname</Original>
+          <Chinese>武器等級名稱</Chinese>
+          <Chinesesimp>武器类名</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_moduletracers_f_arguments_weapon0">
+          <Original>Custom Weapon</Original>
+          <Chinese>個人化武器</Chinese>
+          <Chinesesimp>自定义武器</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_moduletracers_f_arguments_target2">
+          <Original>Can be position ASL or Object</Original>
+          <Chinese>可放置在物體或海平面上</Chinese>
+          <Chinesesimp>可以是海拔或对象位置</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_moduletracers_f_arguments_target0">
+          <Original>Custom Target</Original>
+          <Chinese>個人化目標</Chinese>
+          <Chinesesimp>自定义目标</Chinesesimp>
+        </Key>
         <Key ID="str_a3_cfgvehicles_moduletracers_f_arguments_side_values_west_0">
           <Original>Red (used by BLUFOR)</Original>
           <Chinese>紅色(藍方使用)</Chinese>
@@ -3185,6 +3205,16 @@
           <Original>Max. delay</Original>
           <Chinese>最大延遲</Chinese>
           <Chinesesimp>最大延迟</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_moduletracers_f_arguments_magazine2">
+          <Original>Magazine classname</Original>
+          <Chinese>彈匣等級名稱</Chinese>
+          <Chinesesimp>弹匣类名</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_moduletracers_f_arguments_magazine0">
+          <Original>Custom Magazine</Original>
+          <Chinese>個人化彈匣</Chinese>
+          <Chinesesimp>自定义弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduletracers_f_0">
           <Original>Tracers</Original>
@@ -4564,6 +4594,38 @@ Rules of Engagement are up to you:&lt;br /&gt;
         <Original>Proceed to "%1"?</Original>
         <Chinese>前往""%1""?</Chinese>
         <Chinesesimp>前往""%1""？</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Achievements">
+      <Key ID="STR_A3_AchHardcore_Description">
+        <Original>Played Arma 3 for 200 hours.</Original>
+        <Chinese>暢玩《Arma 3》200 小時。</Chinese>
+        <Chinesesimp>已畅玩《Arma 3》200 小时。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_AchHardcore_Title">
+        <Original>Loyalist</Original>
+        <Chinese>忠誠派</Chinese>
+        <Chinesesimp>忠诚分子</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_AchFD14Gold_Description">
+        <Original>Cleared the CoF: Gray Firing Drill in under 2:00.</Original>
+        <Chinese>完成射擊試煉：在 2:00 內通過射擊訓練。</Chinese>
+        <Chinesesimp>2 小时内通过“射击课程：灰色射击操练”。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_AchFD14Gold_Title">
+        <Original>Fortress of Fun</Original>
+        <Chinese>歡樂要塞</Chinese>
+        <Chinesesimp>快乐堡垒</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_AchGamePlayedTwo_Description">
+        <Original>Played Arma 3 after its 2.00 platform update.</Original>
+        <Chinese>在 2.00 平台更新後暢玩《Arma 3》。</Chinese>
+        <Chinesesimp>已畅玩 2.00 平台更新后的《Arma 3》</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_AchGamePlayedTwo_Title">
+        <Original>This is War 2.00</Original>
+        <Chinese>這就是戰爭 2.00</Chinese>
+        <Chinesesimp>This is War 2.00</Chinesesimp>
       </Key>
     </Container>
     <Container name="Sounds_F">

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="Arma3">
   <Package name="Language_Exp">
     <Container name="Data_F">
@@ -253,10 +253,10 @@
           <Chinese>"麒麟"輕型突擊車(無武裝)</Chinese>
           <Chinesesimp>"麒麟"轻型突击车（无武装）</Chinesesimp>
         </Key>
-        <Key ID="str_a3_cfgvehicles_lsv_01_unarmed_base_f0">
-          <Original>Prowler (Unarmed)</Original>
-          <Chinese>"徘徊者"輕型突擊車(無武裝)</Chinese>
-          <Chinesesimp>"徘徊者"轻型突击车（无武装）</Chinesesimp>
+        <Key ID="str_a3_cfgvehicles_lsv_02_at_base_f0">
+          <Original>Qilin (AT)</Original>
+          <Chinese>Qilin（反坦克）</Chinese>
+          <Chinesesimp>Qilin（反坦克）</Chinesesimp>
         </Key>
         <Key ID="str_a3_i_c_offroad_02_unarmed_brown_f0">
           <Original>MB 4WD (Brown)</Original>
@@ -338,10 +338,10 @@
           <Chinese>"麒麟"輕型突擊車</Chinese>
           <Chinesesimp>"麒麟"轻型突击车</Chinesesimp>
         </Key>
-        <Key ID="str_a3_cfgvehicles_i_c_van_01_transport_syndikat_f0">
-          <Original>Truck (Olive)</Original>
-          <Chinese>卡車(橄欖色)</Chinese>
-          <Chinesesimp>卡车（橄榄色）</Chinesesimp>
+        <Key ID="str_a3_cfgvehicles_lsv_01_unarmed_base_f0">
+          <Original>Prowler (Unarmed)</Original>
+          <Chinese>"徘徊者"輕型突擊車(無武裝)</Chinese>
+          <Chinesesimp>"徘徊者"轻型突击车（无武装）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_offroad_02_base_f0">
           <Original>MB 4WD</Original>
@@ -353,6 +353,11 @@
           <Chinese>四輪驅動越野車</Chinese>
           <Chinesesimp>四轮驱动越野车</Chinesesimp>
         </Key>
+        <Key ID="str_a3_cfgvehicles_lsv_01_at_base_f0">
+          <Original>Prowler (AT)</Original>
+          <Chinese>Prowler（反坦克）</Chinese>
+          <Chinesesimp>Prowler（反坦克）</Chinesesimp>
+        </Key>
         <Key ID="str_a3_cfgvehicles_lsv_02_armed_base_f0">
           <Original>Qilin (Armed)</Original>
           <Chinese>"麒麟"輕型突擊車(武裝)</Chinese>
@@ -363,10 +368,10 @@
           <Chinese>"徘徊者"輕型突擊車(輕型)</Chinese>
           <Chinesesimp>"徘徊者"轻型突击车（轻型）</Chinesesimp>
         </Key>
-        <Key ID="str_a3_cfgvehicles_boat_transport_02_base_f0">
-          <Original>RHIB</Original>
-          <Chinese>硬殼充氣快艇</Chinese>
-          <Chinesesimp>硬壳充气快艇</Chinesesimp>
+        <Key ID="str_a3_cfgvehicles_i_c_van_01_transport_syndikat_f0">
+          <Original>Truck (Olive)</Original>
+          <Chinese>卡車(橄欖色)</Chinese>
+          <Chinesesimp>卡车（橄榄色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_lsv_01_hmg_F0">
           <Original>Prowler (HMG)</Original>
@@ -378,35 +383,50 @@
           <Chinese>"徘徊者"輕型突擊車</Chinese>
           <Chinesesimp>"徘徊者"轻型突击车</Chinesesimp>
         </Key>
-        <Key ID="str_a3_cfgvehicles_c_plane_civil_01_f0">
-          <Original>Caesar BTT</Original>
-          <Chinese>"凱撒"BTT單引擎飛機</Chinese>
-          <Chinesesimp>"凯撒"BTT 单引擎飞机</Chinesesimp>
+        <Key ID="str_a3_cfgvehicles_i_c_offroad_02_lmg_f0">
+          <Original>MB 4WD (LMG)</Original>
+          <Chinese>MB 4WD（輕機槍）</Chinese>
+          <Chinesesimp>MB 4WD（轻机枪）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_i_c_offroad_02_at_f0">
+          <Original>MB 4WD (AT)</Original>
+          <Chinese>MB 4WD（反坦克）</Chinese>
+          <Chinesesimp>MB 4WD（反坦克）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_lsv_01_armed_base_f0">
           <Original>Prowler (Armed)</Original>
           <Chinese>"徘徊者"輕型突擊車(武裝)</Chinese>
           <Chinesesimp>"徘徊者"轻型突击车（武装）</Chinesesimp>
         </Key>
-        <Key ID="str_a3_cfgvehicles_c_plane_civil_01_racing_f0">
-          <Original>Caesar BTT (Racing)</Original>
-          <Chinese>"凱撒"BTT單引擎飛機(競速)</Chinese>
-          <Chinesesimp>"凯撒"BTT 单引擎飞机（竞速）</Chinesesimp>
+        <Key ID="str_a3_cfgvehicles_boat_transport_02_base_f0">
+          <Original>RHIB</Original>
+          <Chinese>硬殼充氣快艇</Chinese>
+          <Chinesesimp>硬壳充气快艇</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_c_plane_civil_01_f0">
           <Original>Caesar BTT</Original>
           <Chinese>"凱撒"BTT單引擎飛機</Chinese>
           <Chinesesimp>"凯撒"BTT 单引擎飞机</Chinesesimp>
         </Key>
-        <Key ID="str_a3_cfgvehicles_b_ctrg_heli_transport_01_tropic_f0">
-          <Original>UH-80 Ghost Hawk (Tropic)</Original>
-          <Chinese>UH-80"鬼鷹"運輸直升機(熱帶迷彩)</Chinese>
-          <Chinesesimp>UH-80"幽灵鹰"运输直升机（热带迷彩）</Chinesesimp>
+        <Key ID="str_a3_cfgvehicles_c_plane_civil_01_f0">
+          <Original>Caesar BTT</Original>
+          <Chinese>"凱撒"BTT單引擎飛機</Chinese>
+          <Chinesesimp>"凯撒"BTT 单引擎飞机</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_c_van_01_transport_brown_f0">
           <Original>Truck (Brown)</Original>
           <Chinese>卡車(棕色)</Chinese>
           <Chinesesimp>卡车（棕色）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_c_plane_civil_01_racing_f0">
+          <Original>Caesar BTT (Racing)</Original>
+          <Chinese>"凱撒"BTT單引擎飛機(競速)</Chinese>
+          <Chinesesimp>"凯撒"BTT 单引擎飞机（竞速）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_b_ctrg_heli_transport_01_tropic_f0">
+          <Original>UH-80 Ghost Hawk (Tropic)</Original>
+          <Chinese>UH-80"鬼鷹"運輸直升機(熱帶迷彩)</Chinese>
+          <Chinesesimp>UH-80"幽灵鹰"运输直升机（热带迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_ctrg_heli_transport_01_sand_f0">
           <Original>UH-80 Ghost Hawk (Sand)</Original>
@@ -3604,6 +3624,11 @@
           <Chinese>潛行戰鬥頭盔</Chinese>
           <Chinesesimp>潜行战斗头盔</Chinesesimp>
         </Key>
+        <Key ID="str_a3_cfgweapons_h_helmetb_ti_arid_f0">
+          <Original>Stealth Combat Helmet (Arid)</Original>
+          <Chinese>潛行戰鬥頭盔（乾燥氣候）</Chinese>
+          <Chinesesimp>隐形战斗头盔（干旱）</Chinesesimp>
+        </Key>
         <Key ID="str_a3_cfgweapons_h_beret_gen_f0">
           <Original>Beret (Gendarmerie)</Original>
           <Chinese>貝雷帽(憲兵隊)</Chinese>
@@ -3863,15 +3888,30 @@
           <Chinese>戰研大隊潛行制服</Chinese>
           <Chinesesimp>战研大队潜行制服</Chinesesimp>
         </Key>
+        <Key ID="str_a3_u_b_ctrg_soldier_arid_f0">
+          <Original>CTRG Stealth Uniform (Arid)</Original>
+          <Chinese>CTRG 潛行服（乾燥氣候）</Chinese>
+          <Chinesesimp>CTRG 隐形制服（干旱）</Chinesesimp>
+        </Key>
         <Key ID="str_a3_u_b_ctrg_soldier_3_f0">
           <Original>CTRG Stealth Uniform (Rolled-up)</Original>
           <Chinese>戰研大隊潛行制服(捲袖)</Chinese>
           <Chinesesimp>战研大队潜行制服（卷袖）</Chinesesimp>
         </Key>
+        <Key ID="str_a3_u_b_ctrg_soldier_3_arid_f0">
+          <Original>CTRG Stealth Uniform (Rolled-up, Arid)</Original>
+          <Chinese>CTRG 潛行服（捲袖，乾燥氣候）</Chinese>
+          <Chinesesimp>CTRG 隐形制服（卷起，干旱）</Chinesesimp>
+        </Key>
         <Key ID="str_a3_u_b_ctrg_soldier_2_f0">
           <Original>CTRG Stealth Uniform (Tee)</Original>
           <Chinese>戰研大隊潛行制服(短袖)</Chinese>
           <Chinesesimp>战研大队潜行制服（短袖）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_u_b_ctrg_soldier_2_arid_f0">
+          <Original>CTRG Stealth Uniform (Tee, Arid)</Original>
+          <Chinese>CTRG 潛行服（T 恤，乾燥氣候）</Chinese>
+          <Chinesesimp>CTRG 隐形制服（T 恤，干旱）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Syndikat">
@@ -6213,6 +6253,11 @@
           <Chinese>P07 9公厘(卡其色)</Chinese>
           <Chinesesimp>P07 9mm（卡其色）</Chinesesimp>
         </Key>
+        <Key ID="str_a3_cfgweapons_hgun_p07_blk_f0">
+          <Original>P07 9 mm (Black)</Original>
+          <Chinese>P07 9 mm（黑色）</Chinese>
+          <Chinesesimp>P07 9 毫米（黑色）</Chinesesimp>
+        </Key>
       </Container>
       <Container name="Rifles">
         <Key ID="str_a3_cfgweapons_arifle_spar_03_snd_f0">
@@ -6862,6 +6907,16 @@
           <Chinese>7.62公厘30發重新裝填曳光彈(黃色)彈匣</Chinese>
           <Chinesesimp>7.62 mm 30发装填指示曳光弹（黄色）弹匣</Chinesesimp>
         </Key>
+        <Key ID="str_a3_cfgmagazines_30rnd_762x39_ak12_mag_tracer_f0">
+          <Original>7.62 mm 30rnd AK12 Tracer Mag</Original>
+          <Chinese>7.62 mm 30 發 AK12 曳光彈彈匣</Chinese>
+          <Chinesesimp>7.62 毫米 30 发 AK12 曳光弹弹匣</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgmagazines_30rnd_762x39_ak12_mag_f0">
+          <Original>7.62 mm 30rnd AK12 Mag </Original>
+          <Chinese>7.62 mm 30 發 AK12 彈匣 </Chinese>
+          <Chinesesimp>7.62 毫米 30 发 AK12 弹匣 </Chinesesimp>
+        </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_580x42_mag_tracer_f0">
           <Original>5.8 mm 30Rnd Tracer (Green) Mag</Original>
           <Chinese>5.8公厘30發曳光彈(綠色)彈匣</Chinese>
@@ -6937,6 +6992,16 @@
           <Chinese>5.56公厘200發重新裝填曳光彈(黃色)彈盒</Chinese>
           <Chinesesimp>5.56 mm 200发装填指示曳光弹（黄色）弹盒</Chinesesimp>
         </Key>
+        <Key ID="str_a3_cfgmagazines_150rnd_556x45_drum_sand_mag_tracer_f0">
+          <Original>5.56 mm 150Rnd Tracer (Red) Sand Mag</Original>
+          <Chinese>5.56 mm 150 發曳光彈（紅）沙色彈匣</Chinese>
+          <Chinesesimp>5.56 毫米 150 发曳光弹（红色）沙色弹匣</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgmagazines_150rnd_556x45_drum_sand_mag_f0">
+          <Original>5.56 mm 150Rnd Sand Mag</Original>
+          <Chinese>5.56 mm 150 發沙色彈匣</Chinese>
+          <Chinesesimp>5.56 毫米 150 发沙色弹匣</Chinesesimp>
+        </Key>
         <Key ID="str_a3_cfgmagazines_150rnd_556x45_drum_mag_tracer_f0">
           <Original>5.56 mm 150Rnd Tracer (Red) Mag</Original>
           <Chinese>5.56公厘150發曳光彈(紅色)彈匣</Chinese>
@@ -6951,6 +7016,16 @@
           <Original>5.56 mm 150Rnd Mag</Original>
           <Chinese>5.56公厘150發彈匣</Chinese>
           <Chinesesimp>5.56 mm 150发弹匣</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgmagazines_150rnd_556x45_drum_green_mag_tracer_f0">
+          <Original>5.56 mm 150Rnd Tracer (Red) Green Mag</Original>
+          <Chinese>5.56 mm 150 發曳光彈（紅）綠色彈匣</Chinese>
+          <Chinesesimp>5.56 毫米 150 发曳光弹（红色）绿色弹匣</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgmagazines_150rnd_556x45_drum_green_mag_f0">
+          <Original>5.56 mm 150Rnd Green Mag</Original>
+          <Chinese>5.56 mm 150 發綠色彈匣</Chinese>
+          <Chinesesimp>5.56 毫米 150 发绿色弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_9x21_mag1">
           <Original>Caliber: 9x21 mm&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: PM</Original>
@@ -6986,6 +7061,26 @@
           <Original>5.8 mm 100Rnd Mag</Original>
           <Chinese>5.8公厘100發彈匣</Chinese>
           <Chinesesimp>5.8 mm 100发弹匣</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgmagazines_100rnd_580x42_hex_mag_tracer_f0">
+          <Original>5.8 mm 100Rnd Tracer (Green) Hex Mag</Original>
+          <Chinese>5.8 mm 100 發曳光彈（綠）六邊形花色彈匣</Chinese>
+          <Chinesesimp>5.8 毫米 100 发曳光弹（绿色）六角形弹匣</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgmagazines_100rnd_580x42_hex_mag_f0">
+          <Original>5.8 mm 100Rnd Hex Mag</Original>
+          <Chinese>5.8 mm 100 發六邊形花色彈匣</Chinese>
+          <Chinesesimp>5.8 毫米 100 发六角形弹匣</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgmagazines_100rnd_580x42_ghex_mag_tracer_f0">
+          <Original>5.8 mm 100Rnd Tracer (Green) Green Hex Mag</Original>
+          <Chinese>5.8 mm 100 發曳光彈（綠）六邊形綠色彈匣</Chinese>
+          <Chinesesimp>5.8 毫米 100 发曳光弹（绿色）绿色六角形弹匣</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgmagazines_100rnd_580x42_ghex_mag_f0">
+          <Original>5.8 mm 100Rnd Green Hex Mag</Original>
+          <Chinese>5.8 mm 100 發六邊形綠色彈匣</Chinese>
+          <Chinesesimp>5.8 毫米 100 发绿色六角形弹匣</Chinesesimp>
         </Key>
       </Container>
       <Container name="Pylons">

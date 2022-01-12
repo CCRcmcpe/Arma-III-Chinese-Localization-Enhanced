@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="Arma3">
   <Package name="Language_Curator">
     <Container name="UI_F_Curator">
@@ -341,6 +341,21 @@
           <Original>COUNTDOWN SET</Original>
           <Chinese>設置倒數</Chinese>
           <Chinesesimp>设置倒数</Chinesesimp>
+        </Key>
+        <Key ID="STR_A3_CfgNotifications_AddRespawnFailed">
+          <Original>Cannot assign to a player</Original>
+          <Chinese>無法指派給玩家</Chinese>
+          <Chinesesimp>无法分配至玩家</Chinesesimp>
+        </Key>
+        <Key ID="STR_A3_CfgNotifications_AddRespawnSucceeded">
+          <Original>Assigned to %1</Original>
+          <Chinese>已指派至 %1</Chinese>
+          <Chinesesimp>分配至 %1</Chinesesimp>
+        </Key>
+        <Key ID="STR_A3_CfgNotifications_AddRespawnTitle">
+          <Original>Respawn Camp</Original>
+          <Chinese>重生營地</Chinese>
+          <Chinesesimp>重生营地</Chinesesimp>
         </Key>
       </Container>
       <Container name="cfgMarkers">
@@ -2039,6 +2054,11 @@
           <Original>Cannot changle player side</Original>
           <Chinese>無法改變玩家陣營</Chinese>
           <Chinesesimp>无法改变玩家阵营</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_bis_fnc_showcuratorfeedbackmessage_104">
+          <Original>One or several entities in the composition are not compatible and were skipped.</Original>
+          <Chinese>結構內一個或以上實體不兼容；已經跳過相應的實體。</Chinese>
+          <Chinesesimp>该组合中一个或多个实体不兼容，因此已被跳过。</Chinesesimp>
         </Key>
       </Container>
     </Container>

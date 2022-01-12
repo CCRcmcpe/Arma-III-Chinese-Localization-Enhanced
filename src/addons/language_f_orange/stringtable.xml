@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="Arma3">
   <Package name="Language_Orange">
     <Container name="Data_F">
@@ -596,10 +596,20 @@
       </Key>
     </Container>
     <Container name="Weapons_F">
+      <Key ID="str_a3_pylonrack_4rnd_bombdemine_01_f1">
+        <Original>500 g, Crovex water-gel, special-purpose demining explosive</Original>
+        <Chinese>500 g，Crovex 水凝膠排雷專用炸藥</Chinese>
+        <Chinesesimp>500 g，Crovex 水胶炸药，专用排雷炸药</Chinesesimp>
+      </Key>
       <Key ID="str_a3_pylonrack_4rnd_bombdemine_01_f0">
         <Original>Demining Charge</Original>
         <Chinese>排雷炸藥</Chinese>
         <Chinesesimp>排雷炸药</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_pylonrack_4rnd_bombdemine_01_dummy_f1">
+        <Original>Non-lethal pyrotechnic charge for demonstration purposes</Original>
+        <Chinese>展示用的非致命煙火彈</Chinese>
+        <Chinesesimp>展示用的非致命性烟花弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylonrack_4rnd_bombdemine_01_dummy_f0">
         <Original>Demining Charge (Dummy)</Original>
@@ -630,6 +640,11 @@
         <Original>CBU-85 Cluster x1</Original>
         <Chinese>CBU-85集束炸彈x1</Chinese>
         <Chinesesimp>CBU-85集束炸弹x1</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_pylon_1rnd_leaflets_west_f1">
+        <Original>Paper leaflets with important information printed on them</Original>
+        <Chinese>列印有重要資訊的傳單</Chinese>
+        <Chinesesimp>印有重要信息的纸质传单</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_west_f0">
         <Original>Leaflets (NATO)</Original>
@@ -1016,6 +1031,16 @@
         <Original>CLEAR MINES</Original>
         <Chinese>清除地雷</Chinese>
         <Chinesesimp>清除地雷</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_CfgWaypoints_A3_Demine_Attributes_ClearUnknown_displayName">
+        <Original>Deactivate All Mines</Original>
+        <Chinese>解除所有地雷</Chinese>
+        <Chinesesimp>拆除所有地雷</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_CfgWaypoints_A3_Demine_Attributes_ClearUnknown_tooltip">
+        <Original>When checked, the group will clear all mines in the area, otherwise it will target only mines known to the group's side.</Original>
+        <Chinese>勾選後，團隊會解除區域中的所有地雷，否則只會拆除團隊已知的地雷。</Chinese>
+        <Chinesesimp>勾选后，团队将清除该区域的所有地雷，否则它只会针对团队一方已知的地雷。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Props_F">
@@ -4198,6 +4223,13 @@
         <Original>Laws of War DLC: Scenario Completed</Original>
         <Chinese>戰爭法資料片:大功告成</Chinese>
         <Chinesesimp>战争法 DLC：场景已完成</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Modules_F">
+      <Key ID="STR_A3_CfgVehicles_ModuleCASBomb_F">
+        <Original>CAS - Bomb Strike</Original>
+        <Chinese>密接空中支援－－炸彈攻擊</Chinese>
+        <Chinesesimp>CAS - 炸弹攻击</Chinesesimp>
       </Key>
     </Container>
   </Package>

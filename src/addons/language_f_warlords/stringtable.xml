@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="Arma3">
   <Package name="Language_Warlords">
     <Container name="ScenarioNames">
@@ -36,6 +36,11 @@
         <Original>SC 16 Warlords</Original>
         <Chinese>区域控制16軍閥</Chinese>
         <Chinesesimp>区域控制16军阀</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_wl_scenario_name_3_ver2">
+        <Original>SC 48 Warlords (Whole Island)</Original>
+        <Chinese>SC 48 Warlords（全島）</Chinese>
+        <Chinesesimp>SC 48 Warlords（全岛）</Chinesesimp>
       </Key>
     </Container>
     <Container name="ModuleTexts">
@@ -303,7 +308,6 @@
         <Original>BLUFOR Faction Config</Original>
         <Chinese>藍方派系設定</Chinese>
         <Chinesesimp>蓝方阵营配置</Chinesesimp>
-
       </Key>
       <Key ID="str_a3_wl_param16_desc">
         <Original>Faction config name; will be used to spawn sector garrisons.</Original>
@@ -1052,6 +1056,11 @@
         <Chinese>挑選目的地</Chinese>
         <Chinesesimp>目的地的选择</Chinesesimp>
       </Key>
+      <Key ID="str_a3_wl_tooltip_deploy_enemies_nearby">
+        <Original>Cannot deploy defences with enemies nearby.</Original>
+        <Chinese>附近有敵人，無法拉起防線。</Chinese>
+        <Chinesesimp>附近有敌人时无法部署防御装备。</Chinesesimp>
+      </Key>
     </Container>
     <Container name="Misc">
       <Key ID="str_a3_wl_unit_km">
@@ -1064,10 +1073,25 @@
         <Chinese>指揮點數</Chinese>
         <Chinesesimp>指挥点数</Chinesesimp>
       </Key>
+      <Key ID="str_a3_wl_tip_max_autonomous">
+        <Original>Only %1 autonomous assets per player can be active simultaneously.</Original>
+        <Chinese>同一時間內，每位玩家的自動化資產僅限 %1 台在活動。</Chinese>
+        <Chinesesimp>每个玩家只有 %1 的自主资产可同时处于激活状态。</Chinesesimp>
+      </Key>
       <Key ID="str_a3_wl_scenario_name_8">
         <Original>SC 32 Warlords</Original>
         <Chinese>區域控制32軍閥</Chinese>
         <Chinesesimp>区域控制32军阀</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_wl_param_scan_timeout_tip">
+        <Original>Each sector has its own cooldown. Time is in seconds.</Original>
+        <Chinese>每個分區各自計算冷卻時間。單位為秒。</Chinese>
+        <Chinesesimp>每个防区都有各自的冷却期。时间以秒计。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_wl_param_scan_timeout">
+        <Original>Sector scan cooldown</Original>
+        <Chinese>分區掃描冷卻時間</Chinese>
+        <Chinesesimp>防区扫描冷却</Chinesesimp>
       </Key>
       <Key ID="str_a3_wl_module_subordinates_limit_title">
         <Original>Subordinates limit</Original>
@@ -1119,32 +1143,30 @@
         <Chinese>可重設防區攻擊投票。</Chinese>
         <Chinesesimp>可重置防区进攻投票。</Chinesesimp>
       </Key>
-      <Key ID="str_a3_wl_menu_resetvoting">
-        <Original>Reset sector voting</Original>
-        <Chinese>重設防區投票</Chinese>
-        <Chinesesimp>重置防区投票</Chinesesimp>
-        <Turkish>Mıntıka oylamasını sıfırla</Turkish>
-      </Key>
-      <Key ID="str_a3_wl_moddescription">
-        <Original>%11%1Warlords is a fully modular and vastly scalable multiplayer mode where players participate in a %3Capture the Island%4 scenario through %3sector control%4. It offers both COOP and PVP gameplay, as well as a Singleplayer experience with AI teammates and opponents.%1%1BLUFOR and OPFOR are tasked with securing sectors guarded by the Independent faction. These sectors form a link between bases and generate Command Points which can then be used as currency to purchase additional troops, hardware, or other strategic advantages, such as fast travel. The first faction to capture the opposing side's starting base wins the match.</Original>
-        <Chinese>%11%1軍閥是一個可大幅延展的全模組式多人遊戲模式，在此模式下，玩家將透過%3防區控制%4參與%3Capture the Island%4場景。它提供合作和PVP兩種遊戲玩法，並透過AI隊員和對手賦予單人遊戲體驗。%1%1藍方和紅方的任務是奪取由獨立陣營把守的防區。這些防區將基地銜接起來，並能生成指揮點數，用作貨幣來購買額外的部隊、裝備或其他戰略優勢，如快速行進。最先奪取敵方初始基地的陣營將在比賽中獲勝。</Chinese>
-        <Chinesesimp>%11%1军阀是一个可大幅扩展的全模块式多人游戏模式，在此模式下，玩家将通过%3防区控制%4参与%3Capture the Island%4场景。它提供合作和 PVP 两种游戏玩法，并在 AI 队员和对手的配合下赋予单人游戏体验。%1%1蓝方和红方的任务是夺取由独立阵营守卫的防区。这些防区将基地连接起来，并能生成指挥点数，用作货币来购买更多部队、装备或其他战略优势，如快速行进。最先夺取敌方初始基地的阵营将赢得比赛。</Chinesesimp>
- 
-      </Key>
       <Key ID="str_a3_wl_popup_voting_reset_user">
         <Original>Sector voting reset by %1.</Original>
         <Chinese>防區投票已由%1重設。</Chinese>
         <Chinesesimp>防区投票已由%1重置。</Chinesesimp>
       </Key>
-      <Key ID="str_a3_wl_menu_arsenal_restr1">
-        <Original>Can only be used inside an owned sector.</Original>
-        <Chinese>只能用於已佔有的防區之內。</Chinese>
-        <Chinesesimp>仅可用于已占有的防区之内。</Chinesesimp>
+      <Key ID="str_a3_wl_menu_resetvoting">
+        <Original>Reset sector voting</Original>
+        <Chinese>重設防區投票</Chinese>
+        <Chinesesimp>重置防区投票</Chinesesimp>
       </Key>
       <Key ID="str_a3_wl_popup_base_safe">
         <Original>Fast travel to base re-enabled.%1%1Respawn position moved back to the base.</Original>
         <Chinese>快速行進到重新啟用的基地。%1%1重生位置移回基地。</Chinese>
         <Chinesesimp>快速行进到重新启用的基地。%1%1重生位置转回基地。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_wl_moddescription">
+        <Original>%11%1Warlords is a fully modular and vastly scalable multiplayer mode where players participate in a %3Capture the Island%4 scenario through %3sector control%4. It offers both COOP and PVP gameplay, as well as a Singleplayer experience with AI teammates and opponents.%1%1BLUFOR and OPFOR are tasked with securing sectors guarded by the Independent faction. These sectors form a link between bases and generate Command Points which can then be used as currency to purchase additional troops, hardware, or other strategic advantages, such as fast travel. The first faction to capture the opposing side's starting base wins the match.</Original>
+        <Chinese>%11%1軍閥是一個可大幅延展的全模組式多人遊戲模式，在此模式下，玩家將透過%3防區控制%4參與%3Capture the Island%4場景。它提供合作和PVP兩種遊戲玩法，並透過AI隊員和對手賦予單人遊戲體驗。%1%1藍方和紅方的任務是奪取由獨立陣營把守的防區。這些防區將基地銜接起來，並能生成指揮點數，用作貨幣來購買額外的部隊、裝備或其他戰略優勢，如快速行進。最先奪取敵方初始基地的陣營將在比賽中獲勝。</Chinese>
+        <Chinesesimp>%11%1军阀是一个可大幅扩展的全模块式多人游戏模式，在此模式下，玩家将通过%3防区控制%4参与%3Capture the Island%4场景。它提供合作和 PVP 两种游戏玩法，并在 AI 队员和对手的配合下赋予单人游戏体验。%1%1蓝方和红方的任务是夺取由独立阵营守卫的防区。这些防区将基地连接起来，并能生成指挥点数，用作货币来购买更多部队、装备或其他战略优势，如快速行进。最先夺取敌方初始基地的阵营将赢得比赛。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_wl_menu_arsenal_restr1">
+        <Original>Can only be used inside an owned sector.</Original>
+        <Chinese>只能用於已佔有的防區之內。</Chinese>
+        <Chinesesimp>仅可用于已占有的防区之内。</Chinesesimp>
       </Key>
       <Key ID="str_a3_wl_modmoreinfo">
         <Original>More about Warlords Update</Original>
@@ -1156,10 +1178,55 @@
         <Chinese>只有在基地遭到攻擊時才能在基地內埋藏地雷。</Chinese>
         <Chinesesimp>仅在您的基地遭受攻击时才允许在基地内装备地雷。</Chinesesimp>
       </Key>
+      <Key ID="str_a3_wl_feature_unlock_all_msg">
+        <Original>Vehicles unlocked</Original>
+        <Chinese>已解鎖載具</Chinese>
+        <Chinesesimp>载具已解锁</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_wl_feature_unlock_all">
+        <Original>Unlock all your vehicles</Original>
+        <Chinese>解鎖您的全部載具</Chinese>
+        <Chinesesimp>解锁你的所有载具</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_wl_feature_lock_all_msg">
+        <Original>Vehicles locked</Original>
+        <Chinese>已鎖住載具</Chinese>
+        <Chinesesimp>载具已锁定</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_wl_feature_lock_all">
+        <Original>Lock all your vehicles</Original>
+        <Chinese>鎖住您的全部載具</Chinese>
+        <Chinesesimp>锁定你的所有载具</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_wl_feature_dismiss_selected">
+        <Original>Dismiss selected subordinates</Original>
+        <Chinese>遣散所選的同伴</Chinese>
+        <Chinesesimp>解散选定的下属</Chinesesimp>
+      </Key>
       <Key ID="str_a3_wl_action_dismiss_teammate">
         <Original>Dismiss this unit</Original>
         <Chinese>解散此單位</Chinese>
         <Chinesesimp>解散此单元</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_WL_module_team_balance">
+        <Original>Team balancing</Original>
+        <Chinese>隊伍平衡</Chinese>
+        <Chinesesimp>队伍平衡</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_wl_param_cp_limit">
+        <Original>Command Points limit</Original>
+        <Chinese>指揮點數上限</Chinese>
+        <Chinesesimp>指挥点数限制</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_wl_param_cp_limit_desc">
+        <Original>Maximum amount of Command Points a unit can have. -1 = unlimited.</Original>
+        <Chinese>一個單位能擁有的最大指揮點數。-1 代表無限。</Chinese>
+        <Chinesesimp>一个单元可拥有的最大指挥点数。-1 = 无限制。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_WL_popup_team_balance">
+        <Original>Please switch to %1 faction to balance the teams.</Original>
+        <Chinese>請切換到 %1 派系，以平衡隊伍。</Chinese>
+        <Chinesesimp>请切换到 %1 阵营来平衡队伍。</Chinesesimp>
       </Key>
     </Container>
     <Container name="LocationNames">

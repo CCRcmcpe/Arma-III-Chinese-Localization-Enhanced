@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="Arma3">
   <Package name="Language_Mark">
     <Container name="Characters_F">
@@ -510,6 +510,116 @@
           <Chinese>目標移動靶5(前後)</Chinese>
           <Chinesesimp>目标移动靶5（前后）</Chinesesimp>
         </Key>
+        <Key ID="str_a3_target_popup_alien1_moving_f0">
+          <Original>Moving Alien 1 (Side)</Original>
+          <Chinese>移動外星人 1（側邊）</Chinese>
+          <Chinesesimp>移动的外星人 1（侧面）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup_alien1_moving_acc1_f0">
+          <Original>Moving Alien 1 (Side - Zones)</Original>
+          <Chinese>移動外星人 1（側邊 - 區域）</Chinese>
+          <Chinesesimp>移动的外星人 1（侧面 - 区域）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup_alien1_moving_90deg_f0">
+          <Original>Moving Alien 1 (Front)</Original>
+          <Chinese>移動外星人 1（前方）</Chinese>
+          <Chinesesimp>移动的外星人 1（正面）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup_alien1_moving_90deg_acc1_f0">
+          <Original>Moving Alien 1 (Front - Zones)</Original>
+          <Chinese>移動外星人 1（前方 - 區域）</Chinese>
+          <Chinesesimp>移动的外星人 1（正面 - 区域）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup9_moving_f0">
+          <Original>Moving Target 9 (Side)</Original>
+          <Chinese>移動目標 9（側邊）</Chinese>
+          <Chinesesimp>移动的目标 9（侧面）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup9_moving_acc2_f0">
+          <Original>Moving Target 9 (Side - Accuracy)</Original>
+          <Chinese>移動目標 9（側邊 - 準度圖）</Chinese>
+          <Chinesesimp>移动的目标 9（侧面 - 准确性）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup9_moving_acc1_f0">
+          <Original>Moving Target 9 (Side - Zones)</Original>
+          <Chinese>移動目標 9（側邊 - 區域）</Chinese>
+          <Chinesesimp>移动的目标 9（侧面 - 区域）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup9_moving_90deg_f0">
+          <Original>Moving Target 9 (Front)</Original>
+          <Chinese>移動目標 9（前方）</Chinese>
+          <Chinesesimp>移动的目标 9（正面）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup9_moving_90deg_acc2_f0">
+          <Original>Moving Target 9 (Front - Accuracy)</Original>
+          <Chinese>移動目標 9（前方 - 準度圖）</Chinese>
+          <Chinesesimp>移动的目标 9（正面 - 准确性）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup9_moving_90deg_acc1_f0">
+          <Original>Moving Target 9 (Front - Zones)</Original>
+          <Chinese>移動目標 9（前方 - 區域）</Chinese>
+          <Chinesesimp>移动的目标 9（正面 - 区域）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup8_moving_f0">
+          <Original>Moving Target 8 (Side)</Original>
+          <Chinese>移動目標 8（側邊）</Chinese>
+          <Chinesesimp>移动的目标 8（侧面）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup8_moving_acc2_f0">
+          <Original>Moving Target 8 (Side - Accuracy)</Original>
+          <Chinese>移動目標 8（側邊 - 準度圖）</Chinese>
+          <Chinesesimp>移动的目标 8（侧面 - 准确性）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup8_moving_acc1_f0">
+          <Original>Moving Target 8 (Side - Zones)</Original>
+          <Chinese>移動目標 8（側邊 - 區域）</Chinese>
+          <Chinesesimp>移动的目标 8（侧面 - 区域）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup8_moving_90deg_f0">
+          <Original>Moving Target 8 (Front)</Original>
+          <Chinese>移動目標 8（前方）</Chinese>
+          <Chinesesimp>移动的目标 8（正面）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup8_moving_90deg_acc2_f0">
+          <Original>Moving Target 8 (Front - Accuracy)</Original>
+          <Chinese>移動目標 8（前方 - 準度圖）</Chinese>
+          <Chinesesimp>移动的目标 8（正面 - 准确性）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup8_moving_90deg_acc1_f0">
+          <Original>Moving Target 8 (Front - Zones)</Original>
+          <Chinese>移動目標 8（前方 - 區域）</Chinese>
+          <Chinesesimp>移动的目标 8（正面 - 区域）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup7_moving_f0">
+          <Original>Moving Target 7 (Side)</Original>
+          <Chinese>移動目標 7（側邊）</Chinese>
+          <Chinesesimp>移动的目标 7（侧面）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup7_moving_acc2_f0">
+          <Original>Moving Target 7 (Side - Accuracy)</Original>
+          <Chinese>移動目標 7（側邊 - 準度圖）</Chinese>
+          <Chinesesimp>移动的目标 7（侧面 - 准确性）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup7_moving_acc1_f0">
+          <Original>Moving Target 7 (Side - Zones)</Original>
+          <Chinese>移動目標 7（側邊 - 區域）</Chinese>
+          <Chinesesimp>移动的目标 7（侧面 - 区域）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup7_moving_90deg_f0">
+          <Original>Moving Target 7 (Front)</Original>
+          <Chinese>移動目標 7（前方）</Chinese>
+          <Chinesesimp>移动的目标 7（正面）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup7_moving_90deg_acc2_f0">
+          <Original>Moving Target 7 (Front - Accuracy)</Original>
+          <Chinese>移動目標 7（前方 - 準度圖）</Chinese>
+          <Chinesesimp>移动的目标 7（正面 - 准确性）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_target_popup7_moving_90deg_acc1_f0">
+          <Original>Moving Target 7 (Front - Zones)</Original>
+          <Chinese>移動目標 7（前方 - 區域）</Chinese>
+          <Chinesesimp>移动的目标 7（正面 - 区域）</Chinesesimp>
+        </Key>
         <Key ID="str_a3_target_popup4_moving_f0">
           <Original>Moving Target 4 (Side)</Original>
           <Chinese>目標移動靶4(左右)</Chinese>
@@ -540,6 +650,51 @@
           <Chinese>目標移動靶4(前後-區塊)</Chinese>
           <Chinesesimp>目标移动靶4（前后—区块）</Chinesesimp>
         </Key>
+        <Key ID="str_a3_targetp_inf9_f0">
+          <Original>Pop-Up Target 9</Original>
+          <Chinese>彈出式目標 9</Chinese>
+          <Chinesesimp>弹出的目标 9</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_targetp_inf9_acc2_f0">
+          <Original>Pop-Up Target 9 (Accuracy)</Original>
+          <Chinese>彈出式目標 9（準度圖）</Chinese>
+          <Chinesesimp>弹出的目标 9（准确性）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_targetp_inf9_acc1_f0">
+          <Original>Pop-Up Target 9 (Zones)</Original>
+          <Chinese>彈出式目標 9（區域）</Chinese>
+          <Chinesesimp>弹出的目标 9（区域）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_targetp_inf8_f0">
+          <Original>Pop-Up Target 8</Original>
+          <Chinese>彈出式目標 8</Chinese>
+          <Chinesesimp>弹出的目标 8</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_targetp_inf8_acc2_f0">
+          <Original>Pop-Up Target 8 (Accuracy)</Original>
+          <Chinese>彈出式目標 8（準度圖）</Chinese>
+          <Chinesesimp>弹出的目标 8（准确性）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_targetp_inf8_acc1_f0">
+          <Original>Pop-Up Target 8 (Zones)</Original>
+          <Chinese>彈出式目標 8（區域）</Chinese>
+          <Chinesesimp>弹出的目标 8（区域）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_targetp_inf7_f0">
+          <Original>Pop-Up Target 7</Original>
+          <Chinese>彈出式目標 7</Chinese>
+          <Chinesesimp>弹出的目标 7</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_targetp_inf7_acc2_f0">
+          <Original>Pop-Up Target 7 (Accuracy)</Original>
+          <Chinese>彈出式目標 7（準度圖）</Chinese>
+          <Chinesesimp>弹出的目标 7（准确性）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_targetp_inf7_acc1_f0">
+          <Original>Pop-Up Target 7 (Zones)</Original>
+          <Chinese>彈出式目標 7（區域）</Chinese>
+          <Chinesesimp>弹出的目标 7（区域）</Chinesesimp>
+        </Key>
         <Key ID="str_a3_targetp_inf4_f0">
           <Original>Pop-Up Target 4</Original>
           <Chinese>目標練習靶4</Chinese>
@@ -564,6 +719,16 @@
           <Original>Pop-Up Target 5</Original>
           <Chinese>目標練習靶5</Chinese>
           <Chinesesimp>目标练习靶5</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_targetp_alien1_f0">
+          <Original>Pop-Up Alien 1</Original>
+          <Chinese>彈出式外星人 1</Chinese>
+          <Chinesesimp>弹出的外星人 1</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_targetp_alien1_acc1_f0">
+          <Original>Pop-Up Alien 1 (Zones)</Original>
+          <Chinese>彈出式外星人 1（區域）</Chinese>
+          <Chinesesimp>弹出的外星人 1（区域）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_target_swivel_01_right_f0">
           <Original>Swivel Target (Right)</Original>

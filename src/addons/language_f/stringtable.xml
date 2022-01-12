@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="Arma3">
   <Package name="Language_Alpha">
     <Container name="PhoneticalAlphabet">
@@ -3605,12 +3605,9 @@
         </Container>
         <Container name="Boxes">
           <Key ID="str_a3_missiles_dar_burst0">
-            <Original>
-            </Original>
-            <Chinese>
-            </Chinese>
-            <Chinesesimp>
-            </Chinesesimp>
+            <Original></Original>
+            <Chinese></Chinese>
+            <Chinesesimp></Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_nvgoggles_off0">
             <Original>$STR_DN_NV_GOGGLES</Original>
@@ -3945,30 +3942,100 @@
             <Chinese>9公厘30發重新裝填曳光彈(綠色)彈匣</Chinese>
             <Chinesesimp>9mm 30发装填指示曳光弹（绿色）弹匣</Chinesesimp>
           </Key>
+          <Key ID="str_a3_cfgmagazines_30rnd_65x39_caseless_mag_tracer0">
+            <Original>6.5 mm 30Rnd Tracer Sand Mag</Original>
+            <Chinese>6.5 mm 30 發曳光彈沙色彈匣</Chinese>
+            <Chinesesimp>6.5 毫米 30 发曳光弹沙色弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_30rnd_65x39_caseless_mag0">
+            <Original>6.5 mm 30Rnd Sand Mag</Original>
+            <Chinese>6.5 mm 30 發沙色彈匣</Chinese>
+            <Chinesesimp>6.5 毫米 30 发沙色弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_30rnd_65x39_caseless_khaki_mag_tracer0">
+            <Original>6.5 mm 30Rnd Tracer Khaki Mag</Original>
+            <Chinese>6.5 mm 30 發曳光彈卡其色彈匣</Chinese>
+            <Chinesesimp>6.5 毫米 30 发曳光弹卡其色弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_30rnd_65x39_caseless_khaki_mag0">
+            <Original>6.5 mm 30Rnd Khaki Mag</Original>
+            <Chinese>6.5 mm 30 發卡其色彈匣</Chinese>
+            <Chinesesimp>6.5 毫米 30 发卡其色弹弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_30rnd_65x39_caseless_black_mag_tracer0">
+            <Original>6.5 mm 30Rnd Tracer Black Mag</Original>
+            <Chinese>6.5 mm 30 發曳光彈黑色彈匣</Chinese>
+            <Chinesesimp>6.5 毫米 30 发曳光弹黑色弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_30rnd_65x39_caseless_black_mag0">
+            <Original>6.5 mm 30Rnd Black Mag</Original>
+            <Chinese>6.5 mm 30 發黑色彈匣</Chinese>
+            <Chinesesimp>6.5 毫米 30 发黑色弹匣</Chinesesimp>
+          </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_tracer_yellow0">
             <Original>5.56 mm 30rnd Tracer (Yellow) Mag</Original>
             <Chinese>5.56公厘30發曳光彈(黃色)彈匣</Chinese>
             <Chinesesimp>5.56 mm 30发曳光弹（黄色）弹匣</Chinesesimp>
           </Key>
-          <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_red0">
-            <Original>5.56 mm 30rnd STANAG Reload Tracer (Red) Mag</Original>
-            <Chinese>5.56公厘30發北約標準重新裝填曳光彈(紅色)彈匣</Chinese>
-            <Chinesesimp>5.56 mm 30发北约标准装填指示曳光弹（红色）弹匣</Chinesesimp>
+          <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_sand_tracer_yellow0">
+            <Original>5.56 mm 30rnd Tracer (Yellow) Sand Mag</Original>
+            <Chinese>5.56 mm 30 發曳光彈（黃）沙色彈匣</Chinese>
+            <Chinesesimp>5.56 毫米 30 发曳光弹（黄色）沙色弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_tracer_red0">
             <Original>5.56 mm 30rnd Tracer (Red) Mag</Original>
             <Chinese>5.56公厘30發曳光彈(紅色)彈匣</Chinese>
             <Chinesesimp>5.56 mm 30发曳光弹（红色）弹匣</Chinesesimp>
           </Key>
-          <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_green0">
-            <Original>5.56 mm 30rnd STANAG Reload Tracer (Green) Mag</Original>
-            <Chinese>5.56公厘30發北約標準重新裝填曳光彈(綠色)彈匣</Chinese>
-            <Chinesesimp>5.56 mm 30发北约标准装填指示曳光弹（绿色）弹匣</Chinesesimp>
+          <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_sand_tracer_red0">
+            <Original>5.56 mm 30rnd Tracer (Red) Sand Mag</Original>
+            <Chinese>5.56 mm 30 發曳光彈（紅）沙色彈匣</Chinese>
+            <Chinesesimp>5.56 毫米 30 发曳光弹（红色）沙色弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_tracer_green0">
             <Original>5.56 mm 30rnd Tracer (Green) Mag</Original>
             <Chinese>5.56公厘30發曳光彈(綠色)彈匣</Chinese>
             <Chinesesimp>5.56 mm 30发曳光弹（绿色）弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_sand_tracer_green0">
+            <Original>5.56 mm 30rnd Tracer (Green) Sand Mag</Original>
+            <Chinese>5.56 mm 30 發曳光彈（綠）沙色彈匣</Chinese>
+            <Chinesesimp>5.56 毫米 30 发曳光弹（绿色）沙色弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_sand_red0">
+            <Original>5.56 mm 30rnd Reload Tracer (Red) Sand Mag</Original>
+            <Chinese>5.56 mm 30 發重新裝填曳光彈（紅）沙色彈匣</Chinese>
+            <Chinesesimp>5.56 毫米 30 发装弹指示（红色）沙色弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_sand_green0">
+            <Original>5.56 mm 30rnd Reload Tracer (Green) Sand Mag</Original>
+            <Chinese>5.56 mm 30 發重新裝填曳光彈（綠）沙色彈匣</Chinese>
+            <Chinesesimp>5.56 毫米 30 发装弹指示（绿色）沙色弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_sand0">
+            <Original>5.56 mm 30rnd Reload Tracer (Yellow) Sand Mag</Original>
+            <Chinese>5.56 mm 30 發重新裝填曳光彈（黃）沙色彈匣</Chinese>
+            <Chinesesimp>5.56 毫米 30 发装弹指示（黄色）沙色弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_red0">
+            <Original>5.56 mm 30rnd STANAG Reload Tracer (Red) Mag</Original>
+            <Chinese>5.56公厘30發北約標準重新裝填曳光彈(紅色)彈匣</Chinese>
+            <Chinesesimp>5.56 mm 30发北约标准装填指示曳光弹（红色）弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_green0">
+            <Original>5.56 mm 30rnd STANAG Reload Tracer (Green) Mag</Original>
+            <Chinese>5.56公厘30發北約標準重新裝填曳光彈(綠色)彈匣</Chinese>
+            <Chinesesimp>5.56 mm 30发北约标准装填指示曳光弹（绿色）弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_200rnd_65x39_cased_box_tracer_red0">
+            <Original>6.5mm 200Rnd Belt Tracer (Red)</Original>
+            <Chinese>6.5mm 200 發彈鏈曳光彈（紅）</Chinese>
+            <Chinesesimp>6.5 毫米 200 发弹链曳光弹（红色）</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_200rnd_65x39_cased_box_red0">
+            <Original>6.5 mm 200Rnd Reload Tracer (Red) Belt</Original>
+            <Chinese>6.5 mm 200 發重新裝填曳光彈（紅）彈鏈</Chinese>
+            <Chinesesimp>6.5 毫米 200 发装弹指示（红色）弹链</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_16rnd_9x21_yellow_mag0">
             <Original>9 mm 16Rnd Reload Tracer (Yellow) Mag</Original>
@@ -3989,6 +4056,36 @@
             <Original>230 mm Cluster Rocket</Original>
             <Chinese>230公厘集束火箭彈</Chinese>
             <Chinesesimp>230mm 集束火箭弹</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_100rnd_65x39_caseless_mag_tracer0">
+            <Original>6.5 mm 100Rnd Tracer Sand Mag</Original>
+            <Chinese>6.5 mm 100 發曳光彈沙色彈匣</Chinese>
+            <Chinesesimp>6.5 毫米 100 发曳光弹沙色弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_100rnd_65x39_caseless_mag0">
+            <Original>6.5 mm 100Rnd Sand Mag</Original>
+            <Chinese>6.5 mm 100 發沙色彈匣</Chinese>
+            <Chinesesimp>6.5 毫米 100 发沙色弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_100rnd_65x39_caseless_khaki_mag_tracer0">
+            <Original>6.5 mm 100Rnd Tracer Khaki Mag</Original>
+            <Chinese>6.5 mm 100 發曳光彈卡其色彈匣</Chinese>
+            <Chinesesimp>6.5 毫米 100 发曳光弹卡其色弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_100rnd_65x39_caseless_khaki_mag0">
+            <Original>6.5 mm 100Rnd Khaki Mag</Original>
+            <Chinese>6.5 mm 100 發卡其色彈匣</Chinese>
+            <Chinesesimp>6.5 毫米 100 发卡其色弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_100rnd_65x39_caseless_black_mag_tracer0">
+            <Original>6.5 mm 100Rnd Tracer Black Mag</Original>
+            <Chinese>6.5 mm 100 發曳光彈黑色彈匣</Chinese>
+            <Chinesesimp>6.5 毫米 100 发曳光弹黑色弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_100rnd_65x39_caseless_black_mag0">
+            <Original>6.5 mm 100Rnd Black Mag</Original>
+            <Chinese>6.5 mm 100 發黑色彈匣</Chinese>
+            <Chinesesimp>6.5 毫米 100 发黑色弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1000rnd_25mm_shells0">
             <Original>25 mm Shells</Original>
@@ -4014,36 +4111,6 @@
             <Original>20 mm Shells</Original>
             <Chinese>20公厘砲彈</Chinese>
             <Chinesesimp>20mm 炮弹</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_green0">
-            <Original>12.7 mm M2 HMG Tracer (Green) Belt</Original>
-            <Chinese>12.7公厘M2重機槍曳光彈(綠色)彈鏈</Chinese>
-            <Chinesesimp>12.7 mm M2重机枪曳光弹（绿色）弹链</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_red0">
-            <Original>12.7 mm M2 HMG Tracer (Red) Belt</Original>
-            <Chinese>12.7公厘M2重機槍曳光彈(紅色)彈鏈</Chinese>
-            <Chinesesimp>12.7 mm M2重机枪曳光弹（红色）弹链</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_yellow0">
-            <Original>12.7 mm M2 HMG Tracer (Yellow) Belt</Original>
-            <Chinese>12.7公厘M2重機槍曳光彈(黃色)彈鏈</Chinese>
-            <Chinesesimp>12.7 mm M2重机枪曳光弹（黄色）弹链</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_1000rnd_65x39_belt0">
-            <Original>6.5 mm 1000Rnd LMG Belt</Original>
-            <Chinese>6.5公厘1000發輕機槍彈鏈</Chinese>
-            <Chinesesimp>6.5 mm 1000发轻机枪弹链</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_100rnd_65x39_belt_tracer_red0">
-            <Original>6.5 mm 100Rnd Tracer (Red) Mag</Original>
-            <Chinese>6.5公厘100發曳光彈(紅色)彈匣</Chinese>
-            <Chinesesimp>6.5 mm 100发曳光弹（红色）弹匣</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag0">
-            <Original>12.7 mm M2 HMG Belt</Original>
-            <Chinese>12.7公厘M2重機槍彈鏈</Chinese>
-            <Chinesesimp>12.7 mm M2重机枪弹链</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_10rnd_120mm_mo_cluster0">
             <Original>Cluster Shells</Original>
@@ -4195,90 +4262,20 @@
             <Chinese>230公厘火箭彈</Chinese>
             <Chinesesimp>230mm 火箭弹</Chinesesimp>
           </Key>
-          <Key ID="str_a3_cfgmagazines_200rnd_65x39_box_tracer_red0">
-            <Original>6.5 mm 200Rnd Tracer (Green) Belt Case</Original>
-            <Chinese>6.5公厘200發曳光彈(綠色)彈鏈盒</Chinese>
-            <Chinesesimp>6.5 mm 200发曳光弹（绿色）弹链盒</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_2000rnd_65x39_belt0">
-            <Original>6.5 mm 2000Rnd LMG Belt</Original>
-            <Chinese>6.5公厘2000發輕機槍彈鏈</Chinese>
-            <Chinesesimp>6.5 mm 2000发轻机枪弹链</Chinesesimp>
-          </Key>
           <Key ID="STR_A3_CfgMagazines_20Rnd_556x45_UW_mag0">
             <Original>5.56 mm 20Rnd Dual Purpose Mag</Original>
             <Chinese>5.56公厘20發水陸兩用彈匣</Chinese>
             <Chinesesimp>5.56 mm 20发双用途弹弹匣</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_20rnd_762x45_mag0">
-            <Original>7.62 mm 20Rnd Mag</Original>
-            <Chinese>7.62公厘20發彈匣</Chinese>
-            <Chinesesimp>7.62 mm 20发弹匣</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_24rnd_pg_missiles0">
-            <Original>DAGR</Original>
-            <Chinese>直接攻擊導引火箭彈</Chinese>
-            <Chinesesimp>直接攻击制导火箭弹</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_24rnd_pug_missiles0">
-            <Original>DAR</Original>
-            <Chinese>直接攻擊非導引火箭彈</Chinese>
-            <Chinesesimp>直接攻击火箭弹</Chinesesimp>
-          </Key>
-          <Key ID="STR_A3_CFGMAGAZINES_250RND_30MM_APDS_SHELLS_TRACER_GREEN0">
-            <Original>30 mm APDS Tracer (Green) Shells </Original>
-            <Chinese>30公厘脫殼穿甲曳光彈(綠色)砲彈</Chinese>
-            <Chinesesimp>30mm 脱壳穿甲曳光弹（绿色）</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_250rnd_30mm_apds_shells_tracer_red0">
-            <Original>30 mm APDS Tracer (Red) Shells</Original>
-            <Chinese>30公厘脫殼穿甲曳光彈(紅色)砲彈</Chinese>
-            <Chinesesimp>30mm 脱壳穿甲曳光弹（红色）</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_250rnd_30mm_apds_shells_tracer_yellow0">
-            <Original>30 mm APDS Tracer (Yellow) Shells</Original>
-            <Chinese>30公厘脫殼穿甲曳光彈(黃色)砲彈</Chinese>
-            <Chinesesimp>30mm 脱壳穿甲曳光弹（黄色）</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_200rnd_65x39_box0">
-            <Original>6.5 mm 200Rnd Belt</Original>
-            <Chinese>6.5公厘200發彈鏈</Chinese>
-            <Chinesesimp>6.5 mm 200发弹链</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_250rnd_30mm_he_shells0">
-            <Original>30 mm HE Shells</Original>
-            <Chinese>30公厘高爆砲彈</Chinese>
-            <Chinesesimp>30mm 高爆炮弹</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_2rnd_aaa_missiles0">
-            <Original>ASRAAM</Original>
-            <Chinese>先進短程空對空飛彈</Chinese>
-            <Chinesesimp>先进近程空空导弹</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_2rnd_gaa_missiles0">
-            <Original>Zephyr</Original>
-            <Chinese>"西風"長程空對空飛彈</Chinese>
-            <Chinesesimp>"西风"远程空空导弹</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_300rnd_20mm_shells0">
-            <Original>20 mm HE Shells</Original>
-            <Chinese>20公厘高爆砲彈</Chinese>
-            <Chinesesimp>20mm 高爆炮弹</Chinesesimp>
-          </Key>
-          <Key ID="str_a3_cfgmagazines_300rnd_25mm_shells0">
-            <Original>25 mm Shells</Original>
-            <Chinese>25公厘砲彈</Chinese>
-            <Chinesesimp>25mm 炮弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_65x39_mag_tracer_red0">
             <Original>6.5 mm 30Rnd Tracer (Red) Mag</Original>
             <Chinese>6.5公厘30發曳光彈(紅色)彈匣</Chinese>
             <Chinesesimp>6.5 mm 30发曳光弹（红色）弹匣</Chinesesimp>
           </Key>
-          <Key ID="str_a3_cfgmagazines_30rnd_120mm_apds_shells0">
-            <Original>120 mm APDS Shells</Original>
-            <Chinese>120公厘脫殼穿甲砲彈</Chinese>
-            <Chinesesimp>120mm 脱壳穿甲弹</Chinesesimp>
+          <Key ID="str_a3_cfgmagazines_20rnd_762x45_mag0">
+            <Original>7.62 mm 20Rnd Mag</Original>
+            <Chinese>7.62公厘20發彈匣</Chinese>
+            <Chinesesimp>7.62 mm 20发弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_3rnd_he_grenade_shell0">
             <Original>40 mm 3Rnd HE Grenade</Original>
@@ -4410,10 +4407,10 @@
             <Chinese>12.7公厘5發彈匣</Chinese>
             <Chinesesimp>12.7 mm 5发弹匣</Chinesesimp>
           </Key>
-          <Key ID="str_a3_cfgmagazines_30rnd_120mm_he_shells0">
-            <Original>HE Shells</Original>
-            <Chinese>高爆砲彈</Chinese>
-            <Chinesesimp>高爆弹</Chinesesimp>
+          <Key ID="str_a3_cfgmagazines_24rnd_pg_missiles0">
+            <Original>DAGR</Original>
+            <Chinese>直接攻擊導引火箭彈</Chinese>
+            <Chinesesimp>直接攻击制导火箭弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_8rnd_12gauge_pellets0">
             <Original>12 Gauge 8Rnd Pellets</Original>
@@ -4505,20 +4502,20 @@
             <Chinese>RGO手榴彈</Chinese>
             <Chinesesimp>RGO 手榴弹</Chinesesimp>
           </Key>
-          <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag0">
-            <Original>5.56 mm 30rnd STANAG Reload Tracer (Yellow) Mag</Original>
-            <Chinese>5.56公厘30發北約標準重新裝填曳光彈(黃色)彈匣</Chinese>
-            <Chinesesimp>5.56 mm 30发北约标准装填指示曳光弹（黄色）弹匣</Chinesesimp>
+          <Key ID="str_a3_cfgmagazines_24rnd_pug_missiles0">
+            <Original>DAR</Original>
+            <Chinese>直接攻擊非導引火箭彈</Chinese>
+            <Chinesesimp>直接攻击火箭弹</Chinesesimp>
           </Key>
-          <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag0">
-            <Original>12.7 mm RCWS HMG </Original>
-            <Chinese>12.7公厘遙控砲塔重機槍</Chinese>
-            <Chinesesimp>12.7 mm 遥控武器站重机枪</Chinesesimp>
+          <Key ID="STR_A3_CFGMAGAZINES_250RND_30MM_APDS_SHELLS_TRACER_GREEN0">
+            <Original>30 mm APDS Tracer (Green) Shells </Original>
+            <Chinese>30公厘脫殼穿甲曳光彈(綠色)砲彈</Chinese>
+            <Chinesesimp>30mm 脱壳穿甲曳光弹（绿色）</Chinesesimp>
           </Key>
-          <Key ID="str_a3_cfgmagazines_200rnd_65x39_belt0">
-            <Original>6.5 mm 200Rnd Belt Case</Original>
-            <Chinese>6.5公厘200發彈鏈盒</Chinese>
-            <Chinesesimp>6.5 mm 200发弹链盒</Chinesesimp>
+          <Key ID="str_a3_cfgmagazines_250rnd_30mm_apds_shells_tracer_red0">
+            <Original>30 mm APDS Tracer (Red) Shells</Original>
+            <Chinese>30公厘脫殼穿甲曳光彈(紅色)砲彈</Chinese>
+            <Chinesesimp>30mm 脱壳穿甲曳光弹（红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_laserbatteries0">
             <Original>Designator Batteries</Original>
@@ -4605,30 +4602,30 @@
             <Chinese>信號彈(黃色)</Chinese>
             <Chinesesimp>照明弹（黄色）</Chinesesimp>
           </Key>
-          <Key ID="str_a3_cfgmagazines_250rnd_30mm_apds_shells0">
-            <Original>30 mm APDS shells</Original>
-            <Chinese>30公厘脫殼穿甲砲彈</Chinese>
-            <Chinesesimp>30mm 脱壳穿甲弹</Chinesesimp>
+          <Key ID="str_a3_cfgmagazines_250rnd_30mm_apds_shells_tracer_yellow0">
+            <Original>30 mm APDS Tracer (Yellow) Shells</Original>
+            <Chinese>30公厘脫殼穿甲曳光彈(黃色)砲彈</Chinese>
+            <Chinesesimp>30mm 脱壳穿甲曳光弹（黄色）</Chinesesimp>
           </Key>
-          <Key ID="str_a3_cfgmagazines_100rnd_65x39_belt0">
-            <Original>6.5 mm 100Rnd Mag</Original>
-            <Chinese>6.5公厘100發彈匣</Chinese>
-            <Chinesesimp>6.5 mm 100发弹匣</Chinesesimp>
+          <Key ID="str_a3_cfgmagazines_200rnd_65x39_box_tracer_red0">
+            <Original>6.5 mm 200Rnd Tracer (Green) Belt Case</Original>
+            <Chinese>6.5公厘200發曳光彈(綠色)彈鏈盒</Chinese>
+            <Chinesesimp>6.5 mm 200发曳光弹（绿色）弹链盒</Chinesesimp>
           </Key>
-          <Key ID="STR_A3_CFGMAGAZINES_30MMAPDSFT">
-            <Original>30 mm APFSDS-T</Original>
-            <Chinese>30公厘尾翼穩定脫殼穿甲曳光彈</Chinese>
-            <Chinesesimp>30mm 尾稳脱穿曳</Chinesesimp>
+          <Key ID="str_a3_cfgmagazines_250rnd_30mm_he_shells0">
+            <Original>30 mm HE Shells</Original>
+            <Chinese>30公厘高爆砲彈</Chinese>
+            <Chinesesimp>30mm 高爆炮弹</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgmagazines_chemlight0">
             <Original>Chemlight (Green)</Original>
             <Chinese>螢光棒(綠色)</Chinese>
             <Chinesesimp>荧光棒（绿色）</Chinesesimp>
           </Key>
-          <Key ID="STR_A3_CFGMAGAZINES_30RND_9X21_MAG_SMG_01_TRACER_RED0">
-            <Original>.45 ACP 30Rnd Vermin Tracers (Red) Mag</Original>
-            <Chinese>.45ACP口徑30發"惡徒"曳光彈(紅色)彈匣</Chinese>
-            <Chinesesimp>.45ACP 口径30发"恶徒"曳光弹（红色）弹匣</Chinesesimp>
+          <Key ID="str_a3_cfgmagazines_2rnd_aaa_missiles0">
+            <Original>ASRAAM</Original>
+            <Chinese>先進短程空對空飛彈</Chinese>
+            <Chinesesimp>先进近程空空导弹</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgmagazines_chemlight_blue0">
             <Original>Chemlight (Blue)</Original>
@@ -4644,6 +4641,106 @@
             <Original>Chemlight (Yellow)</Original>
             <Chinese>螢光棒(黃色)</Chinese>
             <Chinesesimp>荧光棒（黄色）</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_2rnd_gaa_missiles0">
+            <Original>Zephyr</Original>
+            <Chinese>"西風"長程空對空飛彈</Chinese>
+            <Chinesesimp>"西风"远程空空导弹</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_300rnd_20mm_shells0">
+            <Original>20 mm HE Shells</Original>
+            <Chinese>20公厘高爆砲彈</Chinese>
+            <Chinesesimp>20mm 高爆炮弹</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_300rnd_25mm_shells0">
+            <Original>25 mm Shells</Original>
+            <Chinese>25公厘砲彈</Chinese>
+            <Chinesesimp>25mm 炮弹</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_30rnd_120mm_apds_shells0">
+            <Original>120 mm APDS Shells</Original>
+            <Chinese>120公厘脫殼穿甲砲彈</Chinese>
+            <Chinesesimp>120mm 脱壳穿甲弹</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_30rnd_120mm_he_shells0">
+            <Original>HE Shells</Original>
+            <Chinese>高爆砲彈</Chinese>
+            <Chinesesimp>高爆弹</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag0">
+            <Original>5.56 mm 30rnd STANAG Reload Tracer (Yellow) Mag</Original>
+            <Chinese>5.56公厘30發北約標準重新裝填曳光彈(黃色)彈匣</Chinese>
+            <Chinesesimp>5.56 mm 30发北约标准装填指示曳光弹（黄色）弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_2000rnd_65x39_belt0">
+            <Original>6.5 mm 2000Rnd LMG Belt</Original>
+            <Chinese>6.5公厘2000發輕機槍彈鏈</Chinese>
+            <Chinesesimp>6.5 mm 2000发轻机枪弹链</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_200rnd_65x39_box0">
+            <Original>6.5 mm 200Rnd Belt</Original>
+            <Chinese>6.5公厘200發彈鏈</Chinese>
+            <Chinesesimp>6.5 mm 200发弹链</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_250rnd_30mm_apds_shells0">
+            <Original>30 mm APDS shells</Original>
+            <Chinese>30公厘脫殼穿甲砲彈</Chinese>
+            <Chinesesimp>30mm 脱壳穿甲弹</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag0">
+            <Original>12.7 mm RCWS HMG </Original>
+            <Chinese>12.7公厘遙控砲塔重機槍</Chinese>
+            <Chinesesimp>12.7 mm 遥控武器站重机枪</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_200rnd_65x39_belt0">
+            <Original>6.5 mm 200Rnd Belt Case</Original>
+            <Chinese>6.5公厘200發彈鏈盒</Chinese>
+            <Chinesesimp>6.5 mm 200发弹链盒</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_green0">
+            <Original>12.7 mm M2 HMG Tracer (Green) Belt</Original>
+            <Chinese>12.7公厘M2重機槍曳光彈(綠色)彈鏈</Chinese>
+            <Chinesesimp>12.7 mm M2重机枪曳光弹（绿色）弹链</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_red0">
+            <Original>12.7 mm M2 HMG Tracer (Red) Belt</Original>
+            <Chinese>12.7公厘M2重機槍曳光彈(紅色)彈鏈</Chinese>
+            <Chinesesimp>12.7 mm M2重机枪曳光弹（红色）弹链</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_yellow0">
+            <Original>12.7 mm M2 HMG Tracer (Yellow) Belt</Original>
+            <Chinese>12.7公厘M2重機槍曳光彈(黃色)彈鏈</Chinese>
+            <Chinesesimp>12.7 mm M2重机枪曳光弹（黄色）弹链</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_1000rnd_65x39_belt0">
+            <Original>6.5 mm 1000Rnd LMG Belt</Original>
+            <Chinese>6.5公厘1000發輕機槍彈鏈</Chinese>
+            <Chinesesimp>6.5 mm 1000发轻机枪弹链</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_100rnd_65x39_belt_tracer_red0">
+            <Original>6.5 mm 100Rnd Tracer (Red) Mag</Original>
+            <Chinese>6.5公厘100發曳光彈(紅色)彈匣</Chinese>
+            <Chinesesimp>6.5 mm 100发曳光弹（红色）弹匣</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag0">
+            <Original>12.7 mm M2 HMG Belt</Original>
+            <Chinese>12.7公厘M2重機槍彈鏈</Chinese>
+            <Chinesesimp>12.7 mm M2重机枪弹链</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgmagazines_100rnd_65x39_belt0">
+            <Original>6.5 mm 100Rnd Mag</Original>
+            <Chinese>6.5公厘100發彈匣</Chinese>
+            <Chinesesimp>6.5 mm 100发弹匣</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_CFGMAGAZINES_30MMAPDSFT">
+            <Original>30 mm APFSDS-T</Original>
+            <Chinese>30公厘尾翼穩定脫殼穿甲曳光彈</Chinese>
+            <Chinesesimp>30mm 尾稳脱穿曳</Chinesesimp>
+          </Key>
+          <Key ID="STR_A3_CFGMAGAZINES_30RND_9X21_MAG_SMG_01_TRACER_RED0">
+            <Original>.45 ACP 30Rnd Vermin Tracers (Red) Mag</Original>
+            <Chinese>.45ACP口徑30發"惡徒"曳光彈(紅色)彈匣</Chinese>
+            <Chinesesimp>.45ACP 口径30发"恶徒"曳光弹（红色）弹匣</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_30RND_9X21_MAG_SMG_01_TRACER_YELLOW0">
             <Original>.45 ACP 30Rnd Vermin Tracers (Yellow) Mag</Original>

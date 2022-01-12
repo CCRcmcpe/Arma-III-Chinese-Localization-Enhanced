@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="Arma3">
   <Package name="Language_Gamma">
     <Container name="Patch120">
@@ -1304,6 +1304,16 @@
           <Chinese>無人載具背包[阿爾蒂斯武裝力量]</Chinese>
           <Chinesesimp>无人机背包[AAF]</Chinesesimp>
         </Key>
+        <Key ID="STR_A3_CfgVehicles_siren_off">
+          <Original>Siren Off</Original>
+          <Chinese>警報器關閉</Chinese>
+          <Chinesesimp>警报器关闭</Chinesesimp>
+        </Key>
+        <Key ID="STR_A3_CfgVehicles_siren_on">
+          <Original>Siren On</Original>
+          <Chinese>警報器打開</Chinese>
+          <Chinesesimp>警报器开启</Chinesesimp>
+        </Key>
       </Container>
       <Container name="DisplayName">
         <Key ID="str_a3_cfgvehicles_o_uav_02_cas_f0">
@@ -1341,20 +1351,25 @@
           <Chinese>M2A1"重擊者"主戰坦克</Chinese>
           <Chinesesimp>M2A1"重击者"主战坦克</Chinesesimp>
         </Key>
+        <Key ID="str_a3_cfgvehicles_i_truck_02_mrl_f0">
+          <Original>Zamak MRL</Original>
+          <Chinese>Zamak MRL</Chinese>
+          <Chinesesimp>Zamak MRL</Chinesesimp>
+        </Key>
         <Key ID="str_a3_cfgvehicles_b_truck_01_medical_f0">
           <Original>HEMTT Medical</Original>
           <Chinese>重型機動戰術醫療卡車</Chinese>
           <Chinesesimp>重型增程机动战术医疗卡车</Chinesesimp>
         </Key>
-        <Key ID="str_a3_cfgvehicles_i_plane_fighter_03_aa_f0">
-          <Original>A-143 Buzzard (AA)</Original>
-          <Chinese>A-143"禿鷹"戰鬥機(空對空)</Chinese>
-          <Chinesesimp>A-143"秃鹰"战斗机（空空）</Chinesesimp>
-        </Key>
         <Key ID="str_a3_cfgvehicles_MBT_02_Arty_base0">
           <Original>2S9 Sochor</Original>
           <Chinese>2S9"索霍爾"自走砲</Chinese>
           <Chinesesimp>2S9"索霍尔"自行榴弹炮</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_i_plane_fighter_03_aa_f0">
+          <Original>A-143 Buzzard (AA)</Original>
+          <Chinese>A-143"禿鷹"戰鬥機(空對空)</Chinese>
+          <Chinesesimp>A-143"秃鹰"战斗机（空空）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_truck_cistern0">
           <Original>Truck Fuel</Original>
@@ -1366,11 +1381,6 @@
           <Chinese>重型機動戰術維修卡車</Chinese>
           <Chinesesimp>重型增程机动战术维修卡车</Chinesesimp>
         </Key>
-        <Key ID="str_a3_cfgvehicles_c_heli_light_01">
-          <Original>M-900</Original>
-          <Chinese>M-900直升機</Chinese>
-          <Chinesesimp>M-900直升机</Chinesesimp>
-        </Key>
         <Key ID="str_a3_cfgvehicles_truck_02_fuel0">
           <Original>Zamak Fuel</Original>
           <Chinese>"扎馬克"燃油補給卡車</Chinese>
@@ -1381,15 +1391,20 @@
           <Chinese>"扎馬克"維修卡車</Chinese>
           <Chinesesimp>"扎马克"维修卡车</Chinesesimp>
         </Key>
-        <Key ID="str_a3_cfgvehicles_c_van_01_box0">
-          <Original>Truck Boxer</Original>
-          <Chinese>貨櫃卡車</Chinese>
-          <Chinesesimp>货柜卡车</Chinesesimp>
+        <Key ID="str_a3_cfgvehicles_c_heli_light_01">
+          <Original>M-900</Original>
+          <Chinese>M-900直升機</Chinese>
+          <Chinesesimp>M-900直升机</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_plane_fighter_03_base_f0">
           <Original>A-143 Buzzard</Original>
           <Chinese>A-143"禿鷹"戰鬥機</Chinese>
           <Chinesesimp>A-143"秃鹰"战斗机</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_c_van_01_box0">
+          <Original>Truck Boxer</Original>
+          <Chinese>貨櫃卡車</Chinese>
+          <Chinesesimp>货柜卡车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_civil_01_base0">
           <Original>Motorboat</Original>
@@ -1401,15 +1416,15 @@
           <Chinese>燃油補給卡車</Chinese>
           <Chinesesimp>燃油补给卡车</Chinesesimp>
         </Key>
-        <Key ID="str_a3_cfgvehicles_b_apc_wheeled_01_medical0">
-          <Original>AMV Medical</Original>
-          <Chinese>AMV裝甲醫療車</Chinese>
-          <Chinesesimp>AMV 装甲救护车</Chinesesimp>
-        </Key>
         <Key ID="str_a3_cfgvehicles_o_plane_fighter_03_cas0">
           <Original>A-143 Buzzard (CAS)</Original>
           <Chinese>A-143"禿鷹"戰鬥機(密接空中支援)</Chinese>
           <Chinesesimp>A-143"秃鹰"战斗机（近距离空中支援）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_b_apc_wheeled_01_medical0">
+          <Original>AMV Medical</Original>
+          <Chinese>AMV裝甲醫療車</Chinese>
+          <Chinesesimp>AMV 装甲救护车</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_APC_Tracked_02_1">
           <Original>ZSU-39 Tigris</Original>
@@ -1421,11 +1436,6 @@
           <Chinese>AFV-4"蛇髮女妖"裝甲運兵車</Chinese>
           <Chinesesimp>AFV-4"蛇发女妖"装甲输送车</Chinesesimp>
         </Key>
-        <Key ID="str_a3_cfgvehicles_b_apc_tracked_01_aa0">
-          <Original>IFV-6a Cheetah</Original>
-          <Chinese>IFV-6a"獵豹"防空車</Chinese>
-          <Chinesesimp>IFV-6a"猎豹"防空系统</Chinesesimp>
-        </Key>
         <Key ID="str_a3_cfgvehicles_o_uav_02">
           <Original>K40 Ababil-3</Original>
           <Chinese>K40"燕子"-3空中無人載具</Chinese>
@@ -1436,15 +1446,15 @@
           <Chinese>運動型多用途車</Chinese>
           <Chinesesimp>运动型多用途车</Chinesesimp>
         </Key>
+        <Key ID="str_a3_cfgvehicles_b_apc_tracked_01_aa0">
+          <Original>IFV-6a Cheetah</Original>
+          <Chinese>IFV-6a"獵豹"防空車</Chinese>
+          <Chinesesimp>IFV-6a"猎豹"防空系统</Chinesesimp>
+        </Key>
         <Key ID="str_a3_cfgvehicles_c_boat_civil_04">
           <Original>Trawler</Original>
           <Chinese>拖網漁船</Chinese>
           <Chinesesimp>拖网渔船</Chinesesimp>
-        </Key>
-        <Key ID="str_a3_cfgvehicles_c_van_01">
-          <Original>Truck</Original>
-          <Chinese>卡車</Chinese>
-          <Chinesesimp>卡车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_01_base0">
           <Original>AR-2 Darter</Original>
@@ -1455,6 +1465,11 @@
           <Original>Tractor</Original>
           <Chinese>牽引車</Chinese>
           <Chinesesimp>拖拉机</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_c_van_01">
+          <Original>Truck</Original>
+          <Chinese>卡車</Chinese>
+          <Chinesesimp>卡车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_car_base0">
           <Original>Hatchback</Original>
@@ -1471,11 +1486,6 @@
           <Chinese>CRV-6e"公貓"戰鬥工程車</Chinese>
           <Chinesesimp>CRV-6e"公猫"装甲抢救车</Chinesesimp>
         </Key>
-        <Key ID="str_a3_cfgvehicles_b_mbt_01_base0">
-          <Original>M2A1 Slammer</Original>
-          <Chinese>M2A1"重擊者"主戰坦克</Chinese>
-          <Chinesesimp>M2A1"重击者"主战坦克</Chinesesimp>
-        </Key>
         <Key ID="str_a3_cfgvehicles_ugv_01_base0">
           <Original>UGV Stomper</Original>
           <Chinese>"踐踏者"地面無人載具</Chinese>
@@ -1485,6 +1495,11 @@
           <Original>UGV Stomper RCWS</Original>
           <Chinese>"踐踏者"地面無人載具(遙控砲塔)</Chinese>
           <Chinesesimp>"践踏者"无人车（遥控武器站）</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_b_mbt_01_base0">
+          <Original>M2A1 Slammer</Original>
+          <Chinese>M2A1"重擊者"主戰坦克</Chinese>
+          <Chinesesimp>M2A1"重击者"主战坦克</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_truck_01_box_ammo0">
           <Original>HEMTT Ammo</Original>
@@ -1506,11 +1521,6 @@
           <Chinese>重型機動戰術燃油補給卡車</Chinese>
           <Chinesesimp>重型增程机动战术燃油补给卡车</Chinesesimp>
         </Key>
-        <Key ID="str_a3_cfgvehicles_b_truck_01_primemover0">
-          <Original>HEMTT</Original>
-          <Chinese>重型機動戰術卡車</Chinese>
-          <Chinesesimp>重型增程机动战术卡车</Chinesesimp>
-        </Key>
         <Key ID="str_a3_cfgvehicles_mbt_02_base0">
           <Original>T-100 Varsuk</Original>
           <Chinese>T-100"獾"式主戰坦克</Chinese>
@@ -1520,6 +1530,11 @@
           <Original>MQ-4A Greyhawk</Original>
           <Chinese>MQ-4"灰鷹"無人偵察機</Chinese>
           <Chinesesimp>MQ-4A"灰鹰"无人侦察机</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_b_truck_01_primemover0">
+          <Original>HEMTT</Original>
+          <Chinese>重型機動戰術卡車</Chinese>
+          <Chinesesimp>重型增程机动战术卡车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_boat_civil_01">
           <Original>Motorboat</Original>
@@ -1546,15 +1561,15 @@
           <Chinese>A-143"禿鷹"戰鬥機(訓練)</Chinese>
           <Chinesesimp>A-143"秃鹰"战斗机（训练）</Chinesesimp>
         </Key>
-        <Key ID="STR_A3_CfgVehicles_c_truck0">
-          <Original>****TO TRANSLATE****</Original>
-          <Chinese>****待翻譯****</Chinese>
-          <Chinesesimp>****待翻译****</Chinesesimp>
-        </Key>
         <Key ID="STR_A3_CFGVEHICLES_O_UAV_01">
           <Original>Tayran AR-2</Original>
           <Chinese>"泰蘭"AR-2空中無人載具</Chinese>
           <Chinesesimp>"泰兰"AR-2无人机</Chinesesimp>
+        </Key>
+        <Key ID="STR_A3_CfgVehicles_c_truck0">
+          <Original>****TO TRANSLATE****</Original>
+          <Chinese>****待翻譯****</Chinese>
+          <Chinesesimp>****待翻译****</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_01_arty_base0">
           <Original>M4 Scorcher</Original>

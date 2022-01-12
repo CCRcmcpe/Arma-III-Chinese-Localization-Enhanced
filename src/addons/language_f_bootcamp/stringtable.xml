@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="Arma3">
   <Package name="Language_Bootcamp">
     <Container name="Map_VR">
@@ -1210,6 +1210,11 @@
           <Original>Griffin Regiment</Original>
           <Chinese>獅鷲軍團</Chinese>
           <Chinesesimp>狮鹫团</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgunitinsignia_ctrg130">
+          <Original>CTRG 13 - NATO</Original>
+          <Chinese>CTRG 13 - NATO</Chinese>
+          <Chinesesimp>CTRG 13 - NATO</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgunitinsignia_111thid">
           <Original>111th Infantry Division</Original>
