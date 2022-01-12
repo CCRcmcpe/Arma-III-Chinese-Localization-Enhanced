@@ -677,7 +677,7 @@
           <Key ID="str_a3_cfgvehicles_land_vr_target_apc_wheeled_01_f0">
             <Original>VR Wheeled APC Target</Original>
             <Chinese>虛擬輪式裝甲運兵車目標</Chinese>
-            <Chinesesimp>虚拟轮式装甲运兵车目标</Chinesesimp>
+            <Chinesesimp>虚拟轮式装甲输送车目标</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_balloon_01_water_f0">
             <Original>Balloon (Water)</Original>

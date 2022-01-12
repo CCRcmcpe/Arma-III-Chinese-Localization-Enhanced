@@ -1073,12 +1073,12 @@
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_wheeledapc">
           <Original>... get in a wheeled APC</Original>
           <Chinese>...進入一臺輪式裝甲運兵車</Chinese>
-          <Chinesesimp>...进入一台轮式装甲运兵车</Chinesesimp>
+          <Chinesesimp>...进入一台轮式装甲输送车</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_trackedapc">
           <Original>... get in a tracked APC</Original>
           <Chinese>...進入一臺履帶裝甲運兵車</Chinese>
-          <Chinesesimp>...进入一台履带装甲运兵车</Chinesesimp>
+          <Chinesesimp>...进入一台履带装甲输送车</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_tank">
           <Original>... get in a tank</Original>
@@ -1172,12 +1172,12 @@
         <Key ID="str_a3_bis_fnc_curatorchallengedestroyvehicle_wheeledapc">
           <Original>... destroy a wheeled APC</Original>
           <Chinese>...摧毀輪式裝甲運兵車</Chinese>
-          <Chinesesimp>...摧毁轮式装甲运兵车</Chinesesimp>
+          <Chinesesimp>...摧毁轮式装甲输送车</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengedestroyvehicle_trackedapc">
           <Original>... destroy a tracked APC</Original>
           <Chinese>...摧毀履帶裝甲運兵車</Chinese>
-          <Chinesesimp>...摧毁履带装甲运兵车</Chinesesimp>
+          <Chinesesimp>...摧毁履带装甲输送车</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengedestroyvehicle_tank">
           <Original>... destroy a tank</Original>
@@ -1553,7 +1553,7 @@
         <Key ID="str_a3_objecttype_wheeledapc">
           <Original>wheeled APC</Original>
           <Chinese>輪式裝甲運兵車</Chinese>
-          <Chinesesimp>轮式装甲运兵车</Chinesesimp>
+          <Chinesesimp>轮式装甲输送车</Chinesesimp>
         </Key>
         <Key ID="str_a3_objecttype_vasi">
           <Original>Visual Approach Slope Indicator</Original>
@@ -1578,7 +1578,7 @@
         <Key ID="str_a3_objecttype_trackedapc">
           <Original>tracked APC</Original>
           <Chinese>履帶裝甲運兵車</Chinese>
-          <Chinesesimp>履带装甲运兵车</Chinesesimp>
+          <Chinesesimp>履带装甲输送车</Chinesesimp>
         </Key>
         <Key ID="str_a3_objecttype_thing">
           <Original>thing</Original>

@@ -578,7 +578,7 @@
       <Key ID="str_a3_AchToForwardObserver_description">
         <Original>Destroyed all APCs defending Orino by artillery strike in the Beyond Hope operation.</Original>
         <Chinese>在"毫無指望"行動中，成功以砲擊摧毀防守奧里諾的所有裝甲運兵車。</Chinese>
-        <Chinesesimp>已在"毫无希望"行动中利用炮击摧毁防守奥里诺的所有装甲运兵车。</Chinesesimp>
+        <Chinesesimp>已在"毫无希望"行动中利用炮击摧毁防守奥里诺的所有装甲输送车。</Chinesesimp>
       </Key>
       <Key ID="str_a3_AchToForwardObserver_title">
         <Original>Forward Observer</Original>

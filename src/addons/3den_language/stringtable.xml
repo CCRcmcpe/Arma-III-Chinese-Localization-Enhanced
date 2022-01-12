@@ -1036,7 +1036,7 @@
           <Key ID="STR_3DEN_Display3DENTutorial_Title_text">
             <Original>Tutorials</Original>
             <Chinese>教學課程</Chinese>
-            <Chinesesimp>教学课程</Chinesesimp>
+            <Chinesesimp>教程</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Display3DENTutorial_ButtonBegin_text">
             <Original>Begin</Original>
@@ -1731,7 +1731,7 @@
             <Key ID="str_3den_tutorials_intro_sections_intro_outro_text">
               <Original>This finishes the Eden Editor interface walkthrough. Clicking the &lt;%2&gt;Home&lt;%3&gt; button will take you to the main Tutorial interface.</Original>
               <Chinese>本次介面導覽已結束。點擊&lt;%2&gt;首頁&lt;%3&gt;按鈕來回到教學課程清單中。</Chinese>
-              <Chinesesimp>本次界面导览已结束。点击&lt;%2&gt;首页&lt;%3&gt;按钮来回到教学课程清单中。</Chinesesimp>
+              <Chinesesimp>本次界面导览已结束。点击&lt;%2&gt;首页&lt;%3&gt;按钮来回到教程清单中。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_intro_sections_intro_menubar_text">
               <Original>The &lt;%2&gt;Menu Bar&lt;%3&gt; is the central list of all available features. While some can be accessed with keyboard shortcuts or dedicated buttons, all of them are also represented in the menu bar.</Original>
@@ -1842,7 +1842,7 @@
             <Key ID="str_3den_tutorials_editing_sections_attributes_outro_text">
               <Original>Attributes are a cornerstone of the editing process. Also, be sure to check the 'Scenario Attributes' tutorial which will explain how to configure the whole scenario, not only the single entities.</Original>
               <Chinese>屬性設定是任務中最重要的基礎。同樣的，你也可以在'任務屬性'的教學課程中學習到關於任務屬性的相關知識。</Chinese>
-              <Chinesesimp>属性设置是任务中最重要的基础。同样的，你也可以在'任务属性'的教学课程中学习到关于任务属性的相关知识。</Chinesesimp>
+              <Chinesesimp>属性设置是任务中最重要的基础。同样的，你也可以在'任务属性'的教程中学习到关于任务属性的相关知识。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_attributes_multi_text">
               <Original>When multiple entities are being edited, an attribute can only be edited if its value is shared by all of them. When it is not, the attribute is disabled and the original values will not be overwritten.&lt;br /&gt;If you wish to edit the attribute, enable it using the checkbox on its right. The modified value will be applied to all the selected entities.</Original>
@@ -1899,7 +1899,7 @@
             <Key ID="str_3den_tutorials_editing_sections_connecting_outro_text">
               <Original>This concludes the connecting tutorial.</Original>
               <Chinese>在此結束連接線的教學課程。</Chinese>
-              <Chinesesimp>在此结束连接线的教学课程。</Chinesesimp>
+              <Chinesesimp>在此结束连接线的教程。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_connecting_intro_text">
               <Original>Connecting can bind certain entities together and affect their functionality.</Original>
@@ -1941,7 +1941,7 @@
             <Key ID="str_3den_tutorials_editing_sections_layers_outro_text">
               <Original>This concludes the Layers introduction tutorial.</Original>
               <Chinese>在此結束圖層的教學課程。</Chinese>
-              <Chinesesimp>在此结束图层的教学课程。</Chinesesimp>
+              <Chinesesimp>在此结束图层的教程。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_layers_intro_text">
               <Original>Entities can be organized into &lt;%2&gt;Layers&lt;%3&gt;. You can use them to divide your scenario into logical sections, for example, having a layer for enemy base objects, one for its garrison and another for patrols around.</Original>
@@ -2072,7 +2072,7 @@
             <Key ID="str_3den_tutorials_editing_sections_crew_outro_text">
               <Original>This sums up the vehicle crew tutorial.</Original>
               <Chinese>在此結束載具組員的教學課程。</Chinese>
-              <Chinesesimp>在此结束载具组员的教学课程。</Chinesesimp>
+              <Chinesesimp>在此结束载具组员的教程。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_crew_intro_text">
               <Original>Characters can become vehicle crew members, while still being independently editable entities.</Original>
@@ -2119,7 +2119,7 @@
             <Key ID="str_3den_tutorials_editing_sections_widget_outro_text">
               <Original>That is all for the transformation widget introduction.</Original>
               <Chinese>變形工具的教學課程在此結束。</Chinese>
-              <Chinesesimp>转换工具的教学课程在此结束。</Chinesesimp>
+              <Chinesesimp>转换工具的教程在此结束。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_widget_intro_text">
               <Original>&lt;%2&gt;Transformation widget&lt;%3&gt; is a tool for precise entity manipulation. It consists of a set of color-coded parts, each offering a transformation in a different axis:&lt;br /&gt;&lt;t color='%11' font='%10'&gt;X&lt;/t&gt; - West to East, or local left to right&lt;br /&gt;&lt;t color='%12' font='%10'&gt;Y&lt;/t&gt; - South to North, or local back to front&lt;br /&gt;&lt;t color='%13' font='%10'&gt;Z&lt;/t&gt; - up&lt;br /&gt;Each of the axes can be manipulated by dragging it. The entity icon in the middle can still be used for moving the entity around.</Original>
@@ -2379,7 +2379,7 @@
             <Key ID="str_3den_tutorials_scenario_sections_attributes_intro_text">
               <Original>The same as entities, the scenario also has configurable attributes. They can be accessed through the &lt;%2&gt;Attributes&lt;%3&gt; option in the menu bar. This tutorial will guide you through all the available sections.</Original>
               <Chinese>就像是素材物件，任務本身也能設置屬性設定。你可以在選單欄的&lt;%2&gt;屬性&lt;%3&gt;中找到它們。本次教學課程將帶你認識這些功能。</Chinese>
-              <Chinesesimp>就像是素材物件，任务本身也能设置属性设置。你可以在菜单栏的&lt;%2&gt;属性&lt;%3&gt;中找到它们。本次教学课程将带你认识这些功能。</Chinesesimp>
+              <Chinesesimp>就像是素材物件，任务本身也能设置属性设置。你可以在菜单栏的&lt;%2&gt;属性&lt;%3&gt;中找到它们。本次教程将带你认识这些功能。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_attributes_general_text">
               <Original>In the &lt;%2&gt;General&lt;%3&gt; section, you can set the scenario presentation such as the name or overview picture. Basic states such as the ability to save or access briefing can be configured here as well.</Original>
@@ -2431,7 +2431,7 @@
             <Key ID="str_3den_tutorials_scenario_sections_phases_outro_text">
               <Original>This concludes the tutorial about scenario phases.</Original>
               <Chinese>在此結束任務階段的教學課程。</Chinese>
-              <Chinesesimp>在此结束任务阶段的教学课程。</Chinesesimp>
+              <Chinesesimp>在此结束任务阶段的教程。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_phases_intro_text">
               <Original>The scenario is divided into four phases. Each has its own set of entities and environmental settings (e.g. a night scenario with a player in a tank can have an infantry only intro set during the day).</Original>
@@ -2478,7 +2478,7 @@
             <Key ID="str_3den_tutorials_scenario_sections_preview_outro_text">
               <Original>That is all for the preview tutorial. Make sure to preview your scenario often.</Original>
               <Chinese>在此結束預覽的教學課程。請記得常常預覽任務喔。</Chinese>
-              <Chinesesimp>在此结束预览的教学课程。请记得常常预览任务喔。</Chinesesimp>
+              <Chinesesimp>在此结束预览的教程。请记得常常预览任务喔。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_preview_intro_text">
               <Original>When designing a scenario, it is important to periodically preview it from the player's point of view. This will give you a better picture about what the scenario looks like, how difficult it is and if it is actually fun.</Original>

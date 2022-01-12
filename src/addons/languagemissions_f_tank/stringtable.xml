@@ -92,7 +92,7 @@
           <Key ID="str_a3_tanks_m02_missionname">
             <Original>Salient Force</Original>
             <Chinese>突前力量</Chinese>
-            <Chinesesimp>突前力量</Chinesesimp>
+            <Chinesesimp>突进力量</Chinesesimp>
           </Key>
           <Key ID="str_a3_tanks_m02_mission">
             <Original>Although NATO have taken ground, they have not yet readied their defenses. If we act quickly, we may be able push them back and delay their attack on %2Pyrgos%1.&lt;br /&gt;&lt;br /&gt;The town of %3Dorida%1 is our primary objective.&lt;br /&gt;&lt;br /&gt;If we secure it and break through their lines, we can disrupt logistics and devastate their beachhead. However, watch out for civilians. There are hundreds of refugees fleeing south; so be sure you identify your targets.</Original>
@@ -1028,7 +1028,7 @@
             <Key ID="str_a3_ta_tanks_m03_030_am_blackfoot_message_arpilot_0">
               <Original>Altis Armed Forces, your government has surrendered.</Original>
               <Chinese>阿爾蒂斯武裝力量，你們的政府已經投降了。</Chinese>
-              <Chinesesimp>阿尔蒂斯武装力量，你们的政府已经投降了。</Chinesesimp>
+              <Chinesesimp>阿尔蒂斯武装部队，你们的政府已经投降了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m03_030_am_blackfoot_message_arpilot_1">
               <Original>Hostilities have ended.</Original>
@@ -1754,7 +1754,7 @@
           <Key ID="str_a3_tanks_m01_missionname">
             <Original>Lost Horizons</Original>
             <Chinese>失落地平線</Chinese>
-            <Chinesesimp>失落地平线</Chinesesimp>
+            <Chinesesimp>迷失地平线</Chinesesimp>
           </Key>
           <Key ID="str_a3_tanks_m01_mission">
             <Original>%2Checkpoint Sigma%1 just checked in. &lt;br /&gt;&lt;br /&gt;Apparently, they have some intel on guerrilla activity. My guess, it's another bootless errand, but, you never know. &lt;br /&gt;&lt;br /&gt;And seeing as you're heading out that way, %3Observation Post Omega%1 require a carburetor for their generator. The damn thing's broken down again.</Original>
@@ -3315,7 +3315,7 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_022_am_win_bet_lower_tdzulu_0">
               <Original>Yup, that's what I thought. See you at the RV, clown dick. Out.</Original>
               <Chinese>好，我就覺得會是這樣。集結點見，王牌小哥。通話完畢。</Chinese>
-              <Chinesesimp>好，我就觉得会是这样。集结点见，王牌小哥。通话完毕。</Chinesesimp>
+              <Chinesesimp>好，我就觉得会是这样。集结点见，臭弟弟。通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="021_am_win_zulu" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="021_am_win_zulu" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_021_am_win_zulu" note="" participants="TA_tdplayer;TA_tdzulu;" situation="player speaks with zulu regarding results of their bet.">
@@ -3732,7 +3732,7 @@
             <Key ID="str_a3_ta_showcase_tank_destroyers_001_ta_opening_speech_tdhq_0">
               <Original>Papa Bear to all callsigns, execute plan Flagstaff, out.</Original>
               <Chinese>Papa Bear呼叫全體呼號，執行計劃"弗拉格斯塔夫"，通話完畢。</Chinese>
-              <Chinesesimp>Papa Bear 呼叫全体呼号，执行计划"弗拉格斯塔夫"，通话完毕。</Chinesesimp>
+              <Chinesesimp>Papa Bear 呼叫全体呼号，执行计划"旗杆"，通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_001_ta_opening_speech_tdplayer_2">
               <Original>Oh, that's real original.</Original>

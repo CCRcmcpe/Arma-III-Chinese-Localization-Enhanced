@@ -301,8 +301,8 @@
       </Key>
       <Key ID="str_a3_wl_param16_title">
         <Original>BLUFOR Faction Config</Original>
-        <Chinese>藍方 派系設定</Chinese>
-        <Chinesesimp>蓝方 阵营配置</Chinesesimp>
+        <Chinese>藍方派系設定</Chinese>
+        <Chinesesimp>蓝方阵营配置</Chinesesimp>
 
       </Key>
       <Key ID="str_a3_wl_param16_desc">
@@ -367,8 +367,8 @@
       </Key>
       <Key ID="str_a3_wl_module_spawn_name">
         <Original>Warlords Spawn Point</Original>
-        <Chinese>軍閥 生成點數</Chinese>
-        <Chinesesimp>军阀 生成点</Chinesesimp>
+        <Chinese>軍閥生成點數</Chinese>
+        <Chinesesimp>军阀生成点</Chinesesimp>
       </Key>
       <Key ID="str_a3_wl_module_service_helipad">
         <Original>Helipad</Original>
@@ -377,8 +377,8 @@
       </Key>
       <Key ID="str_a3_wl_module_sector_name">
         <Original>Warlords Sector</Original>
-        <Chinese>軍閥 分區</Chinese>
-        <Chinesesimp>军阀 防区</Chinesesimp>
+        <Chinese>軍閥分區</Chinese>
+        <Chinesesimp>军阀防区</Chinesesimp>
       </Key>
       <Key ID="str_a3_wl_module_response_name">
         <Original>Warlords Response Team</Original>
@@ -579,8 +579,8 @@
       </Key>
       <Key ID="str_a3_wl_rules_title">
         <Original>Warlords Rules</Original>
-        <Chinese>軍閥 規則</Chinese>
-        <Chinesesimp>军阀 规则</Chinesesimp>
+        <Chinese>軍閥規則</Chinese>
+        <Chinesesimp>军阀规则</Chinesesimp>
       </Key>
       <Key ID="str_a3_wl_rules_text">
         <Original>%1OPFOR and BLUFOR are contesting factions%2The main goal is to seize the enemy base%2Sectors not yet seized by any faction are controlled by Independents%2Sectors not yet targeted by your faction are inaccessible%2Each faction votes for their next sector to be unlocked and seized%2Each sector periodically generates Command Points for all players of the controlling faction%2For Command Points you can request soldiers, vehicles, gear, as well as several strategic advantages from the Request menu%2Soldiers, vehicles and gear need to be airdropped%2Fast travel can only be used for soldiers, not for vehicles</Original>
@@ -875,7 +875,7 @@
       <Key ID="str_a3_wl_fasttravel_restr3">
         <Original>You need to leave your vehicle behind.</Original>
         <Chinese>您必須把載具留下。</Chinese>
-        <Chinesesimp>您 得把载具留下。</Chinesesimp>
+        <Chinesesimp>您得把载具留下。</Chinesesimp>
       </Key>
       <Key ID="str_a3_wl_fasttravel_restr2">
         <Original>Fast travel to this sector is not available.</Original>

@@ -13575,7 +13575,7 @@
       <Key ID="str_a3_cfgfactionclasses_ind_f0">
         <Original>AAF</Original>
         <Chinese>阿爾蒂斯武裝力量</Chinese>
-        <Chinesesimp>AAF</Chinesesimp>
+        <Chinesesimp>阿尔蒂斯武装部队</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgfactionclasses_ind_g_f0">
         <Original>FIA</Original>
@@ -14432,7 +14432,7 @@
         <Key ID="str_a3_cfgeditorsubcategories_edsubcat_apcs0">
           <Original>APCs</Original>
           <Chinese>裝甲運兵車</Chinese>
-          <Chinesesimp>装甲运兵车</Chinesesimp>
+          <Chinesesimp>装甲输送车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgeditorsubcategories_edsubcat_airports0">
           <Original>Airport</Original>
@@ -15067,12 +15067,12 @@
         <Key ID="str_a3_namesound_veh_vehicle_apc_p">
           <Original>APCs</Original>
           <Chinese>裝甲運兵車</Chinese>
-          <Chinesesimp>装甲运兵车</Chinesesimp>
+          <Chinesesimp>装甲输送车</Chinesesimp>
         </Key>
         <Key ID="str_a3_namesound_veh_vehicle_apc_s">
           <Original>APC</Original>
           <Chinese>裝甲運兵車</Chinese>
-          <Chinesesimp>装甲运兵车</Chinesesimp>
+          <Chinesesimp>装甲输送车</Chinesesimp>
         </Key>
         <Key ID="str_a3_namesound_veh_vehicle_armedcar_p">
           <Original>alpha victors</Original>

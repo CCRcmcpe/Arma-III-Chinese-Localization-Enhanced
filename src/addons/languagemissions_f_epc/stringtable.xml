@@ -1143,7 +1143,7 @@
           <Key ID="str_a3_campaign_c_m01_brief_situation">
             <Original>Our first attempt to seize the %3main airport%2 failed.%1However, after repelling an enemy counterattack, our forces are rallying for a decisive second assault. Meanwhile, recon reports that CSAT forces have pulled back from the front lines. It's unlikely we'll encounter anything other than AAF resistance.%1Your callsign's Nomad. You've proven yourself to be a trusted contact with the FIA, and an effective presence on the battlefield. You'll lead a small group of guerrillas in support of our three-stage main assault.%1Stage One: Our artillery will target the main CSAT armored defense in the %3airbase%2, securing the path for our assault force.%1Stage Two: Teams %4Nomad%2 and %5Echo%2 will eliminate any threat at a %6factory complex%2 near %7Lakka%2. The AAF garrison there consists of infantry and some APCs. It could strike at our forces from the rear and must be neutralized. The %8military installation%2 overlooking the %6complex%2 was hit by our artillery at 0430 and UAVs did not confirm any remaining enemy presence.%1Stage Three: When the factory complex is clear, teams %5Echo%2 and %4Nomad%2 will join the main assault on the %3airport%2.</Original>
             <Chinese>我們第一次肅清%3主機場%2的任務失敗了。%1然而，在我們成功抵禦了敵人的反攻之後，我們的部隊終於又集結了力量，準備進行第二次嘗試。同時，偵察報告指出廣協同盟已經從前線撤走了。看來目前我們只會遇到阿爾蒂斯武裝力量的抵抗。%1你小隊的呼號是"游牧民"。你已經證明了你是跟自由獨立同盟聯絡的一個很好的橋樑，也證明了你在戰場上的價值。你將帶領一支反抗軍小隊，協助我們進行三階段的突擊計劃。%1第一階段:我們的火炮將會對%3空軍基地%2裡的廣協同盟裝甲部隊進行壓制，為我們的主要突擊部隊清出一條路。%1第二階段:%4"游牧民"%2小隊和%5Echo%2將會肅清%7拉卡%2附近的%6工廠%2。那裡有一些阿爾蒂斯武裝力量守軍與裝甲運兵車。他們可能會造成我軍後方的危脅，所以必須殲滅之。俯瞰著%6工廠%2的%8軍事設施%2，在04:30的時候已經被我們的火炮給摧毀，而空中無人載具的報告指出那裡目前已經沒有殘餘的敵人了。%1第三階段:當工廠安全了後，%5Echo%2與%4"游牧民"%2小隊將會加入主要突擊，協助我們攻擊%3機場%2。</Chinese>
-            <Chinesesimp>我们第一次肃清%3主机场%2的任务失败了。%1然而，在我们成功抵御了敌人的反攻之后，我们的部队终于又集结了力量，准备进行决定性的第二次尝试。同时，侦察报告指出广协已经从前线撤走了。看来目前我们只会遇到 AAF 的抵抗。%1你小队的呼号是"游牧民"。你已经证明了你是跟 FIA 联络的一个很好的桥梁，也证明了你在战场上的价值。你将带领一支反抗军小队，协助我们进行三阶段的突击计划。%1第一阶段：我们的火炮将会对%3空军基地%2里的广协装甲部队进行压制，为我们的主要突击部队清出一条路。%1第二阶段：%4"游牧民"%2小队和%5Echo%2将会肃清%7拉卡%2附近的%6工厂%2。那里有一些 AAF 守军与装甲运兵车。他们可能会造成我军后方的危胁，所以必须歼灭之。俯瞰着%6工厂%2的%8军事设施%2在04：30时已被我火炮摧毁，而无人机报告指出那里目前已经没有残余的敌人了。%1第三阶段：当工厂安全了后，%5Echo%2与%4"游牧民"%2小队将会加入主要突击，协助我们攻击%3机场%2。</Chinesesimp>
+            <Chinesesimp>我们第一次肃清%3主机场%2的任务失败了。%1然而，在我们成功抵御了敌人的反攻之后，我们的部队终于又集结了力量，准备进行决定性的第二次尝试。同时，侦察报告指出广协已经从前线撤走了。看来目前我们只会遇到 AAF 的抵抗。%1你小队的呼号是"游牧民"。你已经证明了你是跟 FIA 联络的一个很好的桥梁，也证明了你在战场上的价值。你将带领一支反抗军小队，协助我们进行三阶段的突击计划。%1第一阶段：我们的火炮将会对%3空军基地%2里的广协装甲部队进行压制，为我们的主要突击部队清出一条路。%1第二阶段：%4"游牧民"%2小队和%5Echo%2将会肃清%7拉卡%2附近的%6工厂%2。那里有一些 AAF 守军与装甲输送车。他们可能会造成我军后方的危胁，所以必须歼灭之。俯瞰着%6工厂%2的%8军事设施%2在04：30时已被我火炮摧毁，而无人机报告指出那里目前已经没有残余的敌人了。%1第三阶段：当工厂安全了后，%5Echo%2与%4"游牧民"%2小队将会加入主要突击，协助我们攻击%3机场%2。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_m01_brief_signal">
             <Original>%2Nomad%1 - Your team.%3%4Echo%1 - Armored team reinforcing your assault on the %6factory complex%1.%3%5Golf%1 - Your airlift. It will provide transport to the %7airbase%1.%3Crossroads - Command.</Original>
@@ -1400,7 +1400,7 @@
             <Key ID="str_a3_c_m01_05_hello_ker_4">
               <Original>As a matter of fact, he did: we've got a couple of APC's on standby, callsign Echo-1. They're waiting for the signal to move in.</Original>
               <Chinese>事實上，是有的:我們有兩輛裝甲運兵車在待命中，呼號是"Echo-1"。他們會等待信號並一起攻擊。</Chinese>
-              <Chinesesimp>事实上，是有的：我们有几辆装甲运兵车在待命中，呼号是 Echo-1"。他们收到信号就跟我们一起上。</Chinesesimp>
+              <Chinesesimp>事实上，是有的：我们有几辆装甲输送车在待命中，呼号是 Echo-1"。他们收到信号就跟我们一起上。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m01_05_hello_ker_5">
               <Original>Right. So - once the factory is secure - we move to Stage Three. We'll get an airlift to the base and link up with the main assault.</Original>
@@ -2505,7 +2505,7 @@
           <Key ID="str_a3_campaign_c_out1_briefing_signal">
             <Original>%3Nomad%2 - Your team%1Crossroads - Head Quarters%1%4Delta-3-4%2 - Support APC%1%5Charlie-2-3%2 - Support Infantry%1Eagle - Ground attack fighters%1%3Golf-2-1%2 - Insertion chopper</Original>
             <Chinese>%3"游牧民"%2-你的小隊%1"交叉路"-指揮官%1%4"Delta-3-4"%2-支援的裝甲運兵車%1%5"Charlie-2-3"%2-支援的步兵%1"鷹"-對地攻擊機%1%3"Golf-2-1"%2-突入用直升機</Chinese>
-            <Chinesesimp>%3"游牧民"%2-你的小组%1"交叉路口"-指挥官%1%4Delta-3-4"%2-支援的装甲运兵车%1%5Charlie-2-3"%2-支援的步兵%1"鹰"-对地攻击机%1%3Golf-2-1"%2-突入用直升机</Chinesesimp>
+            <Chinesesimp>%3"游牧民"%2-你的小组%1"交叉路口"-指挥官%1%4Delta-3-4"%2-支援的装甲输送车%1%5Charlie-2-3"%2-支援的步兵%1"鹰"-对地攻击机%1%3Golf-2-1"%2-突入用直升机</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_c_out1_briefing_mission">
             <Original>Seize the enemy-controlled solar power station, designated %3Gamma%2, and the nearby town of Kalochori, designated %4Kappa%2.</Original>

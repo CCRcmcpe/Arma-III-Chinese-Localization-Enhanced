@@ -1419,7 +1419,7 @@
         <Key ID="str_a3_cfgvehicles_apc_wheeled_03_wapc0">
           <Original>AFV-4 Gorgon</Original>
           <Chinese>AFV-4"蛇髮女妖"裝甲運兵車</Chinese>
-          <Chinesesimp>AFV-4"蛇发女妖"装甲运兵车</Chinesesimp>
+          <Chinesesimp>AFV-4"蛇发女妖"装甲输送车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_apc_tracked_01_aa0">
           <Original>IFV-6a Cheetah</Original>
@@ -1596,7 +1596,7 @@
         <Key ID="str_a3_cfgvehicles_b_apc_wheeled_01_medical_library0">
           <Original>APC (Armored Personnel Carrier) vehicles are used to deploy soldiers and to exfiltrate them away from a battlezone. The vehicle is designed to sustain damage from mines and to quickly get to a designated position even in rough terrain.</Original>
           <Chinese>裝甲運兵車用於在前線部屬和撤離士兵。該載具具有抵禦地雷傷害的設計，並能夠迅速通過崎嶇的地形前往指定地點。</Chinese>
-          <Chinesesimp>装甲运兵车用于在前线部属和撤离士兵。该载具具有抵御地雷伤害的设计，并能够迅速通过崎岖的地形前往指定地点。</Chinesesimp>
+          <Chinesesimp>装甲输送车用于在前线部属和撤离士兵。该载具具有抵御地雷伤害的设计，并能够迅速通过崎岖的地形前往指定地点。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_suv_base_library0">
           <Original>A full-size luxury crossover SUV, not particularly suitable for off-road but with good on-road performance. Its powerful engine and 4x4 contribute to the enjoyable rides in higher speeds. </Original>
@@ -1611,7 +1611,7 @@
         <Key ID="str_a3_cfgvehicles_apc_wheeled_03_wapc_library0">
           <Original>The AFV-4 Gorgon is an amphibious 8x8 all-wheel-drive armored person carrier vehicle, used to carry soldiers to the battlefield and provide fire support. Its remote controlled CTWS turret is usually mounted with a 30 mm cannon, coaxial machinegun and 2 AT guided missiles. Crew consists of 11 soldiers including driver, gunner/commander.</Original>
           <Chinese>AFV-4"蛇髮女妖"是一臺水陸兩用的八輪驅動裝甲運兵車，用來運送士兵進入戰場，並同時提供火力支援。它使用埋頭彈武器系統，並裝設30公厘機砲，同軸機槍和兩枚反坦克導引飛彈。包括它本身的機組員，其最多可以搭載11名人員。</Chinese>
-          <Chinesesimp>AFV-4"蛇发女妖"是一种两栖8x8装甲运兵车，用来运送士兵进入战场，并同时提供火力支援。其遥控武器站通常装设30mm 机炮，同轴机枪和两枚反坦克导弹。包括它本身的乘员（驾驶员+车长/炮手）在内，其最多可以容纳11名人员。</Chinesesimp>
+          <Chinesesimp>AFV-4"蛇发女妖"是一种两栖8x8装甲输送车，用来运送士兵进入战场，并同时提供火力支援。其遥控武器站通常装设30mm 机炮，同轴机枪和两枚反坦克导弹。包括它本身的乘员（驾驶员+车长/炮手）在内，其最多可以容纳11名人员。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_02_base_library0">
           <Original>A modernized version of the Russian T-95 MBT. The ongoing development of the new generation battle tank was restarted in 2016 thanks to revenues from the oil crisis. The new concept of battle tank is lower and lighter, with increased maneuverability. The T-100 Varsuk comes with a standard 125 mm cannon, 7.62 mm coaxial machine gun and a commander-controlled NSVT-M 12.7 mm HMG.</Original>

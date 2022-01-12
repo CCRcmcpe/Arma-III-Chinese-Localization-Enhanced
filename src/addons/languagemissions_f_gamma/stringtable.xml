@@ -212,12 +212,12 @@
             <Key ID="str_a3_faction_independent_05_i_ground_exi_0">
               <Original>The Strider is a medium armored personnel carrier designed for recon and troop transport roles.</Original>
               <Chinese>"挺進者"是一臺中型的裝甲運兵車，被設計用來做偵察與小隊運輸的任務。</Chinese>
-              <Chinesesimp>"挺进者"是一种中型装甲运兵车，被设计用来做侦察与部队运输的任务。</Chinesesimp>
+              <Chinesesimp>"挺进者"是一种中型装甲输送车，被设计用来做侦察与部队运输的任务。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_05_i_ground_exi_1">
               <Original>The AFV-4 Gorgon is an 8x8 APC armed with a 30mm cannon.</Original>
               <Chinese>AFV-4"蛇髮女妖"是一臺8輪驅動的裝甲運兵車，配備著30公厘加農砲。</Chinese>
-              <Chinesesimp>AFV-4"蛇发女妖"是一种8轮驱动的装甲运兵车，配备着30mm 机炮。</Chinesesimp>
+              <Chinesesimp>AFV-4"蛇发女妖"是一种8轮驱动的装甲输送车，配备着30mm 机炮。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_05_i_ground_exi_2">
               <Original>The quad bike is an all-terrain vehicle used for recon and to access terrain heavier vehicles cannot traverse.</Original>
@@ -229,7 +229,7 @@
             <Key ID="str_a3_faction_independent_01_i_expowelcome_exi_0">
               <Original>Welcome to the Altis Armed Forces expo.</Original>
               <Chinese>歡迎參加阿爾蒂斯武裝力量的軍武展示大會。</Chinese>
-              <Chinesesimp>欢迎参加阿尔蒂斯武装力量的开放日。</Chinesesimp>
+              <Chinesesimp>欢迎参加阿尔蒂斯武装部队的开放日。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_01_i_expowelcome_exi_1">
               <Original>Drop by each expo zone and view the range of weapons, vehicles and aircraft on display.</Original>
@@ -390,7 +390,7 @@
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_2">
               <Original>The Panther is an armored personnel carrier armed with a 12.7mm machine gun, 40mm grenade launcher, and a cargo capacity for up to eight soldiers.</Original>
               <Chinese>"黑豹"是一臺裝甲運兵車，配備有12.7公厘機槍，40公厘榴彈發射器，可以乘載8名人員的空間。</Chinese>
-              <Chinesesimp>"黑豹"是一种装甲运兵车，配备有12.7 mm 机枪，40mm 榴弹发射器，可容纳8名载员。</Chinesesimp>
+              <Chinesesimp>"黑豹"是一种装甲输送车，配备有12.7 mm 机枪，40mm 榴弹发射器，可容纳8名载员。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_3">
               <Original>The Prowler is NATO's standard-issue Light Strike Vehicle used by special operation groups, with its advantages over other vehicles being its small profile and high mobility.</Original>
@@ -541,7 +541,7 @@
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_0">
               <Original>The MSE-3 Marid is a maneuverable, amphibious 6-wheeled APC.</Original>
               <Chinese>MSE-3"馬里德"是一臺具有高機動性，與兩棲作戰能力的6輪裝甲運兵車。</Chinese>
-              <Chinesesimp>MSE-3"马里德"是一台具有高机动性与两栖作战能力的6轮装甲运兵车。</Chinesesimp>
+              <Chinesesimp>MSE-3"马里德"是一台具有高机动性与两栖作战能力的6轮装甲输送车。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_1">
               <Original>The Ifrit is a Mine Resistant Ambush Protected vehicle designed and manufactured in Russia.</Original>
@@ -1126,7 +1126,7 @@
             <Key ID="str_a3_showcase_tanks_05_meeting_nom_2">
               <Original>Reports indicate infantry, APCs - even a couple of Main Battle Tanks.</Original>
               <Chinese>報告中指出敵軍有步兵，裝甲運兵車-甚至是幾臺主戰坦克。</Chinese>
-              <Chinesesimp>报告中指出敌军有步兵，装甲运兵车—甚至是几辆主战坦克。</Chinesesimp>
+              <Chinesesimp>报告中指出敌军有步兵，装甲输送车—甚至是几辆主战坦克。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_tanks_05_meeting_nom_3">
               <Original>So stay focused. Keep formation. Let's roll out.</Original>
@@ -1334,7 +1334,7 @@
             <Key ID="str_a3_showcase_armed_assault_90_minefielddefused_bhq_0">
               <Original>Copy that. Outstanding work, Alpha-5. Out.</Original>
               <Chinese>收到。幹的好，"Alpha-5"。通話完畢。</Chinese>
-              <Chinesesimp>收到。干的好，Alpha-5"。通话完毕。</Chinesesimp>
+              <Chinesesimp>收到。干的好，Alpha-5。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_90_minefielddefused_pla_0">
               <Original>Papa Bear, update, mines defused. Path is clear. Over.</Original>
@@ -1385,7 +1385,7 @@
             <Key ID="str_a3_showcase_armed_assault_75_logistics_alp_0">
               <Original>Affirmative, Papa Bear. Dispatching Alpha-5.</Original>
               <Chinese>可以的，Papa Bear。將派出"Alpha-5"。</Chinese>
-              <Chinesesimp>可以的，Papa Bear。将派出 Alpha-5"。</Chinesesimp>
+              <Chinesesimp>可以的，Papa Bear。将派出 Alpha-5。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_75_logistics_alp_1">
               <Original>Kerry, link up with the convoy at the main base. How copy? Over.</Original>
@@ -1461,7 +1461,7 @@
             <Key ID="str_a3_showcase_armed_assault_60_roadblock_alp_4">
               <Original>Kerry, Echo is in support if necessary. Make damn sure that it's clear for the IFVs before calling them in. Understood? Over.</Original>
               <Chinese>克里，假如你有需要的話，Echo可以隨時支援。請務必確認該區已無可以對裝甲運兵車造成威脅的武器，在請求他們的支援。了解嗎?完畢。</Chinese>
-              <Chinesesimp>克里，假如你有需要的话，Echo 可以随时支援。请务必确认该区已无可以对装甲运兵车造成威胁的武器，再请求他们的支援。了解吗？完毕。</Chinesesimp>
+              <Chinesesimp>克里，假如你有需要的话，Echo 可以随时支援。请务必确认该区已无可以对装甲输送车造成威胁的武器，再请求他们的支援。了解吗？完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_60_roadblock_ech_0">
               <Original>Affirmative, Alpha, Echo standing by.</Original>
@@ -2127,7 +2127,7 @@
         <Key ID="STR_A3_Showcase_Drones_Showcase_Summary_text">
           <Original>Utilize Arma 3's unmanned ground and aerial vehicles. Complete a daring operation behind enemy lines.</Original>
           <Chinese>利用武裝突襲3新增的地面與空中無人載具。來完成一個大膽的敵後行動。</Chinese>
-          <Chinesesimp>利用武装突袭3新增的地面与无人机。来完成一个大胆的敌后行动。</Chinesesimp>
+          <Chinesesimp>利用武装突袭3新增的无人车和无人机。来完成一个大胆的敌后行动。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_drones_titlecard">
           <Original>SHOWCASE: DRONES - Armed UAVs &amp; UGVs, Recon Quadrocopter, High Value Target</Original>
@@ -2770,7 +2770,7 @@
         <Key ID="STR_A3_Showcase_Showcase_Faction_INDEPENDENT_Summary_text">
           <Original>Review Arma 3's AAF faction and attend the fixed-wing demonstration.</Original>
           <Chinese>體驗武裝突襲3的阿爾蒂斯武裝力量陣營，並參觀固定翼飛機的演習。</Chinese>
-          <Chinesesimp>体验武装突袭3的 AAF 阵营，并参观固定翼飞机的演习。</Chinesesimp>
+          <Chinesesimp>体验武装突袭3的阿尔蒂斯武装部队（AAF）阵营，并参观固定翼飞机的演习。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_independent_weapons_title">
           <Original>Weapons</Original>
@@ -2825,7 +2825,7 @@
         <Key ID="str_a3_showcase_faction_independent_ground_description">
           <Original>Try out the AAF's vehicles, including MRAPS, Supply trucks and Armored Personnel Carriers.</Original>
           <Chinese>嘗試阿爾蒂斯武裝力量的車輛載具，包括防地雷反伏擊車，補給卡車與裝甲運兵車。</Chinese>
-          <Chinesesimp>尝试 AAF 的车辆，包括防地雷反伏击车，补给卡车与装甲运兵车。</Chinesesimp>
+          <Chinesesimp>尝试 AAF 的车辆，包括防地雷反伏击车，补给卡车与装甲输送车。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_independent_expo_title">
           <Original>Expo</Original>
@@ -2937,7 +2937,7 @@
         <Key ID="str_a3_showcase_faction_opfor_ground_description">
           <Original>Try out CSAT's wheeled and tracked ground vehicles, from quad bikes to supply trucks, Armored Personnel Carriers to Self-Propelled Guns</Original>
           <Chinese>體驗廣協同盟的輪式與履帶式載具，從四輪機車到補給卡車，裝甲運兵車到自走砲。</Chinese>
-          <Chinesesimp>体验广协的轮式与履带式载具，从四轮机车到补给卡车，装甲运兵车到自走炮。</Chinesesimp>
+          <Chinesesimp>体验广协的轮式与履带式载具，从四轮机车到补给卡车，装甲输送车到自走炮。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_opfor_expo_title">
           <Original>Expo</Original>
@@ -3049,7 +3049,7 @@
         <Key ID="str_a3_showcase_faction_blufor_ground_description">
           <Original>Try out NATO's wheeled and tracked vehicles, from quad bikes to 8-wheel trucks, Armored Personnel Carriers to Self-Propelled Guns.</Original>
           <Chinese>體驗北約的輪式與履帶式載具，從四輪機車到八輪大卡車，裝甲運兵車到自走砲。</Chinese>
-          <Chinesesimp>体验北约的轮式与履带式车辆，从四轮机车到八轮大卡车，装甲运兵车到自行火炮。</Chinesesimp>
+          <Chinesesimp>体验北约的轮式与履带式车辆，从四轮机车到八轮大卡车，装甲输送车到自行火炮。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_blufor_expo_title">
           <Original>Expo</Original>

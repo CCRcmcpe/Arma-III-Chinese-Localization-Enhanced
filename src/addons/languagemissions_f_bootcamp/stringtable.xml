@@ -1260,7 +1260,7 @@
           <Key ID="str_a3_boot_m02_briefing_situation_text">
             <Original>Peacekeeping efforts continue in The Republic of Altis and Stratis following the Civil War. Although some progress has been made, the newly-established government still faces serious obstacles, namely the inexperience of the Altis Armed Forces, or AAF for short.%1Officially, NATO Peacekeepers, primarily stationed on Stratis, have been seconded to Altis to cooperate and consult with the AAF. Unofficially, they have been assisting with training members of the AAF in order to ensure their ability to maintain security within the Republic itself.%2Recently, however, member states of CSAT have expressed interest in the Republic, further increasing already-heightened global tensions with NATO.</Original>
             <Chinese>維和行動持續在剛經歷過內戰的阿爾蒂斯和斯特拉蒂斯共和國上進行著。儘管安全已經有些進展，但新成立的政府仍面臨嚴峻的考驗，他們的軍隊全名是阿爾蒂斯武裝力量，簡稱阿爾蒂斯武裝力量。%1表面上來說，北約的維和部隊只駐紮在斯特拉蒂斯，但他們現在被調派到阿尔蒂斯主島上來與阿爾蒂斯武裝力量進行合作。事實上，他們私底下仍持續訓練著阿爾蒂斯武裝力量的士兵，好讓他們有能力自己維持島嶼的和平。%2然而，最近廣東協議同盟的會員國逐漸展現出對這個小共和國的興趣，使本已緊張的局勢更進一步升高。</Chinese>
-            <Chinesesimp>维和行动在刚经历过内战的阿尔蒂斯和斯特拉蒂斯共和国内继续进行。尽管已经有了一些进展，但新成立的政府仍面临严峻的考验，特别缺乏经验的政府军，阿尔蒂斯武装力量，简称 AAF。%1表面上来说，虽然北约维和部队基本只驻扎在斯特拉蒂斯，在阿尔蒂斯岛上只作为合作并提供顾问意见的次要力量。不过从非官方角度上，他们仍持续训练着 AAF 的士兵，以便让他们有能力自己维持共和国的和平。%2然而，最近广东协议同盟组织的成员国逐渐展现出对这个小共和国的兴趣，使本已紧张的局势进一步加剧。</Chinesesimp>
+            <Chinesesimp>维和行动在刚经历过内战的阿尔蒂斯和斯特拉蒂斯共和国内继续进行。尽管已经有了一些进展，但新成立的政府仍面临严峻的考验，特别缺乏经验的政府军，阿尔蒂斯武装部队，简称 AAF。%1表面上来说，虽然北约维和部队基本只驻扎在斯特拉蒂斯，在阿尔蒂斯岛上只作为合作并提供顾问意见的次要力量。不过从非官方角度上，他们仍持续训练着 AAF 的士兵，以便让他们有能力自己维持共和国的和平。%2然而，最近广东协议同盟组织的成员国逐渐展现出对这个小共和国的兴趣，使本已紧张的局势进一步加剧。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m02_bis_tank_title">
             <Original>Run to the Tank</Original>

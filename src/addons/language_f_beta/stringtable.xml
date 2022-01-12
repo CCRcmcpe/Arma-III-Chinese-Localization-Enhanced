@@ -2006,7 +2006,7 @@
         <Key ID="str_a3_cfgvehicles_o_apc_wheeled_02_rcws">
           <Original>MSE-3 Marid</Original>
           <Chinese>MSE-3"馬里德"裝甲運兵車</Chinese>
-          <Chinesesimp>MSE-3"马里德"装甲运兵车</Chinesesimp>
+          <Chinesesimp>MSE-3"马里德"装甲输送车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_heli_transport_01_camo_f0">
           <Original>UH-80 Ghost Hawk (Camo)</Original>
@@ -2128,7 +2128,7 @@
         <Key ID="str_a3_cfgvehicles_apc_tracked_01_base_library0">
           <Original>While both IFV-6c Panther and IFV-6a Cheetah are based on the Israeli armored personnel carrier chassis, they serve different roles in combat. The Panther is an APC that boasts strong armor to achieve maximal protection for the transported crew. The standard Panther is armed with an RCWS HMG, 40 mm GMG and smoke grenades and it can take up to 8 soldiers in its cargo area. The Cheetah is a dedicated AA vehicle. The cargo space is taken up by ammunition storage and vehicle is armed with two 35 mm autocannons, four long range surface-to-air missiles and smoke grenades. The CRV (Combat Recovery Vehicle) variant of the IFV-6 also exists and is used by BLUFOR, designation CRV-6e Bobcat.</Original>
           <Chinese>雖然IFV-6c"黑豹"和IFV-6a"獵豹"同樣都採用以色列裝甲運兵車的底盤，但它們在戰鬥中擔當的是不同的角色。"黑豹"是一種裝甲運兵車，具有厚重的裝甲，為乘員提供最大限度的防護。標準型的"黑豹"配有一個遙控重機槍炮塔，20公厘榴彈機槍和煙霧彈，其後座最多可運載8名士兵。"獵豹"則是專門的防空系統。其後座被用於存放彈藥，並配有兩座35公厘自動炮和煙霧彈，以及四枚遠程地空飛彈。此外藍方還使用的IFV-6衍生型為CRV(戰鬥搶救車)，名為CRV-6e"公貓"。</Chinese>
-          <Chinesesimp>虽然 IFV-6c"黑豹"和 IFV-6a"猎豹"同样都采用以色列装甲运兵车的底盘，但它们在战斗中担当的是不同的角色。"黑豹"是一种装甲运兵车，具有厚重的装甲，为乘员提供最大限度的防护。标准型的"黑豹"配有一个遥控重机枪炮塔，20mm 榴弹发射器和烟雾弹，其后座最多可运载8名士兵。"猎豹"则是专门的防空系统。其后座被用于存放弹药，并配有两座35mm 机炮和烟雾弹，以及四枚远程地空导弹。此外蓝方还使用的 IFV-6衍生型为 CRV（战斗抢救车），名为 CRV-6e"公猫"。</Chinesesimp>
+          <Chinesesimp>虽然 IFV-6c"黑豹"和 IFV-6a"猎豹"同样都采用以色列装甲输送车的底盘，但它们在战斗中担当的是不同的角色。"黑豹"是一种装甲输送车，具有厚重的装甲，为乘员提供最大限度的防护。标准型的"黑豹"配有一个遥控重机枪炮塔，20mm 榴弹发射器和烟雾弹，其后座最多可运载8名士兵。"猎豹"则是专门的防空系统。其后座被用于存放弹药，并配有两座35mm 机炮和烟雾弹，以及四枚远程地空导弹。此外蓝方还使用的 IFV-6衍生型为 CRV（战斗抢救车），名为 CRV-6e"公猫"。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_APC_Tracked_02_lib0">
           <Original>The infantry fighting vehicle BTR-K Kamysh and its anti-aircraft cousin ZSU-39 Tigris share the same vehicle platform. Developed by Russia with a pinch of undeniable inspiration from Israeli IFVs, they serve in the OPFOR army as a prime example of a leveling of the technology field with the West. The Kamysh is equipped with a CTWS turret fitted with a 30 mm cannon, coaxial machinegun and 2 guided AT missiles, making the vehicle significant in the infantry support role. The Tigris is fitted with a 35 mm autocannon and 4 Titan AA missiles.</Original>
@@ -2138,12 +2138,12 @@
         <Key ID="str_a3_cfgvehicles_apc_wheeled_01_library0">
           <Original>APC (Armored Personnel Carrier) vehicles are used to deploy soldiers and to exfiltrate them away from a battlezone. The AMV-7 Marshall has a mounted 40 mm CTWS cannon and a coaxial M200 light machine gun. The vehicle is designed to sustain damage from mines and to quickly get to a designated position even in rough terrain or over water. </Original>
           <Chinese>裝甲運兵車用於在前線部屬和撤離士兵。AMV-7"警長"使用埋頭彈武器系統，並裝設40公厘機砲和一架M200輕機槍。該載具能有效抵禦地雷的傷害，並能夠迅速通過崎嶇的地形前往指定地點。而AMV-7裝甲醫療車則是用來載運傷患與醫療器材的載具。</Chinese>
-          <Chinesesimp>装甲运兵车用于在前线部署和撤离士兵。AMV-7"警长"装备40mm 埋头弹武器系统和一挺M200轻机枪。该车能有效抵御地雷的伤害，并能够迅速通过崎岖的地形前往指定地点。而 AMV-7装甲医疗车则用来载运伤患与医疗器材。</Chinesesimp>
+          <Chinesesimp>装甲输送车用于在前线部署和撤离士兵。AMV-7"警长"装备40mm 埋头弹武器系统和一挺M200轻机枪。该车能有效抵御地雷的伤害，并能够迅速通过崎岖的地形前往指定地点。而 AMV-7装甲医疗车则用来载运伤患与医疗器材。</Chinesesimp>
         </Key>
         <Key ID="str_a3_CfgVehicles_apc_wheeled_02_library0">
           <Original>The MSE-3 Marid is an amphibious 6-wheeled APC used by the OPFOR army. It's an agile and maneuverable vehicle with a low silhouette and compact size. Its reliability and maintenance costs match the western APCs. It's fitted as standard with an RCWS turret with 40 mm GMG and 6.5 mm LMG and is able to carry up to 8 soldiers in the cargo space.</Original>
           <Chinese>MSE-3"馬里德"是一臺紅方的兩棲六輪裝甲運兵車。它是一輛低底盤和小尺寸的敏捷機動車。其可靠性和維護成本比得上西方的裝甲運兵車。它的標準配備是裝設有40公厘榴彈機槍和6.5公厘輕機槍的遙控砲塔。它能夠在後座搭載8名士兵。</Chinese>
-          <Chinesesimp>MSE-3"马里德"是一台红方的两栖六轮装甲运兵车。这是一种低底盘，小尺寸的敏捷型机动车辆。其可靠性和维护成本比得上西方的装甲运兵车。它的标准配备是装有40mm 榴弹发射器和6.5 mm 轻机枪的遥控武器站。它能够在后座搭载8名士兵。</Chinesesimp>
+          <Chinesesimp>MSE-3"马里德"是一台红方的两栖六轮装甲输送车。这是一种低底盘，小尺寸的敏捷型机动车辆。其可靠性和维护成本比得上西方的装甲输送车。它的标准配备是装有40mm 榴弹发射器和6.5 mm 轻机枪的遥控武器站。它能够在后座搭载8名士兵。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_truck_01_base_library0">
           <Original>The Heavy Expanded Mobility Tactical Truck is an 8x8 diesel-powered off-road truck. It serves as a standard heavy transport vehicle for BLUFOR armies. There are several versions covering the basic transport functions: cargo, refuel, medical, repair, and ammo resupply. </Original>

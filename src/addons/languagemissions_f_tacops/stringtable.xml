@@ -191,7 +191,7 @@
           <Key ID="str_a3_to_c01m02_task_rearm_mechanized_description">
             <Original>Rearm your APC at the ammo truck near the checkpoint.</Original>
             <Chinese>彈藥卡車停在檢查哨附近，為裝甲運兵車重整武裝。</Chinese>
-            <Chinesesimp>在关卡附近的弹药运输车为你的装甲运兵车补充弹药。</Chinesesimp>
+            <Chinesesimp>在关卡附近的弹药运输车为你的装甲输送车补充弹药。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01m02_task_joinsniper_title">
             <Original>Join Falcon (Optional)</Original>
@@ -306,12 +306,12 @@
           <Key ID="str_a3_to_c01m02_task_board_mechanized_title">
             <Original>Get in APC</Original>
             <Chinese>進入裝甲運兵車</Chinese>
-            <Chinesesimp>进入装甲运兵车</Chinesesimp>
+            <Chinesesimp>进入装甲输送车</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01m02_task_board_mechanized_description">
             <Original>Get in one of the Gorgon APCs, waiting to take Centaur to the AO.</Original>
             <Chinese>坐進要送"蛇髮女妖"去任務區的"半人馬"裝甲運兵車。</Chinese>
-            <Chinesesimp>坐上一辆"蛇发女妖"装甲运兵车，等待将"半人马"带到行动区域。</Chinesesimp>
+            <Chinesesimp>坐上一辆"蛇发女妖"装甲输送车，等待将"半人马"带到行动区域。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01m02_task_board_infantry_title">
             <Original>Get in Vehicle</Original>
@@ -612,7 +612,7 @@
             <Key ID="str_a3_to_c01_m02_059_eve_mechanized_apc_immobile_ai_centaur_1">
               <Original>APC's worth more than we are, so gotta sit tight... can't risk it changing hands again.</Original>
               <Chinese>裝甲運兵車比我們重要多了，必須撐住...不能讓這車子又落到敵人手上。</Chinese>
-              <Chinesesimp>装甲运兵车比我们还值钱，所以我们得呆着不动...不能冒它再落到敌人手里的风险。</Chinesesimp>
+              <Chinesesimp>装甲输送车比我们还值钱，所以我们得呆着不动...不能冒它再落到敌人手里的风险。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c01_m02_059_eve_mechanized_apc_immobile_ai_mavros_0">
               <Original>Yeah, any fucking excuse, Thanos...</Original>
@@ -915,7 +915,7 @@
             <Key ID="str_a3_to_c01_m02_040_eve_mechanized_apc_arriving_mavros_0">
               <Original>Of an APC?</Original>
               <Chinese>指揮裝甲運兵車?</Chinese>
-              <Chinesesimp>一辆装甲运兵车？</Chinesesimp>
+              <Chinesesimp>一辆装甲输送车？</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c01_m02_040_eve_mechanized_apc_arriving_mavros_1">
               <Original>That's not a good idea, I've got no experience! Over.</Original>
@@ -952,7 +952,7 @@
             <Key ID="str_a3_to_c01_m02_039_ta_mechanized_checkpoint_clear_olympos_2">
               <Original>Hold your position - another APC is on its way, out.</Original>
               <Chinese>堅守岡位-另一臺裝甲運兵車在路上了，結束通話。</Chinese>
-              <Chinesesimp>守住阵地—另一辆装甲运兵车正在路上，完毕。</Chinesesimp>
+              <Chinesesimp>守住阵地—另一辆装甲输送车正在路上，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="038_ta_mechanized_battle_cry" audioFilePath="\a3\dubbing_f_tacops\to_c01_m02" dialogName="038_ta_mechanized_battle_cry" dubbingLanguage="english" namePrefix="to_c01_m02_038_ta_mechanized_battle_cry" note="" participants="TO_centaur;" situation="commander of friendly apc issues a battle cry.">
@@ -1010,7 +1010,7 @@
             <Key ID="str_a3_to_c01_m02_035_ta_mechanized_selected_centaur_1">
               <Original>Good! Choose some gear and, uh, get inside an APC.</Original>
               <Chinese>太好了!挑選裝備然後，呃，坐上裝甲運兵車。</Chinese>
-              <Chinesesimp>好！选择一些装备，并坐进一辆装甲运兵车。</Chinesesimp>
+              <Chinesesimp>好！选择一些装备，并坐进一辆装甲输送车。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c01_m02_035_ta_mechanized_selected_centaur_2">
               <Original>Don't scratch my paintwork!</Original>
@@ -1109,7 +1109,7 @@
             <Key ID="str_a3_to_c01_m02_028_eve_infantry_apc_support_centaur_0">
               <Original>Centaur to Hoplite, I reckon we can spare an APC.</Original>
               <Chinese>"半人馬"呼叫"重步兵"，我們可以挪出一臺裝甲運兵車。</Chinese>
-              <Chinesesimp>"半人马"呼叫"重步兵"，我想我们可以匀出一辆装甲运兵车。</Chinesesimp>
+              <Chinesesimp>"半人马"呼叫"重步兵"，我想我们可以匀出一辆装甲输送车。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c01_m02_028_eve_infantry_apc_support_centaur_1">
               <Original>You interested? Over.</Original>
@@ -1841,7 +1841,7 @@
           <Key ID="str_a3_to_c01m01_task_destroyapc_title">
             <Original>Destroy APC</Original>
             <Chinese>摧毀裝甲運兵車</Chinese>
-            <Chinesesimp>摧毁装甲运兵车</Chinesesimp>
+            <Chinesesimp>摧毁装甲输送车</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01m01_task_destroyapc_description">
             <Original>****TO TRANSLATE****</Original>
@@ -2745,7 +2745,7 @@
             <Key ID="str_a3_to_c01_m01_034_ta_apc_destroyed_artillery_falcon_0">
               <Original>Chimera... confirmed kill on Gorgon APC - Falcon, out.</Original>
               <Chinese>"奇美拉"...確認擊殺"蛇髮女妖"裝甲運兵車-"獵鷹"結束通話。</Chinese>
-              <Chinesesimp>"奇美拉"...确认摧毁"蛇发女妖"装甲运兵车-"猎鹰"，完毕。</Chinesesimp>
+              <Chinesesimp>"奇美拉"...确认摧毁"蛇发女妖"装甲输送车-"猎鹰"，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="033_ta_ifv_destroyed_artillery_b" audioFilePath="\a3\dubbing_f_tacops\to_c01_m01" dialogName="033_ta_ifv_destroyed_artillery_b" dubbingLanguage="english" namePrefix="to_c01_m01_033_ta_ifv_destroyed_artillery_b" note="" participants="TO_falcon;" situation="friendly artillery destroys an enemy vehicle. british special forces congratulate player.">
@@ -3527,7 +3527,7 @@
           <Key ID="str_a3_to_c02m02_task03_inf_description">
             <Original>Rendezvous with the APC from Foxtrot on the %1crossroads%2.</Original>
             <Chinese>與裝甲運兵車碰頭，位置在Foxtrot的%1十字路%2上。</Chinese>
-            <Chinesesimp>在%1交叉路口%2与从 Foxtrot 的装甲运兵车会合。</Chinesesimp>
+            <Chinesesimp>在%1交叉路口%2与从 Foxtrot 的装甲输送车会合。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c02m02_task02_spec_destination">
             <Original>Ambush Reinforcements</Original>
@@ -3642,7 +3642,7 @@
           <Key ID="str_a3_to_c02m02_onloadname">
             <Original>Disintegration Point</Original>
             <Chinese>四分五裂</Chinese>
-            <Chinesesimp>崩溃点</Chinesesimp>
+            <Chinesesimp>四分五裂</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c02m02_onloadmission">
             <Original>Having captured Chapoi and Cancon, NATO push north for a final offensive.</Original>
@@ -3652,7 +3652,7 @@
           <Key ID="str_a3_to_c02m02_missionname">
             <Original>Disintegration Point</Original>
             <Chinese>四分五裂</Chinese>
-            <Chinesesimp>崩溃点</Chinesesimp>
+            <Chinesesimp>四分五裂</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c02m02_missionfailed">
             <Original>MISSION FAILED</Original>
@@ -4028,7 +4028,7 @@
             <Key ID="str_a3_to_c02_m02_078_eve_inf_panther_lost_alphaspeaker_0">
               <Original>Guardian, some bastard just knocked out our APC!</Original>
               <Chinese>"守護者"，有幾個混帳弄爛了我們的裝甲運兵車!</Chinese>
-              <Chinesesimp>"守护者"，有个混蛋刚干掉了我们的装甲运兵车！</Chinesesimp>
+              <Chinesesimp>"守护者"，有个混蛋刚干掉了我们的装甲输送车！</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_078_eve_inf_panther_lost_alphaspeaker_1">
               <Original>It's not gonna be easy, now, sir, but yeah, affirmative - this shit's getting done. End of. Out.</Original>
@@ -5070,7 +5070,7 @@
             <Key ID="str_a3_to_c02_m02_017_ta_inf_supply_cleared_guardian_1">
               <Original>RV with that APC at the crossroads, grid 075-062.</Original>
               <Chinese>你去十字路和裝甲運兵車碰頭，方格坐標075-062。</Chinese>
-              <Chinesesimp>在交叉路口与那辆装甲运兵车会合，坐标075-062。</Chinesesimp>
+              <Chinesesimp>在交叉路口与那辆装甲输送车会合，坐标075-062。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_017_ta_inf_supply_cleared_guardian_2">
               <Original>Assume command, then approach Point Yellowstone, out.</Original>
@@ -5119,7 +5119,7 @@
             <Key ID="str_a3_to_c02_m02_015_ta_inf_alpha_to_supply_guardian_1">
               <Original>Once it's out the way, we'll get an APC to you from Foxtrot.</Original>
               <Chinese>解決這件事後，我們會從Foxtrot派一臺裝甲運兵車去你那裡。</Chinese>
-              <Chinesesimp>一旦搞定了它，我们就从 Foxtrot 派一辆装甲运兵车去你那。</Chinesesimp>
+              <Chinesesimp>一旦搞定了它，我们就从 Foxtrot 派一辆装甲输送车去你那。</Chinesesimp>
             </Key>
           </Container>
           <Container name="014_ta_inf_town_captured" audioFilePath="\a3\dubbing_f_tacops\to_c02_m02" dialogName="014_ta_inf_town_captured" dubbingLanguage="english" namePrefix="to_c02_m02_014_ta_inf_town_captured" note="" participants="TO_alphaspeaker;TO_charliespeaker;" situation="player informs hq that his group has captured the town. some enemy's have surrendered. hq tells player that a truck is on its way and that us special forces group will take care of them.">
@@ -5425,7 +5425,7 @@
             <Key ID="str_a3_to_c02_m02_002_br_inf_briefing_guardian_5">
               <Original>An APC from Echo will RV soon after, near the crossroads, here...</Original>
               <Chinese>Echo的裝甲運兵車很快會與你會合，碰面地點在十字路附近，這裡...</Chinese>
-              <Chinesesimp>一辆从 Echo 来的装甲运兵车不久将在交叉路口附近会合，这儿...</Chinesesimp>
+              <Chinesesimp>一辆从 Echo 来的装甲输送车不久将在交叉路口附近会合，这儿...</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m02_002_br_inf_briefing_guardian_6">
               <Original>Together, you'll head towards Point Yellowstone, eliminating any resistance you may encounter there.</Original>
@@ -5870,7 +5870,7 @@
             <Key ID="str_a3_to_c02_m01_086_ex_inf_player_apc_hit_alphaspeaker_0">
               <Original>Guardian, Alpha, we've just lost an APC!</Original>
               <Chinese>"守護者"，這是Alpha，我們剛損失一臺裝甲運兵車!</Chinese>
-              <Chinesesimp>"守护者"，Alpha，我们刚失去了一辆装甲运兵车！</Chinesesimp>
+              <Chinesesimp>"守护者"，Alpha，我们刚失去了一辆装甲输送车！</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c02_m01_086_ex_inf_player_apc_hit_alphaspeaker_1">
               <Original>These CSAT guys ain't using bargain basement shit, sir! Over.</Original>
@@ -6100,7 +6100,7 @@
             <Key ID="str_a3_to_c02_m01_021_eve_inf_medical_camp_support_c_echospeaker_1">
               <Original>Sure, and our APC? And the fillings outta my fucking teeth?</Original>
               <Chinese>好啊，需要我們的裝甲運兵車嗎?老子我牙縫裡的菜渣也摳給你如何?</Chinese>
-              <Chinesesimp>当然，需要我们的装甲运兵车？老子牙縫里的菜渣也扣给你如何？？</Chinesesimp>
+              <Chinesesimp>当然，需要我们的装甲输送车？老子牙縫里的菜渣也扣给你如何？？</Chinesesimp>
             </Key>
           </Container>
           <Container name="020_eve_inf_medical_camp_support_b" audioFilePath="\a3\dubbing_f_tacops\to_c02_m01" dialogName="020_eve_inf_medical_camp_support_b" dubbingLanguage="english" namePrefix="to_c02_m01_020_eve_inf_medical_camp_support_b" note="" participants="TO_guardian;TO_EchoSpeaker;TO_AlphaSpeaker;" situation="hq orders echo to assist player's group in capturing the medical camp. to follow eve_all_medical_camp_support_a.">
@@ -7525,7 +7525,7 @@
             <Key ID="str_a3_to_c03_m03_034_ta_enemy_reinforcements_inbound_maverick_1">
               <Original>You can expect 3 APCs full of infantry and one tank, over.</Original>
               <Chinese>總共是3臺裝甲運兵車，裡頭都是步兵，還有一輛戰車，完畢。</Chinese>
-              <Chinesesimp>你应该会看到3辆装满步兵的装甲运兵车和1辆坦克，完毕，请回复。</Chinesesimp>
+              <Chinesesimp>你应该会看到3辆装满步兵的装甲输送车和1辆坦克，完毕，请回复。</Chinesesimp>
             </Key>
           </Container>
           <Container name="033_ta_enemy_reinforcements" audioFilePath="\a3\dubbing_f_tacops\to_c03_m03" dialogName="033_ta_enemy_reinforcements" dubbingLanguage="english" namePrefix="to_c03_m03_033_ta_enemy_reinforcements" note="" participants="TO_maverick;" situation="enemy reinforcements arrive. maverick delays them.">
@@ -8046,7 +8046,7 @@
             <Key ID="str_a3_to_c03_m03_001_br_briefing_a_guardian_5">
               <Original>And Corporal Barlem, you'll resume command of your APC and retain your current callsign, Sierra.</Original>
               <Chinese>還有巴勒姆下士，你照樣指揮那臺裝甲運兵車，而且繼續維持目前的呼號，Sierra。</Chinese>
-              <Chinesesimp>巴勒姆下士，你将继续控制装甲运兵车，并保留当前的呼号 Sierra。</Chinesesimp>
+              <Chinesesimp>巴勒姆下士，你将继续控制装甲输送车，并保留当前的呼号 Sierra。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m03_001_br_briefing_a_guardian_6">
               <Original>Alpha will retake point Phoenix for us, and with Sierra, suppress enemy defenses.</Original>
@@ -8080,7 +8080,7 @@
             <Key ID="str_a3_to_c03_m02_020_ex_apc_destroyed_collins_1">
               <Original>That APC? It was the only chance we had...</Original>
               <Chinese>那臺裝甲運兵車是我們唯一的希望啊...</Chinese>
-              <Chinesesimp>那辆装甲运兵车？这是我们唯一的机会...</Chinesesimp>
+              <Chinesesimp>那辆装甲输送车？这是我们唯一的机会...</Chinesesimp>
             </Key>
           </Container>
           <Container name="019_ex_ao_boundary" audioFilePath="\a3\dubbing_f_tacops\to_c03_m02" dialogName="019_ex_ao_boundary" dubbingLanguage="english" namePrefix="to_c03_m02_019_ex_ao_boundary" note="" participants="TO_barklem;" situation="player moves to far from the mission objectives.">
@@ -8197,7 +8197,7 @@
             <Key ID="str_a3_to_c03_m02_014_ta_defending_point_superior_oscar_1">
               <Original>Got intel on APC, two armored cars, and an indeterminate number of foot mobiles.</Original>
               <Chinese>發現裝甲運兵車，兩臺裝甲、步兵數量未知。</Chinese>
-              <Chinesesimp>得到关于装甲运兵车的情报，两辆装甲车，还有数量不明的步兵。</Chinesesimp>
+              <Chinesesimp>得到关于装甲输送车的情报，两辆装甲车，还有数量不明的步兵。</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m02_014_ta_defending_point_superior_oscar_2">
               <Original>They're coming at us from the south and south-west... and from Chalkeia itself. Over.</Original>
@@ -8781,7 +8781,7 @@
           <Key ID="str_a3_to_c03m03_outrotext09">
             <Original>Cpl. Barklem was later transferred to Charlie Company of the 1st Mechanized Battalion and witnessed the formal surrender of Altis Armed Forces, one day later...</Original>
             <Chinese>巴克勒姆隨後被調往第一機械營Charlie連，一天後便目睹了阿爾蒂斯武裝力量正式投降...</Chinese>
-            <Chinesesimp>巴克勒姆下士转调到第一机械化营的 Charlie 连，一天后目睹了阿尔蒂斯武装力量的正式投降...</Chinesesimp>
+            <Chinesesimp>巴克勒姆下士转调到第一机械化营的 Charlie 连，一天后目睹了阿尔蒂斯武装部队的正式投降...</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m03_outrotext08c">
             <Original>Only a single wounded soldier collected from the emergency rendezvous point survived the conflict.</Original>
@@ -9121,7 +9121,7 @@
           <Key ID="str_a3_to_c03m02_end03desc">
             <Original>You lost your APC.</Original>
             <Chinese>你失去了裝甲運兵車。</Chinese>
-            <Chinesesimp>你的装甲运兵车被摧毁。</Chinesesimp>
+            <Chinesesimp>你的装甲输送车被摧毁。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c03m02_end02title">
             <Original>MISSION COMPLETE</Original>
@@ -9813,7 +9813,7 @@
             <Key ID="str_a3_to_c03_m01_015_eve_equipment_needed_collins_0">
               <Original>Roger, we're receiving! Tell me you have your APC!</Original>
               <Chinese>收到，我在聽!告訴我你們的裝甲運兵車還在!</Chinese>
-              <Chinesesimp>收到，我们正在接收！告诉我你的装甲运兵车还在！</Chinesesimp>
+              <Chinesesimp>收到，我们正在接收！告诉我你的装甲输送车还在！</Chinesesimp>
             </Key>
             <Key ID="str_a3_to_c03_m01_015_eve_equipment_needed_collins_1">
               <Original>Copy - linkup with us.</Original>
@@ -10244,7 +10244,7 @@
       <Key ID="str_a3_to_c03_outro_text07a">
         <Original>Cpl. Barklem was transferred into Charlie Company of 1st mechanized battalion and witnessed surrender of Altis Armed forces the next day.</Original>
         <Chinese>下士巴克勒姆被調往第一機械營Charlie連的第二天，他便目睹了阿爾蒂斯武裝力量投降。</Chinese>
-        <Chinesesimp>巴克勒姆下士转入第一机械化营的 Charlie 连，次日目睹了阿尔蒂斯武装力量的投降。</Chinesesimp>
+        <Chinesesimp>巴克勒姆下士转入第一机械化营的 Charlie 连，次日目睹了阿尔蒂斯武装部队的投降。</Chinesesimp>
       </Key>
       <Key ID="str_a3_to_c03_outro_text06b">
         <Original>%1 injured soldiers gathered at the emergency rendezvous point were evacuated and survived the war.</Original>
@@ -10834,7 +10834,7 @@
       <Key ID="STR_A3_role_APC">
         <Original>APC Crewman</Original>
         <Chinese>裝甲運兵車隊員</Chinese>
-        <Chinesesimp>装甲运兵车乘员</Chinesesimp>
+        <Chinesesimp>装甲输送车乘员</Chinesesimp>
       </Key>
       <Key ID="STR_A3_role_sniper">
         <Original>Sniper</Original>

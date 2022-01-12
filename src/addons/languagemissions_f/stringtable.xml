@@ -33,12 +33,12 @@
         <Key ID="str_a3_group_vipergreen">
           <Original>Viper-Green</Original>
           <Chinese>"毒蛇-綠"</Chinese>
-          <Chinesesimp>"毒蛇—绿"</Chinesesimp>
+          <Chinesesimp>"毒蛇-绿"</Chinesesimp>
         </Key>
         <Key ID="str_a3_callsign_bravo_green">
           <Original>Viper-Green</Original>
           <Chinese>"毒蛇-綠"</Chinese>
-          <Chinesesimp>"毒蛇—绿"</Chinesesimp>
+          <Chinesesimp>"毒蛇-绿"</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_hydra">
           <Original>Hydra</Original>

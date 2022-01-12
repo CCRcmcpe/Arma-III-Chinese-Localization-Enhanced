@@ -290,7 +290,7 @@
         <Key ID="str_a3_cfgorbat.fsmbis_i_aaf0">
           <Original>Altis Armed Forces</Original>
           <Chinese>阿爾蒂斯武裝力量</Chinese>
-          <Chinesesimp>阿尔蒂斯武装力量</Chinesesimp>
+          <Chinesesimp>阿尔蒂斯武装部队</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgorbat.fsmbis_b_falcon_description">
           <Original>The surviving remnants of TF Aegis, led by UKSF Captain Scott Miller.</Original>
@@ -499,7 +499,7 @@
         <Key ID="STR_A3_Campaign_Intro_08">
           <Original>The fifth anniversary of the Jerusalem Ceasefire again was used as a platform to push the legitimacy of the government in Pygros, with the commander of Altis Armed Forces, Colonel Georgious Akhanteros, bullishly defending the legacy of his military coup.</Original>
           <Chinese>耶路撒冷停火協定簽署五週年紀念又一次成為了皮爾戈斯政府自證其合法性的平臺。阿爾蒂斯武裝力量司令伊奧爾伊奧斯·阿坎特羅斯上校堅決捍衛其發動的軍事政變的成果。</Chinese>
-          <Chinesesimp>耶路撒冷停火协定签署五周年纪念又一次成为了皮尔戈斯政府自证其的合法性的平台。阿尔蒂斯武装力量司令伊奥尔伊奥斯·阿坎特罗斯上校坚决扞卫其发动的军事政变的成果。</Chinesesimp>
+          <Chinesesimp>耶路撒冷停火协定签署五周年纪念又一次成为了皮尔戈斯政府自证其的合法性的平台。阿尔蒂斯武装部队司令伊奥尔伊奥斯·阿坎特罗斯上校坚决扞卫其发动的军事政变的成果。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Campaign_Intro_09">
           <Original>'When Europe cast us out of their failed union of states, we rose from the ashes of a false society, a false economic norm.'</Original>
@@ -4559,7 +4559,7 @@
             <Key ID="str_a3_a_in2_40_contact_mil_3">
               <Original>Not so fast. Altis Armed Forces have concentrated themselves around Mike-26 and the air base, meaning there's sea AAF units between you and us.</Original>
               <Chinese>先不著急。阿爾蒂斯武裝力量集結在Mike-26與空軍基地附近，這意謂著我們跟你們之間存在著海量的敵人。</Chinese>
-              <Chinesesimp>先不着急。阿尔蒂斯武装力量正集结在 Mike-26与空军基地附近，这意味着你我之间存在着海量的敌人。</Chinesesimp>
+              <Chinesesimp>先不着急。阿尔蒂斯武装部队正集结在 Mike-26 与空军基地附近，这意味着你我之间存在着海量的敌人。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_in2_40_contact_mil_4">
               <Original>I'm dispatching a team to RV with you at 028037, just east of Camp Tempest. Our callsign is Falcon. Make your way there. Over.</Original>
@@ -4857,7 +4857,7 @@
           <Key ID="str_a3_a_in2_briefing_situation_text">
             <Original>Earlier this morning, Altis Armed Forces and NATO peacekeepers unexpectedly entered a state of sudden and bloody conflict. Exactly how this situation came about is not yet entirely clear.%1NATO Command issued 'Code Foxtrot': the complete and immediate withdrawal of all forces from Stratis. Those personnel remaining on the island can, for now, only try to survive long enough to regroup and reassess.</Original>
             <Chinese>今天稍早，阿爾蒂斯武裝力量(AAF)跟北約維和部隊無預警地進入交戰的狀態。目前還並不清楚為什麼會發生這種狀況。%1北約指揮部發布了'代號Foxtrot'的命令:立即撤離所有在斯特拉蒂斯上的部隊。現在，對於那些還被留在島上的人員，他們只能盡量的想辦法活下去，同時集結其他的倖存者並重新審視狀況。</Chinese>
-            <Chinesesimp>今天稍早，阿尔蒂斯武装力量（AAF）跟北约维和部队无预警地进入交战状态。目前还并不清楚为什么会发生这种状况。%1北约司令部发布了'代号 Foxtrot'的命令：立即撤离所有在斯特拉蒂斯岛上的部队。现在，对于那些还被留在岛上的人员，他们只能尽量的想办法活下去，同时集结其他的幸存者并重新审视状况。</Chinesesimp>
+            <Chinesesimp>今天稍早，阿尔蒂斯武装部队（AAF）跟北约维和部队无预警地进入交战状态。目前还并不清楚为什么会发生这种状况。%1北约司令部发布了'代号 Foxtrot'的命令：立即撤离所有在斯特拉蒂斯岛上的部队。现在，对于那些还被留在岛上的人员，他们只能尽量的想办法活下去，同时集结其他的幸存者并重新审视状况。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_in2_bis_survivors_title">
             <Original>Link Up with Bravo</Original>
@@ -5219,7 +5219,7 @@
           <Key ID="str_a3_a_m01_briefing_situation_text">
             <Original>We're still piecing together what happened this morning, but one thing's clear: Altis Armed Forces on Stratis are hostile.%1Right now, long-range comms are down, Commander MacKinnon is confirmed KIA and whatever equipment we may have had is either halfway-scrapped or fucked entirely.%2We need to organise. Rearm. Make a plan. Take back the initiative.%3We'll split up, Alpha through Delta. I've nominated four men to lead each squad. They've agreed to operate under my coordination.%4Now, our first priority is situational awareness. Half our force will move out on recon. Another squad will dig in %5here%6 and take stock of whatever equipment we've got at hand.%7That just leaves our most pressing concern. The AAF managed to bring down a Blackfoot. It crash-landed %8dangerously close to our position%9. There's a burning wreck and smoke-stack a mile high - that's no good.%10%11Alpha%12 will secure the crash site, make a sweep for survivors, and get rid of it.</Original>
             <Chinese>我們仍在設法拼湊今天早上到底發生了什麼事情，但有一件事是能確定的:在斯特拉蒂斯島上的阿爾蒂斯武裝力量是敵人。%1現在，長距離的通訊已被截斷，指揮官麥金農已經確定陣亡，並且不管有什麼裝備，一定都在來的路上就被完全擊毀或報廢了。%2我們需要重整態勢。重新武裝。制定一個計劃。奪回主動權。%3我們將會分成四個隊伍，從Alpha到Delta。我已經提名四個人來領導各個小隊。而且他們也同意接受我的指揮。%4現在，我們第一要務是要了解周遭的情況。我們一半的隊伍必須出外偵察。其餘的小隊將會留守%5這裡%6，並整理我們手頭上擁有的所有裝備。%7現在我們來討論最重要且迫切的問題。阿爾蒂斯武裝力量設法擊落了一臺"黑足"。它墜落在距離我們位置%8非常接近的地方%9。它燃燒的殘骸產生了達一英里高的煙霧-這並不是件好事。%10%11Alpha%12將會肅清墜機點，搜尋生還者，並處裡掉殘骸。</Chinese>
-            <Chinesesimp>我们仍在设法拼凑今天早上到底发生了什么事情，但有一件事是能确定的：在斯特拉蒂斯岛上的阿尔蒂斯武装力量是敌人。%1现在，长距离的通信已被截断，指挥官麦金农已经确定阵亡，并且我们手里的装备要么是半残要么已经完全报废了。%2我们需要重整态势。重新武装。制定一个计划。夺回主动权。%3我们将会分成四个班，从 Alpha 到 Delta。我已经提名四个人来领导各班。而且他们也同意接受我的指挥。%4现在，我们第一要务是状况感知。我们一半的队伍必须出外侦察。还有一个班将会留守%5这里%6，并整理我们手头上拥有的所有装备。%7现在我们来讨论最重要且迫切的问题。AAF 设法击落了一架"黑足"。它坠落在距离我们位置%8非常接近的地方%9。它燃烧的残骸产生了达一英里高的烟雾—这并不是件好事。%10%11Alpha%12将会肃清坠机点，搜寻生还者，并处理掉残骸。</Chinesesimp>
+            <Chinesesimp>我们仍在设法拼凑今天早上到底发生了什么事情，但有一件事是能确定的：在斯特拉蒂斯岛上的阿尔蒂斯武装部队是敌人。%1现在，长距离的通信已被截断，指挥官麦金农已经确定阵亡，并且我们手里的装备要么是半残要么已经完全报废了。%2我们需要重整态势。重新武装。制定一个计划。夺回主动权。%3我们将会分成四个班，从 Alpha 到 Delta。我已经提名四个人来领导各班。而且他们也同意接受我的指挥。%4现在，我们第一要务是状况感知。我们一半的队伍必须出外侦察。还有一个班将会留守%5这里%6，并整理我们手头上拥有的所有装备。%7现在我们来讨论最重要且迫切的问题。AAF 设法击落了一架"黑足"。它坠落在距离我们位置%8非常接近的地方%9。它燃烧的残骸产生了达一英里高的烟雾—这并不是件好事。%10%11Alpha%12将会肃清坠机点，搜寻生还者，并处理掉残骸。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m01_briefing_signal_text">
             <Original>%1Alpha%2 - Your squad.%3%4Falcon%5 - Camp Maxwell HQ.%6%7Bravo%8 - North-west sector recon.%9%10Charlie%11 - North-east sector recon.%12%13Delta%14 - Camp Maxwell defense.</Original>
@@ -6266,7 +6266,7 @@
             <Key ID="str_a3_a_hub_030_a_m01_briefing_mil_0">
               <Original>We're still piecing together what happened this morning, but one thing's clear: Altis Armed Forces on Stratis are hostile.</Original>
               <Chinese>我們仍在設法拼湊今天早上到底發生了什麼事情，但有一件事是能確定的:在斯特拉蒂斯島上的阿爾蒂斯武裝力量是敵人。</Chinese>
-              <Chinesesimp>我们仍在设法拼凑今天早上到底发生了什么事情，但有一件事是能确定的：在斯特拉蒂斯岛上的阿尔蒂斯武装力量是敌人。</Chinesesimp>
+              <Chinesesimp>我们仍在设法拼凑今天早上到底发生了什么事情，但有一件事是能确定的：在斯特拉蒂斯岛上的阿尔蒂斯武装部队是敌人。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_hub_030_a_m01_briefing_mil_1">
               <Original>Right now, long-range comms are down, Commander MacKinnon is confirmed KIA, and whatever equipment we may have had is either halfway-scrapped or wrecked entirely.</Original>

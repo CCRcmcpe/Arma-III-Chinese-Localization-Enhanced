@@ -51,22 +51,22 @@
         <Key ID="str_a3_orange_hub_choice_csat_1">
           <Original>CSAT, because they destabilized the region. They exploited a tense situation and emboldened the Altis Armed Forces. Their special forces orchestrated a deadly cluster strike, causing massive amounts of collateral damage.</Original>
           <Chinese>廣協同盟，因為他們讓整個地區動盪化。他們利用緊張局勢給阿爾蒂斯武裝力量撐腰。他們的特種部隊實施了一次致命的集束炸彈空襲，製造了嚴重的連帶損傷。</Chinese>
-          <Chinesesimp>广协，因为他们让整个地区动荡化。他们利用紧张局势给阿尔蒂斯武装力量撑腰。他们的特种部队实施了一次致命的集束炸弹空袭，制造了严重的连带损伤。</Chinesesimp>
+          <Chinesesimp>广协，因为他们让整个地区动荡化。他们利用紧张局势给阿尔蒂斯武装部队撑腰。他们的特种部队实施了一次致命的集束炸弹空袭，制造了严重的连带损伤。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_hub_choice_csat_0">
           <Original>CSAT, because they destabilized the region. They exploited a tense situation and emboldened the Altis Armed Forces. Their special forces orchestrated a deadly cluster strike, causing massive amounts of collateral damage. Many were killed, including a doctor working for IDAP!</Original>
           <Chinese>廣協同盟，因為他們讓整個地區動盪化。他們利用緊張局勢給阿爾蒂斯武裝力量撐腰。他們的特種部隊實施了一次致命的集束炸彈空襲，製造了嚴重的連帶損傷。很多人被殺，包括一名為國發援工作的大夫!</Chinese>
-          <Chinesesimp>广协，因为他们让整个地区动荡化。他们利用紧张局势给阿尔蒂斯武装力量撑腰。他们的特种部队实施了一次致命的集束炸弹空袭，制造了严重的连带损伤。很多人被杀，包括一名为国发援工作的大夫！</Chinesesimp>
+          <Chinesesimp>广协，因为他们让整个地区动荡化。他们利用紧张局势给阿尔蒂斯武装部队撑腰。他们的特种部队实施了一次致命的集束炸弹空袭，制造了严重的连带损伤。很多人被杀，包括一名为国发援工作的大夫！</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_hub_choice_aaf_1">
           <Original>The Altis Armed Forces, because they made an example of the town. They relied on fear and intimidation, meting out collective punishment. Furthermore, when defending against NATO's offensive, landmines were randomly dispersed around the church.</Original>
           <Chinese>阿爾蒂斯武裝力量，因為他們拿城鎮殺雞儆猴。他們憑借恐懼和恫嚇，實施不加區分的懲罰。除此之外，在防禦北約的進攻時，他們在教堂周圍隨即布撒了地雷。</Chinese>
-          <Chinesesimp>阿尔蒂斯武装力量，因为他们拿城镇杀鸡儆猴。他们凭借恐惧和恫吓，实施不加区分的惩罚。除此之外，在防御北约的进攻时，他们在教堂周围随即布撒了地雷。</Chinesesimp>
+          <Chinesesimp>阿尔蒂斯武装部队，因为他们拿城镇杀鸡儆猴。他们凭借恐惧和恫吓，实施不加区分的惩罚。除此之外，在防御北约的进攻时，他们在教堂周围随即布撒了地雷。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_hub_choice_aaf_0">
           <Original>The Altis Armed Forces, because they made an example of the town. They relied on fear and intimidation, meting out collective punishment. Furthermore, when defending against NATO's offensive, landmines were randomly dispersed around the church. There are also reports that wounded combatants were executed after the attack. </Original>
           <Chinese>阿爾蒂斯武裝力量，因為他們拿城鎮殺雞儆猴。他們憑借恐懼和恫嚇，實施不加區分的懲罰。除此之外，在防禦北約的進攻時，他們在教堂周圍隨即布撒了地雷。還有報告稱受傷的戰鬥員在戰鬥後被處決。</Chinese>
-          <Chinesesimp>阿尔蒂斯武装力量，因为他们拿城镇杀鸡儆猴。他们凭借恐惧和恫吓，实施不加区分的惩罚。除此之外，在防御北约的进攻时，他们在教堂周围随即布撒了地雷。还有报告称受伤的战斗员在战斗后被处决。</Chinesesimp>
+          <Chinesesimp>阿尔蒂斯武装部队，因为他们拿城镇杀鸡儆猴。他们凭借恐惧和恫吓，实施不加区分的惩罚。除此之外，在防御北约的进攻时，他们在教堂周围随即布撒了地雷。还有报告称受伤的战斗员在战斗后被处决。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_hub_cfgtaskdescriptions_orange_minedispenser_title">
           <Original>Church Grounds</Original>
@@ -319,7 +319,7 @@
           <Key ID="str_a3_orange_aan_text_choice_3">
             <Original>Answering a question on who he felt was responsible for the suffering in the town, MacDade talks of the Altis Armed Forces, describing how they wanted to wipe it off the map: "it's one thing fighting against a resistance. It's another to make the civilian population pay for it. As they clung to power they wound up scarring the very country they had pledged to protect.</Original>
             <Chinese>在回答他認為誰該為城鎮所遭受的苦難負責的時候，麥克達德提及了阿爾蒂斯武裝力量，他指出他們是如何想要將鎮子從地圖上抹去:"對抗抵抗組織是一回事，讓全體居民付出代價是另一回事。在他們奪取權力之後，他們就開始給他們宣誓保護的這個國家製造苦難。</Chinese>
-            <Chinesesimp>在回答他认为谁该为城镇所遭受的苦难负责的时候，麦克达德提及了阿尔蒂斯武装力量，他指出他们是如何想要将镇子从地图上抹去："对抗抵抗组织是一回事，让全体居民付出代价是另一回事。在他们夺取权力之后，他们就开始给他们宣誓保护的这个国家制造苦难。</Chinesesimp>
+            <Chinesesimp>在回答他认为谁该为城镇所遭受的苦难负责的时候，麦克达德提及了阿尔蒂斯武装部队，他指出他们是如何想要将镇子从地图上抹去："对抗抵抗组织是一回事，让全体居民付出代价是另一回事。在他们夺取权力之后，他们就开始给他们宣誓保护的这个国家制造苦难。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_choice_2">
             <Original>Answering a question on who he felt was responsible for the suffering in the town, MacDade is quick to accuse CSAT: "before they stepped in [and] pushed NATO out, there was a ceasefire in place, albeit a delicate one" he remembers. "And the cluster strike? It took the whole thing to the brink - and with so little to gain from such a terrifying show of force. The whole thing felt like a power-play from the get-go.</Original>
@@ -339,12 +339,12 @@
           <Key ID="str_a3_orange_aan_text_airdrop_1">
             <Original>As early as last year, freedom fighters were treating NATO as a hostile force. One U.S. peacekeeper was even ambushed while he inspected aid, unloaded over mountainous terrain during one of NATO's daring airdrops. Together with a small and inexperienced group of trainees from the Altis Armed Forces, he repelled the attack and brought food, water, and medical supplies to the region.</Original>
             <Chinese>至晚在幾年前，自由戰士就開始將北約作為敵對力量了。一名美軍維和部隊士兵甚至在檢查北約空投在山區的援助補給時遭到伏擊。在少數幾名無經驗的阿爾蒂斯武裝力量學兵的幫助下，他成功抵抗了攻擊並把食物、水和醫療補給帶回了該地。</Chinese>
-            <Chinesesimp>至晚在几年前，自由战士就开始将北约作为敌对力量了。一名美军维和部队士兵甚至在检查北约空投在山区的援助补给时遭到伏击。在少数几名无经验的阿尔蒂斯武装力量学兵的帮助下，他成功抵抗了攻击并把食物、水和医疗补给带回了该地。</Chinesesimp>
+            <Chinesesimp>至晚在几年前，自由战士就开始将北约作为敌对力量了。一名美军维和部队士兵甚至在检查北约空投在山区的援助补给时遭到伏击。在少数几名无经验的阿尔蒂斯武装部队学兵的帮助下，他成功抵抗了攻击并把食物、水和医疗补给带回了该地。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_airdrop_0">
             <Original>As early as last year, freedom fighters were treating NATO as a hostile force. One U.S. peacekeeper was even ambushed while he inspected aid, scattered over mountainous terrain during one of NATO's unsuccessful airdrops. Together with a small and inexperienced group of trainees from the Altis Armed Forces, he managed to stop the attack - but people in the area lost their lives as critical supplies failed to materialize.</Original>
             <Chinese>至晚在幾年前，自由戰士就開始將北約作為敵對力量了。一名美軍維和部隊士兵甚至在檢查北約空投在山區的援助補給時遭到伏擊。在少數幾名無經驗的阿爾蒂斯武裝力量學兵的幫助下，他成功抵抗了攻擊，但是因為寶貴的補給無法抵達，很多當地人因此而死。</Chinese>
-            <Chinesesimp>至晚在几年前，自由战士就开始将北约作为敌对力量了。一名美军维和部队士兵甚至在检查北约空投在山区的援助补给时遭到伏击。在少数几名无经验的阿尔蒂斯武装力量学兵的帮助下，他成功抵抗了攻击，但是因为宝贵的补给无法抵达，很多当地人因此而死。</Chinesesimp>
+            <Chinesesimp>至晚在几年前，自由战士就开始将北约作为敌对力量了。一名美军维和部队士兵甚至在检查北约空投在山区的援助补给时遭到伏击。在少数几名无经验的阿尔蒂斯武装部队学兵的帮助下，他成功抵抗了攻击，但是因为宝贵的补给无法抵达，很多当地人因此而死。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_9">
             <Original>After a spell of bad weather, on the night of October 13, the order for the strike was given. Suspected CSAT operatives intervened in support of the government and parachuted behind enemy lines to designate targets. As dawn broke, a jet approached from the east and dropped a cluster bomb on Oreokastro.</Original>
@@ -404,7 +404,7 @@
           <Key ID="str_a3_orange_aan_text_11">
             <Original>Hours later, Altis Armed Forces staged a final assault. Those that survived the two-week siege were caught in one last morning of violence, combatants and non-combatants alike. Among them was Markos Kouris, a mechanic searching for his brother who had joined the guerrillas several months prior.</Original>
             <Chinese>幾小時後，阿爾蒂斯武裝力量發動了最後1次突擊。在兩個星期的圍城中倖存的人又在這最後一早的衝突中喪生，戰鬥人員和非戰鬥人員都有。在這之中也包括馬爾科斯·庫裡斯，這位機修工當時正在尋找幾個月前加入游擊隊的兄弟。</Chinese>
-            <Chinesesimp>几小时后，阿尔蒂斯武装力量发动了最后一次突击。在两个星期的围城中幸存的人又在这最后一早的冲突中丧生，战斗人员和非战斗人员都有。在这之中也包括马尔科斯·库里斯，这位机修工当时正在寻找几个月前加入游击队的兄弟。</Chinesesimp>
+            <Chinesesimp>几小时后，阿尔蒂斯武装部队发动了最后一次突击。在两个星期的围城中幸存的人又在这最后一早的冲突中丧生，战斗人员和非战斗人员都有。在这之中也包括马尔科斯·库里斯，这位机修工当时正在寻找几个月前加入游击队的兄弟。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_10">
             <Original>Although most of the civilian population had evacuated and IDAP's camp was spared, the damage was severe:</Original>
@@ -434,7 +434,7 @@
           <Key ID="str_a3_orange_aan_image_choice_3">
             <Original>Soldiers from the Altis Armed Forces, attacking crowds during the 2034 massacre in Kavala.</Original>
             <Chinese>阿爾蒂斯武裝力量士兵在2034年的卡瓦拉慘案中攻擊平民人群。</Chinese>
-            <Chinesesimp>阿尔蒂斯武装力量士兵在2034年的卡瓦拉惨案中攻击平民人群。</Chinesesimp>
+            <Chinesesimp>阿尔蒂斯武装部队士兵在2034年的卡瓦拉惨案中攻击平民人群。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_image_choice_2">
             <Original>CSAT counter-insurgency operatives interrogating prisoners.</Original>
@@ -499,7 +499,7 @@
           <Key ID="str_a3_orange_aan_paywall">
             <Original>Finish the "Remnants of War" campaign to gain access to the full article.</Original>
             <Chinese>完成"戰爭殘餘"戰役可看到整篇文章。</Chinese>
-            <Chinesesimp>完成"战争残余"战役可看到整篇文章。</Chinesesimp>
+            <Chinesesimp>完成"战争遗留"战役可看到整篇文章。</Chinesesimp>
           </Key>
         </Container>
         <Key ID="str_a3_orange_minedispenser_timelinelabel">
@@ -600,7 +600,7 @@
         <Key ID="str_a3_orangecampaign_timeline_peacedialogue">
           <Original>The Jerusalem Ceasefire breaks down and tensions escalate. Altis Armed Forces (AAF) and anti-government guerrillas hold peace talks in Kavala.</Original>
           <Chinese>耶路撒冷停火協定被打破，緊張局勢升級。阿爾蒂斯武裝力量(AAF)和反政府游擊隊在卡瓦拉舉行和平談判。</Chinese>
-          <Chinesesimp>耶路撒冷停火协定被打破，紧张局势升级。阿尔蒂斯武装力量（AAF）和反政府游击队在卡瓦拉举行和平谈判。</Chinesesimp>
+          <Chinesesimp>耶路撒冷停火协定被打破，紧张局势升级。阿尔蒂斯武装部队（AAF）和反政府游击队在卡瓦拉举行和平谈判。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orangecampaign_timeline_orange_minedispenser_1">
           <Original>Trapped by NATO forces, Major Gavras and his adjutant, Kostas Dimitriou, make a stand at Oreokastro's church. The area is mined during their defense, but no other laws of war are broken. Kostas later visits IDAP and reports the location of the mines, significantly helping clearance efforts.</Original>
@@ -825,7 +825,7 @@
         <Key ID="str_a3_orange_campaign_briefingname">
           <Original>Remnants of War</Original>
           <Chinese>戰爭殘餘</Chinese>
-          <Chinesesimp>战争残余</Chinesesimp>
+          <Chinesesimp>战争遗留</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_airdrop_timelinelabel">
           <Original>Fourteen months ago</Original>
@@ -1097,7 +1097,7 @@
         <Key ID="str_a3_orange_showcase_lawsofwar_diary_situation">
           <Original>As part of your standard infantry training in the Altis Armed Forces, you are attending an instruction session on the Laws of Armed Conflict (LOAC), or International Humanitarian Law (IHL) as your IDAP instructors will refer to it.&lt;br /&gt;&lt;br /&gt;Pay good attention! This topic matter is important to warfare, especially on the complex battlefields of today.</Original>
           <Chinese>作為你在阿爾蒂斯武裝力量標準步兵訓練中的一部分，你正在參加武裝衝突法則(LOAC)，或曰國際人道主義法(IHL)的訓練課程，你的國際發展援助工程組織的教員會提及它。&lt;br/&gt;&lt;br/&gt;認真聽講!這一話題的內容對戰爭十分重要，特別是在當今複雜的戰場形勢下。</Chinese>
-          <Chinesesimp>作为你在阿尔蒂斯武装力量标准步兵训练中的一部分，你正在参加武装冲突法则(LOAC)，或曰国际人道主义法（IHL）的训练课程，你的国际发展援助工程组织的教员会提及它。&lt;br/&gt;&lt;br/&gt;认真听讲！这一话题的内容对战争十分重要，特别是在当今复杂的战场形势下。</Chinesesimp>
+          <Chinesesimp>作为你在阿尔蒂斯武装部队标准步兵训练中的一部分，你正在参加武装冲突法则(LOAC)，或曰国际人道主义法（IHL）的训练课程，你的国际发展援助工程组织的教员会提及它。&lt;br/&gt;&lt;br/&gt;认真听讲！这一话题的内容对战争十分重要，特别是在当今复杂的战场形势下。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_showcase_lawsofwar_diary_signal">
           <Original>IDAP - International Development &amp;amp; Aid Project (civilian NGO)</Original>
@@ -3776,7 +3776,7 @@
           <Key ID="str_a3_orange_minedispenser_032_fil_exfil_officer_dead_eod_1">
             <Original>But let's face it. Once CSAT pulled out? The Altis Armed Forces were through. Whole thing was over as soon as it'd begun.</Original>
             <Chinese>但讓我們面對現實吧。在廣協同盟撤出之後，阿爾蒂斯武裝力量就完蛋了。整件事情的結局在一開始就注定了。</Chinese>
-            <Chinesesimp>但让我们面对现实吧。在广协撤出之后，阿尔蒂斯武装力量就完蛋了。整件事情的结局在一开始就注定了。</Chinesesimp>
+            <Chinesesimp>但让我们面对现实吧。在广协撤出之后，阿尔蒂斯武装部队就完蛋了。整件事情的结局在一开始就注定了。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_minedispenser_032_fil_exfil_officer_dead_journalist_0">
             <Original>Do you think the Major's death had any impact on the war?</Original>
@@ -4471,7 +4471,7 @@
           <Key ID="str_a3_orange_hub_minedispenser_005_eve_choice_d_aaf_eod_0">
             <Original>I'd have to say The Altis Armed Forces.</Original>
             <Chinese>我覺得應該是阿爾蒂斯武裝力量。</Chinese>
-            <Chinesesimp>我觉得应该是阿尔蒂斯武装力量。</Chinesesimp>
+            <Chinesesimp>我觉得应该是阿尔蒂斯武装部队。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_hub_minedispenser_005_eve_choice_d_aaf_eod_1">
             <Original>I mean, they wanted to wipe Oreokastro off the map - to make an example of it, y'know?</Original>
@@ -4619,7 +4619,7 @@
           <Key ID="str_a3_orange_hub_minedispenser_001_hbi_post_mine_dispenser_journalist_6">
             <Original>The Altis Armed Forces?</Original>
             <Chinese>阿爾蒂斯武裝力量?</Chinese>
-            <Chinesesimp>阿尔蒂斯武装力量？</Chinesesimp>
+            <Chinesesimp>阿尔蒂斯武装部队？</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_hub_minedispenser_001_hbi_post_mine_dispenser_journalist_7">
             <Original>Or, I don't know, something else?</Original>
@@ -4675,7 +4675,7 @@
           <Key ID="str_a3_orange_hub_escape_001_hbi_post_escape_journalist_0">
             <Original>Nathan, you said that Alexis had been a recruit in the Altis Armed Forces.</Original>
             <Chinese>內森，你之前說阿雷克西斯曾經是阿爾蒂斯武裝力量的新兵。</Chinese>
-            <Chinesesimp>内森，你之前说阿雷克西斯曾经是阿尔蒂斯武装力量的新兵。</Chinesesimp>
+            <Chinesesimp>内森，你之前说阿雷克西斯曾经是阿尔蒂斯武装部队的新兵。</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_hub_escape_001_hbi_post_escape_eod_2">
             <Original>Later on, I heard their father had been killed in the civil war. But, I dunno.</Original>
@@ -8869,7 +8869,7 @@
           <Key ID="str_a3_orange_hiker_006_fil_brother_awol_eod_3">
             <Original>His brother had been a recruit in the Altis Armed Forces. Bootcamp - basic training - y'know?</Original>
             <Chinese>他的兄弟曾經是阿爾蒂斯武裝力量的一名新兵。新兵營——基本訓練——你知道吧?</Chinese>
-            <Chinesesimp>他的兄弟曾经是阿尔蒂斯武装力量的一名新兵。新兵营——基本训练——你知道吧？</Chinesesimp>
+            <Chinesesimp>他的兄弟曾经是阿尔蒂斯武装部队的一名新兵。新兵营——基本训练——你知道吧？</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_hiker_006_fil_brother_awol_journalist_2">
             <Original>What complicated the situation?</Original>

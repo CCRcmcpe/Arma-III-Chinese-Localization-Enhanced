@@ -1406,7 +1406,7 @@
         <Key ID="str_a3_cfgmarkers_flag_aaf">
           <Original>Altis Armed Forces</Original>
           <Chinese>阿爾蒂斯武裝力量</Chinese>
-          <Chinesesimp>阿尔蒂斯武装力量</Chinesesimp>
+          <Chinesesimp>阿尔蒂斯武装部队</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkers_flag_ctrg">
           <Original>CTRG</Original>
@@ -2785,7 +2785,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_displaybutton_tooltip">
           <Original>Display settings (display mode, resolution, brightness).</Original>
           <Chinese>顯示設定(顯示模式，解析度，亮度)</Chinese>
-          <Chinesesimp>显示设定（显示模式，解析度，亮度）</Chinesesimp>
+          <Chinesesimp>显示设定（显示模式，分辨率，亮度）</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_displaybutton">
           <Original>Display</Original>
@@ -2820,7 +2820,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valueresolution_tooltip">
           <Original>Should match resolution of the monitor.</Original>
           <Chinese>建議與目前顯示器解析度一樣。</Chinese>
-          <Chinesesimp>建议与目前显示器解析度一样。</Chinesesimp>
+          <Chinesesimp>建议与目前显示器分辨率一样。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valuequalitypreference_tooltip">
           <Original>Overall quality level pre-sets.</Original>
@@ -2880,7 +2880,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valueatoc_tooltip">
           <Original>Alpha to coverage - uses the alpha of the texture as a coverage mask for antialiasing.</Original>
           <Chinese>透明度覆蓋-使用透明貼圖來圓滑抗鋸齒的效果。</Chinese>
-          <Chinesesimp>透明度覆盖—使用透明贴图来圆滑抗锯齿的效果。</Chinesesimp>
+          <Chinesesimp>透明度覆盖—使用纹理的透明度贴图作为抗锯齿的遮罩层。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valueaspectratio_tooltip">
           <Original>Should match aspect ratio of the monitor.</Original>
@@ -2895,7 +2895,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valueaadetail_tooltip">
           <Original>Full Screen Anti-Aliasing. Smoothens edges of objects.</Original>
           <Chinese>全螢幕抗鋸齒，平滑邊緣倍率。</Chinese>
-          <Chinesesimp>全屏幕抗锯齿，平滑边缘倍率。</Chinesesimp>
+          <Chinesesimp>全屏幕抗锯齿。平滑物体边缘。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_textvsync">
           <Original>Vsync:</Original>
@@ -3080,7 +3080,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_valuebloom_tooltip">
           <Original>Glow of bright areas in the scene.</Original>
           <Chinese>場景光輝程度。</Chinese>
-          <Chinesesimp>场景光辉程度。</Chinesesimp>
+          <Chinesesimp>场景辉光程度。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_valuedof_tooltip">
           <Original>Amount of blurring of out-of-focus objects.</Original>
@@ -7354,7 +7354,7 @@
       <Key ID="STR_TOOLTIP_MAIN_VIDEO">
         <Original>Adjust resolution, details and other viewing options.</Original>
         <Chinese>調整解析度，細節和其他畫面選項。</Chinese>
-        <Chinesesimp>调整解析度，细节和其他画面选项。</Chinesesimp>
+        <Chinesesimp>调整分辨率，细节和其他画面选项。</Chinesesimp>
       </Key>
       <Key ID="STR_TOOLTIP_MAIN_MULTIPLAYER_A3">
         <Original>Launch the multiplayer server browser - play and host MP game modes.</Original>
@@ -10284,7 +10284,7 @@
         <Key ID="str_controls_tooltips_brake_analogue">
           <Original>For analog air brake mapping. NOTE! Both + and - axes need to be mapped.</Original>
           <Chinese>用來設定減速板/煞車的類比模式。請注意!你必須把控制器的+軸與-軸都設定上去才可以正常使用此功能。</Chinese>
-          <Chinesesimp>用来设定减速板/刹车的类比模式。请注意！你必须把控制器的+轴与—轴都设定上去才可以正常使用此功能。</Chinesesimp>
+          <Chinesesimp>用来设定减速板/刹车的轴量模式。请注意！你必须把控制器的+轴与—轴都设定上去才可以正常使用此功能。</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_CANCEL_ACTION">
           <Original>Cancel current action</Original>
@@ -10354,7 +10354,7 @@
         <Key ID="STR_CONTROLS_TOOLTIPS_CAR_LINEAR_LEFT">
           <Original>Steer to the left (Analog)</Original>
           <Chinese>向左轉(類比)</Chinese>
-          <Chinesesimp>向左转（类比）</Chinesesimp>
+          <Chinesesimp>向左转（轴量）</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_ZOOM_CONT_IN">
           <Original>Continual Zoom In</Original>
@@ -10369,7 +10369,7 @@
         <Key ID="STR_CONTROLS_TOOLTIPS_CAR_LINEAR_RIGHT">
           <Original>Steer to the right (Analog)</Original>
           <Chinese>向右轉(類比)</Chinese>
-          <Chinesesimp>向右转（类比）</Chinesesimp>
+          <Chinesesimp>向右转（轴量）</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_LOOK_RIGHT_DOWN">
           <Original>Look right down</Original>
@@ -11159,7 +11159,7 @@
         <Key ID="str_controls_tooltips_thrust_analogue">
           <Original>For analog throttle mapping. NOTE! Both + and - axes need to be mapped.</Original>
           <Chinese>使用類比的方式來改變推力。請注意!你必須把油門的+軸與-軸都設定到此項目上才能正常使用油門。</Chinese>
-          <Chinesesimp>使用类比的方式来改变推力。请注意！你必须把油门的+轴与—轴都设定到此项目上才能正常使用油门。</Chinesesimp>
+          <Chinesesimp>使用轴量的方式来改变推力。请注意！你必须把油门的+轴与-轴都设定到此项目上才能正常使用油门。</Chinesesimp>
         </Key>
         <Key ID="STR_CONTROLS_TOOLTIPS_TRANSPORT_NIGHT_VISION">
           <Original>Toggle vision mode in vehicle, if available</Original>
@@ -11210,7 +11210,7 @@
       <Key ID="STR_USRACT_CAR_LINEAR_LEFT">
         <Original>Car Left (Analog)</Original>
         <Chinese>車輛左轉(類比)</Chinese>
-        <Chinesesimp>车辆左转（类比）</Chinesesimp>
+        <Chinesesimp>车辆左转（轴量）</Chinesesimp>
       </Key>
       <Key ID="STR_USRACT_LOCK_TARGET_TOGGLE">
         <Original>Lock or Zoom Toggle</Original>
@@ -11220,7 +11220,7 @@
       <Key ID="STR_USRACT_CAR_LINEAR_RIGHT">
         <Original>Car Right (Analog)</Original>
         <Chinese>車輛右轉(類比)</Chinese>
-        <Chinesesimp>车辆右转（类比）</Chinesesimp>
+        <Chinesesimp>车辆右转（轴量）</Chinesesimp>
       </Key>
       <Key ID="STR_USRACT_NAVIGATE_MENU">
         <Original>Navigate Menu</Original>
@@ -13540,7 +13540,7 @@
         <Key ID="str_disp_opt_aspect_ratio">
           <Original>Aspect ratio:</Original>
           <Chinese>遊戲畫面長寬比:</Chinese>
-          <Chinesesimp>游戏画面长宽比：</Chinesesimp>
+          <Chinesesimp>长宽比：</Chinesesimp>
         </Key>
         <Key ID="str_disp_opt_aspect_ratio_custom">
           <Original>Custom</Original>
@@ -13705,7 +13705,7 @@
         <Key ID="str_disp_opt_resolution_new">
           <Original>Resolution:</Original>
           <Chinese>螢幕解析度:</Chinese>
-          <Chinesesimp>屏幕解析度：</Chinesesimp>
+          <Chinesesimp>屏幕分辨率：</Chinesesimp>
         </Key>
         <Key ID="str_disp_opt_voices">
           <Original>Radio:</Original>
@@ -16198,7 +16198,7 @@
         <Key ID="str_dn_apc">
           <Original>APC</Original>
           <Chinese>裝甲運兵車</Chinese>
-          <Chinesesimp>装甲运兵车</Chinesesimp>
+          <Chinesesimp>装甲输送车</Chinesesimp>
         </Key>
         <Key ID="str_cfg_grpnames_echo">
           <Original>Echo</Original>
@@ -19355,7 +19355,7 @@
         <Key ID="str_usract_look_up_cont">
           <Original>Look Up (Analog)</Original>
           <Chinese>向上看(類比)</Chinese>
-          <Chinesesimp>向上看（类比）</Chinesesimp>
+          <Chinesesimp>向上看（轴量）</Chinesesimp>
         </Key>
         <Key ID="str_dik_d">
           <Original>D</Original>
@@ -19415,7 +19415,7 @@
         <Key ID="str_usract_look_right_cont">
           <Original>Look Right (Analog)</Original>
           <Chinese>向右看(類比)</Chinese>
-          <Chinesesimp>向右看（类比）</Chinesesimp>
+          <Chinesesimp>向右看（轴量）</Chinesesimp>
         </Key>
         <Key ID="str_dik_escape">
           <Original>Escape</Original>
@@ -19475,7 +19475,7 @@
         <Key ID="str_usract_look_left_cont">
           <Original>Look Left (Analog)</Original>
           <Chinese>向左看(類比)</Chinese>
-          <Chinesesimp>向左看（类比）</Chinesesimp>
+          <Chinesesimp>向左看（轴量）</Chinesesimp>
         </Key>
         <Key ID="str_dik_f15">
           <Original>F15</Original>
@@ -19505,7 +19505,7 @@
         <Key ID="str_usract_look_down_cont">
           <Original>Look Down (Analog)</Original>
           <Chinese>向下看(類比)</Chinese>
-          <Chinesesimp>向下看（类比）</Chinesesimp>
+          <Chinesesimp>向下看（轴量）</Chinesesimp>
         </Key>
         <Key ID="str_dik_f5">
           <Original>F5</Original>
@@ -25313,7 +25313,7 @@
         <Key ID="str_usract_brake_analogue">
           <Original>Speedbrake (Analog)</Original>
           <Chinese>減速板/煞車(類比)</Chinese>
-          <Chinesesimp>减速板/刹车（类比）</Chinesesimp>
+          <Chinesesimp>减速板/刹车（轴量）</Chinesesimp>
         </Key>
         <Key ID="str_usract_car_wheel_left">
           <Original>Car More Left</Original>
@@ -25408,7 +25408,7 @@
         <Key ID="str_usract_thrust_analogue">
           <Original>Thrust (Analog)</Original>
           <Chinese>推力(類比)</Chinese>
-          <Chinesesimp>推力（类比）</Chinesesimp>
+          <Chinesesimp>推力（轴量）</Chinesesimp>
         </Key>
         <Key ID="str_usract_transport_night_vision">
           <Original>Vision Mode (Vehicle)</Original>
@@ -25687,17 +25687,17 @@
         <Key ID="STR_USRACT_LOOK_SHIFT_LEFT_CONT">
           <Original>Head Left (Analog)</Original>
           <Chinese>頭部視角向左(類比)</Chinese>
-          <Chinesesimp>头部视角向左（类比）</Chinesesimp>
+          <Chinesesimp>头部视角向左（轴量）</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_LOOK_SHIFT_RIGHT_CONT">
           <Original>Head Right (Analog)</Original>
           <Chinese>頭部視角向右(類比)</Chinese>
-          <Chinesesimp>头部视角向右（类比）</Chinesesimp>
+          <Chinesesimp>头部视角向右（轴量）</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_LOOK_SHIFT_UP_CONT">
           <Original>Head Up (Analog)</Original>
           <Chinese>頭部視角向上(類比)</Chinese>
-          <Chinesesimp>头部视角向上（类比）</Chinesesimp>
+          <Chinesesimp>头部视角向上（轴量）</Chinesesimp>
         </Key>
         <Key ID="STR_UI_POSITION_DISTANCE_NAUTICAL_MILES">
           <Original>%.1f NM</Original>
@@ -25732,12 +25732,12 @@
         <Key ID="STR_USRACT_LOOK_SHIFT_DOWN_CONT">
           <Original>Head Down (Analog)</Original>
           <Chinese>低頭(類比)</Chinese>
-          <Chinesesimp>低头（类比）</Chinesesimp>
+          <Chinesesimp>低头（轴量）</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_LOOK_SHIFT_FORWARD_CONT">
           <Original>Head Forward (Analog)</Original>
           <Chinese>頭部視角向前(類比)</Chinese>
-          <Chinesesimp>头部视角向前（类比）</Chinesesimp>
+          <Chinesesimp>头部视角向前（轴量）</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_LOOK_SHIFT_RIGHT">
           <Original>Move Head Right</Original>
@@ -25777,7 +25777,7 @@
         <Key ID="STR_USRACT_LOOK_SHIFT_BACK_CONT">
           <Original>Head Back (Analog)</Original>
           <Chinese>頭部視角向後(類比)</Chinese>
-          <Chinesesimp>头部视角向后（类比）</Chinesesimp>
+          <Chinesesimp>头部视角向后（轴量）</Chinesesimp>
         </Key>
         <Key ID="STR_ACTION_BRAKE_OFF">
           <Original>Wheel Brake Off</Original>
@@ -25852,7 +25852,7 @@
         <Key ID="STR_USRACT_LOOK_ROLL_RIGHT_CONT">
           <Original>Head Roll Right (Analog)</Original>
           <Chinese>頭部視角向右(類比)</Chinese>
-          <Chinesesimp>头部视角向右（类比）</Chinesesimp>
+          <Chinesesimp>头部视角向右（轴量）</Chinesesimp>
         </Key>
         <Key ID="STR_ACTION_COLLISIONLIGHTS_ON">
           <Original>Collision lights on</Original>
@@ -25877,7 +25877,7 @@
         <Key ID="STR_USRACT_LOOK_ROLL_LEFT_CONT">
           <Original>Head Roll Left (Analog)</Original>
           <Chinese>頭部視角向左(類比)</Chinese>
-          <Chinesesimp>头部视角向左（类比）</Chinesesimp>
+          <Chinesesimp>头部视角向左（轴量）</Chinesesimp>
         </Key>
         <Key ID="str_action_engines_auto_on">
           <Original>Engines on (auto)</Original>
@@ -26102,7 +26102,7 @@
         <Key ID="STR_USRACT_HELI_COLLECTIVE_RAISE_CONT">
           <Original>Collective Raise (Analog)</Original>
           <Chinese>升力增加(類比)</Chinese>
-          <Chinesesimp>升力增加（类比）</Chinesesimp>
+          <Chinesesimp>升力增加（轴量）</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_HELI_ROTORBRAKE_TOGGLE">
           <Original>Rotor Brake Hold / Release</Original>
@@ -26127,7 +26127,7 @@
         <Key ID="STR_USRACT_HELI_ENGINES_TOGGLE">
           <Original>Engines ON/OFF (Analog)</Original>
           <Chinese>發動機開啟/關閉(類比)</Chinese>
-          <Chinesesimp>发动机开启/关闭（类比）</Chinesesimp>
+          <Chinesesimp>发动机开启/关闭（轴量）</Chinesesimp>
         </Key>
         <Key ID="str_action_throttle1_full">
           <Original>Throttle full (engine 1)</Original>
@@ -26147,7 +26147,7 @@
         <Key ID="STR_USRACT_HELI_COLLECTIVE_LOWER_CONT">
           <Original>Collective Lower (Analog)</Original>
           <Chinese>升力減少(類比)</Chinese>
-          <Chinesesimp>升力减少（类比）</Chinesesimp>
+          <Chinesesimp>升力减少（轴量）</Chinesesimp>
         </Key>
         <Key ID="str_action_throttle1_idle_tip">
           <Original> &lt;br /&gt;&lt;t size='0.64'&gt;Throttle idle (engine 1)&lt;/t&gt;</Original>
@@ -27054,7 +27054,7 @@
           <Key ID="str_tooltip_options_video">
             <Original>Set visibility, details or resolution here.</Original>
             <Chinese>在這裡設定畫質，細節與解析度。</Chinese>
-            <Chinesesimp>在这里设定画质，细节与解析度。</Chinesesimp>
+            <Chinesesimp>在这里设定画质，细节与分辨率。</Chinesesimp>
           </Key>
           <Key ID="str_team_switch_ai_behaviour">
             <Original>AI Behavior:</Original>
@@ -27091,12 +27091,12 @@
           <Key ID="str_dn_trackedapc">
             <Original>APC</Original>
             <Chinese>裝甲運兵車</Chinese>
-            <Chinesesimp>装甲运兵车</Chinesesimp>
+            <Chinesesimp>装甲输送车</Chinesesimp>
           </Key>
           <Key ID="str_dn_trackedapcs">
             <Original>APCs</Original>
             <Chinese>裝甲運兵車</Chinese>
-            <Chinesesimp>装甲运兵车</Chinesesimp>
+            <Chinesesimp>装甲输送车</Chinesesimp>
           </Key>
         </Container>
         <Container name="sounds">
@@ -27501,12 +27501,12 @@
           <Key ID="str_dn_wheeledapc">
             <Original>APC</Original>
             <Chinese>裝甲運兵車</Chinese>
-            <Chinesesimp>装甲运兵车</Chinesesimp>
+            <Chinesesimp>装甲输送车</Chinesesimp>
           </Key>
           <Key ID="str_dn_wheeledapcs">
             <Original>APCs</Original>
             <Chinese>裝甲運兵車</Chinese>
-            <Chinesesimp>装甲运兵车</Chinesesimp>
+            <Chinesesimp>装甲输送车</Chinesesimp>
           </Key>
           <Key ID="str_dn_wreck">
             <Original>Wreck</Original>

@@ -534,7 +534,7 @@
             <Key ID="str_a3_b_hub_302_poi_abandoned_battlefield_03_player_ker_0">
               <Original>Well, that APC's not going anywhere.</Original>
               <Chinese>好吧，看來那臺裝甲運兵車不能去任何地方了。</Chinese>
-              <Chinesesimp>好吧，看来那台装甲运兵车不能去任何地方了。</Chinesesimp>
+              <Chinesesimp>好吧，看来那台装甲输送车不能去任何地方了。</Chinesesimp>
             </Key>
           </Container>
           <Container name="301_POI_Abandoned_Battlefield_02_Player" audioFilePath="\a3\dubbing_f_epb\b_hub" dialogName="301_POI_Abandoned_Battlefield_02_Player" dubbingLanguage="english" namePrefix="b_hub_301_poi_abandoned_battlefield_02_player" note="" participants="EPB B Player;" situation="player to himself">
@@ -895,7 +895,7 @@
             <Key ID="str_a3_b_hub_212_poi_immobile_armor_02_gua_1">
               <Original>A local just told us about an immobilized CSAT APC.</Original>
               <Chinese>一個當地人告訴我們有一臺廣協同盟的裝甲運兵車卡在路邊動彈不得。</Chinese>
-              <Chinesesimp>一个当地人刚告诉我们有一辆广协的装甲运兵车在路边抛锚了。</Chinesesimp>
+              <Chinesesimp>一个当地人刚告诉我们有一辆广协的装甲输送车在路边抛锚了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_hub_212_poi_immobile_armor_02_gua_2">
               <Original>He doesn't know exactly what happened - broken transmission, fucked up engine - whatever.</Original>
@@ -1215,7 +1215,7 @@
             <Key ID="str_a3_b_hub_202_poi_abandonedbattlefield_03_gua_4">
               <Original>They've really stepped up their operations - but guess who took out their APC?</Original>
               <Chinese>他們的確比較強大-但你猜猜是誰幹掉了他們的裝甲運兵車?</Chinese>
-              <Chinesesimp>他们的确比较强大—但你猜猜是谁干掉了他们的装甲运兵车？</Chinesesimp>
+              <Chinesesimp>他们的确比较强大—但你猜猜是谁干掉了他们的装甲输送车？</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_hub_202_poi_abandonedbattlefield_03_gub_1">
               <Original>Hah! Good work, brother!</Original>
@@ -4967,7 +4967,7 @@
             <Key ID="str_a3_b_m05_10_sabotage_request_helicopter_grf_1">
               <Original>Viper-Green, this is Griffin, we have a situation in the vicinity of Point Victor.</Original>
               <Chinese>"毒蛇-綠"，這裡是"獅鷲"，我們在維克多點附近發生了點狀況。</Chinese>
-              <Chinesesimp>"毒蛇—绿"，这里是"狮鹫"，我们在 Victor 点附近发生了点状况。</Chinesesimp>
+              <Chinesesimp>"毒蛇-$1"，这里是"狮鹫"，我们在 Victor 点附近发生了点状况。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m05_10_sabotage_request_helicopter_ore_0">
               <Original>Griffin, this is Spartan-Actual, my unit has made contact near Point Victor!</Original>
@@ -7458,7 +7458,7 @@
         <Key ID="STR_A3_POI_Immobilized_Armor_02_Task_desc">
           <Original>We received a report of an immobilized CSAT APC. Ambush the crew before they are able to fix it.</Original>
           <Chinese>我們收到了一個情報，指稱一臺廣協同盟裝甲運兵車正卡在路旁動彈不得。請在他們設法完成修復前殲滅掉他們。</Chinese>
-          <Chinesesimp>我们收到情报称一辆广协的装甲运兵车抛锚了。请在他们设法完成修复前歼灭掉他们。</Chinesesimp>
+          <Chinesesimp>我们收到情报称一辆广协的装甲输送车抛锚了。请在他们设法完成修复前歼灭掉他们。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_POI_Mysterious_Cache_01_Task_name">
           <Original>Mysterious Cache</Original>
