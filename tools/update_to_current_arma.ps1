@@ -1,11 +1,18 @@
 Set-StrictMode -Version Latest
+$ErrorActionPreference = "Stop"
 
-$extractDest = 'D:/Dev/Arma3/Extract/'
+# Variables
+$arma3Root = 'F:\Arma 3'
+$extractDest = 'D:\Dev\Arma3\Extract'
 $tools = 'D:\SteamLibrary\steamapps\common\Arma 3 Tools'
 
+# Contstants
 # In Arma 3 root execute: ls -Directory | ? {((ls $_) | ? {$_.Name -eq 'Addons'}).Length -gt 0}
 $core = 'Addons', 'Dta'
 $expansions = 'AoW', 'Argo', 'Contact', 'Curator', 'Enoch', 'Expansion', 'Heli', 'Jets', 'Kart', 'Mark', 'Orange', 'Tacops', 'Tank'
+
+# Begin Main Procedure
+Set-Location $arma3Root
 
 $bankRev = Join-Path $tools 'BankRev\BankRev.exe'
 $binToCpp = Join-Path $tools 'CfgConvert\CfgConvert.exe'
@@ -30,19 +37,19 @@ $pbos = Get-ChildItem $combined | Where-Object { $_.Extension -eq '.pbo' -and $_
 
 Write-Information 'Extracting...'
 $pbos | ForEach-Object {
-    $addonDest = if ($_ -notmatch 'Dta') { Join-Path $dest 'Addons' } else { Join-Path $dest 'Dta' }
+    $addonDest = if ($_ -notmatch 'Dta') { Join-Path $extractDest 'Addons' } else { Join-Path $extractDest 'Dta' }
     & $bankRev -folder $addonDest -time $_.FullName
 }
 
 Write-Information 'Debinarize Configs...'
-Get-ChildItem "$extractDest/**/**/*.bin" | ForEach-Object {
+Get-ChildItem (Join-Path $extractDest '**/**/*.bin') | ForEach-Object {
     $cppDest = Join-Path $_.DirectoryName "$([IO.Path]::GetFileNameWithoutExtension($_)).cpp"
     & $binToCpp -txt -dst $cppDest $_.FullName
     Remove-Item $_
 }
 
 Write-Information 'Cleaning XML...'
-Get-ChildItem "$extractDest/**/**/*.xml" | ForEach-Object {
+Get-ChildItem (Join-Path $extractDest '**/**/*.xml') | ForEach-Object {
     & $xmlCleaner $_.FullName
 }
 

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="Arma3">
   <Package name="Language_Tacops">
     <Container name="Music_F">
@@ -103,6 +103,11 @@
         <Original>Tac-Ops</Original>
         <Chinese>戰術行動</Chinese>
         <Chinesesimp>战术行动</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_tacops_cfgleaflets_developer">
+        <Original>REALITY CHECK&lt;br /&gt;ORIGINAL DLC DOESN'T FADE&lt;br /&gt;&lt;br /&gt;Support the developers by officially purchasing DLC</Original>
+        <Chinese>正版校驗&lt;br /&gt;正版 DLC 永不衰退&lt;br /&gt;&lt;br /&gt;購買正版 DLC 支援開發者</Chinese>
+        <Chinesesimp>正版检测&lt;br /&gt;只有使用原版 DLC 才不会降低游戏体验&lt;br /&gt;&lt;br /&gt;请购买正版 DLC 来支持游戏开发者</Chinesesimp>
       </Key>
     </Container>
     <Container name="Characters_F">
@@ -482,6 +487,16 @@
         <Original>Position is used only as cover.</Original>
         <Chinese>位置僅作為掩護物體。</Chinese>
         <Chinesesimp>位置仅作为掩体使用。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_modulecivilianpresence_f_attributes_civilianpresence_unitpresets0">
+        <Original>Unit types</Original>
+        <Chinese>單位類型</Chinese>
+        <Chinesesimp>单元类型</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_civilianpresence_presets_civ_livionian0">
+        <Original>Men (Livonian)</Original>
+        <Chinese>男性（里沃尼亞）</Chinese>
+        <Chinesesimp>男性（利沃尼亚）</Chinesesimp>
       </Key>
       <Key ID="STR_a3_to_hideTerrainObjects10">
         <Original>Operate Locally</Original>

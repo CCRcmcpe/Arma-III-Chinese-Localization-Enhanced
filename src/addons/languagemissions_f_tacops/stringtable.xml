@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="Arma3">
   <Package name="Languagemissions_Tacops">
     <Container name="Missions">
@@ -994,11 +994,6 @@
               <Original>It's the sound of someone trying to kill you.</Original>
               <Chinese>那是有人要殺你的聲音。</Chinese>
               <Chinesesimp>那是有人想杀死你的声音。</Chinesesimp>
-            </Key>
-            <Key ID="str_a3_to_c01_m02_036_ta_mechanized_briefing_SOLDIERC_0">
-              <Original>Mavros - you, uh, you got any words of advice?</Original>
-              <Chinese>"馬夫羅斯"-你、呃，你有什麼建議嗎?</Chinese>
-              <Chinesesimp>"马夫罗斯"-你，嗯，你有什么建议吗？</Chinesesimp>
             </Key>
           </Container>
           <Container name="035_ta_mechanized_selected" audioFilePath="\a3\dubbing_f_tacops\to_c01_m02" dialogName="035_ta_mechanized_selected" dubbingLanguage="english" namePrefix="to_c01_m02_035_ta_mechanized_selected" note="" participants="TO_centaur;" situation="player joins mechanized infantry unit.">
