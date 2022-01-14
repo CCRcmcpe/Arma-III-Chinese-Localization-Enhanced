@@ -35,7 +35,7 @@
       <Key ID="str_a3_cfgweapons_hgun_pistol_signal_f1">
         <Original>Non-combat gun&lt;br /&gt;Caliber: 10 mm Signal Slugs</Original>
         <Chinese>非戰鬥用槍&lt;br/&gt;口徑:10mm信號彈</Chinese>
-        <Chinesesimp>非战斗用枪&lt;br/&gt;口径：10mm 信号弹</Chinesesimp>
+        <Chinesesimp>非战斗用枪&lt;br/&gt;口径：10 mm 信号</Chinesesimp>
       </Key>
     </Container>
     <Container name="MoveToCore">

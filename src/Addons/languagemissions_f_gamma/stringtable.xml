@@ -166,7 +166,7 @@
             <Key ID="str_a3_faction_independent_20_i_weapons_exi_0">
               <Original>The Mk32 GMG is a static grenade launcher that fires 20mm grenades.</Original>
               <Chinese>Mk32 GMG是一臺固定式的榴彈發射器，發射20公厘榴彈。</Chinese>
-              <Chinesesimp>Mk32 GMG 是一种固定式榴弹发射器，发射20mm 榴弹。</Chinesesimp>
+              <Chinesesimp>Mk32 GMG 是一种固定式榴弹发射器，发射20 mm 榴弹。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_20_i_weapons_exi_1">
               <Original>The Mk20 is a gas-operated, rotating-bolt, selective-fire weapon designed to be highly moddable.</Original>
@@ -217,7 +217,7 @@
             <Key ID="str_a3_faction_independent_05_i_ground_exi_1">
               <Original>The AFV-4 Gorgon is an 8x8 APC armed with a 30mm cannon.</Original>
               <Chinese>AFV-4"蛇髮女妖"是一臺8輪驅動的裝甲運兵車，配備著30公厘加農砲。</Chinese>
-              <Chinesesimp>AFV-4"蛇发女妖"是一种8轮驱动的装甲输送车，配备着30mm 机炮。</Chinesesimp>
+              <Chinesesimp>AFV-4"蛇发女妖"是一种8轮驱动的装甲输送车，配备着30 mm 机炮。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_05_i_ground_exi_2">
               <Original>The quad bike is an all-terrain vehicle used for recon and to access terrain heavier vehicles cannot traverse.</Original>
@@ -324,7 +324,7 @@
             <Key ID="str_a3_faction_blufor_20_b_weapons_exb_2">
               <Original>The Special Purpose Assault Rifle series, NATO's newest, high-tech primary weapon system. 7.62mm and 5.56mm caliber variants, combined with an optional grenade launcher, make the series a fan favorite among special operations groups.</Original>
               <Chinese>北約的新型高科技特殊用途突擊步槍系列，有著7.62公厘與5.56公厘兩種口徑，可以再選配榴彈發射器來配合不同的任務，使這把武器深獲特種部隊的青睞。</Chinese>
-              <Chinesesimp>北约新式的高科技特殊用途突击步枪系列，有着7.62 mm 与5.56mm 两种口径，可以再选配榴弹发射器来配合不同的任务，使这把武器深获特种部队的青睐。</Chinesesimp>
+              <Chinesesimp>北约新式的高科技特殊用途突击步枪系列，有着7.62 mm 与5.56 mm 两种口径，可以再选配榴弹发射器来配合不同的任务，使这把武器深获特种部队的青睐。</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_B_Water" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="15_B_Water" dubbingLanguage="english" namePrefix="faction_blufor_15_b_water" note="" participants="RC B Expo;" situation="player visits the naval area of the expo">
@@ -373,24 +373,24 @@
             <Key ID="str_a3_faction_blufor_10_b_air_exb_5">
               <Original>The V-44 X Blackfish, the armed variant, is capable of serving in both offensive and defensive roles, sporting a 40mm cannon, 105mm cannon and 20mm Minigun equipped with high explosive ammunition.</Original>
               <Chinese>武裝版本的V-44X"黑魚"配備著40公厘，105公厘火炮以及使用高爆彈藥的20公厘"米尼岡"機槍，使其能有效擔任進攻或是防禦的角色。</Chinese>
-              <Chinesesimp>武装版本的V-44X"黑鱼"配备着40mm、105mm 火炮以及使用高爆弹药的20mm 转管机炮，使其能有效担任进攻或是防御的角色。</Chinesesimp>
+              <Chinesesimp>武装版本的V-44X"黑鱼"配备着40 mm、105 mm 火炮以及使用高爆弹药的20 mm 转管机炮，使其能有效担任进攻或是防御的角色。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_B_Ground" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="05_B_Ground" dubbingLanguage="english" namePrefix="faction_blufor_05_b_ground" note="" participants="RC B Expo;" situation="player visits the ground vehicles area of the expo">
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_0">
               <Original>The Scorcher M4 is a 155mm self-propelled gun with an advanced artillery computer.</Original>
               <Chinese>"炙烤者"M4是一臺配備有155公厘口徑大砲與先進射控電腦的自走砲。</Chinese>
-              <Chinesesimp>"炙烤者"M4是一台配备先进火控计算机的155mm 自行火炮。</Chinesesimp>
+              <Chinesesimp>"炙烤者"M4是一台配备先进火控计算机的155 mm 自行火炮。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_1">
               <Original>The M2A1 Slammer is a main battle tank armed with a 120mm cannon.</Original>
               <Chinese>M2A1"重擊者"是一臺配備120公厘加農砲的主戰坦克。</Chinese>
-              <Chinesesimp>M2A1"重击者"是一种配备120mm 坦克炮的主战坦克。</Chinesesimp>
+              <Chinesesimp>M2A1"重击者"是一种配备120 mm 坦克炮的主战坦克。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_2">
               <Original>The Panther is an armored personnel carrier armed with a 12.7mm machine gun, 40mm grenade launcher, and a cargo capacity for up to eight soldiers.</Original>
               <Chinese>"黑豹"是一臺裝甲運兵車，配備有12.7公厘機槍，40公厘榴彈發射器，可以乘載8名人員的空間。</Chinese>
-              <Chinesesimp>"黑豹"是一种装甲输送车，配备有12.7 mm 机枪，40mm 榴弹发射器，可容纳8名载员。</Chinesesimp>
+              <Chinesesimp>"黑豹"是一种装甲输送车，配备有12.7 mm 机枪，40 mm 榴弹发射器，可容纳8名载员。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_3">
               <Original>The Prowler is NATO's standard-issue Light Strike Vehicle used by special operation groups, with its advantages over other vehicles being its small profile and high mobility.</Original>
@@ -534,7 +534,7 @@
             <Key ID="str_a3_faction_opfor_10_o_air_exo_4">
               <Original>Both configurations of the Y-32 Xi'an are equipped with a 30mm cannon, Skyfire rockets, and Skalpel missiles.</Original>
               <Chinese>兩種版本的Y-32"西安"均配備著30公厘機砲，"天火"火箭彈與"手術刀"反坦克飛彈。</Chinese>
-              <Chinesesimp>两种版本的Y-32"西安"均配备着30mm 机炮，"天火"火箭弹与"手术刀"反坦克导弹。</Chinesesimp>
+              <Chinesesimp>两种版本的Y-32"西安"均配备着30 mm 机炮，"天火"火箭弹与"手术刀"反坦克导弹。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_O_Ground" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="05_O_Ground" dubbingLanguage="english" namePrefix="faction_opfor_05_o_ground" note="" participants="RC O Expo;" situation="player visits the ground vehicles area of the expo">
@@ -551,7 +551,7 @@
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_2">
               <Original>The T100 Varsuk main battle tank is equipped with a standard 125mm canon.</Original>
               <Chinese>T100"獾"是一臺配備125公厘加農砲的主戰坦克。</Chinese>
-              <Chinesesimp>T100"獾"是一辆配备125mm 坦克炮的主战坦克。</Chinesesimp>
+              <Chinesesimp>T100"獾"是一辆配备125 mm 坦克炮的主战坦克。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_3">
               <Original>The Qilin is a Light Strike Vehicle used by special operation groups. Its advantage lies in its small profile and high mobility.</Original>
@@ -1096,8 +1096,8 @@
           <Container name="x01_WhereYouGo" audioFilePath="\a3\dubbing_f_gamma\showcase_tanks" dialogName="x01_WhereYouGo" dubbingLanguage="english" namePrefix="showcase_tanks_x01_whereyougo" note="" participants="RC B Nomad Lead;" situation="generic player fucking around handling">
             <Key ID="str_a3_showcase_tanks_x01_whereyougo_nom_0">
               <Original>Nomad-2, what's your status? We're still waiting for you up here. Get a move on!</Original>
-              <Chinese>"游牧民"-2"，你的狀況如何?我們還在這邊等你。快點過來!</Chinese>
-              <Chinesesimp>"游牧民"-2"，你的状况如何？我们还在这边等你。快点过来！</Chinesesimp>
+              <Chinese>"游牧民"-2，你的狀況如何?我們還在這邊等你。快點過來!</Chinese>
+              <Chinesesimp>'游牧民'-2，你的状况如何？我们还在这边等你。快点过来！</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_Village_Seized" audioFilePath="\a3\dubbing_f_gamma\showcase_tanks" dialogName="10_Village_Seized" dubbingLanguage="english" namePrefix="showcase_tanks_10_village_seized" note="" participants="RC B Nomad Lead;RC B HQ;" situation="molos seized, mission complete">
@@ -1109,7 +1109,7 @@
             <Key ID="str_a3_showcase_tanks_10_village_seized_nom_0">
               <Original>Papa Bear, this is Nomad. Objective one clear, you can send in the sweep team. Over.</Original>
               <Chinese>Papa Bear，這裡是"游牧民"。目標已安全，你可以開始派遣掃除小隊了。完畢。</Chinese>
-              <Chinesesimp>Papa Bear，这里是"游牧民"。目标已安全，你可以开始派遣清理小组了。完毕。</Chinesesimp>
+              <Chinesesimp>Papa Bear，这里是'游牧民'。目标已安全，你可以开始派遣清理小组了。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_Meeting" audioFilePath="\a3\dubbing_f_gamma\showcase_tanks" dialogName="05_Meeting" dubbingLanguage="english" namePrefix="showcase_tanks_05_meeting" note="" participants="RC B Nomad Lead;" situation="platoon complete, heading to battle">
@@ -1142,13 +1142,13 @@
             </Key>
             <Key ID="str_a3_showcase_tanks_01_intro_pla_0">
               <Original>Nomad, this is Nomad-2, we've just arrived at the staging area, over.</Original>
-              <Chinese>"游牧民"，這裡是"游牧民"-2"，我們剛抵達臨停區，完畢。</Chinese>
-              <Chinesesimp>"游牧民"，这里是"游牧民"-2"，我们刚抵达区，完毕。</Chinesesimp>
+              <Chinese>"游牧民"，這裡是"游牧民"-2，我們剛抵達臨停區，完畢。</Chinese>
+              <Chinesesimp>'游牧民'，这里是'游牧民'-2，我们刚抵达区，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_tanks_01_intro_pla_1">
               <Original>Copy that. ETA 2 mikes. Nomad-2 out.</Original>
-              <Chinese>收到。預計抵達時間為2分鐘。"游牧民"-2"通話完畢。</Chinese>
-              <Chinesesimp>收到。预计抵达时间为2分钟。"游牧民"-2"通话完毕。</Chinesesimp>
+              <Chinese>收到。預計抵達時間為2分鐘。'游牧民'-2通話完畢。</Chinese>
+              <Chinesesimp>收到。预计抵达时间为2分钟。'游牧民'-2通话完毕。</Chinesesimp>
             </Key>
           </Container>
         </Container>

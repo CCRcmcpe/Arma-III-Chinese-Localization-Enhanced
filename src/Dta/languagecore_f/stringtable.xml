@@ -600,7 +600,7 @@
         <Key ID="str_a3_rscfunctionsviewer_caption">
           <Original>Functions Viewer</Original>
           <Chinese>函數檢視器</Chinese>
-          <Chinesesimp>函数检视器</Chinesesimp>
+          <Chinesesimp>函数查看器</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscfunctionsviewer_btnrecompilefile">
           <Original>Recompile</Original>
@@ -632,7 +632,7 @@
         <Key ID="str_a3_rscdisplayanimviewer_title">
           <Original>Splendid Animation Viewer</Original>
           <Chinese>動畫檢視器</Chinese>
-          <Chinesesimp>动画检视器</Chinesesimp>
+          <Chinesesimp>动画查看器</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayanimviewer_textstance_tooltip">
           <Original>Stance</Original>
@@ -2472,17 +2472,17 @@
         <Key ID="str_a3_rscdisplayfieldmanual_sort_ascending">
           <Original>Sorted ascending.</Original>
           <Chinese>升序排列。</Chinese>
-          <Chinesesimp>升序排列。</Chinesesimp>
+          <Chinesesimp>按升序排序。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayfieldmanual_sort_descending">
           <Original>Sorted descending.</Original>
           <Chinese>降序排序。</Chinese>
-          <Chinesesimp>降序排序。</Chinesesimp>
+          <Chinesesimp>按降序排序。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayfieldmanual_sort_logically">
           <Original>Sorted logically.</Original>
           <Chinese>排列順序。</Chinese>
-          <Chinesesimp>排列顺序。</Chinesesimp>
+          <Chinesesimp>按逻辑排序。</Chinesesimp>
         </Key>
       </Container>
       <Container name="RscDisplayFileSelect">
@@ -6937,7 +6937,7 @@
         <Key ID="str_a3_rscdisplayconfigviewer_title">
           <Original>Splendid Config Viewer</Original>
           <Chinese>組態檢視器</Chinese>
-          <Chinesesimp>组态检视器</Chinesesimp>
+          <Chinesesimp>配置查看器</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayconfigviewer_pathtext">
           <Original>Path:</Original>
@@ -8055,7 +8055,7 @@
       <Key ID="STR_CA_ARCMAP_CONFIG_VIEWER">
         <Original>Config Viewer [CTRL+G]</Original>
         <Chinese>組態檢視器[CTRL+G]</Chinese>
-        <Chinesesimp>组态检视器[CTRL+G]</Chinesesimp>
+        <Chinesesimp>配置查看器 [CTRL+G]</Chinesesimp>
       </Key>
       <Key ID="str_disp_arcmap_synchronize_key_first">
         <Original>(F5) Synchronize</Original>
@@ -8075,7 +8075,7 @@
       <Key ID="STR_CA_ARCMAP_DEBUGC">
         <Original>Debug Console [CTRL+D]</Original>
         <Chinese>除錯檢視器[CTRL+D]</Chinese>
-        <Chinesesimp>除错检视器[CTRL+D]</Chinesesimp>
+        <Chinesesimp>调试控制台 [CTRL+D]</Chinesesimp>
       </Key>
       <Key ID="str_disp_arcmap_sensors_key_first">
         <Original>(F3) Triggers</Original>
@@ -8090,7 +8090,7 @@
       <Key ID="STR_CA_ARCMAP_FUNCTIONS_VIEWER">
         <Original>Functions Viewer [CTRL+F]</Original>
         <Chinese>函數檢視器[CTRL+F]</Chinese>
-        <Chinesesimp>函数检视器[CTRL+F]</Chinesesimp>
+        <Chinesesimp>函数查看器 [CTRL+F]</Chinesesimp>
       </Key>
       <Key ID="STR_CA_ARCMAP_INTEL">
         <Original>Intel [CTRL+W]</Original>
@@ -8490,12 +8490,12 @@
       <Key ID="STR_DEPTH_RELATIVEDOWN">
         <Original>Descend by %1 m.</Original>
         <Chinese>下降%1m。</Chinese>
-        <Chinesesimp>下降%1m。</Chinesesimp>
+        <Chinesesimp>下降%1 m。</Chinesesimp>
       </Key>
       <Key ID="STR_DEPTH_RELATIVEUP">
         <Original>Ascend by %1 m.</Original>
         <Chinese>上升%1m。</Chinese>
-        <Chinesesimp>上升%1m。</Chinesesimp>
+        <Chinesesimp>上升%1 m。</Chinesesimp>
       </Key>
       <Key ID="STR_DEPTH_UNDERSURFACE">
         <Original>Under surface</Original>
@@ -11324,12 +11324,12 @@
         <Key ID="str_controls_tooltips_HOVER">
           <Original>Enter the autopilot hover state</Original>
           <Chinese>開啟自動盤旋模式</Chinese>
-          <Chinesesimp>开启自动盘旋模式</Chinesesimp>
+          <Chinesesimp>开启自动悬停模式</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_HOVER_CANCEL">
           <Original>Leave autopilot hover state</Original>
           <Chinese>關閉自動盤旋模式</Chinese>
-          <Chinesesimp>关闭自动盘旋模式</Chinesesimp>
+          <Chinesesimp>关闭自动悬停模式</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_RELOAD_MAGAZINE">
           <Original>Reload weapon magazine</Original>
@@ -16835,7 +16835,7 @@
         <Key ID="STR_AC_LOITER">
           <Original>LOITER</Original>
           <Chinese>滯留</Chinese>
-          <Chinesesimp>滞留</Chinesesimp>
+          <Chinesesimp>盘旋</Chinesesimp>
         </Key>
         <Key ID="str_xbox_testing_network_conditions">
           <Original>Testing Network Conditions ...</Original>
@@ -17220,7 +17220,7 @@
         <Key ID="str_action_hover">
           <Original>Auto-Hover On</Original>
           <Chinese>自動盤旋開啟</Chinese>
-          <Chinesesimp>自动盘旋开启</Chinesesimp>
+          <Chinesesimp>自动悬停开启</Chinesesimp>
         </Key>
         <Key ID="str_usract_buld_brush_smooth">
           <Original>Brush Smooth</Original>
@@ -17235,7 +17235,7 @@
         <Key ID="str_action_hover_cancel">
           <Original>Auto-Hover Off</Original>
           <Chinese>自動盤旋關閉</Chinese>
-          <Chinesesimp>自动盘旋关闭</Chinesesimp>
+          <Chinesesimp>自动悬停关闭</Chinesesimp>
         </Key>
         <Key ID="str_action_ingame_menu">
           <Original>Command menu</Original>
@@ -18255,7 +18255,7 @@
         <Key ID="STR_AVT_CTM_WP_FLY_COPY_GROUND">
           <Original>Copy ground (20 m)</Original>
           <Chinese>貼地(20m)</Chinese>
-          <Chinesesimp>贴地（20m）</Chinesesimp>
+          <Chinesesimp>贴地（20 m）</Chinesesimp>
         </Key>
         <Key ID="str_word_allgroup">
           <Original>Group</Original>
@@ -18270,7 +18270,7 @@
         <Key ID="STR_AVT_CTM_WP_FLY_HIGH_ALT">
           <Original>High altitude (500 m)</Original>
           <Chinese>高海拔(500m)</Chinese>
-          <Chinesesimp>高海拔（500m）</Chinesesimp>
+          <Chinesesimp>高海拔（500 m）</Chinesesimp>
         </Key>
         <Key ID="str_word_all">
           <Original>All</Original>
@@ -18280,12 +18280,12 @@
         <Key ID="STR_AVT_CTM_WP_FLY_LOW_PROFILE">
           <Original>Low profile (50 m)</Original>
           <Chinese>低飛(50m)</Chinese>
-          <Chinesesimp>低飞（50m）</Chinesesimp>
+          <Chinesesimp>低飞（50 m）</Chinesesimp>
         </Key>
         <Key ID="STR_AVT_CTM_WP_FLY_TRAVEL_ALT">
           <Original>Travel Altitude (200 m)</Original>
           <Chinese>巡航高度(200m)</Chinese>
-          <Chinesesimp>巡航高度（200m）</Chinesesimp>
+          <Chinesesimp>巡航高度（200 m）</Chinesesimp>
         </Key>
         <Key ID="str_windowed">
           <Original>Windowed</Original>
@@ -18295,7 +18295,7 @@
         <Key ID="STR_AVT_CTM_WP_FLY_VERY_HIGH_ALT">
           <Original>Very high altitude (2000 m)</Original>
           <Chinese>高海拔(2000m)</Chinese>
-          <Chinesesimp>高海拔（2000m）</Chinesesimp>
+          <Chinesesimp>高海拔（2000 m）</Chinesesimp>
         </Key>
         <Key ID="STR_AVT_CTM_WP_TYPE">
           <Original>Type</Original>
@@ -20875,7 +20875,7 @@
         <Key ID="str_usract_buld_terrain_raise_5m">
           <Original>Buldozer Raise Terrain 5 m</Original>
           <Chinese>Buldozer地形提高5m</Chinese>
-          <Chinesesimp>Buldozer 地形提高5m</Chinesesimp>
+          <Chinesesimp>Buldozer 地形提高5 m</Chinesesimp>
         </Key>
         <Key ID="str_disp_xbox_friends_voice_on">
           <Original>Voice: On</Original>
@@ -20890,7 +20890,7 @@
         <Key ID="str_usract_buld_terrain_raise_1m">
           <Original>Buldozer Raise Terrain 1 m</Original>
           <Chinese>Buldozer地形提高1m</Chinese>
-          <Chinesesimp>Buldozer 地形提高1m</Chinesesimp>
+          <Chinesesimp>Buldozer 地形提高1 m</Chinesesimp>
         </Key>
         <Key ID="str_disp_xbox_hint_abort">
           <Original>%1 Abort</Original>
@@ -20905,7 +20905,7 @@
         <Key ID="str_usract_buld_terrain_lower_5m">
           <Original>Buldozer Lower Terrain 5 m</Original>
           <Chinese>Buldozer地形下降5m</Chinese>
-          <Chinesesimp>Buldozer 地形下降5m</Chinesesimp>
+          <Chinesesimp>Buldozer 地形下降5 m</Chinesesimp>
         </Key>
         <Key ID="str_disp_xbox_hint_campaign_begin">
           <Original>%1 Start</Original>
@@ -20920,7 +20920,7 @@
         <Key ID="str_usract_buld_terrain_lower_1m">
           <Original>Buldozer Lower Terrain 1 m</Original>
           <Chinese>Buldozer地形下降1m</Chinese>
-          <Chinesesimp>Buldozer 地形下降1m</Chinesesimp>
+          <Chinesesimp>Buldozer 地形下降1 m</Chinesesimp>
         </Key>
         <Key ID="str_disp_xbox_hint_campaign_restart">
           <Original>Revert</Original>
@@ -20980,7 +20980,7 @@
         <Key ID="str_disp_xbox_hint_igui_more_actions">
           <Original>%1 More actions</Original>
           <Chinese>%1Moreactions</Chinese>
-          <Chinesesimp>%1Moreactions</Chinesesimp>
+          <Chinesesimp>%1 Moreactions</Chinesesimp>
         </Key>
         <Key ID="str_disp_xbox_hint_igui_next_action">
           <Original>%1 Next action</Original>
@@ -23240,12 +23240,12 @@
         <Key ID="str_killed">
           <Original>%s was killed</Original>
           <Chinese>%s被%s打死</Chinese>
-          <Chinesesimp>%s被%s打死</Chinesesimp>
+          <Chinesesimp>%s 已死亡</Chinesesimp>
         </Key>
         <Key ID="str_killed_by">
           <Original>%s was killed by %s</Original>
           <Chinese>%s被%s打死</Chinese>
-          <Chinesesimp>%s被%s打死</Chinesesimp>
+          <Chinesesimp>%s 被 %s 击杀</Chinesesimp>
         </Key>
         <Key ID="str_short_sergeant">
           <Original>Sgt</Original>
@@ -23255,12 +23255,12 @@
         <Key ID="str_killed_by_friendly">
           <Original>%s was killed by %s (Friendly fire)</Original>
           <Chinese>%s被%s打死(友軍誤擊)</Chinese>
-          <Chinesesimp>%s被%s打死（友军误击）</Chinesesimp>
+          <Chinesesimp>%s 被 %s 击杀（友军误击）</Chinesesimp>
         </Key>
         <Key ID="str_killed_friendly">
           <Original>%s was killed (Friendly fire)</Original>
           <Chinese>%s被殺死了(友軍誤擊)</Chinese>
-          <Chinesesimp>%s被杀死了（友军误击）</Chinesesimp>
+          <Chinesesimp>%s 已死亡（友军误击）</Chinesesimp>
         </Key>
         <Key ID="str_short_private">
           <Original>Pvt</Original>
@@ -25932,22 +25932,22 @@
         <Key ID="STR_USRACT_BULD_TERRAIN_LOWER_10CM">
           <Original>Buldozer Lower Terrain 10 cm</Original>
           <Chinese>Buldozer地形下降10公尺</Chinese>
-          <Chinesesimp>Buldozer 地形下降10cm</Chinesesimp>
+          <Chinesesimp>Buldozer 地形下降10 cm</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_BULD_TERRAIN_LOWER_50CM">
           <Original>Buldozer Lower Terrain 50 cm</Original>
           <Chinese>Buldozer地形下降50公尺</Chinese>
-          <Chinesesimp>Buldozer 地形下降50cm</Chinesesimp>
+          <Chinesesimp>Buldozer 地形下降50 cm</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_BULD_TERRAIN_RAISE_10CM">
           <Original>Buldozer Raise Terrain 10 cm</Original>
           <Chinese>Buldozer地形上升10公尺</Chinese>
-          <Chinesesimp>Buldozer 地形上升10cm</Chinesesimp>
+          <Chinesesimp>Buldozer 地形上升10 cm</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_BULD_TERRAIN_RAISE_50CM">
           <Original>Buldozer Raise Terrain 50 cm</Original>
           <Chinese>Buldozer地形上升50公尺</Chinese>
-          <Chinesesimp>Buldozer 地形上升50cm</Chinesesimp>
+          <Chinesesimp>Buldozer 地形上升50 cm</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_OPTICS_MODE">
           <Original>Optics Mode</Original>

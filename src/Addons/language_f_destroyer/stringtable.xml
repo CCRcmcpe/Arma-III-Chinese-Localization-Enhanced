@@ -59,7 +59,7 @@
       <Key ID="STR_A3_Ship_Gun_01_hint_description">
         <Original>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</Original>
         <Chinese>Mk45"大錘"120公厘艦炮為北約的海軍艦艇提供了在近距離和中等距離上的兇猛火力。這種強大的火炮既可以直瞄射擊也可以使用炮控射擊，在艦隊防禦和火力支援任務中都十分重要。這種武器通常部署在"解放"級驅逐艦上。</Chinese>
-        <Chinesesimp>Mk45"大锤"120mm 舰炮为北约的海军舰艇提供了在近距离和中等距离上的凶猛火力。这种强大的火炮既可以直瞄射击也可以使用炮控射击，在舰队防御和火力支援任务中都十分重要。这种武器通常部署在"解放"级驱逐舰上。</Chinesesimp>
+        <Chinesesimp>Mk45 "大锤" 120 mm 舰炮为北约的海军舰艇提供了在近距离和中等距离上的凶猛火力。这种强大的火炮既可以直瞄射击也可以使用炮控射击，在舰队防御和火力支援任务中都十分重要。这种武器通常部署在"解放"级驱逐舰上。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_DLCbrowser_description">
         <Original>This ship serves as a naval-support platform for NATO forces and as additional support for the Carrier Strike Group.</Original>
@@ -84,7 +84,7 @@
       <Key ID="STR_A3_Ship_Gun_01_DLCbrowser_description">
         <Original>120mm naval gun provides NATO naval vessels with heavy firepower capability, designed for use with Liberty class destroyers.</Original>
         <Chinese>120公厘艦炮為北約海上艦艇提供了強大火力，用於"解放"級驅逐艦。</Chinese>
-        <Chinesesimp>120mm 舰炮为北约海上舰艇提供了强大火力，用于"解放"级驱逐舰。</Chinesesimp>
+        <Chinesesimp>120 mm 舰炮为北约海上舰艇提供了强大火力，用于"解放"级驱逐舰。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Ship_MRLS_01_DLCbrowser_title">
         <Original>Mk41 Vertical Launch System</Original>

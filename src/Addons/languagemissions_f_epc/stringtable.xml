@@ -1251,7 +1251,7 @@
             <Key ID="str_a3_c_m01_40_aa_neutralized_ker_0">
               <Original>Nomad-1 to Crossroads, AA threat neutralized, over.</Original>
               <Chinese>"游牧民-1"呼叫"交叉路"，防空威脅已殲滅，完畢。</Chinese>
-              <Chinesesimp>"游牧民-1"呼叫"交叉路口"，防空威胁已歼灭，完毕。</Chinesesimp>
+              <Chinesesimp>"游牧民"-1呼叫"交叉路口"，防空威胁已歼灭，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="35_Lift_Going_Down" audioFilePath="\a3\dubbing_f_epc\c_m01" dialogName="35_Lift_Going_Down" dubbingLanguage="english" namePrefix="c_m01_35_lift_going_down" note="" participants="EPC B Player;EPC B Abstract B;EPC B HQ;" situation="airlift under fire">

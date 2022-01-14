@@ -949,7 +949,7 @@
           <Key ID="str_a3_a_m03_briefing_situation_text">
             <Original>As I'm sure you're all well aware, comms are still down. Efforts to restore contact with NATO MEDCOM have, thus far, proven fruitless. The plain truth is, gentlemen, with the AAF regrouping, we must re-establish a link soon.%1Now, aside from %2the airbase%3, %4Mike-26%5 is probably the most hi-tech installation on Stratis. It's also one of the most strategically valuable positions on the island.%6It's a risk, but hitting the facility will deal a serious blow to the AAF, and - if anywhere holds an opportunity to re-open comms channels - it's there.%7This will be a coordinated effort. Charlie will set up %8a mortar%9. %10Alpha%11 will %12provide overwatch%13 and mark priority targets. We'll strike hard from distance and - together with %14Bravo%15 - move in quickly, holding the position against any potential counter-attack.</Original>
             <Chinese>正如你們一直很關心的，通訊仍然是斷的。我們一直努力與北約的地中海司令部進行聯繫，但到目前為止，都是徒勞無功的。計劃很明顯，先生們-由於阿爾抵死武裝力量正在重新集結-所以我們必須加快聯繫外援的動作。%1現在，除了%2空軍基地%3，%4Mike-26%5可能是斯特拉蒂斯島上唯一裝有高科技裝備的地方。它也是島上其中一處最具戰略價值的位置%6這風險很高，但打擊這個設施將會重重的打擊阿爾蒂斯武裝力量，並且-假如有任何機會可以重新連繫上通訊頻道-這就是了。%7此次行動將由大家共同合作。Charlie將會設置%8迫擊砲%9。%10Alpha%11則會提供%12觀測%13並標記優先目標。我們將從一定的距離外嚴重打擊他們-然後再與%14Bravo%15一同快速進入，堅守陣地並排除所有潛在的反擊。</Chinese>
-            <Chinesesimp>我相信你们也很在意，通信仍然中断。我们一直努力与北约地中海司令部取得联系，但到目前为止一直徒劳无功。事实就是，先生们—由于 AAF 正在重新集结—我们必须加快联系外援的动作。%1现在除了%2空军基地以外%3，%4Mike-26%5可能是斯特拉蒂斯岛上唯一装有高科技设备的地方。它也是岛上其中一处最具战略价值的位置%6这风险很高，但打击这个设施将给 AAF 带来沉重打击，并且—假如有任何机会可以重新建立通信的话—就是这样了。%7此次行动将由大家共同合作。Charlie 将会设置%8迫击炮%9。%10Alpha%11则会提供%12观测%13并标记优先目标。我们将从一定的距离外狠狠打击他们—然后再与%14Bravo%15协同快速突入，坚守阵地并排除所有潜在的反击。</Chinesesimp>
+            <Chinesesimp>我相信你们也很在意，通信仍然中断。我们一直努力与北约地中海司令部取得联系，但到目前为止一直徒劳无功。事实就是，先生们—由于 AAF 正在重新集结—我们必须加快联系外援的动作。%1现在除了%2空军基地以外%3，%4 Mike-26%5可能是斯特拉蒂斯岛上唯一装有高科技设备的地方。它也是岛上其中一处最具战略价值的位置%6这风险很高，但打击这个设施将给 AAF 带来沉重打击，并且—假如有任何机会可以重新建立通信的话—就是这样了。%7此次行动将由大家共同合作。Charlie 将会设置%8迫击炮%9。%10Alpha%11则会提供%12观测%13并标记优先目标。我们将从一定的距离外狠狠打击他们—然后再与%14Bravo%15协同快速突入，坚守阵地并排除所有潜在的反击。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m03_briefing_signal_text">
             <Original>%1Alpha%2 - Your squad.%3%4Bravo%5 - Supporting element.%6%7Charlie%8 - Mortar team.%9%10Falcon%11 - Camp Maxwell HQ.%12%13Delta%14 - Recon element.</Original>
@@ -959,12 +959,12 @@
           <Key ID="str_a3_a_m03_briefing_mission_text">
             <Original>With the support of %1Charlie%2 and %3Bravo%4, assault and hold %5Air Station Mike-26%6.</Original>
             <Chinese>在%1Charlie%2與%3Bravo%4的協助下，攻擊並佔領%5Mike-26基地臺%6。</Chinese>
-            <Chinesesimp>在%1Charlie%2与%3Bravo%4的协助下，攻击并占领%5Mike-26航空站%6。</Chinesesimp>
+            <Chinesesimp>在%1Charlie%2与%3Bravo%4的协助下，攻击并占领%5 Mike-26航空站%6。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m03_briefing_execution_text">
             <Original>1. Take up %1a position on overwatch%2 above %3Mike-26%4.&lt;br/&gt;2. Designate the watch towers for %5Charlie's mortar team%6.&lt;br/&gt;3. Clear the AAF from the vicinity of Mike-26.&lt;br/&gt;4. Hold the facility against any potential counter-attack.</Original>
             <Chinese>1. 建立%1觀測點%2來觀察%3Mike-26%4。&lt;br/&gt;2. 為%5"Charlie's"的迫擊砲小隊%6指定目標。&lt;br/&gt;3. 肅清Mike-26附近所有的阿爾蒂斯武裝力量部隊。&lt;br/&gt;4. 守住設施並擊退一切反擊。</Chinese>
-            <Chinesesimp>1. 建立%1观测点%2来观察%3Mike-26%4。&lt;br/&gt;2. 为%5Charlie 的迫击炮小组%6指定目标。&lt;br/&gt;3. 肃清 Mike-26附近所有的阿尔蒂斯武裝力量部队。&lt;br/&gt;4. 守住设施并击退一切反击。</Chinesesimp>
+            <Chinesesimp>1. 建立%1观测点%2来观察%3 Mike-26%4。&lt;br/&gt;2. 为%5Charlie 的迫击炮小组%6指定目标。&lt;br/&gt;3. 肃清 Mike-26附近所有的阿尔蒂斯武裝力量部队。&lt;br/&gt;4. 守住设施并击退一切反击。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m03_bis_towers_title">
             <Original>Neutralize Watch Towers</Original>
@@ -999,7 +999,7 @@
           <Key ID="str_a3_a_m03_bis_op_desc">
             <Original>Set up %1an overwatch position%2 overlooking %3Air Station Mike-26%4.</Original>
             <Chinese>設置一個%1觀測點%2來觀察%3Mike-26基地臺%4。</Chinese>
-            <Chinesesimp>设置一个%1观测点%2来观察%3Mike-26航空站%4。</Chinesesimp>
+            <Chinesesimp>设置一个%1观测点%2来观察%3 Mike-26航空站%4。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m03_bis_mike26_title">
             <Original>Seize Air Station Mike-26</Original>
@@ -1009,7 +1009,7 @@
           <Key ID="str_a3_a_m03_bis_mike26_desc">
             <Original>With the towers neutralised, assist %1Bravo%2 with the capture of %3Mike-26%4.</Original>
             <Chinese>在摧毀哨塔後，協助%1Bravo%2佔領%3Mike-26%4。</Chinese>
-            <Chinesesimp>在摧毁哨塔后，协助%1Bravo%2占领%3Mike-26%4。</Chinesesimp>
+            <Chinesesimp>在摧毁哨塔后，协助%1Bravo%2占领%3 Mike-26%4。</Chinesesimp>
           </Key>
         </Container>
         <Container name="A_m05">

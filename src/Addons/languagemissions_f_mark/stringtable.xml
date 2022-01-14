@@ -129,12 +129,12 @@
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_situation_text2">
             <Original>At 1815 hours this evening, a WY-55 Hellcat belonging to the AAF was %1shot down%2 on return from counter-insurgency operations in the northwest. Only the crew were present in the helicopter when it went down, but now they're trapped by the FIA who are closing in on their position.%3The AAF have requested NATO's assistance. As such, %4Kilo 1 and 2%5, and %6Romeo 1 and 2%7, are being deployed to conduct search and rescue on the AAF crew.%8A recon team, callsign Foxtrot, are already on station %9above the crash site%10, awaiting your arrival. They will assist you with dispatching the helicopter and locating the crew.</Original>
             <Chinese>在傍晚18:15時分，一架屬於阿爾蒂斯武裝力量的WY-55"潑婦"，在任務結束回程的路上被%1擊落%2。當時機上只有機組員，他們現在被自由獨立同盟困在墜毀點。%3阿爾蒂斯武裝力量已請求北約進行協助。因為如此，%4"基洛 1"和2%5，還有%6"羅密歐"1"和"2"%7，將被派往執行阿爾蒂斯武裝力量機組員的搜救任務。%8一個呼號叫Foxtrot的偵察小隊已經抵達%9墜毀點附近%10，正等待你們的抵達。他們將協助你們搜索直升機並定位機組員位置。</Chinese>
-            <Chinesesimp>在傍晚18：15时分，一架属于 AAF 的 WY-55"泼妇"直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被 FIA 困在坠毁点。%3AAF 已请求北约进行协助。因为如此，%4"基洛 1"和2%5，还有%6"罗密欧 1"和"2"%7，将被派往执行 AAF 机组员的搜救任务。%8一个呼号叫 Foxtrot 的侦察小队已经抵达%9坠毁点附近%10，正等待你们的抵达。他们将协助你们搜索直升机并定位机组员位置。</Chinesesimp>
+            <Chinesesimp>在傍晚18：15时分，一架属于 AAF 的 WY-55 "泼妇"直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被 FIA 困在坠毁点。%3AAF 已请求北约进行协助。因为如此，%4"基洛 1"和2%5，还有%6"罗密欧 1"和"2"%7，将被派往执行 AAF 机组员的搜救任务。%8一个呼号叫 Foxtrot 的侦察小队已经抵达%9坠毁点附近%10，正等待你们的抵达。他们将协助你们搜索直升机并定位机组员位置。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_situation_text1">
             <Original>At 1815 hours this evening, a WY-55 Hellcat belonging to the AAF was %1shot down%2 on return from counter-insurgency operations in the northwest. Only the crew were present in the helicopter when it went down, but now they're trapped by the FIA who are closing in on their position.%3The AAF have requested NATO's assistance. As such, %4Kilo 1 and 2%5, and %6Romeo 1 and 2%7, are being deployed to conduct search and rescue on the AAF crew.</Original>
             <Chinese>在傍晚18:15時分，一架屬於阿爾蒂斯武裝力量的WY-55"潑婦"，在任務結束回程的路上被%1擊落%2。當時機上只有機組員，他們現在被自由獨立同盟困在墜毀點。%3阿爾蒂斯武裝力量已請求北約進行協助。因為如此，%4Kilo1"和2%5，還有%6"羅密歐"1"和"2"%7，將被派往執行阿爾蒂斯武裝力量機組員的搜救任務。</Chinese>
-            <Chinesesimp>在傍晚18：15时分，一架属于 AAF 的 WY-55"泼妇"直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被 FIA 困在坠毁点。%3AAF 已请求北约进行协助。因为如此，%4"基洛 1"和2%5，还有%6"罗密欧 1"和"2"%7，将被派往执行 AAF 机组员的搜救任务。</Chinesesimp>
+            <Chinesesimp>在傍晚18：15时分，一架属于 AAF 的 WY-55 "泼妇"直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被 FIA 困在坠毁点。%3AAF 已请求北约进行协助。因为如此，%4"基洛 1"和2%5，还有%6"罗密欧 1"和"2"%7，将被派往执行 AAF 机组员的搜救任务。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_signal_text2">
             <Original>%1Kilo 1%2 - Lead element.%3%4Kilo 2%5 - Your team.%6%7Romeo%8 - Transport MH-9 Hummingbirds.%9Broadway - Headquarters.%10%11Foxtrot%12 - Recon element.%13Archangel - Inbound Greyhawk UAV.</Original>

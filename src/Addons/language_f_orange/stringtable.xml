@@ -2092,22 +2092,22 @@
           <Key ID="str_a3_cfgvehicles_sign_sphere10cm_geometry_f0">
             <Original>Sphere (Geometry, 10cm)</Original>
             <Chinese>球體(幾何，10公分)</Chinese>
-            <Chinesesimp>球体（几何，10cm）</Chinesesimp>
+            <Chinesesimp>球体（几何，10 cm）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_sign_sphere25cm_geometry_f0">
             <Original>Sphere (Geometry, 25cm)</Original>
             <Chinese>球體(幾何，25公分)</Chinese>
-            <Chinesesimp>球体（几何，25cm）</Chinesesimp>
+            <Chinesesimp>球体（几何，25 cm）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_sign_sphere100cm_geometry_f0">
             <Original>Sphere (Geometry, 100cm)</Original>
             <Chinese>球體(幾何，100公分)</Chinese>
-            <Chinesesimp>球体（几何，100cm）</Chinesesimp>
+            <Chinesesimp>球体（几何，100 cm）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_sign_sphere200cm_geometry_f0">
             <Original>Sphere (Geometry, 200cm)</Original>
             <Chinese>球體(幾何，200公分)</Chinese>
-            <Chinesesimp>球体（几何，200cm）</Chinesesimp>
+            <Chinesesimp>球体（几何，200 cm）</Chinesesimp>
           </Key>
         </Container>
       </Container>

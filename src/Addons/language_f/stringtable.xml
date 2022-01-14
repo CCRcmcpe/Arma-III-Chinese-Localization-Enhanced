@@ -2165,17 +2165,17 @@
       <Key ID="str_a3_cfgvehicles_sign_sphere100cm_f0">
         <Original>Sphere (100cm)</Original>
         <Chinese>球面(100公分)</Chinese>
-        <Chinesesimp>球面（100cm）</Chinesesimp>
+        <Chinesesimp>球面（100 cm）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_sign_sphere10cm_f0">
         <Original>Sphere (10cm)</Original>
         <Chinese>球面(10公分)</Chinese>
-        <Chinesesimp>球面（10cm）</Chinesesimp>
+        <Chinesesimp>球面（10 cm）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_sign_sphere25cm_f0">
         <Original>Sphere (25cm)</Original>
         <Chinese>球面(25公分)</Chinese>
-        <Chinesesimp>球面（25cm）</Chinesesimp>
+        <Chinesesimp>球面（25 cm）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_usertexture10m_f0">
         <Original>User Texture (10m)</Original>
@@ -3887,7 +3887,7 @@
         <Key ID="str_a3_cfgmagazines_directionalminerangemagazine_library0">
           <Original>The M6 SLAM mine is a next generation Selectable Lightweight Attack Munition. They are very effective against light armored vehicles, penetrating 40 mm armor from up to eight meters. Unlike dug-in mines, SLAM is placed on the ground and is easier to spot.</Original>
           <Chinese>M6指向性反裝甲地雷是一種次世代的可選式輕量攻擊武器。這種地雷拿來對付輕裝甲載具非常的有效，它可以在8公尺外射出彈芯貫穿40mm的裝甲。與一般埋藏起來的地雷不一樣，M6指向性反裝甲地雷會被直接放置在地面，使其比較容易被肉眼察覺。</Chinese>
-          <Chinesesimp>M6定向反装甲地雷是一种次世代的可选式轻型攻击弹药。这种地雷拿来对付轻装甲载具非常的有效，它可以在8米外射穿40mm 的装甲。与一般的埋藏地雷不一样，M6定向反装甲地雷会被直接放置在地面上，使其比较容易被肉眼察觉。</Chinesesimp>
+          <Chinesesimp>M6定向反装甲地雷是一种次世代的可选式轻型攻击弹药。这种地雷拿来对付轻装甲载具非常的有效，它可以在8米外射穿40 mm 的装甲。与一般的埋藏地雷不一样，M6定向反装甲地雷会被直接放置在地面上，使其比较容易被肉眼察觉。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_directionalmineremotemagazine0">
           <Original>Claymore Charge</Original>
@@ -3930,17 +3930,17 @@
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_yellow_mag0">
             <Original>9 mm 30Rnd Reload Tracer (Yellow) Mag</Original>
             <Chinese>9公厘30發重新裝填曳光彈(黃色)彈匣</Chinese>
-            <Chinesesimp>9mm 30发装填指示曳光弹（黄色）弹匣</Chinesesimp>
+            <Chinesesimp>9 mm 30发装填指示曳光弹（黄色）弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_red_mag0">
             <Original>9 mm 30Rnd Reload Tracer (Red) Mag</Original>
             <Chinese>9公厘30發重新裝填曳光彈(紅色)彈匣</Chinese>
-            <Chinesesimp>9mm 30发装填指示曳光弹（红色）弹匣</Chinesesimp>
+            <Chinesesimp>9 mm 30发装填指示曳光弹（红色）弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_green_mag0">
             <Original>9 mm 30Rnd Reload Tracer (Green) Mag</Original>
             <Chinese>9公厘30發重新裝填曳光彈(綠色)彈匣</Chinese>
-            <Chinesesimp>9mm 30发装填指示曳光弹（绿色）弹匣</Chinesesimp>
+            <Chinesesimp>9 mm 30发装填指示曳光弹（绿色）弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_65x39_caseless_mag_tracer0">
             <Original>6.5 mm 30Rnd Tracer Sand Mag</Original>
@@ -4040,22 +4040,22 @@
           <Key ID="str_a3_cfgmagazines_16rnd_9x21_yellow_mag0">
             <Original>9 mm 16Rnd Reload Tracer (Yellow) Mag</Original>
             <Chinese>9公厘16發重新裝填曳光彈(黃色)彈匣</Chinese>
-            <Chinesesimp>9mm 16发装填指示曳光弹（黄色）弹匣</Chinesesimp>
+            <Chinesesimp>9 mm 16发装填指示曳光弹（黄色）弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_16rnd_9x21_red_mag0">
             <Original>9 mm 16Rnd Reload Tracer (Red) Mag</Original>
             <Chinese>9公厘16發重新裝填曳光彈(紅色)彈匣</Chinese>
-            <Chinesesimp>9mm 16发装填指示曳光弹（红色）弹匣</Chinesesimp>
+            <Chinesesimp>9 mm 16发装填指示曳光弹（红色）弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_16rnd_9x21_green_mag0">
             <Original>9 mm 16Rnd Reload Tracer (Green) Mag</Original>
             <Chinese>9公厘16發重新裝填曳光彈(綠色)彈匣</Chinese>
-            <Chinesesimp>9mm 16发装填指示曳光弹（绿色）弹匣</Chinesesimp>
+            <Chinesesimp>9 mm 16发装填指示曳光弹（绿色）弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_12rnd_230mm_rockets_cluster0">
             <Original>230 mm Cluster Rocket</Original>
             <Chinese>230公厘集束火箭彈</Chinese>
-            <Chinesesimp>230mm 集束火箭弹</Chinesesimp>
+            <Chinesesimp>230 mm 集束火箭弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_65x39_caseless_mag_tracer0">
             <Original>6.5 mm 100Rnd Tracer Sand Mag</Original>
@@ -4090,7 +4090,7 @@
           <Key ID="str_a3_cfgmagazines_1000rnd_25mm_shells0">
             <Original>25 mm Shells</Original>
             <Chinese>25公厘砲彈</Chinese>
-            <Chinesesimp>25mm 炮弹</Chinesesimp>
+            <Chinesesimp>25 mm 炮弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1000rnd_65x39_belt_tracer_green0">
             <Original>6.5 mm 1000Rnd LMG Tracer (Green) Belt</Original>
@@ -4110,7 +4110,7 @@
           <Key ID="str_a3_cfgmagazines_1000rnd_20mm_shells0">
             <Original>20 mm Shells</Original>
             <Chinese>20公厘砲彈</Chinese>
-            <Chinesesimp>20mm 炮弹</Chinesesimp>
+            <Chinesesimp>20 mm 炮弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_10rnd_120mm_mo_cluster0">
             <Original>Cluster Shells</Original>
@@ -4145,7 +4145,7 @@
           <Key ID="str_a3_cfgmagazines_1rnd_he_grenade_shell0">
             <Original>40 mm HE Grenade Round</Original>
             <Chinese>40公厘高爆榴彈</Chinese>
-            <Chinesesimp>40mm 高爆榴弹</Chinesesimp>
+            <Chinesesimp>40 mm 高爆榴弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1rnd_smoke_grenade_shell0">
             <Original>Smoke Round (White)</Original>
@@ -4155,7 +4155,7 @@
           <Key ID="str_a3_cfgmagazines_16rnd_9x21_mag0">
             <Original>9 mm 16Rnd Mag</Original>
             <Chinese>9公厘16發彈匣</Chinese>
-            <Chinesesimp>9mm 16发弹匣</Chinesesimp>
+            <Chinesesimp>9 mm 16发弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1rnd_smokeblue_grenade_shell0">
             <Original>Smoke Round (Blue)</Original>
@@ -4185,7 +4185,7 @@
           <Key ID="str_a3_cfgmagazines_2000rnd_20mm_shells0">
             <Original>20 mm Grenade Mag</Original>
             <Chinese>20公厘榴彈彈匣</Chinese>
-            <Chinesesimp>20mm 榴弹弹匣</Chinesesimp>
+            <Chinesesimp>20 mm 榴弹弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_2000rnd_65x39_belt_tracer_green0">
             <Original>6.5 mm 2000Rnd LMG Tracer (Green) Belt</Original>
@@ -4235,12 +4235,12 @@
           <Key ID="str_a3_cfgmagazines_200rnd_20mm_g_belt0">
             <Original>20 mm Grenade Mag</Original>
             <Chinese>20公厘榴彈彈匣</Chinese>
-            <Chinesesimp>20mm 榴弹弹匣</Chinesesimp>
+            <Chinesesimp>20 mm 榴弹弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_40mm_g_belt0">
             <Original>40 mm HE Grenade Mag</Original>
             <Chinese>40公厘高爆榴彈彈匣</Chinese>
-            <Chinesesimp>40mm 高爆榴弹弹匣</Chinesesimp>
+            <Chinesesimp>40 mm 高爆榴弹弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_belt_tracer_green0">
             <Original>6.5 mm 200Rnd Belt Case Tracer (Green)</Original>
@@ -4260,7 +4260,7 @@
           <Key ID="str_a3_cfgmagazines_12rnd_230mm_rockets0">
             <Original>230 mm Rocket</Original>
             <Chinese>230公厘火箭彈</Chinese>
-            <Chinesesimp>230mm 火箭弹</Chinesesimp>
+            <Chinesesimp>230 mm 火箭弹</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CfgMagazines_20Rnd_556x45_UW_mag0">
             <Original>5.56 mm 20Rnd Dual Purpose Mag</Original>
@@ -4280,7 +4280,7 @@
           <Key ID="str_a3_cfgmagazines_3rnd_he_grenade_shell0">
             <Original>40 mm 3Rnd HE Grenade</Original>
             <Chinese>40公厘3發高爆榴彈</Chinese>
-            <Chinesesimp>40mm 3发高爆榴弹</Chinesesimp>
+            <Chinesesimp>40 mm 3发高爆榴弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_3rnd_smoke_grenade_shell0">
             <Original>3Rnd 3GL Smoke Rounds (White)</Original>
@@ -4355,7 +4355,7 @@
           <Key ID="str_a3_cfgmagazines_40rnd_20mm_g_belt0">
             <Original>20 mm HE Grenade Mag</Original>
             <Chinese>20公厘高爆榴彈彈匣</Chinese>
-            <Chinesesimp>20mm 高爆榴弹弹匣</Chinesesimp>
+            <Chinesesimp>20 mm 高爆榴弹弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_4rnd_aaa_missiles0">
             <Original>ASRAAM</Original>
@@ -4385,7 +4385,7 @@
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag0">
             <Original>9 mm 30Rnd Mag</Original>
             <Chinese>9公厘30發彈匣</Chinese>
-            <Chinesesimp>9mm 30发弹匣</Chinesesimp>
+            <Chinesesimp>9 mm 30发弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag_smg_010">
             <Original>.45 ACP 30Rnd Vermin Mag</Original>
@@ -4395,12 +4395,12 @@
           <Key ID="STR_A3_CfgMagazines_50Rnd_120mm_Mo_shells0">
             <Original>155 mm HE Shells</Original>
             <Chinese>155公厘高爆砲彈</Chinese>
-            <Chinesesimp>155mm 高爆弹</Chinesesimp>
+            <Chinesesimp>155 mm 高爆弹</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CfgMagazines_680Rnd_35mm_AA_shells0">
             <Original>35 mm AA Shells</Original>
             <Chinese>35公厘對空砲彈</Chinese>
-            <Chinesesimp>35mm 高炮炮弹</Chinesesimp>
+            <Chinesesimp>35 mm 高炮炮弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_5rnd_127x108_mag0">
             <Original>12.7 mm 5Rnd Mag</Original>
@@ -4460,7 +4460,7 @@
           <Key ID="str_a3_cfgmagazines_9x19_mp443_170">
             <Original>9 mm 17Rnd Mag</Original>
             <Chinese>9公厘17發彈匣</Chinese>
-            <Chinesesimp>9mm 17发弹匣</Chinesesimp>
+            <Chinesesimp>9 mm 17发弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_flaregreen_f0">
             <Original>Flare (Green)</Original>
@@ -4510,12 +4510,12 @@
           <Key ID="STR_A3_CFGMAGAZINES_250RND_30MM_APDS_SHELLS_TRACER_GREEN0">
             <Original>30 mm APDS Tracer (Green) Shells </Original>
             <Chinese>30公厘脫殼穿甲曳光彈(綠色)砲彈</Chinese>
-            <Chinesesimp>30mm 脱壳穿甲曳光弹（绿色）</Chinesesimp>
+            <Chinesesimp>30 mm 脱壳穿甲曳光弹（绿色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_250rnd_30mm_apds_shells_tracer_red0">
             <Original>30 mm APDS Tracer (Red) Shells</Original>
             <Chinese>30公厘脫殼穿甲曳光彈(紅色)砲彈</Chinese>
-            <Chinesesimp>30mm 脱壳穿甲曳光弹（红色）</Chinesesimp>
+            <Chinesesimp>30 mm 脱壳穿甲曳光弹（红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_laserbatteries0">
             <Original>Designator Batteries</Original>
@@ -4605,7 +4605,7 @@
           <Key ID="str_a3_cfgmagazines_250rnd_30mm_apds_shells_tracer_yellow0">
             <Original>30 mm APDS Tracer (Yellow) Shells</Original>
             <Chinese>30公厘脫殼穿甲曳光彈(黃色)砲彈</Chinese>
-            <Chinesesimp>30mm 脱壳穿甲曳光弹（黄色）</Chinesesimp>
+            <Chinesesimp>30 mm 脱壳穿甲曳光弹（黄色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_box_tracer_red0">
             <Original>6.5 mm 200Rnd Tracer (Green) Belt Case</Original>
@@ -4615,7 +4615,7 @@
           <Key ID="str_a3_cfgmagazines_250rnd_30mm_he_shells0">
             <Original>30 mm HE Shells</Original>
             <Chinese>30公厘高爆砲彈</Chinese>
-            <Chinesesimp>30mm 高爆炮弹</Chinesesimp>
+            <Chinesesimp>30 mm 高爆炮弹</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgmagazines_chemlight0">
             <Original>Chemlight (Green)</Original>
@@ -4650,17 +4650,17 @@
           <Key ID="str_a3_cfgmagazines_300rnd_20mm_shells0">
             <Original>20 mm HE Shells</Original>
             <Chinese>20公厘高爆砲彈</Chinese>
-            <Chinesesimp>20mm 高爆炮弹</Chinesesimp>
+            <Chinesesimp>20 mm 高爆炮弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_300rnd_25mm_shells0">
             <Original>25 mm Shells</Original>
             <Chinese>25公厘砲彈</Chinese>
-            <Chinesesimp>25mm 炮弹</Chinesesimp>
+            <Chinesesimp>25 mm 炮弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_120mm_apds_shells0">
             <Original>120 mm APDS Shells</Original>
             <Chinese>120公厘脫殼穿甲砲彈</Chinese>
-            <Chinesesimp>120mm 脱壳穿甲弹</Chinesesimp>
+            <Chinesesimp>120 mm 脱壳穿甲弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_120mm_he_shells0">
             <Original>HE Shells</Original>
@@ -4685,7 +4685,7 @@
           <Key ID="str_a3_cfgmagazines_250rnd_30mm_apds_shells0">
             <Original>30 mm APDS shells</Original>
             <Chinese>30公厘脫殼穿甲砲彈</Chinese>
-            <Chinesesimp>30mm 脱壳穿甲弹</Chinesesimp>
+            <Chinesesimp>30 mm 脱壳穿甲弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag0">
             <Original>12.7 mm RCWS HMG </Original>
@@ -4735,7 +4735,7 @@
           <Key ID="STR_A3_CFGMAGAZINES_30MMAPDSFT">
             <Original>30 mm APFSDS-T</Original>
             <Chinese>30公厘尾翼穩定脫殼穿甲曳光彈</Chinese>
-            <Chinesesimp>30mm 尾稳脱穿曳</Chinesesimp>
+            <Chinesesimp>30 mm 尾稳脱穿曳</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_30RND_9X21_MAG_SMG_01_TRACER_RED0">
             <Original>.45 ACP 30Rnd Vermin Tracers (Red) Mag</Original>
@@ -4757,62 +4757,62 @@
           <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_tracer_red1">
             <Original>Caliber: 5.56x45 mm STANAG Tracers - Red&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: TRG-20, TRG-21/EGLM, Mk20/C/EGLM, SDAR, SPAR-16</Original>
             <Chinese>口徑:5.56x45公厘北約標準曳光彈-紅色&lt;br/&gt;發數:30&lt;br/&gt;使用於:TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinese>
-            <Chinesesimp>口径：5.56x45mm 北约标准曳光弹—红色&lt;br/&gt;发数：30&lt;br/&gt;使用于：TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinesesimp>
+            <Chinesesimp>口径：5.56x45 mm 北约标准曳光弹—红色&lt;br/&gt;发数：30&lt;br/&gt;使用于：TRG-20、TRG-21/EGLM、Mk20/C/EGLM、SDAR、SPAR-16</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_tracer_yellow1">
             <Original>Caliber: 5.56x45 mm STANAG Tracers - Yellow&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: TRG-20, TRG-21/EGLM, Mk20/C/EGLM, SDAR, SPAR-16</Original>
             <Chinese>口徑:5.56x45公厘北約標準曳光彈-黃色&lt;br/&gt;發數:30&lt;br/&gt;使用於:TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinese>
-            <Chinesesimp>口径：5.56x45mm 北约标准曳光弹—黄色&lt;br/&gt;发数：30&lt;br/&gt;使用于：TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinesesimp>
+            <Chinesesimp>口径：5.56x45 mm 北约标准曳光弹—黄色&lt;br/&gt;发数：30&lt;br/&gt;使用于：TRG-20、TRG-21/EGLM、Mk20/C/EGLM、SDAR、SPAR-16</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1000rnd_65x39_belt_tracer_red1">
             <Original>Caliber: 6.5x39 mm Tracer - Red&lt;br /&gt;Rounds: 1000&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-紅色&lt;br/&gt;發數:1000&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹—红色&lt;br/&gt;发数：1000&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm 曳光弹—红色&lt;br/&gt;发数：1000&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1000rnd_65x39_belt_tracer_yellow1">
             <Original>Caliber: 6.5x39 mm Tracer - Yellow&lt;br /&gt;Rounds: 1000&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-黃色&lt;br/&gt;發數:1000&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹—黄色&lt;br/&gt;发数：1000&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm 曳光弹—黄色&lt;br/&gt;发数：1000&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_tracer_green1">
             <Original>Caliber: 5.56x45 mm STANAG Tracers - Green&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: TRG-20, TRG-21/EGLM, Mk20/C/EGLM, SDAR, SPAR-16</Original>
             <Chinese>口徑:5.56x45公厘北約標準曳光彈-綠色&lt;br/&gt;發數:30&lt;br/&gt;使用於:TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinese>
-            <Chinesesimp>口径：5.56x45mm 北约标准曳光弹—绿色&lt;br/&gt;发数：30&lt;br/&gt;使用于：TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinesesimp>
+            <Chinesesimp>口径：5.56x45 mm 北约标准曳光弹—绿色&lt;br/&gt;发数：30&lt;br/&gt;使用于：TRG-20、TRG-21/EGLM、Mk20/C/EGLM、SDAR、SPAR-16</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1000rnd_65x39_belt1">
             <Original>Caliber: 6.5x39 mm&lt;br /&gt;Rounds: 1000&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:6.5x39公厘&lt;br/&gt;發數:1000&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：6.5x39mm &lt;br/&gt;发数：1000&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm &lt;br/&gt;发数：1000&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_green1">
             <Original>Caliber: 12.7x99 mm Tracer - Green&lt;br/&gt;Rounds: 100&lt;br /&gt;Used in: Mounted M2</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-綠色&lt;br/&gt;發數:100&lt;br/&gt;使用於:M2機槍</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹—绿色&lt;br/&gt;发数：100&lt;br/&gt;使用于：M2机枪</Chinesesimp>
+            <Chinesesimp>口径：12.7x99 mm 曳光弹—绿色&lt;br/&gt;发数：100&lt;br/&gt;使用于：M2机枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_red1">
             <Original>Caliber: 12.7x99 mm Tracer - Red&lt;br/&gt;Rounds: 100&lt;br /&gt;Used in: Mounted M2</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-紅色&lt;br/&gt;發數:100&lt;br/&gt;使用於:M2機槍</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹—红色&lt;br/&gt;发数：100&lt;br/&gt;使用于：M2机枪</Chinesesimp>
+            <Chinesesimp>口径：12.7x99 mm 曳光弹—红色&lt;br/&gt;发数：100&lt;br/&gt;使用于：M2机枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_yellow1">
             <Original>Caliber: 12.7x99 mm Tracer - Yellow&lt;br/&gt;Rounds: 100&lt;br /&gt;Used in: Mounted M2</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-黃色&lt;br/&gt;發數:100&lt;br/&gt;使用於:M2機槍</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹—黄色&lt;br/&gt;发数：100&lt;br/&gt;使用于：M2机枪</Chinesesimp>
+            <Chinesesimp>口径：12.7x99 mm 曳光弹—黄色&lt;br/&gt;发数：100&lt;br/&gt;使用于：M2机枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1000rnd_65x39_belt_tracer_green1">
             <Original>Caliber: 6.5x39 mm Tracer - Red&lt;br /&gt;Rounds: 1000&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-紅色&lt;br/&gt;發數:1000&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹—红色&lt;br/&gt;发数：1000&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm 曳光弹—红色&lt;br/&gt;发数：1000&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_100Rnd_65x39_belt_tracer_red1">
             <Original>Caliber: 6.5x39 mm Tracer - Red&lt;br /&gt;Rounds: 100&lt;br /&gt;Used in: MX SW</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-紅色&lt;br/&gt;發數:100&lt;br/&gt;使用於:MX/C/M/3GL</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹—红色&lt;br/&gt;发数：100&lt;br/&gt;使用于：MX/C/M/3GL</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm 曳光弹—红色&lt;br/&gt;发数：100&lt;br/&gt;使用于：MX/C/M/3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag1">
             <Original>Caliber: 1.27x99 mm NATO&lt;br/&gt;Rounds: 100&lt;br /&gt;Used in: Mounted M2</Original>
             <Chinese>口徑:1.27x99公厘北約彈&lt;br/&gt;發數:100&lt;br/&gt;使用於:M2機槍</Chinese>
-            <Chinesesimp>口径：1.27x99mm 北约弹&lt;br/&gt;发数：100&lt;br/&gt;使用于：M2机枪</Chinesesimp>
+            <Chinesesimp>口径：1.27x99 mm 北约弹&lt;br/&gt;发数：100&lt;br/&gt;使用于：M2机枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_12rnd_pg_missiles1">
             <Original>Type: ATGM&lt;br /&gt;Rounds: 12&lt;br /&gt;Used in: Ka-60</Original>
@@ -4822,142 +4822,142 @@
           <Key ID="str_a3_cfgmagazines_16rnd_9x21_mag1">
             <Original>Caliber: 9x21 mm&lt;br /&gt;Rounds: 16&lt;br /&gt;Used in: PDW2000, P07, ROOK-40</Original>
             <Chinese>口徑:9x21公厘&lt;br/&gt;發數:16&lt;br/&gt;使用於:PDW2000，P07，ROOK-40，ACP-C2</Chinese>
-            <Chinesesimp>口径：9x21mm &lt;br/&gt;发数：16&lt;br/&gt;使用于：PDW2000，P07，ROOK-40，ACP-C2</Chinesesimp>
+            <Chinesesimp>口径：9x21 mm &lt;br/&gt;发数：16&lt;br/&gt;使用于：PDW2000、P07、ROOK-40、ACP-C2</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1rnd_he_grenade_shell1">
             <Original>Type: High Explosive Grenade Round&lt;br /&gt;Caliber: 40 mm&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:高爆榴彈&lt;br/&gt;口徑:40mm&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：高爆榴弹&lt;br/&gt;口径：40mm&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：高爆榴弹&lt;br/&gt;口径：40 mm&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM、3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1rnd_smoke_grenade_shell1">
             <Original>Type: Smoke Round - White&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:煙霧彈-白&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹—白色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—白色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM、3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_65x39_belt1">
             <Original>Caliber: 6.5x39 mm ‒ Caseless&lt;br /&gt;Rounds: 100&lt;br /&gt;Used in: MX SW</Original>
             <Chinese>口徑:6.5x39公厘-無殼彈&lt;br/&gt;發數:100&lt;br/&gt;使用於:MX/C/M/3GL</Chinese>
-            <Chinesesimp>口径：6.5x39mm -无壳弹&lt;br/&gt;发数：100&lt;br/&gt;使用于：MX/C/M/3GL</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm -无壳弹&lt;br/&gt;发数：100&lt;br/&gt;使用于：MX/C/M/3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1rnd_smokeblue_grenade_shell1">
             <Original>Type: Smoke Round - Blue&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:煙霧彈-藍&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹—蓝色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—蓝色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM、3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1rnd_smokeorange_grenade_shell1">
             <Original>Type: Smoke Round - Orange&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:煙霧彈-橘&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹—橘色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—橘色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM、3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1rnd_smokepurple_grenade_shell1">
             <Original>Type: Smoke Round - Purple&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:煙霧彈-紫&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹—紫色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—紫色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM、3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1rnd_smokered_grenade_shell1">
             <Original>Type: Smoke Round - Red&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:煙霧彈-紅色&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹—红色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—红色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM、3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1rnd_smokeyellow_grenade_shell1">
             <Original>Type: Smoke Round - Yellow&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:煙霧彈-黃色&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹—黄色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—黄色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM、3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_2000rnd_65x39_belt_tracer_green1">
             <Original>Caliber: 6.5x39 mm Tracer - Green&lt;br /&gt;Rounds: 2000&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-綠色&lt;br/&gt;發數:2000&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹—绿色&lt;br/&gt;发数：2000&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm 曳光弹—绿色&lt;br/&gt;发数：2000&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_2000rnd_65x39_belt_tracer_red1">
             <Original>Caliber: 6.5x39 mm Tracer - Red&lt;br /&gt;Rounds: 2000&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-紅色&lt;br/&gt;發數:2000&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹—红色&lt;br/&gt;发数：2000&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm 曳光弹—红色&lt;br/&gt;发数：2000&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_2000rnd_65x39_belt_tracer_yellow1">
             <Original>Caliber: 6.5x39 mm Tracer - Yellow&lt;br /&gt;Rounds: 2000&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-黃色&lt;br/&gt;發數:2000&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹—黄色&lt;br/&gt;发数：2000&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm 曳光弹—黄色&lt;br/&gt;发数：2000&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1rnd_smokegreen_grenade_shell1">
             <Original>Type: Smoke Round - Green&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:煙霧彈-綠色&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：烟雾弹—绿色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：烟雾弹—绿色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM、3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_2000rnd_762x45_belt1">
             <Original>Caliber: 7.62x51 mm&lt;br /&gt;Rounds: 2000&lt;br /&gt;Used in: AH-9</Original>
             <Chinese>口徑:7.62x51公厘&lt;br/&gt;發數:2000&lt;br/&gt;使用於:AH-9</Chinese>
-            <Chinesesimp>口径：7.62x51mm &lt;br/&gt;发数：2000&lt;br/&gt;使用于：AH-9</Chinesesimp>
+            <Chinesesimp>口径：7.62x51 mm &lt;br/&gt;发数：2000&lt;br/&gt;使用于：AH-9</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_green1">
             <Original>Caliber: 12.7x99 mm Tracer - Green&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: RCWS</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-綠色&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹—绿色&lt;br/&gt;发数：200&lt;br/&gt;使用于：遥控武器站</Chinesesimp>
+            <Chinesesimp>口径：12.7x99 mm 曳光弹—绿色&lt;br/&gt;发数：200&lt;br/&gt;使用于：遥控武器站</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_red1">
             <Original>Caliber: 12.7x99 mm Tracer - Red&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: RCWS</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-紅色&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹—红色&lt;br/&gt;发数：200&lt;br/&gt;使用于：遥控武器站</Chinesesimp>
+            <Chinesesimp>口径：12.7x99 mm 曳光弹—红色&lt;br/&gt;发数：200&lt;br/&gt;使用于：遥控武器站</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_yellow1">
             <Original>Caliber: 12.7x99 mm Tracer - Yellow&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: RCWS</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-黃色&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹—黄色&lt;br/&gt;发数：200&lt;br/&gt;使用于：遥控武器站</Chinesesimp>
+            <Chinesesimp>口径：12.7x99 mm 曳光弹—黄色&lt;br/&gt;发数：200&lt;br/&gt;使用于：遥控武器站</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_2000rnd_65x39_belt1">
             <Original>Caliber: 6.5x39 mm&lt;br /&gt;Rounds: 2000&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:6.5x39公厘&lt;br/&gt;發數:2000&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：6.5x39mm &lt;br/&gt;发数：2000&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm &lt;br/&gt;发数：2000&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_20mm_g_belt1">
             <Original>Caliber: 20 mm &lt;br/&gt;Rounds: 200 DSS&lt;br /&gt;Used in: Grenade Launcher</Original>
             <Chinese>口徑:20公厘&lt;br/&gt;發數:200DSS&lt;br/&gt;使用於:榴彈發射器</Chinese>
-            <Chinesesimp>口径：20mm &lt;br/&gt;发数：200DSS&lt;br/&gt;使用于：榴弹发射器</Chinesesimp>
+            <Chinesesimp>口径：20 mm &lt;br/&gt;发数：200DSS&lt;br/&gt;使用于：榴弹发射器</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_40mm_g_belt1">
             <Original>Caliber: 40 mm &lt;br/&gt;Rounds: 200 DSS&lt;br /&gt;Used in: Grenade Launcher, RCWS</Original>
             <Chinese>口徑:40公厘&lt;br/&gt;發數:200DSS&lt;br/&gt;使用於:榴彈發射器，遙控砲塔</Chinese>
-            <Chinesesimp>口径：40mm &lt;br/&gt;发数：200DSS&lt;br/&gt;使用于：榴弹发射器，遥控武器站</Chinesesimp>
+            <Chinesesimp>口径：40 mm &lt;br/&gt;发数：200DSS&lt;br/&gt;使用于：榴弹发射器、遥控武器站</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_belt_tracer_green1">
             <Original>Caliber: 6.5x39 mm Tracer - Green&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: Mk200</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-綠色&lt;br/&gt;發數:200&lt;br/&gt;使用於:Mk200</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹—绿色&lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm 曳光弹—绿色&lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_belt_tracer_red1">
             <Original>Caliber: 6.5x39 mm Tracer - Red&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: Mk200</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-紅色&lt;br/&gt;發數:200&lt;br/&gt;使用於:Mk200</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹—红色&lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm 曳光弹—红色&lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_belt_tracer_yellow1">
             <Original>Caliber: 6.5x39 mm Tracer - Yellow&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: Mk200</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-黃色&lt;br/&gt;發數:200&lt;br/&gt;使用於:Mk200</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹—黄色&lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm 曳光弹—黄色&lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag1">
             <Original>Caliber: 12.7x99 mm NATO&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: RCWS</Original>
             <Chinese>口徑:12.7x99公厘北約彈&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
-            <Chinesesimp>口径：12.7x99mm 北约弹&lt;br/&gt;发数：200&lt;br/&gt;使用于：遥控武器站</Chinesesimp>
+            <Chinesesimp>口径：12.7x99 mm 北约弹&lt;br/&gt;发数：200&lt;br/&gt;使用于：遥控武器站</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_box_tracer_red1">
             <Original>Caliber: 6.5x39 mm Tracer - Green&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: Mk200</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-綠色&lt;br/&gt;發數:200&lt;br/&gt;使用於:Mk200</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹—绿色&lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm 曳光弹—绿色&lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_belt1">
             <Original>Caliber: 6.5x39 mm&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:6.5x39公厘&lt;br/&gt;發數:200&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：6.5x39mm &lt;br/&gt;发数：200&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm &lt;br/&gt;发数：200&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CfgMagazines_20Rnd_556x45_UW_mag1">
             <Original>Caliber: 5.56x45 mm Dual Purpose&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: SDAR</Original>
             <Chinese>口徑:5.56x45公厘水陸兩用&lt;br/&gt;發數:20&lt;br/&gt;使用於:SDAR</Chinese>
-            <Chinesesimp>口径：5.56x45mm 双用途&lt;br/&gt;发数：20&lt;br/&gt;使用于：SDAR</Chinesesimp>
+            <Chinesesimp>口径：5.56x45 mm 双用途&lt;br/&gt;发数：20&lt;br/&gt;使用于：SDAR</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_20rnd_762x45_mag1">
             <Original>Caliber: 7.62x51 mm NATO&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: Mk18 ABR, Mk-I EMR, Mk14, SPAR-17</Original>
             <Chinese>口徑:7.62x51公厘北約彈&lt;br/&gt;發數:20&lt;br/&gt;使用於:Mk18ABR，Mk-IEMR，Mk14SPAR-17</Chinese>
-            <Chinesesimp>口径：7.62x51mm 北约弹&lt;br/&gt;发数：20&lt;br/&gt;使用于：Mk18ABR，Mk-IEMR，Mk14SPAR-17</Chinesesimp>
+            <Chinesesimp>口径：7.62x51 mm 北约弹&lt;br/&gt;发数：20&lt;br/&gt;使用于：Mk18ABR、Mk-IEMR、Mk14SPAR-17</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_20rnd_aa40_he1">
             <Original>Type: High Explosive&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: AA-12</Original>
@@ -4967,22 +4967,22 @@
           <Key ID="str_a3_cfgmagazines_24rnd_pg_missiles1">
             <Original>Type: ATGM&lt;br /&gt;Rounds: 24&lt;br /&gt;Used in: A-143, AH-9, AH-99</Original>
             <Chinese>類型:反坦克飛彈&lt;br/&gt;發數:24&lt;br/&gt;使用於:A-143，AH-9，AH-99</Chinese>
-            <Chinesesimp>类型：反坦克导弹&lt;br/&gt;发数：24&lt;br/&gt;使用于：A-143，AH-9，AH-99</Chinesesimp>
+            <Chinesesimp>类型：反坦克导弹&lt;br/&gt;发数：24&lt;br/&gt;使用于：A-143、AH-9、AH-99</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag1">
             <Original>Caliber: 5.56x45 mm STANAG&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: TRG-20, TRG-21/EGLM, Mk20/C/EGLM, SDAR, SPAR-16</Original>
             <Chinese>口徑:5.56x45公厘北約標準&lt;br/&gt;發數:30&lt;br/&gt;使用於:TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinese>
-            <Chinesesimp>口径：5.56x45mm 北约标准弹&lt;br/&gt;发数：30&lt;br/&gt;使用于：TRG-20，TRG-21/EGLM，Mk20/C/EGLM，SDAR，SPAR-16</Chinesesimp>
+            <Chinesesimp>口径：5.56x45 mm 北约标准弹&lt;br/&gt;发数：30&lt;br/&gt;使用于：TRG-20、TRG-21/EGLM、Mk20/C/EGLM、SDAR、SPAR-16</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_box1">
             <Original>Caliber: 6.5x39 mm&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: Mk200</Original>
             <Chinese>口徑:6.5x39公厘&lt;br/&gt;發數:200&lt;br/&gt;使用於:Mk200</Chinese>
-            <Chinesesimp>口径：6.5x39mm &lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm &lt;br/&gt;发数：200&lt;br/&gt;使用于：Mk200</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_65x39_caseless_green_mag_tracer1">
             <Original>Caliber: 6.5x39 mm Tracer (Green) - Caseless&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Katiba, Type 115</Original>
             <Chinese>口徑:6.5x39公厘曳光彈(綠色)-無殼彈&lt;br/&gt;發數:30&lt;br/&gt;使用於:Katiba，Type115</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹（绿色）-无壳弹&lt;br/&gt;发数：30&lt;br/&gt;使用于：Katiba，Type115</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm 曳光弹（绿色）-无壳弹&lt;br/&gt;发数：30&lt;br/&gt;使用于：Katiba、Type115</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_65x39_caseless_green1">
             <Original>6.5 mm 30Rnd Caseless Mag</Original>
@@ -4992,17 +4992,17 @@
           <Key ID="str_a3_cfgmagazines_30rnd_65x39_mag_tracer_red1">
             <Original>Caliber: 6.5x39 mm Tracer - Red&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: MX/C/M/SW/3GL</Original>
             <Chinese>口徑:6.5x39公厘曳光彈-紅色&lt;br/&gt;發數:30&lt;br/&gt;使用於:MX/C/M/SW/3GL</Chinese>
-            <Chinesesimp>口径：6.5x39mm 曳光弹—红色&lt;br/&gt;发数：30&lt;br/&gt;使用于：MX/C/M/SW/3GL</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm 曳光弹—红色&lt;br/&gt;发数：30&lt;br/&gt;使用于：MX/C/M/SW/3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_65x39_mag1">
             <Original>Caliber: 6.5x39 mm ‒ STANAG Caseless&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: MX/C/M/SW/3GL</Original>
             <Chinese>口徑:6.5x39公厘北約標準(無殼)&lt;br/&gt;發數:30&lt;br/&gt;使用於:MX/C/M/3GL</Chinese>
-            <Chinesesimp>口径：6.5x39mm 北约标准弹（无壳）&lt;br/&gt;发数：30&lt;br/&gt;使用于：MX/C/M/3GL</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm 北约标准弹（无壳）&lt;br/&gt;发数：30&lt;br/&gt;使用于：MX/C/M/3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag1">
             <Original>Caliber: 9x21 mm&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: PDW2000, P07, Rook-40</Original>
             <Chinese>口徑:9x21公厘&lt;br/&gt;發數:30&lt;br/&gt;使用於:PDW2000，P07，Rook-40</Chinese>
-            <Chinesesimp>口径：9x21mm &lt;br/&gt;发数：30&lt;br/&gt;使用于：PDW2000，P07，Rook-40</Chinesesimp>
+            <Chinesesimp>口径：9x21 mm &lt;br/&gt;发数：30&lt;br/&gt;使用于：PDW2000、P07、Rook-40</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag_smg_01_tracer_green1">
             <Original>Caliber: .45 ACP Tracers - Green&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Vermin SMG</Original>
@@ -5012,12 +5012,12 @@
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag2">
             <Original>Caliber: 9x21 mm&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Sting, Protector</Original>
             <Chinese>口徑:9x21公厘m&lt;br/&gt;發數:30&lt;br/&gt;使用於:Sting，Protector</Chinese>
-            <Chinesesimp>口径：9x21mm &lt;br/&gt;发数：30&lt;br/&gt;使用于：Sting，Protector</Chinesesimp>
+            <Chinesesimp>口径：9x21 mm &lt;br/&gt;发数：30&lt;br/&gt;使用于：Sting、Protector</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_3rnd_he_grenade_shell1">
             <Original>Type: High Explosive Grenade Rounds&lt;br /&gt;Caliber: 40 mm&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 3GL</Original>
             <Chinese>類型:高爆榴彈&lt;br/&gt;口徑:40mm&lt;br/&gt;v:3&lt;br/&gt;使用於:3GL</Chinese>
-            <Chinesesimp>类型：高爆榴弹&lt;br/&gt;口径：40mm&lt;br/&gt;v：3&lt;br/&gt;使用于：3GL</Chinesesimp>
+            <Chinesesimp>类型：高爆榴弹&lt;br/&gt;口径：40 mm&lt;br/&gt;v：3&lt;br/&gt;使用于：3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_3rnd_smoke_grenade_shell1">
             <Original>Type: Smoke Rounds - White &lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 3GL</Original>
@@ -5092,22 +5092,22 @@
           <Key ID="str_a3_cfgmagazines_40rnd_20mm_g_belt1">
             <Original>Caliber: 20 mm&lt;br/&gt;Rounds: 40&lt;br /&gt;Used in: Grenade Launcher</Original>
             <Chinese>口徑:20公厘&lt;br/&gt;發數:40&lt;br/&gt;使用於:榴彈發射器</Chinese>
-            <Chinesesimp>口径：20mm &lt;br/&gt;发数：40&lt;br/&gt;使用于：榴弹发射器</Chinesesimp>
+            <Chinesesimp>口径：20 mm &lt;br/&gt;发数：40&lt;br/&gt;使用于：榴弹发射器</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag_tracer_green1">
             <Original>Caliber: 12.7x99 mm Tracer - Green&lt;br/&gt;Rounds: 500&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-綠色&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹—绿色&lt;br/&gt;发数：500&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：12.7x99 mm 曳光弹—绿色&lt;br/&gt;发数：500&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag_tracer_red1">
             <Original>Caliber: 12.7x99 mm Tracer - Red&lt;br/&gt;Rounds: 500&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-紅色&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹—红色&lt;br/&gt;发数：500&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：12.7x99 mm 曳光弹—红色&lt;br/&gt;发数：500&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag_tracer_yellow1">
             <Original>Caliber: 12.7x99 mm Tracer - Yellow&lt;br/&gt;Rounds: 500&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:12.7x99公厘曳光彈-黃色&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：12.7x99mm 曳光弹—黄色&lt;br/&gt;发数：500&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：12.7x99 mm 曳光弹—黄色&lt;br/&gt;发数：500&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_30RND_9X21_MAG_SMG_01_TRACER_YELLOW1">
             <Original>Caliber: .45 ACP Tracers - Yellow&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Vermin SMG</Original>
@@ -5117,22 +5117,22 @@
           <Key ID="str_a3_cfgmagazines_5rnd_127x108_mag1">
             <Original>Caliber: 12.7x108 mm Russian&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: GM6 Lynx</Original>
             <Chinese>口徑:12.7x108公厘Russian&lt;br/&gt;發數:5&lt;br/&gt;使用於:GM6Lynx</Chinese>
-            <Chinesesimp>口径：12.7x108mm 俄制弹&lt;br/&gt;发数：5&lt;br/&gt;使用于：GM6Lynx</Chinesesimp>
+            <Chinesesimp>口径：12.7x108 mm 俄制弹&lt;br/&gt;发数：5&lt;br/&gt;使用于：GM6Lynx</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag1">
             <Original>Caliber: 12.7x99 mm NATO&lt;br/&gt;Rounds: 500&lt;br /&gt;Used in: Vehicles</Original>
             <Chinese>口徑:12.7x99公厘北約彈&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径：12.7x99mm 北约弹&lt;br/&gt;发数：500&lt;br/&gt;使用于：载具</Chinesesimp>
+            <Chinesesimp>口径：12.7x99 mm 北约弹&lt;br/&gt;发数：500&lt;br/&gt;使用于：载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_8rnd_12gauge_pellets1">
             <Original>Type: 12 Gauge Pellets&lt;br /&gt;Rounds: 8&lt;br /&gt;Used in: AA-12, M4, Bulldog</Original>
             <Chinese>類型:12號口徑彈丸&lt;br/&gt;發數:8&lt;br/&gt;使用於:AA-12，M4，Bulldog</Chinese>
-            <Chinesesimp>类型：12号口径弹丸&lt;br/&gt;发数：8&lt;br/&gt;使用于：AA-12，M4，Bulldog</Chinesesimp>
+            <Chinesesimp>类型：12号口径弹丸&lt;br/&gt;发数：8&lt;br/&gt;使用于：AA-12、M4、Bulldog</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_8rnd_12gauge_slug1">
             <Original>Type: 12 Gauge Slugs&lt;br /&gt;Rounds: 8&lt;br /&gt;Used in: AA-12, M4, Bulldog</Original>
             <Chinese>類型:12號口徑鉛彈&lt;br/&gt;發數:8&lt;br/&gt;使用於:AA-12，M4，Bulldog</Chinese>
-            <Chinesesimp>类型：12号口径独头弹&lt;br/&gt;发数：8&lt;br/&gt;使用于：AA-12，M4，Bulldog</Chinesesimp>
+            <Chinesesimp>类型：12号口径独头弹&lt;br/&gt;发数：8&lt;br/&gt;使用于：AA-12、M4、Bulldog</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_flaregreen_f1">
             <Original>Type: Flare Round - Green&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Flare Gun</Original>
@@ -5157,7 +5157,7 @@
           <Key ID="STR_A3_cfgmagazines_gbu121">
             <Original>Type: Laser-Guided Bomb Rounds: 2 Used in: F35F, L159</Original>
             <Chinese>類型:雷射導引炸彈 發數:2 使用於:F35F，L159</Chinese>
-            <Chinesesimp>类型：激光制导炸弹 发数：2 使用于：F35F，L159</Chinesesimp>
+            <Chinesesimp>类型：激光制导炸弹 发数：2 使用于：F35F、L159</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_handgrenade_stone1">
             <Original>Just an ordinary run-of-the-mill stone</Original>
@@ -5167,7 +5167,7 @@
           <Key ID="str_a3_cfgmagazines_7rnd_127x33_mag1">
             <Original>Caliber: 12.7x33 mm&lt;br /&gt;Rounds: 7&lt;br /&gt;Used in: Mk26</Original>
             <Chinese>口徑:12.7x33公厘&lt;br/&gt;發數:7&lt;br/&gt;使用於:Mk26</Chinese>
-            <Chinesesimp>口径：12.7x33mm &lt;br/&gt;发数：7&lt;br/&gt;使用于：Mk26</Chinesesimp>
+            <Chinesesimp>口径：12.7x33 mm &lt;br/&gt;发数：7&lt;br/&gt;使用于：Mk26</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_handgrenade1">
             <Original>Type: Defensive Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
@@ -5207,7 +5207,7 @@
           <Key ID="STR_A3_cfgmagazines_mk821">
             <Original>Type: Bomb&lt;br /&gt;Rounds: 2&lt;br /&gt;Used in: F35F, L159</Original>
             <Chinese>類型:炸彈&lt;br/&gt;發數:2&lt;br/&gt;使用於:F35F，L159</Chinese>
-            <Chinesesimp>类型：炸弹&lt;br/&gt;发数：2&lt;br/&gt;使用于：F35F，L159</Chinesesimp>
+            <Chinesesimp>类型：炸弹&lt;br/&gt;发数：2&lt;br/&gt;使用于：F35F、L159</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_nlaw1">
             <Original>Type: PCML Missile&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: PCML</Original>
@@ -5252,27 +5252,27 @@
           <Key ID="str_a3_cfgmagazines_ugl_flarecir_f1">
             <Original>Type: Flare - IR&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:信號彈-紅外線&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：照明弹—红外线&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：照明弹—红外线&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM、3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_ugl_flaregreen_f1">
             <Original>Type: Flare - Green&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:信號彈-綠色&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：照明弹—绿色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：照明弹—绿色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM、3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_ugl_flarered_f1">
             <Original>Type: Flare - Red&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:信號彈-紅色&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：照明弹—红色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：照明弹—红色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM、3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_ugl_flarewhite_f1">
             <Original>Type: Flare Round - White &lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:信號彈-白&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：照明弹—白色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：照明弹—白色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM、3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_ugl_flareyellow_f1">
             <Original>Type: Flare - Yellow&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: EGLM, 3GL</Original>
             <Chinese>類型:信號彈-黃色&lt;br/&gt;發數:1&lt;br/&gt;使用於:EGLM，3GL</Chinese>
-            <Chinesesimp>类型：照明弹—黄色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM，3GL</Chinesesimp>
+            <Chinesesimp>类型：照明弹—黄色&lt;br/&gt;发数：1&lt;br/&gt;使用于：EGLM、3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_chemlight_yellow1">
             <Original>Type: Light - Yellow&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
@@ -5706,7 +5706,7 @@
           <Key ID="str_a3_cfgweapons_firstaidkit1">
             <Original>Use to treat heavy wounds.&lt;br/&gt;Usable on: Self, Others</Original>
             <Chinese>用它來治療重傷。&lt;br/&gt;使用於:自己，其他</Chinese>
-            <Chinesesimp>用它来治疗重伤。&lt;br/&gt;使用于：自己，其他</Chinesesimp>
+            <Chinesesimp>用它来治疗重伤。&lt;br/&gt;使用于：自己、其他</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_itemmap1">
             <Original>Enables viewing map. </Original>
@@ -5864,7 +5864,7 @@
           <Key ID="str_a3_cfgweapons_srifle_gm61">
             <Original>Sniper Rifle&lt;br /&gt;Caliber: 12.7x108 mm Russian</Original>
             <Chinese>狙擊槍&lt;br/&gt;口徑:12.7x108公厘俄制彈</Chinese>
-            <Chinesesimp>狙击枪&lt;br/&gt;口径：12.7x108mm 俄制弹</Chinesesimp>
+            <Chinesesimp>狙击枪&lt;br/&gt;口径：12.7x108 mm 俄罗斯</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_rangefinder1">
             <Original>Magnification: 5x-25x</Original>
@@ -5874,37 +5874,37 @@
           <Key ID="str_a3_cfgweapons_hgun_rook401">
             <Original>Handgun&lt;br /&gt;Caliber: 9x19 mm</Original>
             <Chinese>手槍&lt;br/&gt;口徑:9x19公厘</Chinese>
-            <Chinesesimp>手枪&lt;br/&gt;口径：9x19mm</Chinesesimp>
+            <Chinesesimp>手枪&lt;br/&gt;口径：9x19 mm</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgweapons_3gl1">
             <Original>Grenade Launcher&lt;br /&gt;Caliber: 40 mm</Original>
             <Chinese>榴彈發射器&lt;br/&gt;口徑:40公厘</Chinese>
-            <Chinesesimp>榴弹发射器&lt;br/&gt;口径：40mm</Chinesesimp>
+            <Chinesesimp>榴弹发射器&lt;br/&gt;口径：40 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_sdar1">
             <Original>Underwater Gun&lt;br /&gt;Caliber: 5.56x45 mm UW</Original>
             <Chinese>水下步槍&lt;br/&gt;口徑:5.56x45公厘水下彈</Chinese>
-            <Chinesesimp>水下步枪&lt;br/&gt;口径：5.56x45mm 水下弹</Chinesesimp>
+            <Chinesesimp>水下步枪&lt;br/&gt;口径：5.56x45 mm 水下</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_trg21_gl1">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm&lt;br /&gt;Grenade Launcher&lt;br /&gt;Caliber: 40 mm</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:6.5x39公厘&lt;br/&gt;榴彈發射器&lt;br/&gt;口徑:40公厘</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径：6.5x39mm &lt;br/&gt;榴弹发射器&lt;br/&gt;口径：40mm</Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径：6.5x39 mm &lt;br/&gt;榴弹发射器&lt;br/&gt;口径：40 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_xm_lsw1">
             <Original>Light Machine Gun&lt;br /&gt;Caliber: 6.5x39 mm</Original>
             <Chinese>輕機槍&lt;br/&gt;口徑:6.5x39公厘</Chinese>
-            <Chinesesimp>轻机枪&lt;br/&gt;口径：6.5x39mm</Chinesesimp>
+            <Chinesesimp>轻机枪&lt;br/&gt;口径：6.5x39 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_xmm1">
             <Original>Marksman rifle&lt;br /&gt;Caliber: 6.5x39 mm</Original>
             <Chinese>精準射手步槍&lt;br/&gt;口徑:6.5x39公厘</Chinese>
-            <Chinesesimp>精准射手步枪&lt;br/&gt;口径：6.5x39mm</Chinesesimp>
+            <Chinesesimp>精准射手步枪&lt;br/&gt;口径：6.5x39 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_xmx_gl1">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 6.5x39 mm&lt;br /&gt;Grenade Launcher&lt;br /&gt;Caliber: 40 mm</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:6.5x39公厘&lt;br/&gt;榴彈發射器&lt;br/&gt;口徑:40公厘</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径：6.5x39mm &lt;br/&gt;榴弹发射器&lt;br/&gt;口径：40mm</Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径：6.5x39 mm &lt;br/&gt;榴弹发射器&lt;br/&gt;口径：40 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_law2">
             <Original>Type: RPG-42 HE rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: RPG-42</Original>
@@ -5924,54 +5924,54 @@
           <Key ID="str_a3_cfgweapons_tavor_base_f0">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 6.5x39 mm</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:6.5x39公厘</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径：6.5x39mm</Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径：6.5x39 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_xm_base_f0">
             <Original>Assault rifle &lt;br/&gt;Caliber: 5.56x45 mm NATO</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45公厘北約彈</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径：5.56x45mm 北约弹</Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径：5.56x45 mm 北约</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_sdar_base_f0">
             <Original>Underwater Gun&lt;br /&gt;Caliber: 5.56x45 mm UW</Original>
             <Chinese>水下步槍&lt;br/&gt;口徑:5.56x45mm水下彈</Chinese>
-            <Chinesesimp>水下步枪&lt;br/&gt;口径：5.56x45mm 水下弹</Chinesesimp>
+            <Chinesesimp>水下步枪&lt;br/&gt;口径：5.56x45 mm 水下</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_lmg_mk2001">
             <Original>Light Machine Gun&lt;br /&gt;Caliber: 6.5x39 mm</Original>
             <Chinese>輕機槍&lt;br/&gt;口徑:6.5x39公厘</Chinese>
-            <Chinesesimp>轻机枪&lt;br/&gt;口径：6.5x39mm</Chinesesimp>
+            <Chinesesimp>轻机枪&lt;br/&gt;口径：6.5x39 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_hgun_p071">
             <Original>Handgun&lt;br /&gt;Caliber: 9x21 mm</Original>
             <Chinese>手槍&lt;br/&gt;口徑:9x21公厘</Chinese>
-            <Chinesesimp>手枪&lt;br/&gt;口径：9x21mm</Chinesesimp>
+            <Chinesesimp>手枪&lt;br/&gt;口径：9x21 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_xmx1">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 6.5x39 mm</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:6.5x39公厘</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径：6.5x39mm</Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径：6.5x39 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_katiba_f1">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 6.5x39 mm</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:6.5x39公厘</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径：6.5x39mm</Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径：6.5x39 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_srifle_abr1">
             <Original>Assault rifle &lt;br/&gt;Caliber: 7.62x51 mm NATO</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:7.62x51公厘北約彈</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径：7.62x51mm 北约弹</Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径：7.62x51 mm 北约</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_katiba_gl_f1">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 6.5x39 mm&lt;br /&gt;Grenade Launcher&lt;br /&gt;Caliber: 40 mm</Original>
             <Chinese>突擊步槍&lt;br/&gt;口徑:6.5x39公厘&lt;br/&gt;榴彈發射器&lt;br/&gt;口徑:40公厘</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径：6.5x39mm &lt;br/&gt;榴弹发射器&lt;br/&gt;口径：40mm</Chinesesimp>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径：6.5x39 mm &lt;br/&gt;榴弹发射器&lt;br/&gt;口径：40 mm</Chinesesimp>
           </Key>
         </Container>
         <Container name="DisplayName">
           <Key ID="str_cfgweapons_hgun_rook40_f0">
             <Original>Rook-40 9 mm</Original>
             <Chinese>"白嘴鴉-40 9公厘</Chinese>
-            <Chinesesimp>"白嘴鸦"-40 9mm</Chinesesimp>
+            <Chinesesimp>"白嘴鸦"-40 9 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_srifle_lrr0">
             <Original>M320 LRR .408</Original>
@@ -5981,7 +5981,7 @@
           <Key ID="str_a3_cfgweapons_srifle_gm60">
             <Original>GM6 Lynx 12.7 mm</Original>
             <Chinese>GM6"山貓"12.7公厘</Chinese>
-            <Chinesesimp>GM6"山猫"12.7 mm</Chinesesimp>
+            <Chinesesimp>GM6 "山猫" 12.7 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_rangefinder0">
             <Original>Rangefinder</Original>
@@ -5991,7 +5991,7 @@
           <Key ID="str_a3_cfgmagazines_30rnd_65x39_caseless_green0">
             <Original>Caliber: 6.5x39 mm - Caseless&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Katiba, Type 115</Original>
             <Chinese>口徑:6.5x39公厘-無殼彈&lt;br/&gt;發數:30&lt;br/&gt;使用於:卡提巴，115式</Chinese>
-            <Chinesesimp>口径：6.5x39mm -无壳弹&lt;br/&gt;发数：30&lt;br/&gt;使用于：卡提巴，115式</Chinesesimp>
+            <Chinesesimp>口径：6.5x39 mm -无壳弹&lt;br/&gt;发数：30&lt;br/&gt;使用于：卡提巴、115式</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_65x39_caseless_green_mag_tracer0">
             <Original>6.5 mm 30Rnd Tracer (Green) Caseless Mag</Original>
@@ -6001,7 +6001,7 @@
           <Key ID="str_a3_cfgweapons_arifle_katiba_gl_f0">
             <Original>Katiba GL 6.5 mm</Original>
             <Chinese>"卡提巴"6.5公厘榴彈發射器型</Chinese>
-            <Chinesesimp>"卡提巴"6.5 mm 榴弹发射器型</Chinesesimp>
+            <Chinesesimp>"卡提巴" 6.5 mm 榴弹发射器型</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_rpg32_aa_f0">
             <Original>RPG-42 HE Rocket</Original>
@@ -6026,7 +6026,7 @@
           <Key ID="str_a3_cfgweapons_arifle_katiba_f0">
             <Original>Katiba 6.5 mm</Original>
             <Chinese>"卡提巴"6.5公厘自动步枪</Chinese>
-            <Chinesesimp>"卡提巴"6.5 mm 自动步枪</Chinesesimp>
+            <Chinesesimp>"卡提巴" 6.5 mm 自动步枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_nlaw0">
             <Original>PCML</Original>
@@ -6036,7 +6036,7 @@
           <Key ID="str_a3_cfgweapons_arifle_katiba_c_f0">
             <Original>Katiba Carbine 6.5 mm</Original>
             <Chinese>"卡提巴"6.5公厘卡賓槍</Chinese>
-            <Chinesesimp>"卡提巴"6.5 mm 卡宾枪</Chinesesimp>
+            <Chinesesimp>"卡提巴" 6.5 mm 卡宾枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_law0">
             <Original>RPG-42 Alamut</Original>
@@ -6051,7 +6051,7 @@
           <Key ID="str_a3_cfgweapons_hgun_p070">
             <Original>P07 9 mm</Original>
             <Chinese>P07 9公厘手槍</Chinese>
-            <Chinesesimp>P07 9mm 手枪</Chinesesimp>
+            <Chinesesimp>P07 9 mm 手枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_trg200">
             <Original>TRG-20 5.56 mm</Original>
@@ -6108,7 +6108,7 @@
           <Key ID="str_a3_cfgweapons_srifle_gm6_library0">
             <Original>The Gepard GM6 Lynx is a semi-automatic anti-material rifle using Russian 12.7x108 mm ammo. Its purpose is to stop or disable targets such as light armored vehicles, light shelters and helicopters from 600–800 m range. Due to its weight and portability, it is good for parachute, airmobile and territorial troops. The barrel recoil technology brings the recoil of the GM6 below the recoil of other rifles in the same category. The weapon is highly accurate and effective up to a range of 1500 m.</Original>
             <Chinese>獵豹GM6"山貓"是一種半自動反物質的步槍，使用的是俄國12.7x108公厘子彈。它的目的是為了在600–800公尺的射程內阻止目標或者使目標癱瘓，例如輕型裝甲車，輕型掩蔽處以及直升機。因為它的重量和輕便性，這種步槍很適合傘兵，空軍機動部隊以及陸軍部隊。GM6的槍管後座力技術使得它的後坐力小於其他同類型的槍支。這個武器在1500公尺的射程內，具有高精確度和高效能。</Chinese>
-            <Chinesesimp>猎豹 GM6"山猫"是一种半自动反器材步枪，使用俄制12.7x108mm 子弹。它的目的是为了在600–800米的射程上阻止或瘫痪目标，如轻型装甲车，轻型掩蔽处以及直升机。因为它的重量和轻便性，这种步枪很适合伞兵，空中机动部队以及地方部队。GM6的枪管后座力技术使得它的后坐力小于其他同类型的枪支。这种武器在1500米的射程内具有高精确度和高效能。</Chinesesimp>
+            <Chinesesimp>猎豹 GM6"山猫"是一种半自动反器材步枪，使用俄制12.7x108 mm 子弹。它的目的是为了在600–800米的射程上阻止或瘫痪目标，如轻型装甲车，轻型掩蔽处以及直升机。因为它的重量和轻便性，这种步枪很适合伞兵，空中机动部队以及地方部队。GM6的枪管后座力技术使得它的后坐力小于其他同类型的枪支。这种武器在1500米的射程内具有高精确度和高效能。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_rangefinder_library0">
             <Original>A rangefinder is a basic tool for spotting distances and targets. It has several active parts: one being the rangefinder itself on the right side where you can see the distance to the target. AZT displays the azimuth and the mode switches between the visible spectrum and night vision.</Original>
@@ -6123,7 +6123,7 @@
           <Key ID="str_a3_cfgweapons_arifle_sdar_library0">
             <Original>Special Dual-medium Assault Rifle is a bullpup rifle specially designed to allow shooting both on land and under water. It uses standard 5.56x45 mm rounds or special supercavitating ammunition which is efficient when used under water. But still, when under water, its range drops rapidly from 35 meters in 10 m depth to 13 meters in 40 m depth.</Original>
             <Chinese>SDAR(特殊雙介質突擊步槍)這把無托步槍經過專門的設計，使它能在陸地與水下都能進行射擊。它採用特殊的超空泡5.56x45公厘彈藥，使它能在水下作戰，同時也能使用標準的5.56x45公厘彈藥。但是當他在水下作戰時，其射程會隨著深度的增加而減少，在水下10公尺時其射程是35公尺，當深度到水下40公尺時其射程縮短為13公尺。</Chinese>
-            <Chinesesimp>SDAR（特殊双介质突击步枪）是经过专门设计的无托步枪，它在陆地与水下都能进行射击。它采用特殊的超空泡5.56x45mm 弹药在水下作战，同时也能使用标准的5.56x45mm 弹药。但是当它在水下作战时，其射程会随着深度的增加而减少，在水下10米时其射程是35米，当深度到水下40米时其射程缩短为13米。</Chinesesimp>
+            <Chinesesimp>SDAR（特殊双介质突击步枪）是经过专门设计的无托步枪，它在陆地与水下都能进行射击。它采用特殊的超空泡5.56x45 mm 弹药在水下作战，同时也能使用标准的5.56x45 mm 弹药。但是当它在水下作战时，其射程会随着深度的增加而减少，在水下10米时其射程是35米，当深度到水下40米时其射程缩短为13米。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_katiba_f_library0">
             <Original>Katiba is a bullpup assault rifle of an Eastern origin and was developed in cooperation with China. It fires 6.5 mm caseless ammunition. Thanks to its construction, the rifle is really reliable and has a low recoil. Katiba is a standard issue weapon for OPFOR armies. Three versions of Katiba exist: standard, a shorter carbine and a GL version equipped with an underslung grenade launcher.</Original>
@@ -6138,7 +6138,7 @@
           <Key ID="str_a3_cfgweapons_hgun_rook40_library0">
             <Original>Rook-40 is a double action, short recoil operated, locked breech pistol. Its steel construction makes it a bit retro, but compared to contemporary lightweight polymer pistols, it feels sturdier. It fires 9x21 mm ammunition and comes with tritium-filled night sights.</Original>
             <Chinese>"白嘴鴉"-40是一把具有雙動操作，閉鎖槍機與短反衝運行的手槍。它的鋼製結構使得它有點復古，但跟現代的輕量化聚合物手槍相比，感覺更為堅固。它使用9x21公厘彈藥，並配上氚光夜間照門。</Chinese>
-            <Chinesesimp>"白嘴鸦"-40是一种双动操作，闭锁枪机，短后坐自动的手枪。它的钢制结构使得它有点复古，但跟现代的轻量化聚合物手枪相比，感觉更为坚固。它使用9x21mm 弹药，并配有氚光夜间照门。</Chinesesimp>
+            <Chinesesimp>"白嘴鸦"-40是一种双动操作，闭锁枪机，短后坐自动的手枪。它的钢制结构使得它有点复古，但跟现代的轻量化聚合物手枪相比，感觉更为坚固。它使用9x21 mm 弹药，并配有氚光夜间照门。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_law_library0">
             <Original>The RPG-42 Alamut is a lightweight, reloadable and recoilless anti-tank weapon fired from the shoulder. It's based on modern Russian rocket launchers and produced in the Middle East. The RPG-42 Rocket is best used against light-armored vehicles and defenses, though when used against a tank, it could damage its tracks.</Original>
@@ -6153,7 +6153,7 @@
           <Key ID="str_a3_cfgweapons_lmg_mk200_library0">
             <Original>The Mk200 is a gas-operated light machine gun based on the Belgian LMG with ergonomical grips, reinforced lock and quick barrel removal system. It fires 6.5x39 mm (caseless) ammunition fed from a belt with a rate of 800 rounds per minute. The Mk200 provides the squad with the accurate and sustained fire-power required to suppress and destroy enemy targets.</Original>
             <Chinese>MK200是一把氣動式的輕機槍，它的基礎是比利時的FN"卡提巴"，有著符合人體工學的把手，並具有強化鎖和快拆槍管系統。它使用6.5x39公厘(無殼)彈藥，經由彈鏈輸送，理論射速800發每分鐘。MK200提供精準並強大的火力來持續壓制並摧毀敵方目標。</Chinese>
-            <Chinesesimp>MK200是一把导气式轻机枪，它的基础是比利时的 FN"米尼米"，有着符合人体工学的把手，并具有加强闭锁和快拆枪管系统。它使用6.5x39mm（无壳）弹药，弹链供弹，理论射速800发每分钟。MK200提供精准并强大的火力来持续压制并摧毁敌方目标。</Chinesesimp>
+            <Chinesesimp>MK200是一把导气式轻机枪，它的基础是比利时的 FN"米尼米"，有着符合人体工学的把手，并具有加强闭锁和快拆枪管系统。它使用6.5x39 mm（无壳）弹药，弹链供弹，理论射速800发每分钟。MK200提供精准并强大的火力来持续压制并摧毁敌方目标。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_trg21_gl_library0">
             <Original>The TRG-21 is a bullpup assault rifle used by the FIA. It features an ergonomical design that supports accurate fire in harsh conditions. TRG-21 is lightweight, ambidextrous, easily serviceable and compatible with a large number of accessories. TRG-21 EGLM is mounted with an enhanced grenade launching module. A carbine variant is labeled TRG-20. Compared to TRG-21, it features a short barrel better suited for close quarters combat situations.</Original>
@@ -6163,7 +6163,7 @@
           <Key ID="STR_A3_CfgWeapons_srifle_ABR_Library0">
             <Original>The Mk18 Advanced Battle Rifle is a more compact and lightweight evolution of the Mk14 Battle Rifle. The ABR is an ergonomic rifle that can be accessorized and was designed for high accuracy. It's chambered for a 7.62x51 mm cartridge and is typically used in ranges from 600 - 800 m.</Original>
             <Chinese>Mk18先進戰鬥步槍是一支比Mk14戰鬥步槍更短小和輕量級的次世代步槍。Mk18的設計使它擁有符合人體工學的槍身與高精準度。它使用7.62x51公厘彈藥，其射程在600到800公尺內。</Chinese>
-            <Chinesesimp>Mk18先进战斗步枪是一支比 Mk14战斗步枪更短小而轻的次世代步枪。Mk18的设计使它拥有符合人体工学的枪身与高精准度。它使用7.62x51mm 弹药，其射程在600到800米内。</Chinesesimp>
+            <Chinesesimp>Mk18先进战斗步枪是一支比 Mk14战斗步枪更短小而轻的次世代步枪。Mk18的设计使它拥有符合人体工学的枪身与高精准度。它使用7.62x51 mm 弹药，其射程在600到800米内。</Chinesesimp>
           </Key>
         </Container>
         <Container name="Muzzle_Pointers">
@@ -6188,7 +6188,7 @@
         <Key ID="str_a3_cfgvehicles_mortar_01_base_library0">
           <Original>A classic 82 mm caliber mortar, equipped with a ballistic computer and easy to handle. It weighs only 21 kg and can fire various kinds of ammo: from HE (high explosive) to smokes, flares in support of infantry.</Original>
           <Chinese>一個經典的82公厘口徑迫擊砲，配有彈道計算機並容易使用。它的重量只有21公斤，並且可以發射任何一種彈藥，從煙霧彈到高爆彈，照明彈來支援步兵作戰。</Chinese>
-          <Chinesesimp>一种经典的82mm 迫击炮，配有弹道计算机并容易使用。它的重量只有21公斤，并且可以发射从烟雾弹到高爆弹，照明弹的任何一种弹药来支援步兵作战。</Chinesesimp>
+          <Chinesesimp>一种经典的82 mm 迫击炮，配有弹道计算机并容易使用。它的重量只有21公斤，并且可以发射从烟雾弹到高爆弹，照明弹的任何一种弹药来支援步兵作战。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_mortar_01_support0">
           <Original>Folded Mk6 Mortar Bipod [NATO]</Original>
@@ -6623,7 +6623,7 @@
         <Key ID="str_a3_mortar_82mm0">
           <Original>Mortar 82 mm</Original>
           <Chinese>82mm迫擊砲</Chinese>
-          <Chinesesimp>82mm 迫击炮</Chinesesimp>
+          <Chinesesimp>82 mm 迫击炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_mortar_82mm_burst10">
           <Original>Burst (close)</Original>
@@ -6648,7 +6648,7 @@
         <Key ID="str_a3_gmg_20mm0">
           <Original>Mk32 GMG 20 mm</Original>
           <Chinese>Mk32 20公厘榴彈機槍</Chinese>
-          <Chinesesimp>Mk32 20mm 榴弹发射器</Chinesesimp>
+          <Chinesesimp>Mk32 20 mm 榴弹发射器</Chinesesimp>
         </Key>
         <Key ID="str_a3_missiles_dagr0">
           <Original>DAGR</Original>
@@ -6663,7 +6663,7 @@
         <Key ID="str_a3_gmg_40mm0">
           <Original>RCWS GMG 40 mm</Original>
           <Chinese>遙控砲塔40公厘榴彈機槍</Chinese>
-          <Chinesesimp>遥控武器站40mm 榴弹发射器</Chinesesimp>
+          <Chinesesimp>遥控武器站40 mm 榴弹发射器</Chinesesimp>
         </Key>
         <Key ID="str_a3_hmg_1270">
           <Original>RCWS HMG 12.7 mm</Original>
@@ -6805,7 +6805,7 @@
         <Key ID="str_a3_cfgweapons_muzzle_snds_l0">
           <Original>Sound Suppressor (9 mm)</Original>
           <Chinese>消音器(9公厘)</Chinese>
-          <Chinesesimp>消音器（9mm）</Chinesesimp>
+          <Chinesesimp>消音器（9 mm）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_aco0">
           <Original>ACO (Red)</Original>
@@ -14873,7 +14873,7 @@
         <Key ID="STR_A3_CfgVehicles_mrap_02_Base_Library0">
           <Original>The Ifrit is a new Mine-Resistant Ambush Protected (MRAP) vehicle designed and manufactured in Russia. Its strengths lie in reliability in extreme weather conditions and crew protection, but its manufacturing costs are somewhat higher compared to other MRAPs. The Ifrit can be fitted with a RCWS turret and armed with a 12.7 mm heavy machine gun or a 40 mm grenade launcher.</Original>
           <Chinese>"焰靈"是由俄羅斯設計與製造的一種全新防地雷反伏擊車(MRAP)。它的優點是能夠在極端的天候條件下保持可靠性並保護組員免受傷害，但它的製造成本略比其它的防地雷反伏擊車高。"焰靈"可以在其車頂裝上遙控砲塔，並可以在砲塔上裝設12.7公厘重機槍或40公厘榴彈發射器。</Chinese>
-          <Chinesesimp>"焰灵"是由俄罗斯设计与制造的一种全新防地雷反伏击车（MRAP）。它的优点是能够在极端的天候条件下保持可靠性并保护组员免受伤害，但其制造成本比其他的防地雷反伏击车略高。"焰灵"可以在其车顶装上遥控武器站，并可以在炮塔上装设12.7 mm 重机枪或40mm 榴弹发射器。</Chinesesimp>
+          <Chinesesimp>"焰灵"是由俄罗斯设计与制造的一种全新防地雷反伏击车（MRAP）。它的优点是能够在极端的天候条件下保持可靠性并保护组员免受伤害，但其制造成本比其他的防地雷反伏击车略高。"焰灵"可以在其车顶装上遥控武器站，并可以在炮塔上装设12.7 mm 重机枪或40 mm 榴弹发射器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_armed_01_base_library0">
           <Original>This V shaped boat with two powerful jet impellers excels in speed and maneuverability. It is used by both BLUFOR and OPFOR as a coastline guard boat and for special operations. The speedboat has a front-facing, remote controlled GMG turret. The OPFOR version is commonly equipped with a HMG in the rear, while BLUFOR speedboats are armed with a minigun.</Original>
@@ -14888,7 +14888,7 @@
         <Key ID="str_a3_cfgvehicles_MRAP_01_base_library0">
           <Original>The Hunter is a Mine-Resistant Ambush Protected (MRAP) vehicle manufactured by US arms factories to provide troops with enhanced protection. The armored hull can withstand light weapons and protects the crew against landmines and improvised explosive devices. Even though the heavy armor and powerful engine cause increased fuel consumption, it has been favored by frontline troops over the lighter vehicles for its easy maintenance and good protection level.&lt;br /&gt;Armed version of the sturdy Hunter MRAP vehicle is fitted with a Remotely Controlled Weapons System turret. The turret is fitted with the universal 12.7 mm heavy machinegun or the multi-role 40 mm Grenade Machine Gun. The armed Hunters are used for troop transport in combat zones, as light reconnaissance vehicles or even in fire support role in COIN operations.</Original>
           <Chinese>"獵人"是由美國軍火工廠製造的一種防地雷反伏擊車(MRAP)，提供軍隊增強的保護。它的裝甲可以抵禦輕武器，並且保護乘員免受地雷或簡易爆炸裝置傷害的危險。即使因其使用重裝甲和強大的引擎而讓燃料消耗增加，但它一直因易於維護且有著優良的保護，而讓前線部隊喜愛它遠大於喜愛輕型車輛。&lt;br/&gt;武裝版本的"獵人"，其裝有一個遙控砲塔。這個砲塔使用通用12.7公厘重機槍或多功能40公厘榴彈機槍。武裝版的"獵人"被用於在作戰區域運輸部隊，偵察敵情或提供步兵火力支援。</Chinese>
-          <Chinesesimp>"猎人"是由美国军火工厂制造的一种防地雷反伏击车（MRAP），提供军队增强的保护。它的装甲可以抵御轻武器，并且保护乘员免受地雷或简易爆炸装置伤害的危险。即使因其使用重装甲和强大的引擎而让燃料消耗增加，但它一直因易于维护且有着优良的保护，而让前线部队喜爱它远大于喜爱轻型车辆。&lt;br/&gt;武装版本的"猎人"，其装有一个遥控武器站。这个炮塔使用通用12.7 mm 重机枪或多功能40mm 榴弹发射器。武装版的"猎人"被用于在作战区域运输部队，侦察敌情或提供步兵火力支援。</Chinesesimp>
+          <Chinesesimp>"猎人"是由美国军火工厂制造的一种防地雷反伏击车（MRAP），提供军队增强的保护。它的装甲可以抵御轻武器，并且保护乘员免受地雷或简易爆炸装置伤害的危险。即使因其使用重装甲和强大的引擎而让燃料消耗增加，但它一直因易于维护且有着优良的保护，而让前线部队喜爱它远大于喜爱轻型车辆。&lt;br/&gt;武装版本的"猎人"，其装有一个遥控武器站。这个炮塔使用通用12.7 mm 重机枪或多功能40 mm 榴弹发射器。武装版的"猎人"被用于在作战区域运输部队，侦察敌情或提供步兵火力支援。</Chinesesimp>
         </Key>
       </Container>
       <Container name="DynamicLoadouts">

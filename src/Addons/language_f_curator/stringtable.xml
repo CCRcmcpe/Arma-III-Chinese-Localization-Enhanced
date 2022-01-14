@@ -3707,17 +3707,17 @@
         <Key ID="str_a3_cfgvehicles_moduleordnancerocket_f">
           <Original>230 mm Rocket</Original>
           <Chinese>230公厘火箭彈</Chinese>
-          <Chinesesimp>230mm 火箭弹</Chinesesimp>
+          <Chinesesimp>230 mm 火箭弹</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleordnancemortar_f">
           <Original>82 mm Mortar</Original>
           <Chinese>82公厘迫擊炮</Chinese>
-          <Chinesesimp>82mm 迫击炮</Chinesesimp>
+          <Chinesesimp>82 mm 迫击炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleordnancehowitzer_f">
           <Original>155 mm Howitzer</Original>
           <Chinese>155公厘火炮</Chinese>
-          <Chinesesimp>155mm 火炮</Chinesesimp>
+          <Chinesesimp>155 mm 火炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleordnance_f_moduledescription">
           <Original>Create an artillery shell on the module position. It will take a few seconds until it hits the ground.</Original>

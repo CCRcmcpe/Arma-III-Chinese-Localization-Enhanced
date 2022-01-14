@@ -1648,12 +1648,12 @@
       <Key ID="str_a3_cfgvehicles_land_laptop_02_unfolded_f0">
         <Original>Old Laptop (Open)</Original>
         <Chinese>舊筆記型電腦(開啟)</Chinese>
-        <Chinesesimp>旧笔记型电脑（开启）</Chinesesimp>
+        <Chinesesimp>旧笔记本电脑（开启）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_laptop_02_f0">
         <Original>Old Laptop (Closed)</Original>
         <Chinese>舊筆記型電腦(關閉)</Chinese>
-        <Chinesesimp>旧笔记型电脑（关闭）</Chinesesimp>
+        <Chinesesimp>旧笔记本电脑（关闭）</Chinesesimp>
       </Key>
     </Container>
     <Container name="FieldManual">

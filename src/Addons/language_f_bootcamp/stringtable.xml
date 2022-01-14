@@ -880,7 +880,7 @@
           <Key ID="str_a3_rscdisplayarsenal_sort_alphabet">
             <Original>Sort alphabetically</Original>
             <Chinese>按字母順序排列</Chinese>
-            <Chinesesimp>按字母顺序排列</Chinesesimp>
+            <Chinesesimp>按字母顺序排序</Chinesesimp>
           </Key>
           <Key ID="str_a3_rscdisplayarsenal_stat_rof">
             <Original>Rate of fire</Original>
@@ -890,7 +890,7 @@
           <Key ID="str_a3_rscdisplayarsenal_sort_mod">
             <Original>Sort by mod</Original>
             <Chinese>按模組順序排列</Chinese>
-            <Chinesesimp>按模组顺序排列</Chinesesimp>
+            <Chinesesimp>按模组顺序排序</Chinesesimp>
           </Key>
           <Key ID="str_a3_rscdisplayarsenal_stat_range">
             <Original>Range</Original>
@@ -2361,7 +2361,7 @@
       <Key ID="str_a3_cfgweapons_srifle_gm6_camo_f0">
         <Original>GM6 Lynx 12.7 mm (Camo)</Original>
         <Chinese>GM6"山貓"12.7公厘(迷彩)</Chinese>
-        <Chinesesimp>GM6"山猫"12.7 mm（迷彩）</Chinesesimp>
+        <Chinesesimp>GM6 "山猫" 12.7 mm（迷彩）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_srifle_lrr_camo_f0">
         <Original>M320 LRR .408 (Camo)</Original>

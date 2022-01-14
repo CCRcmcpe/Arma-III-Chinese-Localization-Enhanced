@@ -204,12 +204,12 @@
       <Key ID="STR_A3_Phalanx_weapon_name">
         <Original>Minigun 20 mm</Original>
         <Chinese>20公厘"米尼岡"機槍</Chinese>
-        <Chinesesimp>20mm 转管机炮</Chinesesimp>
+        <Chinesesimp>20 mm 转管机炮</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Gun_Fighter_20mm_weapon_name">
         <Original>M61 Minigun 20 mm</Original>
         <Chinese>20公厘M61"米尼岡"機槍</Chinese>
-        <Chinesesimp>20mm M61转管机炮</Chinesesimp>
+        <Chinesesimp>20 mm M61转管机炮</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AA_9x_weapon_name">
         <Original>BIM 9x</Original>
@@ -224,7 +224,7 @@
       <Key ID="STR_A3_Gun_Fighter_30mm_weapon_name">
         <Original>Gsh Cannon 30mm</Original>
         <Chinese>30公厘Gsh機砲</Chinese>
-        <Chinesesimp>30mm Gsh 机炮</Chinesesimp>
+        <Chinesesimp>30 mm Gsh 机炮</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AMRAAM_weapon_name">
         <Original>AMRAAM</Original>
@@ -321,7 +321,7 @@
       <Key ID="STR_A3_Phalanx_x1550_magazine_name">
         <Original>Praetorian 20mm</Original>
         <Chinese>20mm"禁衛軍"方陣快砲</Chinese>
-        <Chinesesimp>20mm "禁卫军"近防炮</Chinesesimp>
+        <Chinesesimp>20 mm "禁卫军"近防炮</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Phalanx_x1550_magazine_shortName">
         <Original>****TO TRANSLATE****</Original>
@@ -341,7 +341,7 @@
       <Key ID="STR_A3_Phalanx_x1550_magazine_description">
         <Original>20mm high-explosive ammunition</Original>
         <Chinese>20公厘高爆彈藥</Chinese>
-        <Chinesesimp>20mm 高爆弹药</Chinesesimp>
+        <Chinesesimp>20 mm 高爆弹药</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Gun_Fighter_20mm_magazine_shortName">
         <Original>****TO TRANSLATE****</Original>
@@ -361,12 +361,12 @@
       <Key ID="STR_A3_Gun_Fighter_20mm_x150_magazine_description">
         <Original>20mm high-explosive ammunition</Original>
         <Chinese>20公厘高爆彈藥</Chinese>
-        <Chinesesimp>20mm 高爆弹药</Chinesesimp>
+        <Chinesesimp>20 mm 高爆弹药</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Gun_Fighter_20mm_x150_magazine_name">
         <Original>M61 20mm 150 rnd</Original>
         <Chinese>20公厘M61機砲150發</Chinese>
-        <Chinesesimp>20mm M61机炮150发</Chinesesimp>
+        <Chinesesimp>20 mm M61机炮150发</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_ASRAAM_x1_magazine_name">
         <Original>ASRAAM AA x1</Original>
@@ -386,7 +386,7 @@
       <Key ID="STR_A3_Gun_Fighter_20mm_x450_magazine_description">
         <Original>20mm high-explosive ammunition</Original>
         <Chinese>20公厘高爆彈藥</Chinese>
-        <Chinesesimp>20mm 高爆弹药</Chinesesimp>
+        <Chinesesimp>20 mm 高爆弹药</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_ASRAAM_magazine_shortName">
         <Original>AA SR</Original>
@@ -406,7 +406,7 @@
       <Key ID="STR_A3_Gun_Fighter_20mm_x450_magazine_name">
         <Original>M61 20mm 450 rnd</Original>
         <Chinese>20公厘M61機砲450發</Chinese>
-        <Chinesesimp>20mm M61机炮450发</Chinesesimp>
+        <Chinesesimp>20 mm M61机炮450发</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AMRAAM_C_x1_magazine_name">
         <Original>AMRAAM C AA x1</Original>
@@ -426,7 +426,7 @@
       <Key ID="STR_A3_Gun_Fighter_30mm_x180_magazine_description">
         <Original>30mm high-explosive ammunition</Original>
         <Chinese>30公厘Gsh高爆彈藥</Chinese>
-        <Chinesesimp>30mm Gsh 高爆弹药</Chinesesimp>
+        <Chinesesimp>30 mm Gsh 高爆弹药</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AMRAAM_D_x1_magazine_name">
         <Original>AMRAAM D AA x1</Original>
@@ -446,7 +446,7 @@
       <Key ID="STR_A3_Gun_Fighter_30mm_x180_magazine_name">
         <Original>Gsh 30mm 180 rnd</Original>
         <Chinese>30公厘Gsh機砲180發</Chinese>
-        <Chinesesimp>30mm Gsh 机炮180发</Chinesesimp>
+        <Chinesesimp>30 mm Gsh 机炮180发</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AMRAAM_D_magazine_shortName">
         <Original>AA MR</Original>
@@ -588,7 +588,7 @@
       <Key ID="STR_A3_Phalanx_description">
         <Original>The Praetorian anti-aircraft-artillery system was designed to protect NATO naval vessels from any possible aerial threats in close range. Armed with 20mm Minigun rounds, it’s a threat to respect for any opponent.</Original>
         <Chinese>"禁衛軍"方陣快砲是北約設計的一種對空高射炮，用來保護水面艦艇免受任何近距的空中威脅。它裝備著20mm迷你砲機槍，這使它能有效打擊任何靠近的敵空中武力。</Chinese>
-        <Chinesesimp>"禁卫军"近防系统是北约设计的一种对空高射炮，用来保护水面舰艇免受任何近程的空中威胁。它装备着20mm 转管机炮，这使它能有效打击任何靠近的敌空中武器。</Chinesesimp>
+        <Chinesesimp>"禁卫军"近防系统是北约设计的一种对空高射炮，用来保护水面舰艇免受任何近程的空中威胁。它装备着20 mm 转管机炮，这使它能有效打击任何靠近的敌空中武器。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Turret_position_Names">
@@ -1331,7 +1331,7 @@
       <Key ID="str_a3_cfgmagazine_pl20_tooltip">
         <Original>20mm twin-cannon weapon pod</Original>
         <Chinese>20公厘雙聯裝機炮夾艙</Chinese>
-        <Chinesesimp>20mm 双联装机炮夹舱</Chinesesimp>
+        <Chinesesimp>20 mm 双联装机炮夹舱</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_mk82_tooltip">
         <Original>500lb, high-explosive, unguided bomb</Original>

@@ -236,12 +236,12 @@
       <Key ID="str_a3_cfgvehicles_land_brokencarglass_01_6x2_f0">
         <Original>Broken Glass (6x2m)</Original>
         <Chinese>碎玻璃（6x2 公尺）</Chinese>
-        <Chinesesimp>破碎的玻璃（6x2m）</Chinesesimp>
+        <Chinesesimp>破碎的玻璃（6x2 m）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_brokencarglass_01_4x4_f0">
         <Original>Broken Glass (4x4m)</Original>
         <Chinese>碎玻璃（4x4 公尺）</Chinese>
-        <Chinesesimp>破碎的玻璃（4x4m）</Chinesesimp>
+        <Chinesesimp>破碎的玻璃（4x4 m）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Props_F">

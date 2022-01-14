@@ -3286,7 +3286,7 @@
           <Key ID="STR_3DEN_Object_Attribute_Radar_displayName">
             <Original>Emission Control</Original>
             <Chinese>雷達管制</Chinese>
-            <Chinesesimp>雷达管制</Chinesesimp>
+            <Chinesesimp>雷达控制</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Object_Attribute_Radar_tooltip">
             <Original>Radar EMCON rules for the AI</Original>
@@ -3296,7 +3296,7 @@
           <Key ID="STR_3DEN_Object_Attribute_ReportRemoteTargets_displayName">
             <Original>Data Link Send</Original>
             <Chinese>發送目標數據</Chinese>
-            <Chinesesimp>发送目标数据</Chinesesimp>
+            <Chinesesimp>数据链—发送</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Object_Attribute_ReportRemoteTargets_tooltip">
             <Original>Vehicle will broadcast targets tracked by its sensors to any other unit on the same side with Data Link enabled.</Original>
@@ -3306,7 +3306,7 @@
           <Key ID="STR_3DEN_Object_Attribute_ReceiveRemoteTargets_displayName">
             <Original>Data Link Receive</Original>
             <Chinese>接收數據</Chinese>
-            <Chinesesimp>接收数据</Chinesesimp>
+            <Chinesesimp>数据链—接收</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Object_Attribute_ReceiveRemoteTargets_tooltip">
             <Original>Vehicle will receive targeting and positional data from any other broadcasting vehicle on the same side.</Original>
@@ -3316,7 +3316,7 @@
           <Key ID="STR_3DEN_Object_Attribute_ReportOwnPosition_displayName">
             <Original>Data Link Position</Original>
             <Chinese>發送位置數據</Chinese>
-            <Chinesesimp>发送位置数据</Chinesesimp>
+            <Chinesesimp>数据链—位置</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Object_Attribute_ReportOwnPosition_tooltip">
             <Original>Vehicle will broadcast its own position to any other unit on the same side with Data Link enabled.</Original>

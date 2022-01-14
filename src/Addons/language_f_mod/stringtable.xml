@@ -109,7 +109,7 @@
     <Key ID="str_a3_cfgmagazines_50rnd_570x28_smg_032">
       <Original>Caliber: 5.7x28 mm&lt;br /&gt;Rounds: 50&lt;br /&gt;Used in: ADR-97, ADR-97C, ADR-97C TR</Original>
       <Chinese>口徑：5.7x28公厘&lt;br /&gt;個數：50&lt;br /&gt;用於：ADR-97、ADR-97C、ADR-97C TR</Chinese>
-      <Chinesesimp>口径：5.7x28mm &lt;br /&gt;容弹量：50&lt;br /&gt;用于：ADR-97、ADR-97C、ADR-97C TR</Chinesesimp>
+      <Chinesesimp>口径：5.7x28 mm &lt;br /&gt;容弹量：50&lt;br /&gt;用于：ADR-97、ADR-97C、ADR-97C TR</Chinesesimp>
     </Key>
     <Key ID="STR_A3_cfgMods_OfficialMod_name0">
       <Original>ADR-97 Weapon Pack</Original>

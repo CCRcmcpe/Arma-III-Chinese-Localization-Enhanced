@@ -1906,7 +1906,7 @@
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskAmmoLoad_description">
             <Original>Collect the container of 155mm shells from %2the AAC airfield%1.</Original>
             <Chinese>在%2阿爾蒂斯空中俱樂部機場%1吊掛裝有155公厘火炮彈藥的貨櫃。</Chinese>
-            <Chinesesimp>在%2阿尔蒂斯空中俱乐部机场%1吊挂装有155mm 火炮弹药的货柜。</Chinesesimp>
+            <Chinesesimp>在%2阿尔蒂斯空中俱乐部机场%1吊挂装有155 mm 火炮弹药的货柜。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_FOBWhiskey">
             <Original>FOB Whiskey</Original>
@@ -3433,7 +3433,7 @@
         <Key ID="str_a3_mp_groundsupport_tips_completingtasks_main">
           <Original>There are 4 type of tasks, sorted by their strategic importance and Score that they reward you with: Close Air Support &gt; Resupply &gt; Medevac &gt; Transport.</Original>
           <Chinese>有4種不同類型的任務，依戰略重要性與得分高低來做排列:密接空中支援&gt;運輸補給&gt;醫療後送&gt;運輸。</Chinese>
-          <Chinesesimp>有4种不同类型的任务，依战略重要性与得分高低来做排列：近距离空中支援&gt;运输补给&gt;医疗后送&gt;运输。</Chinesesimp>
+          <Chinesesimp>有4种不同类型的任务，依战略重要性与得分高低排序：近距离空中支援&gt;运输补给&gt;医疗后送&gt;运输。</Chinesesimp>
         </Key>
       </Container>
     </Container>

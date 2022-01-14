@@ -69,7 +69,7 @@
       <Key ID="STR_A3_twin_cannon_20mm">
         <Original>Twin Cannon 20mm</Original>
         <Chinese>20公厘雙機砲</Chinese>
-        <Chinesesimp>20mm 双联装机炮</Chinesesimp>
+        <Chinesesimp>20 mm 双联装机炮</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_arifle_mx_sw_black_f0">
         <Original>MX SW 6.5 mm (Black)</Original>
@@ -129,7 +129,7 @@
       <Key ID="STR_A3_cfgweapons_cannon_30mm">
         <Original>Cannon 30 mm</Original>
         <Chinese>30公厘機砲</Chinese>
-        <Chinesesimp>30mm 机炮</Chinesesimp>
+        <Chinesesimp>30 mm 机炮</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_i_ir_grenade0">
         <Original>IR Grenade [AAF]</Original>
@@ -149,17 +149,17 @@
       <Key ID="str_a3_cfgmagazines_12rnd_125mm_he0">
         <Original>125mm HE</Original>
         <Chinese>125公厘高爆彈</Chinese>
-        <Chinesesimp>125mm 高爆弹</Chinesesimp>
+        <Chinesesimp>125 mm 高爆</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_12rnd_125mm_heat0">
         <Original>125mm HEAT</Original>
         <Chinese>125公厘高爆穿甲彈</Chinese>
-        <Chinesesimp>125mm 破甲弹</Chinesesimp>
+        <Chinesesimp>125 mm 破甲</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_24nd_125mm_apfsds0">
         <Original>125mm APFSDS</Original>
         <Chinese>125公厘尾穩脫殼穿甲彈</Chinese>
-        <Chinesesimp>125mm 尾稳脱壳穿甲弹</Chinesesimp>
+        <Chinesesimp>125 mm 尾稳脱穿</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_KITHBACK_RGR">
         <Original>Kitbag (Green)</Original>
@@ -169,7 +169,7 @@
       <Key ID="str_a3_cannon_125mm0">
         <Original>Cannon 125mm </Original>
         <Chinese>125公厘加農砲</Chinese>
-        <Chinesesimp>125mm 坦克炮</Chinesesimp>
+        <Chinesesimp>125 mm 坦克炮</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CFGMAGAZINES_IR_GRENADE_DNS">
         <Original>IR Grenade</Original>
@@ -179,19 +179,19 @@
       <Key ID="STR_A3_heat_0">
         <Original>HEAT</Original>
         <Chinese>高爆穿甲彈</Chinese>
-        <Chinesesimp>破甲弹</Chinesesimp>
+        <Chinesesimp>破甲</Chinesesimp>
       </Key>
       <Key ID="STR_A3_heat_t0">
         <Original>HEAT-T</Original>
         <Chinese>高爆穿甲曳光彈</Chinese>
-        <Chinesesimp>破甲曳光弹</Chinesesimp>
+        <Chinesesimp>破甲曳光</Chinesesimp>
       </Key>
     </Container>
     <Container name="Armor_F">
       <Key ID="str_a3_cfgvehicles_mbt_03_base_f_library0">
         <Original>The MBT-52 Kuma is the main battle tank used by Altian Armed Forces. A batch of a few dozen tanks and spare turrets were bought underprice from a south-European country facing an economic collapse. Like similar MBTs of the era, the Kuma is armed with a 120 mm cannon, a 7.62 mm coaxial machinegun and a remotely controlled 12.7 mm HMG. The level of protection for the crew is also remarkable, thanks to additional armor layers. </Original>
         <Chinese>MBT-52"庫瑪"是阿爾蒂斯武裝力量的主戰坦克。他們從一個面臨經濟困境的南歐國家手中，以劃算的價格購買了一批坦克與相關備用零件。就像其他同期的主戰坦克，"庫瑪"配備著120公厘加農砲，一挺7.62公厘同軸機槍和一個裝有12.7公厘重機槍的遙控砲塔。它對組員的保護也有相應的提升，這得歸功於它外面的那層裝甲。</Chinese>
-        <Chinesesimp>MBT-52"库玛"是 AAF 的主战坦克。他们从一个面临经济崩溃的南欧国家手中以划算的价格购买了一批坦克与相关备用零件。就像其他同时代的主战坦克一样，"库玛"装备一门120mm 坦克炮，一挺7.62 mm 同轴机枪和一个装有12.7mm 重机枪的遥控武器站。借由附加装甲，它对乘员的保护也有相应的提升。</Chinesesimp>
+        <Chinesesimp>MBT-52"库玛"是 AAF 的主战坦克。他们从一个面临经济崩溃的南欧国家手中以划算的价格购买了一批坦克与相关备用零件。就像其他同时代的主战坦克一样，"库玛"装备一门120 mm 坦克炮，一挺7.62 mm 同轴机枪和一个装有12.7 mm 重机枪的遥控武器站。借由附加装甲，它对乘员的保护也有相应的提升。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_mbt_03_cannon_f0">
         <Original>MBT-52 Kuma</Original>
@@ -206,7 +206,7 @@
       <Key ID="str_a3_cfgvehicles_apc_tracked_03_base_f_library0">
         <Original>The FV-720 Mora is an infantry fighting vehicle used by the AAF. They were bought by the AAF from British Armed Forces and reconditioned to serve two more decades. The Mora is armed with a 30 mm cannon and a coaxial machinegun, providing not only a carrying capacity, but also reliable fire support.</Original>
         <Chinese>FV-720"摩拉"是一臺服役於阿爾蒂斯武裝力量的步兵戰車。他們從英軍的手中買下他並著手翻新，打算再用20年。"摩拉"配備著30公厘機砲與同軸機槍，這讓他不只能運輸單位，同時也能提供優秀的火力支援。</Chinese>
-        <Chinesesimp>FV-720"摩拉"是 AAF 所使用的的步兵战车。AAF 从英军的手中买下它们并着手翻新延寿20年。"摩拉"配备着30mm 机炮与同轴机枪，这让它不但能运输单位，同时也能提供优秀的火力支援。</Chinesesimp>
+        <Chinesesimp>FV-720"摩拉"是 AAF 所使用的的步兵战车。AAF 从英军的手中买下它们并着手翻新延寿20年。"摩拉"配备着30 mm 机炮与同轴机枪，这让它不但能运输单位，同时也能提供优秀的火力支援。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_mbt_03_cannon_slat_f0">
         <Original>MBT-52 Kuma SLAT</Original>
