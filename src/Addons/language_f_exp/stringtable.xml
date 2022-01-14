@@ -4219,27 +4219,27 @@
           <Key ID="str_a3_cfgvehicles_land_historicalplanewreck_02_wing_right_f0">
             <Original>Plane Wreck (G4M, Right Wing)</Original>
             <Chinese>飛機殘骸(G4M，右機翼)</Chinese>
-            <Chinesesimp>飞机残骸（G4 M，右机翼）</Chinesesimp>
+            <Chinesesimp>飞机残骸（G4M，右机翼）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_historicalplanewreck_02_wing_left_f0">
             <Original>Plane Wreck (G4M, Left Wing)</Original>
             <Chinese>飛機殘骸(G4M，左機翼)</Chinese>
-            <Chinesesimp>飞机残骸（G4 M，左机翼）</Chinesesimp>
+            <Chinesesimp>飞机残骸（G4M，左机翼）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_historicalplanewreck_02_rear_f0">
             <Original>Plane Wreck (G4M, Back)</Original>
             <Chinese>飛機殘骸(G4M，後機身)</Chinese>
-            <Chinesesimp>飞机残骸（G4 M，后机身）</Chinesesimp>
+            <Chinesesimp>飞机残骸（G4M，后机身）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_historicalplanewreck_02_front_f0">
             <Original>Plane Wreck (G4M, Front)</Original>
             <Chinese>飛機殘骸(G4M，前機身)</Chinese>
-            <Chinesesimp>飞机残骸（G4 M，前机身）</Chinesesimp>
+            <Chinesesimp>飞机残骸（G4M，前机身）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_historicalplanewreck_01_f0">
             <Original>Plane Wreck (A6M)</Original>
             <Chinese>飛機殘骸(A6M)</Chinese>
-            <Chinesesimp>飞机残骸（A6 M）</Chinesesimp>
+            <Chinesesimp>飞机残骸（A6M）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_historicalplanedebris_04_f0">
             <Original>Plane Wreck Debris 4</Original>

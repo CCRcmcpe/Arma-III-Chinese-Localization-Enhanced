@@ -2435,7 +2435,7 @@
           <Key ID="str_a3_showcase_commanding_i_briefing_signal_text">
             <Original>%2BRAVO%1 - onboard MH-9, tasked with defending the %3Girna sector%1 &lt;br /&gt;%2CHARLIE%1 - onboard MH-9, reinforcements for %4Mike-26%1 &lt;br /&gt;%5FOXTROT%1 - survivors from %6Camp Tempest%1 &lt;br /&gt;%7HAWKEYE%1 - scout observing %6Camp Tempest%1 &lt;br /&gt;%8PAPA BEAR%1 - Stratis HQ</Original>
             <Chinese>%2Bravo%1-在MH-9直升機上，任務是防禦%3吉爾納村莊%1&lt;br/&gt;%2Charlie%1-在MH-9直升機上，為%4Mike-26%1的增援部隊&lt;br/&gt;%5Foxtrot%1-從%6坦皮斯特營地%1中倖存的部隊&lt;br/&gt;%7"鷹眼"%1-正在偵察%6坦皮斯特營地%1&lt;br/&gt;%8Papa Bear%1-斯特拉蒂斯島總部</Chinese>
-            <Chinesesimp>%2Bravo%1-在 MH-9直升机上，任务是防御%3格尔纳村%1&lt;br/&gt;%2Charlie%1-在 MH-9直升机上，为%4 Mike-26%1的增援部队&lt;br/&gt;%5Foxtrot%1-从%6坦皮斯特营地%1中幸存的部队&lt;br/&gt;%7"鹰眼"%1-正在侦察%6坦皮斯特营地%1&lt;br/&gt;%8Papa Bear%1-斯特拉蒂斯岛指挥部</Chinesesimp>
+            <Chinesesimp>%2Bravo%1-在 MH-9直升机上，任务是防御%3格尔纳村%1&lt;br/&gt;%2Charlie%1-在 MH-9直升机上，为%4Mike-26%1的增援部队&lt;br/&gt;%5Foxtrot%1-从%6坦皮斯特营地%1中幸存的部队&lt;br/&gt;%7"鹰眼"%1-正在侦察%6坦皮斯特营地%1&lt;br/&gt;%8Papa Bear%1-斯特拉蒂斯岛指挥部</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_commanding_i_briefing_mission_text">
             <Original>Link up with and take command of your men. Rally at Girna - a village directly in the path of advancing enemy forces - and prepare a defense.</Original>
