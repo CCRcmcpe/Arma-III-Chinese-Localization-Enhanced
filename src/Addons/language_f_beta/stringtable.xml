@@ -4385,7 +4385,7 @@ Rules of Engagement are up to you:&lt;br /&gt;
         <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_delay_1">
           <Original>Delay in seconds before the vehicle is respawned (Description.ext delay used when left empty)</Original>
           <Chinese>在載具重生前將延遲幾秒(如果為空時，將使用外部文件Description。ext的設定值)</Chinese>
-          <Chinesesimp>在载具重生前将延迟几秒（如果为空时，将使用外部文件 Description。ext 的设定值）</Chinesesimp>
+          <Chinesesimp>在载具重生前将延迟几秒（如果为空时，将使用外部文件 Description.ext 的设定值）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_delay_0">
           <Original>Delay</Original>

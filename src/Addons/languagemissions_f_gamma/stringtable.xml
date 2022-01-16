@@ -587,7 +587,7 @@
             <Key ID="str_a3_showcase_gunships_x15_recondead_grn_0">
               <Original>Griffin, this is Viper-Green! They have broken through our defenses! We can't hold out much longer!</Original>
               <Chinese>"獅鷲"，這裡是"毒蛇-綠"!他們打破了我們的防線!我們沒法再多守住一會兒了!</Chinese>
-              <Chinesesimp>"狮鹫"，这里是"毒蛇—绿"！他们打破了我们的防御！我们没法再守下去了！</Chinesesimp>
+              <Chinesesimp>"狮鹫"，这里是"毒蛇-绿"！他们打破了我们的防御！我们没法再守下去了！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_x15_recondead_grn_1">
               <Original>...</Original>
@@ -597,12 +597,12 @@
             <Key ID="str_a3_showcase_gunships_x15_recondead_ohq_0">
               <Original>Viper-Green? Viper-Green, this is Griffin. Do you copy?</Original>
               <Chinese>"毒蛇-綠"?"毒蛇-綠"，這裡是"獅鷲"。是否收到?</Chinese>
-              <Chinesesimp>"毒蛇—绿"？"毒蛇—绿"，这里是"狮鹫"。是否收到？</Chinesesimp>
+              <Chinesesimp>"毒蛇-绿"？"毒蛇-绿"，这里是"狮鹫"。是否收到？</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_x15_recondead_ohq_1">
               <Original>Hydra, we have lost communications with Viper-Green, presumed KIA. Return to Pyrgos immediately. Over.</Original>
               <Chinese>"九頭蛇"，我們已經與"毒蛇-綠"失去聯繫，可能已經全員陣亡。請立即返回皮爾戈斯。完畢。</Chinese>
-              <Chinesesimp>"九头蛇"，我们已经与"毒蛇—绿"失去联系，推定全员阵亡。请立即返回皮尔戈斯。完毕。</Chinesesimp>
+              <Chinesesimp>"九头蛇"，我们已经与"毒蛇-绿"失去联系，推定全员阵亡。请立即返回皮尔戈斯。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_x15_recondead_pla_0">
               <Original>Roger, Griffin. Adjusting course now. Out.</Original>
@@ -643,14 +643,14 @@
             <Key ID="str_a3_showcase_gunships_50_reconsaved_pla_0">
               <Original>Griffin, this is Hydra. Viper-Green secured. Returning to base. Over.</Original>
               <Chinese>"獅鷲"，這裡是"九頭蛇"。"毒蛇-綠"已安全。返回基地中。完畢。</Chinese>
-              <Chinesesimp>"狮鹫"，这里是"九头蛇"。"毒蛇—绿"已安全。返回基地中。完毕。</Chinesesimp>
+              <Chinesesimp>"狮鹫"，这里是"九头蛇"。"毒蛇-绿"已安全。返回基地中。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_ReconDistressCall" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="40_ReconDistressCall" dubbingLanguage="english" namePrefix="showcase_gunships_40_recondistresscall" note="" participants="RC O Viper Green;RC O HQ;RC O Pilot;" situation="recon team calls for help.">
             <Key ID="str_a3_showcase_gunships_40_recondistresscall_grn_0">
               <Original>Viper-Green to Griffin! Viper-Green to Griffin! Do you copy?!</Original>
               <Chinese>"毒蛇-綠"呼叫"獅鷲"!"毒蛇-綠"呼叫"獅鷲"!是否收到?!</Chinese>
-              <Chinesesimp>"毒蛇—绿"呼叫"狮鹫"！"毒蛇—绿"呼叫 "狮鹫"！是否收到？！</Chinesesimp>
+              <Chinesesimp>"毒蛇-绿"呼叫"狮鹫"！"毒蛇-绿"呼叫 "狮鹫"！是否收到？！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_40_recondistresscall_grn_1">
               <Original>We have been compromised! I say again, we have been compromised! Requesting immediate assistance! Over!</Original>
@@ -660,12 +660,12 @@
             <Key ID="str_a3_showcase_gunships_40_recondistresscall_ohq_0">
               <Original>We hear you, Viper-Green. Go ahead. Over.</Original>
               <Chinese>我們聽到了，"毒蛇-綠"。請繼續說。完畢。</Chinese>
-              <Chinesesimp>我们听到了，"毒蛇—绿"。请继续说。完毕。</Chinesesimp>
+              <Chinesesimp>我们听到了，"毒蛇-绿"。请继续说。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_40_recondistresscall_ohq_1">
               <Original>Understood, Viper-Green. Hydra, you are the only one I have on hand. Divert to extract Viper-Green. Over.</Original>
               <Chinese>了解，"毒蛇-綠"。"九頭蛇"，你是我手中唯一擁有的資源。快過去幫忙撤離"毒蛇-綠"。完畢。</Chinese>
-              <Chinesesimp>了解，"毒蛇—绿"。"九头蛇"，你是我手中唯一拥有的资源。快去帮"毒蛇—绿"撤离。完毕。</Chinesesimp>
+              <Chinesesimp>了解，"毒蛇-绿"。"九头蛇"，你是我手中唯一拥有的资源。快去帮"毒蛇-绿"撤离。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_40_recondistresscall_pla_0">
               <Original>Roger that, Griffin, changing course now. Hydra out.</Original>
@@ -760,12 +760,12 @@
             <Key ID="str_a3_showcase_gunships_x25_recondead_backup_ohq_0">
               <Original>Viper-Green? Viper-Green, this is Griffin. Do you copy?</Original>
               <Chinese>"毒蛇-綠"?"毒蛇-綠"，這裡是"獅鷲"。是否收到?</Chinese>
-              <Chinesesimp>"毒蛇—绿"？"毒蛇—绿"，这里是"狮鹫"。是否收到？</Chinesesimp>
+              <Chinesesimp>"毒蛇-绿"？"毒蛇-绿"，这里是"狮鹫"。是否收到？</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_x25_recondead_backup_ohq_1">
               <Original>Hydra, we have lost communication with Viper-Green, presumed KIA. Return to Pyrgos immediately. Over.</Original>
               <Chinese>"九頭蛇"，我們已經與"毒蛇-綠"失去聯繫，可能已經全員陣亡。請立即返回皮爾戈斯。完畢。</Chinese>
-              <Chinesesimp>"九头蛇"，我们已经与"毒蛇—绿"失去联系，推定全员阵亡。请立即返回皮尔戈斯。完毕。</Chinesesimp>
+              <Chinesesimp>"九头蛇"，我们已经与"毒蛇-绿"失去联系，推定全员阵亡。请立即返回皮尔戈斯。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_x25_recondead_backup_pla_0">
               <Original>Roger, Griffin. Adjusting course now. Out.</Original>
@@ -782,7 +782,7 @@
             <Key ID="str_a3_showcase_gunships_x20_recondistresscall_backup_ohq_1">
               <Original>You are the only one I have on hand. Divert to extract Viper-Green. Over.</Original>
               <Chinese>你是我手中唯一擁有的資源。快過去幫忙撤離"毒蛇-綠"。完畢。</Chinese>
-              <Chinesesimp>你是我手中唯一拥有的资源。快去帮"毒蛇—绿"撤离。完毕。</Chinesesimp>
+              <Chinesesimp>你是我手中唯一拥有的资源。快去帮"毒蛇-绿"撤离。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_x20_recondistresscall_backup_pla_0">
               <Original>Roger that, Griffin. Changing course now. Hydra out.</Original>
@@ -2334,7 +2334,7 @@
         <Key ID="str_a3_showcase_gunships_debriefing_win02_description">
           <Original>Despite failing to save Viper-Green, you successfully completed all remaining objectives, striking a serious blow against enemy forces.</Original>
           <Chinese>儘管未能救出"毒蛇-綠"小隊，你仍然完成了其他的任務目標，並給我們敵人造成嚴重的打擊。</Chinese>
-          <Chinesesimp>尽管未能救出"毒蛇—绿"小组，你仍然完成了其他的任务目标，并给我们敌人造成严重的打击。</Chinesesimp>
+          <Chinesesimp>尽管未能救出"毒蛇-绿"小组，你仍然完成了其他的任务目标，并给我们敌人造成严重的打击。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_gunships_debriefing_win01_subtitle">
           <Original>Flawless execution</Original>
@@ -2344,7 +2344,7 @@
         <Key ID="str_a3_showcase_gunships_debriefing_win01_description">
           <Original>You completed all objectives and rescued Viper-Green. Enemy forces were beaten back and are retreating to their initial positions. Excellent work today, Hydra.</Original>
           <Chinese>你成功完成了所有的目標並救出"毒蛇-綠"小隊。敵軍已被擊退至他們的出發點。你今天實在表現的太棒了，"九頭蛇"。</Chinese>
-          <Chinesesimp>你成功完成了所有的目标并救出了"毒蛇—绿"。敌军已被击退至他们的出发点。你今天实在表现的太棒了，"九头蛇"。</Chinesesimp>
+          <Chinesesimp>你成功完成了所有的目标并救出了"毒蛇-绿"。敌军已被击退至他们的出发点。你今天实在表现的太棒了，"九头蛇"。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_gunships_debriefing_fail03_subtitle">
           <Original>Gunship is Out of Action!</Original>
@@ -2394,7 +2394,7 @@
         <Key ID="str_a3_showcase_gunships_bis_tsksave_desc">
           <Original>%1Viper-Green%2 are in trouble. Divert immediately and extract them. LZ is hot.</Original>
           <Chinese>%1"毒蛇-綠"%2正陷入麻煩之中。快速降落並撤離他們。降落點很危險。</Chinese>
-          <Chinesesimp>%1"毒蛇—绿"%2正陷入麻烦之中。赶快改变航向并撤出他们。降落点很危险。</Chinesesimp>
+          <Chinesesimp>%1"毒蛇-绿"%2正陷入麻烦之中。赶快改变航向并撤出他们。降落点很危险。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_gunships_bis_tsksad_title">
           <Original>Destroy the Artillery</Original>
