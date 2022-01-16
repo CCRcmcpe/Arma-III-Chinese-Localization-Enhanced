@@ -575,7 +575,7 @@
           <Key ID="str_a3_cfgmagazines_titan_ap_dns">
             <Original>AP</Original>
             <Chinese>穿甲彈</Chinese>
-            <Chinesesimp>穿甲弹</Chinesesimp>
+            <Chinesesimp>反人员</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgmagazines_140Rnd_30mm_MP_shells_dns">
             <Original>MP</Original>
@@ -608,7 +608,7 @@
             <Key ID="str_a3_cfgglasses_g_sport_blackwhite0">
               <Original>Sport Shades (Shadow)</Original>
               <Chinese>運動墨鏡(陰影)</Chinese>
-              <Chinesesimp>运动墨镜（阴影）</Chinesesimp>
+              <Chinesesimp>运动墨镜（黑色）</Chinesesimp>
             </Key>
             <Key ID="str_a3_cfgglasses_g_sport_blackyellow0">
               <Original>Sport Shades (Poison)</Original>
