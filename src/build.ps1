@@ -12,12 +12,19 @@ function Build-Addons {
         [string] $srcName
     )
     $addonDest = New-Item (Join-Path $bin $srcName) -ItemType Directory
-    foreach ($addonSrc in Get-ChildItem $srcName) {
-        AddonBuilder.exe $addonSrc $addonDest -include="$include" -clear
+    $addonSrcs = Get-ChildItem $srcName
+
+    $count = $addonSrcs.Length
+    $sync = [hashtable]::Synchronized(@{ i = 0 })
+    $addonSrcs | ForEach-Object -ThrottleLimit ([System.Environment]::ProcessorCount) -Parallel {
+        $sync = $using:sync
+        AddonBuilder.exe $_ $using:addonDest -include="$using:include" -clear
         if (!$?) {
-            Write-Error "构建 $srcName 失败"
+            Write-Error "构建 $using:srcName 失败"
             return
         }
+        $sync.i++;
+        Write-Progress -Activity "构建 Addons" -PercentComplete ($sync.i / $using:count * 100)
     }
 }
 
