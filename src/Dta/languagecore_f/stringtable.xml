@@ -764,12 +764,12 @@
         <Key ID="str_a3_cfguigrids_igui_variables_grid_gaugecompass_0">
           <Original>Compass</Original>
           <Chinese>指北針</Chinese>
-          <Chinesesimp>指北针</Chinesesimp>
+          <Chinesesimp>指南针</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguigrids_igui_variables_grid_gaugecompass_1">
           <Original>Analogue compass, digital heading value and wind indicator.</Original>
           <Chinese>模擬指北針，數位化顯示航向與風向。</Chinese>
-          <Chinesesimp>模拟指北针，数字化显示朝向与风向。</Chinesesimp>
+          <Chinesesimp>模拟指南针，数字化显示朝向与风向。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguigrids_igui_variables_grid_gaugedamage_0">
           <Original>Indicators</Original>
@@ -6999,7 +6999,7 @@
         <Key ID="str_a3_rscdisplaydebriefing_ratingtext">
           <Original>Rating</Original>
           <Chinese>等級</Chinese>
-          <Chinesesimp>等级</Chinesesimp>
+          <Chinesesimp>分数</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaydebriefing_loadstext_mp">
           <Original>Respawns</Original>
@@ -10824,7 +10824,7 @@
         <Key ID="str_controls_tooltips_COMPASS">
           <Original>Hold to show compass</Original>
           <Chinese>按住來顯示指北針</Chinese>
-          <Chinesesimp>按住来显示指北针</Chinesesimp>
+          <Chinesesimp>按住来显示指南针</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_LOOK_ARROUND">
           <Original>Free look</Original>
@@ -10834,7 +10834,7 @@
         <Key ID="str_controls_tooltips_COMPASS_TOGGLE">
           <Original>Show compass permanently</Original>
           <Chinese>連續顯示指北針</Chinese>
-          <Chinesesimp>连续显示指北针</Chinesesimp>
+          <Chinesesimp>连续显示指南针</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_CROUCH">
           <Original>Press once to toggle crouch</Original>
@@ -12218,7 +12218,7 @@
         <Key ID="str_usract_curator_compass">
           <Original>Compass</Original>
           <Chinese>指北針</Chinese>
-          <Chinesesimp>指北针</Chinesesimp>
+          <Chinesesimp>指南针</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_curator_watch">
           <Original>Show the elapsed time, time of day, and remaining time</Original>
@@ -12328,7 +12328,7 @@
         <Key ID="str_controls_tooltips_curator_compass">
           <Original>Toggle the compass on / off</Original>
           <Chinese>切換指北針開啟/關閉</Chinese>
-          <Chinesesimp>切换指北针开启/关闭</Chinesesimp>
+          <Chinesesimp>切换指南针开启/关闭</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_curator_collapse_parent">
           <Original>Collapses or expands selected editable section in Zeus unit tree</Original>
@@ -13115,7 +13115,7 @@
         <Key ID="STR_ACTION_DROP_BAG">
           <Original>Drop %1</Original>
           <Chinese>投放%1</Chinese>
-          <Chinesesimp>投放%1</Chinesesimp>
+          <Chinesesimp>放下%1</Chinesesimp>
         </Key>
         <Key ID="STR_ACTION_LAUNCHCM">
           <Original>Countermeasures</Original>
@@ -15155,17 +15155,17 @@
         <Key ID="str_disp_mp_bandwidth">
           <Original>Bandwidth:</Original>
           <Chinese>頻寬:</Chinese>
-          <Chinesesimp>频宽：</Chinesesimp>
+          <Chinesesimp>带宽：</Chinesesimp>
         </Key>
         <Key ID="str_disp_mp_desync">
           <Original>Desync:</Original>
           <Chinese>不同步:</Chinese>
-          <Chinesesimp>不同步：</Chinesesimp>
+          <Chinesesimp>Desync：</Chinesesimp>
         </Key>
         <Key ID="str_disp_mp_ping">
           <Original>Ping:</Original>
           <Chinese>Ping:</Chinese>
-          <Chinesesimp>Ping：</Chinesesimp>
+          <Chinesesimp>延迟：</Chinesesimp>
         </Key>
         <Key ID="str_disp_mp_pl">
           <Original>Player:</Original>
@@ -15410,7 +15410,7 @@
         <Key ID="str_ui_editor_save_export">
           <Original>Export:</Original>
           <Chinese>匯出:</Chinese>
-          <Chinesesimp>汇出：</Chinesesimp>
+          <Chinesesimp>导出：</Chinesesimp>
         </Key>
         <Key ID="str_ui_debug_but_animation">
           <Original>Anim.</Original>
@@ -15770,7 +15770,7 @@
         <Key ID="str_disp_xbox_editor_wizard_time_hour">
           <Original>Hours</Original>
           <Chinese>時</Chinese>
-          <Chinesesimp>时</Chinesesimp>
+          <Chinesesimp>时分</Chinesesimp>
         </Key>
         <Key ID="str_disp_xbox_editor_wizard_time_minutes">
           <Original>Minutes</Original>
@@ -20490,7 +20490,7 @@
         <Key ID="str_usract_compass_toggle">
           <Original>Compass (Toggle)</Original>
           <Chinese>指北針(切換)</Chinese>
-          <Chinesesimp>指北针（切换）</Chinesesimp>
+          <Chinesesimp>指南针（切换）</Chinesesimp>
         </Key>
         <Key ID="str_dik_webhome">
           <Original>Web Home</Original>
@@ -20505,7 +20505,7 @@
         <Key ID="str_usract_compass">
           <Original>Compass</Original>
           <Chinese>指北針</Chinese>
-          <Chinesesimp>指北针</Chinesesimp>
+          <Chinesesimp>指南针</Chinesesimp>
         </Key>
         <Key ID="str_dik_websearch">
           <Original>Web Search</Original>
@@ -20980,7 +20980,7 @@
         <Key ID="str_disp_xbox_hint_igui_more_actions">
           <Original>%1 More actions</Original>
           <Chinese>%1Moreactions</Chinese>
-          <Chinesesimp>%1 Moreactions</Chinesesimp>
+          <Chinesesimp>还有%1个动作</Chinesesimp>
         </Key>
         <Key ID="str_disp_xbox_hint_igui_next_action">
           <Original>%1 Next action</Original>

@@ -122,12 +122,12 @@
       <Key ID="STR_A3_Compass1_sub">
         <Original>Compass</Original>
         <Chinese>指北針</Chinese>
-        <Chinesesimp>指北针</Chinesesimp>
+        <Chinesesimp>指南针</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Compass2_sub">
         <Original>%2Press %11 to open your compass%1%2Press %12 to toggle</Original>
         <Chinese>%2按下%11來叫出你的指北針%1%2按下%12即可切換讓指北針常駐在畫面上</Chinese>
-        <Chinesesimp>%2按下%11来叫出你的指北针%1%2按下%12即可切换让指北针常驻在画面上</Chinesesimp>
+        <Chinesesimp>%2按下%11来叫出你的指南针%1%2按下%12即可切换让指南针常驻在画面上</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_learn_bootcamp0">
         <Original>Bootcamp</Original>
@@ -137,7 +137,7 @@
       <Key ID="str_a3_cfghints_learn_arsenal1">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp5_ca.paa' /&gt;%1Virtual Arsenal is a %3character, equipment and weapon viewer%4. It enables players to cycle through and %3try out in-game assets, configure custom settings%4 - such as identity types and insignia - and %3export loadouts%4 to script or use in Zeus scenarios.</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp5_ca.paa'/&gt;%1虛擬軍火庫%3是個角色，裝備與武器的瀏覽器%4。它允許讓玩家隨意切換裝備，並隨時拿出來%3試用看看%4，玩家可自訂徽章等裝備，並使用%3匯出裝備%4的功能或直接儲存並在宙斯模式下使用。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp5_ca.paa'/&gt;%1虚拟军火库%3是个角色，装备与武器的浏览器%4。它允许玩家随意切换装备，并随时拿出来%3试用%4，玩家可自定义徽章等装备，并使用%3汇出装备%4的功能或直接储存并在宙斯模式下使用。</Chinesesimp>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp5_ca.paa'/&gt;%1虚拟军火库%3是个角色，装备与武器的浏览器%4。它允许玩家随意切换装备，并随时拿出来%3试用%4，玩家可自定义徽章等装备，并使用%3导出装备%4的功能或直接储存并在宙斯模式下使用。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_OpenMap1_sub">
         <Original>Open Map</Original>
@@ -267,7 +267,7 @@
       <Key ID="STR_A3_Bearings2_sub">
         <Original>The edge of the compass is broken up into 360°. North is marked as 000, East as 090 and so on.</Original>
         <Chinese>指北針的邊緣被區分成360°。北方的度數是000，東方的度數則是090，以此類推。</Chinese>
-        <Chinesesimp>指北针的边缘被区分成360°。北方的度数是000，东方的度数则是090，以此类推。</Chinesesimp>
+        <Chinesesimp>指南针的边缘被区分成360°。北方的度数是000，东方的度数则是090，以此类推。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_GPS1_sub">
         <Original>GPS</Original>
@@ -1046,7 +1046,7 @@
         <Key ID="str_a3_rscdisplayarsenal_message_unavailable">
           <Original>Cannot import, some items are unavailable</Original>
           <Chinese>無法匯入，某些物品無法使用</Chinese>
-          <Chinesesimp>无法汇入，某些物品无法使用</Chinesesimp>
+          <Chinesesimp>无法导入，某些物品无法使用</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayarsenal_message_save">
           <Original>Note: Saved loadouts can be assigned by Zeus as respawn loadouts</Original>
@@ -1096,22 +1096,22 @@
         <Key ID="str_a3_rscdisplayarsenal_buttonimport_tooltip">
           <Original>Import an exported loadout or unit classname [Ctrl + V]</Original>
           <Chinese>匯入之前導出的裝備或單位的classname[Ctrl+V]</Chinese>
-          <Chinesesimp>汇入之前导出的装备或单位的 classname[Ctrl+V]</Chinesesimp>
+          <Chinesesimp>导入之前导出的装备或单位的 classname[Ctrl+V]</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayarsenal_buttonimport">
           <Original>Import</Original>
           <Chinese>匯入</Chinese>
-          <Chinesesimp>汇入</Chinesesimp>
+          <Chinesesimp>导入</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayarsenal_buttonexport_tooltip">
           <Original>Export the current loadout to be used in scripts or shared with others [Ctrl + C]</Original>
           <Chinese>匯出當前裝備，可給玩家分享給其他人或做腳本用[Ctrl+C]</Chinese>
-          <Chinesesimp>汇出当前装备，可给玩家分享给其他人或做脚本用[Ctrl+C]</Chinesesimp>
+          <Chinesesimp>导出当前装备，可给玩家分享给其他人或做脚本用[Ctrl+C]</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayarsenal_buttonexport">
           <Original>Export</Original>
           <Chinese>匯出</Chinese>
-          <Chinesesimp>汇出</Chinesesimp>
+          <Chinesesimp>导出</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayarsenal_buttonclose_tooltip">
           <Original>Close the Arsenal [Escape]</Original>

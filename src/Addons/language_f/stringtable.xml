@@ -662,7 +662,7 @@
       <Key ID="str_a3_direction0">
         <Original>To better understand direction codes (bearings):%1%2Open your GPS %11 or compass %12.%1The direction matches the 360° system. North is marked as 000, East as 090 and so on. Coordinates are also visible on the map.</Original>
         <Chinese>為了更容易的理解座標碼(方位):%1%2使用%11來打開你的GPS，或點擊%12來開啟指北針。%1方位屬性為360°。正北被標記為000，正東是090，以此類推。坐標也可以在地圖上直接看到。</Chinese>
-        <Chinesesimp>为了更容易的理解座标码（方位）：%1%2使用%11来打开你的 GPS，或点击%12来开启指北针。%1方位属性为360°。正北被标记为000，正东是090，以此类推。坐标也可以在地图上直接看到。</Chinesesimp>
+        <Chinesesimp>为了更容易的理解座标码（方位）：%1%2使用%11来打开你的 GPS，或点击%12来开启指南针。%1方位属性为360°。正北被标记为000，正东是090，以此类推。坐标也可以在地图上直接看到。</Chinesesimp>
       </Key>
       <Key ID="str_a3_direction1">
         <Original>Directions</Original>
@@ -927,7 +927,7 @@
       <Key ID="str_a3_gps2">
         <Original>This handy device is capable of displaying a map, compass and time in one place. Don't lose it.</Original>
         <Chinese>這種手持設備能夠同時顯示地圖，指北針和時間。別把它弄丟了。</Chinese>
-        <Chinesesimp>这种手持设备能够同时显示地图，指北针和时间。别把它弄丢了。</Chinesesimp>
+        <Chinesesimp>这种手持设备能够同时显示地图，指南针和时间。别把它弄丢了。</Chinesesimp>
       </Key>
       <Key ID="str_a3_grenades0">
         <Original>Use grenades to quickly dispatch enemies behind cover.%1%2Throw a grenade by pressing %11.%1%2Cycle between grenade and chemlight types by pressing %12.%1The angle of the throw has a great influence on its distance.</Original>
@@ -4535,7 +4535,7 @@
           <Key ID="STR_A3_cfgmagazines_mk820">
             <Original>Mk82</Original>
             <Chinese>Mk82</Chinese>
-            <Chinesesimp>Mk82航弹</Chinesesimp>
+            <Chinesesimp>Mk82</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_nlaw0">
             <Original>PCML Missile</Original>
@@ -4615,7 +4615,7 @@
           <Key ID="str_a3_cfgmagazines_250rnd_30mm_he_shells0">
             <Original>30 mm HE Shells</Original>
             <Chinese>30公厘高爆砲彈</Chinese>
-            <Chinesesimp>30 mm 高爆炮弹</Chinesesimp>
+            <Chinesesimp>30 mm 高爆弹</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgmagazines_chemlight0">
             <Original>Chemlight (Green)</Original>
@@ -4650,7 +4650,7 @@
           <Key ID="str_a3_cfgmagazines_300rnd_20mm_shells0">
             <Original>20 mm HE Shells</Original>
             <Chinese>20公厘高爆砲彈</Chinese>
-            <Chinesesimp>20 mm 高爆炮弹</Chinesesimp>
+            <Chinesesimp>20 mm 高爆弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_300rnd_25mm_shells0">
             <Original>25 mm Shells</Original>
@@ -5716,7 +5716,7 @@
           <Key ID="str_a3_cfgweapons_itemcompass0">
             <Original>Compass</Original>
             <Chinese>指北針</Chinese>
-            <Chinesesimp>指北针</Chinesesimp>
+            <Chinesesimp>指南针</Chinesesimp>
           </Key>
           <Key ID="str_cfgweapons_laserdesignator0">
             <Original>Laser Designator</Original>
@@ -5804,7 +5804,7 @@
             <Key ID="str_a3_cfgweapons_default_itemcompass0">
               <Original>&lt;t color='#9cf953'&gt;Use: &lt;/t&gt;Show Compass</Original>
               <Chinese>&lt;tcolor='#9cf953'&gt;使用:&lt;/t&gt;顯示指北針</Chinese>
-              <Chinesesimp>&lt;tcolor='#9cf953'&gt;使用：&lt;/t&gt;显示指北针</Chinesesimp>
+              <Chinesesimp>&lt;tcolor='#9cf953'&gt;使用：&lt;/t&gt;显示指南针</Chinesesimp>
             </Key>
             <Key ID="str_a3_cfgweapons_use_medikit0">
               <Original>&lt;t color='#9cf953'&gt;Use: &lt;/t&gt;Heal Self</Original>
@@ -6153,7 +6153,7 @@
           <Key ID="str_a3_cfgweapons_lmg_mk200_library0">
             <Original>The Mk200 is a gas-operated light machine gun based on the Belgian LMG with ergonomical grips, reinforced lock and quick barrel removal system. It fires 6.5x39 mm (caseless) ammunition fed from a belt with a rate of 800 rounds per minute. The Mk200 provides the squad with the accurate and sustained fire-power required to suppress and destroy enemy targets.</Original>
             <Chinese>MK200是一把氣動式的輕機槍，它的基礎是比利時的FN"卡提巴"，有著符合人體工學的把手，並具有強化鎖和快拆槍管系統。它使用6.5x39公厘(無殼)彈藥，經由彈鏈輸送，理論射速800發每分鐘。MK200提供精準並強大的火力來持續壓制並摧毀敵方目標。</Chinese>
-            <Chinesesimp>MK200是一把导气式轻机枪，它的基础是比利时的 FN"米尼米"，有着符合人体工学的把手，并具有加强闭锁和快拆枪管系统。它使用6.5x39 mm（无壳）弹药，弹链供弹，理论射速800发每分钟。MK200提供精准并强大的火力来持续压制并摧毁敌方目标。</Chinesesimp>
+            <Chinesesimp>MK200 是一把导气式轻机枪，它的基础是比利时的 FN"米尼米"，有着符合人体工学的把手，并具有加强闭锁和快拆枪管系统。它使用6.5x39 mm（无壳）弹药，弹链供弹，理论射速800发每分钟。MK200提供精准并强大的火力来持续压制并摧毁敌方目标。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_trg21_gl_library0">
             <Original>The TRG-21 is a bullpup assault rifle used by the FIA. It features an ergonomical design that supports accurate fire in harsh conditions. TRG-21 is lightweight, ambidextrous, easily serviceable and compatible with a large number of accessories. TRG-21 EGLM is mounted with an enhanced grenade launching module. A carbine variant is labeled TRG-20. Compared to TRG-21, it features a short barrel better suited for close quarters combat situations.</Original>
@@ -6163,7 +6163,7 @@
           <Key ID="STR_A3_CfgWeapons_srifle_ABR_Library0">
             <Original>The Mk18 Advanced Battle Rifle is a more compact and lightweight evolution of the Mk14 Battle Rifle. The ABR is an ergonomic rifle that can be accessorized and was designed for high accuracy. It's chambered for a 7.62x51 mm cartridge and is typically used in ranges from 600 - 800 m.</Original>
             <Chinese>Mk18先進戰鬥步槍是一支比Mk14戰鬥步槍更短小和輕量級的次世代步槍。Mk18的設計使它擁有符合人體工學的槍身與高精準度。它使用7.62x51公厘彈藥，其射程在600到800公尺內。</Chinese>
-            <Chinesesimp>Mk18先进战斗步枪是一支比 Mk14战斗步枪更短小而轻的次世代步枪。Mk18的设计使它拥有符合人体工学的枪身与高精准度。它使用7.62x51 mm 弹药，其射程在600到800米内。</Chinesesimp>
+            <Chinesesimp>Mk18 先进战斗步枪是一支比 Mk14 战斗步枪更短小而轻的次世代步枪。Mk18 的设计使它拥有符合人体工学的枪身与高精准度。它使用 7.62x51 mm 弹药，其射程在600到800米内。</Chinesesimp>
           </Key>
         </Container>
         <Container name="Muzzle_Pointers">
@@ -6183,7 +6183,7 @@
         <Key ID="str_a3_cfgvehicles_mortar_01_base0">
           <Original>Mk6 Mortar</Original>
           <Chinese>Mk6迫擊砲</Chinese>
-          <Chinesesimp>Mk6迫击炮</Chinesesimp>
+          <Chinesesimp>Mk6 迫击炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mortar_01_base_library0">
           <Original>A classic 82 mm caliber mortar, equipped with a ballistic computer and easy to handle. It weighs only 21 kg and can fire various kinds of ammo: from HE (high explosive) to smokes, flares in support of infantry.</Original>
@@ -6193,37 +6193,37 @@
         <Key ID="str_a3_cfgvehicles_b_mortar_01_support0">
           <Original>Folded Mk6 Mortar Bipod [NATO]</Original>
           <Chinese>Mk6迫擊砲折疊式腳架[北約]</Chinese>
-          <Chinesesimp>Mk6迫击炮折叠式脚架[北约]</Chinesesimp>
+          <Chinesesimp>Mk6 迫击炮折叠式脚架[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_mortar_01_support1">
           <Original>Folded Mk6 Mortar Bipod [CSAT]</Original>
           <Chinese>Mk6迫擊砲折疊式腳架[廣協同盟]</Chinese>
-          <Chinesesimp>Mk6迫击炮折叠式脚架[广协]</Chinesesimp>
+          <Chinesesimp>Mk6 迫击炮折叠式脚架[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_mortar_01_support2">
           <Original>Folded Mk6 Mortar Bipod [AAF]</Original>
           <Chinese>Mk6迫擊砲折疊式腳架[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>Mk6迫击炮折叠式脚架[AAF]</Chinesesimp>
+          <Chinesesimp>Mk6 迫击炮折叠式脚架[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_mortar_01_wpn0">
           <Original>Folded Mk6 Mortar Tube [NATO]</Original>
           <Chinese>Mk6迫擊砲折疊式砲管[北約]</Chinese>
-          <Chinesesimp>Mk6迫击炮折叠式炮管[北约]</Chinesesimp>
+          <Chinesesimp>Mk6 迫击炮折叠式炮管[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_mortar_01_wpn_assembleinfo0">
           <Original>Mk6 Mortar</Original>
           <Chinese>Mk6迫擊砲</Chinese>
-          <Chinesesimp>Mk6迫击炮</Chinesesimp>
+          <Chinesesimp>Mk6 迫击炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_mortar_01_wpn1">
           <Original>Folded Mk6 Mortar Tube [CSAT]</Original>
           <Chinese>Mk6迫擊砲折疊式砲管[廣協同盟]</Chinese>
-          <Chinesesimp>Mk6迫击炮折叠式炮管[广协]</Chinesesimp>
+          <Chinesesimp>Mk6 迫击炮折叠式炮管[广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_mortar_01_wpn2">
           <Original>Folded Mk6 Mortar Tube [AAF]</Original>
           <Chinese>Mk6迫擊砲折疊式砲管[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>Mk6迫击炮折叠式炮管[AAF]</Chinesesimp>
+          <Chinesesimp>Mk6 迫击炮折叠式炮管[AAF]</Chinesesimp>
         </Key>
       </Container>
       <Container name="Uniforms">

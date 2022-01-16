@@ -69,12 +69,12 @@
       <Key ID="STR_A3_Ship_Gun_01_DLCbrowser_title">
         <Original>The Mk45 Hammer</Original>
         <Chinese>Mk45"大錘"</Chinese>
-        <Chinesesimp>Mk45"大锤"</Chinesesimp>
+        <Chinesesimp>Mk45 "大锤"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Ship_MRLS_01_hint_description">
         <Original>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 MLRS missiles, this asset is normally deployed on Liberty class destroyers.</Original>
         <Chinese>Mk41垂直發射系統為北約海上艦艇提供了中遠程精確打擊能力。裝載18枚MLRS飛彈的該單元通常部署在"解放"級驅逐艦上。</Chinese>
-        <Chinesesimp>Mk41垂直发射系统为北约海上舰艇提供了中远程精确打击能力。装载18枚 MLRS 导弹的该单元通常部署在"解放"级驱逐舰上。</Chinesesimp>
+        <Chinesesimp>Mk41 垂直发射系统为北约海上舰艇提供了中远程精确打击能力。装载18枚 MLRS 导弹的该单元通常部署在"解放"级驱逐舰上。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_DLCbrowser_title">
         <Original>Destroyer [USS Liberty]</Original>
@@ -89,7 +89,7 @@
       <Key ID="STR_A3_Ship_MRLS_01_DLCbrowser_title">
         <Original>Mk41 Vertical Launch System</Original>
         <Chinese>Mk41垂直發射系統</Chinese>
-        <Chinesesimp>Mk41垂直发射系统</Chinesesimp>
+        <Chinesesimp>Mk41 垂直发射系统</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_hint_description">
         <Original>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</Original>
@@ -104,19 +104,19 @@
       <Key ID="STR_A3_Ship_Cruise_01_hint_description">
         <Original>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 cruise missiles, this asset is normally deployed on Liberty class destroyers.</Original>
         <Chinese>Mk41垂直發射系統為北約海上艦艇提供了中遠程精確打擊能力。裝載18枚巡航飛彈的該單元通常部署在"解放"級驅逐艦上。</Chinese>
-        <Chinesesimp>Mk41垂直发射系统为北约海上舰艇提供了中远程精确打击能力。装载18枚巡航导弹的该单元通常部署在"解放"级驱逐舰上。</Chinesesimp>
+        <Chinesesimp>Mk41 垂直发射系统为北约海上舰艇提供了中远程精确打击能力。装载18枚巡航导弹的该单元通常部署在"解放"级驱逐舰上。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Static_Weapon_Systems">
       <Key ID="STR_A3_Ship_Gun_01_name">
         <Original>Mk45 Hammer</Original>
         <Chinese>Mk45"大錘"</Chinese>
-        <Chinesesimp>Mk45"大锤"</Chinesesimp>
+        <Chinesesimp>Mk45 "大锤"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Ship_MRLS_01_name">
         <Original>Mk41 VLS</Original>
         <Chinese>Mk41垂發系統</Chinese>
-        <Chinesesimp>Mk41垂发系统</Chinesesimp>
+        <Chinesesimp>Mk41 垂发系统</Chinesesimp>
       </Key>
       <Key ID="str_a3_missile_cruise_weapon_name">
         <Original>Venator Cruise Missile</Original>
@@ -158,12 +158,12 @@
       <Key ID="STR_A3_Ship_Gun_01_operator_displayName">
         <Original>MK45 Hammer operator</Original>
         <Chinese>MK45"大錘"炮手</Chinese>
-        <Chinesesimp>MK45"大锤"炮手</Chinesesimp>
+        <Chinesesimp>Mk45 "大锤"炮手</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Ship_MRLS_01_operator_displayName">
         <Original>Mk41 VLS operator</Original>
         <Chinese>Mk41垂發系統操作員</Chinese>
-        <Chinesesimp>Mk41垂发系统操作员</Chinesesimp>
+        <Chinesesimp>Mk41 垂发系统操作员</Chinesesimp>
       </Key>
     </Container>
     <Container name="User Actions">

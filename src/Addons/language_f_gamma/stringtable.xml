@@ -701,7 +701,7 @@
         <Key ID="str_a3_cannon_120mm0">
           <Original>Cannon 120 mm</Original>
           <Chinese>120公厘加農砲</Chinese>
-          <Chinesesimp>120 mm 坦克炮</Chinesesimp>
+          <Chinesesimp>120 mm 加农炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_autocannon_35mm0">
           <Original>Autocannon 35 mm</Original>
@@ -1710,7 +1710,7 @@
         <Key ID="str_a3_cfgvehicles_land_research_house_v1_f0">
           <Original>Research House</Original>
           <Chinese>研究大廈</Chinese>
-          <Chinesesimp>研究大厦</Chinesesimp>
+          <Chinesesimp>研究室</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_dome_small_f0">
           <Original>Dome</Original>
@@ -2980,7 +2980,7 @@
         <Key ID="str_a3_cfgvehicles_land_compass_f0">
           <Original>Compass</Original>
           <Chinese>指北針</Chinese>
-          <Chinesesimp>指北针</Chinesesimp>
+          <Chinesesimp>指南针</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_file1_f0">
           <Original>File (Documents)</Original>

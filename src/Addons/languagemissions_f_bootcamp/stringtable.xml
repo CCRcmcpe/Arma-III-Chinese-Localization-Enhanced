@@ -1538,7 +1538,7 @@
             <Key ID="str_a3_boot_m02_d10_ballistics_and_bearings_ada_0">
               <Original>From now on, I will be giving directions to the Sergeant exclusively in compass bearings. So, please, pay attention.</Original>
               <Chinese>現在開始，我將會給予中士指北針的方位與距離。所以拜託，請保持專心。</Chinese>
-              <Chinesesimp>现在开始，我将会给予中士指北针的方位与距离。所以拜托，请保持专心。</Chinesesimp>
+              <Chinesesimp>现在开始，我将会给予中士指南针的方位与距离。所以拜托，请保持专心。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m02_d10_ballistics_and_bearings_ada_1">
               <Original>I'll call out specific targets for the Sergeant to engage. It's up to him to pick them out and score a hit.</Original>
@@ -1863,7 +1863,7 @@
           <Key ID="str_a3_boot_m01_bis_target2_desc">
             <Original>Use the compass to locate the target at bearing 220.</Original>
             <Chinese>使用指北針尋找方位220的目標。</Chinese>
-            <Chinesesimp>使用指北针寻找方位220的目标。</Chinesesimp>
+            <Chinesesimp>使用指南针寻找方位220的目标。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m01_bis_target1_title">
             <Original>Locate the First Target</Original>
@@ -1873,7 +1873,7 @@
           <Key ID="str_a3_boot_m01_bis_target1_desc">
             <Original>Use the compass to locate the target to the east.</Original>
             <Chinese>使用指北針尋找東方的目標。</Chinese>
-            <Chinesesimp>使用指北针寻找东方的目标。</Chinesesimp>
+            <Chinesesimp>使用指南针寻找东方的目标。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m01_bis_shoot1_title">
             <Original>Shoot the Targets</Original>
@@ -2163,7 +2163,7 @@
             <Key ID="str_a3_boot_m01_35_compass_ada_1">
               <Original>Let's get you orientated. Bring up your compass.</Original>
               <Chinese>讓我們來校正方位。拿出你的指北針。</Chinese>
-              <Chinesesimp>让我们来校正方位。拿出你的指北针。</Chinesesimp>
+              <Chinesesimp>让我们来校正方位。拿出你的指南针。</Chinesesimp>
             </Key>
           </Container>
           <Container name="30_Fire" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="30_Fire" dubbingLanguage="english" namePrefix="boot_m01_30_fire" note="" participants="BOOT B Adams;" situation="adams tells the player to engage the targets">

@@ -136,7 +136,7 @@
         <Key ID="str_a3_cfghints_curator_interface_description">
           <Original>The Zeus interface provides additional features for simplified control over the scenario:%1%2Press %11 to show your briefing and tasks.%1%2Press %12 to toggle between vision modes (when available).%1%2Press %13 to toggle the clock.%1%2Press %14 to toggle the compass.%1%2Press %15 to toggle the interface.</Original>
           <Chinese>宙斯編輯介面提供了一些簡單的功能與操作:%1%2按下%11來顯示簡報與任務。%1%2按下%12來切換攝影機的視覺模式(當可用時)。%1%2按下%13來切換出手錶。%1%2按下%14來切換出指北針。%1%2按下%15來切換編輯介面。</Chinese>
-          <Chinesesimp>宙斯编辑界面另外提供了功能已简化对剧本的控制：%1%2按下%11来显示简报与任务。%1%2按下%12来切换摄影机的视觉模式（当可用时）。%1%2按下%13来切换出手表。%1%2按下%14来切换出指北针。%1%2按下%15来切换编辑界面。</Chinesesimp>
+          <Chinesesimp>宙斯编辑界面另外提供了功能已简化对剧本的控制：%1%2按下%11来显示简报与任务。%1%2按下%12来切换摄影机的视觉模式（当可用时）。%1%2按下%13来切换出手表。%1%2按下%14来切换出指南针。%1%2按下%15来切换编辑界面。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_entityselect_tip">
           <Original>****TO TRANSLATE****</Original>
@@ -1476,7 +1476,7 @@
         <Key ID="str_a3_itemtype_compass">
           <Original>compass</Original>
           <Chinese>指北針</Chinese>
-          <Chinesesimp>指北针</Chinesesimp>
+          <Chinesesimp>指南针</Chinesesimp>
         </Key>
         <Key ID="str_a3_itemtype_category_weapon">
           <Original>weapon</Original>

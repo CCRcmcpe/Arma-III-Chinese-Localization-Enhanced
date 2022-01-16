@@ -271,7 +271,7 @@
       <Key ID="STR_A3_Bomb_GBU_12_magazine_description">
         <Original>500lb, high-explosive, laser-guided bomb</Original>
         <Chinese>500磅，高爆，雷射導引炸彈</Chinese>
-        <Chinesesimp>500磅，高爆，激光制导炸弹</Chinesesimp>
+        <Chinesesimp>500磅（226.8千克），高爆，激光制导炸弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Rim162_x8_magazine_name">
         <Original>Centurion AA</Original>
@@ -291,7 +291,7 @@
       <Key ID="STR_A3_Rim116_x21_magazine_description">
         <Original>Short-range, infrared-guided, surface-to-air missile with high-explosive warhead</Original>
         <Chinese>短程，熱導引，地對空高爆飛彈</Chinese>
-        <Chinesesimp>短程，热制导，地对空高爆导弹</Chinesesimp>
+        <Chinesesimp>短程，红外制导，地对空高爆导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Rim162_x8_magazine_description">
         <Original>Medium-range, radar-guided, surface-to-air missile with high-explosive warhead</Original>
@@ -311,7 +311,7 @@
       <Key ID="STR_A3_Bomb_KAB_250_magazine_description">
         <Original>565lb, high-explosive, laser-guided bomb</Original>
         <Chinese>565磅，高爆，雷射導引炸彈</Chinese>
-        <Chinesesimp>565磅，高爆，激光制导炸弹</Chinesesimp>
+        <Chinesesimp>565磅（256.3千克），高爆，激光制导炸弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Bomb_KAB_250_magazine_shortName">
         <Original>Bomb</Original>
@@ -396,12 +396,12 @@
       <Key ID="STR_A3_Missile_AA_9x_magazine_description">
         <Original>Short-range, infrared-guided, air-to-air missile with high-explosive warhead</Original>
         <Chinese>短程，熱導引，空對空高爆飛彈</Chinese>
-        <Chinesesimp>短程，热制导，空对空高爆导弹</Chinesesimp>
+        <Chinesesimp>短程，红外制导，空对空高爆导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_ASRAAM_magazine_description">
         <Original>Short-range, infrared-guided, air-to-air missile with high-explosive warhead</Original>
         <Chinese>短程，熱導引，空對空高爆飛彈</Chinese>
-        <Chinesesimp>短程，热制导，空对空高爆导弹</Chinesesimp>
+        <Chinesesimp>短程，红外制导，空对空高爆导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Gun_Fighter_20mm_x450_magazine_name">
         <Original>M61 20mm 450 rnd</Original>
@@ -466,7 +466,7 @@
       <Key ID="STR_A3_Missile_AA_R73_magazine_description">
         <Original>Short-range, infrared-guided, air-to-air missile with high-explosive warhead</Original>
         <Chinese>短程，熱導引，空對空高爆飛彈</Chinese>
-        <Chinesesimp>短程，热制导，空对空高爆导弹</Chinesesimp>
+        <Chinesesimp>短程，红外制导，空对空高爆导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_empty_magazine_name">
         <Original>Empty missile magazine</Original>
@@ -536,12 +536,12 @@
       <Key ID="STR_A3_Missile_AGM_65_magazine_description">
         <Original>Short-range, infrared-guided, air-to-surface missile with high-explosive anti-tank warhead</Original>
         <Chinese>短程，熱導引，空對地高爆反坦克飛彈</Chinese>
-        <Chinesesimp>短程，热制导，空对地高爆反坦克导弹</Chinesesimp>
+        <Chinesesimp>短程，红外制导，空对地反坦克导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AGM_KH25_magazine_description">
         <Original>Short-range, infrared-guided, air-to-surface missile with high-explosive anti-tank warhead</Original>
         <Chinese>短程，熱導引，空對地高爆反坦克飛彈</Chinese>
-        <Chinesesimp>短程，热制导，空对地高爆反坦克导弹</Chinesesimp>
+        <Chinesesimp>短程，红外制导，空对地反坦克导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AGM_KH25_magazine_shortName">
         <Original>AG</Original>
@@ -573,12 +573,12 @@
       <Key ID="STR_A3_Mk21_name">
         <Original>Mk21 Centurion</Original>
         <Chinese>Mk21"百夫長"防空飛彈近迫系統</Chinese>
-        <Chinesesimp>Mk21"百夫长"防空导弹近防系统</Chinesesimp>
+        <Chinesesimp>Mk21 "百夫长"防空导弹近防系统</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Mk49_name">
         <Original>Mk49 Spartan</Original>
         <Chinese>Mk49"斯巴達"防空飛彈近迫系統</Chinese>
-        <Chinesesimp>Mk49"斯巴达"防空导弹近防系统</Chinesesimp>
+        <Chinesesimp>Mk49 "斯巴达"防空导弹近防系统</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Mk49_description">
         <Original>The Spartan surface to air missile system was designed to protect NATO naval vessels from any possible aerial threats in close range. Armed with infra-red guided short-range anti-air missiles. This asset is normally deployed in tandem with Centurion surface to air missile system to deny air superiority to the enemy.</Original>
@@ -600,12 +600,12 @@
       <Key ID="STR_A3_Mk21_operator_displayName">
         <Original>Mk-21 operator</Original>
         <Chinese>Mk-21操作員</Chinese>
-        <Chinesesimp>Mk-21操作员</Chinesesimp>
+        <Chinesesimp>Mk21 操作员</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Mk49_operator_displayName">
         <Original>Mk-49 operator</Original>
         <Chinese>Mk-49操作員</Chinese>
-        <Chinesesimp>Mk-49操作员</Chinesesimp>
+        <Chinesesimp>Mk49 操作员</Chinesesimp>
       </Key>
     </Container>
     <Container name="User Actions">
@@ -1281,7 +1281,7 @@
       <Key ID="str_a3_cfgmagazine_tratnyrap_tooltip">
         <Original>Unguided rockets with high-explosive anti-tank warhead</Original>
         <Chinese>無導引高爆反坦克火箭</Chinese>
-        <Chinesesimp>无制导高爆反坦克火箭</Chinesesimp>
+        <Chinesesimp>无制导反坦克火箭</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_skyfire_tooltip">
         <Original>Unguided rockets with high-explosive warhead</Original>
@@ -1296,27 +1296,27 @@
       <Key ID="str_a3_cfgmagazine_shriekerap_tooltip">
         <Original>Unguided rockets with high-explosive anti-tank warhead</Original>
         <Chinese>無導引高爆反坦克火箭</Chinese>
-        <Chinesesimp>无制导高爆反坦克火箭</Chinesesimp>
+        <Chinesesimp>无制导反坦克火箭</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_sharur_tooltip">
         <Original>Short-range, infrared-guided, air-to-surface missile with high-explosive anti-tank warhead</Original>
         <Chinese>短程，熱導引，空對地高爆反坦克飛彈</Chinese>
-        <Chinesesimp>短程，热制导，空对地高爆反坦克导弹</Chinesesimp>
+        <Chinesesimp>短程，红外制导，空对地反坦克导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_scalpel_tooltip">
         <Original>Short-range, laser/infrared-guided, air-to-surface missile with tandem high-explosive anti-tank warhead</Original>
         <Chinese>短程，雷射/熱導引，空對地高爆反坦克飛彈</Chinese>
-        <Chinesesimp>短程，激光/热制导，空对地高爆反坦克导弹</Chinesesimp>
+        <Chinesesimp>短程，激光/红外制导，空对地反坦克导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_sahr3_tooltip">
         <Original>Short-range, infrared-guided, air-to-air missile with high-explosive warhead</Original>
         <Chinese>短程，熱導引，空對空高爆飛彈</Chinese>
-        <Chinesesimp>短程，热制导，空对空高爆导弹</Chinesesimp>
+        <Chinesesimp>短程，红外制导，空对空高爆导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_rbk500f_tooltip">
         <Original>1100lb, laser-guided cluster bomb</Original>
         <Chinese>1100磅，雷射導引集束炸彈</Chinese>
-        <Chinesesimp>1100磅，激光制导集束炸弹</Chinesesimp>
+        <Chinesesimp>1100磅（499千克），激光制导集束炸弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_r77_tooltip">
         <Original>Medium-range, radar-guided, air-to-air missile with high-explosive warhead</Original>
@@ -1326,7 +1326,7 @@
       <Key ID="str_a3_cfgmagazine_r73_tooltip">
         <Original>Short-range, infrared-guided, air-to-air missile with high-explosive warhead</Original>
         <Chinese>短程，熱導引，空對空高爆飛彈</Chinese>
-        <Chinesesimp>短程，热制导，空对空高爆导弹</Chinesesimp>
+        <Chinesesimp>短程，红外制导，空对空高爆导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_pl20_tooltip">
         <Original>20mm twin-cannon weapon pod</Original>
@@ -1336,27 +1336,27 @@
       <Key ID="str_a3_cfgmagazine_mk82_tooltip">
         <Original>500lb, high-explosive, unguided bomb</Original>
         <Chinese>500磅，高爆，無導引炸彈</Chinese>
-        <Chinesesimp>500磅，高爆，无制导炸弹</Chinesesimp>
+        <Chinesesimp>500磅（226.8千克），高爆，无制导炸弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_macer_tooltip">
         <Original>Short-range, infrared-guided, air-to-surface missile with high-explosive anti-tank warhead</Original>
         <Chinese>短程，熱導引，空對地高爆反坦克飛彈</Chinese>
-        <Chinesesimp>短程，热制导，空对地高爆反坦克导弹</Chinesesimp>
+        <Chinesesimp>短程，红外制导，空对地反坦克导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_lom250_tooltip">
         <Original>565lb, high-explosive, laser-guided bomb</Original>
         <Chinese>565磅，高爆，雷射導引炸彈</Chinese>
-        <Chinesesimp>565磅，高爆，激光制导炸弹</Chinesesimp>
+        <Chinesesimp>565（256.3千克），高爆，激光制导炸弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_gbu12_tooltip">
         <Original>500lb, high-explosive, laser-guided bomb</Original>
         <Chinese>500磅，高爆，雷射導引炸彈</Chinese>
-        <Chinesesimp>500磅，高爆，激光制导炸弹</Chinesesimp>
+        <Chinesesimp>500磅（226.8千克），高爆，激光制导炸弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_falchion22_tooltip">
         <Original>Short-range, infrared-guided, air-to-air missile with high-explosive warhead</Original>
         <Chinese>短程，熱導引，空對空高爆飛彈</Chinese>
-        <Chinesesimp>短程，热制导，空对空高爆导弹</Chinesesimp>
+        <Chinesesimp>短程，红外制导，空对空高爆导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_dar_tooltip">
         <Original>Unguided rockets with high-explosive warhead</Original>
@@ -1366,22 +1366,22 @@
       <Key ID="str_a3_cfgmagazine_dagr_tooltip">
         <Original>Short-range, laser/infrared-guided, air-to-surface missile with high-explosive anti-tank warhead</Original>
         <Chinese>短程，雷射/熱導引，空對地高爆反坦克飛彈</Chinese>
-        <Chinesesimp>短程，激光/热制导，空对地高爆反坦克导弹</Chinesesimp>
+        <Chinesesimp>短程，激光/红外制导，空对地反坦克导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_cbu85_tooltip">
         <Original>750lb, laser-guided cluster bomb</Original>
         <Chinese>750磅，雷射導引集束炸彈</Chinese>
-        <Chinesesimp>750磅，激光制导集束炸弹</Chinesesimp>
+        <Chinesesimp>750磅（340.2千克），激光制导集束炸弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_bl778_tooltip">
         <Original>580lb, laser-guided cluster bomb</Original>
         <Chinese>580磅，雷射導引集束炸彈</Chinese>
-        <Chinesesimp>580磅，激光制导集束炸弹</Chinesesimp>
+        <Chinesesimp>580磅（263.1千克），激光制导集束炸弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_asraam_tooltip">
         <Original>Short-range, infrared-guided, air-to-air missile with high-explosive warhead</Original>
         <Chinese>短程，熱導引，空對空高爆飛彈</Chinese>
-        <Chinesesimp>短程，热制导，空对空高爆导弹</Chinesesimp>
+        <Chinesesimp>短程，红外制导，空对空高爆导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazine_amraam_tooltip">
         <Original>Medium-range, radar-guided, air-to-air missile with high-explosive warhead</Original>
@@ -1396,7 +1396,7 @@
       <Key ID="str_a3_cfgmagazine_bim9_tooltip">
         <Original>Short-range, infrared-guided, air-to-air missile with high-explosive warhead</Original>
         <Chinese>短程，熱導引，空對空高爆飛彈</Chinese>
-        <Chinesesimp>短程，热制导，空对空高爆导弹</Chinesesimp>
+        <Chinesesimp>短程，红外制导，空对空高爆导弹</Chinesesimp>
       </Key>
     </Container>
   </Package>

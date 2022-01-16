@@ -3577,17 +3577,17 @@
         <Key ID="str_a3_cfgvehicles_moduletasksetstate_f_arguments_state_values_created_0">
           <Original>Created</Original>
           <Chinese>創建</Chinese>
-          <Chinesesimp>创建</Chinesesimp>
+          <Chinesesimp>已创建</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduletasksetstate_f_arguments_state_values_canceled_0">
           <Original>Canceled</Original>
           <Chinese>取消</Chinese>
-          <Chinesesimp>取消</Chinesesimp>
+          <Chinesesimp>已取消</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduletasksetstate_f_arguments_state_values_assigned_0">
           <Original>Assigned</Original>
           <Chinese>分配</Chinese>
-          <Chinesesimp>分配</Chinesesimp>
+          <Chinesesimp>已分配</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduletasksetstate_f_arguments_state_0">
           <Original>State</Original>

@@ -4097,12 +4097,12 @@
         <Key ID="str_a3_b_mortar_01_support_grn_f0">
           <Original>Folded Mortar Mk6 Bipod (Green) [NATO]</Original>
           <Chinese>Mk6迫擊砲折疊式腳架(綠色)[北約]</Chinese>
-          <Chinesesimp>Mk6迫击炮折叠式脚架（绿色）[北约]</Chinesesimp>
+          <Chinesesimp>Mk6 迫击炮折叠式脚架（绿色）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_b_mortar_01_weapon_grn_f0">
           <Original>Folded Mk6 Mortar Tube (Green) [NATO]</Original>
           <Chinese>Mk6迫擊砲折疊式砲管(綠色)[北約]</Chinese>
-          <Chinesesimp>Mk6迫击炮折叠式炮管（绿色）[北约]</Chinesesimp>
+          <Chinesesimp>Mk6 迫击炮折叠式炮管（绿色）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_b_assaultpack_tna_f0">
           <Original>Assault Pack (Tropic)</Original>
@@ -4815,7 +4815,7 @@
       <Key ID="str_a3_rscdisplaywelcome_exp_pard_list13">
         <Original>compositions, bindable camera controls, Comment entities, drag &amp;amp; scale area entities, foliage toggle, environment preview, asset previews</Original>
         <Chinese>組件，可設定的攝影機控制，備註，拖曳&amp;amp;伸縮區域素材，切換葉子顯示，預覽環境，預覽素材</Chinese>
-        <Chinesesimp>组件，可设定的摄影机控制，备注，拖拽&amp;amp;伸缩区域素材，切换叶子显示，预览环境，预览素材</Chinesesimp>
+        <Chinesesimp>组合，可设定的摄影机控制，备注，拖拽&amp;amp;伸缩区域素材，切换叶子显示，预览环境，预览素材</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_pard_list12_title">
         <Original>Limping</Original>
@@ -5767,7 +5767,7 @@
         <Key ID="str_a3_cfgmods_apex_feature_eden">
           <Original>Creating your own scenarios has never been this simple and fun. Edit in 3D, use custom layers and compositions, change load-outs, filter assets, undo &amp; redo changes and so much more.</Original>
           <Chinese>製作任務從沒有像現在一樣這麼簡單且有趣。使用3D視角，自訂圖層與組件，變更裝備，分類素材，復原與重製等功能來玩轉此編輯器。</Chinese>
-          <Chinesesimp>制作任务从没有像现在一样这么简单且有趣。使用3D视角，自定义图层与组件，变更装备，分类素材，撤销和恢复等功能来玩转此编辑器。</Chinesesimp>
+          <Chinesesimp>制作任务从没有像现在一样这么简单且有趣。使用3D视角，自定义图层与组合，变更装备，分类素材，撤销和恢复等功能来玩转此编辑器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_feature_difficulty_name">
           <Original>Difficulty Settings</Original>

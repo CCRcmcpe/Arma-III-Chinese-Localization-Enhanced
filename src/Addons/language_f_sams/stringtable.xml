@@ -42,7 +42,7 @@
       <Key ID="STR_A3_Bomb_SDB_magazine_description">
         <Original>250lb, high-explosive, infrared/laser-guided bomb</Original>
         <Chinese>250磅，高爆，紅外/激光導引炸彈</Chinese>
-        <Chinesesimp>250磅，高爆，红外/激光制导炸弹</Chinesesimp>
+        <Chinesesimp>250磅（113.4千克），高爆，红外/激光制导炸弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Bomb_SDB_magazine_shortName">
         <Original>Bomb</Original>

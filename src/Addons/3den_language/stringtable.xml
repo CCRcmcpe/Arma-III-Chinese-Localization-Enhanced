@@ -931,22 +931,22 @@
             <Key ID="STR_3DEN_Display3DEN_CustomCompositionPanel_Add_tooltip">
               <Original>Save new custom composition from currently selected entities.</Original>
               <Chinese>保存當前選取物件為新的自定義組件。</Chinese>
-              <Chinesesimp>保存当前选取物件为新的自定义组件。</Chinesesimp>
+              <Chinesesimp>保存当前选取物件为新的自定义组合。</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_CustomCompositionPanel_Edit_tooltip">
               <Original>Edit composition selected in the browser.</Original>
               <Chinese>編輯瀏覽器中選擇的組件。</Chinese>
-              <Chinesesimp>编辑浏览器中选择的组件。</Chinesesimp>
+              <Chinesesimp>编辑浏览器中选择的组合。</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_CustomCompositionPanel_Publish_tooltip">
               <Original>Publish the currently selected custom composition to the Steam Workshop.</Original>
               <Chinese>發佈當前選擇的組件至Steam工作坊。</Chinese>
-              <Chinesesimp>发布当前选择的组件至 Steam 创意工坊。</Chinesesimp>
+              <Chinesesimp>发布当前选择的组合至 Steam 创意工坊。</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_CustomCompositionPanel_Delete_tooltip">
               <Original>Delete composition selected in the browser.</Original>
               <Chinese>刪除瀏覽器中選擇的組件。</Chinese>
-              <Chinesesimp>删除浏览器中选择的组件。</Chinesesimp>
+              <Chinesesimp>删除浏览器中选择的组合。</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_VehiclePanel_TextEmpty_text">
               <Original>Place vehicles with crew</Original>
@@ -976,7 +976,7 @@
             <Key ID="STR_3DEN_Display3DEN_CustomCompositionPanel_OpenWorkshop_tooltip">
               <Original>Open Steam Workshop with all available compositions.</Original>
               <Chinese>Open Steam Workshop with all available compositions.</Chinese>
-              <Chinesesimp>Open Steam Workshop with all available compositions.</Chinesesimp>
+              <Chinesesimp>以全部可用的组合打开 Steam 创意工坊。</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_CustomCompositionPanel_Unsubscribe_tooltip">
               <Original>Unsubscribe from the selected composition.</Original>
@@ -1364,7 +1364,7 @@
       <Key ID="STR_3DEN_Import2D_description">
         <Original>Imported a 2D scenario into the Eden Editor.</Original>
         <Chinese>匯入2D編輯器所編輯的任務到伊甸編輯器中。</Chinese>
-        <Chinesesimp>汇入2D编辑器所编辑的任务到伊甸编辑器中。</Chinesesimp>
+        <Chinesesimp>导入2D编辑器所编辑的任务到伊甸编辑器中。</Chinesesimp>
       </Key>
       <Key ID="STR_3DEN_Import2D_title">
         <Original>New Dimension</Original>
@@ -1734,7 +1734,7 @@
         <Key ID="str_3den_tutorials_entities_sections_customcompositions_text">
           <Original>Custom Compositions</Original>
           <Chinese>自定義組件</Chinese>
-          <Chinesesimp>自定义组件</Chinesesimp>
+          <Chinesesimp>自定义组合</Chinesesimp>
         </Key>
         <Container name="Intro">
           <Container name="Intro">
@@ -1843,7 +1843,7 @@
             <Key ID="str_3den_tutorials_intro_sections_oldeditor_composition_text">
               <Original>Groups (F2) were renamed to &lt;%2&gt;Compositions&lt;%3&gt; and apart from infantry or tank formations, you can also find composition of props there. This is perfect when you want to quickly build a camp or an outpost.</Original>
               <Chinese>群組(F2)除了保有步兵與載具的預設群組外，還加入了群組道具。使你可以快速建置一個營地或前哨。</Chinese>
-              <Chinesesimp>群组（F2）除了保有步兵与载具的预设群组外，还加入了群组道具。使你可以快速建置一个营地或前哨。</Chinesesimp>
+              <Chinesesimp>群组（F2）被重新命名为&lt;%2&gt;组合&lt;%3&gt;，除了步兵或坦克编队之外，你还可以在那里找到道具的组合，很适合用于快速建立一个营地或前哨。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_intro_sections_oldeditor_attributesmulti_text">
               <Original>Double-clicking on an entity will open its attributes. When you have multiple entities selected, you can edit their attributes together by opening the context menu (&lt;%2&gt;Right Mouse Button&lt;%3&gt;) and picking the &lt;%2&gt;Attributes&lt;%3&gt; option.</Original>
@@ -2365,37 +2365,37 @@
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_savewindow_text">
               <Original>A window will be opened where you can set name, author and category for your composition.&lt;br /&gt;&lt;br /&gt;In the list on the left, you can either chose to create a new composition, or overwrite one of the existing ones. This way, you can edit already created compositions.</Original>
               <Chinese>一個設定視窗會彈出，你可以設定組件的名稱，作者與類別。&lt;br/&gt;&lt;br/&gt;在左側的清單中，你可以選擇新建新的組件或是覆蓋掉舊的組件。用此方式，你就可以編輯之前的組件內容。</Chinese>
-              <Chinesesimp>一个设置窗口会弹出，你可以设置组件的名称，作者与类别。&lt;br/&gt;&lt;br/&gt;在左侧的清单中，你可以选择新建新的组件或是覆盖掉旧的组件。用此方式，你就可以编辑之前的组件内容。</Chinesesimp>
+              <Chinesesimp>一个设置窗口会弹出，你可以设置组合的名称，作者与类别。&lt;br/&gt;&lt;br/&gt;在左侧的清单中，你可以选择新建新的组合或是覆盖掉旧的组合。用此方式，你就可以编辑之前的组合内容。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_save_text">
               <Original>To save a composition, select entities in the scene, click &lt;%2&gt;right mouse button&lt;%3&gt; on one of them and pick the &lt;%2&gt;Save Custom Composition&lt;%3&gt; option.</Original>
               <Chinese>要保存組件，請選擇你擺放好的物件們，點擊&lt;%2&gt;滑鼠右鍵&lt;%3&gt;，並選擇&lt;%2&gt;儲存自定義組件&lt;%3&gt;的按鈕即可。</Chinese>
-              <Chinesesimp>要保存组件，请选择你摆放好的物件们，点击&lt;%2&gt;鼠标右键&lt;%3&gt;，并选择&lt;%2&gt;储存自定义组件&lt;%3&gt;的按钮即可。</Chinesesimp>
+              <Chinesesimp>要保存组合，请选择你摆放好的物件们，点击&lt;%2&gt;鼠标右键&lt;%3&gt;，并选择&lt;%2&gt;储存自定义组合&lt;%3&gt;的按钮即可。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_publish_text">
               <Original>When you are finished building your composition, you can publish it to &lt;%2&gt;Steam Workshop&lt;%3&gt;.</Original>
               <Chinese>當你完成了你的組件後，你可以發佈他們到&lt;%2&gt;Steam工作坊&lt;%3&gt;與他人分享。</Chinese>
-              <Chinesesimp>当你完成了你的组件后，你可以发布它们到&lt;%2&gt;Steam 创意工坊&lt;%3&gt;与他人分享。</Chinesesimp>
+              <Chinesesimp>当你完成了你的组合后，你可以发布它们到&lt;%2&gt;Steam 创意工坊&lt;%3&gt;与他人分享。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_place_text">
               <Original>Once created, you can find your compositions in &lt;%2&gt;Compositions &gt; Custom&lt;%3&gt;. Place it as any other entity - either select it and then click in the scene on a desired position, or drag it from the list to the scene.</Original>
               <Chinese>當組件新增完成，你可以在&lt;%2&gt;組件&gt;自定義&lt;%3&gt;中找到他們。放置他們就跟放置其他物件一樣簡單-只需選取他們並點在畫面上的位置即可擺放，也可透過拖曳的方式擺放。</Chinese>
-              <Chinesesimp>当组件新增完成，你可以在&lt;%2&gt;组件&gt;自定义&lt;%3&gt;中找到他们。放置他们就跟放置其他物件一样简单—只需选取他们并点在画面上的位置即可摆放，也可通过拖拽的方式摆放。</Chinesesimp>
+              <Chinesesimp>当组合新增完成，你可以在&lt;%2&gt;组合&gt;自定义&lt;%3&gt;中找到他们。放置他们就跟放置其他物件一样简单—只需选取他们并点在画面上的位置即可摆放，也可通过拖拽的方式摆放。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_placeatl_text">
               <Original>Vertical mode defines how the composition will be placed.&lt;br /&gt;%1&lt;%2&gt;Terrain Level&lt;%3&gt; - composition will be snapped to the surface underneath. Please note that objects which are placed on another object may no longer be positioned precisely.&lt;br /&gt;%1&lt;%2&gt;Sea Level&lt;%3&gt; - the composition will be placed exactly as it was saved, ignoring the surface slope.</Original>
               <Chinese>垂直模式決定了組件的擺放方式。&lt;br/&gt;%1&lt;%2&gt;根據地形&lt;%3&gt;-組件內的物件會自動貼齊地形，並調整角度對齊地形坡度。請注意，假使擺放的位置上已有其他物件，該擺放中的物件將會自動移位以避開重疊。&lt;br/&gt;%1&lt;%2&gt;根據水平面&lt;%3&gt;-該組件的內容會被精確的擺放在當初設定的高度上，忽略地形的坡度。</Chinese>
-              <Chinesesimp>垂直模式决定了组件的摆放方式。&lt;br/&gt;%1&lt;%2&gt;根据地形&lt;%3&gt;-组件内的物件会自动贴齐地形，并调整角度对齐地形坡度。请注意，假使摆放的位置上已有其他物件，该摆放中的物件将会自动移位以避开重叠。&lt;br/&gt;%1&lt;%2&gt;根据水平面&lt;%3&gt;-该组件的内容会被精确的摆放在当初设置的高度上，忽略地形的坡度。</Chinesesimp>
+              <Chinesesimp>垂直模式决定了组合的摆放方式。&lt;br/&gt;%1&lt;%2&gt;根据地形&lt;%3&gt;-组合内的物件会自动贴齐地形，并调整角度对齐地形坡度。请注意，假使摆放的位置上已有其他物件，该摆放中的物件将会自动移位以避开重叠。&lt;br/&gt;%1&lt;%2&gt;根据水平面&lt;%3&gt;-该组合的内容会被精确的摆放在当初设置的高度上，忽略地形的坡度。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_intro_text">
               <Original>Apart from the pre-defined groups and compositions, you can save and share your own.</Original>
               <Chinese>除了保存自己的自定義組件外，你也可以分享他們給其他的玩家。</Chinese>
-              <Chinesesimp>除了保存自己的自定义组件外，你也可以分享他们给其他的玩家。</Chinesesimp>
+              <Chinesesimp>除了保存自己的自定义组合外，你也可以分享他们给其他的玩家。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_edit_text">
               <Original>To edit composition's attributes, &lt;%2&gt;double-click&lt;%3&gt; on it or select it and click on the &lt;%2&gt;Edit&lt;%3&gt; button. It will open a window where you can change the name, author and category again.</Original>
               <Chinese>要編輯組件的屬性，你可以&lt;%2&gt;雙擊&lt;%3&gt;該組件或按下&lt;%2&gt;編輯&lt;%3&gt;按鈕。這會讓系統打開一個視窗，你可以在那邊編輯組建的名稱，作者與類別。</Chinese>
-              <Chinesesimp>要编辑组件的属性，你可以&lt;%2&gt;双击&lt;%3&gt;该组件或按下&lt;%2&gt;编辑&lt;%3&gt;按钮。这会让系统打开一个窗口，你可以在那边编辑组件的名称，作者与类别。</Chinesesimp>
+              <Chinesesimp>要编辑组合的属性，你可以&lt;%2&gt;双击&lt;%3&gt;该组合或按下&lt;%2&gt;编辑&lt;%3&gt;按钮。这会让系统打开一个窗口，你可以在那边编辑组合的名称，作者与类别。</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -2535,7 +2535,7 @@
             <Key ID="str_3den_tutorials_scenario_sections_publishing_outro_text">
               <Original>There are also some more advanced ways to export a scenario, check them out on the &lt;%10&gt;Community Wiki&lt;%11&gt;.</Original>
               <Chinese>還有數種方法也可以匯出任務，請點擊&lt;%10&gt;維基百科社群&lt;%11&gt;來了解更多訊息。</Chinese>
-              <Chinesesimp>还有数种方法也可以汇出任务，请点击&lt;%10&gt;维基百科社区&lt;%11&gt;来了解更多信息。</Chinesesimp>
+              <Chinesesimp>还有数种方法也可以导出任务，请点击&lt;%10&gt;维基百科社区&lt;%11&gt;来了解更多信息。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_publishing_intro_text">
               <Original>Once you have finished creating your scenario, there are several options for sharing it with others.</Original>
@@ -2545,7 +2545,7 @@
             <Key ID="str_3den_tutorials_scenario_sections_publishing_export_text">
               <Original>You can also export the scenario into packed &lt;%2&gt;*.pbo&lt;%3&gt; format. Expand &lt;%2&gt;Scenario &gt; Export&lt;%3&gt; and pick either &lt;%2&gt;Export to Singleplayer&lt;%3&gt; or &lt;%2&gt;Export to Multiplayer&lt;%3&gt;. The scenario with all files and folders inside will be packed into a *.pbo file. You can find it in the game's root folder in the folders named Missions and MPMissions respectively.&lt;br /&gt;If anyone else places the file in the same folders, he will be able to play the scenario from the main menu.</Original>
               <Chinese>你也可以匯出任務檔案，使之變成&lt;%2&gt;*.pbo&lt;%3&gt;的檔案格式。展開&lt;%2&gt;任務&gt;匯出&lt;%3&gt;並從&lt;%2&gt;匯出到單人遊戲&lt;%3&gt;或&lt;%2&gt;匯出到多人遊戲&lt;%3&gt;中進行選擇。任務的檔案與其中的資料夾會被匯出成*.pbo檔案。你可以在遊戲安裝資料夾的Missions和MPMissions資料夾中找到匯出的檔案。&lt;br/&gt;將這檔案傳給其他人，讓他們將檔案放置在同一個資料夾中，便可讓他們從主選單中直接執行該任務。</Chinese>
-              <Chinesesimp>你也可以汇出任务档案，使之变成&lt;%2&gt;*.pbo&lt;%3&gt;的档案格式。展开&lt;%2&gt;任务&gt;汇出&lt;%3&gt;并从&lt;%2&gt;汇出到单人游戏&lt;%3&gt;或&lt;%2&gt;汇出到多人游戏&lt;%3&gt;中进行选择。任务的档案与其中的文件夹会被汇出成*.pbo 档案。你可以在游戏安装文件夹的 Missions 和 MPMissions 文件夹中找到汇出的档案。&lt;br/&gt;将这档案传给其他人，让他们将档案放置在同一个文件夹中，便可让他们从主菜单中直接执行该任务。</Chinesesimp>
+              <Chinesesimp>你也可以导出任务档案，使之变成&lt;%2&gt;*.pbo&lt;%3&gt;的档案格式。展开&lt;%2&gt;任务&gt;导出&lt;%3&gt;并从&lt;%2&gt;导出到单人游戏&lt;%3&gt;或&lt;%2&gt;导出到多人游戏&lt;%3&gt;中进行选择。任务的档案与其中的文件夹会被导出成*.pbo 档案。你可以在游戏安装文件夹的 Missions 和 MPMissions 文件夹中找到导出的档案。&lt;br/&gt;将这档案传给其他人，让他们将档案放置在同一个文件夹中，便可让他们从主菜单中直接执行该任务。</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -3520,7 +3520,7 @@
         <Key ID="STR_3DEN_Messages_customCompositionDelete">
           <Original>Do you want to delete the composition?</Original>
           <Chinese>你想要刪掉組件嗎？</Chinese>
-          <Chinesesimp>你想要删掉组件吗？</Chinesesimp>
+          <Chinesesimp>你想要删掉组合吗？</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_missionSaveError">
           <Original>Error when saving the scenario!</Original>
@@ -3535,12 +3535,12 @@
         <Key ID="STR_3DEN_Messages_customCompositionEmptyName">
           <Original>Composition name cannot be empty!</Original>
           <Chinese>組件名稱不能為空！</Chinese>
-          <Chinesesimp>组件名称不能为空！</Chinesesimp>
+          <Chinesesimp>组合名称不能为空！</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_customCompositionOverwrite">
           <Original>Do you want to overwrite the composition?</Original>
           <Chinese>你想要覆蓋掉組件嗎？</Chinese>
-          <Chinesesimp>你想要覆盖掉组件吗？</Chinesesimp>
+          <Chinesesimp>你想要覆盖掉组合吗？</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_editCrewType">
           <Original>Object type cannot be changed when a crew member is selected.</Original>
@@ -3560,7 +3560,7 @@
         <Key ID="STR_3DEN_Messages_MissionLoadImported">
           <Original>Importing the scenario will update it to a new format. A backup will be created in the scenario folder. Do you want to import the scenario?</Original>
           <Chinese>匯入的任務將會更新到新的檔案格式中。一個備用檔案將會被建立在任務資料夾中。你想要匯入任務嗎？</Chinese>
-          <Chinesesimp>汇入的任务将会更新到新的档案格式中。一个备用档案将会被建立在任务文件夹中。你想要汇入任务吗？</Chinesesimp>
+          <Chinesesimp>导入的任务将会更新到新的档案格式中。一个备用档案将会被建立在任务文件夹中。你想要导入任务吗？</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_editorClose">
           <Original>Do you want to close Eden Editor?</Original>
@@ -3615,7 +3615,7 @@
         <Key ID="STR_3DEN_Messages_missionMerge">
           <Original>Merging will include all entities in the selected scenario into the currently opened scenario. No external files will be included. Do you want to merge into the scenario?</Original>
           <Chinese>合併會將選擇任務的所有物件匯進至目前已開啟的任務當中。而外部文件並不會跟著匯入。請問你想要合併任務嗎？</Chinese>
-          <Chinesesimp>合并会将选择任务的所有物件汇进至目前已开启的任务当中。而外部文件并不会跟着汇入。请问你想要合并任务吗？</Chinesesimp>
+          <Chinesesimp>合并会将选择任务的所有物件汇进至目前已开启的任务当中。而外部文件并不会跟着导入。请问你想要合并任务吗？</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_missionMergeErrorOldSQM">
           <Original>Cannot merge 2D editor scenario into the current scenario!</Original>
@@ -5561,12 +5561,12 @@
             <Key ID="str_3den_scenario_attribute_showcompass_tooltip">
               <Original>When disabled, the compass will not be available either on the map, or in the scene after pressing the 'Compass' key. Can also be achieved by removing the compass from the player's inventory.</Original>
               <Chinese>當本功能關閉時，指北針將不會在地圖上顯示，而在操控角色的狀態就算按下指北針的按鈕也是不會顯示。此功能也可透過移除玩家的指北針裝備來達到此一效果。</Chinese>
-              <Chinesesimp>当本功能关闭时，指北针将不会在地图上显示，而在操控角色的状态就算按下指北针的按钮也不会显示。此功能也可通过移除玩家的指北针装备来达到此效果。</Chinesesimp>
+              <Chinesesimp>当本功能关闭时，指南针将不会在地图上显示，而在操控角色的状态就算按下指南针的按钮也不会显示。此功能也可通过移除玩家的指南针装备来达到此效果。</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_showcompass_displayname">
               <Original>Show Compass</Original>
               <Chinese>顯示指北針</Chinese>
-              <Chinesesimp>显示指北针</Chinesesimp>
+              <Chinesesimp>显示指南针</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_saving_tooltip">
               <Original>When disabled, the 'SAVE' option in the pause menu will be disabled and scripted autosaves will not do anything.</Original>
