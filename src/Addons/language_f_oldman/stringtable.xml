@@ -11,17 +11,17 @@
         <Key ID="str_a3_cfgvehicles_i_g_hmg_02_support_high_f0">
           <Original>Folded Tripod M2 HMG .50 (Raised) [FIA]</Original>
           <Chinese>折起的三腳架 M2 重機槍 .50（立起）（FIA）</Chinese>
-          <Chinesesimp>折叠的三脚架 M2 重机枪 .50（升高）[FIA]</Chinesesimp>
+          <Chinesesimp>折叠式三脚架 M2 重机枪 .50 （高）[FIA]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_g_hmg_02_support_f0">
           <Original>Folded Tripod M2 HMG .50 [Syndikat]</Original>
           <Chinese>折起的三腳架 M2 重機槍 .50（Syndikat）</Chinese>
-          <Chinesesimp>折叠的三脚架 M2 重机枪 .50 [Syndikat]</Chinesesimp>
+          <Chinesesimp>折叠式三脚架 M2 重机枪 .50 [辛迪加]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_g_hmg_02_high_weapon_f0">
           <Original>Dismantled M2 HMG .50 (Raised) [FIA]</Original>
           <Chinese>拆解後的 M2 重機槍 .50（立起）（FIA）</Chinese>
-          <Chinesesimp>拆解的 M2 重机枪 .50（升高）[FIA]</Chinesesimp>
+          <Chinesesimp>拆解的 M2 重机枪 .50（高）[FIA]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_e_hmg_02_weapon_f0">
           <Original>Dismantled M2 HMG .50 [LDF]</Original>
@@ -31,52 +31,52 @@
         <Key ID="str_a3_cfgvehicles_i_e_hmg_02_support_high_f0">
           <Original>Folded Tripod M2 HMG .50 (Raised) [LDF]</Original>
           <Chinese>折起的三腳架 M2 重機槍 .50（立起）（LDF）</Chinese>
-          <Chinesesimp>折叠的三脚架 M2 重机枪 .50（升高）[LDF]</Chinesesimp>
+          <Chinesesimp>折叠式三脚架 M2 重机枪 .50（高）[LDF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_e_hmg_02_support_f0">
           <Original>Folded Tripod M2 HMG .50 [LDF]</Original>
           <Chinese>折起的三腳架 M2 重機槍 .50（LDF）</Chinese>
-          <Chinesesimp>折叠的三脚架 M2 重机枪 .50 [LDF]</Chinesesimp>
+          <Chinesesimp>折叠式三脚架 M2 重机枪 .50 [LDF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_e_hmg_02_high_weapon_f0">
           <Original>Dismantled M2 HMG .50 (Raised) [LDF]</Original>
           <Chinese>拆解後的 M2 重機槍 .50（立起）（LDF）</Chinese>
-          <Chinesesimp>拆解的 M2 重机枪 .50（升高）[LDF]</Chinesesimp>
+          <Chinesesimp>拆解的 M2 重机枪 .50（高）[LDF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_c_hmg_02_weapon_f0">
           <Original>Dismantled M2 HMG .50 [Syndikat]</Original>
           <Chinese>拆解後的 M2 重機槍 .50（Syndikat）</Chinese>
-          <Chinesesimp>拆解的 M2 重机枪 .50 [Syndikat]</Chinesesimp>
+          <Chinesesimp>拆解的 M2 重机枪 .50 [辛迪加]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_c_hmg_02_support_high_f0">
           <Original>Folded Tripod M2 HMG .50 (Raised) [Syndikat]</Original>
           <Chinese>折起的三腳架 M2 重機槍 .50（立起）（Syndikat）</Chinese>
-          <Chinesesimp>折叠的三脚架 M2 重机枪 .50（升高）[Syndikat]</Chinesesimp>
+          <Chinesesimp>折叠式三脚架 M2 重机枪 .50（高）[辛迪加]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_c_hmg_02_support_f0">
           <Original>Folded Tripod M2 HMG .50 [FIA]</Original>
           <Chinese>折起的三腳架 M2 重機槍 .50（FIA）</Chinese>
-          <Chinesesimp>折叠的三脚架 M2 重机枪 .50 [FIA]</Chinesesimp>
+          <Chinesesimp>折叠式三脚架 M2 重机枪 .50 [FIA]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_c_hmg_02_high_weapon_f0">
           <Original>Dismantled M2 HMG .50 (Raised) [Syndikat]</Original>
           <Chinese>拆解後的 M2 重機槍 .50（立起）（Syndikat）</Chinese>
-          <Chinesesimp>拆解的 M2 重机枪 .50（升高）[Syndikat]</Chinesesimp>
+          <Chinesesimp>拆解的 M2 重机枪 .50（高）[辛迪加]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_hmg_02_high_weapon_F0">
           <Original>Dismantled M2 HMG .50 (Raised) [AAF]</Original>
           <Chinese>拆解後的 M2 重機槍 .50（立起）（AAF）</Chinese>
-          <Chinesesimp>拆解的 M2 重机枪 .50（升高）[AAF]</Chinesesimp>
+          <Chinesesimp>拆解的 M2 重机枪 .50（高）[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_02_high_weapon_F0">
           <Original>Dismantled M2 HMG .50 (Raised) [NATO]</Original>
           <Chinese>拆解後的 M2 重機槍 .50（立起）（NATO）</Chinese>
-          <Chinesesimp>拆解的 M2 重机枪 .50（升高）[NATO]</Chinesesimp>
+          <Chinesesimp>拆解的 M2 重机枪 .50（高）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_hmg_02_high_weapon_F0">
           <Original>Dismantled M2 HMG .50 (Raised) [CSAT]</Original>
           <Chinese>拆解後的 M2 重機槍 .50（立起）（CSAT）</Chinese>
-          <Chinesesimp>拆解的 M2 重机枪 .50（升高）[CSAT]</Chinesesimp>
+          <Chinesesimp>拆解的 M2 重机枪 .50（高）[广协]</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -84,39 +84,39 @@
       <Key ID="str_a3_cfgweapons_h_beret_csat_01_f0">
         <Original>Beret (Red) [CSAT]</Original>
         <Chinese>貝雷帽（紅色）（CSAT）</Chinese>
-        <Chinesesimp>贝雷帽（红色）[CSAT]</Chinesesimp>
+        <Chinesesimp>贝雷帽（红色）[广协]</Chinesesimp>
       </Key>
     </Container>
     <Container name="Structures_F">
       <Key ID="str_a3_cfgvehicles_land_signwarning_01_checkpointzone2_f0">
         <Original>Sign (Checkpoint, v3)</Original>
         <Chinese>標誌（管制哨，v3）</Chinese>
-        <Chinesesimp>标志：（关卡，v3）</Chinesesimp>
+        <Chinesesimp>标志（关卡，版本3）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_signwarning_01_checkpointzone1_f0">
         <Original>Sign (Checkpoint, v2)</Original>
         <Chinese>標誌（管制哨，v2）</Chinese>
-        <Chinesesimp>标志：（关卡，v2）</Chinesesimp>
+        <Chinesesimp>标志（关卡，版本2）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_signwarning_01_checkpointahead_f0">
         <Original>Sign (Checkpoint, v1)</Original>
         <Chinese>標誌（管制哨，v1）</Chinese>
-        <Chinesesimp>标志：（关卡，v1）</Chinesesimp>
+        <Chinesesimp>标志（关卡，版本1）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_mapboard_01_wall_syndikat_tanoa_f0">
         <Original>Whiteboard [Syndikat] (v3)</Original>
         <Chinese>白板（Syndikat）（v3）</Chinese>
-        <Chinesesimp>白板 [Syndikat] (v3)</Chinesesimp>
+        <Chinesesimp>白板 [辛迪加]（版本3）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_mapboard_01_tripod_syndikat_tanoa_f0">
         <Original>Whiteboard [Syndikat] (v2)</Original>
         <Chinese>白板（Syndikat）（v2）</Chinese>
-        <Chinesesimp>白板 [Syndikat] (v2)</Chinesesimp>
+        <Chinesesimp>白板 [辛迪加]（版本2）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_mapboard_01_map_syndikat_tanoa_f0">
         <Original>Whiteboard [Syndikat] (v1)</Original>
         <Chinese>白板（Syndikat）（v1）</Chinese>
-        <Chinesesimp>白板 [Syndikat] (v1)</Chinesesimp>
+        <Chinesesimp>白板 [辛迪加]（版本1）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_scorchmark_01_small_f0">
         <Original>Scorch Mark (Small)</Original>
@@ -131,77 +131,77 @@
       <Key ID="str_a3_cfgvehicles_land_decal_roadedge_dirt_10_f0">
         <Original>Road Edge Dirt (v10)</Original>
         <Chinese>路邊塵土（v10）</Chinese>
-        <Chinesesimp>路边泥土 (v10)</Chinesesimp>
+        <Chinesesimp>路边泥土（版本10）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_roadedge_dirt_09_f0">
         <Original>Road Edge Dirt (v9)</Original>
         <Chinese>路邊塵土（v9）</Chinese>
-        <Chinesesimp>路边泥土 (v9)</Chinesesimp>
+        <Chinesesimp>路边泥土（版本9）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_roadedge_dirt_08_f0">
         <Original>Road Edge Dirt (v8)</Original>
         <Chinese>路邊塵土（v8）</Chinese>
-        <Chinesesimp>路边泥土 (v8)</Chinesesimp>
+        <Chinesesimp>路边泥土（版本8）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_roadedge_dirt_07_f0">
         <Original>Road Edge Dirt (v7)</Original>
         <Chinese>路邊塵土（v7）</Chinese>
-        <Chinesesimp>路边泥土 (v7)</Chinesesimp>
+        <Chinesesimp>路边泥土（版本7）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_roadedge_dirt_06_f0">
         <Original>Road Edge Dirt (v6)</Original>
         <Chinese>路邊塵土（v6）</Chinese>
-        <Chinesesimp>路边泥土 (v6)</Chinesesimp>
+        <Chinesesimp>路边泥土（版本6）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_roadedge_dirt_05_f0">
         <Original>Road Edge Dirt (v5)</Original>
         <Chinese>路邊塵土（v5）</Chinese>
-        <Chinesesimp>路边泥土 (v5)</Chinesesimp>
+        <Chinesesimp>路边泥土（版本5）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_roadedge_dirt_04_f0">
         <Original>Road Edge Dirt (v4)</Original>
         <Chinese>路邊塵土（v4）</Chinese>
-        <Chinesesimp>路边泥土 (v4)</Chinesesimp>
+        <Chinesesimp>路边泥土（版本4）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_roadedge_dirt_03_f0">
         <Original>Road Edge Dirt (v3)</Original>
         <Chinese>路邊塵土（v3）</Chinese>
-        <Chinesesimp>路边泥土 (v3)</Chinesesimp>
+        <Chinesesimp>路边泥土（版本3）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_roadedge_dirt_02_f0">
         <Original>Road Edge Dirt (v2)</Original>
         <Chinese>路邊塵土（v2）</Chinese>
-        <Chinesesimp>路边泥土 (v2)</Chinesesimp>
+        <Chinesesimp>路边泥土（版本2）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_roadedge_dirt_01_f0">
         <Original>Road Edge Dirt (v1)</Original>
         <Chinese>路邊塵土（v1）</Chinese>
-        <Chinesesimp>路边泥土 (v1)</Chinesesimp>
+        <Chinesesimp>路边泥土（版本1）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_roadcrack_grass_05_f0">
         <Original>Road Crack (Grass, v5)</Original>
         <Chinese>道路龜裂（草地，v5）</Chinese>
-        <Chinesesimp>道路裂缝（草，v5）</Chinesesimp>
+        <Chinesesimp>道路裂缝（草，版本5）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_roadcrack_grass_04_f0">
         <Original>Road Crack (Grass, v4)</Original>
         <Chinese>道路龜裂（草地，v4）</Chinese>
-        <Chinesesimp>道路裂缝（草，v4）</Chinesesimp>
+        <Chinesesimp>道路裂缝（草，版本4）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_roadcrack_grass_03_f0">
         <Original>Road Crack (Grass, v3)</Original>
         <Chinese>道路龜裂（草地，v3）</Chinese>
-        <Chinesesimp>道路裂缝（草，v3）</Chinesesimp>
+        <Chinesesimp>道路裂缝（草，版本3）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_roadcrack_grass_02_f0">
         <Original>Road Crack (Grass, v2)</Original>
         <Chinese>道路龜裂（草地，v2）</Chinese>
-        <Chinesesimp>道路裂缝（草，v2）</Chinesesimp>
+        <Chinesesimp>道路裂缝（草，版本2）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_roadcrack_grass_01_f0">
         <Original>Road Crack (Grass, v1)</Original>
         <Chinese>道路龜裂（草地，v1）</Chinese>
-        <Chinesesimp>道路裂缝（草，v1）</Chinesesimp>
+        <Chinesesimp>道路裂缝（草，版本1）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_garbage_01_f0">
         <Original>Garbage Decal</Original>
@@ -211,27 +211,27 @@
       <Key ID="str_a3_cfgvehicles_land_decal_bulletholes_small_03_f0">
         <Original>Bullet Holes (Small, v3)</Original>
         <Chinese>彈孔（小，v3）</Chinese>
-        <Chinesesimp>弹孔（小，v3）</Chinesesimp>
+        <Chinesesimp>弹孔（小，版本3）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_bulletholes_small_02_f0">
         <Original>Bullet Holes (Small, v2)</Original>
         <Chinese>彈孔（小，v2）</Chinese>
-        <Chinesesimp>弹孔（小，v2）</Chinesesimp>
+        <Chinesesimp>弹孔（小，版本2）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_bulletholes_small_01_f0">
         <Original>Bullet Holes (Small, v1)</Original>
         <Chinese>彈孔（小，v1）</Chinese>
-        <Chinesesimp>弹孔（小，v1）</Chinesesimp>
+        <Chinesesimp>弹孔（小，版本1）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_bulletholes_big_02_f0">
         <Original>Bullet Holes (Big, v2)</Original>
         <Chinese>彈孔（大，v2）</Chinese>
-        <Chinesesimp>弹孔（大，v2）</Chinesesimp>
+        <Chinesesimp>弹孔（大，版本2）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_bulletholes_big_01_f0">
         <Original>Bullet Holes (Big, v1)</Original>
         <Chinese>彈孔（大，v1）</Chinese>
-        <Chinesesimp>弹孔（大，v1）</Chinesesimp>
+        <Chinesesimp>弹孔（大，版本1）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_brokencarglass_01_6x2_f0">
         <Original>Broken Glass (6x2m)</Original>
@@ -358,27 +358,27 @@
       <Key ID="str_a3_item_csatoperatoraccescard_050">
         <Original>Access Card (v5) [CSAT]</Original>
         <Chinese>門禁卡（v5）（CSAT）</Chinese>
-        <Chinesesimp>门禁卡 (v5) [CSAT]</Chinesesimp>
+        <Chinesesimp>门禁卡（版本5）[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_item_csatoperatoraccescard_040">
         <Original>Access Card (v4) [CSAT]</Original>
         <Chinese>門禁卡（v4）（CSAT）</Chinese>
-        <Chinesesimp>门禁卡 (v4) [CSAT]</Chinesesimp>
+        <Chinesesimp>门禁卡（版本4）[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_item_csatoperatoraccescard_030">
         <Original>Access Card (v3) [CSAT]</Original>
         <Chinese>門禁卡（v3）（CSAT）</Chinese>
-        <Chinesesimp>门禁卡 (v3) [CSAT]</Chinesesimp>
+        <Chinesesimp>门禁卡（版本3）[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_item_csatoperatoraccescard_020">
         <Original>Access Card (v2) [CSAT]</Original>
         <Chinese>門禁卡（v2）（CSAT）</Chinese>
-        <Chinesesimp>门禁卡 (v2) [CSAT]</Chinesesimp>
+        <Chinesesimp>门禁卡（版本2）[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_item_csatoperatoraccescard_010">
         <Original>Access Card (v1) [CSAT]</Original>
         <Chinese>門禁卡（v1）（CSAT）</Chinese>
-        <Chinesesimp>门禁卡 (v1) [CSAT]</Chinesesimp>
+        <Chinesesimp>门禁卡（版本1）[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_item_butane_canister0">
         <Original>Butane Canister (Full)</Original>
@@ -423,12 +423,12 @@
       <Key ID="str_a3_cfgvehicles_land_pcset_intel_02_f0">
         <Original>PC Set (Screen, Intel v2)</Original>
         <Chinese>PC 組（螢幕，情資 v2）</Chinese>
-        <Chinesesimp>个人电脑（屏幕，情报 v2）</Chinesesimp>
+        <Chinesesimp>个人电脑（屏幕，情报 版本2）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_pcset_intel_01_f0">
         <Original>PC Set (Screen, Intel v1)</Original>
         <Chinese>PC 組（螢幕，情資 v1）</Chinese>
-        <Chinesesimp>个人电脑（屏幕，情报 v1）</Chinesesimp>
+        <Chinesesimp>个人电脑（屏幕，情报 版本1）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_moneybills_01_stack_f0">
         <Original>Money (Stack)</Original>
@@ -448,22 +448,22 @@
       <Key ID="str_a3_cfgvehicles_land_military_id_card_01_f0">
         <Original>ID Card [CSAT]</Original>
         <Chinese>ID 卡（CSAT）</Chinese>
-        <Chinesesimp>身份证 [CSAT]</Chinesesimp>
+        <Chinesesimp>身份证 [广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_laptop_intel_oldman_f0">
         <Original>Laptop (Open, Intel v3)</Original>
         <Chinese>筆電（開啟，情資 v3）</Chinese>
-        <Chinesesimp>笔记本电脑（打开，情报 v3）</Chinesesimp>
+        <Chinesesimp>笔记本电脑（打开，情报 版本3）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_laptop_intel_02_f0">
         <Original>Laptop (Open, Intel v2)</Original>
         <Chinese>筆電（開啟，情資 v2）</Chinese>
-        <Chinesesimp>笔记本电脑（打开，情报 v2）</Chinesesimp>
+        <Chinesesimp>笔记本电脑（打开，情报 版本2）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_laptop_intel_01_f0">
         <Original>Laptop (Open, Intel v1)</Original>
         <Chinese>筆電（開啟，情資 v1）</Chinese>
-        <Chinesesimp>笔记本电脑（打开，情报 v1）</Chinesesimp>
+        <Chinesesimp>笔记本电脑（打开，情报 版本1）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_key_01_f0">
         <Original>Keys</Original>
@@ -490,12 +490,12 @@
       <Key ID="STR_A3_cfgmods_oldman_name0">
         <Original>Arma 3 Old Man</Original>
         <Chinese>《Arma 3 Old Man》</Chinese>
-        <Chinesesimp>Arma 3 Old Man</Chinesesimp>
+        <Chinesesimp>《武装突袭3：老者》</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgmods_oldman_tooltip0">
         <Original>Arma 3 Old Man DLC is now available.</Original>
         <Chinese>《Arma 3 Old Man》可下載內容現已上线。</Chinese>
-        <Chinesesimp>《Arma 3 Old Man DLC》现已上线。</Chinesesimp>
+        <Chinesesimp>《武装突袭3：老者》DLC 现已上线。</Chinesesimp>
       </Key>
     </Container>
     <Container name="UI_F">
@@ -518,7 +518,7 @@
         <Key ID="str_a3_rscdisplaywelcome_oldman_pare_list6">
           <Original>tell your own stories using small objects, such as a bank card, keys, ID cards, cash, and a flash drive.</Original>
           <Chinese>使用銀行卡、鑰匙、ID 卡、現金或隨身碟等小道具來訴說你自己的故事。</Chinese>
-          <Chinesesimp>使用小物品（例如银行卡、钥匙、ID 卡、现金和闪存盘）讲述您自己的故事。</Chinesesimp>
+          <Chinesesimp>使用小物品（例如银行卡、钥匙、身份证、现金和闪存盘）讲述您自己的故事。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_oldman_pare_list5_title">
           <Original>Medicine</Original>
@@ -538,7 +538,7 @@
         <Key ID="str_a3_rscdisplaywelcome_oldman_pare_list4">
           <Original>come across local Tanoans infected with malaria.</Original>
           <Chinese>遭遇染上瘧疾的塔諾雅人。</Chinese>
-          <Chinesesimp>遇到感染了疟疾的他诺亚当地人。</Chinesesimp>
+          <Chinesesimp>遇到感染了疟疾的塔诺亚当地人。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_oldman_pare_list3_title">
           <Original>Red Beret</Original>
@@ -548,7 +548,7 @@
         <Key ID="str_a3_rscdisplaywelcome_oldman_pare_list3">
           <Original>don special CSAT unit headgear.</Original>
           <Chinese>特殊的 CSAT 單位頭盔。</Chinese>
-          <Chinesesimp>戴上为 CSAT 作战单元特制的头盔。</Chinesesimp>
+          <Chinesesimp>戴上为广协作战单元特制的头盔。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_oldman_pare_list2_title">
           <Original>Static M2</Original>
@@ -563,12 +563,12 @@
         <Key ID="str_a3_rscdisplaywelcome_oldman_pare_list1_title">
           <Original>"Old Man"</Original>
           <Chinese>「老頭」</Chinese>
-          <Chinesesimp>“老头”</Chinesesimp>
+          <Chinesesimp>“老者”</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_oldman_pare_list1">
           <Original>explore Tanoa as a retired combatant in this open world sandbox scenario.</Original>
           <Chinese>化身為一名退休戰士並在這個開放世界沙盒場景中探索塔諾雅。</Chinese>
-          <Chinesesimp>在这个开放世界沙盒场景中，作为一名退役作战人员探索他诺亚。</Chinesesimp>
+          <Chinesesimp>在这个开放世界沙盒场景中，作为一名退役作战人员探索塔诺亚。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_oldman_pare_footer">
           <Original>It's about time to play yourself. Thanks for your continued interest in Arma 3 and enjoy the Old Man experience!</Original>
@@ -673,7 +673,7 @@
         <Key ID="str_a3_rscdisplaywelcome_oldman_pard">
           <Original>The gameplay of Old Man is all about &lt;t color='%1'&gt;freedom&lt;/t&gt;. You are working towards a main objective, but how you get there is up to you and your choices. You may wish to explore Tanoa for hours on end, or rather work steadily towards your goal. You may want to keep a low profile and avoid combat, or go in guns blazing. Multiple &lt;t color='%1'&gt;parallel quests&lt;/t&gt; can be available to you, and you can choose by what means you achieve them within the Arma 3 sandbox. The most straightforward way is not always the best in the long-term. Actions have consequences. Experiment and find your own way. Given the huge size of the world, we did also introduce various convenience mechanics. Let's take a look at those and several other features:</Original>
           <Chinese>《Old Man》的遊戲玩法著重於&lt;t color='%1'&gt;自由度&lt;/t&gt;。你能夠選擇以各種不同的方式來完成主目標。你可以花上數小時來探索塔諾雅，或是專注於完成目標。你可以保持低調並迴避戰鬥，或是選擇橫衝直撞，正面衝擊。你可以執行多項 &lt;t color='%1'&gt;平行任務&lt;/t&gt; ，並選擇各種方式在《Arma 3》的沙盒中完成這些任務。最直接的手段不一定會提供最佳的長遠效果。你的每一個行為都會帶來相應的後果。請用心嘗試並找到適合你的方式，盡情體驗遊戲。由於這個世界非常龐大，我們還推出了許多方便性機制。讓我們來看看這些機制和多個其他特性：</Chinese>
-          <Chinesesimp>《Old Man》游戏最重要的特点是&lt;t color='%1'&gt;自由&lt;/t&gt;。 您将努力完成一个主要目标， 但如何实现该目标取决于您自己和您的选择。 您也许希望连续花费几个小时探索他诺亚， 或者稳扎稳打， 专注你的目标。 您也许会希望保持低调，避开战斗， 也可能希望在枪林弹雨中直面冲突， 奋勇闯关。 您可以在《Arma 3》沙盒中同时执行多项&lt;t color='%1'&gt;平行任务&lt;/t&gt;， 还可选择以什么方法完成这些任务。 从长远来看， 最直接的方法并不一定获得最好的结果。 行动都会产生后果。 请用心尝试并找到适合自己的方法。 考虑到这个世界宏大规模， 我们也引入了各种便利机制。 让我们来了解这些机制和其他一些特性：</Chinesesimp>
+          <Chinesesimp>《Old Man》游戏最重要的特点是&lt;t color='%1'&gt;自由&lt;/t&gt;。 您将努力完成一个主要目标， 但如何实现该目标取决于您自己和您的选择。 您也许希望连续花费几个小时探索塔诺亚， 或者稳扎稳打， 专注你的目标。 您也许会希望保持低调，避开战斗， 也可能希望在枪林弹雨中直面冲突， 奋勇闯关。 您可以在《Arma 3》沙盒中同时执行多项&lt;t color='%1'&gt;平行任务&lt;/t&gt;， 还可选择以什么方法完成这些任务。 从长远来看， 最直接的方法并不一定获得最好的结果。 行动都会产生后果。 请用心尝试并找到适合自己的方法。 考虑到这个世界宏大规模， 我们也引入了各种便利机制。 让我们来了解这些机制和其他一些特性：</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_oldman_parc_title">
           <Original>BONUS_</Original>
@@ -688,7 +688,7 @@
         <Key ID="str_a3_rscdisplaywelcome_oldman_parc">
           <Original>The "Old Man" scenario is a &lt;t color='%1'&gt;free bonus addition&lt;/t&gt; for all players who own the Arma 3 Apex expansion (due to it being set on Tanoa). It takes place in the shared &lt;t color='%1'&gt;Armaverse&lt;/t&gt; setting of the other vanilla campaigns, such as "The East Wind" and "Apex Protocol". You assume the role of a retired Legionnaire who lives on Tanoa. When a mysterious super-strain of malaria triggers a new humanitarian crisis on the islands, and local authorities fail to resolve the situation, you are given intel about a possible plot behind it all. Together with a former military contact, you set out to uncover the truth. As you travel across the vast Pacific paradise – by land, sea, and even air – you will find secret locations, shelters, and form relationships with people aligned with a range of factions. How you get to the bottom of the situation is entirely up to you!</Original>
           <Chinese>《Old Man》場景是一份&lt;t color='%1'&gt;免費額外內容&lt;/t&gt;（因為其背景設定於塔諾雅），面向所有擁有《Arma 3 Apex》拓展程式的玩家。 此故事也存在於《The East Wind》與《Apex Protocol》等主遊戲戰役的 &lt;t color='%1'&gt;Armaverse&lt;/t&gt; 世界中。你將扮演一名住在塔諾雅的退役軍團士兵。當神秘的超級品系瘧疾讓小島陷入人道危機，當地政府無力化解此危機，你將獲得一份情報，以幫助你揭開這個陰謀。你將和一名前軍方聯絡人一起合作找出真相。在橫跨這片廣闊的太平洋旅遊勝地時，無論你是在陸地上、海上還是空中，你都能夠找到秘密地點、住所，並和各個勢力的人建立關係。你將能夠完全透過自己的方式查出真相！</Chinese>
-          <Chinesesimp>“ Old Man”场景是面向拥有 Arma 3 Apex 扩展的所有玩家（因为它以他诺亚为背景）提供的&lt;t color='%1'&gt;免费奖励内容&lt;/t&gt;。这款游戏与其他主题战役拥有共同的 &lt;t color='%1'&gt;Armaverse&lt;/t&gt; 背景环境，如《东风》和《Apex Protocol》。您将扮演一位住在他诺亚的退役军团士兵。一种神秘的超级疟疾毒株在群岛引发了一场新的人道主义危机，而当地政府束手无策；你得到情报，获知这一切背后可能存在着一场阴谋。您与一位前军事联络人一起，着手揭露真相。在进入这个广袤的太平洋旅游天堂后，无论从陆地、海洋、甚至空中，您都可发现各种秘密的地点和掩体，并与不同阵营的人建立关系。如何发掘事情的真相，将完全取决于你自己！</Chinesesimp>
+          <Chinesesimp>“ Old Man”场景是面向拥有 Arma 3 Apex 扩展的所有玩家（因为它以塔诺亚为背景）提供的&lt;t color='%1'&gt;免费奖励内容&lt;/t&gt;。这款游戏与其他主题战役拥有共同的 &lt;t color='%1'&gt;Armaverse&lt;/t&gt; 背景环境，如《东风》和《Apex Protocol》。您将扮演一位住在塔诺亚的退役军团士兵。一种神秘的超级疟疾毒株在群岛引发了一场新的人道主义危机，而当地政府束手无策；你得到情报，获知这一切背后可能存在着一场阴谋。您与一位前军事联络人一起，着手揭露真相。在进入这个广袤的太平洋旅游天堂后，无论从陆地、海洋、甚至空中，您都可发现各种秘密的地点和掩体，并与不同阵营的人建立关系。如何发掘事情的真相，将完全取决于你自己！</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_oldman_parb_title">
           <Original>INCUBATOR</Original>
@@ -698,7 +698,7 @@
         <Key ID="str_a3_rscdisplaywelcome_oldman_parb_footer">
           <Original>More on the Arma 3 Dev Hub</Original>
           <Chinese>詳情請見《Arma 3》Dev Hub</Chinese>
-          <Chinesesimp>关于 Arma 3 Dev Hub 的详情</Chinesesimp>
+          <Chinesesimp>详见武装突袭3 Dev Hub</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_oldman_parb">
           <Original>Old Man for us has been an &lt;t color='%1'&gt;experiment in open world gameplay&lt;/t&gt; design. Developed by a small and passionate team, faced by significant technical challenges, it might have its rough edges. At the same time it should provide hours of fun gameplay with lots of freedom to explore a beautiful terrain. There are systems to handle parallel quests, to populate chunks of the world, and much more. Many of you have provided us with useful feedback during the scenario's beta test on &lt;a href='%3' color='%2'&gt;Steam Workshop&lt;/a&gt;, which was introduced under the &lt;a href='%4' color='%2'&gt;Bohemia Incubator&lt;/a&gt; label. Thanks! Besides taking these experiences to our future projects, we hope to reflect on our lessons learned in a future blog, so stay tuned for that.</Original>
@@ -708,7 +708,7 @@
         <Key ID="str_a3_rscdisplaywelcome_oldman_para">
           <Original>Get ready to once more explore the Tanoan archipelago and its 'green hell' of tropical jungles. &lt;t color='%1'&gt;Arma 3 Apex: Old Man&lt;/t&gt; is an open world singleplayer scenario now available to all players who have their &lt;a href='%3' color='%2'&gt;boarding pass&lt;/a&gt; for Tanoa handy (main menu &gt; PLAY &gt; SCENARIOS &gt; Old Man). The update also delivers various fun platform goodies, so keep on reading for the details, or jump in and experience what's new for yourself. Safe travels!</Original>
           <Chinese>準備好再次探索塔諾雅群島與其猶如「翠綠地獄」的熱帶叢林。&lt;t color='%1'&gt;《Arma 3 Apex：Old Man》&lt;/t&gt;是一個開放世界單人場景，所有擁有塔諾雅&lt;a href='%3' color='%2'&gt;機票&lt;/a&gt;的玩家將能夠立即暢玩（主選單 &gt; 遊戲 &gt; 場景 &gt; Old Man）。本次更新還推出了各種好玩的平台福利；請繼續閱讀，以獲得完整資訊，或立即進入遊戲親自體驗！祝大家一路平安！</Chinese>
-          <Chinesesimp>准备好再次探索他诺亚群岛及其号称“绿色地狱”的热带丛林。&lt;t color='%1'&gt;Arma 3 Apex: Old Man&lt;/t&gt;  是一个开放世界单人游戏场景， 现已向持有他诺亚 &lt;a href='%3' color='%2'&gt; 登机牌&lt;/a&gt;的所有玩家开放（主菜单  &gt;  开始游戏  &gt;  场景  &gt;  Old Man）。 该更新还提供了充满趣味的平台福利；所以，请继续阅读详情，或者马上加入游戏，亲身体验最新内容。 祝大家一路平安！</Chinesesimp>
+          <Chinesesimp>准备好再次探索塔诺亚群岛及其号称“绿色地狱”的热带丛林。&lt;t color='%1'&gt;Arma 3 Apex: Old Man&lt;/t&gt;是一个开放世界单人游戏场景，现已向持有塔诺亚&lt;a href='%3' color='%2'&gt;登机牌&lt;/a&gt;的所有玩家开放（主菜单  &gt;  开始游戏  &gt;  单人任务  &gt;  Old Man）。 该更新还提供了充满趣味的平台改进；所以，请继续阅读详情，或者马上加入游戏，亲身体验最新内容。一路平安！</Chinesesimp>
         </Key>
       </Container>
       <Container name="Loading_tips">
@@ -730,7 +730,7 @@
         <Key ID="STR_A3_OM_Screen01_description">
           <Original>&lt;t size='1'&gt;Tanoa has plenty of hostels and hotels. These places can be used for:&lt;br /&gt;&lt;br /&gt;&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;REST&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;Any injuries you've received will heal after a few hours of sleep.&lt;br /&gt;&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;SKIPPING TIME&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;You can shift time by up to 12 hours.&lt;/t&gt;&lt;t size='1.0'&gt;&lt;br /&gt;&lt;br /&gt;All accommodation costs money.&lt;/t&gt;</Original>
           <Chinese>&lt;t size='1'&gt;塔諾雅有許多旅社和旅館，你能夠使用這些地方來：&lt;br /&gt;&lt;br /&gt;&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;休息&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;睡上幾個小時，恢復你受到的任何傷痛。&lt;br /&gt;&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;快轉時間&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;你可以快轉最多 12 個小時的時間。&lt;/t&gt;&lt;t size='1.0'&gt;&lt;br /&gt;&lt;br /&gt;所有住宿都會收取金錢。&lt;/t&gt;</Chinese>
-          <Chinesesimp>&lt;t size='1'&gt;他诺亚有众多旅馆和酒店。这些地方可用来：&lt;br /&gt;&lt;br /&gt;&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;休息&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;在受伤后睡上几个小时，你就会痊愈。&lt;br /&gt;&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;跳过时间&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;你可以跳过时间，最大幅度为 12 小时。&lt;/t&gt;&lt;t size='1.0'&gt;&lt;br /&gt;&lt;br /&gt;所有住宿的地方都会收费。&lt;/t&gt;</Chinesesimp>
+          <Chinesesimp>&lt;t size='1'&gt;塔诺亚有众多旅馆和酒店。这些地方可用来：&lt;br /&gt;&lt;br /&gt;&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;休息&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;在受伤后睡上几个小时，你就会痊愈。&lt;br /&gt;&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;跳过时间&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;你可以跳过时间，最大幅度为 12 小时。&lt;/t&gt;&lt;t size='1.0'&gt;&lt;br /&gt;&lt;br /&gt;所有住宿的地方都会收费。&lt;/t&gt;</Chinesesimp>
         </Key>
         <Key ID="STR_A3_OM_Screen03_title">
           <Original>WEAPON STASHES</Original>
@@ -740,7 +740,7 @@
         <Key ID="STR_A3_OM_Screen02_description">
           <Original>&lt;t size='1'&gt;Some hostels and hotels have connections with Tanoa's insurgents and are run by individuals sympathetic to their cause. Such places are only available if your reputation with L'Ensemble is good. They can be used for:&lt;br /&gt;&lt;br /&gt;&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;REST&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;Any injuries you've received will heal after a few hours of sleep.&lt;br /&gt;&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;SKIPPING TIME&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;You can shift time by up to 12 hours.&lt;/t&gt;&lt;t size='1.0'&gt;&lt;br /&gt;&lt;br /&gt;All accommodation costs money. However, the rates of establishments run by L'Ensemble will vary, depending on your relation with them.&lt;/t&gt;</Original>
           <Chinese>&lt;t size='1'&gt;有些旅社和旅館與塔諾雅的反抗軍有關係，而營運它們的人也會支援反抗軍。你必須和 L'Ensemble 擁有良好的關係才能使用這些地方。你能夠使用這些地方來：&lt;br /&gt;&lt;br /&gt;&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;休息&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;睡上幾個小時，恢復你受到的任何傷痛。&lt;br /&gt;&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;快轉時間&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;你可以快轉最多 12 個小時的時間。&lt;/t&gt;&lt;t size='1.0'&gt;&lt;br /&gt;&lt;br /&gt;所有住宿都會收取金錢。然而，L'Ensemble 營運的住宿場所收費各異，具體取決於你們之間的關係如何。&lt;/t&gt;</Chinese>
-          <Chinesesimp>&lt;t size='1'&gt;有些旅馆和酒店与他诺亚叛军有瓜葛，经营者都是支持其事业的人士。只有当你在大帮会中的名声良好时，这些地方才会向你提供住宿。它们可用来&lt;br /&gt;&lt;br /&gt;&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;休息&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;在受伤后睡上几个小时，你就会痊愈。&lt;br /&gt;&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;跳过时间&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;你可以改变时间，最大幅度为 12 小时。&lt;/t&gt;&lt;t size='1.0'&gt;&lt;br /&gt;&lt;br /&gt;所有住宿的地方都会收费。不过，由大帮会经营的商家收费不等，具体取决于你与他们的关系。&lt;/t&gt;</Chinesesimp>
+          <Chinesesimp>&lt;t size='1'&gt;有些旅馆和酒店与塔诺亚叛军有瓜葛，经营者都是支持其事业的人士。只有当你在大帮会中的名声良好时，这些地方才会向你提供住宿。它们可用来&lt;br /&gt;&lt;br /&gt;&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;休息&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;在受伤后睡上几个小时，你就会痊愈。&lt;br /&gt;&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;跳过时间&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;你可以改变时间，最大幅度为 12 小时。&lt;/t&gt;&lt;t size='1.0'&gt;&lt;br /&gt;&lt;br /&gt;所有住宿的地方都会收费。不过，由大帮会经营的商家收费不等，具体取决于你与他们的关系。&lt;/t&gt;</Chinesesimp>
         </Key>
         <Key ID="STR_A3_OM_Screen04_title">
           <Original>GUERRILLA TEAMS</Original>
@@ -753,7 +753,7 @@ The sale price depends on your reputation with L'Ensemble.&lt;br /&gt;&lt;/t&gt;
 By supporting 'La Revolution', &lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;insurgents can be leveled up. &lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;You can check their rating from the menu on your phone.&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;</Original>
           <Chinese>&lt;t size='1'&gt;塔諾雅有許多反抗軍的武器存放點。這些特定地點將會有特殊的齒輪符號。如果你選擇在這些地方存放武器或裝備，你將能夠獲得額外的&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;金錢&lt;/t&gt;&lt;t size='1.0'&gt;。&lt;br /&gt; 
 出售價格將取決於你在 L'Ensemble 中的聲望。&lt;br /&gt;&lt;/t&gt;&lt;t size='1.0'&gt;&lt;br /&gt;你能夠透過支持「革命」來&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;升級反抗軍。&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;你可以在手機中的選單查看他們的評級。&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;</Chinese>
-          <Chinesesimp>&lt;t size='1'&gt;他诺亚有许多属于叛军的武器存放点。这些地方都有个带齿轮的标志。如果你决定在这些地方存放武器或装备，就能挣些&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;外快&lt;/t&gt;&lt;t size='1.0'&gt;。&lt;br /&gt; 
+          <Chinesesimp>&lt;t size='1'&gt;塔诺亚有许多属于叛军的武器存放点。这些地方都有个齿轮标志。如果你决定在这些地方存放武器或装备，就能挣些&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;外快&lt;/t&gt;&lt;t size='1.0'&gt;。&lt;br /&gt; 
 货物售价取决于你在大帮会中的名声。&lt;br /&gt;&lt;/t&gt;&lt;t size='1.0'&gt;&lt;br /&gt; 
 支持“革命”，&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;叛军就能升级。&lt;/t&gt;&lt;br /&gt;&lt;t size='1.0'&gt;你可以在手机菜单中查看叛军的评级。&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;</Chinesesimp>
         </Key>
@@ -770,11 +770,11 @@ By supporting 'La Revolution', &lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;ins
 • 如果你的聲望非常高，你能夠使用手機指派任務。&lt;/t&gt;&lt;br /&gt; 
 &lt;t size='1.0'&gt;你可以在手機上的選單中查看你能使用哪些選項。&lt;/t&gt;&lt;br /&gt;&lt;br /&gt; 
 &lt;img size = 5 align='center' image='\a3\Missions_F_Oldman\Data\img\PhoneCore\phone_menu_syndikatinfo.paa'/&gt;&lt;img size = 5 align='center' image='\a3\Missions_F_Oldman\Data\img\PhoneCore\phone_menu_call.paa'/&gt;</Chinese>
-          <Chinesesimp>&lt;t size='1'&gt;他诺亚风起云涌的叛乱是一场自发运动，由大帮会领导，但结构比较松散。不过你可以参与其中，向&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;小股游击队&lt;/t&gt;&lt;t size='1.0'&gt;分配任务。游击队的规模和服从程度取决于你的名声。&lt;br /&gt;&lt;/t&gt; 
+          <Chinesesimp>&lt;t size='1'&gt;塔诺亚的暴力叛乱是一场自发运动，由大帮会领导，但结构比较松散。不过你可以参与其中，向&lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;小股游击队&lt;/t&gt;&lt;t size='1.0'&gt;分配任务。游击队的规模和服从程度取决于你的名声。&lt;br /&gt;&lt;/t&gt; 
 • &lt;t size='1.0'&gt;如果你的名声太差，就不能派遣这些人去完成任务。&lt;br /&gt; 
 • 反之，如果你的名声良好，就能在任何一处叛军营地招募到叛乱分子。&lt;br /&gt; 
 • 如果你的名声非常好，就能用手机分配任务。&lt;/t&gt;&lt;br /&gt; 
-&lt;t size='1.0'&gt;你可以在手机菜单中查看有哪些选择可供使用。&lt;/t&gt;&lt;br /&gt;&lt;br /&gt; 
+&lt;t size='1.0'&gt;你可以在手机菜单中查看你有哪些选择。&lt;/t&gt;&lt;br /&gt;&lt;br /&gt; 
 &lt;img size = 5 align='center' image='\a3\Missions_F_Oldman\Data\img\PhoneCore\phone_menu_syndikatinfo.paa'/&gt;&lt;img size = 5 align='center' image='\a3\Missions_F_Oldman\Data\img\PhoneCore\phone_menu_call.paa'/&gt;</Chinesesimp>
         </Key>
       </Container>
@@ -790,47 +790,47 @@ By supporting 'La Revolution', &lt;/t&gt;&lt;t color='#afb491' size='1.0'&gt;ins
       <Key ID="STR_A3_AchOmDomeFree_Title">
         <Original>Dome Free</Original>
         <Chinese>勢不可擋</Chinese>
-        <Chinesesimp>一往无前</Chinesesimp>
+        <Chinesesimp>无穹顶</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AchOmBiggerPicture_Description">
         <Original>Completed the Old Man scenario, giving the counteragent to Keystone.</Original>
         <Chinese>完成了「老頭」場景，將解藥交給 Keystone。</Chinese>
-        <Chinesesimp>已完成“老头”场景，把解药交给了 Keystone。</Chinesesimp>
+        <Chinesesimp>已完成“老者”场景，把解药交给了“基石”。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AchOmDomeFree_Description">
         <Original>Destroyed CSAT's biogenetic weapons laboratory in the Old Man scenario.</Original>
         <Chinese>在「老頭」場景中摧毀了 CSAT 的生物基因武器實驗室。</Chinese>
-        <Chinesesimp>在“老头”场景中摧毁了 CSAT 的生物基因武器实验室。</Chinesesimp>
+        <Chinesesimp>在“老者”场景中摧毁了广协的生物基因武器实验室。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AchOmBiggerPicture_Title">
         <Original>Status Quo</Original>
         <Chinese>維持現狀</Chinese>
-        <Chinesesimp>现状</Chinesesimp>
+        <Chinesesimp>维持现状</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AchOmDevilsDue_Title">
         <Original>Devil's Due</Original>
         <Chinese>盜亦有道</Chinese>
-        <Chinesesimp>恶灵孽债</Chinesesimp>
+        <Chinesesimp>盗亦有道</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AchOmDevilsDue_Description">
         <Original>Completed the Old Man scenario, giving the counteragent to the insurgents.</Original>
         <Chinese>完成了「老頭」，將解藥交給反抗軍。</Chinese>
-        <Chinesesimp>已完成“老头”场景，把解药交给了叛乱分子。</Chinesesimp>
+        <Chinesesimp>已完成“老者”场景，把解药交给了叛乱分子。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AchOmManOfPeople_Title">
         <Original>Man of the People</Original>
         <Chinese>人民之子</Chinese>
-        <Chinesesimp>人民之子</Chinesesimp>
+        <Chinesesimp>人民的名义</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AchOmKillMiller_Description">
         <Original>Killed Keystone in the Old Man scenario.</Original>
         <Chinese>在「老頭」場景中擊殺 Keystone。</Chinese>
-        <Chinesesimp>在“老头”场景中干掉了 Keystone。</Chinesesimp>
+        <Chinesesimp>在“老者”场景中杀死了“基石”。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AchOmManOfPeople_Description">
         <Original>Completed the Old Man scenario, giving the counteragent to Dr. Drábek.</Original>
         <Chinese>完成了「老頭」場景，將解藥交給德拉貝克醫生。</Chinese>
-        <Chinesesimp>已完成“老头”场景，把解药交给了 Drábek 医生。</Chinesesimp>
+        <Chinesesimp>已完成“老者”场景，把解药交给了德拉贝克医生。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AchOmKillMiller_Title">
         <Original>Respectfully, Sir</Original>

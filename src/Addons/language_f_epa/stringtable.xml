@@ -442,7 +442,7 @@
         <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_deserteddistance_1">
           <Original>When the vehicle is abandoned, force respawn after no player is in the given distance [m]. Ignored when the field is left blank.</Original>
           <Chinese>當載具距離最近的玩家多少公尺外之後，載具將會自動重生。該參數為空的話則會忽略此功能。</Chinese>
-          <Chinesesimp>在载具被抛弃后，当一定距离[米]内无玩家后将强制重生。该参数为空的话则会忽略此功能。</Chinesesimp>
+          <Chinesesimp>在载具被抛弃后，当一定距离 [米]内无玩家后将强制重生。该参数为空的话则会忽略此功能。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_deserteddistance_0">
           <Original>Deserted Distance</Original>
@@ -506,7 +506,7 @@
       <Key ID="str_a3_cfgvehicles_c_supplycrate_f0">
         <Original>Supply Box [CTRG]</Original>
         <Chinese>補給箱[戰研大隊]</Chinese>
-        <Chinesesimp>补给箱[战研大队]</Chinesesimp>
+        <Chinesesimp>补给箱 [战研大队]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_6rnd_45acp_cylinder1">
         <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 6&lt;br /&gt;Used in: Zubr</Original>

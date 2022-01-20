@@ -346,12 +346,12 @@
           <Key ID="str_a3_cfgvehicles_land_i_addon_02_b_white_f0">
             <Original>House Addon (v2)</Original>
             <Chinese>房屋組件(2型)</Chinese>
-            <Chinesesimp>房屋组件（2型）</Chinesesimp>
+            <Chinesesimp>房屋组件（版本2）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_addon_02_b_white_ruins_f0">
             <Original>House Addon (v2, Ruin)</Original>
             <Chinese>房屋組件(2型，廢墟)</Chinese>
-            <Chinesesimp>房屋组件（2型，废墟）</Chinesesimp>
+            <Chinesesimp>房屋组件（版本2，废墟）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Garbage">
@@ -526,141 +526,141 @@
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_c_yellow_f0">
             <Original>House (Small, v3, Yellow &amp; White)</Original>
             <Chinese>屋子(小型，3型，黃色&amp;白色)</Chinese>
-            <Chinesesimp>屋子（小型，3型，黄色&amp;白色）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本3，黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_c_white_f0">
             <Original>House (Small, v3, White &amp; Brown)</Original>
             <Chinese>屋子(小型，3型，白色&amp;棕色)</Chinese>
-            <Chinesesimp>屋子（小型，3型，白色&amp;棕色）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本3，白色&amp;棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_c_whiteblue_f0">
             <Original>House (Small, v3, White &amp; Blue)</Original>
             <Chinese>屋子(小型，3型，白色&amp;藍色)</Chinese>
-            <Chinesesimp>屋子（小型，3型，白色&amp;蓝色）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本3，白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_c_pink_f0">
             <Original>House (Small, v3, Pink)</Original>
             <Chinese>屋子(小型，3型，粉紅色)</Chinese>
-            <Chinesesimp>屋子（小型，3型，粉红色）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本3，粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_c_brown_f0">
             <Original>House (Small, v3, Yellow &amp; Brown)</Original>
             <Chinese>屋子(小型，3型，黃色&amp;棕色)</Chinese>
-            <Chinesesimp>屋子（小型，3型，黄色&amp;棕色）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本3，黄色&amp;棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_c_blue_f0">
             <Original>House (Small, v3, Blue)</Original>
             <Chinese>屋子(小型，3型，藍色)</Chinese>
-            <Chinesesimp>屋子（小型，3型，蓝色）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本3，蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_b_yellow_f0">
             <Original>House (Small, v2, Yellow &amp; White)</Original>
             <Chinese>屋子(小型，2型，黃色&amp;白色)</Chinese>
-            <Chinesesimp>屋子（小型，2型，黄色&amp;白色）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本2，黄色&amp;白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_b_white_f0">
             <Original>House (Small, v2, White &amp; Brown)</Original>
             <Chinese>屋子(小型，2型，白色&amp;棕色)</Chinese>
-            <Chinesesimp>屋子（小型，2型，白色&amp;棕色）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本2，白色&amp;棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_b_whiteblue_f0">
             <Original>House (Small, v2, White &amp; Blue)</Original>
             <Chinese>屋子(小型，2型，白色&amp;藍色)</Chinese>
-            <Chinesesimp>屋子（小型，2型，白色&amp;蓝色）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本2，白色&amp;蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_b_pink_f0">
             <Original>House (Small, v2, Pink)</Original>
             <Chinese>屋子(小型，2型，粉紅色)</Chinese>
-            <Chinesesimp>屋子（小型，2型，粉红色）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本2，粉红色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_b_brown_f0">
             <Original>House (Small, v2, Yellow &amp; Brown)</Original>
             <Chinese>屋子(小型，2型，黃色&amp;棕色)</Chinese>
-            <Chinesesimp>屋子（小型，2型，黄色&amp;棕色）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本2，黄色&amp;棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_house_small_02_b_blue_f0">
             <Original>House (Small, v2, Blue)</Original>
             <Chinese>屋子(小型，2型，藍色)</Chinese>
-            <Chinesesimp>屋子（小型，2型，蓝色）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本2，蓝色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_small_02_b_yellow_ruins_f0">
             <Original>House (Small, v2, Yellow &amp; White, Ruin)</Original>
             <Chinese>屋子(小型，2型，黃色&amp;白色，廢墟)</Chinese>
-            <Chinesesimp>屋子（小型，2型，黄色&amp;白色，废墟）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本2，黄色&amp;白色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_small_02_b_v1_ruins_f0">
             <Original>House (Small, v2, White, Ruin)</Original>
             <Chinese>屋子(小型，2型，白色，廢墟)</Chinese>
-            <Chinesesimp>屋子（小型，2型，白色，废墟）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本2，白色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_small_02_b_pink_ruins_f0">
             <Original>House (Small, v2, Pink, Ruin)</Original>
             <Chinese>屋子(小型，2型，粉紅色，廢墟)</Chinese>
-            <Chinesesimp>屋子（小型，2型，粉红色，废墟）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本2，粉红色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_small_02_b_brown_ruins_f0">
             <Original>House (Small, v2, Yellow &amp; Brown, Ruin)</Original>
             <Chinese>屋子(小型，2型，黃色&amp;棕色，廢墟)</Chinese>
-            <Chinesesimp>屋子（小型，2型，黄色&amp;棕色，废墟）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本2，黄色&amp;棕色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_house_small_02_b_blue_ruins_f0">
             <Original>House (Small, v2, Blue, Ruin)</Original>
             <Chinese>屋子(小型，2型，藍色，廢墟)</Chinese>
-            <Chinesesimp>屋子（小型，2型，蓝色，废墟）</Chinesesimp>
+            <Chinesesimp>屋子（小型，版本2，蓝色，废墟）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Stone_House_Big_01">
           <Key ID="str_a3_cfgvehicles_land_i_stone_house_big_01_b_clay_f0">
             <Original>Stone House (Big, v2, Brown)</Original>
             <Chinese>石造房屋(大型，2型，棕色)</Chinese>
-            <Chinesesimp>石造房屋（大型，2型，棕色）</Chinesesimp>
+            <Chinesesimp>石造房屋（大型，版本2，棕色）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Stone_Shed_01">
           <Key ID="str_a3_cfgvehicles_land_stone_shed_01_b_white_ruins_f0">
             <Original>Stone House (Small, v2, White, Ruin)</Original>
             <Chinese>石造房屋(小型，2型，白色，廢墟)</Chinese>
-            <Chinesesimp>石造房屋（小型，2型，白色，废墟）</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，版本2，白色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_stone_shed_01_b_raw_ruins_f0">
             <Original>Stone House (Small, v2, Grey, Ruin)</Original>
             <Chinese>石造房屋(小型，2型，灰色，廢墟)</Chinese>
-            <Chinesesimp>石造房屋（小型，2型，灰色，废墟）</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，版本2，灰色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_stone_shed_01_b_clay_ruins_f0">
             <Original>Stone House (Small, v2, Brown, Ruin)</Original>
             <Chinese>石造房屋(小型，2型，棕色，廢墟)</Chinese>
-            <Chinesesimp>石造房屋（小型，2型，棕色，废墟）</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，版本2，棕色，废墟）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_stone_shed_01_c_white_f0">
             <Original>Stone House (Small, v3, White)</Original>
             <Chinese>石造房屋(小型，3型，白色)</Chinese>
-            <Chinesesimp>石造房屋（小型，3型，白色）</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，版本3，白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_stone_shed_01_c_raw_f0">
             <Original>Stone House (Small, v3, Grey)</Original>
             <Chinese>石造房屋(小型，3型，灰色)</Chinese>
-            <Chinesesimp>石造房屋（小型，3型，灰色）</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，版本3，灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_stone_shed_01_c_clay_f0">
             <Original>Stone House (Small, v3, Brown)</Original>
             <Chinese>石造房屋(小型，3型，棕色)</Chinese>
-            <Chinesesimp>石造房屋（小型，3型，棕色）</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，版本3，棕色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_stone_shed_01_b_white_f0">
             <Original>Stone House (Small, v2, White)</Original>
             <Chinese>石造房屋(小型，2型，白色)</Chinese>
-            <Chinesesimp>石造房屋（小型，2型，白色）</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，版本2，白色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_stone_shed_01_b_raw_f0">
             <Original>Stone House (Small, v2, Grey)</Original>
             <Chinese>石造房屋(小型，2型，灰色)</Chinese>
-            <Chinesesimp>石造房屋（小型，2型，灰色）</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，版本2，灰色）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_i_stone_shed_01_b_clay_f0">
             <Original>Stone House (Small, v2, Brown)</Original>
             <Chinese>石造房屋(小型，2型，棕色)</Chinese>
-            <Chinesesimp>石造房屋（小型，2型，棕色）</Chinesesimp>
+            <Chinesesimp>石造房屋（小型，版本2，棕色）</Chinesesimp>
           </Key>
         </Container>
       </Container>

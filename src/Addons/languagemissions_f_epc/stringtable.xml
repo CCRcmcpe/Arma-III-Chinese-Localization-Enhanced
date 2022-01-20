@@ -3530,7 +3530,7 @@
           <Key ID="str_a3_c_out2_bis_ctrg_desc">
             <Original>Lieutenant James is in trouble. His last known location is at &lt;marker name = 'BIS_CTRG'&gt;210-189&lt;/marker&gt;.</Original>
             <Chinese>上尉詹姆斯有麻煩了。他最後的已知位置座標在&lt;markername='BIS_CTRG'&gt;210-189&lt;/marker&gt;。</Chinese>
-            <Chinesesimp>詹姆斯上尉情况不妙。他最后的已知位置座标在&lt;markername='BIS_CTRG'&gt;210-189&lt;/marker&gt;。</Chinesesimp>
+            <Chinesesimp>詹姆斯上尉情况不妙。他最后的已知位置座标在&lt;markername='BIS_战研大队'&gt;210-189&lt;/marker&gt;。</Chinesesimp>
           </Key>
         </Container>
         <Container name="C_EA">

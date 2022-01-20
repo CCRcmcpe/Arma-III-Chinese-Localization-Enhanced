@@ -592,7 +592,7 @@
       <Key ID="str_a3_rscmsgboxkeyspresetcustominfopanel_text">
         <Original>The Left and Right panels are used to display modules such as GPS, sensor display or mine detector, depending on the vehicle or items. They are unmapped from your current control preset. In order to ensure the best experience, it is recommended to have at least [%1] and [%2] mapped, in the control category %3.</Original>
         <Chinese>左右介面可顯示GPS、偵測器螢幕或地雷偵測器等模組，依據當時的載具或持有物品而異。當前操控方式中並未綁定這些按鍵。為達到最佳遊戲效果，建議您至少於控制選項中綁定[%1]與[%2]鍵%3。</Chinese>
-        <Chinesesimp>左右面板用于显示 GPS、传感器显示或地雷探测器等模块，具体取决于载具或物品。它们与当前的控件预设无映射关系。为了确保最佳体验，建议在控件类别%3中至少对[%1]和[%2]进行映射。</Chinesesimp>
+        <Chinesesimp>左右面板用于显示 GPS、传感器显示或地雷探测器等模块，具体取决于载具或物品。它们与当前的控件预设无映射关系。为了确保最佳体验，建议在控件类别%3中至少对 [%1]和[%2]进行映射。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Weapons_F">
@@ -719,7 +719,7 @@
       <Key ID="str_a3_item_c_uavterminal0">
         <Original>UAV Terminal [Civilians]</Original>
         <Chinese>無人機終端[民用]</Chinese>
-        <Chinesesimp>无人机终端[民用]</Chinesesimp>
+        <Chinesesimp>无人机终端 [民用]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_bomb_leaflets0">
         <Original>Leaflets Dispenser</Original>
@@ -810,7 +810,7 @@
         <Key ID="str_a3_cfgweapons_c_uavterminal0">
           <Original>UAV Terminal [Civilians]</Original>
           <Chinese>無人機終端[民用]</Chinese>
-          <Chinesesimp>无人机终端[民用]</Chinesesimp>
+          <Chinesesimp>无人机终端 [民用]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_uav_01_backpack_f20">
           <Original>UAV Bag (AR-2) [NATO]</Original>
@@ -1007,17 +1007,17 @@
         <Key ID="str_a3_cfgvehicles_bombcluster_01_uxo_f0">
           <Original>UXO [NATO]</Original>
           <Chinese>未爆彈(北約)</Chinese>
-          <Chinesesimp>未爆弹[北约]</Chinesesimp>
+          <Chinesesimp>未爆弹 [北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_02_uxo_f0">
           <Original>UXO [CSAT]</Original>
           <Chinese>未爆彈(廣協同盟)</Chinese>
-          <Chinesesimp>未爆弹[广协]</Chinesesimp>
+          <Chinesesimp>未爆弹 [广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_03_uxo_f0">
           <Original>UXO [AAF]</Original>
           <Chinese>未爆彈(阿爾蒂斯武裝力量)</Chinese>
-          <Chinesesimp>未爆弹[AAF]</Chinesesimp>
+          <Chinesesimp>未爆弹 [AAF]</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -1608,7 +1608,7 @@
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_3x3_v2_f0">
             <Original>Medical Garbage (3x3, v2)</Original>
             <Chinese>醫療垃圾(3x3，2型)</Chinese>
-            <Chinesesimp>医疗垃圾（3x3，2型）</Chinesesimp>
+            <Chinesesimp>医疗垃圾（3x3，版本2）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodsplatter_01_medium_new_f0">
             <Original>Blood Splatter (Medium, New)</Original>
@@ -1618,7 +1618,7 @@
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_3x3_v1_f0">
             <Original>Medical Garbage (3x3, v1)</Original>
             <Chinese>醫療垃圾(3x3，1型)</Chinese>
-            <Chinesesimp>医疗垃圾（3x3，1型）</Chinesesimp>
+            <Chinesesimp>医疗垃圾（3x3，版本1）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodsplatter_01_medium_old_f0">
             <Original>Blood Splatter (Medium, Old)</Original>
@@ -1628,7 +1628,7 @@
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_1x1_v3_f0">
             <Original>Medical Garbage (1x1, v3)</Original>
             <Chinese>醫療垃圾(1x1，3型)</Chinese>
-            <Chinesesimp>医疗垃圾（1x1，3型）</Chinesesimp>
+            <Chinesesimp>医疗垃圾（1x1，版本3）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodsplatter_01_small_new_f0">
             <Original>Blood Splatter (Small, New)</Original>
@@ -1638,7 +1638,7 @@
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_1x1_v2_f0">
             <Original>Medical Garbage (1x1, v2)</Original>
             <Chinese>醫療垃圾(1x1，2型)</Chinese>
-            <Chinesesimp>医疗垃圾（1x1，2型）</Chinesesimp>
+            <Chinesesimp>医疗垃圾（1x1，版本2）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodsplatter_01_small_old_f0">
             <Original>Blood Splatter (Small, Old)</Original>
@@ -1648,7 +1648,7 @@
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_1x1_v1_f0">
             <Original>Medical Garbage (1x1, v1)</Original>
             <Chinese>醫療垃圾(1x1，1型)</Chinese>
-            <Chinesesimp>医疗垃圾（1x1，1型）</Chinesesimp>
+            <Chinesesimp>医疗垃圾（1x1，版本1）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodspray_01_new_f0">
             <Original>Blood Spray (New)</Original>
@@ -1856,7 +1856,7 @@
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_white_idap_med_closed_f0">
             <Original>Medical Tent [IDAP]</Original>
             <Chinese>醫療帳篷[國發援]</Chinese>
-            <Chinesesimp>医疗帐篷[国发援]</Chinesesimp>
+            <Chinesesimp>医疗帐篷 [国发援]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_white_idap_closed_f0">
             <Original>Tent (Shelter, Closed) [IDAP]</Original>
@@ -1886,17 +1886,17 @@
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_tropic_closed_f0">
             <Original>Medical Tent [NATO]</Original>
             <Chinese>醫療帳篷[北約]</Chinese>
-            <Chinesesimp>医疗帐篷[北约]</Chinesesimp>
+            <Chinesesimp>医疗帐篷 [北约]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_mtp_closed_f0">
             <Original>Medical Tent [NATO]</Original>
             <Chinese>醫療帳篷[北約]</Chinese>
-            <Chinesesimp>医疗帐篷[北约]</Chinesesimp>
+            <Chinesesimp>医疗帐篷 [北约]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_greenhex_closed_f0">
             <Original>Medical Tent [CSAT]</Original>
             <Chinese>醫療帳篷[廣協同盟]</Chinese>
-            <Chinesesimp>医疗帐篷[广协]</Chinesesimp>
+            <Chinesesimp>医疗帐篷 [广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_floor_light_f0">
             <Original>Tent (Shelter, Floor, Light)</Original>
@@ -1911,12 +1911,12 @@
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_digital_closed_f0">
             <Original>Medical Tent [AAF]</Original>
             <Chinese>醫療帳篷[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>医疗帐篷[AAF]</Chinesesimp>
+            <Chinesesimp>医疗帐篷 [AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_brownhex_closed_f0">
             <Original>Medical Tent [CSAT]</Original>
             <Chinese>醫療帳篷[廣協同盟]</Chinese>
-            <Chinesesimp>医疗帐篷[广协]</Chinesesimp>
+            <Chinesesimp>医疗帐篷 [广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_medicaltent_01_base_f_attributes_solarpanel2_hide0">
             <Original>Hide solar panel #2</Original>
@@ -2117,22 +2117,22 @@
         <Key ID="str_a3_cfgvehicles_c_idap_supplycrate_f0">
           <Original>Supply Box [IDAP]</Original>
           <Chinese>補給箱[國發援]</Chinese>
-          <Chinesesimp>补给箱[国发援]</Chinesesimp>
+          <Chinesesimp>补给箱 [国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_idap_uniforms_f0">
           <Original>Uniforms Box [IDAP]</Original>
           <Chinese>制服箱[國發援]</Chinese>
-          <Chinesesimp>制服箱[国发援]</Chinesesimp>
+          <Chinesesimp>制服箱 [国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_idap_equip_f0">
           <Original>Equipment Box [IDAP]</Original>
           <Chinese>裝備箱[國發援]</Chinese>
-          <Chinesesimp>装备箱[国发援]</Chinesesimp>
+          <Chinesesimp>装备箱 [国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_idap_ammoord_f0">
           <Original>Explosives [IDAP]</Original>
           <Chinese>炸藥[國發援]</Chinese>
-          <Chinesesimp>炸药[国发援]</Chinesesimp>
+          <Chinesesimp>炸药 [国发援]</Chinesesimp>
         </Key>
       </Container>
       <Container name="Bags">
@@ -2239,12 +2239,12 @@
         <Key ID="str_a3_cfgvehicles_c_idap_uav_01_backpack_f_assembleinfo0">
           <Original>UAV Bag [IDAP]</Original>
           <Chinese>無人機背包[國發援]</Chinese>
-          <Chinesesimp>无人机背包[国发援]</Chinesesimp>
+          <Chinesesimp>无人机背包 [国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_idap_uav_01_backpack_f0">
           <Original>UAV Bag [IDAP]</Original>
           <Chinese>無人機背包[國發援]</Chinese>
-          <Chinesesimp>无人机背包[国发援]</Chinesesimp>
+          <Chinesesimp>无人机背包 [国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_uav_06_medical_backpack_f_assembleinfo0">
           <Original>UAV Bag (AL-6, Medical) [NATO]</Original>
@@ -2294,14 +2294,14 @@
         <Key ID="str_a3_cfgvehicles_b_messenger_idap_f0">
           <Original>Messenger Bag [IDAP]</Original>
           <Chinese>郵包[國發援]</Chinese>
-          <Chinesesimp>邮包[国发援]</Chinesesimp>
+          <Chinesesimp>邮包 [国发援]</Chinesesimp>
         </Key>
       </Container>
       <Container name="CargoNets">
         <Key ID="str_a3_cfgvehicles_c_idap_cargonet_01_supplies_f0">
           <Original>Cargo Net [IDAP]</Original>
           <Chinese>貨物網[國發援]</Chinese>
-          <Chinesesimp>货物网[国发援]</Chinesesimp>
+          <Chinesesimp>货物网 [国发援]</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -2913,7 +2913,7 @@
         <Key ID="str_a3_cfgweapons_v_plain_medical_f0">
           <Original>Identification Vest [IDAP]</Original>
           <Chinese>身份背心[國發援]</Chinese>
-          <Chinesesimp>身份背心[国发援]</Chinesesimp>
+          <Chinesesimp>身份背心 [国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_v_legstrapbag_olive_f0">
           <Original>Leg Strap Bag (Olive)</Original>
@@ -3323,7 +3323,7 @@
         <Key ID="str_a3_box_o_uav_06_f0">
           <Original>AL-6 Case [CSAT]</Original>
           <Chinese>AL-6箱子[廣協同盟]</Chinese>
-          <Chinesesimp>AL-6箱子[广协]</Chinesesimp>
+          <Chinesesimp>AL-6箱子 [广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_box_i_uav_06_medical_f0">
           <Original>AL-6 Case (Medical) [AAF]</Original>
@@ -3333,7 +3333,7 @@
         <Key ID="str_a3_box_i_uav_06_f0">
           <Original>AL-6 Case [AAF]</Original>
           <Chinese>AL-6箱子[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>AL-6箱子[AAF]</Chinesesimp>
+          <Chinesesimp>AL-6箱子 [AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_box_c_uav_06_swifd_f0">
           <Original>Utility Drone Case (Swifd)</Original>
@@ -3358,7 +3358,7 @@
         <Key ID="str_a3_box_c_idap_uav_06_f0">
           <Original>Utility Drone Case [IDAP]</Original>
           <Chinese>通用無人機箱子[國發援]</Chinese>
-          <Chinesesimp>通用无人机箱子[国发援]</Chinesesimp>
+          <Chinesesimp>通用无人机箱子 [国发援]</Chinesesimp>
         </Key>
         <Key ID="str_a3_box_b_uav_06_medical_f0">
           <Original>AL-6 Case (Medical) [NATO]</Original>
@@ -3368,7 +3368,7 @@
         <Key ID="str_a3_box_b_uav_06_f0">
           <Original>AL-6 Case [NATO]</Original>
           <Chinese>AL-6箱子[北約]</Chinese>
-          <Chinesesimp>AL-6箱子[北约]</Chinesesimp>
+          <Chinesesimp>AL-6箱子 [北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_idap_uav_06_antimine_f_attributes_firearearestricted1">
           <Original>Restrict dropping demining bombs only to areas defined by triggers synchronized to the vehicle.</Original>

@@ -10,7 +10,7 @@
       <Key ID="STR_A3_cfgvests_rebreather_aaf0">
         <Original>Rebreather [AAF]</Original>
         <Chinese>密閉式循環水肺[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>密闭式循环水肺[AAF]</Chinesesimp>
+        <Chinesesimp>密闭式循环水肺 [AAF]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgweapons_nvg_green0">
         <Original>NV Goggles (Green)</Original>
@@ -25,12 +25,12 @@
       <Key ID="STR_A3_cfgvests_rebreather_csat0">
         <Original>Rebreather [CSAT]</Original>
         <Chinese>密閉式循環水肺[廣協同盟]</Chinese>
-        <Chinesesimp>密闭式循环水肺[广协]</Chinesesimp>
+        <Chinesesimp>密闭式循环水肺 [广协]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgvests_rebreather_nato0">
         <Original>Rebreather [NATO]</Original>
         <Chinese>密閉式循環水肺[北約]</Chinese>
-        <Chinesesimp>密闭式循环水肺[北约]</Chinesesimp>
+        <Chinesesimp>密闭式循环水肺 [北约]</Chinesesimp>
       </Key>
     </Container>
     <Container name="Air_F">
@@ -114,7 +114,7 @@
       <Key ID="str_a3_cfgmagazines_o_ir_grenade0">
         <Original>IR Grenade [CSAT]</Original>
         <Chinese>紅外線手榴彈[廣協同盟]</Chinese>
-        <Chinesesimp>红外手雷[广协]</Chinesesimp>
+        <Chinesesimp>红外手雷 [广协]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgweapons_coaxial_mg0">
         <Original>Coaxial MG 7.62 mm</Original>
@@ -134,7 +134,7 @@
       <Key ID="str_a3_cfgmagazines_i_ir_grenade0">
         <Original>IR Grenade [AAF]</Original>
         <Chinese>紅外線手榴彈[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>红外手雷[AAF]</Chinesesimp>
+        <Chinesesimp>红外手雷 [AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_b_ir_grenade1">
         <Original>Type: IR Strobe&lt;br /&gt;Faction: NATO&lt;br /&gt;Rounds: 1</Original>
@@ -144,7 +144,7 @@
       <Key ID="str_a3_cfgmagazines_b_ir_grenade0">
         <Original>IR Grenade [NATO]</Original>
         <Chinese>紅外線手榴彈[北約]</Chinese>
-        <Chinesesimp>红外手雷[北约]</Chinesesimp>
+        <Chinesesimp>红外手雷 [北约]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_12rnd_125mm_he0">
         <Original>125mm HE</Original>
@@ -243,7 +243,7 @@
       <Key ID="str_a3_h_beret_020">
         <Original>Beret [NATO]</Original>
         <Chinese>貝雷帽[北約]</Chinese>
-        <Chinesesimp>贝雷帽[北约]</Chinesesimp>
+        <Chinesesimp>贝雷帽 [北约]</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_bandanna_khk_hs0">
         <Original>Bandana (Headset)</Original>
@@ -258,17 +258,17 @@
       <Key ID="str_a3_cfgglasses_g_o_diving0">
         <Original>Diving Goggles [CSAT]</Original>
         <Chinese>蛙鏡[廣協同盟]</Chinese>
-        <Chinesesimp>蛙镜[广协]</Chinesesimp>
+        <Chinesesimp>蛙镜 [广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgglasses_g_i_diving0">
         <Original>Diving Goggles [AAF]</Original>
         <Chinese>蛙鏡[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>蛙镜[AAF]</Chinesesimp>
+        <Chinesesimp>蛙镜 [AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgglasses_g_b_diving0">
         <Original>Diving Goggles [NATO]</Original>
         <Chinese>蛙鏡[北約]</Chinese>
-        <Chinesesimp>蛙镜[北约]</Chinesesimp>
+        <Chinesesimp>蛙镜 [北约]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_uniform_kerry0">
         <Original>Worn Combat Fatigues (Kerry)</Original>
@@ -496,108 +496,108 @@
         <Key ID="STR_A3_Graffiti_6">
           <Original>Graffiti (v1)</Original>
           <Chinese>塗鴉(1型)</Chinese>
-          <Chinesesimp>涂鸦（1型）</Chinesesimp>
+          <Chinesesimp>涂鸦（版本1）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Graffiti_7">
           <Original>Graffiti (v2)</Original>
           <Chinese>塗鴉(2型)</Chinese>
-          <Chinesesimp>涂鸦（2型）</Chinesesimp>
+          <Chinesesimp>涂鸦（版本2）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Graffiti_8">
           <Original>Graffiti (v3)</Original>
           <Chinese>塗鴉(3型)</Chinese>
-          <Chinesesimp>涂鸦（3型）</Chinesesimp>
+          <Chinesesimp>涂鸦（版本3）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Graffiti_9">
           <Original>Graffiti (v4)</Original>
           <Chinese>塗鴉(4型)</Chinese>
-          <Chinesesimp>涂鸦（4型）</Chinesesimp>
+          <Chinesesimp>涂鸦（版本4）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Graffiti_10">
           <Original>Graffiti (v5)</Original>
           <Chinese>塗鴉(5型)</Chinese>
-          <Chinesesimp>涂鸦（5型）</Chinesesimp>
+          <Chinesesimp>涂鸦（版本5）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Leaflet_0">
           <Original>Leaflet (v1)</Original>
           <Chinese>傳單(1型)</Chinese>
-          <Chinesesimp>传单（1型）</Chinesesimp>
+          <Chinesesimp>传单（版本1）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Leaflet_1">
           <Original>Leaflet (v2)</Original>
           <Chinese>傳單(2型)</Chinese>
-          <Chinesesimp>传单（2型）</Chinesesimp>
+          <Chinesesimp>传单（版本2）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Leaflet_2">
           <Original>Leaflet (v3)</Original>
           <Chinese>傳單(3型)</Chinese>
-          <Chinesesimp>传单（3型）</Chinesesimp>
+          <Chinesesimp>传单（版本3）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Leaflet_3">
           <Original>Leaflet (v4)</Original>
           <Chinese>傳單(4型)</Chinese>
-          <Chinesesimp>传单（4型）</Chinesesimp>
+          <Chinesesimp>传单（版本4）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_poster_0">
           <Original>Poster (v1)</Original>
           <Chinese>抗議標語(1型)</Chinese>
-          <Chinesesimp>抗议标语（1型）</Chinesesimp>
+          <Chinesesimp>抗议标语（版本1）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_poster_1">
           <Original>Poster (v2)</Original>
           <Chinese>抗議標語(2型)</Chinese>
-          <Chinesesimp>抗议标语（2型）</Chinesesimp>
+          <Chinesesimp>抗议标语（版本2）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_poster_2">
           <Original>Poster (v3)</Original>
           <Chinese>抗議標語(3型)</Chinese>
-          <Chinesesimp>抗议标语（3型）</Chinesesimp>
+          <Chinesesimp>抗议标语（版本3）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_poster_3">
           <Original>Poster (v4)</Original>
           <Chinese>抗議標語(4型)</Chinese>
-          <Chinesesimp>抗议标语（4型）</Chinesesimp>
+          <Chinesesimp>抗议标语（版本4）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_poster_4">
           <Original>Poster (v6)</Original>
           <Chinese>抗議標語(5型)</Chinese>
-          <Chinesesimp>抗议标语（5型）</Chinesesimp>
+          <Chinesesimp>抗议标语（版本5）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_poster_5">
           <Original>Poster (v6)</Original>
           <Chinese>抗議標語(6型)</Chinese>
-          <Chinesesimp>抗议标语（6型）</Chinesesimp>
+          <Chinesesimp>抗议标语（版本6）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_luggage_0">
           <Original>Heap of Luggage (v1)</Original>
           <Chinese>行李堆(1型)</Chinese>
-          <Chinesesimp>行李堆（1型）</Chinesesimp>
+          <Chinesesimp>行李堆（版本1）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_luggage_1">
           <Original>Heap of Luggage (v2)</Original>
           <Chinese>行李堆(2型)</Chinese>
-          <Chinesesimp>行李堆（2型）</Chinesesimp>
+          <Chinesesimp>行李堆（版本2）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_luggage_2">
           <Original>Heap of Luggage (v3)</Original>
           <Chinese>行李堆(3型)</Chinese>
-          <Chinesesimp>行李堆（3型）</Chinesesimp>
+          <Chinesesimp>行李堆（版本3）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_luggage_3">
           <Original>Heap of Luggage (v4)</Original>
           <Chinese>行李堆(4型)</Chinese>
-          <Chinesesimp>行李堆（4型）</Chinesesimp>
+          <Chinesesimp>行李堆（版本4）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_luggage_4">
           <Original>Heap of Luggage (v5)</Original>
           <Chinese>行李堆(5型)</Chinese>
-          <Chinesesimp>行李堆（5型）</Chinesesimp>
+          <Chinesesimp>行李堆（版本5）</Chinesesimp>
         </Key>
       </Container>
       <Key ID="STR_A3_map_altis0">
         <Original>Map of Altis</Original>
         <Chinese>Altis地圖</Chinese>
-        <Chinesesimp>Altis 地图</Chinesesimp>
+        <Chinesesimp>阿尔蒂斯地图</Chinesesimp>
       </Key>
       <Key ID="STR_A3_sleeved_map_0">
         <Original>Sleeved map</Original>
@@ -607,7 +607,7 @@
       <Key ID="STR_A3_sleeved_map_stratis_0">
         <Original>Sleeved map (Stratis)</Original>
         <Chinese>地圖襯套(Stratis)</Chinese>
-        <Chinesesimp>地图衬套（Stratis）</Chinesesimp>
+        <Chinesesimp>地图衬套（斯特拉蒂斯）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Field_Manual">

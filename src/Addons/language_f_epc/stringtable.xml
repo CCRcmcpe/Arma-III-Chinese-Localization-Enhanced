@@ -348,12 +348,12 @@
       <Key ID="str_a3_h_beret_general0">
         <Original>Beret [AAF] (General)</Original>
         <Chinese>貝雷帽[阿爾蒂斯武裝力量](將軍)</Chinese>
-        <Chinesesimp>贝雷帽[AAF]（将军）</Chinesesimp>
+        <Chinesesimp>贝雷帽 [AAF]（将军）</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_beret_colonel0">
         <Original>Beret [NATO] (Colonel)</Original>
         <Chinese>貝雷帽[北約](上校)</Chinese>
-        <Chinesesimp>贝雷帽[北约]（上校）</Chinesesimp>
+        <Chinesesimp>贝雷帽 [北约]（上校）</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_scientist_f0">
         <Original>Scientist</Original>

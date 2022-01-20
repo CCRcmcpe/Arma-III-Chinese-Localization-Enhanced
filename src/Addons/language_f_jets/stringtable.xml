@@ -165,7 +165,7 @@
       <Key ID="str_a3_hint_airplanedamage_desc">
         <Original>While military aircraft can strike fast, hard and precisely, they are relatively fragile.%1Several hits into their engines, flaps, or elevators will make the aircraft hard or impossible to operate, forcing their crew to return for repairs or bail out from their uncontrollable machine.</Original>
         <Chinese>軍用戰機雖然飛得快且火力強大，當相對其他載具而言他們的裝甲更為脆弱。%1只要幾發子彈擊中引擎，襟翼或升降舵，就會使飛機很難或根本無法操縱，迫使飛行員只能返航或緊急逃離不受控的飛機。</Chinese>
-        <Chinesesimp>军用战机虽然飞得快且火力强大，当相对其他载具而言它们的装甲更为脆弱。%1只要几发子弹击中引擎，襟翼或升降舵，就会使飞机很难或根本无法操纵，这样迫使飞行员只能返航或紧急逃离不受控的飞机。</Chinesesimp>
+        <Chinesesimp>军用战机虽然飞得快且火力强大，当相对其他载具而言它们的装甲更为脆弱。%1只要几次击中引擎，襟翼或升降舵，就会使飞机很难或根本无法操纵，这样迫使飞行员只能返航或紧急逃离不受控的飞机。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgHints_PremiumContent_PremiumJets0">
         <Original>Jets DLC</Original>
@@ -886,74 +886,74 @@
       <Key ID="STR_A3_B_Carrier_01_base_name">
         <Original>Aircraft Carrier [USS Freedom]</Original>
         <Chinese>航空母艦[美國海軍"自由"號]</Chinese>
-        <Chinesesimp>航空母舰[美国海军"自由"号]</Chinesesimp>
+        <Chinesesimp>航空母舰 [美国海军"自由"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Carrier_01_hull_01_name">
         <Original>Aircraft carrier [part 1]</Original>
         <Chinese>航空母艦[部件1]</Chinese>
-        <Chinesesimp>航空母舰[部件1]</Chinesesimp>
+        <Chinesesimp>航空母舰 [部件1]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Carrier_01_hull_02_name">
         <Original>Aircraft carrier [part 2]</Original>
         <Chinese>航空母艦[部件2]</Chinese>
-        <Chinesesimp>航空母舰[部件2]</Chinesesimp>
+        <Chinesesimp>航空母舰 [部件2]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Carrier_01_hull_03_name">
         <Original>Aircraft carrier [part 3]</Original>
         <Chinese>航空母艦[部件3]</Chinese>
-        <Chinesesimp>航空母舰[部件3]</Chinesesimp>
+        <Chinesesimp>航空母舰 [部件3]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Carrier_01_hull_04_name">
         <Original>Aircraft carrier [part 4]</Original>
         <Chinese>航空母艦[部件4]</Chinese>
-        <Chinesesimp>航空母舰[部件4]</Chinesesimp>
+        <Chinesesimp>航空母舰 [部件4]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Carrier_01_hull_05_name">
         <Original>Aircraft carrier [part 5]</Original>
         <Chinese>航空母艦[部件5]</Chinese>
-        <Chinesesimp>航空母舰[部件5]</Chinesesimp>
+        <Chinesesimp>航空母舰 [部件5]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Carrier_01_hull_06_name">
         <Original>Aircraft carrier [part 6]</Original>
         <Chinese>航空母艦[部件6]</Chinese>
-        <Chinesesimp>航空母舰[部件6]</Chinesesimp>
+        <Chinesesimp>航空母舰 [部件6]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Carrier_01_hull_07_name">
         <Original>Aircraft carrier [part 7]</Original>
         <Chinese>航空母艦[部件7]</Chinese>
-        <Chinesesimp>航空母舰[部件7]</Chinesesimp>
+        <Chinesesimp>航空母舰 [部件7]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Carrier_01_hull_08_name">
         <Original>Aircraft carrier [part 8]</Original>
         <Chinese>航空母艦[部件8]</Chinese>
-        <Chinesesimp>航空母舰[部件8]</Chinesesimp>
+        <Chinesesimp>航空母舰 [部件8]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Carrier_01_hull_09_name">
         <Original>Aircraft carrier [part 9]</Original>
         <Chinese>航空母艦[部件9]</Chinese>
-        <Chinesesimp>航空母舰[部件9]</Chinesesimp>
+        <Chinesesimp>航空母舰 [部件9]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Carrier_01_island_01_name">
         <Original>Aircraft carrier [island Exterior]</Original>
         <Chinese>航空母艦[艦橋外部]</Chinese>
-        <Chinesesimp>航空母舰[舰桥外部]</Chinesesimp>
+        <Chinesesimp>航空母舰 [舰桥外部]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Carrier_01_island_02_name">
         <Original>Aircraft carrier [island Interior]</Original>
         <Chinese>航空母艦[艦橋內部]</Chinese>
-        <Chinesesimp>航空母舰[舰桥内部]</Chinesesimp>
+        <Chinesesimp>航空母舰 [舰桥内部]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Carrier_01_GEO_base_name">
         <Original>Aircraft carrier [GEO]</Original>
         <Chinese>航空母艦[幾何LOD]</Chinese>
-        <Chinesesimp>航空母舰[几何 LOD]</Chinesesimp>
+        <Chinesesimp>航空母舰 [几何 LOD]</Chinesesimp>
       </Key>
     </Container>
     <Container name="3DEN support">
       <Key ID="STR_A3_EdSubcat_AircraftCarrier_name">
         <Original>Aircraft Carrier [Static]</Original>
         <Chinese>航空母艦[固定]</Chinese>
-        <Chinesesimp>航空母舰[固定]</Chinesesimp>
+        <Chinesesimp>航空母舰 [固定]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_EdSubcat_StaticShips_name">
         <Original>Static Ships</Original>
@@ -970,17 +970,17 @@
       <Key ID="STR_A3_VirtualGarage_Fighter_01_Camo_02">
         <Original>Dark Grey [Camo]</Original>
         <Chinese>深灰色[迷彩]</Chinese>
-        <Chinesesimp>深灰色[迷彩]</Chinesesimp>
+        <Chinesesimp>深灰色 [迷彩]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_VirtualGarage_Fighter_04_Camo_01">
         <Original>Digital Green [Camo]</Original>
         <Chinese>綠色[數位迷彩]</Chinese>
-        <Chinesesimp>绿色[数码迷彩]</Chinesesimp>
+        <Chinesesimp>绿色 [数码迷彩]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_VirtualGarage_Fighter_04_Camo_02">
         <Original>Digital Grey [Camo]</Original>
         <Chinese>灰色[數位迷彩]</Chinese>
-        <Chinesesimp>灰色[数码迷彩]</Chinesesimp>
+        <Chinesesimp>灰色 [数码迷彩]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_VirtualGarage_Fighter_04_Camo_03">
         <Original>Grey</Original>
@@ -995,17 +995,17 @@
       <Key ID="STR_A3_VirtualGarage_UAV_05_Camo_02">
         <Original>Dark Grey [Camo]</Original>
         <Chinese>深灰色[迷彩]</Chinese>
-        <Chinesesimp>深灰色[迷彩]</Chinesesimp>
+        <Chinesesimp>深灰色 [迷彩]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_VirtualGarage_Fighter_02_Camo_01">
         <Original>Arid Hex [Camo]</Original>
         <Chinese>荒漠迷彩[數位蜂巢迷彩]</Chinese>
-        <Chinesesimp>荒漠迷彩[蜂巢迷彩]</Chinesesimp>
+        <Chinesesimp>荒漠迷彩 [蜂巢迷彩]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_VirtualGarage_Fighter_02_Camo_02">
         <Original>Grey Hex [Camo]</Original>
         <Chinese>灰色[數位蜂巢迷彩]</Chinese>
-        <Chinesesimp>灰色[蜂巢迷彩]</Chinesesimp>
+        <Chinesesimp>灰色 [蜂巢迷彩]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_VirtualGarage_Fighter_02_Camo_03">
         <Original>Blue</Original>

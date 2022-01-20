@@ -468,12 +468,12 @@
         <Key ID="str_a3_cfgvehicles_lsv_02_base_f_library0">
           <Original>An agile (maximum speed 160 km/h) light protected vehicle for up to 7 soldiers – depending on the configuration. The Qilin provides safe and fast operating speeds with superior levels of mobility and maneuverability. It is highly adaptable to severe, rugged and restrictive terrains while providing off-road, cross-country mobility under all types of weather conditions. The vehicle was produced in China with Russian cooperation, so some minor influence from Ifrit MRAP can be seen in the Qilin design. The Qilin is a highly customizable platform which can be fitted according to the mission. CSAT Pacific forces primarily use the unarmed variant and the armed variants fitted with either a 6.5 mm minigun or a Vorona missile launcher.</Original>
           <Chinese>一臺可供最多7名士兵搭乘的敏捷輕型防護載具(最高時速可達160公里)。"麒麟"在高速行駛下也有一定的安全性，這使他成為高機動，高操控性的一臺載具。它可以迅速適應各種崎嶇難走的越野地形。此臺載具由中國與俄羅斯共同開發，所以不難見到有些防地雷反伏擊車的影子在"麒麟"上出現。"麒麟"是個可以高度客製化的平臺，使其適應各式類型的任務。廣協同盟太平洋部隊主要使用無武裝與裝配6.5公厘機槍或"沃羅納"反坦克飛彈等三種版本。</Chinese>
-          <Chinesesimp>一台可供最多7名士兵搭乘的敏捷轻型防护载具（最高时速可达160千米）。"麒麟"在高速行驶下也有一定的安全性，这使他成为高机动，高操控性的一台载具。它可以迅速适应各种崎岖难走的越野地形。此台载具由中国与俄罗斯共同开发，所以不难见到有些防地雷反伏击车的影子在"麒麟"上出现。"麒麟"是个可以高度客制化的平台，使其适应各式类型的任务。广协太平洋部队主要使用无武装与装配6.5 mm 机枪或"沃罗纳"反坦克导弹等三种版本。</Chinesesimp>
+          <Chinesesimp>一台可供最多7名士兵搭乘的敏捷轻型防护载具（最高时速可达160千米）。"麒麟"在高速行驶下也有一定的安全性，这使他成为高机动，高操控性的一台载具。它可以迅速适应各种崎岖难走的越野地形。此台载具由中国与俄罗斯共同开发，所以不难见到有些防地雷反伏击车的影子在"麒麟"上出现。"麒麟"是个可以高度客制化的平台，使其适应各式类型的任务。太平洋广协部队主要使用无武装与装配6.5 mm 机枪或"沃罗纳"反坦克导弹等三种版本。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_plane_civil_01_base_f_library0">
           <Original>Caesar BTT is a single-engine, fixed-gear, low-wing general aviation aircraft built from composite materials. The Caesar BTT is one of the fastest fixed-gear, single-engined piston aircraft, reaching a speed of 235 knots (435 km/h) true air speed at 25,000 feet (7,600 m). It is used by civilians and smaller shipping companies all around the world.</Original>
           <Chinese>"凱撒"BTT是一臺單引擎，固定式機輪，低機翼的民用複合式材料飛機。"凱撒"BTT是它同類型活塞式引擎飛機中最快的機種，其在25，000英尺(7，600公尺)的高空下最高航速可達235節(時速435公里)。這臺飛機在全世界主要被民眾用於休閒或是擔當物流公司的運輸載具。</Chinese>
-          <Chinesesimp>"凯撒"BTT 是一台单引擎，固定式机轮，低机翼的民用复合式材料飞机。"凯撒"BTT 是它同类型活塞式引擎飞机中最快的机种，其在25，000英尺(7，600公尺)的高空下最高航速可达235节（时速435千米）。这台飞机在全世界主要被民众用于休闲或是作为物流公司的运输载具。</Chinesesimp>
+          <Chinesesimp>"凯撒"BTT 是一台单引擎，固定式机轮，低机翼的民用复合式材料飞机。"凯撒"BTT 是它同类型活塞式引擎飞机中最快的机种，其在25，000英尺(7，600米)的高空下最高航速可达235节（时速435千米）。这台飞机在全世界主要被民众用于休闲或是作为物流公司的运输载具。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_lsv_01_base_f_library0">
           <Original>The Prowler is a light strike vehicle (LSV) which means it is agile and lightly armored. It uses speed, maneuverability and off-road mobility to avoid major threats. Another benefit is that the Prowler is light enough to be transported by medium helicopters such as UH-80 Ghost Hawk. This is in contrast to the heavy MRAP vehicles which are harder to transport to the battlefield. The Prowler can be configured in several different ways. Armed variants are equipped with a .338 SPMG medium machine gun, mounted on the front passenger side, while the turret can sport a .50 cal heavy machine gun or Titan missile launcher. With this arsenal, the Prowler is ideal for quick hit and run missions. The unarmed variant is stripped of all guns, but the back part of the vehicle is open and there are reserve seats for two additional soldiers.</Original>
@@ -807,17 +807,17 @@
           <Key ID="str_a3_cfgvehicles_land_containerline_03_f0">
             <Original>Stacks of Containers (v3)</Original>
             <Chinese>貨櫃堆(3型)</Chinese>
-            <Chinesesimp>货柜堆（3型）</Chinesesimp>
+            <Chinesesimp>货柜堆（版本3）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_containerline_02_f0">
             <Original>Stacks of Containers (v2)</Original>
             <Chinese>貨櫃堆(2型)</Chinese>
-            <Chinesesimp>货柜堆（2型）</Chinesesimp>
+            <Chinesesimp>货柜堆（版本2）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_containerline_01_f0">
             <Original>Stacks of Containers (v1)</Original>
             <Chinese>貨櫃堆(1型)</Chinese>
-            <Chinesesimp>货柜堆（1型）</Chinesesimp>
+            <Chinesesimp>货柜堆（版本1）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_containercrane_01_f0">
             <Original>Container Crane</Original>
@@ -1396,7 +1396,7 @@
           <Key ID="str_a3_cfgvehicles_land_pipefence_02_s_8m_nolc_f0">
             <Original>Pipe Fence (8 m, No Land Contact)</Original>
             <Chinese>鐵管柵欄(8公尺，無接觸地面)</Chinese>
-            <Chinesesimp>铁管栅栏（8公尺，无接触地面）</Chinesesimp>
+            <Chinesesimp>铁管栅栏（8米，无接触地面）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_pipefence_02_s_8m_f0">
             <Original>Pipe Fence (8 m)</Original>
@@ -1406,7 +1406,7 @@
           <Key ID="str_a3_cfgvehicles_land_pipefence_02_s_4m_nolc_f0">
             <Original>Pipe Fence (4 m, No Land Contact)</Original>
             <Chinese>鐵管柵欄(4公尺，無接觸地面)</Chinese>
-            <Chinesesimp>铁管栅栏（4公尺，无接触地面）</Chinesesimp>
+            <Chinesesimp>铁管栅栏（4米，无接触地面）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_pipefence_02_s_4m_f0">
             <Original>Pipe Fence (4 m)</Original>
@@ -1431,7 +1431,7 @@
           <Key ID="str_a3_cfgvehicles_land_pipefence_01_m_d_f0">
             <Original>Small Concrete Pipe Wall (8 m, Damaged)</Original>
             <Chinese>小型混凝土鐵管牆(8公尺，損傷)</Chinese>
-            <Chinesesimp>小型混凝土铁管墙（8公尺，损伤）</Chinesesimp>
+            <Chinesesimp>小型混凝土铁管墙（8米，损伤）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_pipefence_01_m_8m_f0">
             <Original>Small Concrete Pipe Wall (8 m)</Original>
@@ -1540,7 +1540,7 @@
           <Key ID="str_a3_cfgvehicles_land_tinwall_01_m_4m_v1_f0">
             <Original>Medium Tin Fence (4 m, Rusty)</Original>
             <Chinese>中型鐵片柵欄(4公尺ㄝ，生鏽)</Chinese>
-            <Chinesesimp>中型铁片栅栏（4公尺ㄝ，生锈）</Chinesesimp>
+            <Chinesesimp>中型铁片栅栏（4米ㄝ，生锈）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Concrete">
@@ -1744,7 +1744,7 @@
           <Key ID="str_a3_cfgvehicles_land_stonewall_01_s_d_f0">
             <Original>Small Stone Mound (10m, Destroyed)</Original>
             <Chinese>小型石丘(10公尺，損毀)</Chinese>
-            <Chinesesimp>小型石丘（10公尺，损毁）</Chinesesimp>
+            <Chinesesimp>小型石丘（10米，损毁）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_stonewall_01_s_10m_f0">
             <Original>Small Stone Mound (10m)</Original>
@@ -1776,7 +1776,7 @@
           <Key ID="str_a3_cfgvehicles_land_wiredfence_01_8m_d_f0">
             <Original>Medium Wire Fence (8 m, Destroyed)</Original>
             <Chinese>中型鐵絲柵欄(8公尺，損毀)</Chinese>
-            <Chinesesimp>中型铁丝栅栏（8公尺，损毁）</Chinesesimp>
+            <Chinesesimp>中型铁丝栅栏（8米，损毁）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_wiredfence_01_4m_f0">
             <Original>Medium Wire Fence (4 m)</Original>
@@ -2175,17 +2175,17 @@
           <Key ID="str_a3_cfgvehicles_land_quayconcrete_01_5m_ladder_f0">
             <Original>Concrete Quay (5 m, Ladder)</Original>
             <Chinese>混凝土泊船點(5公尺，梯子)</Chinese>
-            <Chinesesimp>混凝土泊船点（5公尺，梯子）</Chinesesimp>
+            <Chinesesimp>混凝土泊船点（5米，梯子）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_quayconcrete_01_20m_wall_f0">
             <Original>Concrete Quay (20 m, Wall Railing)</Original>
             <Chinese>混凝土泊船點(20公尺，護牆)</Chinese>
-            <Chinesesimp>混凝土泊船点（20公尺，护墙）</Chinesesimp>
+            <Chinesesimp>混凝土泊船点（20米，护墙）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_quayconcrete_01_20m_hole_f0">
             <Original>Concrete Quay (20 m, Hole)</Original>
             <Chinese>混凝土泊船點(20公尺，缺口)</Chinese>
-            <Chinesesimp>混凝土泊船点（20公尺，缺口）</Chinesesimp>
+            <Chinesesimp>混凝土泊船点（20米，缺口）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_quayconcrete_01_20m_f0">
             <Original>Concrete Quay (20 m)</Original>
@@ -2366,7 +2366,7 @@
           <Key ID="str_a3_cfgvehicles_land_basaltkerb_01_2m_d_f0">
             <Original>Basalt Curb (2 m, Damaged)</Original>
             <Chinese>玄武巖緣石(2公尺，損傷)</Chinese>
-            <Chinesesimp>玄武岩缘石（2公尺，损伤）</Chinesesimp>
+            <Chinesesimp>玄武岩缘石（2米，损伤）</Chinesesimp>
           </Key>
         </Container>
         <Container name="AncientRelics">
@@ -2546,12 +2546,12 @@
           <Key ID="str_a3_cfgvehicles_land_grave_07_f0">
             <Original>Grave (Stone, v7)</Original>
             <Chinese>墳墓(石製，7型)</Chinese>
-            <Chinesesimp>坟墓（石制，7型）</Chinesesimp>
+            <Chinesesimp>坟墓（石制，版本7）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_grave_06_f0">
             <Original>Grave (Marble, v2)</Original>
             <Chinese>墳墓(大理石，2型)</Chinese>
-            <Chinesesimp>坟墓（大理石，2型）</Chinesesimp>
+            <Chinesesimp>坟墓（大理石，版本2）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_grave_05_f0">
             <Original>Grave (Tiled)</Original>
@@ -2561,22 +2561,22 @@
           <Key ID="str_a3_cfgvehicles_land_grave_04_f0">
             <Original>Grave (Stone, v6)</Original>
             <Chinese>墳墓(石製，6型)</Chinese>
-            <Chinesesimp>坟墓（石制，6型）</Chinesesimp>
+            <Chinesesimp>坟墓（石制，版本6）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_grave_03_f0">
             <Original>Grave (Stone, v5)</Original>
             <Chinese>墳墓(石製，5型)</Chinese>
-            <Chinesesimp>坟墓（石制，5型）</Chinesesimp>
+            <Chinesesimp>坟墓（石制，版本5）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_grave_02_f0">
             <Original>Grave (Marble, v1)</Original>
             <Chinese>墳墓(大理石，1型)</Chinese>
-            <Chinesesimp>坟墓（大理石，1型）</Chinesesimp>
+            <Chinesesimp>坟墓（大理石，版本1）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_grave_01_f0">
             <Original>Grave (Stone, v4)</Original>
             <Chinese>墳墓(石製，4型)</Chinese>
-            <Chinesesimp>坟墓（石制，4型）</Chinesesimp>
+            <Chinesesimp>坟墓（石制，版本4）</Chinesesimp>
           </Key>
         </Container>
         <Container name="Churches">
@@ -3152,7 +3152,7 @@
           <Key ID="str_a3_cfgvehicles_land_pillboxwall_01_6m_round_f0">
             <Original>Pillbox Wall (6 m, Blunt)</Original>
             <Chinese>碉堡牆壁(6公尺，鈍)</Chinese>
-            <Chinesesimp>碉堡墙壁（6公尺，钝）</Chinesesimp>
+            <Chinesesimp>碉堡墙壁（6米，钝）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_pillboxwall_01_6m_f0">
             <Original>Pillbox Wall (6 m, Sharp)</Original>
@@ -3891,7 +3891,7 @@
         <Key ID="str_a3_u_b_ctrg_soldier_arid_f0">
           <Original>CTRG Stealth Uniform (Arid)</Original>
           <Chinese>CTRG 潛行服（乾燥氣候）</Chinese>
-          <Chinesesimp>CTRG 隐形制服（干旱）</Chinesesimp>
+          <Chinesesimp>战研大队隐形制服（干旱）</Chinesesimp>
         </Key>
         <Key ID="str_a3_u_b_ctrg_soldier_3_f0">
           <Original>CTRG Stealth Uniform (Rolled-up)</Original>
@@ -3901,7 +3901,7 @@
         <Key ID="str_a3_u_b_ctrg_soldier_3_arid_f0">
           <Original>CTRG Stealth Uniform (Rolled-up, Arid)</Original>
           <Chinese>CTRG 潛行服（捲袖，乾燥氣候）</Chinese>
-          <Chinesesimp>CTRG 隐形制服（卷起，干旱）</Chinesesimp>
+          <Chinesesimp>战研大队隐形制服（卷起，干旱）</Chinesesimp>
         </Key>
         <Key ID="str_a3_u_b_ctrg_soldier_2_f0">
           <Original>CTRG Stealth Uniform (Tee)</Original>
@@ -3911,7 +3911,7 @@
         <Key ID="str_a3_u_b_ctrg_soldier_2_arid_f0">
           <Original>CTRG Stealth Uniform (Tee, Arid)</Original>
           <Chinese>CTRG 潛行服（T 恤，乾燥氣候）</Chinese>
-          <Chinesesimp>CTRG 隐形制服（T 恤，干旱）</Chinesesimp>
+          <Chinesesimp>战研大队隐形制服（T 恤，干旱）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Syndikat">
@@ -4087,7 +4087,7 @@
         <Key ID="str_a3_b_hmg_01_weapon_grn_f0">
           <Original>Dismantled Mk30 HMG (Green) [NATO]</Original>
           <Chinese>拆解Mk30重機槍(綠色)[北約]</Chinese>
-          <Chinesesimp>拆解 Mk30重机枪（绿色）[北约]</Chinesesimp>
+          <Chinesesimp>拆解的 Mk30 重机枪（绿色）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_bergen_dgtl0">
           <Original>Bergen Backpack (Digital)</Original>
@@ -4112,69 +4112,69 @@
         <Key ID="str_a3_b_gmg_01_weapon_grn_f0">
           <Original>Dismantled Mk32 GMG (Green) [NATO]</Original>
           <Chinese>拆解Mk32榴彈機槍(綠色)[北約]</Chinese>
-          <Chinesesimp>拆解的 Mk32榴弹发射器（绿色）[北约]</Chinesesimp>
+          <Chinesesimp>拆解的 Mk32 榴弹发射器（绿色）[北约]</Chinesesimp>
         </Key>
       </Container>
       <Container name="Ammoboxes">
         <Key ID="str_a3_cfgvehicles_c_t_supplycrate_f0">
           <Original>Supply Box [CTRG Pacific]</Original>
           <Chinese>補給箱[戰研大隊太平洋]</Chinese>
-          <Chinesesimp>补给箱[战研大队太平洋]</Chinesesimp>
+          <Chinesesimp>补给箱 [战研大队太平洋]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_t_nato_wpsspecial_f0">
           <Original>Special Weapons [NATO Pacific]</Original>
           <Chinese>特種武器箱[北約太平洋]</Chinese>
-          <Chinesesimp>特种武器箱[北约太平洋]</Chinesesimp>
+          <Chinesesimp>特种武器箱 [太平洋北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_t_nato_wps_f0">
           <Original>Basic Weapons [NATO Pacific]</Original>
           <Chinese>基本武器箱[北約太平洋]</Chinese>
-          <Chinesesimp>基本武器箱[北约太平洋]</Chinesesimp>
+          <Chinesesimp>基本武器箱 [太平洋北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_t_nato_ammo_f0">
           <Original>Basic Ammo [NATO Pacific]</Original>
           <Chinese>基本彈藥箱[北約太平洋]</Chinese>
-          <Chinesesimp>基本弹药箱[北约太平洋]</Chinesesimp>
+          <Chinesesimp>基本弹药箱 [太平洋北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_t_east_wpsspecial_f0">
           <Original>Special Weapons [CSAT Pacific]</Original>
           <Chinese>特種武器箱[廣協同盟太平洋]</Chinese>
-          <Chinesesimp>特种武器箱[广协太平洋]</Chinesesimp>
+          <Chinesesimp>特种武器箱 [太平洋广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_t_east_wps_f0">
           <Original>Basic Weapons [CSAT Pacific]</Original>
           <Chinese>基本武器箱[廣協同盟太平洋]</Chinese>
-          <Chinesesimp>基本武器箱[广协太平洋]</Chinesesimp>
+          <Chinesesimp>基本武器箱 [太平洋广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_t_east_ammo_f0">
           <Original>Basic Ammo [CSAT Pacific]</Original>
           <Chinese>基本彈藥箱[廣協同盟太平洋]</Chinese>
-          <Chinesesimp>基本弹药箱[广协太平洋]</Chinesesimp>
+          <Chinesesimp>基本弹药箱 [太平洋广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_syndicate_wpslaunch_f0">
           <Original>Launchers [Syndikat]</Original>
           <Chinese>發射器箱[辛迪加]</Chinese>
-          <Chinesesimp>发射器箱[辛迪加]</Chinesesimp>
+          <Chinesesimp>发射器箱 [辛迪加]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_syndicate_wps_f0">
           <Original>Basic Weapons [Syndikat]</Original>
           <Chinese>基本武器箱[辛迪加]</Chinese>
-          <Chinesesimp>基本武器箱[辛迪加]</Chinesesimp>
+          <Chinesesimp>基本武器箱 [辛迪加]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_syndicate_ammo_f0">
           <Original>Basic Ammo [Syndikat]</Original>
           <Chinese>基本彈藥箱[辛迪加]</Chinese>
-          <Chinesesimp>基本弹药箱[辛迪加]</Chinesesimp>
+          <Chinesesimp>基本弹药箱 [辛迪加]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_nato_uniforms_f0">
           <Original>Uniforms Box [NATO]</Original>
           <Chinese>制服箱[北約]</Chinese>
-          <Chinesesimp>制服箱[北约]</Chinesesimp>
+          <Chinesesimp>制服箱 [北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_nato_equip_f0">
           <Original>Equipment Box [NATO]</Original>
           <Chinese>裝備箱[北約]</Chinese>
-          <Chinesesimp>装备箱[北约]</Chinesesimp>
+          <Chinesesimp>装备箱 [北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_ied_exp_f0">
           <Original>Explosives (IED)</Original>
@@ -4184,27 +4184,27 @@
         <Key ID="str_a3_cfgvehicles_box_gen_equip_f0">
           <Original>Supply Box [Gendarmerie]</Original>
           <Chinese>補給箱[憲兵隊]</Chinese>
-          <Chinesesimp>补给箱[宪兵队]</Chinesesimp>
+          <Chinesesimp>补给箱 [宪兵队]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_csat_uniforms_f0">
           <Original>Uniforms Box [CSAT]</Original>
           <Chinese>制服箱[廣協同盟]</Chinese>
-          <Chinesesimp>制服箱[广协]</Chinesesimp>
+          <Chinesesimp>制服箱 [广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_csat_equip_f0">
           <Original>Equipment Box [CSAT]</Original>
           <Chinese>裝備箱[廣協同盟]</Chinese>
-          <Chinesesimp>装备箱[广协]</Chinesesimp>
+          <Chinesesimp>装备箱 [广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_aaf_uniforms_f0">
           <Original>Uniforms Box [AAF]</Original>
           <Chinese>制服箱[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>制服箱[AAF]</Chinesesimp>
+          <Chinesesimp>制服箱 [AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_aaf_equip_f0">
           <Original>Equipment Box [AAF]</Original>
           <Chinese>裝備箱[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>装备箱[AAF]</Chinesesimp>
+          <Chinesesimp>装备箱 [AAF]</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -4415,22 +4415,22 @@
           <Key ID="str_a3_cfgvehicles_land_garbageheap_04_f0">
             <Original>Pile of Garbage (v4)</Original>
             <Chinese>垃圾堆(4型)</Chinese>
-            <Chinesesimp>垃圾堆（4型）</Chinesesimp>
+            <Chinesesimp>垃圾堆（版本4）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_garbageheap_03_f0">
             <Original>Pile of Garbage (v3)</Original>
             <Chinese>垃圾堆(3型)</Chinese>
-            <Chinesesimp>垃圾堆（3型）</Chinesesimp>
+            <Chinesesimp>垃圾堆（版本3）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_garbageheap_02_f0">
             <Original>Pile of Garbage (v2)</Original>
             <Chinese>垃圾堆(2型)</Chinese>
-            <Chinesesimp>垃圾堆（2型）</Chinesesimp>
+            <Chinesesimp>垃圾堆（版本2）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_garbageheap_01_f0">
             <Original>Pile of Garbage (v1)</Original>
             <Chinese>垃圾堆(1型)</Chinese>
-            <Chinesesimp>垃圾堆（1型）</Chinesesimp>
+            <Chinesesimp>垃圾堆（版本1）</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -4925,7 +4925,7 @@
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list8_title">
         <Original>NATO &amp;amp; CSAT Pacific Forces</Original>
         <Chinese>北約&amp;amp;廣協同盟太平洋部隊</Chinese>
-        <Chinesesimp>北约&amp;amp;广协太平洋部队</Chinesesimp>
+        <Chinesesimp>北约&amp;amp;太平洋广协部队</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list8">
         <Original>suitably camouflaged assets for the primary armed forces</Original>
@@ -5122,7 +5122,7 @@
       <Key ID="str_a3_cfghints_premiumcontent_premiumapex1">
         <Original>Be deployed to the 100 km² South Pacific island archipelago Tanoa, with 13 new weapons and 10 new vehicles, a co-op campaign, and more, in the Arma 3 Apex expansion.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co' /&gt;%1%2Tanoa Terrain%1%2Vehicles - V-44 X Blackfish VTOL, Y-32 Xi'an VTOL, Prowler LSV, Qilin LSV, KH-3A Fenghuang Drone, MQ-12 Falcon Drone, Caesar BTT Propellor Airplane, MB 4WD Offroad Car, RHIB Boat, Water Scooter%1%2Weapons - AKS-74U 5.45 mm Assault Rifle, AKM 7.62 mm Assault Rifle, AK-12 7.62 mm Assault Rifle, RPG-7 Launcher, PM 9 mm Pistol, SPAR-16/S/17 Assault Rifles, CAR-95 5.8 mm Assault Rifle, CAR-95-1 5.8 mm Light Support Weapon, LIM-85 5.56 mm Light Machine Gun, Type 115 6.5 mm / .50 cal Assault Rifle, Protector 9 mm Sub-Machine Gun, CMR-76 6.5 mm Designated Marksman Rifle, ERCO Optics%1%2Gear - new clothes, uniforms, backpacks, headgear, NVGs, and more%1%2Syndikat Faction - a criminal organisation composed of armed thugs and ex-paramilitaries%1%2Gendarmerie Faction - the local Tanoa law enforcement agency%1%2NATO &amp;amp; CSAT Special Forces - operators equipped with modern weaponry, thermal-masking camouflage, new Night Vision Goggles, and other unique gear%1%2NATO &amp;amp; CSAT Pacific Forces - suitably camouflaged assets for the primary armed forces%1%2Props - Tanoa environment decorations and special field equipment%1%2Character Appearances - Tanoan and Chinese%1%2Radio Protocols - French, French-English and Chinese%1%2"Apex Protocol" - a 1-4 player co-op campaign with ties to "The East Wind"%1%2Showcase End Game - become familiar with the End Game mode in a singleplayer scenario%1%2&lt;a href='https://community.bistudio.com/wiki/MP_End_Game'&gt;End Game&lt;/a&gt; Instances - "Moddergat" and "Balavu" variants specifically designed for Tanoa's varied environments%1%2&lt;a href="https://arma3.com/dlc/zeus"&gt;Zeus&lt;/a&gt; - Tanoa Game Master scenarios%1%2Official Sound Track - new tracks to score "Apex Protocol"%1%2Main Menu - a re-imagined take on your main window into the game%1%2Controls Presets - play using the new default "Arma 3 Apex" preset, or stick to the setup you're used to via "Arma 3"%1%2Achievements - a set of extra &lt;a href='http://steamcommunity.com/stats/107410/achievements'&gt;Steam Achievements&lt;/a&gt;%1</Original>
         <Chinese>準備好，你即將被佈署到一處100平方公里的南太平洋群島-塔諾亞，此資料片為您帶來13種新武器與10輛新載具，以及一個可多人合作的劇情戰役，這些內容盡在武裝突襲3頂尖資料片之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2塔諾亞島嶼%1%2載具-V-44X"黑鯨"垂直起降機，Y-32"西安"垂直起降機，"徘徊者"輕型突擊車，"麒麟"輕型突擊車，KH-3A"鳳凰"無人偵察機，MQ-12"獵隼"無人直升機，"凱撒"BTT單引擎飛機，四輪驅動越野車，硬殼充氣快艇，水上摩托車%1%2武器-AKS-74U 5.45公厘突擊步槍，AKM 7.62公厘突擊步槍，AK-12 7.62公厘突擊步槍，RPG-7發射器，PM 9公厘手槍，SPAR-16/S/17突擊步槍，CAR-95 5.8公厘突擊步槍，CAR-95-1 5.8公厘輕型支援武器，LIM-85 5.56公厘輕機槍，115式 6.5公厘/.50口徑突擊步槍，"保護者" 9公厘衝鋒槍，CMR-76 6.5公厘指定精準射手步槍，增強型步槍戰鬥光學瞄準鏡%1%2裝備-新衣服，制服，背包，頭盔，夜視鏡等等%1%2辛迪加陣營-一個由前準軍事人員與罪犯等所組成的犯罪組織%1%2憲兵隊陣營-塔諾亞當地的執法組織%1%2北約&amp;amp;廣協同盟特種部隊-裝備更先進的武器，防熱成像迷彩，新式夜視鏡以及其他的獨特裝備%1%2北約&amp;amp;廣協同盟太平洋部隊-主力部隊裝備著與當地符合的迷彩偽裝%1%2道具-塔諾亞當地的環境物件與專業道具%1%2登場人物-塔諾亞人與中國人%1%2無線電對話-法語，法式英語與中文%1%2"頂尖協議"-接續"東風"戰役的合作戰役，可由1-4人共同遊玩%1%2終戰任務展示-在單人模式中體驗當前最受歡迎的模式-終戰%1%2新的&lt;ahref='https://community.bistudio.com/wiki/MP_End_Game'&gt;終戰&lt;/a&gt;任務-在"莫德爾加"與"巴拉武"兩座城市中體驗我們為塔諾亞設計的終戰模式%1%2&lt;ahref="https://arma3.com/dlc/zeus"&gt;宙斯&lt;/a&gt;-為塔諾亞設計的遊戲管理員模式%1%2官方原聲帶-聆聽為"頂尖協議"新譜寫的曲子%1%2主選單-全新的主選單介面%1%2控制設定-你可以使用我們為"武裝突襲3頂尖"新設計的控制設定配置，抑或繼續使用原來的舊有配置%1%2成就-一組新的&lt;ahref='http://steamcommunity.com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinese>
-        <Chinesesimp>准备好，你即将被布署到一处100平方千米的南太平洋群岛—塔诺亚，此 DLC 为您带来13种新武器与10辆新载具，以及一个可多人合作的剧情战役，这些内容尽在武装突袭3 Apex DLC 之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2塔诺亚岛屿%1%2载具-V-44X"黑鲸"垂直起降机，Y-32"西安"垂直起降机，"徘徊者"轻型突击车，"麒麟"轻型突击车，KH-3A"凤凰"无人侦察机，MQ-12"猎隼"无人直升机，"凯撒"BTT 单引擎飞机，四轮驱动越野车，硬壳充气快艇，水上摩托车%1%2武器-AKS-74U 5.45 mm 突击步枪，AKM 7.62 mm 突击步枪，AK-12 7.62 mm 突击步枪，RPG-7发射器，PM 9 mm 手枪，SPAR-16/S/17突击步枪，CAR-95 5.8 mm 突击步枪，CAR-95-1 5.8 mm 轻型支援武器，LIM-85 5.56 mm 轻机枪，115式 6.5 mm /.50口径突击步枪，"保护者" 9 mm 冲锋枪，CMR-76 6.5 mm 指定精准射手步枪，增强型步枪战斗光学瞄准镜%1%2装备—新衣服，制服，背包，头盔，夜视镜等等%1%2辛迪加阵营—一个由前准军事人员与罪犯等所组成的犯罪组织%1%2宪兵队阵营—塔诺亚当地的执法组织%1%2北约&amp;amp;广协特种部队—装备更先进的武器，防热成像迷彩，新式夜视镜以及其他的独特装备%1%2北约&amp;amp;广协太平洋部队—主力部队装备着与当地符合的迷彩伪装%1%2道具—塔诺亚当地的环境物件与专业道具%1%2登场人物—塔诺亚人与中国人%1%2无线电对话—法语，法式英语与中文%1%2"Apex 协议"-接续"东风"战役的合作战役，可由1-4人共同游玩%1%2终战任务展示—在单人模式中体验当前最受欢迎的模式—终战%1%2新的&lt;ahref='https：//community.bistudio.com/wiki/MP_End_Game'&gt;终战&lt;/a&gt;任务—在"莫德尔加"与"巴拉武"两座城市中体验我们为塔诺亚设计的终战模式%1%2&lt;ahref="https：//arma3.com/dlc/zeus"&gt;宙斯&lt;/a&gt;-为塔诺亚设计的游戏管理员模式%1%2官方原声带—聆听为"Apex 协议"新谱写的曲子%1%2主菜单—全新的主菜单界面%1%2控制设定—你可以使用我们为"武装突袭3 Apex"新设计的控制设定配置，抑或继续使用原来的旧有配置%1%2成就—一组新的&lt;ahref='http：//steamcommunity.com/stats/107410/achievements'&gt;Steam 成就&lt;/a&gt;%1</Chinesesimp>
+        <Chinesesimp>准备好，你即将被布署到一处100平方千米的南太平洋群岛—塔诺亚，此 DLC 为您带来13种新武器与10辆新载具，以及一个可多人合作的剧情战役，这些内容尽在武装突袭3 Apex DLC 之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2塔诺亚岛屿%1%2载具-V-44X"黑鲸"垂直起降机，Y-32"西安"垂直起降机，"徘徊者"轻型突击车，"麒麟"轻型突击车，KH-3A"凤凰"无人侦察机，MQ-12"猎隼"无人直升机，"凯撒"BTT 单引擎飞机，四轮驱动越野车，硬壳充气快艇，水上摩托车%1%2武器-AKS-74U 5.45 mm 突击步枪，AKM 7.62 mm 突击步枪，AK-12 7.62 mm 突击步枪，RPG-7发射器，PM 9 mm 手枪，SPAR-16/S/17突击步枪，CAR-95 5.8 mm 突击步枪，CAR-95-1 5.8 mm 轻型支援武器，LIM-85 5.56 mm 轻机枪，115式 6.5 mm /.50口径突击步枪，"保护者" 9 mm 冲锋枪，CMR-76 6.5 mm 指定精准射手步枪，增强型步枪战斗光学瞄准镜%1%2装备—新衣服，制服，背包，头盔，夜视镜等等%1%2辛迪加阵营—一个由前准军事人员与罪犯等所组成的犯罪组织%1%2宪兵队阵营—塔诺亚当地的执法组织%1%2北约&amp;amp;广协特种部队—装备更先进的武器，防热成像迷彩，新式夜视镜以及其他的独特装备%1%2北约&amp;amp;太平洋广协部队—主力部队装备着与当地符合的迷彩伪装%1%2道具—塔诺亚当地的环境物件与专业道具%1%2登场人物—塔诺亚人与中国人%1%2无线电对话—法语，法式英语与中文%1%2"Apex 协议"-接续"东风"战役的合作战役，可由1-4人共同游玩%1%2终战任务展示—在单人模式中体验当前最受欢迎的模式—终战%1%2新的&lt;ahref='https：//community.bistudio.com/wiki/MP_End_Game'&gt;终战&lt;/a&gt;任务—在"莫德尔加"与"巴拉武"两座城市中体验我们为塔诺亚设计的终战模式%1%2&lt;ahref="https：//arma3.com/dlc/zeus"&gt;宙斯&lt;/a&gt;-为塔诺亚设计的游戏管理员模式%1%2官方原声带—聆听为"Apex 协议"新谱写的曲子%1%2主菜单—全新的主菜单界面%1%2控制设定—你可以使用我们为"武装突袭3 Apex"新设计的控制设定配置，抑或继续使用原来的旧有配置%1%2成就—一组新的&lt;ahref='http：//steamcommunity.com/stats/107410/achievements'&gt;Steam 成就&lt;/a&gt;%1</Chinesesimp>
       </Key>
     </Container>
     <Container name="Roles">
@@ -6478,7 +6478,7 @@
         <Key ID="str_a3_cfgweapons_arifle_ctar_base_f_library0">
           <Original>A bullpup style assault rifle used by CSAT Pacific forces. It works as a common platform for different weapon types: a standard rifle, GL variant with attached grenade launcher and a light support version with a longer barrel and drum magazine. The CAR-95 uses polymer materials in its construction and fires 5.8x42 mm small-caliber, high-velocity bullets.</Original>
           <Chinese>這是把被廣協同盟太平洋部隊所使用的無托式突擊步槍。它有者不同的版本:標準版，加掛榴彈發射器的版本，使用圓形彈鼓的輕機槍版本。CAR-95的外殼使用了聚合物當作材料，並使用5.8x42公厘的小口徑，高射速子彈。</Chinese>
-          <Chinesesimp>这是一种被广协太平洋部队所使用的无托式突击步枪。它有多种不同的版本：标准版，加挂榴弹发射器的版本，使用圆形弹鼓的轻机枪版本。CAR-95的外壳使用了聚合物当作材料，并使用5.8x42 mm 的小口径，高射速子弹。</Chinesesimp>
+          <Chinesesimp>这是一种被太平洋广协部队所使用的无托式突击步枪。它有多种不同的版本：标准版，加挂榴弹发射器的版本，使用圆形弹鼓的轻机枪版本。CAR-95的外壳使用了聚合物当作材料，并使用5.8x42 mm 的小口径，高射速子弹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_blk_f0">
           <Original>Type 115 6.5 mm (Black)</Original>

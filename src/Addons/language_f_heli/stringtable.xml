@@ -826,12 +826,12 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnai_syncronization">
         <Original>If an AI group is synchronized with the [Spawn AI] module, the module will handle the group the same as if it was spawned by it.</Original>
         <Chinese>假如一個AI小隊與[生成AI]模塊相連，如果小隊也是由此模塊所生成，模塊將掌控該小隊的行為。</Chinese>
-        <Chinesesimp>假如一个 AI 小队与[生成 AI]模块相连，如果小队也是由此模块所生成，模块将掌控该小队的行为。</Chinesesimp>
+        <Chinesesimp>假如一个 AI 小队与 [生成 AI]模块相连，如果小队也是由此模块所生成，模块将掌控该小队的行为。</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_spawntillcapreached">
         <Original>Periodically creates groups of non-player units and vehicles until the manpower cap is reached. Can also be synchronized to 1 or more [Spawn AI: Spawnpoint] modules to add further potential spawnpoints. If this is the case, the spawn position will be selected at random.</Original>
         <Chinese>模塊將定期重生電腦操控的單位及載具，當達到人力資源限制時，重生將暫停。模塊可與數個[生成AI:重生點]模塊相連，使單位的重生點更具隨機性。</Chinese>
-        <Chinesesimp>模块将定期重生电脑操控的单位及载具，当达到人力资源限制时，重生将暂停。模块可与数个[生成 AI：重生点]模块相连，使单位的重生点更具随机性。</Chinesesimp>
+        <Chinesesimp>模块将定期重生电脑操控的单位及载具，当达到人力资源限制时，重生将暂停。模块可与数个 [生成 AI：重生点]模块相连，使单位的重生点更具随机性。</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_spawnrate">
         <Original>Spawn Rate</Original>
@@ -861,7 +861,7 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnaisectortactic_description">
         <Original>Controls the tactics used by groups spawned by the [Spawn AI] module. If no [Spawn AI] modules are synchronized to the module, the module controls all spawned groups. If there are synchronized [Spawn AI] modules, only groups belonging to those synchronized modules will be controlled.</Original>
         <Chinese>本模塊用來控制[生成AI]模塊的AI行為。假如沒有[生成AI]模塊與之相連，此模塊將控制所有被生成出來的單位。假如同時有數個[生成AI]模塊與之相連，此模塊只會對同屬同一個組別的模塊有作用。</Chinese>
-        <Chinesesimp>本模块用来控制[生成 AI]模块的 AI 行为。假如没有[生成 AI]模块与之相连，此模块将控制所有被生成出来的单位。假如同时有数个[生成 AI]模块与之相连，此模块只会对同属同一个组别的模块有作用。</Chinesesimp>
+        <Chinesesimp>本模块用来控制 [生成 AI]模块的 AI 行为。假如没有[生成 AI]模块与之相连，此模块将控制所有被生成出来的单位。假如同时有数个[生成 AI]模块与之相连，此模块只会对同属同一个组别的模块有作用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_quarterminute">
         <Original>15 seconds</Original>
@@ -881,7 +881,7 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnaipoint_description">
         <Original>Defines a spawnpoint for AI groups, namely the faction, position, direction and type of groups that can be spawned there. Must be synchronized to a [Spawn AI] module to work. If there are several [Spawn AI: Spawnpoint] modules synchronized to a [Spawn AI] module, a single spawnpoint is chosen at random every time a group should be spawned.</Original>
         <Chinese>此模塊用來定義AI小隊，他們的陣營，重生位置，方向以及能重生的種類。此模塊必須與[生成AI]模塊相同步。假如有數個[生成AI:重生點]模塊與[生成AI]模塊相連，在每次重生機會時，電腦將自動隨機選擇一個當作重生點。</Chinese>
-        <Chinesesimp>此模块用来定义 AI 小队，他们的阵营，重生位置，方向以及能重生的种类。此模块必须与[生成 AI]模块相同步。假如有数个[生成 AI：重生点]模块与[生成 AI]模块相连，在每次重生机会时，电脑将自动随机选择一个当作重生点。</Chinesesimp>
+        <Chinesesimp>此模块用来定义 AI 小队，他们的阵营，重生位置，方向以及能重生的种类。此模块必须与 [生成 AI]模块相同步。假如有数个[生成 AI：重生点]模块与[生成 AI]模块相连，在每次重生机会时，电脑将自动随机选择一个当作重生点。</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnaioptions_options">
         <Original>Spawn AI: Options</Original>
@@ -911,7 +911,7 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnai_noteweights">
         <Original>NOTE: If all group weights (Infantry/Motorized/Mechanized/Armored) are set to 0, no groups will spawn at the position of the [Spawn AI] module.</Original>
         <Chinese>注意:假如所有的權重(步兵/摩托化/機械化/裝甲)設置到0，沒有單位將可在[生成AI]模塊上進行重生。</Chinese>
-        <Chinesesimp>注意：假如所有的权重（步兵/摩托化/机械化/装甲）设置到0，没有单位将可在[生成 AI]模块上进行重生。</Chinesesimp>
+        <Chinesesimp>注意：假如所有的权重（步兵/摩托化/机械化/装甲）设置到0，没有单位将可在 [生成 AI]模块上进行重生。</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_nato">
         <Original>NATO (BLUFOR)</Original>
@@ -1001,7 +1001,7 @@
       <Key ID="str_a3_mp_groundsupport_modulespawnai_executeonspawn">
         <Original>Code executed when a group is spawned. The passed arguments are [&lt;group&gt;,&lt;module&gt;,&lt;groupData&gt;].</Original>
         <Chinese>函數將在小隊重生時被執行。傳遞的參數如下[&lt;group&gt;，&lt;module&gt;，&lt;groupData&gt;]。</Chinese>
-        <Chinesesimp>函数将在小队重生时被执行。传递的参数如下[&lt;group&gt;，&lt;module&gt;，&lt;groupData&gt;]。</Chinesesimp>
+        <Chinesesimp>函数将在小队重生时被执行。传递的参数如下 [&lt;group&gt;，&lt;module&gt;，&lt;groupData&gt;]。</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_csat">
         <Original>CSAT (OPFOR)</Original>
@@ -1139,7 +1139,7 @@
         <Key ID="str_a3_cfgvehicles_modulespawnaisectortactic_f_moduledescription0">
           <Original>Module controls behavior of groups spawned by [Spawn AI] module. If no [Spawn AI] modules are synced to the module, the module controls all of the spawned groups. If there are some [Spawn AI] modules synced with the module, only groups belonging to those synced modules are being controlled.</Original>
           <Chinese>本模塊用來控制[生成AI]模塊的AI行為。假如沒有[生成AI]模塊與之相連，此模塊將控制所有被生成出來的單位。假如同時有數個[生成AI]模塊與之相連，此模塊只會對同屬同一個組別的模塊有作用。</Chinese>
-          <Chinesesimp>本模块用来控制[生成 AI]模块的 AI 行为。假如没有[生成 AI]模块与之相连，此模块将控制所有被生成出来的单位。假如同时有数个[生成 AI]模块与之相连，此模块只会对同属同一个组别的模块有作用。</Chinesesimp>
+          <Chinesesimp>本模块用来控制 [生成 AI]模块的 AI 行为。假如没有[生成 AI]模块与之相连，此模块将控制所有被生成出来的单位。假如同时有数个[生成 AI]模块与之相连，此模块只会对同属同一个组别的模块有作用。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulespawnaisectortactic_f0">
           <Original>Spawn AI: Sector Tactic</Original>
@@ -1154,7 +1154,7 @@
         <Key ID="str_a3_cfgvehicles_modulespawnaipoint_f_moduledescription0">
           <Original>Module defines spawnpoint for AI groups, namely their faction, position, direction and type of groups that can be spawned there. Module needs to be synced to a [Spawn AI] module to work. If there are several [Spawn AI: Spawnpoint] modules synced to [Spawn AI] module, single spawnpoint is chosen at random every time a group should be spawned.</Original>
           <Chinese>此模塊用來定義AI小隊，他們的陣營，重生位置，方向以及能重生的種類。此模塊必須與[生成AI]模塊相同步。假如有數個[生成AI:重生點]模塊與[生成AI]模塊相連，在每次重生機會時，電腦將自動隨機選擇一個當作重生點。</Chinese>
-          <Chinesesimp>此模块用来定义 AI 小队，他们的阵营，重生位置，方向以及能重生的种类。此模块必须与[生成 AI]模块相同步。假如有数个[生成 AI：重生点]模块与[生成 AI]模块相连，在每次重生机会时，电脑将自动随机选择一个当作重生点。</Chinesesimp>
+          <Chinesesimp>此模块用来定义 AI 小队，他们的阵营，重生位置，方向以及能重生的种类。此模块必须与 [生成 AI]模块相同步。假如有数个[生成 AI：重生点]模块与[生成 AI]模块相连，在每次重生机会时，电脑将自动随机选择一个当作重生点。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulespawnaipoint_f_arguments_motorized0">
           <Original>Motorized Infantry</Original>
@@ -1214,12 +1214,12 @@
         <Key ID="str_a3_cfgvehicles_modulespawnai_f_moduledescription2">
           <Original>NOTE: If all group weights (Infantry/Motorized/Mechanized/Armored) set to 0, no groups will spawn on position of the [Spawn AI] module.</Original>
           <Chinese>注意:假如所有的權重(步兵/摩托化/機械化/裝甲)設置到0，沒有單位將可在[生成AI]模塊上進行重生。</Chinese>
-          <Chinesesimp>注意：假如所有的权重（步兵/摩托化/机械化/装甲）设置到0，没有单位将可在[生成 AI]模块上进行重生。</Chinesesimp>
+          <Chinesesimp>注意：假如所有的权重（步兵/摩托化/机械化/装甲）设置到0，没有单位将可在 [生成 AI]模块上进行重生。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulespawnai_f_moduledescription0">
           <Original>Module periodically creates groups of non-player units and vehicles until set manpower cap is reached. Module can also be synced with 1 or more [Spawn AI: Spawnpoint] modules to add more possible spawnpoints. In that case spawn position is selected at random.</Original>
           <Chinese>模塊將定期重生電腦操控的單位及載具，當達到人力資源限制時，重生將暫停。模塊可與數個[生成AI:重生點]模塊相連，使單位的重生點更具隨機性。</Chinese>
-          <Chinesesimp>模块将定期重生电脑操控的单位及载具，当达到人力资源限制时，重生将暂停。模块可与数个[生成 AI：重生点]模块相连，使单位的重生点更具随机性。</Chinesesimp>
+          <Chinesesimp>模块将定期重生电脑操控的单位及载具，当达到人力资源限制时，重生将暂停。模块可与数个 [生成 AI：重生点]模块相连，使单位的重生点更具随机性。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulespawnai_f_arguments_vehiclesingroup0">
           <Original>Max. Vehicles per Group</Original>
@@ -1319,7 +1319,7 @@
         <Key ID="STR_A3_CFGVEHICLES_MODULESPAWNAI_F_ARGUMENTS_EXPRESSION1">
           <Original>Code executed when group is spawned. Passed arguments are [&lt;group&gt;,&lt;module&gt;,&lt;groupData&gt;].</Original>
           <Chinese>函數將在小隊重生時被執行。傳遞的參數如下[&lt;group&gt;，&lt;module&gt;，&lt;groupData&gt;]。</Chinese>
-          <Chinesesimp>函数将在小队重生时被执行。传递的参数如下[&lt;group&gt;，&lt;module&gt;，&lt;groupData&gt;]。</Chinesesimp>
+          <Chinesesimp>函数将在小队重生时被执行。传递的参数如下 [&lt;group&gt;，&lt;module&gt;，&lt;groupData&gt;]。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_MODULESPAWNAI_F_ARGUMENTS_FACTION1">
           <Original>Faction of groups spawned at the point.</Original>
@@ -1374,12 +1374,12 @@
         <Key ID="STR_A3_CFGVEHICLES_MODULESPAWNAIPOINT_F_ARGUMENTS_ARMORED1">
           <Original>Weighted chance to spawn an armored group. Number of vehicles per spawn can be limited in [Spawn AI] module. Valid values are 0-10.</Original>
           <Chinese>設置裝甲部隊的重生權重。載具的重生數量可在[生成AI]中設定數量限制。數值可從0到10。</Chinese>
-          <Chinesesimp>设置装甲部队的重生权重。载具的重生数量可在[生成 AI]中设定数量限制。数值可从0到10。</Chinesesimp>
+          <Chinesesimp>设置装甲部队的重生权重。载具的重生数量可在 [生成 AI]中设定数量限制。数值可从0到10。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_MODULESPAWNAIPOINT_F_ARGUMENTS_FACTION1">
           <Original>Faction of groups spawned at the point. It needs to match the side of the [Spawn AI] module for the point to work.</Original>
           <Chinese>設定小隊重生點的派別。他必須與[生成AI]模塊中的派別選項一致才會有效用。</Chinese>
-          <Chinesesimp>设定小队重生点的派别。他必须与[生成 AI]模块中的派别选项一致才会有效用。</Chinesesimp>
+          <Chinesesimp>设定小队重生点的派别。他必须与 [生成 AI]模块中的派别选项一致才会有效用。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_MODULESPAWNAIPOINT_F_ARGUMENTS_MOTORIZED1">
           <Original>Weighted chance to spawn a motorized infantry group. Valid values are 0-10.</Original>
@@ -1928,12 +1928,12 @@
         <Key ID="str_a3_cfgvehicles_o_cargonet_01_ammo_f0">
           <Original>Cargo Net [CSAT]</Original>
           <Chinese>貨物網[廣協同盟]</Chinese>
-          <Chinesesimp>货物网[广协]</Chinesesimp>
+          <Chinesesimp>货物网 [广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_cargonet_01_ammo_f0">
           <Original>Cargo Net [AAF]</Original>
           <Chinese>貨物網[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>货物网[AAF]</Chinesesimp>
+          <Chinesesimp>货物网 [AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_cargonet_01_box_f0">
           <Original>Cargo Net (Box)</Original>
@@ -1958,7 +1958,7 @@
         <Key ID="str_a3_cfgvehicles_b_cargonet_01_ammo_f0">
           <Original>Cargo Net [NATO]</Original>
           <Chinese>貨物網[北約]</Chinese>
-          <Chinesesimp>货物网[北约]</Chinesesimp>
+          <Chinesesimp>货物网 [北约]</Chinesesimp>
         </Key>
       </Container>
       <Container name="Fuel">

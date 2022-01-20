@@ -2316,7 +2316,7 @@
             <Key ID="str_3den_tutorials_entities_sections_system_playable_text">
               <Original>Some &lt;%2&gt;Virtual Entities&lt;%3&gt; are playable. They are used in multiplayer for abstract roles such as a spectator or headless client.</Original>
               <Chinese>有些&lt;%2&gt;虛擬物件&lt;%3&gt;是可供玩家操控遊玩的。像是給多人遊戲使用的觀察者或是無頭客戶端。</Chinese>
-              <Chinesesimp>有些&lt;%2&gt;虚拟物件&lt;%3&gt;是可供玩家操控游玩的。像是给多人游戏使用的观察者或是无头客户端。</Chinesesimp>
+              <Chinesesimp>有些&lt;%2&gt;虚拟物件&lt;%3&gt;是可供玩家操控游玩的。像是给多人游戏使用的观察者或是 Headless 客户端。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_system_outro_text">
               <Original>Be sure to investigate all the available systems, especially modules. Because each has its own rules, do not forget to also check their attributes.</Original>

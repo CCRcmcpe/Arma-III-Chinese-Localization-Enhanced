@@ -2354,7 +2354,7 @@
         <Key ID="str_a3_rscdisplaycamera_header">
           <Original>SPLENDID CAMERA</Original>
           <Chinese>專業照相機</Chinese>
-          <Chinesesimp>专业照相机</Chinesesimp>
+          <Chinesesimp>专业摄像机</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaycamera_exit">
           <Original>Do you want to close the camera?</Original>
@@ -6363,7 +6363,7 @@
         <Key ID="str_a3_rscdebugconsole_buttonspectatorcamera">
           <Original>SPECTATOR</Original>
           <Chinese>觀戰模式</Chinese>
-          <Chinesesimp>观战模式</Chinesesimp>
+          <Chinesesimp>观察者</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdebugconsole_buttonexecutelocal">
           <Original>LOCAL EXEC</Original>
@@ -8095,7 +8095,7 @@
       <Key ID="STR_CA_ARCMAP_INTEL">
         <Original>Intel [CTRL+W]</Original>
         <Chinese>情報[CTRL+W]</Chinese>
-        <Chinesesimp>情报[CTRL+W]</Chinesesimp>
+        <Chinesesimp>情报 [CTRL+W]</Chinesesimp>
       </Key>
       <Key ID="STR_CA_ARCMAP_INTEL_BUTTON">
         <Original>Advanced Intel</Original>
@@ -8110,12 +8110,12 @@
       <Key ID="STR_CA_ARCMAP_LAYOUT">
         <Original>Choose editor's layout [CTRL+L]</Original>
         <Chinese>選擇編輯器介面[CTRL+L]</Chinese>
-        <Chinesesimp>选择编辑器界面[CTRL+L]</Chinesesimp>
+        <Chinesesimp>选择编辑器界面 [CTRL+L]</Chinesesimp>
       </Key>
       <Key ID="STR_DISP_ARCMAP_SAVE_first">
         <Original>Save [CTRL+S]</Original>
         <Chinese>儲存[CTRL+S]</Chinese>
-        <Chinesesimp>储存[CTRL+S]</Chinesesimp>
+        <Chinesesimp>储存 [CTRL+S]</Chinesesimp>
       </Key>
       <Key ID="STR_CA_ARCMAP_PUBLISH">
         <Original>Publish on Steam Workshop</Original>
@@ -8125,32 +8125,32 @@
       <Key ID="STR_DISP_ARCMAP_LOAD_first">
         <Original>Load [CTRL+O]</Original>
         <Chinese>開啟檔案[CTRL+O]</Chinese>
-        <Chinesesimp>开启档案[CTRL+O]</Chinesesimp>
+        <Chinesesimp>开启档案 [CTRL+O]</Chinesesimp>
       </Key>
       <Key ID="STR_DISP_ARCMAP_MERGE_first">
         <Original>Merge [CTRL+M]</Original>
         <Chinese>合併[CTRL+M]</Chinese>
-        <Chinesesimp>合并[CTRL+M]</Chinesesimp>
+        <Chinesesimp>合并 [CTRL+M]</Chinesesimp>
       </Key>
       <Key ID="STR_DISP_ARCMAP_CLEAR_first">
         <Original>Clear [CTRL+N]</Original>
         <Chinese>清除[CTRL+N]</Chinese>
-        <Chinesesimp>清除[CTRL+N]</Chinesesimp>
+        <Chinesesimp>清除 [CTRL+N]</Chinesesimp>
       </Key>
       <Key ID="STR_CA_ARCMAP_SAVE_AS">
         <Original>Save As [CTRL+SHIFT+S]</Original>
         <Chinese>另存新檔[CTRL+SHIFT+S]</Chinese>
-        <Chinesesimp>另存新档[CTRL+SHIFT+S]</Chinesesimp>
+        <Chinesesimp>另存新档 [CTRL+SHIFT+S]</Chinesesimp>
       </Key>
       <Key ID="STR_CA_EDIT_IDS_first">
         <Original>IDs [CTRL+I]</Original>
         <Chinese>IDs[CTRL+I]</Chinese>
-        <Chinesesimp>IDs[CTRL+I]</Chinesesimp>
+        <Chinesesimp>IDs [CTRL+I]</Chinesesimp>
       </Key>
       <Key ID="STR_CA_EDIT_TEXTURES_first">
         <Original>Textures [CTRL+T]</Original>
         <Chinese>地形貼圖模式[CTRL+T]</Chinese>
-        <Chinesesimp>地形贴图模式[CTRL+T]</Chinesesimp>
+        <Chinesesimp>地形贴图模式 [CTRL+T]</Chinesesimp>
       </Key>
       <Key ID="STR_DN_SUPPORTS">
         <Original>Supports</Original>
@@ -9405,7 +9405,7 @@
         <Key ID="STR_sw_tag_altis">
           <Original>Use this tag for content related to Altis map.</Original>
           <Chinese>這個標籤用在標記本任務是在Altis上遊玩。</Chinese>
-          <Chinesesimp>这个标签用在标记本任务是在 Altis 上游玩。</Chinesesimp>
+          <Chinesesimp>这个标签用在标记本任务是在阿尔蒂斯上游玩。</Chinesesimp>
         </Key>
         <Key ID="STR_sw_tag_animation">
           <Original>Use this tag for animation content.</Original>
@@ -9470,7 +9470,7 @@
         <Key ID="STR_sw_tag_stratis">
           <Original>Use this tag for content related to Stratis map.</Original>
           <Chinese>使用該標籤來標記在Stratis上遊玩的任務。</Chinese>
-          <Chinesesimp>使用该标签来标记在 Stratis 上游玩的任务。</Chinesesimp>
+          <Chinesesimp>使用该标签来标记在斯特拉蒂斯上游玩的任务。</Chinesesimp>
         </Key>
         <Key ID="STR_sw_tag_Base">
           <Original>Use this tag for compositions forming bases.</Original>
@@ -9640,7 +9640,7 @@
         <Key ID="STR_sw_tag_dlc_malden">
           <Original>Use this tag for content using the Malden DLC.</Original>
           <Chinese>使用該標籤來標記使用到Malden資料片的任務。</Chinese>
-          <Chinesesimp>使用该标签来标记使用到 MaldenDLC 的任务。</Chinesesimp>
+          <Chinesesimp>使用该标签来标记使用到马尔登 DLC 的任务。</Chinesesimp>
         </Key>
         <Key ID="STR_sw_tag_othermap">
           <Original>Use this tag for content related to other game maps.</Original>
@@ -9695,7 +9695,7 @@
         <Key ID="STR_sw_tag_malden2035">
           <Original>Use this tag for content related to Malden 2035 map.</Original>
           <Chinese>使用該標籤來標記使用到Malden2035地圖的任務。</Chinese>
-          <Chinesesimp>使用该标签来标记使用到 Malden2035地图的任务。</Chinesesimp>
+          <Chinesesimp>使用该标签来标记使用到马尔登2035地图的任务。</Chinesesimp>
         </Key>
         <Key ID="STR_sw_tag_Shelter">
           <Original>Use this tag for compositions forming shelters.</Original>
@@ -10414,7 +10414,7 @@
         <Key ID="STR_CONTROLS_CONFIGURE_KEY_AMBIGUITY_FULL">
           <Original>Duplicate</Original>
           <Chinese>重製</Chinese>
-          <Chinesesimp>重制</Chinesesimp>
+          <Chinesesimp>重复</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_SWIM_UP">
           <Original>Underwater - ascend</Original>
@@ -18595,12 +18595,12 @@
         <Key ID="str_brief_yourkills">
           <Original>Your kills:</Original>
           <Chinese>你殺死:</Chinese>
-          <Chinesesimp>你杀死：</Chinesesimp>
+          <Chinesesimp>你摧毁：</Chinesesimp>
         </Key>
         <Key ID="str_brief_yourkills_civil">
           <Original>Your kills - civilians:</Original>
           <Chinese>你殺死-平民:</Chinese>
-          <Chinesesimp>你杀死—平民：</Chinesesimp>
+          <Chinesesimp>你摧毁—平民：</Chinesesimp>
         </Key>
         <Key ID="str_version_info">
           <Original>Version: %s</Original>
@@ -18610,7 +18610,7 @@
         <Key ID="str_brief_yourkills_friendly">
           <Original>Your kills - friendly units:</Original>
           <Chinese>你殺死-友軍單位:</Chinese>
-          <Chinesesimp>你杀死—友军单位：</Chinesesimp>
+          <Chinesesimp>你摧毁—友军单位：</Chinesesimp>
         </Key>
         <Key ID="str_bypass">
           <Original>Hold fire</Original>
@@ -20190,7 +20190,7 @@
         <Key ID="str_dik_numpadenter">
           <Original>Enter [NUM]</Original>
           <Chinese>Enter[小鍵盤]</Chinese>
-          <Chinesesimp>Enter[小键盘]</Chinesesimp>
+          <Chinesesimp>Enter [小键盘]</Chinesesimp>
         </Key>
         <Key ID="str_dik_numpadequals">
           <Original>= [NUM]</Original>
@@ -21815,7 +21815,7 @@
         <Key ID="str_eval_open_brackets">
           <Original>Missing [</Original>
           <Chinese>丟失[</Chinese>
-          <Chinesesimp>丢失[</Chinesesimp>
+          <Chinesesimp>丢失 [</Chinesesimp>
         </Key>
         <Key ID="str_eval_oper">
           <Original>Unknown operator %s</Original>

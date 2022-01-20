@@ -247,7 +247,7 @@
       <Key ID="STR_A3_GridDistances2_sub">
         <Original>The map is divided into a grid to assist with navigating the terrain.%1%2At this scale, each grid represents%3 100 m%4%1%2Zooming out further will increase the scale to%3 1 km, or 1 klick%4%1%2At the lowest zoom level, each grid will represent%3 10 km%4</Original>
         <Chinese>地圖使用座標，來劃分出各個方格，幫助士兵導航之用。%1%2在這個大小中，每個座標的邊長是%3100公尺%4%1%2縮小後，邊長可能會加大到%31公里%4%1%2在更縮小的話，邊長會加大到%310公里%4</Chinese>
-        <Chinesesimp>地图使用座标，来划分出各个方格，帮助士兵导航之用。%1%2在这个大小中，每个座标的边长是%3100公尺%4%1%2缩小后，边长可能会加大到%31公里%4%1%2在更缩小的话，边长会加大到%310公里%4</Chinesesimp>
+        <Chinesesimp>地图使用座标，来划分出各个方格，帮助士兵导航之用。%1%2在这个大小中，每个座标的边长是%3100米%4%1%2缩小后，边长可能会加大到%31公里%4%1%2在更缩小的话，边长会加大到%310公里%4</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AlternativeOptics2_sub">
         <Original>Some scopes have alternate optic sights.%1%2You can switch between alternate optic sights with %11.</Original>
@@ -422,7 +422,7 @@
       <Key ID="STR_A3_DeactivatingMines3_sub">
         <Original>Explosive specialists or engineers can detect nearby mines with their Mine detector and defuse them using their Toolkit.%1Even if they fall in combat, you can take their mine detector to reveal the mines yourself.</Original>
         <Chinese>爆破專精兵或工兵都能偵測附近的地雷(需要有地雷探測器)，然後使用工具包即可拆除地雷。%1即使他們不幸陣亡了，你也可以自己拿取他們的裝備，也就擁有拆除地雷的能力了。</Chinese>
-        <Chinesesimp>爆破专精兵或工兵都能侦测附近的地雷（需要有地雷探测器），然后使用工具包即可拆除地雷。%1即使他们不幸阵亡了，你也可以自己拿取他们的装备，你就拥有拆除地雷的能力。</Chinesesimp>
+        <Chinesesimp>爆破专业兵或工兵都能侦测附近的地雷（需要有地雷探测器），然后使用工具包即可拆除地雷。%1即使他们不幸阵亡了，你也可以自己拿取他们的装备，你就拥有拆除地雷的能力。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Stop3_sub">
         <Original>As your subordinates are normally keeping formation, this command is useful when you want to heal them or rearm from their backpacks.</Original>
@@ -502,7 +502,7 @@
       <Key ID="STR_A3_SelectSubordinates3_sub">
         <Original>%1Specialized units have their own symbol on the command bar. For example:%1%2&lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt; Autorifleman%1%2&lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt; Sniper%1%2&lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt; AT rifleman</Original>
         <Chinese>%1專精兵會有特殊的符號在他們的狀態欄上。舉個例子:%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt;自動步槍兵%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt;狙擊手%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt;反坦克步槍兵</Chinese>
-        <Chinesesimp>%1专精兵会有特殊的符号在他们的状态栏上。举个例子：%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt;自动步枪兵%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt;狙击手%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt;反坦克步枪兵</Chinesesimp>
+        <Chinesesimp>%1专业兵会有特殊的符号在他们的状态栏上。举个例子：%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt;自动步枪兵%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt;狙击手%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt;反坦克步枪兵</Chinesesimp>
       </Key>
       <Key ID="STR_A3_GridDistances3_sub">
         <Original>If you don't have a Rangefinder, you can use the map grid to estimate the distance to your target to fire more precisely.</Original>
@@ -1061,12 +1061,12 @@
         <Key ID="str_a3_rscdisplayarsenal_buttonsave_tooltip">
           <Original>Save the current loadout [Ctrl + S]</Original>
           <Chinese>儲存當前裝備[Ctrl+S]</Chinese>
-          <Chinesesimp>储存当前装备[Ctrl+S]</Chinesesimp>
+          <Chinesesimp>储存当前装备 [Ctrl+S]</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayarsenal_buttonrandom_tooltip">
           <Original>Randomize the loadout [Ctrl + R]</Original>
           <Chinese>隨機裝備[Ctrl+R]</Chinese>
-          <Chinesesimp>随机装备[Ctrl+R]</Chinesesimp>
+          <Chinesesimp>随机装备 [Ctrl+R]</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayarsenal_buttonrandom">
           <Original>Random</Original>
@@ -1086,17 +1086,17 @@
         <Key ID="str_a3_rscdisplayarsenal_buttonload_tooltip">
           <Original>Open a saved loadout [Ctrl + O]</Original>
           <Chinese>讀取已儲存的裝備[Ctrl+O]</Chinese>
-          <Chinesesimp>读取已储存的装备[Ctrl+O]</Chinesesimp>
+          <Chinesesimp>读取已储存的装备 [Ctrl+O]</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayarsenal_buttoninterface_tooltip">
           <Original>Hide the interface [Backspace]</Original>
           <Chinese>隱藏介面[Backspace]</Chinese>
-          <Chinesesimp>隐藏介面[Backspace]</Chinesesimp>
+          <Chinesesimp>隐藏介面 [Backspace]</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayarsenal_buttonimport_tooltip">
           <Original>Import an exported loadout or unit classname [Ctrl + V]</Original>
           <Chinese>匯入之前導出的裝備或單位的classname[Ctrl+V]</Chinese>
-          <Chinesesimp>导入之前导出的装备或单位的 classname[Ctrl+V]</Chinesesimp>
+          <Chinesesimp>导入之前导出的装备或单位的 classname [Ctrl+V]</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayarsenal_buttonimport">
           <Original>Import</Original>
@@ -1106,7 +1106,7 @@
         <Key ID="str_a3_rscdisplayarsenal_buttonexport_tooltip">
           <Original>Export the current loadout to be used in scripts or shared with others [Ctrl + C]</Original>
           <Chinese>匯出當前裝備，可給玩家分享給其他人或做腳本用[Ctrl+C]</Chinese>
-          <Chinesesimp>导出当前装备，可给玩家分享给其他人或做脚本用[Ctrl+C]</Chinesesimp>
+          <Chinesesimp>导出当前装备，可给玩家分享给其他人或做脚本用 [Ctrl+C]</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayarsenal_buttonexport">
           <Original>Export</Original>
@@ -1116,7 +1116,7 @@
         <Key ID="str_a3_rscdisplayarsenal_buttonclose_tooltip">
           <Original>Close the Arsenal [Escape]</Original>
           <Chinese>關閉軍火庫[離開]</Chinese>
-          <Chinesesimp>关闭军火库[离开]</Chinesesimp>
+          <Chinesesimp>关闭军火库 [Escape]</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayarsenal_tab_cargomag">
           <Original>Magazines for currently selected weapons</Original>
@@ -1214,7 +1214,7 @@
         <Key ID="str_a3_cfgunitinsignia_ctrg130">
           <Original>CTRG 13 - NATO</Original>
           <Chinese>CTRG 13 - NATO</Chinese>
-          <Chinesesimp>CTRG 13 - NATO</Chinesesimp>
+          <Chinesesimp>战研大队 13 - 北约</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgunitinsignia_111thid">
           <Original>111th Infantry Division</Original>
@@ -2073,12 +2073,12 @@
       <Key ID="str_a3_h_cap_brn_specops0_boot">
         <Original>Cap [OPFOR]</Original>
         <Chinese>小帽子[紅方]</Chinese>
-        <Chinesesimp>小帽子[红方]</Chinesesimp>
+        <Chinesesimp>小帽子 [红方]</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_cap_blk_raven0_boot">
         <Original>Cap [AAF]</Original>
         <Chinese>小帽子[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>小帽子[AAF]</Chinesesimp>
+        <Chinesesimp>小帽子 [AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_booniehat_tan0_boot">
         <Original>Booniehat (Sand)</Original>
@@ -2515,7 +2515,7 @@
       <Key ID="str_a3_rscdisplaywelcome_boot_parb_list2">
         <Original>a set of focused tutorial scenarios</Original>
         <Chinese>一套專精在不同點的教學課程</Chinese>
-        <Chinesesimp>一套专精在不同点的教程</Chinesesimp>
+        <Chinesesimp>一套注重各种方面的教程</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_boot_parb_list1_title">
         <Original>Bootcamp</Original>

@@ -488,7 +488,7 @@
       <Key ID="str_a3_cfgweapons_u_tank_green_f0">
         <Original>Tanker Coveralls [AAF]</Original>
         <Chinese>坦克兵外套[阿爾蒂斯武裝力量]</Chinese>
-        <Chinesesimp>坦克兵外套[AAF]</Chinesesimp>
+        <Chinesesimp>坦克兵外套 [AAF]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_h_tank_black_f0">
         <Original>Crew Helmet (Soft) [CSAT]</Original>

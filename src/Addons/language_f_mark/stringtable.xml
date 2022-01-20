@@ -1486,7 +1486,7 @@
       <Key ID="str_a3_cfgvehicles_static_designator_02_base_f0">
         <Original>Remote Designator [CSAT]</Original>
         <Chinese>遙控指示器[廣協同盟]</Chinese>
-        <Chinesesimp>遥控指示器[广协]</Chinesesimp>
+        <Chinesesimp>遥控指示器 [广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_static_designator_01_base_f1">
         <Original>Remote Designator</Original>
@@ -1496,12 +1496,12 @@
       <Key ID="str_a3_cfgvehicles_static_designator_01_base_f0">
         <Original>Remote Designator [NATO]</Original>
         <Chinese>遙控指示器[北約]</Chinese>
-        <Chinesesimp>遥控指示器[北约]</Chinesesimp>
+        <Chinesesimp>遥控指示器 [北约]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_static_designator_02_weapon_f0">
         <Original>Remote Designator Bag [CSAT]</Original>
         <Chinese>遙控指示器背包[廣協同盟]</Chinese>
-        <Chinesesimp>遥控指示器背包[广协]</Chinesesimp>
+        <Chinesesimp>遥控指示器背包 [广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_static_designator_01_weapon_f_assembleinfo0">
         <Original>Remote Designator</Original>
@@ -1511,7 +1511,7 @@
       <Key ID="str_a3_cfgvehicles_b_static_designator_01_weapon_f0">
         <Original>Remote Designator Bag [NATO]</Original>
         <Chinese>遙控指示器背包[北約]</Chinese>
-        <Chinesesimp>遥控指示器背包[北约]</Chinesesimp>
+        <Chinesesimp>遥控指示器背包 [北约]</Chinesesimp>
       </Key>
     </Container>
     <Container name="Achievements">
@@ -1578,7 +1578,7 @@
       <Key ID="STR_A3_Achievements_Mark_SC_01">
         <Original>Discovered the secret room in Showcase Firing From Vehicles.</Original>
         <Chinese>在[從載具中射擊]任務中發現秘密房間。</Chinese>
-        <Chinesesimp>在[从载具中射击]任务中发现秘密房间。</Chinesesimp>
+        <Chinesesimp>在 [从载具中射击]任务中发现秘密房间。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Achievements_Mark_SC_01_Title">
         <Original>Bad Omens</Original>
@@ -1588,7 +1588,7 @@
       <Key ID="STR_A3_Achievements_Mark_SC_02">
         <Original>Completed Showcase Marksmen without injury.</Original>
         <Chinese>完成任務[精準射手]，並且沒有受到任何損傷。</Chinese>
-        <Chinesesimp>完成任务[精准射手]，并且没有受到任何损伤。</Chinesesimp>
+        <Chinesesimp>完成任务 [精准射手]，并且没有受到任何损伤。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Achievements_Mark_SC_02_Title">
         <Original>Dodge This</Original>

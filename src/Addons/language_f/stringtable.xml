@@ -237,12 +237,12 @@
       <Key ID="str_a3_spectating_spectatorinfo0">
         <Original>Spectator camera is a tool for watching the game whilst you cannot or do not want to play directly. It's often available after your death, when you wait for a respawn. It's also available on pre-defined playable slots for users who wish to observe a mission or even stream its progress. </Original>
         <Chinese>觀戰相機是一個讓觀眾觀看戰場狀態的工具。通常他會在你死之後出現，或者在你等待重生時出現。任務製作者也可以預先設定此模式為可玩單位，來為那些只希望觀戰的玩家設定一個位置。</Chinese>
-        <Chinesesimp>观战相机是一个让观众观看战场状态的工具。通常它会在你死之后出现，或者在你等待重生时出现。任务制作者也可以预先设定此模式为可玩位，供希望观战以及直播战况的用户使用。</Chinesesimp>
+        <Chinesesimp>观察者相机是一个让观众观看战场状态的工具。通常它会在你死之后出现，或者在你等待重生时出现。任务制作者也可以预先设定此模式为可玩位，供希望观战以及直播战况的用户使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_spectating_spectatorinfo1">
         <Original>Spectating 101</Original>
         <Chinese>觀戰模式介紹</Chinese>
-        <Chinesesimp>观战模式介绍</Chinesesimp>
+        <Chinesesimp>观察模式介绍</Chinesesimp>
       </Key>
       <Key ID="str_a3_spectating_spectatorunitview0">
         <Original>Use %11, %12 or %13 to switch between camera views. This is consistent with other views in the game.</Original>
@@ -307,7 +307,7 @@
       <Key ID="str_a3_spectating0">
         <Original>Spectating</Original>
         <Chinese>觀戰</Chinese>
-        <Chinesesimp>观战</Chinesesimp>
+        <Chinesesimp>观察中</Chinesesimp>
       </Key>
       <Key ID="str_a3_basiclean0">
         <Original>Lean to peak around corners and still have most of your body hidden behind cover.%1%2Lean left: %11.%1%2Lean right: %12.%1You can also lock the character into a leaning position by pressing %13 for left or %14 for right side.</Original>
@@ -397,7 +397,7 @@
       <Key ID="str_a3_cfghints_commandbar0">
         <Original>The command bar displays information about subordinate units. Each unit under your command shows: %1%2ID: 1, 2, 3 ...%1%2Rank (&lt;img size='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\private_gs.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\sergeant_gs.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\corporal_gs.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\major_gs.paa' /&gt;...) %1%2Specialization (&lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\aa_ca.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\gl_ca.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\scuba_ca.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa' /&gt;)%1%2Vehicle occupation%1%2Vehicle role (&lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageDriver_ca.paa' /&gt; &lt;img size='1'  image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCargo_ca.paa' /&gt; &lt;img size='1'  image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCommander_ca.paa' /&gt; &lt;img size='1'  image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageGunner_ca.paa' /&gt;)%1%2Health Condition: Wounded &lt;img size='1' %12 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa' /&gt;, No Ammo &lt;img size='1' %13 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa' /&gt;%1%2Combat mode: Hold Fire &lt;img size='1' %11 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa' /&gt;%1%2Behavior: Stealth &lt;img size='1' %14 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa' /&gt;, Combat &lt;img size='1' %15 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa' /&gt;%1%2Current orders: 'Move'</Original>
         <Chinese>命令欄會顯示出下屬單位的基本狀態。每個受你掌控的單位都會顯示在上面:%1%2ID:1，2，3...%1%2軍階(&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\private_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\sergeant_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\corporal_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\major_gs.paa'/&gt;...)%1%2單位的專精項目(&lt;imgsize='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\aa_ca.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\gl_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\scuba_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt;)%1%2載具的類型%1%2載具的功能(&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageDriver_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCargo_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCommander_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageGunner_ca.paa'/&gt;)%1%2健康狀況:受傷&lt;imgsize='1'%12image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;，彈藥用盡&lt;imgsize='1'%13image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;%1%2作戰模式:停止射擊&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa'/&gt;%1%2行為:潛行&lt;imgsize='1'%14image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;，戰鬥&lt;imgsize='1'%15image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;%1%2當前命令:'移動'</Chinese>
-        <Chinesesimp>命令栏会显示出下属单位的基本状态。每个受你掌控的单位都会显示在上面：%1%2ID：1，2，3...%1%2军阶(&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\private_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\sergeant_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\corporal_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\major_gs.paa'/&gt;...)%1%2单位的专精项目(&lt;imgsize='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\aa_ca.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\gl_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\scuba_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt;)%1%2载具的类型%1%2载具的功能（&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageDriver_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCargo_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCommander_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageGunner_ca.paa'/&gt;）%1%2健康状况：受伤&lt;imgsize='1'%12image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;，弹药用尽&lt;imgsize='1'%13image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;%1%2作战模式：停止射击&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa'/&gt;%1%2行为：潜行&lt;imgsize='1'%14image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;，战斗&lt;imgsize='1'%15image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;%1%2当前命令：'移动'</Chinesesimp>
+        <Chinesesimp>命令栏会显示出下属单位的基本状态。每个受你掌控的单位都会显示在上面：%1%2ID：1，2，3...%1%2军阶(&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\private_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\sergeant_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\corporal_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\major_gs.paa'/&gt;...)%1%2单位的专业项目(&lt;imgsize='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\aa_ca.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\gl_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\scuba_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt;)%1%2载具的类型%1%2载具的功能（&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageDriver_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCargo_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCommander_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageGunner_ca.paa'/&gt;）%1%2健康状况：受伤&lt;imgsize='1'%12image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;，弹药用尽&lt;imgsize='1'%13image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;%1%2作战模式：停止射击&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa'/&gt;%1%2行为：潜行&lt;imgsize='1'%14image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;，战斗&lt;imgsize='1'%15image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;%1%2当前命令：'移动'</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_commandbar1">
         <Original>Command Bar</Original>
@@ -442,7 +442,7 @@
       <Key ID="str_a3_cfghints_orbat0">
         <Original>Units are marked according to their side.%1&lt;img size='1' %6 image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_unknown_ca.paa' /&gt; – BLUFOR (NATO, FIA)%1&lt;img size='1' %7 image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\o_unknown_ca.paa' /&gt; – OPFOR (CSAT)%1&lt;img size='1' %8 image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa' /&gt; – Independent (AAF)%1&lt;img size='1' %9 image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa' /&gt; – Neutral (Civilians)</Original>
         <Chinese>部隊會被標記出他們所屬的陣營。%1&lt;imgsize='1'%6image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_unknown_ca.paa'/&gt;–藍方(北約，自由獨立同盟)%1&lt;imgsize='1'%7image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\o_unknown_ca.paa'/&gt;–紅方(CSAT)%1&lt;imgsize='1'%8image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–中立方(阿爾蒂斯武裝力量)%1&lt;imgsize='1'%9image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–平民</Chinese>
-        <Chinesesimp>部队会被标记出他们所属的阵营。%1&lt;imgsize='1'%6image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_unknown_ca.paa'/&gt;–蓝方(北约，FIA)%1&lt;imgsize='1'%7image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\o_unknown_ca.paa'/&gt;–红方(CSAT)%1&lt;imgsize='1'%8image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–中立方（AAF）%1&lt;imgsize='1'%9image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–平民</Chinesesimp>
+        <Chinesesimp>部队会被标记出他们所属的阵营。%1&lt;imgsize='1'%6image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_unknown_ca.paa'/&gt;–蓝方(北约，FIA)%1&lt;imgsize='1'%7image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\o_unknown_ca.paa'/&gt;–红方(广协)%1&lt;imgsize='1'%8image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–中立方（AAF）%1&lt;imgsize='1'%9image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–平民</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_orbat1">
         <Original>Side Markers</Original>
@@ -602,7 +602,7 @@
       <Key ID="str_a3_alpha_content0">
         <Original>The Arma 3 Beta features the Island of 'Stratis', which hosts 20 km² of Mediterranean terrain. Playable content is considerably limited.%1%2&lt;t&gt;&lt;/t&gt;Stratis (20 km²)%1%2&lt;t&gt;&lt;/t&gt;4 Factions%1%2&lt;t&gt;&lt;/t&gt;20 Weapons%1%2&lt;t&gt;&lt;/t&gt;18 Vehicles%1%2&lt;t&gt;&lt;/t&gt;3 Multiplayer Scenarios%1%2&lt;t&gt;&lt;/t&gt;8 Singleplayer Showcases%1%2&lt;t&gt;&lt;/t&gt;4 Firing Drills%1%2&lt;t&gt;&lt;/t&gt;Multiple Weapon Attachments%1%2&lt;t&gt;&lt;/t&gt;Customizable Gear%1%2&lt;t&gt;&lt;/t&gt;Scenario Editor%1%2&lt;t&gt;&lt;/t&gt;Modding%1The Beta version is limited in comparison to the full version. We intend this to involve you more directly in the development process and give you the opportunity to affect the final game.</Original>
         <Chinese>武裝突襲3 Beta版提供了一個名叫'斯特拉蒂斯'的地中海小島，面積大概有20平方公里左右。可以試玩的內容很有限。%1%2&lt;t&gt;&lt;/t&gt;Stratis(20平方公里)%1%2&lt;t&gt;&lt;/t&gt;4個派別%1%2&lt;t&gt;&lt;/t&gt;20種武器%1%2&lt;t&gt;&lt;/t&gt;18輛載具%1%2&lt;t&gt;&lt;/t&gt;3個多人任務%1%2&lt;t&gt;&lt;/t&gt;8個單人任務展示%1%2&lt;t&gt;&lt;/t&gt;4個射擊訓練任務%1%2&lt;t&gt;&lt;/t&gt;多種武器配件%1%2&lt;t&gt;&lt;/t&gt;自訂化裝備%1%2&lt;t&gt;&lt;/t&gt;任務編輯器%1%2&lt;t&gt;&lt;/t&gt;模組支援%1Beta版的內容非常有限，我們開放這個版本的目的，為的是要讓玩家有機會參與開發過程，讓最終的正式遊戲能更加完整。</Chinese>
-        <Chinesesimp>武装突袭3 Beta 版提供了一个名叫'斯特拉蒂斯'的地中海小岛，面积大概有20平方公里左右。可以试玩的内容很有限。%1%2&lt;t&gt;&lt;/t&gt;Stratis（20平方公里）%1%2&lt;t&gt;&lt;/t&gt;4个派别%1%2&lt;t&gt;&lt;/t&gt;20种武器%1%2&lt;t&gt;&lt;/t&gt;18辆载具%1%2&lt;t&gt;&lt;/t&gt;3个多人任务%1%2&lt;t&gt;&lt;/t&gt;8个单人任务展示%1%2&lt;t&gt;&lt;/t&gt;4个射击训练任务%1%2&lt;t&gt;&lt;/t&gt;多种武器配件%1%2&lt;t&gt;&lt;/t&gt;自订化装备%1%2&lt;t&gt;&lt;/t&gt;任务编辑器%1%2&lt;t&gt;&lt;/t&gt;模组支援%1Beta 版的内容非常有限，我们开放这个版本的目的，为的是要让玩家有机会参与开发过程，让最终的正式游戏能更加完整。</Chinesesimp>
+        <Chinesesimp>武装突袭3 Beta 版提供了一个名叫'斯特拉蒂斯'的地中海小岛，面积大概有20平方公里左右。可以试玩的内容很有限。%1%2&lt;t&gt;&lt;/t&gt;斯特拉蒂斯（20平方公里）%1%2&lt;t&gt;&lt;/t&gt;4个派别%1%2&lt;t&gt;&lt;/t&gt;20种武器%1%2&lt;t&gt;&lt;/t&gt;18辆载具%1%2&lt;t&gt;&lt;/t&gt;3个多人任务%1%2&lt;t&gt;&lt;/t&gt;8个单人任务展示%1%2&lt;t&gt;&lt;/t&gt;4个射击训练任务%1%2&lt;t&gt;&lt;/t&gt;多种武器配件%1%2&lt;t&gt;&lt;/t&gt;自订化装备%1%2&lt;t&gt;&lt;/t&gt;任务编辑器%1%2&lt;t&gt;&lt;/t&gt;模组支援%1Beta 版的内容非常有限，我们开放这个版本的目的，为的是要让玩家有机会参与开发过程，让最终的正式游戏能更加完整。</Chinesesimp>
       </Key>
       <Key ID="str_a3_alpha0">
         <Original>Beta</Original>
@@ -687,7 +687,7 @@
       <Key ID="str_a3_disarm0">
         <Original>To deactivate an explosive, you have to be an %3Explosives expert%4 or an %3Engineer%4, have a %3Toolkit%4 and know the location of the explosive.%1%2Crawl %11 to the explosive.%1%2Select %3Deactivate%4&lt;img size='1' %5  image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa' /&gt; from the action menu.%1WARNING: if you don't approach the explosive carefully in a prone position, it will detonate.</Original>
         <Chinese>要拆除炸藥，你必須是一名%3爆破專精兵%4或是一名%3工兵%4，以及擁有一個%3工具包%4，並清楚了解炸藥的位置。%1%2使用%11來爬向炸藥。%1%2從動作選單中選擇%3拆除%4&lt;imgsize='1'%5  image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa'/&gt;。%1警告:如果你沒有以匍匐姿態謹慎地接近炸藥，它將會引爆。</Chinese>
-        <Chinesesimp>要拆除炸药，你必须是一名%3爆破专精兵%4或是一名%3工兵%4，以及拥有一个%3工具包%4，并清楚了解炸药的位置。%1%2使用%11来爬向炸药。%1%2从动作菜单中选择%3拆除%4&lt;imgsize='1'%5  image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa'/&gt;。%1警告：如果你没有以匍匐姿态谨慎地接近炸药，它将会引爆。</Chinesesimp>
+        <Chinesesimp>要拆除炸药，你必须是一名%3爆破专业兵%4或是一名%3工兵%4，以及拥有一个%3工具包%4，并清楚了解炸药的位置。%1%2使用%11来爬向炸药。%1%2从动作菜单中选择%3拆除%4&lt;imgsize='1'%5  image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa'/&gt;。%1警告：如果你没有以匍匐姿态谨慎地接近炸药，它将会引爆。</Chinesesimp>
       </Key>
       <Key ID="str_a3_disarm1">
         <Original>Deactivating</Original>
@@ -1117,7 +1117,7 @@
       <Key ID="str_a3_mines0">
         <Original>You don't need to be an explosives specialist to set mines. If you have a mine in your inventory, an item will appear in your action menu.%1%2Open the action menu %11.%1%2Go to a place you want mined.%1%2Select %3Put%4 mine.%1%2Confirm with %12.</Original>
         <Chinese>就算你不是爆破專精兵也可以裝設地雷。如果你的裝備欄中有地雷，在動作選單中會有相對應的圖標顯示。%1%2使用%11來打開動作選單。%1%2前往你想要裝設地雷的地點。%1%2選擇%3擺放%4地雷。%1%2按%12確認。</Chinese>
-        <Chinesesimp>就算你不是爆破专精兵也可以设置地雷。如果你的装备栏中有地雷，在动作菜单中会有相对应的图标显示。%1%2使用%11来打开动作菜单。%1%2前往你想要装设地雷的地点。%1%2选择%3摆放%4地雷。%1%2按%12确认。</Chinesesimp>
+        <Chinesesimp>就算你不是爆破专业兵也可以设置地雷。如果你的装备栏中有地雷，在动作菜单中会有相对应的图标显示。%1%2使用%11来打开动作菜单。%1%2前往你想要装设地雷的地点。%1%2选择%3摆放%4地雷。%1%2按%12确认。</Chinesesimp>
       </Key>
       <Key ID="str_a3_mines1">
         <Original>Arming Mines</Original>
@@ -1437,7 +1437,7 @@
       <Key ID="str_a3_tactics_artillerycall0">
         <Original>Artillery is a precise strike effective against well defended or armored targets.%1&lt;t&gt;&lt;/t&gt;1. Point at the target.%1&lt;t&gt;&lt;/t&gt;2. Press %11 or %3[0]%4 to enter the command menu.%1&lt;t&gt;&lt;/t&gt;3. Select %3Communications%4 - %3[8]%4.%1&lt;t&gt;&lt;/t&gt;4. Select %3Artillery Strike%4.%1&lt;t&gt;&lt;/t&gt;5. Choose an artillery type.%1&lt;t&gt;&lt;/t&gt;6. Select a type of ammo.%1&lt;t&gt;&lt;/t&gt;7. Pick the number of rounds.%1Artillery support will then confirm the request and report the splash.</Original>
         <Chinese>火砲是個能夠精準打擊掩體與裝甲目標的一種支援。%1&lt;t&gt;&lt;/t&gt;1.瞄準目標。%1&lt;t&gt;&lt;/t&gt;2.按下%11或%3[0]%4來進入命令選單。%1&lt;t&gt;&lt;/t&gt;3.選擇%3通信%4或按%3[8]%4。%1&lt;t&gt;&lt;/t&gt;4.選擇%3火砲打擊%4。%1&lt;t&gt;&lt;/t&gt;5.選擇火砲種類。%1&lt;t&gt;&lt;/t&gt;6.選擇彈藥類型。%1&lt;t&gt;&lt;/t&gt;7.選擇要發射幾發砲彈。%1火砲支援單位隨後會確認請求，要著彈時會再通知一次。</Chinese>
-        <Chinesesimp>火炮是能有效对付对付坚固或装甲目标的精确打击手段。%1&lt;t&gt;&lt;/t&gt;1.瞄准目标。%1&lt;t&gt;&lt;/t&gt;2.按下%11或%3[0]%4来进入命令菜单。%1&lt;t&gt;&lt;/t&gt;3.选择%3通信%4或按%3[8]%4。%1&lt;t&gt;&lt;/t&gt;4.选择%3火炮打击%4。%1&lt;t&gt;&lt;/t&gt;5.选择火炮种类。%1&lt;t&gt;&lt;/t&gt;6.选择弹药类型。%1&lt;t&gt;&lt;/t&gt;7.选择要发射几发炮弹。%1火炮支援单位随后会确认请求，要着弹时会再通知一次。</Chinesesimp>
+        <Chinesesimp>火炮是能有效对付坚固或装甲目标的精确打击手段。%1&lt;t&gt;&lt;/t&gt;1.瞄准目标。%1&lt;t&gt;&lt;/t&gt;2.按下%11或%3[0]%4来进入命令菜单。%1&lt;t&gt;&lt;/t&gt;3.选择%3通信%4或按%3[8]%4。%1&lt;t&gt;&lt;/t&gt;4.选择%3火炮打击%4。%1&lt;t&gt;&lt;/t&gt;5.选择火炮种类。%1&lt;t&gt;&lt;/t&gt;6.选择弹药类型。%1&lt;t&gt;&lt;/t&gt;7.选择要发射几发炮弹。%1火炮支援单位随后会确认请求，要着弹时会再通知一次。</Chinesesimp>
       </Key>
       <Key ID="str_a3_tactics_artillerycall1">
         <Original>Artillery Support</Original>
@@ -1971,12 +1971,12 @@
       <Key ID="str_a3_cfgvehicles_signcp_east_f0">
         <Original>Sign: Checkpoint [CSAT]</Original>
         <Chinese>標誌:檢查站[廣協同盟]</Chinese>
-        <Chinesesimp>标志：检查站[广协]</Chinesesimp>
+        <Chinesesimp>标志：检查站 [广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_signcp_nato_f0">
         <Original>Sign: Checkpoint [NATO]</Original>
         <Chinese>標誌:檢查站[北約]</Chinese>
-        <Chinesesimp>标志：检查站[北约]</Chinesesimp>
+        <Chinesesimp>标志：检查站 [北约]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_signs_impnoentry_f0">
         <Original>Sign: Improvised No Entry</Original>
@@ -3632,7 +3632,7 @@
           <Key ID="str_a3_cfgvehicles_box_east_wpsspecial_f0">
             <Original>Special Weapons [CSAT]</Original>
             <Chinese>特種武器箱[廣協同盟]</Chinese>
-            <Chinesesimp>特种武器箱[广协]</Chinesesimp>
+            <Chinesesimp>特种武器箱 [广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_box_ammoold_f0">
             <Original>Ammobox (Old)</Original>
@@ -3642,77 +3642,77 @@
           <Key ID="str_a3_cfgvehicles_box_east_wps_f0">
             <Original>Basic Weapons [CSAT]</Original>
             <Chinese>基本武器箱[廣協同盟]</Chinese>
-            <Chinesesimp>基本武器箱[广协]</Chinesesimp>
+            <Chinesesimp>基本武器箱 [广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_east_support_f0">
             <Original>Support [CSAT]</Original>
             <Chinese>支援裝備箱[廣協同盟]</Chinese>
-            <Chinesesimp>支援装备箱[广协]</Chinesesimp>
+            <Chinesesimp>支援装备箱 [广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_wps_f0">
             <Original>Weapons Cache [NATO]</Original>
             <Chinese>武器櫃[北約]</Chinese>
-            <Chinesesimp>武器箱[北约]</Chinesesimp>
+            <Chinesesimp>武器箱 [北约]</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgvehicles_box_east_supplycrate_f0">
             <Original>Supply Box [CSAT]</Original>
             <Chinese>補給箱[廣協同盟]</Chinese>
-            <Chinesesimp>补给箱[广协]</Chinesesimp>
+            <Chinesesimp>补给箱 [广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_nato_wpsspecial0">
             <Original>Special Weapons [NATO]</Original>
             <Chinese>特種武器箱[北約]</Chinese>
-            <Chinesesimp>特种武器箱[北约]</Chinesesimp>
+            <Chinesesimp>特种武器箱 [北约]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_east_grenades_f0">
             <Original>Grenades [CSAT]</Original>
             <Chinese>投擲類武器箱[廣協同盟]</Chinese>
-            <Chinesesimp>手榴弹箱[广协]</Chinesesimp>
+            <Chinesesimp>手榴弹箱 [广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_nato_wps0">
             <Original>Basic Weapons [NATO]</Original>
             <Chinese>基本武器箱[北約]</Chinese>
-            <Chinesesimp>基本武器箱[北约]</Chinesesimp>
+            <Chinesesimp>基本武器箱 [北约]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_east_ammoord_f0">
             <Original>Explosives [CSAT]</Original>
             <Chinese>炸藥箱[廣協同盟]</Chinese>
-            <Chinesesimp>炸药箱[广协]</Chinesesimp>
+            <Chinesesimp>炸药箱 [广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_nato_support_f0">
             <Original>Support [NATO]</Original>
             <Chinese>支援裝備箱[北約]</Chinese>
-            <Chinesesimp>支援装备箱[北约]</Chinesesimp>
+            <Chinesesimp>支援装备箱 [北约]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_east_ammo_f0">
             <Original>Basic Ammo [CSAT]</Original>
             <Chinese>基本彈藥箱[廣協同盟]</Chinese>
-            <Chinesesimp>基本弹药箱[广协]</Chinesesimp>
+            <Chinesesimp>基本弹药箱 [广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_nato_grenades_f0">
             <Original>Grenades [NATO]</Original>
             <Chinese>投擲類武器箱[北約]</Chinese>
-            <Chinesesimp>手榴弹箱[北约]</Chinesesimp>
+            <Chinesesimp>手榴弹箱 [北约]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_ammo_f0">
             <Original>Ammo Cache [NATO]</Original>
             <Chinese>彈藥櫃[北約]</Chinese>
-            <Chinesesimp>弹药柜[北约]</Chinesesimp>
+            <Chinesesimp>弹药柜 [北约]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_nato_ammoord_f0">
             <Original>Explosives [NATO]</Original>
             <Chinese>炸藥箱[北約]</Chinese>
-            <Chinesesimp>炸药箱[北约]</Chinesesimp>
+            <Chinesesimp>炸药箱 [北约]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_box_nato_ammo0">
             <Original>Basic Ammo [NATO]</Original>
             <Chinese>基本彈藥箱[北約]</Chinese>
-            <Chinesesimp>基本弹药箱[北约]</Chinesesimp>
+            <Chinesesimp>基本弹药箱 [北约]</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_b_supplycrate_f0">
             <Original>Supply Box [NATO]</Original>
             <Chinese>補給箱[北約]</Chinese>
-            <Chinesesimp>补给箱[北约]</Chinesesimp>
+            <Chinesesimp>补给箱 [北约]</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -3857,7 +3857,7 @@
         <Key ID="str_a3_cfgmagazines_classicminewiremagazine_library0">
           <Original>Tripwire anti-personnel mines consist of a dug-in mine and a 5m wire.  They are very hard to spot, but carry a smaller explosive charge than more typical mines.</Original>
           <Chinese>反人員絆線雷會被埋入土裡，並架設一條長5公尺的絆線。這種地雷非常難被察覺，但它攜帶的炸藥比其他類型的地雷少。</Chinese>
-          <Chinesesimp>反人员绊雷会被埋入土里，并拉设一条长5公尺的绊线。这种地雷非常难被察觉，但它携带的炸药比其他类型的地雷少。</Chinesesimp>
+          <Chinesesimp>反人员绊雷会被埋入土里，并拉设一条长5米的绊线。这种地雷非常难被察觉，但它携带的炸药比其他类型的地雷少。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_democharge0">
           <Original>Explosive Charge</Original>
@@ -5469,12 +5469,12 @@
           <Key ID="STR_A3_cfgmagazines_apfsd0">
             <Original>APFSDS</Original>
             <Chinese>尾穩脫殼穿甲彈</Chinese>
-            <Chinesesimp>尾稳脱壳穿甲弹</Chinesesimp>
+            <Chinesesimp>尾稳脱穿</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgmagazines_apfsd_t0">
             <Original>APFSDS-T</Original>
             <Chinese>尾穩脫殼穿甲曳光彈</Chinese>
-            <Chinesesimp>尾稳脱壳穿甲曳光弹</Chinesesimp>
+            <Chinesesimp>尾稳脱穿曳</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CfgMagazines_Chemlight_dns">
             <Original>Green Light</Original>
@@ -5611,7 +5611,7 @@
           <Key ID="str_a3_cfgweapons_toolkit1">
             <Original>Enables repair of vehicles - Engineer&lt;br/&gt;Enables deactivating explosives - Demo expert</Original>
             <Chinese>允許維修車輛-維修專精兵&lt;br/&gt;允許拆除炸藥-爆破專精兵</Chinese>
-            <Chinesesimp>允许维修车辆—维修专业兵&lt;br/&gt;允许拆除炸药—爆破专精兵</Chinesesimp>
+            <Chinesesimp>允许维修车辆—维修专业兵&lt;br/&gt;允许拆除炸药—爆破专业兵</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_test_emptyobjectforfirebig0">
             <Original>Fire</Original>
@@ -6193,22 +6193,22 @@
         <Key ID="str_a3_cfgvehicles_b_mortar_01_support0">
           <Original>Folded Mk6 Mortar Bipod [NATO]</Original>
           <Chinese>Mk6迫擊砲折疊式腳架[北約]</Chinese>
-          <Chinesesimp>Mk6 迫击炮折叠式脚架[北约]</Chinesesimp>
+          <Chinesesimp>Mk6 迫击炮折叠式脚架 [北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_mortar_01_support1">
           <Original>Folded Mk6 Mortar Bipod [CSAT]</Original>
           <Chinese>Mk6迫擊砲折疊式腳架[廣協同盟]</Chinese>
-          <Chinesesimp>Mk6 迫击炮折叠式脚架[广协]</Chinesesimp>
+          <Chinesesimp>Mk6 迫击炮折叠式脚架 [广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_mortar_01_support2">
           <Original>Folded Mk6 Mortar Bipod [AAF]</Original>
           <Chinese>Mk6迫擊砲折疊式腳架[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>Mk6 迫击炮折叠式脚架[AAF]</Chinesesimp>
+          <Chinesesimp>Mk6 迫击炮折叠式脚架 [AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_mortar_01_wpn0">
           <Original>Folded Mk6 Mortar Tube [NATO]</Original>
           <Chinese>Mk6迫擊砲折疊式砲管[北約]</Chinese>
-          <Chinesesimp>Mk6 迫击炮折叠式炮管[北约]</Chinesesimp>
+          <Chinesesimp>Mk6 迫击炮折叠式炮管 [北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_mortar_01_wpn_assembleinfo0">
           <Original>Mk6 Mortar</Original>
@@ -6218,12 +6218,12 @@
         <Key ID="str_a3_cfgvehicles_b_mortar_01_wpn1">
           <Original>Folded Mk6 Mortar Tube [CSAT]</Original>
           <Chinese>Mk6迫擊砲折疊式砲管[廣協同盟]</Chinese>
-          <Chinesesimp>Mk6 迫击炮折叠式炮管[广协]</Chinesesimp>
+          <Chinesesimp>Mk6 迫击炮折叠式炮管 [广协]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_mortar_01_wpn2">
           <Original>Folded Mk6 Mortar Tube [AAF]</Original>
           <Chinese>Mk6迫擊砲折疊式砲管[阿爾蒂斯武裝力量]</Chinese>
-          <Chinesesimp>Mk6 迫击炮折叠式炮管[AAF]</Chinesesimp>
+          <Chinesesimp>Mk6 迫击炮折叠式炮管 [AAF]</Chinesesimp>
         </Key>
       </Container>
       <Container name="Uniforms">
@@ -6241,7 +6241,7 @@
           <Key ID="str_a3_h_pilothelmetheli_o0">
             <Original>Heli Pilot Helmet [CSAT]</Original>
             <Chinese>直升機飛行員頭盔[廣協同盟]</Chinese>
-            <Chinesesimp>直升机飞行员头盔[广协]</Chinesesimp>
+            <Chinesesimp>直升机飞行员头盔 [广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_booniehat_khk0">
             <Original>Booniehat (Khaki)</Original>
@@ -6251,7 +6251,7 @@
           <Key ID="str_a3_h_pilothelmetheli_b0">
             <Original>Heli Pilot Helmet [NATO]</Original>
             <Chinese>直升機飛行員頭盔[北約]</Chinese>
-            <Chinesesimp>直升机飞行员头盔[北约]</Chinesesimp>
+            <Chinesesimp>直升机飞行员头盔 [北约]</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_cap_oli0">
             <Original>Cap (Olive)</Original>
@@ -6343,7 +6343,7 @@
           <Key ID="str_a3_helipilot_coveralls_aaf_0">
             <Original>Heli Pilot Coveralls [AAF]</Original>
             <Chinese>直升機飛行員連身衣[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>直升机飞行员连身衣[AAF]</Chinesesimp>
+            <Chinesesimp>直升机飞行员连身衣 [AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_underwear1">
             <Original>Underwear</Original>
@@ -6353,7 +6353,7 @@
           <Key ID="str_a3_u_oi_wetsuit0">
             <Original>Wetsuit [CSAT]</Original>
             <Chinese>潛水衣[廣協同盟]</Chinese>
-            <Chinesesimp>潜水衣[广协]</Chinesesimp>
+            <Chinesesimp>潜水衣 [广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_nikos_clothes_0">
             <Original>Nikos Clothes</Original>
@@ -6368,7 +6368,7 @@
           <Key ID="str_a3_u_b_wetsuit0">
             <Original>Wetsuit [NATO]</Original>
             <Chinese>潛水衣[北約]</Chinese>
-            <Chinesesimp>潜水衣[北约]</Chinesesimp>
+            <Chinesesimp>潜水衣 [北约]</Chinesesimp>
           </Key>
           <Key ID="str_a3_combat_fatigues">
             <Original>Combat Fatigues (MTP)</Original>
@@ -6378,17 +6378,17 @@
           <Key ID="str_a3_vrsuit_aaf_0">
             <Original>VR Suit [AAF]</Original>
             <Chinese>虛擬實境衣服[阿爾蒂斯武裝力量]</Chinese>
-            <Chinesesimp>虚拟实境服[AAF]</Chinesesimp>
+            <Chinesesimp>虚拟实境服 [AAF]</Chinesesimp>
           </Key>
           <Key ID="str_a3_vrsuit_csat_0">
             <Original>VR Suit [CSAT]</Original>
             <Chinese>虛擬實境衣服[廣協同盟]</Chinese>
-            <Chinesesimp>虚拟实境服[广协]</Chinesesimp>
+            <Chinesesimp>虚拟实境服 [广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_vrsuit_nato_0">
             <Original>VR Suit [NATO]</Original>
             <Chinese>虛擬實境衣服[北約]</Chinese>
-            <Chinesesimp>虚拟实境服[北约]</Chinesesimp>
+            <Chinesesimp>虚拟实境服 [北约]</Chinesesimp>
           </Key>
           <Key ID="str_a3_recon_fatigues">
             <Original>Recon Fatigues (MTP)</Original>
@@ -6403,7 +6403,7 @@
           <Key ID="str_a3_pilot_coveralls_iran">
             <Original>Pilot Coveralls [CSAT]</Original>
             <Chinese>飛行員連身衣[廣協同盟]</Chinese>
-            <Chinesesimp>飞行员连身衣[广协]</Chinesesimp>
+            <Chinesesimp>飞行员连身衣 [广协]</Chinesesimp>
           </Key>
           <Key ID="str_a3_commoner_clothes_redwhite_0">
             <Original>Commoner Clothes (Red-White)</Original>
@@ -6468,7 +6468,7 @@
           <Key ID="str_a3_helipilot_coveralls_nato_0">
             <Original>Heli Pilot Coveralls [NATO]</Original>
             <Chinese>直升機飛行員連身衣[北約]</Chinese>
-            <Chinesesimp>直升机飞行员连身衣[北约]</Chinesesimp>
+            <Chinesesimp>直升机飞行员连身衣 [北约]</Chinesesimp>
           </Key>
           <Key ID="str_a3_commoner_clothes_striped_0">
             <Original>Commoner Clothes (Striped)</Original>
@@ -6478,7 +6478,7 @@
           <Key ID="str_a3_vrsuit_civ_0">
             <Original>VR Suit [Civilians]</Original>
             <Chinese>VR套裝[平民]</Chinese>
-            <Chinesesimp>VR 套装[平民]</Chinesesimp>
+            <Chinesesimp>VR 套装 [平民]</Chinesesimp>
           </Key>
         </Container>
         <Container name="Vest">
@@ -6663,27 +6663,27 @@
         <Key ID="str_a3_gmg_40mm0">
           <Original>RCWS GMG 40 mm</Original>
           <Chinese>遙控砲塔40公厘榴彈機槍</Chinese>
-          <Chinesesimp>遥控武器站40 mm 榴弹发射器</Chinesesimp>
+          <Chinesesimp>遥控武器站 榴弹发射器 40 mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_hmg_1270">
           <Original>RCWS HMG 12.7 mm</Original>
           <Chinese>遙控砲塔12.7公厘重機槍</Chinese>
-          <Chinesesimp>遥控武器站12.7 mm 重机枪</Chinesesimp>
+          <Chinesesimp>遥控武器站 重机枪 12.7 mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_hmg_m20">
           <Original>M2 HMG .50</Original>
           <Chinese>M2 .50口徑重機槍</Chinese>
-          <Chinesesimp>M2 .50口径重机枪</Chinesesimp>
+          <Chinesesimp>M2 重机枪 .50</Chinesesimp>
         </Key>
         <Key ID="str_a3_hmg_mk300">
           <Original>Mk30 HMG .50</Original>
           <Chinese>Mk30 .50口徑重機槍</Chinese>
-          <Chinesesimp>Mk30 .50口径重机枪</Chinesesimp>
+          <Chinesesimp>Mk30 重机枪 .50</Chinesesimp>
         </Key>
         <Key ID="str_a3_hmg_nsvt0">
           <Original>NSVT-M HMG 12.7 mm </Original>
           <Chinese>NSVT-M 12.7公厘重機槍</Chinese>
-          <Chinesesimp>NSVT-M 12.7 mm 重机枪</Chinesesimp>
+          <Chinesesimp>NSVT-M 重机枪 12.7 mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_laserdesignator_mounted0">
           <Original>Laser Marker</Original>
@@ -6693,17 +6693,17 @@
         <Key ID="str_a3_lmg_m2000">
           <Original>M200 LMG 6.5 mm</Original>
           <Chinese>M200 6.5公厘輕機槍</Chinese>
-          <Chinesesimp>M200 6.5 mm 轻机枪</Chinesesimp>
+          <Chinesesimp>M200 轻机枪 6.5 mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_lmg_minigun0">
           <Original>Minigun 6.5 mm</Original>
           <Chinese>6.5 公厘"米尼崗"速射機槍</Chinese>
-          <Chinesesimp>6.5 mm 转管机枪</Chinesesimp>
+          <Chinesesimp>转管机枪 6.5 mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_lmg_rcws0">
           <Original>RCWS LMG 6.5 mm</Original>
           <Chinese>遙控砲塔6.5公厘輕機槍</Chinese>
-          <Chinesesimp>遥控武器站6.5 mm 轻机枪</Chinesesimp>
+          <Chinesesimp>遥控武器站 轻机枪 6.5 mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_lmg_rcws_manual0">
           <Original>MGun</Original>
@@ -6713,12 +6713,12 @@
         <Key ID="str_a3_m134_minigun0">
           <Original>2x M134 Minigun 7.62 mm</Original>
           <Chinese>雙聯裝M134 7.62公厘"米尼崗"速射機槍</Chinese>
-          <Chinesesimp>双联装M134 7.62 mm 转管机枪</Chinesesimp>
+          <Chinesesimp>双联 M134 转管机枪 7.62 mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_m134_minigun_highrof0">
           <Original>4000rpm</Original>
           <Chinese>4000轉每分鐘</Chinese>
-          <Chinesesimp>4000转分钟</Chinesesimp>
+          <Chinesesimp>4000转每分钟</Chinesesimp>
         </Key>
         <Key ID="str_a3_m134_minigun_lowrof0">
           <Original>2000rpm</Original>
@@ -7033,7 +7033,7 @@
         <Key ID="str_a3_cfgvehicles_headlessclient">
           <Original>Headless Client</Original>
           <Chinese>無頭客戶端</Chinese>
-          <Chinesesimp>无头客户端</Chinesesimp>
+          <Chinesesimp>Headless 客户端</Chinesesimp>
         </Key>
       </Container>
       <Container name="SoldierProtection">
@@ -14868,7 +14868,7 @@
         <Key ID="str_a3_cfgvehicles_rubber_duck_base_library0">
           <Original>An inflatable boat, often nicknamed 'Rubber Duck', is a lightweight boat constructed from tubes containing pressurized gas. Inflatables typically come in lengths between 2 to 7 meters. Due to their speed, weight and portability, inflatable boats are used in diverse roles such as lifeguard and rescue boats and even more often in the military as a landing craft.</Original>
           <Chinese>突擊橡皮艇，綽號"橡皮鴨"，是一種輕量級的橡皮艇，由加壓氣體進行充氣。充氣後的長度介於2到7公尺之間。由於其速度性，輕重量與便攜性，使這種橡皮艇能扮演不同的角色，像是用於救生的救生艇，但它更常被用作軍事上的登陸用途。</Chinese>
-          <Chinesesimp>突击橡皮艇，绰号"橡皮鸭"，是一种轻量级的橡皮艇，由加压气体进行充气。充气后的长度介于2到7公尺之间。由于其速度性，轻重量与便携性，使这种橡皮艇能扮演不同的角色，像是用于救生的救生艇，但它更常被用作军事上的登陆用途。</Chinesesimp>
+          <Chinesesimp>突击橡皮艇，绰号"橡皮鸭"，是一种轻量级的橡皮艇，由加压气体进行充气。充气后的长度介于2到7米之间。由于其速度性，轻重量与便携性，使这种橡皮艇能扮演不同的角色，像是用于救生的救生艇，但它更常被用作军事上的登陆用途。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_mrap_02_Base_Library0">
           <Original>The Ifrit is a new Mine-Resistant Ambush Protected (MRAP) vehicle designed and manufactured in Russia. Its strengths lie in reliability in extreme weather conditions and crew protection, but its manufacturing costs are somewhat higher compared to other MRAPs. The Ifrit can be fitted with a RCWS turret and armed with a 12.7 mm heavy machine gun or a 40 mm grenade launcher.</Original>
@@ -17175,7 +17175,7 @@
         <Key ID="str_a3_cfgvehicles_land_lampstreet_off_f0">
           <Original>Street Lamp [off]</Original>
           <Chinese>路燈[關閉]</Chinese>
-          <Chinesesimp>路灯[关闭]</Chinesesimp>
+          <Chinesesimp>路灯 [关闭]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wheelcart_f0">
           <Original>Wheel Cart</Original>
@@ -17195,7 +17195,7 @@
         <Key ID="str_a3_cfgvehicles_land_lampstreet_f0">
           <Original>Street Lamp [on]</Original>
           <Chinese>路燈[開啟]</Chinese>
-          <Chinesesimp>路灯[开启]</Chinesesimp>
+          <Chinesesimp>路灯 [开启]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_tyre_f0">
           <Original>Tire</Original>
@@ -17315,7 +17315,7 @@
         <Key ID="str_a3_cfgvehicles_land_bricks_v2_f0">
           <Original>Stack of Bricks (Part, v1)</Original>
           <Chinese>一堆磚頭(部分，1型)</Chinese>
-          <Chinesesimp>一堆砖头（部分，1型）</Chinesesimp>
+          <Chinesesimp>一堆砖头（部分，版本1）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pipes_large_f0">
           <Original>Pipes (Large)</Original>
@@ -17325,7 +17325,7 @@
         <Key ID="str_a3_cfgvehicles_land_bricks_v3_f0">
           <Original>Stack of Bricks (Part, v2)</Original>
           <Chinese>一堆磚頭(部分，2型)</Chinese>
-          <Chinesesimp>一堆砖头（部分，2型）</Chinesesimp>
+          <Chinesesimp>一堆砖头（部分，版本2）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pavement_wide_f0">
           <Original>Sidewalk (Wide)</Original>
@@ -17335,7 +17335,7 @@
         <Key ID="str_a3_cfgvehicles_land_bricks_v4_f0">
           <Original>Stack of Bricks (Part, v3)</Original>
           <Chinese>一堆磚頭(部分，3型)</Chinese>
-          <Chinesesimp>一堆砖头（部分，3型）</Chinesesimp>
+          <Chinesesimp>一堆砖头（部分，版本3）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pavement_narrow_f0">
           <Original>Sidewalk (Narrow)</Original>
@@ -17500,12 +17500,12 @@
         <Key ID="str_a3_cfgvehicles_land_grave_v1_f0">
           <Original>Grave (Stone, v1)</Original>
           <Chinese>墳墓(石製，1型)</Chinese>
-          <Chinesesimp>坟墓（石制，1型）</Chinesesimp>
+          <Chinesesimp>坟墓（石制，版本1）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_grave_v2_f0">
           <Original>Grave (Stone, v2)</Original>
           <Chinese>墳墓(石製，2型)</Chinese>
-          <Chinesesimp>坟墓（石制，2型）</Chinesesimp>
+          <Chinesesimp>坟墓（石制，版本2）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_humanskeleton_f0">
           <Original>Skeleton</Original>
@@ -17515,7 +17515,7 @@
         <Key ID="str_a3_cfgvehicles_land_grave_v3_f0">
           <Original>Grave (Stone, v3)</Original>
           <Chinese>墳墓(石製，3型)</Chinese>
-          <Chinesesimp>坟墓（石制，3型）</Chinesesimp>
+          <Chinesesimp>坟墓（石制，版本3）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Dominants">
@@ -17556,7 +17556,7 @@
         <Key ID="str_a3_cfgvehicles_land_cargo_addon01_v1_f0">
           <Original>Slum Roof Addon (v1)</Original>
           <Chinese>貧民窟屋頂組件(1型)</Chinese>
-          <Chinesesimp>贫民窟屋顶组件（1型）</Chinesesimp>
+          <Chinesesimp>贫民窟屋顶组件（版本1）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_u_house_small_02_v1_f0">
           <Original>House (Small, Abandoned)</Original>
@@ -17566,7 +17566,7 @@
         <Key ID="str_a3_cfgvehicles_land_cargo_addon01_v2_f0">
           <Original>Slum Roof Addon (v2)</Original>
           <Chinese>貧民窟屋頂組件(2型)</Chinese>
-          <Chinesesimp>贫民窟屋顶组件（2型）</Chinesesimp>
+          <Chinesesimp>贫民窟屋顶组件（版本2）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_u_house_small_01_v1_f0">
           <Original>House (Abandoned)</Original>
@@ -18214,7 +18214,7 @@
         <Key ID="str_a3_cfgvehicles_land_wall_tin_4_20">
           <Original>Tin Fence (v2)</Original>
           <Chinese>鐵片柵欄(2型)</Chinese>
-          <Chinesesimp>铁片栅栏（2型）</Chinesesimp>
+          <Chinesesimp>铁片栅栏（版本2）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_canal_wall_10m_f0">
           <Original>Canal Wall</Original>
@@ -18847,17 +18847,17 @@
         <Key ID="str_a3_cfgvehicles_land_rowboat_v1_f0">
           <Original>Rowboat (v1)</Original>
           <Chinese>劃船(1型)</Chinese>
-          <Chinesesimp>划船（1型）</Chinesesimp>
+          <Chinesesimp>划船（版本1）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_rowboat_v2_f0">
           <Original>Rowboat (v2)</Original>
           <Chinese>劃船(2型)</Chinese>
-          <Chinesesimp>划船（2型）</Chinesesimp>
+          <Chinesesimp>划船（版本2）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_rowboat_v3_f0">
           <Original>Rowboat (v3)</Original>
           <Chinese>劃船(3型)</Chinese>
-          <Chinesesimp>划船（3型）</Chinesesimp>
+          <Chinesesimp>划船（版本3）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_sea_wall_f0">
           <Original>Rock Wavebreaker</Original>

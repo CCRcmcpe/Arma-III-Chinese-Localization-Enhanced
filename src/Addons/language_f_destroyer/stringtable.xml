@@ -79,7 +79,7 @@
       <Key ID="STR_A3_Land_Destroyer_01_DLCbrowser_title">
         <Original>Destroyer [USS Liberty]</Original>
         <Chinese>驅逐艦[美國海軍"解放"號]</Chinese>
-        <Chinesesimp>驱逐舰[美国海军"解放"号]</Chinesesimp>
+        <Chinesesimp>驱逐舰 [美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Ship_Gun_01_DLCbrowser_description">
         <Original>120mm naval gun provides NATO naval vessels with heavy firepower capability, designed for use with Liberty class destroyers.</Original>
@@ -202,57 +202,57 @@
       <Key ID="STR_A3_Land_Destroyer_01_Name">
         <Original>Destroyer [USS Liberty]</Original>
         <Chinese>驅逐艦[美國海軍"解放"號]</Chinese>
-        <Chinesesimp>驱逐舰[美国海军"解放"号]</Chinesesimp>
+        <Chinesesimp>驱逐舰 [美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_01_hull_00_F">
         <Original>Destroyer [Liberty Class]</Original>
         <Chinese>驅逐艦["解放"級]</Chinese>
-        <Chinesesimp>驱逐舰["解放"级]</Chinesesimp>
+        <Chinesesimp>驱逐舰 ["解放"级]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_hull_base_F">
         <Original>Destroyer [USS Liberty]</Original>
         <Chinese>驅逐艦[美國海軍"解放"號]</Chinese>
-        <Chinesesimp>驱逐舰[美国海军"解放"号]</Chinesesimp>
+        <Chinesesimp>驱逐舰 [美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_hull_01_F">
         <Original>Destroyer Part [USS Liberty]</Original>
         <Chinese>驅逐艦部件[美國海軍"解放"號]</Chinese>
-        <Chinesesimp>驱逐舰部件[美国海军"解放"号]</Chinesesimp>
+        <Chinesesimp>驱逐舰部件 [美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_hull_02_F">
         <Original>Destroyer Part [USS Liberty]</Original>
         <Chinese>驅逐艦部件[美國海軍"解放"號]</Chinese>
-        <Chinesesimp>驱逐舰部件[美国海军"解放"号]</Chinesesimp>
+        <Chinesesimp>驱逐舰部件 [美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_hull_03_F">
         <Original>Destroyer Part [USS Liberty]</Original>
         <Chinese>驅逐艦部件[美國海軍"解放"號]</Chinese>
-        <Chinesesimp>驱逐舰部件[美国海军"解放"号]</Chinesesimp>
+        <Chinesesimp>驱逐舰部件 [美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_hull_04_F">
         <Original>Destroyer Part [USS Liberty]</Original>
         <Chinese>驅逐艦部件[美國海軍"解放"號]</Chinese>
-        <Chinesesimp>驱逐舰部件[美国海军"解放"号]</Chinesesimp>
+        <Chinesesimp>驱逐舰部件 [美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_hull_05_F">
         <Original>Destroyer Part [USS Liberty]</Original>
         <Chinese>驅逐艦部件[美國海軍"解放"號]</Chinese>
-        <Chinesesimp>驱逐舰部件[美国海军"解放"号]</Chinesesimp>
+        <Chinesesimp>驱逐舰部件 [美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_interior_02_F">
         <Original>Destroyer Interior [USS Liberty]</Original>
         <Chinese>驅逐艦內部[美國海軍"解放"號]</Chinese>
-        <Chinesesimp>驱逐舰内部[美国海军"解放"号]</Chinesesimp>
+        <Chinesesimp>驱逐舰内部 [美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_interior_03_F">
         <Original>Destroyer Interior [USS Liberty]</Original>
         <Chinese>驅逐艦內部[美國海軍"解放"號]</Chinese>
-        <Chinesesimp>驱逐舰内部[美国海军"解放"号]</Chinesesimp>
+        <Chinesesimp>驱逐舰内部 [美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_interior_04_F">
         <Original>Destroyer Interior [USS Liberty]</Original>
         <Chinese>驅逐艦內部[美國海軍"解放"號]</Chinese>
-        <Chinesesimp>驱逐舰内部[美国海军"解放"号]</Chinesesimp>
+        <Chinesesimp>驱逐舰内部 [美国海军"解放"号]</Chinesesimp>
       </Key>
     </Container>
   </Package>

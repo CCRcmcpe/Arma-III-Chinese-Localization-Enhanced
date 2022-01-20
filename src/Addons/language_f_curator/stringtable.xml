@@ -2224,7 +2224,7 @@
           <Key ID="str_a3_mp_zgm_m11.altis_params_curatormoderatorrights_3">
             <Original>Cannot create and edit anything (spectating only)</Original>
             <Chinese>不能創建與編輯任何物件(只能觀戰)</Chinese>
-            <Chinesesimp>不能创建与编辑任何物件（只能观战）</Chinesesimp>
+            <Chinesesimp>不能创建与编辑任何物件（只能观察）</Chinesesimp>
           </Key>
         </Container>
         <Container name="MP_ZGM_m12" />
@@ -3498,7 +3498,7 @@
         <Key ID="str_a3_cfgvehicles_modulecuratoraddeditingareaplayers_f_arguments_size">
           <Original>Area radius [m]</Original>
           <Chinese>區域半徑[m]</Chinese>
-          <Chinesesimp>区域半径[m]</Chinesesimp>
+          <Chinesesimp>区域半径 [m]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratoraddeditingareaplayers_f">
           <Original>Restrict Editing Around Players</Original>
@@ -3573,7 +3573,7 @@
         <Key ID="str_a3_cfgvehicles_modulecuratoraddcameraarea_f_arguments_ceiling_description">
           <Original>Camera ceiling in meters. It will be applied globally, not only for this specific area. The default value is 2000 m.</Original>
           <Chinese>攝影機最高可到達的高度。它的設定將是整個地圖通用，不是只有特定的區域而已。預設的高度是2000公尺。</Chinese>
-          <Chinesesimp>摄影机最高可到达的高度。它的设定将是整个地图通用，不是只有特定的区域而已。预设的高度是2000公尺。</Chinesesimp>
+          <Chinesesimp>摄影机最高可到达的高度。它的设定将是整个地图通用，不是只有特定的区域而已。预设的高度是2000米。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecuratoraddcameraarea_f_arguments_ceiling">
           <Original>Ceiling</Original>
