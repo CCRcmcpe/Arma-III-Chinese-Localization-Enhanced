@@ -2492,7 +2492,7 @@
             <Key ID="str_a3_showcase_commanding_i_x05_retreat_bhq_1">
               <Original>Papa Bear to all squads, be advised, Bravo just lost Girna. The west flank is not secure - be careful out there!</Original>
               <Chinese>Papa Bear致所有小隊，請注意，Bravo剛失去了吉爾納村莊。我們的西翼已不安全-請小心!</Chinese>
-              <Chinesesimp>Papa Bear 致各班都有，请注意，Bravo 刚失去了格尔纳村。我们的西翼已不安全—请小心！</Chinesesimp>
+              <Chinesesimp>Papa Bear 呼叫各班，请注意，Bravo 刚失去了格尔纳村。我们的西翼已不安全—请小心！</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_commanding_i_x05_retreat_bra_0">
               <Original>Fallback! Fall! Back!</Original>
@@ -2521,7 +2521,7 @@
             <Key ID="str_a3_showcase_commanding_i_35_victory_bhq_1">
               <Original>Papa Bear to all squads, be advised, Bravo has held Girna. West flank is secure. Papa Bear out.</Original>
               <Chinese>Papa Bear致所有小隊，請注意，Bravo已經守住了吉爾納村莊。西翼已安全。Papa Bear通話完畢。</Chinese>
-              <Chinesesimp>Papa Bear 致各班都有，请注意，Bravo 已经守住了格尔纳村。西翼已安全。Papa Bear 通话完毕。</Chinesesimp>
+              <Chinesesimp>Papa Bear 呼叫各班，请注意，Bravo 已经守住了格尔纳村。西翼已安全。Papa Bear 通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_commanding_i_35_victory_bra_0">
               <Original>Alright, gentlemen, the village is ours!</Original>

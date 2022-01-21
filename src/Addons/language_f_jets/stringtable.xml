@@ -150,7 +150,7 @@
       <Key ID="str_a3_hint_bombs_tip">
         <Original>You can try dropping a bomb, so it detonates on the reverse side of a salient feature, such as a hill. If a small X appears inside the CCIP cross in your optics, then it shows that the bomb will land beyond the terrain in front of you.</Original>
         <Chinese>您可以試著投下炸彈，讓炸彈在顯著地形的反向坡上爆炸，例如:山丘。如果(CCIP)裡的準心出現X，那代表炸彈會落在你瞄準之外的地方。</Chinese>
-        <Chinesesimp>您可以试着投下炸弹，让炸弹在显着地形的反向坡上爆炸，例如：山丘。如果（CCIP）里的准心出现X，那代表炸弹会落在你瞄准之外的地方。</Chinesesimp>
+        <Chinesesimp>您可以试着投下炸弹，让炸弹在显著地形的反向坡上爆炸，例如：山丘。如果（CCIP）里的准心出现X，那代表炸弹会落在你瞄准之外的地方。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_bombs_desc">
         <Original>A bomb is an airdropped explosive munition. After releasing, it follows a ballistic path. Where the bomb will land, if released at the given moment, is shown by a continuously-computed impact point (CCIP) in your HUD - a small crosshair or circle with a dot.%1%1Guided bombs can make corrections to this path to achieve better precision or to strike a moving target. At certain altitude a laser guided bomb (LGB) will automatically home in on the nearest laser spot (marked by your own targeting camera or friendly JTAC).%1 1. Press %11 to mark a lased spot.%1 2. Maneuver to bring the CCIP and marked laser together.%1 3. Release the bomb once the icons overlap or are reasonably close together.</Original>

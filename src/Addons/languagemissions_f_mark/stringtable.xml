@@ -964,7 +964,7 @@
           <Key ID="STR_A3_Showcase_Marksman_Debriefing_Win01_text">
             <Original>You have succeeded in delivering a significant blow to the FIA's operations.</Original>
             <Chinese>你的行動已成功對自由獨立同盟造成顯著的打擊。</Chinese>
-            <Chinesesimp>你的行动已成功对 FIA 造成显着的打击。</Chinesesimp>
+            <Chinesesimp>你的行动已成功对 FIA 造成显著的打击。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_mrkVilla">
             <Original>Insurgent HQ</Original>
@@ -994,7 +994,7 @@
           <Key ID="STR_A3_Showcase_Marksman_Debriefing_Win02_text">
             <Original>You have succeeded in delivering a significant blow to the FIA's operations. Unfortunately, Viper-Green was KIA.</Original>
             <Chinese>你的行動已成功對自由獨立同盟造成顯著的打擊。但不幸的是，"毒蛇-綠"卻在行動中陣亡了。</Chinese>
-            <Chinesesimp>你的行动已成功对 FIA 造成显着的打击。但不幸的是，"毒蛇-绿"却在行动中阵亡了。</Chinesesimp>
+            <Chinesesimp>你的行动已成功对 FIA 造成显著的打击。但不幸的是，"毒蛇-绿"却在行动中阵亡了。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_SerpentAttack">
             <Original>Serpent - attack</Original>

@@ -205,7 +205,7 @@
       <Key ID="str_a3_orange_cfgmods_idapvehicles_description">
         <Original>IDAP has purchased a range of commercial vehicles, including drones, for humanitarian missions. Clearly distinguishable markings are applied in order to operate in high-risk areas as an unarmed neutral party. For activities requiring airlifts, they lease aircraft temporarily.</Original>
         <Chinese>國際發展援助工程組織(國發援)購買了一系列商用車型以及無人機用於人道主義使命。為了在高危地區作為非武裝中立派別活動，它們全都塗有顯著的標誌。在執行空運任務時它們會臨時租借飛機。</Chinese>
-        <Chinesesimp>国际发展援助工程组织（国发援）购买了一系列商用车型以及无人机用于人道主义使命。为了在高危地区作为非武装中立派别活动，它们全都涂有显着的标志。在执行空运任务时它们会临时租借飞机。</Chinesesimp>
+        <Chinesesimp>国际发展援助工程组织（国发援）购买了一系列商用车型以及无人机用于人道主义使命。为了在高危地区作为非武装中立派别活动，它们全都涂有显著的标志。在执行空运任务时它们会临时租借飞机。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_idapobjects_displayname">
         <Original>IDAP Objects</Original>
@@ -3711,7 +3711,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_definitions_description">
         <Original>%2 &lt;t %5&gt;Combatant&lt;/t&gt;: members of armed forces, members of any armed group under the orders of a party to a conflict%1%2 &lt;t %5&gt;Hors de combat&lt;/t&gt;: "out of fight" - combatants who have been captured or wounded or who are sick or shipwrecked and thus no longer in a position to fight%1%2 &lt;t %5&gt;Civilian&lt;/t&gt;: any person who is not a combatant%1%2 &lt;t %5&gt;Armed conflict&lt;/t&gt;: fighting between countries (international) or between a country's armed forces and armed groups (non-international) or between such groups%1%2 &lt;t %5&gt;Military objective&lt;/t&gt;: an object that by its nature, location, purpose or use makes an effective contribution to military action and whose destruction offers a definite military advantage%1%2 &lt;t %5&gt;Non-reciprocity&lt;/t&gt;: breaches of IHL by one party to a conflict do not justify breaches by other parties%1%2 &lt;t %5&gt;Equality&lt;/t&gt;: IHL applies to all parties of an armed conflict equally</Original>
         <Chinese>武裝力量的%2&lt;t%5&gt;戰鬥人員&lt;/t&gt;:成員，任何在任意一方控制下的武裝組織的成員%1%2&lt;t%5&gt;Horsdecombat&lt;/t&gt;:"失去戰鬥力"——戰鬥人員被俘、受傷或因患病或船隻遇難而無法繼續戰鬥%1%2&lt;t%5&gt;平民&lt;/t&gt;:任何不是戰鬥人員的人%1%2&lt;t%5&gt;武裝衝突&lt;/t&gt;:在國家間(國際性)或一國內的武裝力量和武裝組織(國內性)或此類組織之間爆發的戰鬥%1%2&lt;t%5&gt;軍事目標&lt;/t&gt;:根據其性質、地點、意圖或用途能為軍事行動作出顯著貢獻以及其損毀會達成特定軍事目的的目標%1%2&lt;t%5&gt;非對等性&lt;/t&gt;:衝突中的一方違反《國際人道主義法》不構成另一方違反該法的正當理由%1%2&lt;t%5&gt;平等性&lt;/t&gt;:《國際人道主義法》對武裝衝突中的所有派別一視同仁</Chinese>
-        <Chinesesimp>武装力量的%2&lt;t%5&gt;战斗人员&lt;/t&gt;：成员，任何在任意一方控制下的武装组织的成员%1%2&lt;t%5&gt;Horsdecombat&lt;/t&gt;："失去战斗力"——战斗人员被俘、受伤或因患病或船只遇难而无法继续战斗%1%2&lt;t%5&gt;平民&lt;/t&gt;：任何不是战斗人员的人%1%2&lt;t%5&gt;武装冲突&lt;/t&gt;：在国家间(国际性)或一国内的武装力量和武装组织（国内性）或此类组织之间爆发的战斗%1%2&lt;t%5&gt;军事目标&lt;/t&gt;：根据其性质、地点、意图或用途能为军事行动作出显着贡献以及其损毁会达成特定军事目的的目标%1%2&lt;t%5&gt;非对等性&lt;/t&gt;：冲突中的一方违反《国际人道主义法》不构成另一方违反该法的正当理由%1%2&lt;t%5&gt;平等性&lt;/t&gt;：《国际人道主义法》对武装冲突中的所有派别一视同仁</Chinesesimp>
+        <Chinesesimp>武装力量的%2&lt;t%5&gt;战斗人员&lt;/t&gt;：成员，任何在任意一方控制下的武装组织的成员%1%2&lt;t%5&gt;Horsdecombat&lt;/t&gt;："失去战斗力"——战斗人员被俘、受伤或因患病或船只遇难而无法继续战斗%1%2&lt;t%5&gt;平民&lt;/t&gt;：任何不是战斗人员的人%1%2&lt;t%5&gt;武装冲突&lt;/t&gt;：在国家间(国际性)或一国内的武装力量和武装组织（国内性）或此类组织之间爆发的战斗%1%2&lt;t%5&gt;军事目标&lt;/t&gt;：根据其性质、地点、意图或用途能为军事行动作出显著贡献以及其损毁会达成特定军事目的的目标%1%2&lt;t%5&gt;非对等性&lt;/t&gt;：冲突中的一方违反《国际人道主义法》不构成另一方违反该法的正当理由%1%2&lt;t%5&gt;平等性&lt;/t&gt;：《国际人道主义法》对武装冲突中的所有派别一视同仁</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_dlcstrategy_tip">
         <Original>You can try premium assets in the Virtual Arsenal mode without restriction!</Original>

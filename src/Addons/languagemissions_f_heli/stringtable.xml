@@ -2993,7 +2993,7 @@
         <Key ID="str_a3_mp_groundsupport_tips_completingtasks_2">
           <Original>The side Score has a direct gameplay effect. When it reaches a set threshold, the side HQ will issue a Tactical Strike. </Original>
           <Chinese>陣營的分數會對遊戲產生顯著的變化。當分數達到一個定額時，該陣營的總部將會開始提供戰略打擊。</Chinese>
-          <Chinesesimp>阵营的分数会对游戏产生显着的变化。当分数达到一个定额时，该阵营的总部将会开始提供战略打击。</Chinesesimp>
+          <Chinesesimp>阵营的分数会对游戏产生显著的变化。当分数达到一个定额时，该阵营的总部将会开始提供战略打击。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_tips_completingtasks_1">
           <Original>Your Score measures how well you perform on the battlefield and is shown on the Scoreboard. </Original>
@@ -3308,7 +3308,7 @@
         <Key ID="str_a3_mp_groundsupport_closeairsupport_done">
           <Original>%2, good effect on target. Out.</Original>
           <Chinese>%2，打擊效果顯著。通話完畢。</Chinese>
-          <Chinesesimp>%2，打击效果显着。通话完毕。</Chinesesimp>
+          <Chinesesimp>%2，打击效果显著。通话完毕。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_closeairsupport_canceled">
           <Original>%1 have canceled their request for CAS. Continue on mission.</Original>

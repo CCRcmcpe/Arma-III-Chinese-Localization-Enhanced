@@ -1426,7 +1426,7 @@
           <Key ID="str_a3_showcase_lawsofwar_022_sim2_op1_guide_6">
             <Original>Mines, then, clearly violate the Principle of Distinction - they can't tell a soldier from a child or friend from foe.</Original>
             <Chinese>地雷，由此可見，顯著地違反了區分原則——他們沒法分清士兵或兒童，朋友或敵人。</Chinese>
-            <Chinesesimp>地雷，由此可见，显着地违反了区分原则——他们没法分清士兵或儿童，朋友或敌人。</Chinesesimp>
+            <Chinesesimp>地雷，由此可见，显著地违反了区分原则——他们没法分清士兵或儿童，朋友或敌人。</Chinesesimp>
           </Key>
         </Container>
         <Container name="021_sim2_tasks" audioFilePath="\a3\dubbing_f_orange\showcase_lawsofwar" dialogName="021_sim2_tasks" dubbingLanguage="english" namePrefix="showcase_lawsofwar_021_sim2_tasks" note="" participants="Orange_guide;" situation="radio monologue one-liners by the sim 2 idap instructor for various tasks">
