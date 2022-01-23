@@ -3184,7 +3184,7 @@
       <Key ID="str_a3_cfgvehicles_i_plane_fighter_04_cluster_f0">
         <Original>A-149 Gryphon (Cluster)</Original>
         <Chinese>A-149"獅鷲"(集束炸彈)</Chinese>
-        <Chinesesimp>A-149"狮鹫"（集束炸弹）</Chinesesimp>
+        <Chinesesimp>A-149 "狮鹫"（集束炸弹）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_plane_cas_02_cluster_f0">
         <Original>To-199 Neophron (Cluster)</Original>
@@ -3204,7 +3204,7 @@
       <Key ID="str_a3_cfgvehicles_b_plane_cas_01_cluster_f0">
         <Original>A-164 Wipeout (Cluster)</Original>
         <Chinese>A-164"抹殺者"(集束炸彈)</Chinese>
-        <Chinesesimp>A-164"抹杀者"（集束炸弹）</Chinesesimp>
+        <Chinesesimp>A-164 "抹杀"（集束炸弹）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_pylons_presets_cluster0">
         <Original>Cluster</Original>
@@ -3411,7 +3411,7 @@
       <Key ID="str_a3_orange_cfghints_uxo2_description">
         <Original>After &lt;t %5&gt;cluster munition&lt;/t&gt; deployment, it is likely not all &lt;t %5&gt;submunitions&lt;/t&gt; will have exploded. The target area may now contain hard-to-find &lt;t %5&gt;unexploded ordnance&lt;/t&gt; (&lt;t %5&gt;UXO&lt;/t&gt;). Like other &lt;t %5&gt;explosive remnants of war&lt;/t&gt; (&lt;t %5&gt;ERW&lt;/t&gt;), these explosives can cause harm to anyone in the area after deployment, including the original user and civilians.%1%1UXO can be carefully found and cleared by &lt;t %5&gt;specialists&lt;/t&gt; using &lt;t %5&gt;Mine Detectors&lt;/t&gt; and &lt;t %5&gt;Toolkits&lt;/t&gt;.</Original>
         <Chinese>在&lt;t%5&gt;集束彈藥&lt;/t&gt;使用過後，很可能不是所有&lt;t%5&gt;子彈藥&lt;/t&gt;都會爆炸。目標地域可能還存在有難以發現的&lt;t%5&gt;未爆兵器&lt;/t&gt;(&lt;t%5&gt;UXO&lt;/t&gt;)。就像其他&lt;t%5&gt;戰爭殘留爆炸物&lt;/t&gt;(&lt;t%5&gt;ERW&lt;/t&gt;)一樣，這些爆炸物可能在使用之後對地區內的任何人造成傷害，包括使用者本身和平民。%1%1未爆兵器可以由&lt;t%5&gt;專業人士&lt;/t&gt;使用&lt;t%5&gt;地雷探測器&lt;/t&gt;和&lt;t%5&gt;工具包&lt;/t&gt;進行發現和清理。</Chinese>
-        <Chinesesimp>在&lt;t%5&gt;集束弹药&lt;/t&gt;使用过后，很可能不是所有&lt;t%5&gt;子弹药&lt;/t&gt;都会爆炸。目标地域可能还存在有难以发现的&lt;t%5&gt;未爆兵器&lt;/t&gt;(&lt;t%5&gt;UXO&lt;/t&gt;)。就像其他&lt;t%5&gt;战争残留爆炸物&lt;/t&gt;（&lt;t%5&gt;ERW&lt;/t&gt;）一样，这些爆炸物可能在使用之后对地区内的任何人造成伤害，包括使用者本身和平民。%1%1未爆兵器可以由&lt;t%5&gt;专业人士&lt;/t&gt;使用&lt;t%5&gt;地雷探测器&lt;/t&gt;和&lt;t%5&gt;工具包&lt;/t&gt;进行发现和清理。</Chinesesimp>
+        <Chinesesimp>在&lt;t%5&gt;集束弹药&lt;/t&gt;使用过后，很可能不是所有&lt;t%5&gt;子弹药&lt;/t&gt;都会爆炸。目标地域可能还存在有难以发现的&lt;t%5&gt;未爆兵器&lt;/t&gt;（&lt;t%5&gt;UXO&lt;/t&gt;）。就像其他&lt;t%5&gt;战争残留爆炸物&lt;/t&gt;（&lt;t%5&gt;ERW&lt;/t&gt;）一样，这些爆炸物可能在使用之后对地区内的任何人造成伤害，包括使用者本身和平民。%1%1未爆兵器可以由&lt;t%5&gt;专业人士&lt;/t&gt;使用&lt;t%5&gt;地雷探测器&lt;/t&gt;和&lt;t%5&gt;工具包&lt;/t&gt;进行发现和清理。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_targetingcamera_tip">
         <Original>Coupled with a laser designator, these cameras can be used to 'paint' targets for your weaponry or for other friendly units.</Original>
@@ -3446,7 +3446,7 @@
       <Key ID="str_a3_orange_cfghints_premiumorange_description">
         <Original>%11%1%12%1%2"Remnants of War" - a singleplayer mini-campaign that explores the laws of armed conflict (LOAC)%1%2Showcases - a humanitarian NGO's open day, and VR LOAC instruction%1%2Time Trials - races against the clock using several types of vehicle%1%2International Development &amp;amp; Aid Project - the new civilian humanitarian Armaverse faction (IDAP)%1%2Van - a range of medium-sized wheeled transport vehicles, including ambulances%1%2Utility &amp;amp; Demining Drones - unmanned aerial vehicles for small payload delivery and remote minefield clearance%1%2APERS Mine Dispenser - an effective but controversial area denial weapon system%1%2Cluster Bombs &amp;amp; UXO - aircraft-delivered submunition containers that may leave behind unexploded ordnance after strikes%1%2Vests - safety, identification, multi-pocket and EOD vests%1%2Bags - messenger and leg strap bags%1%2Headgear - safari and hard hats, head bandages, basic and press helmets, ear protectors and a wireless earpiece%1%2Facewear - respirators and safety goggles%1%2Humanitarian Aid Objects - cardboard boxes, food sacks, water bottle packages, emergency blankets, and more%1%2Tent Objects - (medical) shelter tents, separate floor canvases, an air-conditioning unit, and plastic net fences%1%2Medical Objects - stretchers, IV bags, body bags, and more%1%2Furniture Objects - tables, a sofa, an armchair, a bed, and more%1%2Miscellaneous - a paramedic outfit, construction coveralls, and a training mine%1%2Official Soundtrack - newly composed music tracks%1%2Achievements - a set of extra &lt;a href='%13'&gt;Steam Achievements&lt;/a&gt;</Original>
         <Chinese>%11%1%12%1%2"戰爭殘留"——一個單人迷你戰役，探索武裝衝突法則(LOAC)%1%2演示任務——一個人道主義非政府組織的開放日，以及虛擬真實的武裝衝突法則指導課程%1%2計時賽——使用多種車輛進行計時競速賽%1%2國際發展&amp;amp;援助工程——新的民間人道主義武裝突襲世界派別(囯發援)%1%2麵包車——一系列中型輪式運輸車輛，包括救護車%1%2通用&amp;amp;排雷無人機——用於小型載荷投送和遙控雷場清理的無人機%1%2反人員地雷布撒器——一種有效但爭議較大的區域阻斷武器系統%1%2集束炸彈&amp;amp;未爆兵器——航空投送的子彈藥容器可能在空襲後留下未爆彈藥%1%2背心——安全，身份，多兜和排爆背心%1%2背包-郵包和腿包%1%2帽子——遊獵帽和安全帽，頭部繃帶，基本和新聞頭盔，護耳和無線耳機%1%2臉部佩戴——口罩和安全眼鏡%1%2人道主義援助物體——硬紙箱，食品包，瓶裝水包，緊急救生毯，以及其他%1%2帳篷物體——(醫療)掩體帳篷，獨立帆布地鋪，空調組建，以及塑料網牆%1%2醫療物體——擔架，血包，裝屍袋，以及其他%1%2傢俱物體——桌子，沙發，扶手椅，床，以及其他%1%2雜項——急救員服裝，建築工服裝，訓練地雷%1%2官方原聲大碟——新作的音樂%1%2成就——增加了幾個&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;</Chinese>
-        <Chinesesimp>%11%1%12%1%2"战争残留"——一个单人迷你战役，探索武装冲突法则(LOAC)%1%2演示任务——一个人道主义非政府组织的开放日，以及虚拟真实的武装冲突法则指导课程%1%2计时赛——使用多种车辆进行计时竞速赛%1%2国际发展&amp;amp;援助工程——新的民间人道主义武装突袭世界派别(国发援)%1%2面包车——一系列中型轮式运输车辆，包括救护车%1%2通用&amp;amp;排雷无人机——用于小型载荷投送和遥控雷场清理的无人机%1%2反人员地雷布撒器——一种有效但争议较大的区域阻断武器系统%1%2集束炸弹&amp;amp;未爆兵器——航空投送的子弹药容器可能在空袭后留下未爆弹药%1%2背心——安全，身份，多兜和排爆背心%1%2背包—邮包和腿包%1%2帽子——游猎帽和安全帽，头部绷带，基本和新闻头盔，护耳和无线耳机%1%2脸部佩戴——口罩和安全眼镜%1%2人道主义援助物体——硬纸箱，食品包，瓶装水包，紧急救生毯，以及其他%1%2帐篷物体——（医疗）掩体帐篷，独立帆布地铺，空调组建，以及塑料网墙%1%2医疗物体——担架，血包，装尸袋，以及其他%1%2家具物体——桌子，沙发，扶手椅，床，以及其他%1%2杂项——急救员服装，建筑工服装，训练地雷%1%2官方原声大碟——新作的音乐%1%2成就——增加了几个&lt;ahref='%13'&gt;Steam 成就&lt;/a&gt;</Chinesesimp>
+        <Chinesesimp>%11%1%12%1%2"战争残留"——一个单人迷你战役，探索武装冲突法则（LOAC）%1%2演示任务——一个人道主义非政府组织的开放日，以及虚拟真实的武装冲突法则指导课程%1%2计时赛——使用多种车辆进行计时竞速赛%1%2国际发展&amp;amp;援助工程——新的民间人道主义武装突袭世界派别（国发援）%1%2面包车——一系列中型轮式运输车辆，包括救护车%1%2通用&amp;amp;排雷无人机——用于小型载荷投送和遥控雷场清理的无人机%1%2反人员地雷布撒器——一种有效但争议较大的区域阻断武器系统%1%2集束炸弹&amp;amp;未爆兵器——航空投送的子弹药容器可能在空袭后留下未爆弹药%1%2背心——安全，身份，多兜和排爆背心%1%2背包—邮包和腿包%1%2帽子——游猎帽和安全帽，头部绷带，基本和新闻头盔，护耳和无线耳机%1%2脸部佩戴——口罩和安全眼镜%1%2人道主义援助物体——硬纸箱，食品包，瓶装水包，紧急救生毯，以及其他%1%2帐篷物体——（医疗）掩体帐篷，独立帆布地铺，空调组建，以及塑料网墙%1%2医疗物体——担架，血包，装尸袋，以及其他%1%2家具物体——桌子，沙发，扶手椅，床，以及其他%1%2杂项——急救员服装，建筑工服装，训练地雷%1%2官方原声大碟——新作的音乐%1%2成就——增加了几个&lt;ahref='%13'&gt;Steam 成就&lt;/a&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_premiumbundle2_overview">
         <Original>Save more than 25&amp;#37; by purchasing the Arma 3 DLC Bundle 2, which includes the upcoming Arma 3 Jets, Arma 3 Laws of War, Arma 3 Tac-Ops, and Arma 3 Tanks DLC!%1%2Press %11 to open the store page.</Original>
@@ -3531,7 +3531,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_treatiesprotocols_tip">
         <Original>IHL can also be referred to as jus in bello - the law which regulates the conduct of war. Serious violations are called war crimes. States must establish laws to try and punish those who commit grave breaches of IHL. Military commanders should instruct IHL and report violations. The rules seem straightforward, but the application of IHL to real-life situations of conflict often creates dilemmas.</Original>
         <Chinese>《國際人道主義法》(IHL)也稱戰時法(Jus in bello)——規範戰爭執行程序的法律。嚴重違法被稱為戰爭犯罪。各國必須制定法律懲罰凡有嚴重違反《國際人道主義法》的罪犯。軍事指揮官必須遵照《國際人道主義法》並報告違法狀況。規則看起來簡明易懂，但國際人道主義法在實際情況中的執行往往會帶來一系列困境。</Chinese>
-        <Chinesesimp>《国际人道主义法》(IHL)也称战时法（Jus in bello）——规范战争执行程序的法律。严重违法被称为戰争犯罪。各国必须制定法律惩罚凡有严重违反《国际人道主义法》的罪犯。军事指挥官必须遵照《国际人道主义法》并报告违法状况。规则看起来简明易懂，但国际人道主义法在实际情况中的执行往往会带来一系列困境。</Chinesesimp>
+        <Chinesesimp>《国际人道主义法》（IHL）也称战时法（Jus in bello）——规范战争执行程序的法律。严重违法被称为戰争犯罪。各国必须制定法律惩罚凡有严重违反《国际人道主义法》的罪犯。军事指挥官必须遵照《国际人道主义法》并报告违法状况。规则看起来简明易懂，但国际人道主义法在实际情况中的执行往往会带来一系列困境。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_treatiesprotocols_displayname">
         <Original>Treaties and Protocols</Original>
@@ -3546,7 +3546,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_protectionprohibitions_tip">
         <Original>When civilians take a direct part in fighting, they lose their protection from attack (when in doubt, they should be considered civilian). When a civilian object is used in support of military action, it becomes a legitimate military target and loses its protection (when in doubt, it should be considered civilian). Protect the most vulnerable: civilians, wounded and sick, detainees, and health-care workers (such as IDAP)!</Original>
         <Chinese>當平民直接參與到戰鬥中後，他們就失去了在攻擊中被保護的權力(在有懷疑時應被視為平民)。在平民目標被用於軍事行動時，它便成為了合法的軍事目標，失去被保護權(在有懷疑時應被視為平民目標)。保護最脆弱的目標:平民、傷患、囚犯和健康護理工作者(比如國發援)!</Chinese>
-        <Chinesesimp>当平民直接参与到战斗中后，他们就失去了在攻击中被保护的权力(在有怀疑时应被视为平民)。在平民目标被用于军事行动时，它便成为了合法的军事目标，失去被保护权(在有怀疑时应被视为平民目标)。保护最脆弱的目标：平民、伤患、囚犯和健康护理工作者（比如国发援）！</Chinesesimp>
+        <Chinesesimp>当平民直接参与到战斗中后，他们就失去了在攻击中被保护的权力（在有怀疑时应被视为平民）。在平民目标被用于军事行动时，它便成为了合法的军事目标，失去被保护权（在有怀疑时应被视为平民目标）。保护最脆弱的目标：平民、伤患、囚犯和健康护理工作者（比如国发援）！</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_protectionprohibitions_displayname">
         <Original>Protection - Prohibitions</Original>
@@ -3651,7 +3651,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_limitsprohibitions_description">
         <Original>It is &lt;t %5&gt;forbidden&lt;/t&gt; to:%1%2 use weapons that cause unnecessary suffering (such as poison, blinding laser weapons or nuclear weapons)%1%2 use weapons that cannot distinguish between civilians and military targets (such as landmines)%1%2 take hostages%1%2 pretend to be a civilian while attempting to kill, injure or capture an adversary%1%2 order or threaten that there shall be no survivors</Original>
         <Chinese>&lt;t%5&gt;禁止&lt;/t&gt;:%1%2使用造成不必要痛苦的武器(諸如毒氣、激光致盲武器或核武器)%1%2使用無法區分平民和軍事目標的武器(如地雷)%1%2使用人質%1%2在試圖殺害、殺傷或捕獲敵人時偽裝成平民%1%2命令或威脅不留活口</Chinese>
-        <Chinesesimp>&lt;t%5&gt;禁止&lt;/t&gt;：%1%2使用造成不必要痛苦的武器(诸如毒气、激光致盲武器或核武器)%1%2使用无法区分平民和军事目标的武器（如地雷）%1%2使用人质%1%2在试图杀害、杀伤或捕获敌人时伪装成平民%1%2命令或威胁不留活口</Chinesesimp>
+        <Chinesesimp>&lt;t%5&gt;禁止&lt;/t&gt;：%1%2使用造成不必要痛苦的武器（诸如毒气、激光致盲武器或核武器）%1%2使用无法区分平民和军事目标的武器（如地雷）%1%2使用人质%1%2在试图杀害、杀伤或捕获敌人时伪装成平民%1%2命令或威胁不留活口</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_limitsobligations_tip">
         <Original>Minimize collateral damage!</Original>
@@ -3701,7 +3701,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_definitions_tip">
         <Original>When civilians take a direct part in fighting, they lose their protection from attack (when in doubt, they should be considered civilian). When a civilian object is used in support of military action, it becomes a legitimate military target and loses its protection (when in doubt, it should be considered civilian).</Original>
         <Chinese>當平民直接參與到戰鬥中後，他們就失去了在攻擊中的被保護權(當有懷疑時，視為平民處理)。當平民目標用於支援軍事行動時，它就成為合法軍事目標，失去被保護權(當有懷疑時，視為平民目標處理)。</Chinese>
-        <Chinesesimp>当平民直接参与到战斗中后，他们就失去了在攻击中的被保护权(当有怀疑时，视为平民处理)。当平民目标用于支援军事行动时，它就成为合法军事目标，失去被保护权（当有怀疑时，视为平民目标处理）。</Chinesesimp>
+        <Chinesesimp>当平民直接参与到战斗中后，他们就失去了在攻击中的被保护权（当有怀疑时，视为平民处理）。当平民目标用于支援军事行动时，它就成为合法军事目标，失去被保护权（当有怀疑时，视为平民目标处理）。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_definitions_displayname">
         <Original>Definitions</Original>
@@ -3711,7 +3711,7 @@
       <Key ID="str_a3_orange_cfghints_ihl_definitions_description">
         <Original>%2 &lt;t %5&gt;Combatant&lt;/t&gt;: members of armed forces, members of any armed group under the orders of a party to a conflict%1%2 &lt;t %5&gt;Hors de combat&lt;/t&gt;: "out of fight" - combatants who have been captured or wounded or who are sick or shipwrecked and thus no longer in a position to fight%1%2 &lt;t %5&gt;Civilian&lt;/t&gt;: any person who is not a combatant%1%2 &lt;t %5&gt;Armed conflict&lt;/t&gt;: fighting between countries (international) or between a country's armed forces and armed groups (non-international) or between such groups%1%2 &lt;t %5&gt;Military objective&lt;/t&gt;: an object that by its nature, location, purpose or use makes an effective contribution to military action and whose destruction offers a definite military advantage%1%2 &lt;t %5&gt;Non-reciprocity&lt;/t&gt;: breaches of IHL by one party to a conflict do not justify breaches by other parties%1%2 &lt;t %5&gt;Equality&lt;/t&gt;: IHL applies to all parties of an armed conflict equally</Original>
         <Chinese>武裝力量的%2&lt;t%5&gt;戰鬥人員&lt;/t&gt;:成員，任何在任意一方控制下的武裝組織的成員%1%2&lt;t%5&gt;Horsdecombat&lt;/t&gt;:"失去戰鬥力"——戰鬥人員被俘、受傷或因患病或船隻遇難而無法繼續戰鬥%1%2&lt;t%5&gt;平民&lt;/t&gt;:任何不是戰鬥人員的人%1%2&lt;t%5&gt;武裝衝突&lt;/t&gt;:在國家間(國際性)或一國內的武裝力量和武裝組織(國內性)或此類組織之間爆發的戰鬥%1%2&lt;t%5&gt;軍事目標&lt;/t&gt;:根據其性質、地點、意圖或用途能為軍事行動作出顯著貢獻以及其損毀會達成特定軍事目的的目標%1%2&lt;t%5&gt;非對等性&lt;/t&gt;:衝突中的一方違反《國際人道主義法》不構成另一方違反該法的正當理由%1%2&lt;t%5&gt;平等性&lt;/t&gt;:《國際人道主義法》對武裝衝突中的所有派別一視同仁</Chinese>
-        <Chinesesimp>武装力量的%2&lt;t%5&gt;战斗人员&lt;/t&gt;：成员，任何在任意一方控制下的武装组织的成员%1%2&lt;t%5&gt;Horsdecombat&lt;/t&gt;："失去战斗力"——战斗人员被俘、受伤或因患病或船只遇难而无法继续战斗%1%2&lt;t%5&gt;平民&lt;/t&gt;：任何不是战斗人员的人%1%2&lt;t%5&gt;武装冲突&lt;/t&gt;：在国家间(国际性)或一国内的武装力量和武装组织（国内性）或此类组织之间爆发的战斗%1%2&lt;t%5&gt;军事目标&lt;/t&gt;：根据其性质、地点、意图或用途能为军事行动作出显著贡献以及其损毁会达成特定军事目的的目标%1%2&lt;t%5&gt;非对等性&lt;/t&gt;：冲突中的一方违反《国际人道主义法》不构成另一方违反该法的正当理由%1%2&lt;t%5&gt;平等性&lt;/t&gt;：《国际人道主义法》对武装冲突中的所有派别一视同仁</Chinesesimp>
+        <Chinesesimp>武装力量的%2&lt;t%5&gt;战斗人员&lt;/t&gt;：成员，任何在任意一方控制下的武装组织的成员%1%2&lt;t%5&gt;Horsdecombat&lt;/t&gt;："失去战斗力"——战斗人员被俘、受伤或因患病或船只遇难而无法继续战斗%1%2&lt;t%5&gt;平民&lt;/t&gt;：任何不是战斗人员的人%1%2&lt;t%5&gt;武装冲突&lt;/t&gt;：在国家间（国际性）或一国内的武装力量和武装组织（国内性）或此类组织之间爆发的战斗%1%2&lt;t%5&gt;军事目标&lt;/t&gt;：根据其性质、地点、意图或用途能为军事行动作出显著贡献以及其损毁会达成特定军事目的的目标%1%2&lt;t%5&gt;非对等性&lt;/t&gt;：冲突中的一方违反《国际人道主义法》不构成另一方违反该法的正当理由%1%2&lt;t%5&gt;平等性&lt;/t&gt;：《国际人道主义法》对武装冲突中的所有派别一视同仁</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_dlcstrategy_tip">
         <Original>You can try premium assets in the Virtual Arsenal mode without restriction!</Original>
@@ -4113,7 +4113,7 @@
       <Key ID="str_a3_rscdisplaywelcome_orange_parb">
         <Original>For some time now we've had an inspirational working relationship with the &lt;t color='%1'&gt;International Committee of the Red Cross&lt;/t&gt; (ICRC). Especially in recent years, they have identified games as a valid vehicle to spread awareness of a topic that both makes sense to everyone, yet can be very complicated to explain, implement and safeguard. We're talking about &lt;t color='%1'&gt;International Humanitarian Law&lt;/t&gt; (IHL), also known as the laws of armed conflict, the rules of war, or the laws of war. Its most widely known component is perhaps the Geneva Conventions. The ICRC has helped our developers to be educated on this important aspect of warfare, and they have pointed out how we might improve our games to include IHL elements, without taking fun away from players.</Original>
         <Chinese>一段時間以來我們一直在跟&lt;tcolor='%1'&gt;國際紅十字委員會&lt;/t&gt;(ICRC)維持著良好的關係。特別是在近些年來，他們認為遊戲是一種把此類對所有人都有意義，但很難解釋、執行並保衛的議題介紹給大家的渠道。我們在本篇中討論的是&lt;tcolor='%1'&gt;《國際人道主義法》&lt;/t&gt;(IHL)，也稱武裝衝突法則，戰爭法則，或者戰爭法。它最為人所知的組成部分大概是《日內瓦公約》。國際紅十字會幫助我們的研發者理解戰爭中的這一重要議題，他們還指出我們應當在不影響玩家樂趣的前提下在遊戲中加入《國際人道主義法》的成分。</Chinese>
-        <Chinesesimp>一段时间以来我们一直在跟&lt;tcolor='%1'&gt;国际红十字委员会&lt;/t&gt;(ICRC)维持着良好的关系。特别是在近些年来，他们认为游戏是一种把此类对所有人都有意义，但很难解释、执行并保卫的议题介绍给大家的渠道。我们在本篇中讨论的是&lt;tcolor='%1'&gt;《国际人道主义法》&lt;/t&gt;（IHL），也称武装冲突法则，战争法则，或者战争法。它最为人所知的组成部分大概是《日内瓦公约》。国际红十字会帮助我们的研发者理解战争中的这一重要议题，他们还指出我们应当在不影响玩家乐趣的前提下在游戏中加入《国际人道主义法》的成分。</Chinesesimp>
+        <Chinesesimp>一段时间以来我们一直在跟&lt;tcolor='%1'&gt;国际红十字委员会&lt;/t&gt;（ICRC）维持着良好的关系。特别是在近些年来，他们认为游戏是一种把此类对所有人都有意义，但很难解释、执行并保卫的议题介绍给大家的渠道。我们在本篇中讨论的是&lt;tcolor='%1'&gt;《国际人道主义法》&lt;/t&gt;（IHL），也称武装冲突法则，战争法则，或者战争法。它最为人所知的组成部分大概是《日内瓦公约》。国际红十字会帮助我们的研发者理解战争中的这一重要议题，他们还指出我们应当在不影响玩家乐趣的前提下在游戏中加入《国际人道主义法》的成分。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_para">
         <Original>It is with some pride that we welcome you to the release of the &lt;t color='%1'&gt;Arma 3 Laws of War&lt;/t&gt; DLC. Known for some time under code name "Orange" on our &lt;a href='%3' color='%2'&gt;2017 roadmap&lt;/a&gt;, we have recently revealed the unique theme of this asset and content pack to you all. We feel there is something for everyone to be found in this DLC and the accompanying platform update. So we invite you to keep reading for more information, or to dive straight into the game and explore the additions for yourself. This is war!</Original>

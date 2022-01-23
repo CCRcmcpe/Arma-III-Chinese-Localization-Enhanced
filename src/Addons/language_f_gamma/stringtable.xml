@@ -142,7 +142,7 @@
       <Key ID="str_a3_landing0">
         <Original>A good approach is the key to a good landing.%1&lt;t&gt;&lt;/t&gt;1. Line up your airplane with the runway and adjust the throttle %11 to slow down to 1/3 above your stall speed.%1&lt;t&gt;&lt;/t&gt;2. Keep your nose slightly down, lower the landing gear %12 and extend the flaps %13.%1&lt;t&gt;&lt;/t&gt;3. Pick a point on the runway (e.g. numbers) and reference it to your cockpit. Try to keep it in the same position throughout the descent.%1&lt;t&gt;&lt;/t&gt;4. If the point is moving up, you are undershooting and need to increase power. If it's moving down, reduce power or extend flaps further.%1&lt;t&gt;&lt;/t&gt;5. Once you're above the runway, reduce power to idle, gently pull up the nose and wait until the wheels touch the runway. Then brake %14.</Original>
         <Chinese>一個好的進場是整個降落中的關鍵。%1&lt;t&gt;&lt;/t&gt;1. 把你的飛機與跑道對齊並使用%11降低油門至1/3左右，略高於失速的速度。%1&lt;t&gt;&lt;/t&gt;2. 稍微壓低你的機鼻，使用%12放下你的起落架，並用%13張開你的襟翼。%1&lt;t&gt;&lt;/t&gt;3. 在跑道上選一個參考點(例如:跑道號碼)並使你的飛行路徑標誌(FPM)對準該參考點。請試著在整個下滑階段都保持對準該點。%1&lt;t&gt;&lt;/t&gt;4. 假如那個參考點過高，代表你會錯失該點，請增加一點你的油門來修正下滑率。假如那個點過低，請減低你的油門或是把襟翼張更大。%1&lt;t&gt;&lt;/t&gt;5. 當你最終到跑道上空時，減低油門至最低並輕輕的拉起你的機鼻直到起落架觸地。最後再使用%14煞車即可完成降落。</Chinese>
-        <Chinesesimp>良好的进近是整个降落中的关键。%1&lt;t&gt;&lt;/t&gt;1. 把你的飞机与跑道对齐并使用%11降低油门至1/3左右，略高于失速的速度。%1&lt;t&gt;&lt;/t&gt;2. 稍微压低你的机鼻，使用%12放下你的起落架，并用%13张开你的襟翼。%1&lt;t&gt;&lt;/t&gt;3. 在跑道上选一个参考点(例如：跑道号码)并使你的飞行路径标志（FPM）对准该参考点。请试着在整个下滑阶段都保持对准该点。%1&lt;t&gt;&lt;/t&gt;4. 假如那个参考点过高，代表你会错失该点，请增加一点你的油门来修正下滑率。假如那个点过低，请减低你的油门或是把襟翼张更大。%1&lt;t&gt;&lt;/t&gt;5. 当你最终到跑道上空时，减低油门至最低并轻轻的拉起你的机鼻直到起落架触地。最后再使用%14刹车即可完成降落。</Chinesesimp>
+        <Chinesesimp>良好的进近是整个降落中的关键。%1&lt;t&gt;&lt;/t&gt;1. 把你的飞机与跑道对齐并使用%11降低油门至1/3左右，略高于失速的速度。%1&lt;t&gt;&lt;/t&gt;2. 稍微压低你的机鼻，使用%12放下你的起落架，并用%13张开你的襟翼。%1&lt;t&gt;&lt;/t&gt;3. 在跑道上选一个参考点（例如：跑道号码）并使你的飞行路径标志（FPM）对准该参考点。请试着在整个下滑阶段都保持对准该点。%1&lt;t&gt;&lt;/t&gt;4. 假如那个参考点过高，代表你会错失该点，请增加一点你的油门来修正下滑率。假如那个点过低，请减低你的油门或是把襟翼张更大。%1&lt;t&gt;&lt;/t&gt;5. 当你最终到跑道上空时，减低油门至最低并轻轻的拉起你的机鼻直到起落架触地。最后再使用%14刹车即可完成降落。</Chinesesimp>
       </Key>
       <Key ID="str_a3_controls2">
         <Original>Other specific actions include:%1%2Flaps - extend %19 and retract %20 %1%2%21 for landing gear</Original>
@@ -207,7 +207,7 @@
       <Key ID="str_a3_basics1">
         <Original>UAVs (Unmanned Autonomous Vehicle) are remotely controlled vehicles which operate without a human crew onboard. They can be used for many applications where it may be inconvenient, dangerous, or impossible to have a human operator present. Each one of them has its own internal computing unit and is able to make certain decisions by itself (transport from one place to another, enemy/friendly recognition, etc.).</Original>
         <Chinese>無人載具(無人操控自動載具)是無人駕駛的遙控載具。它們能夠用於多個領域。例如那些不方便，危險或人類不能到達的地方。每個無人載具都擁有內建電腦且能夠自主行動(移動與敵我識別等許多功能。)</Chinese>
-        <Chinesesimp>无人机(无人操控自动载具)是无人驾驶的遥控载具。它们能够用于多个领域。例如那些不方便，危险或人类不能到达的地方。每个无人机都拥有内置电脑且能够自主行动（移动与敌我识别等许多功能。）</Chinesesimp>
+        <Chinesesimp>无人机（无人操控自动载具）是无人驾驶的遥控载具。它们能够用于多个领域。例如那些不方便，危险或人类不能到达的地方。每个无人机都拥有内置电脑且能够自主行动（移动与敌我识别等许多功能。）</Chinesesimp>
       </Key>
       <Key ID="str_a3_basics0">
         <Original>UAV Basics</Original>
@@ -347,7 +347,7 @@
           <Key ID="str_a3_cfgweapons_hgun_pdw20000">
             <Original>PDW2000 9 mm</Original>
             <Chinese>PDW2000 9公厘衝鋒槍</Chinese>
-            <Chinesesimp>PDW2000 9 mm 冲锋枪</Chinesesimp>
+            <Chinesesimp>PDW2000 9 mm</Chinesesimp>
           </Key>
         </Container>
         <Container name="Library">
@@ -753,12 +753,12 @@
         <Key ID="str_a3_cfgweapons_optic_nightstalker0">
           <Original>Nightstalker</Original>
           <Chinese>夜行者瞄準鏡</Chinese>
-          <Chinesesimp>夜行者瞄准镜</Chinesesimp>
+          <Chinesesimp>"夜行者"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_nightstalker1">
           <Original>Nightstalker Sight&lt;br /&gt;Magnification: 4x–10x</Original>
           <Chinese>夜行者瞄準鏡&lt;br/&gt;倍率:4x–10x</Chinese>
-          <Chinesesimp>夜行者瞄准镜&lt;br/&gt;倍率：4x–10x</Chinesesimp>
+          <Chinesesimp>"夜行者" 瞄准镜&lt;br/&gt;倍率：4x–10x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_tws1">
           <Original>Thermal Weapon Sight&lt;br /&gt;Magnification: 4x–10x</Original>
@@ -1324,12 +1324,12 @@
         <Key ID="str_a3_cfgvehicles_o_plane_fighter_03">
           <Original>A-143 Buzzard</Original>
           <Chinese>A-143"禿鷹"戰鬥機</Chinese>
-          <Chinesesimp>A-143"秃鹰"战斗机</Chinesesimp>
+          <Chinesesimp>A-143 "秃鹰"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_02_cas_base_f0">
           <Original>MQ-4A Greyhawk (CAS)</Original>
           <Chinese>MQ-4A"灰鷹"無人偵察機(密接空中支援)</Chinese>
-          <Chinesesimp>MQ-4A"灰鹰"无人侦察机（近距离空中支援）</Chinesesimp>
+          <Chinesesimp>MQ-4A "灰鹰"（近距离空中支援）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_offroad_armed_base0">
           <Original>Offroad (Armed)</Original>
@@ -1339,7 +1339,7 @@
         <Key ID="str_a3_cfgvehicles_o_l159_ad0">
           <Original>A-143 Buzzard (AD)</Original>
           <Chinese>A-143"禿鷹"戰鬥機(空對地)</Chinese>
-          <Chinesesimp>A-143"秃鹰"战斗机（对地）</Chinesesimp>
+          <Chinesesimp>A-143 "秃鹰"（对地）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_offroad_01_at_base_f0">
           <Original>Offroad (AT)</Original>
@@ -1349,12 +1349,12 @@
         <Key ID="str_a3_cfgvehicles_mbt_01_cannon_base_f0">
           <Original>M2A1 Slammer</Original>
           <Chinese>M2A1"重擊者"主戰坦克</Chinese>
-          <Chinesesimp>M2A1"重击者"主战坦克</Chinesesimp>
+          <Chinesesimp>M2A1 "重击者"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_truck_02_mrl_f0">
           <Original>Zamak MRL</Original>
           <Chinese>Zamak MRL</Chinese>
-          <Chinesesimp>Zamak MRL</Chinesesimp>
+          <Chinesesimp>"扎马克" 多管火箭卡车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_truck_01_medical_f0">
           <Original>HEMTT Medical</Original>
@@ -1364,12 +1364,12 @@
         <Key ID="str_a3_cfgvehicles_MBT_02_Arty_base0">
           <Original>2S9 Sochor</Original>
           <Chinese>2S9"索霍爾"自走砲</Chinese>
-          <Chinesesimp>2S9"索霍尔"自行榴弹炮</Chinesesimp>
+          <Chinesesimp>2S9 "索科尔"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_plane_fighter_03_aa_f0">
           <Original>A-143 Buzzard (AA)</Original>
           <Chinese>A-143"禿鷹"戰鬥機(空對空)</Chinese>
-          <Chinesesimp>A-143"秃鹰"战斗机（空空）</Chinesesimp>
+          <Chinesesimp>A-143 "秃鹰"（空空）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_truck_cistern0">
           <Original>Truck Fuel</Original>
@@ -1399,7 +1399,7 @@
         <Key ID="str_a3_cfgvehicles_plane_fighter_03_base_f0">
           <Original>A-143 Buzzard</Original>
           <Chinese>A-143"禿鷹"戰鬥機</Chinese>
-          <Chinesesimp>A-143"秃鹰"战斗机</Chinesesimp>
+          <Chinesesimp>A-143 "秃鹰"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_van_01_box0">
           <Original>Truck Boxer</Original>
@@ -1419,7 +1419,7 @@
         <Key ID="str_a3_cfgvehicles_o_plane_fighter_03_cas0">
           <Original>A-143 Buzzard (CAS)</Original>
           <Chinese>A-143"禿鷹"戰鬥機(密接空中支援)</Chinese>
-          <Chinesesimp>A-143"秃鹰"战斗机（近距离空中支援）</Chinesesimp>
+          <Chinesesimp>A-143 "秃鹰"（近距离空中支援）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_apc_wheeled_01_medical0">
           <Original>AMV Medical</Original>
@@ -1428,13 +1428,13 @@
         </Key>
         <Key ID="STR_A3_CfgVehicles_APC_Tracked_02_1">
           <Original>ZSU-39 Tigris</Original>
-          <Chinese>ZSU-39"底格里斯"防空車</Chinese>
-          <Chinesesimp>ZSU-39"底格里斯"防空系统</Chinesesimp>
+          <Chinese>ZSU-39 "底格里斯"防空車</Chinese>
+          <Chinesesimp>ZSU-39 "底格里斯"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_apc_wheeled_03_wapc0">
           <Original>AFV-4 Gorgon</Original>
           <Chinese>AFV-4"蛇髮女妖"裝甲運兵車</Chinese>
-          <Chinesesimp>AFV-4"蛇发女妖"装甲输送车</Chinesesimp>
+          <Chinesesimp>AFV-4 "蛇发女妖"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_uav_02">
           <Original>K40 Ababil-3</Original>
@@ -1449,7 +1449,7 @@
         <Key ID="str_a3_cfgvehicles_b_apc_tracked_01_aa0">
           <Original>IFV-6a Cheetah</Original>
           <Chinese>IFV-6a"獵豹"防空車</Chinese>
-          <Chinesesimp>IFV-6a"猎豹"防空系统</Chinesesimp>
+          <Chinesesimp>IFV-6a "猎豹"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_boat_civil_04">
           <Original>Trawler</Original>
@@ -1458,8 +1458,8 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_01_base0">
           <Original>AR-2 Darter</Original>
-          <Chinese>AR-2"短刀"空中無人載具</Chinese>
-          <Chinesesimp>AR-2"短刀"无人机</Chinesesimp>
+          <Chinese>AR-2 "飞镖"空中無人載具</Chinese>
+          <Chinesesimp>AR-2 "飞镖"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_tractor_base0">
           <Original>Tractor</Original>
@@ -1484,7 +1484,7 @@
         <Key ID="str_a3_cfgvehicles_b_apc_tracked_01_crv0">
           <Original>CRV-6e Bobcat</Original>
           <Chinese>CRV-6e"公貓"戰鬥工程車</Chinese>
-          <Chinesesimp>CRV-6e"公猫"装甲抢救车</Chinesesimp>
+          <Chinesesimp>CRV-6e "山猫"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_ugv_01_base0">
           <Original>UGV Stomper</Original>
@@ -1499,7 +1499,7 @@
         <Key ID="str_a3_cfgvehicles_b_mbt_01_base0">
           <Original>M2A1 Slammer</Original>
           <Chinese>M2A1"重擊者"主戰坦克</Chinese>
-          <Chinesesimp>M2A1"重击者"主战坦克</Chinesesimp>
+          <Chinesesimp>M2A1 "重击者"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_truck_01_box_ammo0">
           <Original>HEMTT Ammo</Original>
@@ -1509,7 +1509,7 @@
         <Key ID="str_a3_cfgvehicles_b_mbt_01_mlrs0">
           <Original>M5 Sandstorm MLRS</Original>
           <Chinese>M5"沙暴"多管火箭車</Chinese>
-          <Chinesesimp>M5"沙暴"自行多管火箭炮</Chinesesimp>
+          <Chinesesimp>M5 "沙暴" 多管火箭系统</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_civil_03_base0">
           <Original>Fishing Motorboat</Original>
@@ -1524,12 +1524,12 @@
         <Key ID="str_a3_cfgvehicles_mbt_02_base0">
           <Original>T-100 Varsuk</Original>
           <Chinese>T-100"獾"式主戰坦克</Chinese>
-          <Chinesesimp>T-100"獾"式主战坦克</Chinesesimp>
+          <Chinesesimp>T-100 "獾"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_02_base0">
           <Original>MQ-4A Greyhawk</Original>
           <Chinese>MQ-4"灰鷹"無人偵察機</Chinese>
-          <Chinesesimp>MQ-4A"灰鹰"无人侦察机</Chinesesimp>
+          <Chinesesimp>MQ-4A "灰鹰"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_truck_01_primemover0">
           <Original>HEMTT</Original>
@@ -1559,7 +1559,7 @@
         <Key ID="str_a3_cfgvehicles_c_plane_fighter_03_f0">
           <Original>A-143 Buzzard (Training)</Original>
           <Chinese>A-143"禿鷹"戰鬥機(訓練)</Chinese>
-          <Chinesesimp>A-143"秃鹰"战斗机（训练）</Chinesesimp>
+          <Chinesesimp>A-143 "秃鹰"（训练）</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_O_UAV_01">
           <Original>Tayran AR-2</Original>
@@ -1574,7 +1574,7 @@
         <Key ID="str_a3_cfgvehicles_mbt_01_arty_base0">
           <Original>M4 Scorcher</Original>
           <Chinese>M4"炙烤者"自行榴彈炮</Chinese>
-          <Chinesesimp>M4"炙烤者"自行榴弹炮</Chinesesimp>
+          <Chinesesimp>M4 "炙烤者"</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_O_UGV_01_F">
           <Original>UGV Saif</Original>
@@ -1601,7 +1601,7 @@
         <Key ID="STR_A3_CfgVehicles_MBT_02_Arty_Library0">
           <Original>The 2S9 Sochor is a lightly armored self-propelled artillery piece used by the OPFOR army. It's based on the T-100 chassis and fires 155 mm projectiles. The T-100 chassis interior had to be heavily modified to allow support for the 155 mm cannon with auto-loader. Sochor is also equipped with a Remotely Controlled Weapon Systems turret fitted with 12.7 mm HMG and 40 mm GMG. The modification paid off and several Asian countries are now in the process of modernizing their heavy artillery division with the 2S9.</Original>
           <Chinese>2S9"索霍爾"是一臺紅方使用的輕裝甲自走砲。它以T-100的底盤為基礎，並發射155公厘砲彈。T-100的底盤需要進行大量改造，好來裝設155公厘大砲要用的自動裝填機。"索霍爾"也有裝設遠程遙控武器系統，上面裝有12.7公厘重機槍以及40公厘榴彈砲。其改裝是有效的，幾個亞洲國家都在使用2S9來改良他們的重型砲兵師。</Chinese>
-          <Chinesesimp>2S9"索霍尔"是红方使用的一种有轻装甲的自行火炮。它以T-100的底盘为基础，发射155 mm 炮弹。T-100的底盘需要进行大量改造，以便装设155 mm 火炮要用的自动装填机。"索霍尔"也有装设远程遥控武器站，上面装有12.7 mm 重机枪以及40 mm 榴弹发射器。其改装是有效的，几个亚洲国家都在使用2S9来改良他们的重型炮兵师。</Chinesesimp>
+          <Chinesesimp>2S9 "索科尔"是红方使用的一种有轻装甲的自行火炮。它以T-100的底盘为基础，发射155 mm 炮弹。T-100的底盘需要进行大量改造，以便装设155 mm 火炮要用的自动装填机。"索科尔"也有装设远程遥控武器站，上面装有12.7 mm 重机枪以及40 mm 榴弹发射器。其改装是有效的，几个亚洲国家都在使用2S9来改良他们的重型炮兵师。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_01_cannon_base_f_library0">
           <Original>A licensed copy of an Israeli tank built in Central Europe. This tank is built for versatile use on the battlefield and maximal crew protection, which gained significant appreciation from western Europe armies in the 21st century. The M2A1 is armed with 120 mm cannon and a coaxial machinegun and can also be used as mobile artillery. This tank has proven itself in battle and thanks to heavy manufacture, it became the second most wide spread main battle tank of many countries in the world.</Original>
@@ -1626,12 +1626,12 @@
         <Key ID="str_a3_cfgvehicles_apc_wheeled_03_wapc_library0">
           <Original>The AFV-4 Gorgon is an amphibious 8x8 all-wheel-drive armored person carrier vehicle, used to carry soldiers to the battlefield and provide fire support. Its remote controlled CTWS turret is usually mounted with a 30 mm cannon, coaxial machinegun and 2 AT guided missiles. Crew consists of 11 soldiers including driver, gunner/commander.</Original>
           <Chinese>AFV-4"蛇髮女妖"是一臺水陸兩用的八輪驅動裝甲運兵車，用來運送士兵進入戰場，並同時提供火力支援。它使用埋頭彈武器系統，並裝設30公厘機砲，同軸機槍和兩枚反坦克導引飛彈。包括它本身的機組員，其最多可以搭載11名人員。</Chinese>
-          <Chinesesimp>AFV-4"蛇发女妖"是一种两栖8x8装甲输送车，用来运送士兵进入战场，并同时提供火力支援。其遥控武器站通常装设30 mm 机炮，同轴机枪和两枚反坦克导弹。包括它本身的乘员（驾驶员+车长/炮手）在内，其最多可以容纳11名人员。</Chinesesimp>
+          <Chinesesimp>AFV-4 "蛇发女妖"是一种两栖8x8装甲输送车，用来运送士兵进入战场，并同时提供火力支援。其遥控武器站通常装设30 mm 机炮，同轴机枪和两枚反坦克导弹。包括它本身的乘员（驾驶员+车长/炮手）在内，其最多可以容纳11名人员。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_02_base_library0">
           <Original>A modernized version of the Russian T-95 MBT. The ongoing development of the new generation battle tank was restarted in 2016 thanks to revenues from the oil crisis. The new concept of battle tank is lower and lighter, with increased maneuverability. The T-100 Varsuk comes with a standard 125 mm cannon, 7.62 mm coaxial machine gun and a commander-controlled NSVT-M 12.7 mm HMG.</Original>
           <Chinese>一種俄羅斯T-95主戰坦克的現代版本。新一代主戰坦克的發展得益於2016年石油危機所帶來的收益。這種新坦克更輕更低，為的是讓機動性更好。T-100"獾"式主戰坦克使用標準125公厘加農炮，7.62公厘同軸機槍，指揮官座位還配有遙控版NSVT-M 12.7公厘重機槍。</Chinese>
-          <Chinesesimp>一种俄罗斯T-95主战坦克的现代版本。新一代主战坦克的发展得益于2016年石油危机所带来的收益。这种新坦克更轻更低，为的是让机动性更好。T-100"獾"式主战坦克使用标准125 mm 坦克炮，7.62 mm 同轴机枪，车长座位还配有遥控版 NSVT-M 12.7 mm 重机枪。</Chinesesimp>
+          <Chinesesimp>一种俄罗斯T-95主战坦克的现代版本。新一代主战坦克的发展得益于2016年石油危机所带来的收益。这种新坦克更轻更低，为的是让机动性更好。T-100 "獾" 使用标准125 mm 坦克炮，7.62 mm 同轴机枪，车长座位还配有遥控版 NSVT-M 12.7 mm 重机枪。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_van_01_base_library0">
           <Original>The civilian 4x4 truck is a highly customizable truck with off-road capabilities preferred by the civilian population. It builds on retro design, but utilizes a modern engine and electronics. Most common truck setups are boxed, cistern and pick-up set.</Original>
@@ -1655,8 +1655,8 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_01_base_library0">
           <Original>The Darter AR-2 is a miniature remote-controlled quadcopter equipped with laser designator. It is perfect for reconnaissance, surveillance and target designation. Darters are agile, silent and hard to detect. The ability to hover in one place and use the camera to observe a location is invaluable in setting ambushes. An OPFOR arms manufacturer was able to reverse-engineer the Darter's construction and now produces a similar vehicle. The OPFOR quadcopter is labeled as the Tayran AR-2.</Original>
-          <Chinese>"短刀"AR-2是一種小型的遠程控制四軸飛行器，配備有雷射指示器，非常適合用於偵察和監控，或者指定目標。"短刀"非常敏捷，安靜，且很難被偵察。這種能夠盤旋在某處並使用攝像機觀察的能力，非常適合用來設置埋伏。紅方的軍火商對"短刀"進行了逆向工程，現在他們也能夠生產類似的載具。而紅方生產出來的這種四軸飛行器，被取名為"泰蘭"AR-2。</Chinese>
-          <Chinesesimp>"短刀"AR-2是一种小型的远程控制四轴飞行器，配备有激光指示器，非常适合用于侦察监视和目标截获。"短刀"非常敏捷，安静，且很难被侦察。这种能够盘旋在某处并使用摄像机观察的能力，非常适合用来设置埋伏。红方的军火商对"短刀"进行了逆向工程，现在他们也能够生产类似的无人机。而红方生产出来的这种四轴飞行器，被取名为"泰兰"AR-2。</Chinesesimp>
+          <Chinese>"飞镖"AR-2是一種小型的遠程控制四軸飛行器，配備有雷射指示器，非常適合用於偵察和監控，或者指定目標。"飞镖"非常敏捷，安靜，且很難被偵察。這種能夠盤旋在某處並使用攝像機觀察的能力，非常適合用來設置埋伏。紅方的軍火商對"飞镖"進行了逆向工程，現在他們也能夠生產類似的載具。而紅方生產出來的這種四軸飛行器，被取名為"泰蘭"AR-2。</Chinese>
+          <Chinesesimp>"飞镖"AR-2是一种小型的远程控制四轴飞行器，配备有激光指示器，非常适合用于侦察监视和目标截获。"飞镖"非常敏捷，安静，且很难被侦察。这种能够盘旋在某处并使用摄像机观察的能力，非常适合用来设置埋伏。红方的军火商对"飞镖"进行了逆向工程，现在他们也能够生产类似的无人机。而红方生产出来的这种四轴飞行器，被取名为"泰兰"AR-2。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_civil_03_base_library0">
           <Original>A bigger fishing boat is more expensive to maintain. When the golden age of Altis fishing ended, only a few owners were able to keep them. It has enough room for eight people. </Original>

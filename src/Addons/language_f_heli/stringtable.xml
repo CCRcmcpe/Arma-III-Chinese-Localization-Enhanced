@@ -130,7 +130,7 @@
       <Key ID="str_a3_helistressdamage_main_desc">
         <Original>The Advanced flight model calculates both the force on the rotors (drag) and the transmission (torque). The pilot can exceed construction limits and break each component. Those limits can be turned off in the game difficulty settings, but forces on rotors will still be simulated and may result in the loss of main rotor RPM. This will cause the helicopter to stall. The pilot must lower the collective %11 in order to recover.</Original>
         <Chinese>進階飛行模式將會計算旋翼(阻力)和傳動裝置(扭矩)。駕駛飛行時，可能會做出一些太超過設計上所能承受的應力，這將使這些部件產生損壞。這些限制可在遊戲難度中進行調整，但旋翼的效果還是會在，如果發生損害，會使你的轉速降低，因而導致失速。駕駛必須降低集體桿%11來恢復。</Chinese>
-        <Chinesesimp>进阶飞行模式将会计算旋翼(阻力)和传动装置（扭矩）。驾驶飞行时，可能会做出一些太超过设计上所能承受的应力，这将使这些部件产生损坏。这些限制可在游戏难度中进行调整，但旋翼的效果还是会在，如果发生损害，会使你的转速降低，因而导致失速。驾驶必须降低集体杆%11来恢复。</Chinesesimp>
+        <Chinesesimp>进阶飞行模式将会计算旋翼（阻力）和传动装置（扭矩）。驾驶飞行时，可能会做出一些太超过设计上所能承受的应力，这将使这些部件产生损坏。这些限制可在游戏难度中进行调整，但旋翼的效果还是会在，如果发生损害，会使你的转速降低，因而导致失速。驾驶必须降低集体杆%11来恢复。</Chinesesimp>
       </Key>
       <Key ID="str_a3_heliroll_sub3_title">
         <Original>Cyclic - Sharp Turns</Original>
@@ -355,7 +355,7 @@
       <Key ID="str_a3_cfghints_premiumcontent_premiumheli1">
         <Original>Start the engines! Jump into new cargo helicopters and master a new sling loading feature to gain an advantage on the battlefield in the Arma 3 Helicopters DLC.%1&lt;img size='9' shadow='0' image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa' /&gt;%1%2CH-67 Huron - NATO's twin-engine, tandem rotor heavy-lift helicopter%1%2Mi-290 Taru - CSAT heavy utility helicopter using a coaxial rotor design%1%2M-900 - Civilian variant of the existing H-9 family of helicopters%1%2Sling Loading Objects%1%2Helicopter Objects%1%2F.O.B. Objects%1%2Support Multiplayer - a new mode in which battlefield logistics play a major role%1%2&lt;t&gt;&lt;/t&gt;4 VR Helicopter Training Course%1%2Showcase Sling Loading%1%2&lt;t&gt;&lt;/t&gt;5 Singleplayer Time Trial Challenges%1%2Set of extra Steam Achievements</Original>
         <Chinese>啟動引擎!駕駛新的運輸直升機，投入武裝突襲3戰場中體驗新的吊掛系統，一切盡在直升機資料片中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67"休倫"-北約的雙引擎，綜列式旋翼，重型吊掛直升機。%1%2米-290"塔魯"-廣協同盟的重型多用途直升機，使用同軸式旋翼設計%1%2M-900-現有的H-9系列的民用版本%1%2吊掛物件%1%2直升機物件%1%2前線作戰基地物件%1%2多人支援任務-一個新的多人遊戲模式，你將在這邊體驗到支援的樂趣%1%2&lt;t&gt;&lt;/t&gt;4虛擬直升機訓練課程%1%2吊掛任務展示%1%2&lt;t&gt;&lt;/t&gt;5個單人計時挑戰賽%1%2一組額外的Steam成就</Chinese>
-        <Chinesesimp>启动引擎！驾驶新的运输直升机，投入武装突袭3战场中体验新的吊挂系统，一切尽在直升机 DLC 中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67"休伦"-北约的双引擎，综列式旋翼，重型吊挂直升机。%1%2米-290"塔鲁"-广协的重型多用途直升机，使用同轴式旋翼设计%1%2M-900-现有的H-9系列的民用版本%1%2吊挂物件%1%2直升机物件%1%2前线作战基地物件%1%2多人支援任务—一个新的多人游戏模式，你将在这边体验到支援的乐趣%1%2&lt;t&gt;&lt;/t&gt;4虚拟直升机训练课程%1%2吊挂任务展示%1%2&lt;t&gt;&lt;/t&gt;5个单人计时挑战赛%1%2一组额外的 Steam 成就</Chinesesimp>
+        <Chinesesimp>启动引擎！驾驶新的运输直升机，投入武装突袭3战场中体验新的吊挂系统，一切尽在直升机 DLC 中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67 "休伦"-北约的双引擎，综列式旋翼，重型吊挂直升机。%1%2米-290"塔鲁"-广协的重型多用途直升机，使用同轴式旋翼设计%1%2M-900-现有的H-9系列的民用版本%1%2吊挂物件%1%2直升机物件%1%2前线作战基地物件%1%2多人支援任务—一个新的多人游戏模式，你将在这边体验到支援的乐趣%1%2&lt;t&gt;&lt;/t&gt;4虚拟直升机训练课程%1%2吊挂任务展示%1%2&lt;t&gt;&lt;/t&gt;5个单人计时挑战赛%1%2一组额外的 Steam 成就</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumheli0">
         <Original>Helicopters DLC</Original>
@@ -405,7 +405,7 @@
       <Key ID="STR_A3_CFGVEHICLES_B_HELI_LIGHT_01_ARMORY1">
         <Original>A light single-engine helicopter used in special operations by the US Army since the Vietnam War. It now exists in several variants used by both military and civilian transport. The AH-9 Pawnee variant is a light helicopter with the ability to carry anti-ground fixed forward-firing weapons such as unguided rockets and machine guns to provide direct air-support for the special operations forces. The MH-9 Hummingbird is mostly used as a special forces troop transport with two outboard benches. The M-900 is a civilian version. Closed cabin and comfortable interior provides space for two passengers.</Original>
         <Chinese>一種單引擎輕型直升機，最早是被美軍用在越戰的特種行動中。現存許多不同的版本，有軍用也有民用的。AH-9Pawnee的版本是能用來掛載空對地無導引火箭與機槍，使他能為特種部隊提供優勢的空中支援。而MH-9Hummingbird則廣泛的被特種部隊用在運輸用途上，他的外側有加掛兩個乘坐用板凳。M-900則是民用的版本，有著封閉式的內艙與舒適的內裝，除了駕駛外，他可以再搭載兩名乘客。</Chinese>
-        <Chinesesimp>一种单引擎轻型直升机，最早是被美军用在越战的特种行动中。现存许多不同的版本，有军用也有民用的。AH-9"波尼"的版本能用来挂载空对地无制导火箭弹与机枪，使它能为特种部队提供强大的空中支援。而 MH-9"蜂鸟"则广泛的被特种部队用在运输用途上，它的外侧有加挂两个乘坐用板凳。M-900则是民用的版本，有着封闭式的内舱与舒适的内衬，除了驾驶外，它可以再搭载两名乘客。</Chinesesimp>
+        <Chinesesimp>一种单引擎轻型直升机，最早是被美军用在越战的特种行动中。现存许多不同的版本，有军用也有民用的。AH-9 "波尼"的版本能用来挂载空对地无制导火箭弹与机枪，使它能为特种部队提供强大的空中支援。而 MH-9 "蜂鸟"则广泛的被特种部队用在运输用途上，它的外侧有加挂两个乘坐用板凳。M-900则是民用的版本，有着封闭式的内舱与舒适的内衬，除了驾驶外，它可以再搭载两名乘客。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FieldManualLink">
         <Original>Some hints point to entries in the %3Field Manual%4. There, you will find more detailed information on the topic. %1%2Open the map by pressing %11.%1%2Select the Log tab from the list on the left.%1%2Select the Hints tab from the list that appears.%1%2Click the topic you want know more about.%1You will then be taken to the associated entry in the Field Manual.</Original>
@@ -535,7 +535,7 @@
       <Key ID="STR_A3_TARU_DESC_F0">
         <Original>The Mi-290 Taru is a CSAT heavy utility helicopter with coaxial rotors and a unique modular construction. Its design is inspired by both Kamov Ka-226 and S-64 Skycrane aircraft. Various mission pods allow Taru to serve many different roles. Primarily it can transport cargo (up to 13,500 kg), troops (up to 16 passengers), and provide battlefield supplies (ammunition, fuel, repair facilities, and medical equipment). The helicopter can also transport light vehicles thanks to Sling Loading capabilities. While the Taru is unarmed, it does have countermeasure launchers.</Original>
         <Chinese>Mi-290"塔魯"是一臺廣協同盟的重型多用途直升機，此機採用同軸式旋翼設計，並帶有特殊的模組化結構。他的設計是採用由卡莫夫設計局所研發的Ka-226和S-64S"西科斯基"。多種不同的吊倉，使"塔魯"能擔任不同的任務角色。他主要能運輸貨物(上限是13500公斤)，步兵(上限是16名乘員)，和多種戰地補給(彈藥，燃油，維修設施，醫療裝備)。感謝吊掛系統的能力，此直升機也可掛載一些輕型載具。即使"塔魯"本身是無武裝的，但它有裝設反制措施在機上。</Chinese>
-        <Chinesesimp>米-290"塔鲁"是广协的一种重型多用途直升机，此机采用同轴式旋翼设计，并采取独特的模块化结构。它的设计来源于卡莫夫设计局的卡-226和"西科斯基"S-64"天空吊车"。多种不同的吊舱，使"塔鲁"能担任不同的任务职责。它主要能运输货物(上限是13500千克)，步兵(上限是16名乘员)，还能提供多种战地补给（弹药，燃油，维修设施，医疗装备）。凭借吊挂系统的能力，此直升机也可挂载一些轻型载具。虽然"塔鲁"本身是无武装的，但它配备了干扰弹。</Chinesesimp>
+        <Chinesesimp>米-290"塔鲁"是广协的一种重型多用途直升机，此机采用同轴式旋翼设计，并采取独特的模块化结构。它的设计来源于卡莫夫设计局的卡-226和"西科斯基"S-64"天空吊车"。多种不同的吊舱，使"塔鲁"能担任不同的任务职责。它主要能运输货物（上限是13500千克），步兵（上限是16名乘员），还能提供多种战地补给（弹药，燃油，维修设施，医疗装备）。凭借吊挂系统的能力，此直升机也可挂载一些轻型载具。虽然"塔鲁"本身是无武装的，但它配备了干扰弹。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_helivelocityvector_main_title">
         <Original>Velocity Vector</Original>
@@ -545,12 +545,12 @@
       <Key ID="STR_A3_HURON_DESC_F0">
         <Original>The CH-67 Huron is a twin-engine, tandem rotor heavy-lift helicopter used by NATO. Its primary role is the transportation of troops, vehicles and cargo. The maximum weight of cargo it's able to lift is 12 tons. The Huron is a modernized version of the CH-47 Chinook and exists in two variants. The armed variant with two side gunners manning 6.5 mm Miniguns offers some defensive capabilities, while the transport version replaces the gunners with additional two passengers positions.</Original>
         <Chinese>CH-67"休倫"是一臺雙引擎，綜列式旋翼的重型吊掛直升機，服役於北約軍中。他主要的功能是用來運輸步兵，載具和貨物。他能應付的貨物重量是12噸。"休倫"是CH-47"支奴乾"的現代化版本，同時他有兩種不一樣的版本。武裝的版本配有兩名槍手，裝設著6.5公厘的"米尼岡"速射機槍，使直升機有一定的防禦手段，而純運輸的版本則把槍手的位置置換成兩個乘員座位。</Chinese>
-        <Chinesesimp>CH-67"休伦"是北约部队使用一种双发动机，串联旋翼的重型吊挂直升机。它基本职责是用来运输步兵，载具和货物。它的最大搭载重量是12吨。"休伦"是 CH-47"支奴干"的现代化版本，有两种型号。武装型配有两名侧门机枪手，操作两台6.5 mm 转管机枪，使直升机有一定的防御手段，而纯运输的版本则把机枪手的位置置换成两个乘员座位。</Chinesesimp>
+        <Chinesesimp>CH-67 "休伦"是北约部队使用一种双发动机，串联旋翼的重型吊挂直升机。它基本职责是用来运输步兵，载具和货物。它的最大搭载重量是12吨。"休伦"是 CH-47"支奴干"的现代化版本，有两种型号。武装型配有两名侧门机枪手，操作两台6.5 mm 转管机枪，使直升机有一定的防御手段，而纯运输的版本则把机枪手的位置置换成两个乘员座位。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_HURON_TITLE_F0">
         <Original>CH-67 Huron</Original>
         <Chinese>CH-67"休倫"重型運輸直升機</Chinese>
-        <Chinesesimp>CH-67"休伦"重型运输直升机</Chinesesimp>
+        <Chinesesimp>CH-67 "休伦"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_M900_DESC_F0">
         <Original>A light single-engine helicopter used in special operations by the US Army since the Vietnam War. It now exists in several variants used by both military and civilian transport. The M-900 is a civilian version. Closed cabin and comfortable interior provides space for two passengers.</Original>
@@ -741,8 +741,8 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_light_02_v2_f0">
         <Original>PO-30 Orca (Black &amp; White)</Original>
-        <Chinese>PO-30"逆戟鲸"武裝直升機(黑&amp;白)</Chinese>
-        <Chinesesimp>PO-30"逆戟鲸"武装直升机（黑&amp;白）</Chinesesimp>
+        <Chinese>PO-30 "虎鲸"武裝直升機(黑&amp;白)</Chinese>
+        <Chinesesimp>PO-30 "虎鲸"（黑&amp;白）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_heli_transport_04_base_f_turrets_loadmasterturret0">
         <Original>Loadmaster</Original>
@@ -757,12 +757,12 @@
       <Key ID="str_a3_cfgvehicles_b_heli_transport_03_unarmed_base_f0">
         <Original>CH-67 Huron (Unarmed)</Original>
         <Chinese>CH-67"休倫"重型運輸直升機(無武裝)</Chinese>
-        <Chinesesimp>CH-67"休伦"重型运输直升机（无武装）</Chinesesimp>
+        <Chinesesimp>CH-67 "休伦"（无武装）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_heli_transport_03_base_f0">
         <Original>CH-67 Huron</Original>
         <Chinese>CH-67"休倫"重型運輸直升機</Chinese>
-        <Chinesesimp>CH-67"休伦"重型运输直升机</Chinesesimp>
+        <Chinesesimp>CH-67 "休伦"</Chinesesimp>
       </Key>
     </Container>
     <Container name="Data_F">
@@ -1594,7 +1594,7 @@
       <Key ID="str_a3_rscdisplaywelcome_heli_pard_list1_title">
         <Original>CH-67 Huron</Original>
         <Chinese>CH-67"休倫"重型運輸直升機</Chinese>
-        <Chinesesimp>CH-67"休伦"重型运输直升机</Chinesesimp>
+        <Chinesesimp>CH-67 "休伦"</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_heli_pard_list11_title">
         <Original>Achievements</Original>
@@ -1726,7 +1726,7 @@
       <Key ID="str_a3_cfgmods_heli3">
         <Original>Fly the brand-new CH-67 Huron and Mi-290 Taru heavy-lift helicopters, and master Sling Loading to provide ground support in the Arma 3 Helicopters DLC.</Original>
         <Chinese>在武裝突襲3直升機資料片中駕駛全新的CH-67"休倫"和米-290"塔魯"重型吊掛直升機，並使用吊掛系統來為地面部隊提供協助。</Chinese>
-        <Chinesesimp>在武装突袭3直升机 DLC 中驾驶全新的 CH-67"休伦"和米-290"塔鲁"重型吊挂直升机，并使用吊挂系统来为地面部队提供协助。</Chinesesimp>
+        <Chinesesimp>在武装突袭3直升机 DLC 中驾驶全新的 CH-67 "休伦"和米-290"塔鲁"重型吊挂直升机，并使用吊挂系统来为地面部队提供协助。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_heli2">
         <Original>Arma 3 Helicopters</Original>
@@ -2043,7 +2043,7 @@
           <Key ID="str_a3_cfgvehicles_land_airintakeplug_05_f0">
             <Original>Air Intake Plug (Hellcat)</Original>
             <Chinese>進氣口保護蓋("潑婦")</Chinese>
-            <Chinesesimp>进气口保护盖（"泼妇"）</Chinesesimp>
+            <Chinesesimp>进气口保护盖（"地狱猫"）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_airintakeplug_04_f0">
             <Original>Air Intake Plug (Taru)</Original>
@@ -2053,7 +2053,7 @@
           <Key ID="str_a3_cfgvehicles_land_airintakeplug_03_f0">
             <Original>Air Intake Plug (Kajman)</Original>
             <Chinese>進氣口保護蓋("鰐魚")</Chinese>
-            <Chinesesimp>进气口保护盖（"鳄鱼"）</Chinesesimp>
+            <Chinesesimp>进气口保护盖（"凯门鳄"）</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_airintakeplug_02_f0">
             <Original>Air Intake Plug (Huron)</Original>

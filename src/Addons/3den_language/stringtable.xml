@@ -961,7 +961,7 @@
             <Key ID="STR_3DEN_Display3DEN_SearchEditButton_tooltip">
               <Original>Search in the entity list.\nUse '#' followed by entity type to search for all entities of the given type (e.g., 'Waypoint'). Supported types:\n#Object\n#Group\n#Trigger\n#Waypoint\n#Logic\n#Marker\n#Comment</Original>
               <Chinese>在場上物件清單上搜尋。\n使用'#'來當作開頭，好在場上物件清單上搜尋不同類型的物件(例如'Waypoint')。支援的類型如下(用英文輸入即可):\n#Object\n#Group\n#Trigger\n#Waypoint\n#Logic\n#Marker\n#Comment</Chinese>
-              <Chinesesimp>在场上物件清单上搜寻。\n使用'#'来当作开头，好在场上物件清单上搜寻不同类型的物件(例如'Waypoint')。支持的类型如下（用英文输入即可）：\n#Object\n#Group\n#Trigger\n#Waypoint\n#Logic\n#Marker\n#Comment</Chinesesimp>
+              <Chinesesimp>在场上物件清单上搜寻。\n使用'#'来当作开头，好在场上物件清单上搜寻不同类型的物件（例如'Waypoint'）。支持的类型如下（用英文输入即可）：\n#Object\n#Group\n#Trigger\n#Waypoint\n#Logic\n#Marker\n#Comment</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_CustomCompositionPanel_OpenItemWorkshop_tooltip">
               <Original>Open Steam Workshop with the selected composition.</Original>
@@ -1828,7 +1828,7 @@
             <Key ID="str_3den_tutorials_intro_sections_oldeditor_discontinued_text">
               <Original>The discontinued features are:&lt;br /&gt;%1Map object interaction (e.g., attaching waypoints to map objects)&lt;br /&gt;%1AND and OR waypoints for logics&lt;br /&gt;%1"Special" object attribute:&lt;br /&gt;&lt;%2&gt;Flying&lt;%3&gt; is set by increasing altitude.&lt;br /&gt;&lt;%2&gt;Formation&lt;%3&gt; is available in the context menu.&lt;br /&gt;&lt;%2&gt;In Cargo&lt;%3&gt; is achieved by moving characters to vehicles directly.</Original>
               <Chinese>被刪掉的功能如下:&lt;br/&gt;%1地圖物件互動(像是綁定路徑點到地圖物件上)&lt;br/&gt;%1[和]與[或]的邏輯路徑點&lt;br/&gt;%1載具的"特殊狀態":&lt;br/&gt;&lt;%2&gt;在飛行中&lt;%3&gt;的功能被高度系統取代(設定一定的高度會使飛行載具自動進入飛行)。&lt;br/&gt;&lt;%2&gt;在編隊內&lt;%3&gt;的功能被包含到了屬性選單中。&lt;br/&gt;&lt;%2&gt;在載具內&lt;%3&gt;的功能則是可以簡單透過拖曳單位進入載具來達成。</Chinese>
-              <Chinesesimp>被删掉的功能如下：&lt;br/&gt;%1地图物件互动(像是绑定路径点到地图物件上)&lt;br/&gt;%1[和]与[或]的逻辑路径点&lt;br/&gt;%1载具的"特殊状态"：&lt;br/&gt;&lt;%2&gt;在飞行中&lt;%3&gt;的功能被高度系统取代（设置一定的高度会使飞行载具自动进入飞行）。&lt;br/&gt;&lt;%2&gt;在编队内&lt;%3&gt;的功能被包含到了属性菜单中。&lt;br/&gt;&lt;%2&gt;在载具内&lt;%3&gt;的功能则是可以简单通过拖拽单位进入载具来达成。</Chinesesimp>
+              <Chinesesimp>被删掉的功能如下：&lt;br/&gt;%1地图物件互动（像是绑定路径点到地图物件上）&lt;br/&gt;%1[和]与[或]的逻辑路径点&lt;br/&gt;%1载具的"特殊状态"：&lt;br/&gt;&lt;%2&gt;在飞行中&lt;%3&gt;的功能被高度系统取代（设置一定的高度会使飞行载具自动进入飞行）。&lt;br/&gt;&lt;%2&gt;在编队内&lt;%3&gt;的功能被包含到了属性菜单中。&lt;br/&gt;&lt;%2&gt;在载具内&lt;%3&gt;的功能则是可以简单通过拖拽单位进入载具来达成。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_intro_sections_oldeditor_crew_text">
               <Original>You can now edit vehicle crew individually. When you hover the cursor over a vehicle, an interactive list of all crew members inside will be expanded next to the vehicle icon.&lt;br /&gt;&lt;br /&gt;When the vehicle has visible crew positions (e.g., soldiers sitting inside a car), you can also see icons directly on each member.</Original>
@@ -1914,7 +1914,7 @@
             <Key ID="str_3den_tutorials_editing_sections_connecting_triggerowner_text">
               <Original>&lt;%10&gt;Setting Trigger Owner&lt;%3&gt;&lt;br /&gt;&lt;%11&gt;Trigger %12 Character&lt;%3&gt;&lt;br /&gt;Trigger owner changes its activation from being side based (e.g., activated by BLUFOR) to object based (e.g., activated by the owner or its group members).</Original>
               <Chinese>&lt;%10&gt;設定觸發器擁有者&lt;%3&gt;&lt;br/&gt;&lt;%11&gt;觸發器%12角色&lt;%3&gt;&lt;br/&gt;觸發器的啟用條件會從基於陣營(例如由藍方觸發)變成基於物件(例如由擁有者自己或所屬小隊成員觸發)。</Chinese>
-              <Chinesesimp>&lt;%10&gt;设置触发器拥有者&lt;%3&gt;&lt;br/&gt;&lt;%11&gt;触发器%12角色&lt;%3&gt;&lt;br/&gt;触发器的启用条件会从基于阵营(例如由蓝方触发)变成基于物件（例如由拥有者自己或所属小队成员触发）。</Chinesesimp>
+              <Chinesesimp>&lt;%10&gt;设置触发器拥有者&lt;%3&gt;&lt;br/&gt;&lt;%11&gt;触发器%12角色&lt;%3&gt;&lt;br/&gt;触发器的启用条件会从基于阵营（例如由蓝方触发）变成基于物件（例如由拥有者自己或所属小队成员触发）。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_connecting_sync_text">
               <Original>&lt;%10&gt;Syncing&lt;%3&gt;&lt;br /&gt;&lt;%11&gt;Character %12 Object&lt;%3&gt;&lt;br /&gt;A generic connection without any inherent functionality. Often used by scripted systems. One of the connected entities has to be a character, otherwise the connection will not be recognized once the scenario starts.</Original>
@@ -2164,7 +2164,7 @@
             <Key ID="str_3den_tutorials_editing_sections_widget_coordinatesystem_text">
               <Original>You can chose the reference &lt;%2&gt;coordinate system&lt;%3&gt; the widget will use. The entity can be transformed either by world axes (X points to the East), or along its own local axes (X points to the right of the entity).</Original>
               <Chinese>你可以切換&lt;%2&gt;座標空間&lt;%3&gt;來給工具當作參考。物件的移動可使用世界座標(X代表由西向東)，或者使用自身的本地座標(X代表由左至右)。</Chinese>
-              <Chinesesimp>你可以切换&lt;%2&gt;座标空间&lt;%3&gt;来给工具当作参考。物件的移动可使用世界座标(X代表由西向东)，或者使用自身的本地座标（X代表由左至右）。</Chinesesimp>
+              <Chinesesimp>你可以切换&lt;%2&gt;座标空间&lt;%3&gt;来给工具当作参考。物件的移动可使用世界座标（X代表由西向东），或者使用自身的本地座标（X代表由左至右）。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_widget_area_text">
               <Original>Advanced &lt;%2&gt;area widget&lt;%3&gt; can be used for precise scaling and rotation of trigger and marker areas. The widget will always modify only one entity, even when more of them are currently selected.</Original>
@@ -2247,7 +2247,7 @@
             <Key ID="str_3den_tutorials_entities_sections_trigger_triggerowner_text">
               <Original>Use &lt;%2&gt;Set Trigger Owner&lt;%3&gt; connection to assign the trigger to a specific group. It will change the available activation options from the general ones (e.g., any BLUFOR character) to the group specific ones (e.g., any member of the group).</Original>
               <Chinese>使用&lt;%2&gt;設定觸發器擁有者&lt;%3&gt;的功能來讓指定的小隊成為唯一可以達成觸發條件的群組。這會使基本的啟用條件(例如由藍方任一單位觸發)改變成小隊觸發條件(例如該小隊的任一成員)。</Chinese>
-              <Chinesesimp>使用&lt;%2&gt;设置触发器拥有者&lt;%3&gt;的功能来让指定的小队成为唯一可以达成触发条件的群组。这会使基本的启用条件(例如由蓝方任一单位触发)改变成小队触发条件（例如该小队的任一成员）。</Chinesesimp>
+              <Chinesesimp>使用&lt;%2&gt;设置触发器拥有者&lt;%3&gt;的功能来让指定的小队成为唯一可以达成触发条件的群组。这会使基本的启用条件（例如由蓝方任一单位触发）改变成小队触发条件（例如该小队的任一成员）。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_trigger_timer_text">
               <Original>Using the &lt;%2&gt;Timer&lt;%3&gt; attribute, you can allow the trigger to be activated either after a certain period of time since the condition has been met, or while the condition is met for the specified duration.</Original>
@@ -3176,7 +3176,7 @@
           <Key ID="str_3den_object_attribute_objectmaterialcustom_tooltip">
             <Original>Custom material applied on the object. Use a path relative to the scenario's directory (e.g., "Textures\myMaterial.rvmat") or relative to the game's directory (e.g., "\a3\Data_F\default.rvmat").</Original>
             <Chinese>自定義目標物件的材質。請使用任務資料夾的相對路徑(例如"Textures\myMaterial.rvmat")或者你也可以指定到遊戲資料夾中(例如"\a3\Data_F\default.rvmat")。</Chinese>
-            <Chinesesimp>自定义目标物件的材质。请使用任务文件夹的相对路径(例如"Textures\myMaterial.rvmat")或者你也可以指定到游戏文件夹中（例如"\a3\Data_F\default.rvmat"）。</Chinesesimp>
+            <Chinesesimp>自定义目标物件的材质。请使用任务文件夹的相对路径（例如"Textures\myMaterial.rvmat"）或者你也可以指定到游戏文件夹中（例如"\a3\Data_F\default.rvmat"）。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom0_displayname">
             <Original>Texture #0</Original>
@@ -3251,7 +3251,7 @@
           <Key ID="str_3den_object_attribute_objecttexturecustom_tooltip">
             <Original>Custom texture applied on the object. Use a path relative to the scenario's directory (e.g., "Textures\myTexture_ca.paa", relative to the game's directory (e.g., "\a3\Ui_f\data\Logos\arma3_white_ca.paa" or a procedural texture (e.g., "#(argb,8,8,3)color(1,0,1,1)").</Original>
             <Chinese>自定義目標物件的貼圖。請使用任務資料夾的相對路徑(例如"Textures\myTexture_ca.paa")，你也可以指定到遊戲資料夾中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用腳本貼圖(例如""#(argb,8,8,3)color(1,0,1,1)")。</Chinese>
-            <Chinesesimp>自定义目标物件的贴图。请使用任务文件夹的相对路径(例如"Textures\myTexture_ca.paa")，你也可以指定到游戏文件夹中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用脚本纹理(例如""#(argb,8,8,3)color（1,0,1,1)"）。</Chinesesimp>
+            <Chinesesimp>自定义目标物件的贴图。请使用任务文件夹的相对路径（例如"Textures\myTexture_ca.paa"），你也可以指定到游戏文件夹中（例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa"），或者你也可以使用脚本纹理（例如""#（argb,8,8,3）color（1,0,1,1）"）。</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Object_Attribute_VisionModes_tooltip">
             <Original>Disables individual spectrum modes of the vehicle optics (visual, night vision, thermal)</Original>
@@ -5666,7 +5666,7 @@
             <Key ID="str_3den_scenario_attribute_donekeys_tooltip">
               <Original>Keys needed to mark the scenario as completed in the scenarios menu. Can be multiple words divided by a semicolon. Key can be activated using 'activateKey' scripting command. Does not affect the multiplayer and campaign scenarios, and the scenarios downloaded from Steam.</Original>
               <Chinese>當該任務完成時，需要成功解鎖(啟動)'解鎖的Keys'中所設定的Key，才能在任務清單中標示該任務為成功。如有多個Key須設定，可用分號做區隔。Key也可在任務中使用'activateKey'的腳本命令進行解鎖(啟動)。本功能無法使用於多人遊戲模式。</Chinese>
-              <Chinesesimp>当该任务完成时，需要成功解锁(启动)'解锁的 Keys'中所设置的 Key，才能在任务清单中标示该任务为成功。如有多个 Key 须设置，可用分号做区隔。Key 也可在任务中使用'activateKey'的脚本命令进行解锁（启动）。本功能无法使用于多人游戏模式。</Chinesesimp>
+              <Chinesesimp>当该任务完成时，需要成功解锁（启动）'解锁的 Keys'中所设置的 Key，才能在任务清单中标示该任务为成功。如有多个 Key 须设置，可用分号做区隔。Key 也可在任务中使用'activateKey'的脚本命令进行解锁（启动）。本功能无法使用于多人游戏模式。</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_donekeys_displayname">
               <Original>Unlocked Keys</Original>

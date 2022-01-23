@@ -1083,17 +1083,17 @@
         <Key ID="str_a3_cfgweapons_optic_ams_snd0">
           <Original>AMS (Sand)</Original>
           <Chinese>先進精準射手瞄準鏡(沙色)</Chinese>
-          <Chinesesimp>先进精准射手瞄准镜（沙色）</Chinesesimp>
+          <Chinesesimp>AMS（沙色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_ams_khk0">
           <Original>AMS (Khaki)</Original>
           <Chinese>先進精準射手瞄準鏡(卡其色)</Chinese>
-          <Chinesesimp>先进精准射手瞄准镜（卡其色）</Chinesesimp>
+          <Chinesesimp>AMS（卡其色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_ams_base0">
           <Original>AMS</Original>
           <Chinese>先進精準射手瞄準鏡</Chinese>
-          <Chinesesimp>先进精准射手瞄准镜</Chinesesimp>
+          <Chinesesimp>AMS</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_ams1">
           <Original>Advanced Marksman Scope&lt;br /&gt;Magnification: 3x–10x</Original>
@@ -1103,7 +1103,7 @@
         <Key ID="str_a3_cfgweapons_optic_ams0">
           <Original>AMS (Black)</Original>
           <Chinese>先進精準射手瞄準鏡(黑色)</Chinese>
-          <Chinesesimp>先进精准射手瞄准镜（黑色）</Chinesesimp>
+          <Chinesesimp>AMS（黑色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_93mmg_tan0">
           <Original>Sound Suppressor (9.3mm, Tan)</Original>
@@ -1411,12 +1411,12 @@
         <Key ID="str_a3_cfgweapons_mmg_02_sand_f0">
           <Original>SPMG .338 (Sand)</Original>
           <Chinese>SPMG.338(沙色)</Chinese>
-          <Chinesesimp>SPMG.338（沙色）</Chinesesimp>
+          <Chinesesimp>SPMG .338（沙色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_02_camo_f_library0">
           <Original>The SPMG (Special Purpose Machine Gun) is a lightweight medium machine gun, which greatly benefits from modern materials. It is designed to fill the gap between 7.62 mm and .50 machine guns. The SPMG uses .338 Norma Magnum bullets. The effective range of the machine gun is 1500 m, and thanks to advanced technology, it has a low recoil.</Original>
           <Chinese>做為中型機槍，由於SPMG(特殊用途機槍)使用了現代材料來製作，所以重量較其他機槍來得輕。它的設計宗旨是用來填補7.62公厘和.50機槍間的落差。SPMG使用.338纳莫·馬格南彈。它的有效射程有1500公尺，由於高科技的技術，它的後座力也非常低。</Chinese>
-          <Chinesesimp>做为中型机枪，由于 SPMG（特殊用途机枪）使用了现代材料来制作，所以重量较其他机枪来得轻。它的设计宗旨是用来填补7.62 mm和.50机枪间的落差。SPMG 使用.338 诺玛马格南弹，有效射程达1500米，由于高科技的技术，它的后座力也非常低。</Chinesesimp>
+          <Chinesesimp>做为中型机枪，由于 SPMG（特殊用途机枪）使用了现代材料来制作，所以重量较其他机枪来得轻。它的设计宗旨是用来填补7.62 mm 和.50机枪间的落差。SPMG 使用.338 诺玛马格南弹，有效射程达1500米，由于高科技的技术，它的后座力也非常低。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_02_camo_f1">
           <Original>Medium Machine Gun&lt;br /&gt;Caliber: .338 Norma Magnum</Original>
@@ -1640,7 +1640,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list8_title">
         <Original>AMS</Original>
         <Chinese>先進精準射手瞄準鏡</Chinese>
-        <Chinesesimp>先进精准射手瞄准镜</Chinesesimp>
+        <Chinesesimp>AMS</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list8">
         <Original>NATO medium range scope</Original>
@@ -1860,7 +1860,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list11">
         <Original>9.3mm and .338 caliber</Original>
         <Chinese>9.3公厘和.338口徑</Chinese>
-        <Chinesesimp>9.3 mm和.338口径</Chinesesimp>
+        <Chinesesimp>9.3 mm 和.338口径</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list10_title">
         <Original>Bipods</Original>
@@ -2737,12 +2737,12 @@
       <Key ID="str_a3_b_heli_transport_03_unarmed_green_f0">
         <Original>CH-67 Huron Unarmed (Green)</Original>
         <Chinese>CH-67"休倫"無武裝(綠色)</Chinese>
-        <Chinesesimp>CH-67"休伦"无武装（绿色）</Chinesesimp>
+        <Chinesesimp>CH-67 "休伦"无武装（绿色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_heli_transport_03_black_f0">
         <Original>CH-67 Huron (Black)</Original>
         <Chinese>CH-67"休倫"(黑色)</Chinese>
-        <Chinesesimp>CH-67"休伦"（黑色）</Chinesesimp>
+        <Chinesesimp>CH-67 "休伦"（黑色）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_mbt_03_base_f_animationsources_hidehull1">
         <Original>Remove Slat Armor Cover (Hull)</Original>

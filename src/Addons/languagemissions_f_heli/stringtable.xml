@@ -1936,12 +1936,12 @@
           <Key ID="STR_A3_Showcase_SlingLoading_BIS_tskGetIn_description">
             <Original>Board your CH-67 Huron as the Pilot.</Original>
             <Chinese>搭乘你的CH-67"休倫"並擔當駕駛。</Chinese>
-            <Chinesesimp>搭乘你的 CH-67"休伦"并担当驾驶。</Chinesesimp>
+            <Chinesesimp>搭乘你的 CH-67 "休伦"并担当驾驶。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_Briefing_Execution_text">
             <Original>1. Board your CH-67 Huron heavy transport helicopter. &lt;br /&gt;2. Collect the ammunition from %2the AAC airfield%1. &lt;br /&gt;3. Transport the ammunition to the %3artillery platoon%1. &lt;br /&gt;4. Return to %4FOB Whiskey%1 and land.</Original>
             <Chinese>1. 搭乘你的CH-67"休倫"重型運輸直升機。&lt;br/&gt;2. 吊掛在%2阿爾蒂斯空中俱樂部%1的彈藥。&lt;br/&gt;3. 運送彈藥前往%3火炮排%1那邊。&lt;br/&gt;4. 返回%4Whiskey前線作戰基地%1並降落。</Chinese>
-            <Chinesesimp>1. 搭乘你的 CH-67"休伦"重型运输直升机。&lt;br/&gt;2. 吊挂在%2阿尔蒂斯空中俱乐部机场%1的弹药。&lt;br/&gt;3. 运送弹药前往%3自行火炮排%1那边。&lt;br/&gt;4. 返回%4Whiskey 前线作战基地%1并降落。</Chinesesimp>
+            <Chinesesimp>1. 搭乘你的 CH-67 "休伦"重型运输直升机。&lt;br/&gt;2. 吊挂在%2阿尔蒂斯空中俱乐部机场%1的弹药。&lt;br/&gt;3. 运送弹药前往%3自行火炮排%1那边。&lt;br/&gt;4. 返回%4Whiskey 前线作战基地%1并降落。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_Briefing_Intel_text">
             <Original>Weather: Clear with good visibility. &lt;br /&gt;Wind: West-to-East, 2-4m/s.</Original>

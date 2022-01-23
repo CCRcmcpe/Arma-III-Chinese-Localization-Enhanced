@@ -251,7 +251,7 @@
         <Key ID="str_a3_cfgvehicles_lsv_02_unarmed_base_f0">
           <Original>Qilin (Unarmed)</Original>
           <Chinese>"麒麟"輕型突擊車(無武裝)</Chinese>
-          <Chinesesimp>"麒麟"轻型突击车（无武装）</Chinesesimp>
+          <Chinesesimp>"麒麟"（无武装）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_lsv_02_at_base_f0">
           <Original>Qilin (AT)</Original>
@@ -271,37 +271,37 @@
         <Key ID="str_a3_cfgvehicles_lsv_02_minigun_F0">
           <Original>Qilin (Minigun)</Original>
           <Chinese>"麒麟"突击车(米尼岡)</Chinese>
-          <Chinesesimp>"麒麟"突击车（转管机枪）</Chinesesimp>
+          <Chinesesimp>"麒麟"（转管机枪）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_t_uav_04_cas_f0">
           <Original>KH-3A Fenghuang</Original>
           <Chinese>KH-3A"鳳凰"無人偵察機</Chinese>
-          <Chinesesimp>KH-3A"凤凰"无人侦察机</Chinesesimp>
+          <Chinesesimp>KH-3A "凤凰"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_03_base_f0">
           <Original>MQ-12 Falcon</Original>
           <Chinese>MQ-12"獵隼"無人直升機</Chinese>
-          <Chinesesimp>MQ-12"猎隼"无人直升机</Chinesesimp>
+          <Chinesesimp>MQ-12 "猎隼"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_04_base_f0">
           <Original>KH-3A Fenghuang</Original>
           <Chinese>KH-3A"鳳凰"無人偵察機</Chinese>
-          <Chinesesimp>KH-3A"凤凰"无人侦察机</Chinesesimp>
+          <Chinesesimp>KH-3A "凤凰"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_vtol_01_armed_base_f0">
           <Original>V-44 X Blackfish (Armed)</Original>
           <Chinese>V-44X"黑鯨"垂直起降機(武裝)</Chinese>
-          <Chinesesimp>V-44 X "黑鲸"（武装）</Chinesesimp>
+          <Chinesesimp>V-44X "黑鲸"（武装）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_vtol_01_base_f0">
           <Original>V-44 X Blackfish</Original>
           <Chinese>V-44X"黑鯨"垂直起降機</Chinese>
-          <Chinesesimp>V-44 X "黑鲸"</Chinesesimp>
+          <Chinesesimp>V-44X "黑鲸"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_vtol_01_infantry_base_f0">
           <Original>V-44 X Blackfish (Infantry Transport)</Original>
           <Chinese>V-44X"黑鯨"垂直起降機(步兵運輸)</Chinese>
-          <Chinesesimp>V-44 X "黑鲸"（步兵运输）</Chinesesimp>
+          <Chinesesimp>V-44X "黑鲸"（步兵运输）</Chinesesimp>
         </Key>
         <Key ID="str_a3_c_offroad_02_unarmed_black_f0">
           <Original>MB 4WD (Black)</Original>
@@ -311,12 +311,12 @@
         <Key ID="str_a3_cfgvehicles_vtol_01_unarmed_base_f0">
           <Original>V-44 X Blackfish (Unarmed)</Original>
           <Chinese>V-44X"黑鯨"垂直起降機(無武裝)</Chinese>
-          <Chinesesimp>V-44 X "黑鲸"（无武装）</Chinesesimp>
+          <Chinesesimp>V-44X "黑鲸"（无武装）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_vtol_01_vehicle_base_f0">
           <Original>V-44 X Blackfish (Vehicle Transport)</Original>
           <Chinese>V-44X"黑鯨"垂直起降機(載具運輸)</Chinese>
-          <Chinesesimp>V-44 X "黑鲸"（载具运输）</Chinesesimp>
+          <Chinesesimp>V-44X "黑鲸"（载具运输）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_vtol_02_base_f0">
           <Original>Y-32 Xi'an</Original>
@@ -356,17 +356,17 @@
         <Key ID="str_a3_cfgvehicles_lsv_01_at_base_f0">
           <Original>Prowler (AT)</Original>
           <Chinese>Prowler（反坦克）</Chinese>
-          <Chinesesimp>Prowler（反坦克）</Chinesesimp>
+          <Chinesesimp>"徘徊者"（反坦克）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_lsv_02_armed_base_f0">
           <Original>Qilin (Armed)</Original>
           <Chinese>"麒麟"輕型突擊車(武裝)</Chinese>
-          <Chinesesimp>"麒麟"轻型突击车（武装）</Chinesesimp>
+          <Chinesesimp>"麒麟"（武装）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_lsv_01_light_base_f0">
           <Original>Prowler (Light)</Original>
           <Chinese>"徘徊者"輕型突擊車(輕型)</Chinese>
-          <Chinesesimp>"徘徊者"轻型突击车（轻型）</Chinesesimp>
+          <Chinesesimp>"徘徊者"（轻型）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_c_van_01_transport_syndikat_f0">
           <Original>Truck (Olive)</Original>
@@ -376,12 +376,12 @@
         <Key ID="str_a3_cfgvehicles_lsv_01_hmg_F0">
           <Original>Prowler (HMG)</Original>
           <Chinese>"徘徊者"輕型突擊車(重機槍)</Chinese>
-          <Chinesesimp>"徘徊者"轻型突击车（重机枪）</Chinesesimp>
+          <Chinesesimp>"徘徊者"（重机枪）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_lsv_01_base_f0">
           <Original>Prowler</Original>
           <Chinese>"徘徊者"輕型突擊車</Chinese>
-          <Chinesesimp>"徘徊者"轻型突击车</Chinesesimp>
+          <Chinesesimp>"徘徊者"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_c_offroad_02_lmg_f0">
           <Original>MB 4WD (LMG)</Original>
@@ -396,7 +396,7 @@
         <Key ID="str_a3_cfgvehicles_lsv_01_armed_base_f0">
           <Original>Prowler (Armed)</Original>
           <Chinese>"徘徊者"輕型突擊車(武裝)</Chinese>
-          <Chinesesimp>"徘徊者"轻型突击车（武装）</Chinesesimp>
+          <Chinesesimp>"徘徊者"（武装）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_transport_02_base_f0">
           <Original>RHIB</Original>
@@ -406,12 +406,12 @@
         <Key ID="str_a3_cfgvehicles_i_c_plane_civil_01_f0">
           <Original>Caesar BTT</Original>
           <Chinese>"凱撒"BTT單引擎飛機</Chinese>
-          <Chinesesimp>"凯撒"BTT 单引擎飞机</Chinesesimp>
+          <Chinesesimp>"凯撒" BTT</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_plane_civil_01_f0">
           <Original>Caesar BTT</Original>
           <Chinese>"凱撒"BTT單引擎飛機</Chinese>
-          <Chinesesimp>"凯撒"BTT 单引擎飞机</Chinesesimp>
+          <Chinesesimp>"凯撒" BTT</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_c_van_01_transport_brown_f0">
           <Original>Truck (Brown)</Original>
@@ -421,24 +421,24 @@
         <Key ID="str_a3_cfgvehicles_c_plane_civil_01_racing_f0">
           <Original>Caesar BTT (Racing)</Original>
           <Chinese>"凱撒"BTT單引擎飛機(競速)</Chinese>
-          <Chinesesimp>"凯撒"BTT 单引擎飞机（竞速）</Chinesesimp>
+          <Chinesesimp>"凯撒" BTT（竞速）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_ctrg_heli_transport_01_tropic_f0">
           <Original>UH-80 Ghost Hawk (Tropic)</Original>
           <Chinese>UH-80"鬼鷹"運輸直升機(熱帶迷彩)</Chinese>
-          <Chinesesimp>UH-80"幽灵鹰"运输直升机（热带迷彩）</Chinesesimp>
+          <Chinesesimp>UH-80 "幽灵鹰"（热带迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_ctrg_heli_transport_01_sand_f0">
           <Original>UH-80 Ghost Hawk (Sand)</Original>
           <Chinese>UH-80"鬼鷹"運輸直升機(沙色)</Chinese>
-          <Chinesesimp>UH-80"幽灵鹰"运输直升机（沙色）</Chinesesimp>
+          <Chinesesimp>UH-80 "幽灵鹰"（沙色）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Library">
         <Key ID="str_a3_cfgvehicles_uav_04_base_f_library0">
           <Original>The KH-3A Fenghuang is an unmanned aerial drone based on a Chinese design. The UAV adopts the unusual canard layout and is propelled by a pusher engine. This multipurpose drone is equipped with modern tracking and tracing systems, countermeasures and also carries four air-to-ground laser guided missiles.</Original>
           <Chinese>KH-3A"鳳凰"是一臺由中國設計與製造的無人偵察機。此臺偵察機使用了不一樣的鴨式布局，推進器則選用後推式螺旋槳。這臺多用途的無人機裝有現代化的追蹤與循跡系統，反制措施以及4枚空對地雷射導引飛彈。</Chinese>
-          <Chinesesimp>KH-3A"凤凰"是一台由中国设计与制造的无人侦察机。此台侦察机使用了不一样的鸭式布局，推进器则选用后推式螺旋桨。这台多用途的无人机装有现代化的追踪循迹系统与反制措施，同时携带4枚空对地激光制导导弹。</Chinesesimp>
+          <Chinesesimp>KH-3A "凤凰"是一台由中国设计与制造的无人侦察机。此台侦察机使用了不一样的鸭式布局，推进器则选用后推式螺旋桨。这台多用途的无人机装有现代化的追踪循迹系统与反制措施，同时携带4枚空对地激光制导导弹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_scooter_transport_01_base_f_library0">
           <Original>Personal watercraft (PWC) of the sit-down type. This small-hulled craft driven by a jet-propulsion system offers seats for 3 people and is easy to mount or dismount on the water thanks to the open stern construction. The powerful engine and great maneuverability makes this craft truly fun to ride. And of course it is a small and useful water transport vehicle for military use as well.</Original>
@@ -448,7 +448,7 @@
         <Key ID="str_a3_cfgvehicles_uav_03_base_f_library0">
           <Original>This autonomous/remotely controlled helicopter drone is mainly used as close air support and thanks to the unmanned construction can be deployed in the most dangerous zones. The Falcon is equipped with a laser designator and can therefore handle surveillance, reconnaissance and target designation tasks. Its greatest strength, however, lies in armament. It carries two rocket pods, each with 12 unguided rockets and six Scalpel air-to-ground missiles. The MQ-12 Falcon can also use countermeasures for self-defense.</Original>
           <Chinese>這臺自主式/遙控式的無人直升機，被設計來執行極危險區域的近距離火力支援任務。"獵隼"配備有雷射指示器，使其能肩負偵查，監視以及目標導引等任務。但最重要的是，它同時也配備著兩座火箭發射艙，各艙都有12枚無導引火箭，額外還有6枚"手術刀"空對地飛彈。MQ-12"獵隼"也裝有反制措施來進行防禦動作。</Chinese>
-          <Chinesesimp>这台自主式/遥控式的无人直升机，被设计来执行极危险区域的近距离火力支援任务。"猎隼"配备有激光指示器，使其能肩负侦察，监视以及目标制导等任务。但最重要的是，它同时也配备着两座火箭发射舱，各舱都有12枚无制导火箭弹，额外还有6枚"手术刀"空对地导弹。MQ-12"猎隼"也装有反制措施来进行防御操纵。</Chinesesimp>
+          <Chinesesimp>这台自主式/遥控式的无人直升机，被设计来执行极危险区域的近距离火力支援任务。"猎隼"配备有激光指示器，使其能肩负侦察，监视以及目标制导等任务。但最重要的是，它同时也配备着两座火箭发射舱，各舱都有12枚无制导火箭弹，额外还有6枚"手术刀"空对地导弹。MQ-12 "猎隼"也装有反制措施来进行防御操纵。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_vtol_01_armed_base_f_library0">
           <Original>Developed as a 21st century replacement for aging C-130 based gunships and transport aircraft. Its third-generation tilt-rotor VTOL (Vertical Take-Off and Landing) technology allows this long endurance aircraft to conveniently utilize a wide range of airfields and runways which greatly improves the military logistics. It also provides unparalleled maneuverability in its heavily armed gunship variant which has the unique ability to perform either pylon turns or merely hover in place during the ground attack. The huge internal storage allows for transportation of vehicles up to the size and weight of the AMV-7 Marshall APC in the vehicle transport variant or up to 32 fully armed soldiers with supplies in the infantry transport variant. The storage space of the gunship variant is fully occupied by automated weapon stations and carried ammunition.</Original>
@@ -473,7 +473,7 @@
         <Key ID="str_a3_cfgvehicles_plane_civil_01_base_f_library0">
           <Original>Caesar BTT is a single-engine, fixed-gear, low-wing general aviation aircraft built from composite materials. The Caesar BTT is one of the fastest fixed-gear, single-engined piston aircraft, reaching a speed of 235 knots (435 km/h) true air speed at 25,000 feet (7,600 m). It is used by civilians and smaller shipping companies all around the world.</Original>
           <Chinese>"凱撒"BTT是一臺單引擎，固定式機輪，低機翼的民用複合式材料飛機。"凱撒"BTT是它同類型活塞式引擎飛機中最快的機種，其在25，000英尺(7，600公尺)的高空下最高航速可達235節(時速435公里)。這臺飛機在全世界主要被民眾用於休閒或是擔當物流公司的運輸載具。</Chinese>
-          <Chinesesimp>"凯撒"BTT 是一台单引擎，固定式机轮，低机翼的民用复合式材料飞机。"凯撒"BTT 是它同类型活塞式引擎飞机中最快的机种，其在25，000英尺(7，600米)的高空下最高航速可达235节（时速435千米）。这台飞机在全世界主要被民众用于休闲或是作为物流公司的运输载具。</Chinesesimp>
+          <Chinesesimp>"凯撒" BTT 是一台单引擎，固定式机轮，低机翼的民用复合式材料飞机。"凯撒" BTT 是它同类型活塞式引擎飞机中最快的机种，其在25，000英尺（7，600米）的高空下最高航速可达235节（时速435千米）。这台飞机在全世界主要被民众用于休闲或是作为物流公司的运输载具。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_lsv_01_base_f_library0">
           <Original>The Prowler is a light strike vehicle (LSV) which means it is agile and lightly armored. It uses speed, maneuverability and off-road mobility to avoid major threats. Another benefit is that the Prowler is light enough to be transported by medium helicopters such as UH-80 Ghost Hawk. This is in contrast to the heavy MRAP vehicles which are harder to transport to the battlefield. The Prowler can be configured in several different ways. Armed variants are equipped with a .338 SPMG medium machine gun, mounted on the front passenger side, while the turret can sport a .50 cal heavy machine gun or Titan missile launcher. With this arsenal, the Prowler is ideal for quick hit and run missions. The unarmed variant is stripped of all guns, but the back part of the vehicle is open and there are reserve seats for two additional soldiers.</Original>
@@ -4990,7 +4990,7 @@
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list2">
         <Original>V-44 X Blackfish VTOL, Y-32 Xi'an VTOL, Prowler LSV, Qilin LSV, KH-3A Fenghuang Drone, MQ-12 Falcon Drone, Caesar BTT Propellor Airplane, MB 4WD Offroad Car, RHIB Boat, Water Scooter</Original>
         <Chinese>V-44X"黑鯨"垂直起降機，Y-32"西安"垂直起降機，"徘徊者"輕型突擊車，"麒麟"輕型突擊車，KH-3A"鳳凰"無人偵察機，MQ-12"獵隼"無人直升機，"凱撒"BTT單引擎飛機，四輪驅動越野車，硬殼充氣快艇，水上摩托車</Chinese>
-        <Chinesesimp>V-44X"黑鲸"垂直起降机，Y-32"西安"垂直起降机，"徘徊者"轻型突击车，"麒麟"轻型突击车，KH-3A"凤凰"无人侦察机，MQ-12"猎隼"无人直升机，"凯撒"BTT 单引擎飞机，四轮驱动越野车，硬壳充气快艇，水上摩托车</Chinesesimp>
+        <Chinesesimp>V-44X "黑鲸"垂直起降机，Y-32 "西安"垂直起降机，"徘徊者"轻型突击车，"麒麟"轻型突击车，KH-3A "凤凰"无人侦察机，MQ-12 "猎隼"无人直升机，"凯撒" BTT 单引擎飞机，四轮驱动越野车，硬壳充气快艇，水上摩托车</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list1_title">
         <Original>Tanoa Terrain</Original>
@@ -5122,7 +5122,7 @@
       <Key ID="str_a3_cfghints_premiumcontent_premiumapex1">
         <Original>Be deployed to the 100 km² South Pacific island archipelago Tanoa, with 13 new weapons and 10 new vehicles, a co-op campaign, and more, in the Arma 3 Apex expansion.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co' /&gt;%1%2Tanoa Terrain%1%2Vehicles - V-44 X Blackfish VTOL, Y-32 Xi'an VTOL, Prowler LSV, Qilin LSV, KH-3A Fenghuang Drone, MQ-12 Falcon Drone, Caesar BTT Propellor Airplane, MB 4WD Offroad Car, RHIB Boat, Water Scooter%1%2Weapons - AKS-74U 5.45 mm Assault Rifle, AKM 7.62 mm Assault Rifle, AK-12 7.62 mm Assault Rifle, RPG-7 Launcher, PM 9 mm Pistol, SPAR-16/S/17 Assault Rifles, CAR-95 5.8 mm Assault Rifle, CAR-95-1 5.8 mm Light Support Weapon, LIM-85 5.56 mm Light Machine Gun, Type 115 6.5 mm / .50 cal Assault Rifle, Protector 9 mm Sub-Machine Gun, CMR-76 6.5 mm Designated Marksman Rifle, ERCO Optics%1%2Gear - new clothes, uniforms, backpacks, headgear, NVGs, and more%1%2Syndikat Faction - a criminal organisation composed of armed thugs and ex-paramilitaries%1%2Gendarmerie Faction - the local Tanoa law enforcement agency%1%2NATO &amp;amp; CSAT Special Forces - operators equipped with modern weaponry, thermal-masking camouflage, new Night Vision Goggles, and other unique gear%1%2NATO &amp;amp; CSAT Pacific Forces - suitably camouflaged assets for the primary armed forces%1%2Props - Tanoa environment decorations and special field equipment%1%2Character Appearances - Tanoan and Chinese%1%2Radio Protocols - French, French-English and Chinese%1%2"Apex Protocol" - a 1-4 player co-op campaign with ties to "The East Wind"%1%2Showcase End Game - become familiar with the End Game mode in a singleplayer scenario%1%2&lt;a href='https://community.bistudio.com/wiki/MP_End_Game'&gt;End Game&lt;/a&gt; Instances - "Moddergat" and "Balavu" variants specifically designed for Tanoa's varied environments%1%2&lt;a href="https://arma3.com/dlc/zeus"&gt;Zeus&lt;/a&gt; - Tanoa Game Master scenarios%1%2Official Sound Track - new tracks to score "Apex Protocol"%1%2Main Menu - a re-imagined take on your main window into the game%1%2Controls Presets - play using the new default "Arma 3 Apex" preset, or stick to the setup you're used to via "Arma 3"%1%2Achievements - a set of extra &lt;a href='http://steamcommunity.com/stats/107410/achievements'&gt;Steam Achievements&lt;/a&gt;%1</Original>
         <Chinese>準備好，你即將被佈署到一處100平方公里的南太平洋群島-塔諾亞，此資料片為您帶來13種新武器與10輛新載具，以及一個可多人合作的劇情戰役，這些內容盡在武裝突襲3頂尖資料片之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2塔諾亞島嶼%1%2載具-V-44X"黑鯨"垂直起降機，Y-32"西安"垂直起降機，"徘徊者"輕型突擊車，"麒麟"輕型突擊車，KH-3A"鳳凰"無人偵察機，MQ-12"獵隼"無人直升機，"凱撒"BTT單引擎飛機，四輪驅動越野車，硬殼充氣快艇，水上摩托車%1%2武器-AKS-74U 5.45公厘突擊步槍，AKM 7.62公厘突擊步槍，AK-12 7.62公厘突擊步槍，RPG-7發射器，PM 9公厘手槍，SPAR-16/S/17突擊步槍，CAR-95 5.8公厘突擊步槍，CAR-95-1 5.8公厘輕型支援武器，LIM-85 5.56公厘輕機槍，115式 6.5公厘/.50口徑突擊步槍，"保護者" 9公厘衝鋒槍，CMR-76 6.5公厘指定精準射手步槍，增強型步槍戰鬥光學瞄準鏡%1%2裝備-新衣服，制服，背包，頭盔，夜視鏡等等%1%2辛迪加陣營-一個由前準軍事人員與罪犯等所組成的犯罪組織%1%2憲兵隊陣營-塔諾亞當地的執法組織%1%2北約&amp;amp;廣協同盟特種部隊-裝備更先進的武器，防熱成像迷彩，新式夜視鏡以及其他的獨特裝備%1%2北約&amp;amp;廣協同盟太平洋部隊-主力部隊裝備著與當地符合的迷彩偽裝%1%2道具-塔諾亞當地的環境物件與專業道具%1%2登場人物-塔諾亞人與中國人%1%2無線電對話-法語，法式英語與中文%1%2"頂尖協議"-接續"東風"戰役的合作戰役，可由1-4人共同遊玩%1%2終戰任務展示-在單人模式中體驗當前最受歡迎的模式-終戰%1%2新的&lt;ahref='https://community.bistudio.com/wiki/MP_End_Game'&gt;終戰&lt;/a&gt;任務-在"莫德爾加"與"巴拉武"兩座城市中體驗我們為塔諾亞設計的終戰模式%1%2&lt;ahref="https://arma3.com/dlc/zeus"&gt;宙斯&lt;/a&gt;-為塔諾亞設計的遊戲管理員模式%1%2官方原聲帶-聆聽為"頂尖協議"新譜寫的曲子%1%2主選單-全新的主選單介面%1%2控制設定-你可以使用我們為"武裝突襲3頂尖"新設計的控制設定配置，抑或繼續使用原來的舊有配置%1%2成就-一組新的&lt;ahref='http://steamcommunity.com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinese>
-        <Chinesesimp>准备好，你即将被布署到一处100平方千米的南太平洋群岛—塔诺亚，此 DLC 为您带来13种新武器与10辆新载具，以及一个可多人合作的剧情战役，这些内容尽在武装突袭3 Apex DLC 之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2塔诺亚岛屿%1%2载具-V-44X"黑鲸"垂直起降机，Y-32"西安"垂直起降机，"徘徊者"轻型突击车，"麒麟"轻型突击车，KH-3A"凤凰"无人侦察机，MQ-12"猎隼"无人直升机，"凯撒"BTT 单引擎飞机，四轮驱动越野车，硬壳充气快艇，水上摩托车%1%2武器-AKS-74U 5.45 mm 突击步枪，AKM 7.62 mm 突击步枪，AK-12 7.62 mm 突击步枪，RPG-7发射器，PM 9 mm 手枪，SPAR-16/S/17突击步枪，CAR-95 5.8 mm 突击步枪，CAR-95-1 5.8 mm 轻型支援武器，LIM-85 5.56 mm 轻机枪，115式 6.5 mm /.50口径突击步枪，"保护者" 9 mm 冲锋枪，CMR-76 6.5 mm 指定精准射手步枪，增强型步枪战斗光学瞄准镜%1%2装备—新衣服，制服，背包，头盔，夜视镜等等%1%2辛迪加阵营—一个由前准军事人员与罪犯等所组成的犯罪组织%1%2宪兵队阵营—塔诺亚当地的执法组织%1%2北约&amp;amp;广协特种部队—装备更先进的武器，防热成像迷彩，新式夜视镜以及其他的独特装备%1%2北约&amp;amp;太平洋广协部队—主力部队装备着与当地符合的迷彩伪装%1%2道具—塔诺亚当地的环境物件与专业道具%1%2登场人物—塔诺亚人与中国人%1%2无线电对话—法语，法式英语与中文%1%2"Apex 协议"-接续"东风"战役的合作战役，可由1-4人共同游玩%1%2终战任务展示—在单人模式中体验当前最受欢迎的模式—终战%1%2新的&lt;ahref='https：//community.bistudio.com/wiki/MP_End_Game'&gt;终战&lt;/a&gt;任务—在"莫德尔加"与"巴拉武"两座城市中体验我们为塔诺亚设计的终战模式%1%2&lt;ahref="https：//arma3.com/dlc/zeus"&gt;宙斯&lt;/a&gt;-为塔诺亚设计的游戏管理员模式%1%2官方原声带—聆听为"Apex 协议"新谱写的曲子%1%2主菜单—全新的主菜单界面%1%2控制设定—你可以使用我们为"武装突袭3 Apex"新设计的控制设定配置，抑或继续使用原来的旧有配置%1%2成就—一组新的&lt;ahref='http：//steamcommunity.com/stats/107410/achievements'&gt;Steam 成就&lt;/a&gt;%1</Chinesesimp>
+        <Chinesesimp>准备好，你即将被布署到一处100平方千米的南太平洋群岛—塔诺亚，此 DLC 为您带来13种新武器与10辆新载具，以及一个可多人合作的剧情战役，这些内容尽在武装突袭3 Apex DLC 之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2塔诺亚岛屿%1%2载具-V-44X "黑鲸"垂直起降机，Y-32 "西安"垂直起降机，"徘徊者"轻型突击车，"麒麟"轻型突击车，KH-3A "凤凰"无人侦察机，MQ-12 "猎隼"无人直升机，"凯撒" BTT 单引擎飞机，四轮驱动越野车，硬壳充气快艇，水上摩托车%1%2武器-AKS-74U 5.45 mm 突击步枪，AKM 7.62 mm 突击步枪，AK-12 7.62 mm 突击步枪，RPG-7发射器，PM 9 mm 手枪，SPAR-16/S/17突击步枪，CAR-95 5.8 mm 突击步枪，CAR-95-1 5.8 mm 轻型支援武器，LIM-85 5.56 mm 轻机枪，115式 6.5 mm /.50口径突击步枪，"保护者" 9 mm 冲锋枪，CMR-76 6.5 mm 指定精准射手步枪，增强型步枪战斗光学瞄准镜%1%2装备—新衣服，制服，背包，头盔，夜视镜等等%1%2辛迪加阵营—一个由前准军事人员与罪犯等所组成的犯罪组织%1%2宪兵队阵营—塔诺亚当地的执法组织%1%2北约&amp;amp;广协特种部队—装备更先进的武器，防热成像迷彩，新式夜视镜以及其他的独特装备%1%2北约&amp;amp;太平洋广协部队—主力部队装备着与当地符合的迷彩伪装%1%2道具—塔诺亚当地的环境物件与专业道具%1%2登场人物—塔诺亚人与中国人%1%2无线电对话—法语，法式英语与中文%1%2"Apex 协议"-接续"东风"战役的合作战役，可由1-4人共同游玩%1%2终战任务展示—在单人模式中体验当前最受欢迎的模式—终战%1%2新的&lt;ahref='https：//community.bistudio.com/wiki/MP_End_Game'&gt;终战&lt;/a&gt;任务—在"莫德尔加"与"巴拉武"两座城市中体验我们为塔诺亚设计的终战模式%1%2&lt;ahref="https：//arma3.com/dlc/zeus"&gt;宙斯&lt;/a&gt;-为塔诺亚设计的游戏管理员模式%1%2官方原声带—聆听为"Apex 协议"新谱写的曲子%1%2主菜单—全新的主菜单界面%1%2控制设定—你可以使用我们为"武装突袭3 Apex"新设计的控制设定配置，抑或继续使用原来的旧有配置%1%2成就—一组新的&lt;ahref='http：//steamcommunity.com/stats/107410/achievements'&gt;Steam 成就&lt;/a&gt;%1</Chinesesimp>
       </Key>
     </Container>
     <Container name="Roles">
@@ -6256,7 +6256,7 @@
         <Key ID="str_a3_cfgweapons_hgun_p07_blk_f0">
           <Original>P07 9 mm (Black)</Original>
           <Chinese>P07 9 mm（黑色）</Chinese>
-          <Chinesesimp>P07 9 毫米（黑色）</Chinesesimp>
+          <Chinesesimp>P07 9 mm（黑色）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Rifles">
@@ -6448,17 +6448,17 @@
         <Key ID="str_a3_cfgweapons_arifle_arx_hex_f_secondary0">
           <Original>Type 115 .50 BW (Hex)</Original>
           <Chinese>115式 .50BW(數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>115式.50BW（数位蜂巢迷彩）</Chinesesimp>
+          <Chinesesimp>115式 .50 BW（数位蜂巢迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_hex_f0">
           <Original>Type 115 6.5 mm (Hex)</Original>
           <Chinese>115式 6.5公厘(數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>115式6.5 mm（数位蜂巢迷彩）</Chinesesimp>
+          <Chinesesimp>115式 6.5 mm（数位蜂巢迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_ghex_f_secondary0">
           <Original>Type 115 .50 BW (Green Hex)</Original>
           <Chinese>115式 .50BW(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>115式.50BW（绿色蜂巢迷彩）</Chinesesimp>
+          <Chinesesimp>115式 .50 BW（绿色蜂巢迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_ghex_f0">
           <Original>Type 115 6.5 mm (Green Hex)</Original>
@@ -6468,7 +6468,7 @@
         <Key ID="str_a3_cfgweapons_arifle_arx_blk_f_secondary0">
           <Original>Type 115 .50 BW (Black)</Original>
           <Chinese>115式 .50BW(黑色)</Chinese>
-          <Chinesesimp>115式 .50BW（黑色）</Chinesesimp>
+          <Chinesesimp>115式 .50 BW（黑色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_base_f1">
           <Original>Assault Rifle&lt;br /&gt;Caliber: 5.8x42 mm</Original>
@@ -6570,47 +6570,47 @@
         <Key ID="str_a3_cfgweapons_optic_sos_khk_f0">
           <Original>MOS (Khaki)</Original>
           <Chinese>精準光學瞄準鏡(卡其色)</Chinese>
-          <Chinesesimp>精准光学瞄准镜（卡其色）</Chinesesimp>
+          <Chinesesimp>MOS（卡其色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_lrps_tna_f0">
           <Original>LRPS (Tropic)</Original>
           <Chinese>長距離精確瞄準鏡(熱帶迷彩)</Chinese>
-          <Chinesesimp>长距离精确瞄准镜（热带迷彩）</Chinesesimp>
+          <Chinesesimp>LRPS（热带迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_lrps_ghex_f0">
           <Original>LRPS (Green Hex)</Original>
           <Chinese>長距離精確瞄準鏡(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>长距离精确瞄准镜（绿色蜂巢迷彩）</Chinesesimp>
+          <Chinesesimp>LRPS（绿色蜂巢迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_holosight_smg_blk_f0">
           <Original>Mk17 Holosight SMG (Black)</Original>
           <Chinese>Mk17全息瞄準鏡(衝鋒槍用)(黑色)</Chinese>
-          <Chinesesimp>Mk17全息瞄准镜(冲锋枪用)（黑色）</Chinesesimp>
+          <Chinesesimp>Mk17 全息瞄准镜（冲锋枪用，黑色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_holosight_khk_f0">
           <Original>Mk17 Holosight (Khaki)</Original>
           <Chinese>Mk17全息瞄準鏡(卡其色)</Chinese>
-          <Chinesesimp>Mk17全息瞄准镜（卡其色）</Chinesesimp>
+          <Chinesesimp>Mk17 全息瞄准镜（卡其色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_holosight_blk_f0">
           <Original>Mk17 Holosight (Black)</Original>
           <Chinese>Mk17全息瞄準鏡(黑色)</Chinese>
-          <Chinesesimp>Mk17全息瞄准镜（黑色）</Chinesesimp>
+          <Chinesesimp>Mk17 全息瞄准镜（黑色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_hamr_khk_f0">
           <Original>RCO (Khaki)</Original>
           <Chinese>步槍戰鬥光學瞄準鏡(卡其色)</Chinese>
-          <Chinesesimp>步枪战斗光学瞄准镜（卡其色）</Chinesesimp>
+          <Chinesesimp>RCO（卡其色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_erco_snd_f0">
           <Original>ERCO (Sand)</Original>
           <Chinese>增強型步槍戰鬥光學瞄準鏡(沙色)</Chinese>
-          <Chinesesimp>增强型步枪战斗光学瞄准镜（沙色）</Chinesesimp>
+          <Chinesesimp>ERCO（沙色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_erco_khk_f0">
           <Original>ERCO (Khaki)</Original>
           <Chinese>增強型步槍戰鬥光學瞄準鏡(卡其色)</Chinese>
-          <Chinesesimp>增强型步枪战斗光学瞄准镜（卡其色）</Chinesesimp>
+          <Chinesesimp>ERCO（卡其色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_erco_blk_f1">
           <Original>Enhanced Rifle Combat Optics&lt;br /&gt;Magnification: 2x</Original>
@@ -6620,22 +6620,22 @@
         <Key ID="str_a3_cfgweapons_optic_erco_blk_f0">
           <Original>ERCO (Black)</Original>
           <Chinese>增強型步槍戰鬥光學瞄準鏡(黑色)</Chinese>
-          <Chinesesimp>增强型步枪战斗光学瞄准镜（黑色）</Chinesesimp>
+          <Chinesesimp>ERCO（黑色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_dms_ghex_f0">
           <Original>DMS (Green Hex)</Original>
           <Chinese>精準射手瞄準鏡(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>精准射手瞄准镜（绿色蜂巢迷彩）</Chinesesimp>
+          <Chinesesimp>DMS（绿色蜂巢迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_arco_ghex_f0">
           <Original>ARCO (Green Hex)</Original>
           <Chinese>先進步槍戰鬥光學瞄準鏡(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>先进步枪战斗光学瞄准镜（绿色蜂巢迷彩）</Chinesesimp>
+          <Chinesesimp>ARCO（绿色蜂巢迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_arco_blk_f0">
           <Original>ARCO (Black)</Original>
           <Chinese>先進步槍戰鬥光學瞄準鏡(黑色)</Chinese>
-          <Chinesesimp>先进步枪战斗光学瞄准镜（黑色）</Chinesesimp>
+          <Chinesesimp>ARCO（黑色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_m_snd_f0">
           <Original>Sound Suppressor (5.56 mm, Sand)</Original>
@@ -6725,7 +6725,7 @@
         <Key ID="str_a3_cfgweapons_optic_holosight_smg_khk_f0">
           <Original>Mk17 Holosight SMG (Khaki)</Original>
           <Chinese>Mk17全息瞄準鏡(衝鋒槍用)(卡其色)</Chinese>
-          <Chinesesimp>Mk17全息瞄准镜(冲锋枪用)（卡其色）</Chinesesimp>
+          <Chinesesimp>Mk17 全息瞄准镜（冲锋枪用，卡其色）</Chinesesimp>
         </Key>
       </Container>
       <Container name="LongRangeRifles">
@@ -6737,7 +6737,7 @@
         <Key ID="str_a3_cfgweapons_srifle_gm6_ghex_f0">
           <Original>GM6 Lynx 12.7 mm (Green Hex)</Original>
           <Chinese>GM6"山貓"12.7公厘(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>GM6 "山猫" 12.7 mm（绿色蜂巢迷彩）</Chinesesimp>
+          <Chinesesimp>GM6 "猞猁" 12.7 mm（绿色蜂巢迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_07_wdm_f0">
           <Original>CMR-76 6.5 mm (Green Hex)</Original>
@@ -6784,27 +6784,27 @@
         <Key ID="str_a3_cfgweapons_launch_rpg32_ghex_f0">
           <Original>RPG-42 Alamut (Green Hex)</Original>
           <Chinese>RPG-42"阿拉穆特"(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>RPG-42"阿拉穆特"（绿色蜂巢迷彩）</Chinesesimp>
+          <Chinesesimp>RPG-42 "阿拉穆特"（绿色蜂巢迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_launch_o_titan_short_ghex_f0">
           <Original>Titan MPRL Compact (Green Hex)</Original>
           <Chinese>"泰坦"多功能火箭發射器(緊湊型)(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>"泰坦"多功能火箭发射器(紧凑型)（绿色蜂巢迷彩）</Chinesesimp>
+          <Chinesesimp>"泰坦" MPRL（紧凑型，绿色蜂巢迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_launch_o_titan_ghex_f0">
           <Original>Titan MPRL (Green Hex)</Original>
           <Chinese>"泰坦"多功能火箭發射器(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>"泰坦"多功能火箭发射器（绿色蜂巢迷彩）</Chinesesimp>
+          <Chinesesimp>"泰坦" MPRL（绿色蜂巢迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_launch_b_titan_tna_f0">
           <Original>Titan MPRL (Tropic)</Original>
           <Chinese>"泰坦"多功能火箭發射器(熱帶迷彩)</Chinese>
-          <Chinesesimp>"泰坦"多功能火箭发射器（热带迷彩）</Chinesesimp>
+          <Chinesesimp>"泰坦" MPRL（热带迷彩）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_launch_b_titan_short_tna_f0">
           <Original>Titan MPRL Compact (Tropic)</Original>
           <Chinese>"泰坦"多功能火箭發射器(緊湊型)(熱帶迷彩)</Chinese>
-          <Chinesesimp>"泰坦"多功能火箭发射器(紧凑型)（热带迷彩）</Chinesesimp>
+          <Chinesesimp>"泰坦" MPRL（紧凑型，热带迷彩）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Machineguns">
@@ -6838,7 +6838,7 @@
         <Key ID="str_a3_cfgweapons_smg_05_base_f0">
           <Original>Protector 9 mm</Original>
           <Chinese>"保護者"9公厘冲锋枪</Chinese>
-          <Chinesesimp>"保护者" 9 mm 冲锋枪</Chinesesimp>
+          <Chinesesimp>"保护者" 9 mm</Chinesesimp>
         </Key>
       </Container>
       <Container name="Magazines">
@@ -7040,7 +7040,7 @@
         <Key ID="str_a3_cfgmagazines_10rnd_50bw_mag_f1">
           <Original>Caliber: .50 BW - Caseless&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: Type 115</Original>
           <Chinese>口徑:.50BW-無殼彈&lt;br/&gt;發數:10&lt;br/&gt;使用於:115式</Chinese>
-          <Chinesesimp>口径：.50BW-无壳弹&lt;br/&gt;发数：10&lt;br/&gt;使用于：115式</Chinesesimp>
+          <Chinesesimp>口径：.50 BW-无壳弹&lt;br/&gt;发数：10&lt;br/&gt;使用于：115式</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_50bw_mag_f0">
           <Original>.50 BW 10Rnd Caseless Mag</Original>

@@ -2001,7 +2001,7 @@
       <Key ID="str_a3_cfgvehicles_land_tankobstacle_01_f0">
         <Original>Dragon's Teeth (1)</Original>
         <Chinese>龍牙(障礙)(1)</Chinese>
-        <Chinesesimp>龙牙(障碍)（1）</Chinesesimp>
+        <Chinesesimp>龙牙（障碍，1）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_tankobstacle_02_line_3_f0">
         <Original>Anti-tank Hedgehog (3)</Original>
@@ -2011,7 +2011,7 @@
       <Key ID="str_a3_cfgvehicles_land_tankobstacle_01_line_3_f0">
         <Original>Dragon's Teeth (3)</Original>
         <Chinese>龍牙(障礙)(3)</Chinese>
-        <Chinesesimp>龙牙(障碍)（3）</Chinesesimp>
+        <Chinesesimp>龙牙（障碍，3）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_tankobstacle_02_f0">
         <Original>Anti-tank Hedgehog (1)</Original>
@@ -2021,7 +2021,7 @@
       <Key ID="str_a3_cfgvehicles_land_tankobstacle_01_line_5_f0">
         <Original>Dragon's Teeth (5)</Original>
         <Chinese>龍牙(障礙)(5)</Chinese>
-        <Chinesesimp>龙牙(障碍)（5）</Chinesesimp>
+        <Chinesesimp>龙牙（障碍，5）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Character_F">
@@ -2361,7 +2361,7 @@
       <Key ID="str_a3_cfgweapons_srifle_gm6_camo_f0">
         <Original>GM6 Lynx 12.7 mm (Camo)</Original>
         <Chinese>GM6"山貓"12.7公厘(迷彩)</Chinese>
-        <Chinesesimp>GM6 "山猫" 12.7 mm（迷彩）</Chinesesimp>
+        <Chinesesimp>GM6 "猞猁" 12.7 mm（迷彩）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_srifle_lrr_camo_f0">
         <Original>M320 LRR .408 (Camo)</Original>

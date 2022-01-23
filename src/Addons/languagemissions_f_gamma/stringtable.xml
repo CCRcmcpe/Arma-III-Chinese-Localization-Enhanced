@@ -148,8 +148,8 @@
           <Container name="25_I_Auto" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="25_I_Auto" dubbingLanguage="english" namePrefix="faction_independent_25_i_auto" note="" participants="RC I Expo;" situation="player visits the weapons area of the expo">
             <Key ID="str_a3_faction_independent_25_i_auto_exi_0">
               <Original>The AR-2 Darter is a miniature remote-controlled quadrocopter designed for recon and surveillance roles.</Original>
-              <Chinese>AR-2"短刀"是一臺微型的遙控四軸飛行器，被設計用來做偵察與監視等任務。</Chinese>
-              <Chinesesimp>AR-2"短刀"是一种微型的遥控四轴无人机，被设计用来做侦察与监视等任务。</Chinesesimp>
+              <Chinese>AR-2 "飞镖"是一臺微型的遙控四軸飛行器，被設計用來做偵察與監視等任務。</Chinese>
+              <Chinesesimp>AR-2 "飞镖"是一种微型的遥控四轴无人机，被设计用来做侦察与监视等任务。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_25_i_auto_exi_1">
               <Original>The Stomper is a remote controlled unmanned ground vehicle designed for reconnaissance, surveillance and support.</Original>
@@ -188,7 +188,7 @@
             <Key ID="str_a3_faction_independent_15_i_water_exi_1">
               <Original>The SDV is a manned submersible vehicle used to transport teams of divers over long distances underwater.</Original>
               <Chinese>海報運輸艇是一臺載人的潛水載具，用來讓潛水小隊在水下做長距離的移動。</Chinese>
-              <Chinesesimp>海豹运输艇是一种载人的潜水载具，用来让蛙人小组在水下做长距离移动。</Chinesesimp>
+              <Chinesesimp>SDV 是一种载人的潜水载具，用来让蛙人小组在水下做长距离移动。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_15_i_water_exi_2">
               <Original>The speed boat has a front-facing, remote controlled GMG turret, often sporting a rear-mounted minigun or HMG as well.</Original>
@@ -199,8 +199,8 @@
           <Container name="10_I_Air" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="10_I_Air" dubbingLanguage="english" namePrefix="faction_independent_10_i_air" note="" participants="RC I Expo;" situation="player visits the aerial area of the expo">
             <Key ID="str_a3_faction_independent_10_i_air_exi_0">
               <Original>The CH-49 Mohawk is a powerful transport helicopter with a large capacity.</Original>
-              <Chinese>CH-49"莫霍克"是一臺有著高乘載量的強大運輸直升機。</Chinese>
-              <Chinesesimp>CH-49"莫霍克"是一种有着高乘载量的强大运输直升机。</Chinesesimp>
+              <Chinese>CH-49 "莫霍克"是一臺有著高乘載量的強大運輸直升機。</Chinese>
+              <Chinesesimp>CH-49 "莫霍克"是一种有着高乘载量的强大运输直升机。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_10_i_air_exi_1">
               <Original>The A-143 Buzzard is a single-seat multi-purpose combat aircraft able to deliver a variety of ordinance.</Original>
@@ -217,7 +217,7 @@
             <Key ID="str_a3_faction_independent_05_i_ground_exi_1">
               <Original>The AFV-4 Gorgon is an 8x8 APC armed with a 30mm cannon.</Original>
               <Chinese>AFV-4"蛇髮女妖"是一臺8輪驅動的裝甲運兵車，配備著30公厘加農砲。</Chinese>
-              <Chinesesimp>AFV-4"蛇发女妖"是一种8轮驱动的装甲输送车，配备着30 mm 机炮。</Chinesesimp>
+              <Chinesesimp>AFV-4 "蛇发女妖"是一种8轮驱动的装甲输送车，配备着30 mm 机炮。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_05_i_ground_exi_2">
               <Original>The quad bike is an all-terrain vehicle used for recon and to access terrain heavier vehicles cannot traverse.</Original>
@@ -286,8 +286,8 @@
           <Container name="25_B_Auto" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="25_B_Auto" dubbingLanguage="english" namePrefix="faction_blufor_25_b_auto" note="" participants="RC B Expo;" situation="player visits the weapons area of the expo">
             <Key ID="str_a3_faction_blufor_25_b_auto_exb_0">
               <Original>The AR-2 Darter is a miniature remote-controlled quadrocopter designed for recon and surveillance roles.</Original>
-              <Chinese>AR-2"短刀"是一臺微型的遙控四軸飛行器，被設計用來做偵察與監視等任務。</Chinese>
-              <Chinesesimp>AR-2"短刀"是一种微型的遥控四轴无人机，被设计用来做侦察与监视等任务。</Chinesesimp>
+              <Chinese>AR-2 "飞镖"是一臺微型的遙控四軸飛行器，被設計用來做偵察與監視等任務。</Chinese>
+              <Chinesesimp>AR-2 "飞镖"是一种微型的遥控四轴无人机，被设计用来做侦察与监视等任务。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_25_b_auto_exb_1">
               <Original>The Stomper is a remote controlled unmanned ground vehicle designed for reconnaissance, surveillance and support.</Original>
@@ -302,12 +302,12 @@
             <Key ID="str_a3_faction_blufor_25_b_auto_exb_3">
               <Original>The MQ-12 Falcon is an autonomous, remotely-controlled helicopter drone primarily used for close air support.</Original>
               <Chinese>MQ-12"獵隼"是臺自主式，遙控式的無人直升機，被設計來執行近距離火力支援任務。</Chinese>
-              <Chinesesimp>MQ-12"猎隼"是台自主式，遥控式的无人直升机，被设计来执行近距离火力支援任务。</Chinesesimp>
+              <Chinesesimp>MQ-12 "猎隼"是台自主式，遥控式的无人直升机，被设计来执行近距离火力支援任务。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_25_b_auto_exb_4">
               <Original>The MQ-12 Falcon comes equipped with 2 rocket pods, each containing 12 unguided DAR rockets and 6 Skalpel ATGMs.</Original>
               <Chinese>MQ-12"獵隼"配備著兩座火箭發射艙，各艙都有12枚無導引火箭彈，額外還有6枚"手術刀"空對地飛彈。</Chinese>
-              <Chinesesimp>MQ-12"猎隼"配备着两座火箭发射舱，各舱都有12枚无导引火箭弹，额外还有6枚"手术刀"空对地导弹。</Chinesesimp>
+              <Chinesesimp>MQ-12 "猎隼"配备着两座火箭发射舱，各舱都有12枚无导引火箭弹，额外还有6枚"手术刀"空对地导弹。</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_B_Weapons" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="20_B_Weapons" dubbingLanguage="english" namePrefix="faction_blufor_20_b_weapons" note="" participants="RC B Expo;" situation="player visits the weapons area of the expo">
@@ -336,7 +336,7 @@
             <Key ID="str_a3_faction_blufor_15_b_water_exb_1">
               <Original>The SDV is a manned submersible vehicle used to transport teams of divers over long distances underwater.</Original>
               <Chinese>海豹運輸艇是一臺載人的潛水載具，用來讓潛水小隊在水下做長距離的移動。</Chinese>
-              <Chinesesimp>海豹运输艇是一种载人潜水艇，用来让蛙人小组在水下做长距离移动。</Chinesesimp>
+              <Chinesesimp>SDV 是一种载人潜水艇，用来让蛙人小组在水下做长距离移动。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_15_b_water_exb_2">
               <Original>The speed boat has a front-facing, remote controlled GMG turret, often sporting a rear-mounted minigun or HMG as well.</Original>
@@ -348,32 +348,32 @@
             <Key ID="str_a3_faction_blufor_10_b_air_exb_0">
               <Original>The UH-80 Ghost Hawk is a medium-lift multi-role helicopter originally developed for special operations.</Original>
               <Chinese>UH-80"鬼鷹"是一臺多用途的中型運輸直升機，被開發來用在特種作戰上。</Chinese>
-              <Chinesesimp>UH-80"幽灵鹰"是一种多用途中型运输直升机，用于特种作战。</Chinesesimp>
+              <Chinesesimp>UH-80 "幽灵鹰"是一种多用途中型运输直升机，用于特种作战。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_10_b_air_exb_1">
               <Original>The MH-9 Hummingbird is a light, agile single-engine helicopter.</Original>
               <Chinese>MH-9"蜂鳥"是一臺輕型與靈活的單引擎直升機。</Chinese>
-              <Chinesesimp>MH-9"蜂鸟"是一种轻型且灵活的单发直升机。</Chinesesimp>
+              <Chinesesimp>MH-9 "蜂鸟"是一种轻型且灵活的单发直升机。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_10_b_air_exb_2">
               <Original>The AH-9 Pawnee is an armed variant of the MH-9 Hummingbird, with DAR unguided rocket pods and two 7.62mm miniguns.</Original>
-              <Chinese>AH-9"波尼"是MH-9"蜂鳥"武裝過後的版本，配備有DAR非制導火箭莢艙與兩個7.62公厘"米尼岡"機槍。</Chinese>
-              <Chinesesimp>AH-9"波尼"是 MH-9"蜂鸟"的武装版本，配备有 DAR 非制导火箭巢与两挺7.62 mm 转管机枪。</Chinesesimp>
+              <Chinese>AH-9 "波尼"是MH-9"蜂鳥"武裝過後的版本，配備有DAR非制導火箭莢艙與兩個7.62公厘"米尼岡"機槍。</Chinese>
+              <Chinesesimp>AH-9 "波尼"是 MH-9 "蜂鸟"的武装版本，配备有 DAR 非制导火箭巢与两挺7.62 mm 转管机枪。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_10_b_air_exb_3">
               <Original>The V-44 X Blackfish is a rotor-based, Vertical Take-off and Landing capable airframe that comes in 3 standard-issue configurations.</Original>
               <Chinese>V-44X"黑魚"是臺可以垂直起降的旋翼式飛機，此機有三種不同裝備配置的版本。</Chinese>
-              <Chinesesimp>V-44X"黑鱼"是台可以垂直起降的旋翼式飞机，此机有三种不同装备配置的版本。</Chinesesimp>
+              <Chinesesimp>V-44X "黑鲸"是台可以垂直起降的旋翼式飞机，此机有三种不同装备配置的版本。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_10_b_air_exb_4">
               <Original>The V-44 X Blackfish is able to serve as an unarmed infantry or vehicle transport aircraft, allowing it to deploy cargo in areas otherwise inaccessible to other rotary or fixed-wing aircrafts.</Original>
               <Chinese>V-44X"黑魚"無武裝的兩個版本分別可以運輸步兵或是載具，他可以把貨物運送到一般直升機或是固定翼飛機難以抵達的地方。</Chinese>
-              <Chinesesimp>V-44X"黑鱼"无武装的两个版本分别可以运输步兵或是载具，他可以把货物运送到一般直升机或是固定翼飞机难以抵达的地方。</Chinesesimp>
+              <Chinesesimp>V-44X "黑鲸"无武装的两个版本分别可以运输步兵或是载具，他可以把货物运送到一般直升机或是固定翼飞机难以抵达的地方。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_10_b_air_exb_5">
               <Original>The V-44 X Blackfish, the armed variant, is capable of serving in both offensive and defensive roles, sporting a 40mm cannon, 105mm cannon and 20mm Minigun equipped with high explosive ammunition.</Original>
               <Chinese>武裝版本的V-44X"黑魚"配備著40公厘，105公厘火炮以及使用高爆彈藥的20公厘"米尼岡"機槍，使其能有效擔任進攻或是防禦的角色。</Chinese>
-              <Chinesesimp>武装版本的V-44X"黑鱼"配备着40 mm、105 mm 火炮以及使用高爆弹药的20 mm 转管机炮，使其能有效担任进攻或是防御的角色。</Chinesesimp>
+              <Chinesesimp>武装版本的V-44X "黑鲸"配备着40 mm、105 mm 火炮以及使用高爆弹药的20 mm 转管机炮，使其能有效担任进攻或是防御的角色。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_B_Ground" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="05_B_Ground" dubbingLanguage="english" namePrefix="faction_blufor_05_b_ground" note="" participants="RC B Expo;" situation="player visits the ground vehicles area of the expo">
@@ -385,7 +385,7 @@
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_1">
               <Original>The M2A1 Slammer is a main battle tank armed with a 120mm cannon.</Original>
               <Chinese>M2A1"重擊者"是一臺配備120公厘加農砲的主戰坦克。</Chinese>
-              <Chinesesimp>M2A1"重击者"是一种配备120 mm 坦克炮的主战坦克。</Chinesesimp>
+              <Chinesesimp>M2A1 "重击者"是一种配备120 mm 坦克炮的主战坦克。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_2">
               <Original>The Panther is an armored personnel carrier armed with a 12.7mm machine gun, 40mm grenade launcher, and a cargo capacity for up to eight soldiers.</Original>
@@ -463,7 +463,7 @@
             <Key ID="str_a3_faction_opfor_25_o_auto_exo_3">
               <Original>The KH-3A Fenghuang is a Chinese autonomous, remote-controlled drone used primarily for close air support and recon.</Original>
               <Chinese>KH-3A"鳳凰"是臺中國製的自主式，遙控式無人飛機，被設計來執行近距離火力支援與偵察等任務。</Chinese>
-              <Chinesesimp>KH-3A"凤凰"是台中国制的自主式，遥控式无人飞机，被设计来执行近距离火力支援与侦察等任务。</Chinesesimp>
+              <Chinesesimp>KH-3A "凤凰"是台中国制的自主式，遥控式无人飞机，被设计来执行近距离火力支援与侦察等任务。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_25_o_auto_exo_4">
               <Original>It is equipped with 4 air-to-surface missiles along with a standard-issue laser designator.</Original>
@@ -475,7 +475,7 @@
             <Key ID="str_a3_faction_opfor_20_o_weapons_exo_0">
               <Original>The Gepard GM6 Lynx is a semi-automatic anti-materiel rifle with advanced barrel recoil technology.</Original>
               <Chinese>"傑帕德"GM6"山貓"是一把半自動反物質步槍，配備先進的槍管後座力技術。</Chinese>
-              <Chinesesimp>"杰帕德"GM6"山猫"是一把半自动反器材步枪，采用先进的枪管后座力技术。</Chinesesimp>
+              <Chinesesimp>"猎豹" GM6 "猞猁"是一把半自动反器材步枪，采用先进的枪管后座力技术。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_20_o_weapons_exo_1">
               <Original>The Katiba is a 6.5mm bullpup assault rifle known for its reliability and low recoil.</Original>
@@ -502,7 +502,7 @@
             <Key ID="str_a3_faction_opfor_15_o_water_exo_1">
               <Original>The SDV is a manned submersible vehicle used to transport diver teams over long distances underwater.</Original>
               <Chinese>海豹運輸艇是一臺載人的潛水載具，用來讓潛水小隊在水下做長距離的移動。</Chinese>
-              <Chinesesimp>海豹运输艇是一台载人的潜水载具，用来让蛙人小组在水下做长距离的移动。</Chinesesimp>
+              <Chinesesimp>SDV 是一台载人的潜水载具，用来让蛙人小组在水下做长距离的移动。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_15_o_water_exo_2">
               <Original>The speed boat has a front-facing, remote controlled GMG turret, often sporting a rear-mounted minigun or HMG as well.</Original>
@@ -514,7 +514,7 @@
             <Key ID="str_a3_faction_opfor_10_o_air_exo_0">
               <Original>The PO-30 Orca is a transport and utility helicopter, originally intended to replace the Mi-8.</Original>
               <Chinese>PO-3"逆戟鯨"是一臺多功能運輸直升機，原本計劃用來取代米-8。</Chinese>
-              <Chinesesimp>PO-30"逆戟鲸"是一台多功能运输直升机，原本计划用来取代米-8。</Chinesesimp>
+              <Chinesesimp>PO-30 "虎鲸"是一台多功能运输直升机，原本计划用来取代米-8。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_10_o_air_exo_1">
               <Original>The Mi-48 is a large helicopter gunship with a cargo capacity of up to eight people.</Original>
@@ -541,7 +541,7 @@
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_0">
               <Original>The MSE-3 Marid is a maneuverable, amphibious 6-wheeled APC.</Original>
               <Chinese>MSE-3"馬里德"是一臺具有高機動性，與兩棲作戰能力的6輪裝甲運兵車。</Chinese>
-              <Chinesesimp>MSE-3"马里德"是一台具有高机动性与两栖作战能力的6轮装甲输送车。</Chinesesimp>
+              <Chinesesimp>MSE-3 "马里德"是一台具有高机动性与两栖作战能力的6轮装甲输送车。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_1">
               <Original>The Ifrit is a Mine Resistant Ambush Protected vehicle designed and manufactured in Russia.</Original>
@@ -2379,7 +2379,7 @@
         <Key ID="str_a3_showcase_gunships_briefing_execution_text">
           <Original>1. Board %1your Mi-48 Kajman.%2&lt;br/&gt;2. Fly to %3Pyrgos%4.&lt;br/&gt;3. Defeat %5the enemy counter-offensive%6.</Original>
           <Chinese>1. 登上%1你的米-48"鰐魚"。%2&lt;br/&gt;2. 飛到%3皮爾戈斯%4。&lt;br/&gt;3. 擊退%5敵軍的攻擊%6。</Chinese>
-          <Chinesesimp>1. 登上%1你的米-48"鳄鱼"。%2&lt;br/&gt;2. 飞到%3皮尔戈斯%4。&lt;br/&gt;3. 击退%5敌军的攻击%6。</Chinesesimp>
+          <Chinesesimp>1. 登上%1你的米-48 "凯门鳄"。%2&lt;br/&gt;2. 飞到%3皮尔戈斯%4。&lt;br/&gt;3. 击退%5敌军的攻击%6。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_gunships_bis_tsksave_title">
           <Original>Rescue Viper Team</Original>
@@ -2484,7 +2484,7 @@
         <Key ID="str_a3_showcase_gunships_bis_tskheli_desc">
           <Original>Get in %1your designated Mi-48 Kajman%2 as the pilot.</Original>
           <Chinese>搭乘%1你的米-48"鰐魚"%2，並擔當飛行員一職。</Chinese>
-          <Chinesesimp>搭乘%1你的米-48"鳄鱼"%2，并担当飞行员一职。</Chinesesimp>
+          <Chinesesimp>搭乘%1你的米-48 "凯门鳄"%2，并担当飞行员一职。</Chinesesimp>
         </Key>
       </Container>
       <Container name="Showcase_Arma">
@@ -2556,7 +2556,7 @@
         <Key ID="str_a3_showcase_arma_briefing_situation_text">
           <Original>Having seized Kavala - the largest settlement on the west coast - with surprisingly little resistance, our forces pushed north and were met with a heavily fortified &lt;marker name='BIS_base'&gt;position&lt;/marker&gt;. At the same time, we have opened up a new front, with the goal of flanking the enemy and, ultimately, securing the entire west coast of the island.&lt;br /&gt;&lt;br /&gt;An armored platoon, &lt;marker name='BIS_friendlies'&gt;Nomad&lt;/marker&gt;, has moved into position to the north west - securing a key &lt;marker name='BIS_friendlies_1'&gt;power station&lt;/marker&gt; - and is poised to strike against our primary objective, the &lt;marker name='BIS_base'&gt;main base&lt;/marker&gt;. However, we must first secure a key outpost to the south, so as to remove the risk of our forces being outflanked.&lt;br /&gt;&lt;br /&gt;Mechanized infantry, callsign &lt;marker name='BIS_start'&gt;Echo&lt;/marker&gt;, will push north and deploy infantry squads, &lt;marker name='BIS_startOne'&gt;Alpha&lt;/marker&gt;, your team, and &lt;marker name='BIS_startTwo'&gt;Bravo&lt;/marker&gt;, near the &lt;marker name='BIS_outpost'&gt;Outpost&lt;/marker&gt;. Together, they'll execute a coordinated assault and, with armored support, immediately strike against the &lt;marker name='BIS_base'&gt;main base&lt;/marker&gt; before the enemy can regroup and counterattack.&lt;br /&gt;&lt;br /&gt;Once the Area of Operation is under our control, a logistics convoy, Kilo, will move up and establish a supply route in support of our forces in the north. It's vital that we maintain the momentum of our offensive.</Original>
           <Chinese>在佔領卡瓦拉(西海岸最大的城鎮)的時候，我們出乎意料只遇到了一些零星的反擊，在我們部隊繼續向北挺進的時候，我們卻遇到了一個戒備森嚴的敵軍&lt;markername='BIS_base'&gt;防禦工事&lt;/marker&gt;。與此同時，我們在敵軍的側翼開闢了一條新戰線，期望最終能把整個西海岸給拿下。&lt;br/&gt;&lt;br/&gt;一個呼號為&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;的裝甲排，已經移動到了西北方(確保一個關鍵的&lt;markername='BIS_friendlies_1'&gt;發電站&lt;/marker&gt;)並且準備開始突擊我們的首要目標，&lt;markername='BIS_base'&gt;敵軍主基地&lt;/marker&gt;。然而，我們必須先佔領一座敵軍的前哨，以移除我們被包抄的危險。&lt;br/&gt;&lt;br/&gt;呼號為&lt;markername='BIS_start'&gt;Echo&lt;/marker&gt;的多功能步兵車，將會向北挺進並部屬兩支步兵小隊在&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;附近，包括你的小隊&lt;markername='BIS_startOne'&gt;Alpha&lt;/marker&gt;，與前來支援的&lt;markername='BIS_startTwo'&gt;Bravo&lt;/marker&gt;。你們兩隊，將一起突擊該前哨，然後與裝甲部隊協同，在敵人反應過來之前攻擊他們的&lt;markername='BIS_base'&gt;主基地&lt;/marker&gt;。&lt;br/&gt;&lt;br/&gt;一旦區域落入我們的控制，呼號為Kilo的後勤車隊即會開始北上，為我們建立起補給線。他們非常重要，因為這樣我們才能維持我們的攻勢。</Chinese>
-          <Chinesesimp>在占领卡瓦拉(西海岸最大的城镇)的过程中，我们出乎意料地只遇到了一些零星的反击，在我们部队继续向北挺进的时候，我们却遇到了一支戒备森严的敌军&lt;markername='BIS_base'&gt;防御工事&lt;/marker&gt;。与此同时，我们在敌军的侧翼开辟了一条新战线，期望最终能把整个西海岸给拿下。&lt;br/&gt;&lt;br/&gt;一个呼号为&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;的装甲排，已经移动到了西北方（确保一个关键的&lt;markername='BIS_friendlies_1'&gt;发电站&lt;/marker&gt;）并且准备开始突击我们的首要目标，&lt;markername='BIS_base'&gt;敌军主基地&lt;/marker&gt;。然而，我们必须先占领一座敌军的前哨，以移除我们被包抄的危险。&lt;br/&gt;&lt;br/&gt;呼号为&lt;markername='BIS_start'&gt;Echo&lt;/marker&gt;的多功能步兵车，将会向北挺进并部属两支步兵小队在&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;附近，包括你的小队&lt;markername='BIS_startOne'&gt;Alpha&lt;/marker&gt;，与前来支援的&lt;markername='BIS_startTwo'&gt;Bravo&lt;/marker&gt;。你们两队，将一起突击该前哨，然后与装甲部队协同，在敌人反应过来之前攻击他们的&lt;markername='BIS_base'&gt;主基地&lt;/marker&gt;。&lt;br/&gt;&lt;br/&gt;一旦区域落入我们的控制，呼号为 Kilo 的后勤车队即会开始北上，为我们建立起补给线。他们非常重要，因为这样我们才能维持我们的攻势。</Chinesesimp>
+          <Chinesesimp>在占领卡瓦拉（西海岸最大的城镇）的过程中，我们出乎意料地只遇到了一些零星的反击，在我们部队继续向北挺进的时候，我们却遇到了一支戒备森严的敌军&lt;markername='BIS_base'&gt;防御工事&lt;/marker&gt;。与此同时，我们在敌军的侧翼开辟了一条新战线，期望最终能把整个西海岸给拿下。&lt;br/&gt;&lt;br/&gt;一个呼号为&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;的装甲排，已经移动到了西北方（确保一个关键的&lt;markername='BIS_friendlies_1'&gt;发电站&lt;/marker&gt;）并且准备开始突击我们的首要目标，&lt;markername='BIS_base'&gt;敌军主基地&lt;/marker&gt;。然而，我们必须先占领一座敌军的前哨，以移除我们被包抄的危险。&lt;br/&gt;&lt;br/&gt;呼号为&lt;markername='BIS_start'&gt;Echo&lt;/marker&gt;的多功能步兵车，将会向北挺进并部属两支步兵小队在&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;附近，包括你的小队&lt;markername='BIS_startOne'&gt;Alpha&lt;/marker&gt;，与前来支援的&lt;markername='BIS_startTwo'&gt;Bravo&lt;/marker&gt;。你们两队，将一起突击该前哨，然后与装甲部队协同，在敌人反应过来之前攻击他们的&lt;markername='BIS_base'&gt;主基地&lt;/marker&gt;。&lt;br/&gt;&lt;br/&gt;一旦区域落入我们的控制，呼号为 Kilo 的后勤车队即会开始北上，为我们建立起补给线。他们非常重要，因为这样我们才能维持我们的攻势。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_arma_briefing_signal_text">
           <Original>Papa Bear - HQ&lt;br /&gt;&lt;marker name='BIS_startOne'&gt;Alpha&lt;/marker&gt; - Your team&lt;br /&gt;&lt;marker name='BIS_startTwo'&gt;Bravo&lt;/marker&gt; - Infantry Squad&lt;br /&gt;&lt;marker name='BIS_start'&gt;Echo&lt;/marker&gt; - 2 IFVs&lt;br /&gt;&lt;marker name='BIS_friendlies'&gt;Nomad&lt;/marker&gt; - Armored Platoon&lt;br /&gt;Kilo - Logistics Convoy</Original>
@@ -3163,7 +3163,7 @@
         <Key ID="str_a3_showcase_tanks_task1_text">
           <Original>Move to the staging area and take command of your M2A1 Slammer MBT.</Original>
           <Chinese>移動到臨停區，並指揮你的M2A1"重擊者"主戰坦克。</Chinese>
-          <Chinesesimp>移动到临停区，并指挥你的M2A1"重击者"主战坦克。</Chinesesimp>
+          <Chinesesimp>移动到临停区，并指挥你的M2A1 "重击者" 主战坦克。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_tanks_sitrep_text">
           <Original>North of Molos</Original>

@@ -480,18 +480,18 @@
       </Key>
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_02_f_library0">
         <Original>The Zubr .45 ACP is a revolver handgun with a distinctive design. The muzzle position is aligned with the bottom chamber. Compared to normal topmost revolvers, this change reduces the muzzle flip after shooting by directing the recoil more into the shooter's wrist. </Original>
-        <Chinese>"野牛".45ACP是一把與左輪手槍非常相似的一把手槍。其槍口的位置對準了彈巢的底部。相比傳統左輪手槍對準彈巢上部的設計，這樣的改變可以減低開火後槍身向後翻準的程度，將後座力引導到射手的手腕上。</Chinese>
-        <Chinesesimp>"野牛".45ACP 是一把与左轮手枪非常相似的一把手枪。其枪口的位置对准了弹巢的底部。相比传统左轮手枪对准弹巢上部的设计，这样的改变可以减低开火后枪身向后翻准的程度，将后座力引导到射手的手腕上。</Chinesesimp>
+        <Chinese>"野牛".45 ACP是一把與左輪手槍非常相似的一把手槍。其槍口的位置對準了彈巢的底部。相比傳統左輪手槍對準彈巢上部的設計，這樣的改變可以減低開火後槍身向後翻準的程度，將後座力引導到射手的手腕上。</Chinese>
+        <Chinesesimp>"野牛".45 ACP 是一把与左轮手枪非常相似的一把手枪。其枪口的位置对准了弹巢的底部。相比传统左轮手枪对准弹巢上部的设计，这样的改变可以减低开火后枪身向后翻准的程度，将后座力引导到射手的手腕上。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_02_f0">
         <Original>Zubr .45 ACP</Original>
-        <Chinese>"野牛".45ACP</Chinese>
-        <Chinesesimp>"野牛".45ACP</Chinesesimp>
+        <Chinese>"野牛".45 ACP</Chinese>
+        <Chinesesimp>"野牛".45 ACP</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_01_f_library0">
         <Original>The 4-five is a polymer-based semi-automatic pistol named for using .45 ACP ammunition. The reliability and accuracy are the most appraised features of this weapon. This weapon is favored by firing drills competitors because of an eleven rounds magazine and available collimator sight. </Original>
-        <Chinese>4-Five是一種使用聚合物製做的半自動手槍，因其使用.45ACP彈藥而命名為4-Five。這把槍有不錯的可靠性與準確度。這把槍也常被使用於射擊靶場的比賽中，因其彈匣有11發彈藥與可靠的準直覘孔。</Chinese>
-        <Chinesesimp>4-Five 是一种使用聚合物制做的半自动手枪，因其使用.45ACP 弹药而命名为4-Five。这把枪有不错的可靠性与准确度。这把枪也常被使用于射击靶场的比赛中，因其弹匣有11发弹药与可靠的准直觇孔。</Chinesesimp>
+        <Chinese>4-Five是一種使用聚合物製做的半自動手槍，因其使用.45 ACP彈藥而命名為4-Five。這把槍有不錯的可靠性與準確度。這把槍也常被使用於射擊靶場的比賽中，因其彈匣有11發彈藥與可靠的準直覘孔。</Chinese>
+        <Chinesesimp>4-Five 是一种使用聚合物制做的半自动手枪，因其使用.45 ACP 弹药而命名为4-Five。这把枪有不错的可靠性与准确度。这把枪也常被使用于射击靶场的比赛中，因其弹匣有11发弹药与可靠的准直觇孔。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_optic_mrd0">
         <Original>MRD</Original>
@@ -510,8 +510,8 @@
       </Key>
       <Key ID="str_a3_cfgmagazines_6rnd_45acp_cylinder1">
         <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 6&lt;br /&gt;Used in: Zubr</Original>
-        <Chinese>口徑:.45ACP&lt;br/&gt;發數:6&lt;br/&gt;使用於:野牛</Chinese>
-        <Chinesesimp>口径：.45ACP&lt;br/&gt;发数：6&lt;br/&gt;使用于：野牛</Chinesesimp>
+        <Chinese>口徑:.45 ACP&lt;br/&gt;發數:6&lt;br/&gt;使用於:野牛</Chinese>
+        <Chinesesimp>口径：.45 ACP&lt;br/&gt;发数：6&lt;br/&gt;使用于：野牛</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_5rnd_127x108_apds_mag1">
         <Original>Caliber: 12.7x108 mm APDS&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: GM6 Lynx</Original>
@@ -520,8 +520,8 @@
       </Key>
       <Key ID="str_a3_cfgmagazines_6rnd_45acp_cylinder0">
         <Original>.45 ACP 6Rnd Cylinder</Original>
-        <Chinese>.45ACP口徑6發彈筒</Chinese>
-        <Chinesesimp>.45ACP 口径6发弹巢</Chinesesimp>
+        <Chinese>.45 ACP口徑6發彈筒</Chinese>
+        <Chinesesimp>.45 ACP 口径6发弹巢</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgWeapons_srifle_DMR_01_F_library">
         <Original>The Rahim 7.62 mm is a bullpup rifle serving as a designated marksman weapon for the OPFOR. It's based on the older Russian rifle with upgraded modern features such as firing mechanism, trigger and rail. The bullpup design allows the rifle to be more compact and maneuverable without shortening the barrel.</Original>
@@ -545,23 +545,23 @@
       </Key>
       <Key ID="str_a3_cfgmagazines_11rnd_45acp_mag0">
         <Original>.45 ACP 11Rnd Mag</Original>
-        <Chinese>.45ACP口徑11發彈匣</Chinese>
-        <Chinesesimp>.45ACP 口径11发弹匣</Chinesesimp>
+        <Chinese>.45 ACP口徑11發彈匣</Chinese>
+        <Chinesesimp>.45 ACP 口径11发弹匣</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_11rnd_45acp_mag1">
         <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 11&lt;br /&gt;Used in: 4-five</Original>
-        <Chinese>口徑:.45ACP&lt;br/&gt;發數:11&lt;br/&gt;使用於:4-five</Chinese>
-        <Chinesesimp>口径：.45ACP&lt;br/&gt;发数：11&lt;br/&gt;使用于：4-five</Chinesesimp>
+        <Chinese>口徑:.45 ACP&lt;br/&gt;發數:11&lt;br/&gt;使用於:4-five</Chinese>
+        <Chinesesimp>口径：.45 ACP&lt;br/&gt;发数：11&lt;br/&gt;使用于：4-five</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_acc_dms0">
         <Original>DMS</Original>
         <Chinese>精準射手瞄準鏡</Chinese>
-        <Chinesesimp>精准射手瞄准镜</Chinesesimp>
+        <Chinesesimp>DMS</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_acc_dms1">
         <Original>DMS&lt;br /&gt;Magnification: 2x–4x</Original>
         <Chinese>精準射手瞄準鏡&lt;br/&gt;倍率:2x–4x</Chinese>
-        <Chinesesimp>精准射手瞄准镜&lt;br/&gt;倍率：2x–4x</Chinesesimp>
+        <Chinesesimp>DMS&lt;br/&gt;倍率：2x–4x</Chinesesimp>
       </Key>
     </Container>
   </Package>

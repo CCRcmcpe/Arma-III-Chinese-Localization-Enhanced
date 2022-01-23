@@ -37,17 +37,17 @@
       <Key ID="str_a3_cfgvehicles_i_heli_light_03_f0">
         <Original>WY-55 Hellcat</Original>
         <Chinese>WY-55"潑婦"武裝直升機</Chinese>
-        <Chinesesimp>WY-55"泼妇"武装直升机</Chinesesimp>
+        <Chinesesimp>WY-55 "地狱猫"</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_heli_light_03_unarmed_f0">
         <Original>WY-55 Hellcat (Unarmed)</Original>
         <Chinese>WY-55"潑婦"武裝直升機(無武裝)</Chinese>
-        <Chinesesimp>WY-55"泼妇"直升机（无武装）</Chinesesimp>
+        <Chinesesimp>WY-55 "地狱猫"（无武装）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_heli_light_03_f_armory0">
         <Original>The WY-55 Hellcat is a multi-purpose military helicopter, most suited for a role of anti-surface battlefield utility, which also has a limited transport capacity. It replaces its predecessor the Super Lynx, improving the maneuverability, durability and protection. The armed version is fitted with twin miniguns and unguided rockets.</Original>
         <Chinese>WY-55"潑婦"是一臺多用途軍用直升機，主要用於反地面作戰，亦可在戰場中做有限的運輸任務。他取代了他的前輩"超山貓"，有著更好的操控性，耐用度與保護。武裝的版本配有兩挺"米尼岡"速射機槍砲與非導引火箭彈。</Chinese>
-        <Chinesesimp>WY-55"泼妇"是一种多用途军用直升机，主要用于反地面作战，亦可在战场中做有限的运输任务。作为"超山猫"的替代型号，它有更好的操控性，航程与装甲。武装型配有两挺转管机枪与非制导火箭弹。</Chinesesimp>
+        <Chinesesimp>WY-55 "地狱猫"是一种多用途军用直升机，主要用于反地面作战，亦可在战场中做有限的运输任务。作为"超山猫"的替代型号，它有更好的操控性，航程与装甲。武装型配有两挺转管机枪与非制导火箭弹。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Weapons_F">
@@ -64,7 +64,7 @@
       <Key ID="str_a3_cfgweapons_optic_lrps0">
         <Original>LRPS</Original>
         <Chinese>長距離精確瞄準鏡</Chinese>
-        <Chinesesimp>长距离精确瞄准镜</Chinesesimp>
+        <Chinesesimp>LRPS</Chinesesimp>
       </Key>
       <Key ID="STR_A3_twin_cannon_20mm">
         <Original>Twin Cannon 20mm</Original>
@@ -191,27 +191,27 @@
       <Key ID="str_a3_cfgvehicles_mbt_03_base_f_library0">
         <Original>The MBT-52 Kuma is the main battle tank used by Altian Armed Forces. A batch of a few dozen tanks and spare turrets were bought underprice from a south-European country facing an economic collapse. Like similar MBTs of the era, the Kuma is armed with a 120 mm cannon, a 7.62 mm coaxial machinegun and a remotely controlled 12.7 mm HMG. The level of protection for the crew is also remarkable, thanks to additional armor layers. </Original>
         <Chinese>MBT-52"庫瑪"是阿爾蒂斯武裝力量的主戰坦克。他們從一個面臨經濟困境的南歐國家手中，以劃算的價格購買了一批坦克與相關備用零件。就像其他同期的主戰坦克，"庫瑪"配備著120公厘加農砲，一挺7.62公厘同軸機槍和一個裝有12.7公厘重機槍的遙控砲塔。它對組員的保護也有相應的提升，這得歸功於它外面的那層裝甲。</Chinese>
-        <Chinesesimp>MBT-52"库玛"是 AAF 的主战坦克。他们从一个面临经济崩溃的南欧国家手中以划算的价格购买了一批坦克与相关备用零件。就像其他同时代的主战坦克一样，"库玛"装备一门120 mm 坦克炮，一挺7.62 mm 同轴机枪和一个装有12.7 mm 重机枪的遥控武器站。借由附加装甲，它对乘员的保护也有相应的提升。</Chinesesimp>
+        <Chinesesimp>MBT-52 "库玛"是 AAF 的主战坦克。他们从一个面临经济崩溃的南欧国家手中以划算的价格购买了一批坦克与相关备用零件。就像其他同时代的主战坦克一样，"库玛"装备一门120 mm 坦克炮，一挺7.62 mm 同轴机枪和一个装有12.7 mm 重机枪的遥控武器站。借由附加装甲，它对乘员的保护也有相应的提升。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_mbt_03_cannon_f0">
         <Original>MBT-52 Kuma</Original>
         <Chinese>MBT-52"庫瑪"主戰坦克</Chinese>
-        <Chinesesimp>MBT-52"库玛"主战坦克</Chinesesimp>
+        <Chinesesimp>MBT-52 "库玛"</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_apc_tracked_03_cannon_f0">
         <Original>FV-720 Mora</Original>
-        <Chinese>FV-720"摩拉"步兵戰車</Chinese>
-        <Chinesesimp>FV-720"摩拉"步兵战车</Chinesesimp>
+        <Chinese>FV-720 "摩拉"步兵戰車</Chinese>
+        <Chinesesimp>FV-720 "摩拉"</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_apc_tracked_03_base_f_library0">
         <Original>The FV-720 Mora is an infantry fighting vehicle used by the AAF. They were bought by the AAF from British Armed Forces and reconditioned to serve two more decades. The Mora is armed with a 30 mm cannon and a coaxial machinegun, providing not only a carrying capacity, but also reliable fire support.</Original>
-        <Chinese>FV-720"摩拉"是一臺服役於阿爾蒂斯武裝力量的步兵戰車。他們從英軍的手中買下他並著手翻新，打算再用20年。"摩拉"配備著30公厘機砲與同軸機槍，這讓他不只能運輸單位，同時也能提供優秀的火力支援。</Chinese>
-        <Chinesesimp>FV-720"摩拉"是 AAF 所使用的的步兵战车。AAF 从英军的手中买下它们并着手翻新延寿20年。"摩拉"配备着30 mm 机炮与同轴机枪，这让它不但能运输单位，同时也能提供优秀的火力支援。</Chinesesimp>
+        <Chinese>FV-720 "摩拉"是一臺服役於阿爾蒂斯武裝力量的步兵戰車。他們從英軍的手中買下他並著手翻新，打算再用20年。"摩拉"配備著30公厘機砲與同軸機槍，這讓他不只能運輸單位，同時也能提供優秀的火力支援。</Chinese>
+        <Chinesesimp>FV-720 "摩拉"是 AAF 所使用的的步兵战车。AAF 从英军的手中买下它们并着手翻新延寿20年。"摩拉"配备着30 mm 机炮与同轴机枪，这让它不但能运输单位，同时也能提供优秀的火力支援。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_mbt_03_cannon_slat_f0">
         <Original>MBT-52 Kuma SLAT</Original>
         <Chinese>MBT-52"庫瑪"主戰坦克SLAT</Chinese>
-        <Chinesesimp>MBT-52"库玛"主战坦克 SLAT</Chinesesimp>
+        <Chinesesimp>MBT-52 "库玛"（格栅装甲）</Chinesesimp>
       </Key>
     </Container>
     <Container name="Characters_F">
@@ -619,7 +619,7 @@
       <Key ID="str_a3_guide_withdrawing1">
         <Original>Breaking contact is the means by which an element disengages from a confrontation with an enemy force in an orderly fashion. To execute a “Break Contact via Bounding Overwatch” drill, the following steps are taken:%1%1%3 1.)%4 The element leader announces his intent to break contact via bounding overwatch. He designates one or more elements as the “base of fire”. This element can be as small as a fireteam or may consist of multiple fireteams or squads when employed at the platoon level.%1%3 2.)%4 The base of fire element takes the best hasty position possible and begins laying down fire on the enemy. Oftentimes the base of fire element will be chosen based on already having a good position, making additional movement unnecessary.%1%3 3.)%4 While the base of fire element lays down sustained accurate fire on the enemy, other elements move via rushes to the rear. These elements pick spots of natural or artificial cover or concealment from which they can support the base of fire element when it pulls back. Smoke is deployed to conceal movement when available.%1%3 4.)%4 On the element leader’s command, or at their discretion, the base of fire displaces to the rear towards the supporting elements. These supporting elements begin sustained accurate firing on the enemy until the base of fire element has moved past them and established a new position.%1%3 5.)%4 This process is repeated as necessary until friendly forces have successfully disengaged from enemy contact.</Original>
         <Chinese>脫離交戰是指要如何有順序的與敵人的部隊停止交戰。要執行"使用掩護躍進來脫離交戰"，請遵照以下步驟:%1%1%3 1.)%4小隊長必須宣布他將要執行掩護躍進來脫離交戰。他必須指定幾個單位來當作"基礎火力"。當基礎火力的單位可以小至一個火力伍，大至複數個火力伍或小隊，端看你手上的兵力有多少。%1%3 2.)%4當基礎火力的單位必須立刻找到一個最佳的位置，並開始向敵人進行火力壓制。大多數的時候，我們必須選擇已經有良好位置的單位來當作基礎火力，免得一些不必要的移動產生。%1%3 3.)%4當基礎火力的單位開始向敵人進行精準火力壓制時，其他單位必須迅速的向後方移動。這些單位必須再找到其他的天然或人工掩體，亦或是一些隱藏的點，這些點必須是可以支援基礎火力向後撤的時候，可以向敵人射擊的點。如果可以在有煙霧的掩護下移動更好。%1%3 4.)%4基礎火力的單位隊長必須下令，或是他們自行斟酌，開始移動到支援單位的後面。而這些支援單位必須開始向敵人進行精準火力壓制，直到基礎火力單位通過他們身後並找到找到新的開火點。%1%3 5.)%4這過程必須不斷的重複，直到確認友軍部隊脫離與敵人的交戰為止。</Chinese>
-        <Chinesesimp>脱离交战是指要如何有顺序的与敌人的部队停止交战。要执行"使用掩护跃进来脱离交战"，请遵照以下步骤：%1%1%3 1.)%4小队长必须宣布他将要执行掩护跃进来脱离交战。他必须指定几个单位来当作"基础火力"。当基础火力的单位可以小至一个火力伍，大至复数个火力伍或小队，看你手上的兵力有多少。%1%3 2.)%4当基础火力的单位必须立刻找到一个最佳的位置，并开始向敌人进行火力压制。大多数的时候，我们必须选择已经有良好位置的单位来当作基础火力，免得一些不必要的移动产生。%1%3 3.)%4当基础火力的单位开始向敌人进行精准火力压制时，其他单位必须迅速的向后方移动。这些单位必须再找到其他的天然或人工掩体，亦或是一些隐藏的点，这些点必须是可以支援基础火力向后撤的时候，可以向敌人射击的点。如果可以在有烟雾的掩护下移动更好。%1%3 4.)%4基础火力的单位队长必须下令，或是他们自行斟酌，开始移动到支援单位的后面。而这些支援单位必须开始向敌人进行精准火力压制，直到基础火力单位通过他们身后并找到找到新的开火点。%1%3 5.）%4这过程必须不断的重复，直到确认友军部队脱离与敌人的交战为止。</Chinesesimp>
+        <Chinesesimp>脱离交战是指要如何有顺序的与敌人的部队停止交战。要执行"使用掩护跃进来脱离交战"，请遵照以下步骤：%1%1%3 1.）%4小队长必须宣布他将要执行掩护跃进来脱离交战。他必须指定几个单位来当作"基础火力"。当基础火力的单位可以小至一个火力伍，大至复数个火力伍或小队，看你手上的兵力有多少。%1%3 2.）%4当基础火力的单位必须立刻找到一个最佳的位置，并开始向敌人进行火力压制。大多数的时候，我们必须选择已经有良好位置的单位来当作基础火力，免得一些不必要的移动产生。%1%3 3.）%4当基础火力的单位开始向敌人进行精准火力压制时，其他单位必须迅速的向后方移动。这些单位必须再找到其他的天然或人工掩体，亦或是一些隐藏的点，这些点必须是可以支援基础火力向后撤的时候，可以向敌人射击的点。如果可以在有烟雾的掩护下移动更好。%1%3 4.）%4基础火力的单位队长必须下令，或是他们自行斟酌，开始移动到支援单位的后面。而这些支援单位必须开始向敌人进行精准火力压制，直到基础火力单位通过他们身后并找到找到新的开火点。%1%3 5.）%4这过程必须不断的重复，直到确认友军部队脱离与敌人的交战为止。</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_withdrawing0">
         <Original>B07 Breaking Contact</Original>
@@ -659,7 +659,7 @@
       <Key ID="str_a3_guide_orientation1">
         <Original>The map and the compass are two basic tools for orientation and you should know how to use them.%1%1%2%3Reading the map.%4 The main thing to remember is that the grids must be read right, and then up. Due to the fact that the map grid is composed entirely of numbers, it’s important that you do not transpose them. Note that depending on the map zoom, you may see two, three, or even four numbers per horizontal or vertical grid. This reflects the precision of the coordinate. For example, a six-digit grid (3+3) defines a square that is 100 meters on a side. A four-digit grid (2+2) defines a square that is one kilometer on a side. An eight-digit grid is 10 meters on a side, while a ten digit grid is 1 meter on a side.%1&lt;img size='9' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\map_ca.paa' /&gt; %1&lt;t %10&gt;(Read right, and then up)&lt;/t&gt; %1%1%2%3Points of elevation.%4 The numbers scattered around the map indicate points of elevation. These occur either at the top of a protrusion (such as a hill) or the bottom of a depression (such as a valley). When communicating map locations over voice chat, numbered hills can be referred to as “Hill 123”.%1%2%3How to read the compass.%4 The compass is graduated three ways. The first and simplest is via the cardinal North, South, East, and West directions. After that it is graduated in degrees - 0 to 359. This is the inner, larger set of numbers, and should be used when calling out specific target bearings. The final outer set of measurements are known as “Mils”, and generally do not have a use aside from communicating with artillery units.%1&lt;img size='9' shadow='0' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\compass_ca.paa' /&gt;</Original>
         <Chinese>地圖與指北針是最基礎的兩樣裝備，你必須學會如何使用它們。%1%1%2%3閱讀地圖。%4第一個最重要的事情，就是座標必須先念橫向座標，再念直向座標。由於地圖完全被網格座標給區分開來，所以不念錯座標就是你應當做到的基本功夫，否則將會跟友軍有溝通上的困難。請注意，由於地圖會縮放，所以你有可能會在橫向與直向座標看到二到四位數字，端看你當前的的放大率是多少而決定。而數字的多寡也反映了座標的精度。舉個例子，一個每邊是100公尺所構成的正方形，它是由六位座標數字(3+3)來標記。四位座標數字(2+2)所標記的方格，則是每邊有1公里長的正方形。而八位座標數字(4+4)所標記方格的邊長是10公尺，十位座標數字(5+5)則是1公尺。%1&lt;imgsize='9'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\map_ca.paa'/&gt;%1&lt;t%10&gt;(先念橫向，再念直向)&lt;/t&gt;%1%1%2%3座標的海拔高度。%4散落在地圖各處的數字，其標記的是各點的海拔高度。這些數字大多會寫在明顯的高地(像是山丘)或者低窪處(像是山谷)。當你使用語音通訊的時候，你可以直接使用高地的標高來當作其代號，像是"123高地"。%1%2%3如何閱讀指北針。%4閱讀指北針有三種方式。第一種同時也是最簡單的方式，就是直接看出北方(箭頭)，東方，西方，南方的位置。再來第二種方式，則是讀出內圈比較大的那組數字，數字範圍從0-359度，這適合在指定特定目標時使用。而最後一種方法，則是閱讀外圈那組小數字，這數字常被大家稱作"密位"，在通常的狀況之下，除了與砲兵通聯外，是不需要用到這組數字的。%1&lt;imgsize='9'shadow='0'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\compass_ca.paa'/&gt;</Chinese>
-        <Chinesesimp>地图与指南针是最基础的两样装备，你必须学会如何使用它们。%1%1%2%3阅读地图。%4第一个最重要的事情，就是座标必须先念横向座标，再念纵向座标。由于地图完全被网格座标给区分开来，所以不念错座标就是你应当做到的基本功，否则将会跟友军有沟通上的困难。请注意，由于地图会缩放，所以你有可能会在横向与纵向座标看到二到四位数字，看你当前的的放大率是多少而决定。而数字的多寡也反映了座标的精度。举个例子，一个每边是100米所构成的正方形，它是由六位座标数字(3+3)来标记。四位座标数字(2+2)所标记的方格，则是每边有1千米长的正方形。而八位座标数字(4+4)所标记方格的边长是10米，十位座标数字(5+5)则是1米。%1&lt;imgsize='9'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\map_ca.paa'/&gt;%1&lt;t%10&gt;(先念横向，再念直向)&lt;/t&gt;%1%1%2%3座标的海拔高度。%4散落在地图各处的数字，其标记的是各点的海拔高度。这些数字大多会写在明显的高地(像是山丘)或者低洼处(像是山谷)。当你使用语音通信的时候，你可以直接使用高地的标高来当作其代号，像是"123高地"。%1%2%3如何阅读指南针。%4阅读指南针有三种方式。第一种同时也是最简单的方式，就是直接看出北方（箭头），东方，西方，南方的位置。再来第二种方式，则是读出内圈比较大的那组数字，数字范围从0-359度，这适合在指定特定目标时使用。而最后一种方法，则是阅读外圈那组小数字，这数字常被大家称作"密位"，在通常的状况之下，除了与炮兵通联外，是不需要用到这组数字的。%1&lt;imgsize='9'shadow='0'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\compass_ca.paa'/&gt;</Chinesesimp>
+        <Chinesesimp>地图与指南针是最基础的两样装备，你必须学会如何使用它们。%1%1%2%3阅读地图。%4第一个最重要的事情，就是座标必须先念横向座标，再念纵向座标。由于地图完全被网格座标给区分开来，所以不念错座标就是你应当做到的基本功，否则将会跟友军有沟通上的困难。请注意，由于地图会缩放，所以你有可能会在横向与纵向座标看到二到四位数字，看你当前的的放大率是多少而决定。而数字的多寡也反映了座标的精度。举个例子，一个每边是100米所构成的正方形，它是由六位座标数字（3+3）来标记。四位座标数字（2+2）所标记的方格，则是每边有1千米长的正方形。而八位座标数字（4+4）所标记方格的边长是10米，十位座标数字（5+5）则是1米。%1&lt;imgsize='9'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\map_ca.paa'/&gt;%1&lt;t%10&gt;（先念横向，再念直向）&lt;/t&gt;%1%1%2%3座标的海拔高度。%4散落在地图各处的数字，其标记的是各点的海拔高度。这些数字大多会写在明显的高地（像是山丘）或者低洼处（像是山谷）。当你使用语音通信的时候，你可以直接使用高地的标高来当作其代号，像是"123高地"。%1%2%3如何阅读指南针。%4阅读指南针有三种方式。第一种同时也是最简单的方式，就是直接看出北方（箭头），东方，西方，南方的位置。再来第二种方式，则是读出内圈比较大的那组数字，数字范围从0-359度，这适合在指定特定目标时使用。而最后一种方法，则是阅读外圈那组小数字，这数字常被大家称作"密位"，在通常的状况之下，除了与炮兵通联外，是不需要用到这组数字的。%1&lt;imgsize='9'shadow='0'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\compass_ca.paa'/&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_orientation0">
         <Original>B01 Map and Compass</Original>
@@ -709,7 +709,7 @@
       <Key ID="str_a3_guide_looking1">
         <Original>Once contact has been made and fire is being exchanged, start paying attention to these aspects:%1%1%2%3Muzzle flashes and muzzle smoke.%4 You may not always see the outline of an enemy, but a big puff of smoke and dust in the day or flash of flame at night (and other low light situations) - which keeps popping up from the same location - can act as a great enemy indicator.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\muzzle_ca.paa' /&gt;%1%2%3Tracers.%4 Tracers are brilliant neon signs that say “I’m firing from over here!” These are the most visible signs of the enemy, and the easiest to follow back to the shooter’s origin. Note that not all weapons will fire tracers, and some weapons will even use special “dim tracers” that can only be seen with nightvision devices.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\tracers_ca.paa' /&gt;%1%2%3Smoke.%4 If the enemy fires a heavy weapon such as a rocket-propelled grenade (RPG), you’ll be able to pick out their position by the large volume of smoke produced by the weapon’s backblast. You may also see the enemy using smokescreens to mask their movement. However, keep in mind that the enemy will sometimes employ smoke as a diversion.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\smoke_ca.paa' /&gt;%1%2%3Dead enemies.%4 This is particularly useful if contact was made with the enemy by another element, Close Air Support, or artillery. Dead enemy soldiers can give you an idea of where the enemy was, what they were (e.g. special forces, normal troops, etc.) and even where they may still be.</Original>
         <Chinese>一旦雙方已經開始交戰，請隨時注意以下幾件事情:%1%1%2%3槍口焰與槍口煙。%4你可能不是每次都能看清楚敵人在哪裡，但是在早晨的槍口煙或是晚上的槍口焰(或者其他比較暗的情況)-這些都將顯示出敵人大概的位置，可以讓你來回擊敵人。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\muzzle_ca.paa'/&gt;%1%2%3曳光彈。%4曳光彈是個最清楚不過的記號，就好似敵人正向你說"我在這裡開火!"一樣，通過曳光彈，我們能很容易追蹤到射手的位置。請注意，並不是所有的武器都能發射曳光彈，而有些武器甚至是使用"幽黯型曳光彈"，這種曳光彈只能使用夜視鏡來進行觀察。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\tracers_ca.paa'/&gt;%1%2%3煙霧。%4假如敵人發射像是火箭推進榴彈(RPG)這種的重型武器，你將可輕易的觀察到發射時所產生的大量煙霧。你也可能會看到敵人使用煙霧彈來隱蔽他們的行蹤。然而請注意一點，敵人同樣也可能使用煙霧來達到聲東擊西的效果。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\smoke_ca.paa'/&gt;%1%2%3死掉的敵人。%4這些屍體可能是因為其他因素而產生，像是友軍的密接空中支援或是火炮打擊。死掉的敵人能讓你知道敵人之前的位置在哪，所屬單位(像是特種部隊，普通部隊等等。)，甚至敵人還在那個位置也說不定。</Chinese>
-        <Chinesesimp>一旦双方已经开始交战，请随时注意以下几件事情：%1%1%2%3枪口火焰与枪口烟。%4你可能不是每次都能看清楚敌人在哪里，但是在早晨的枪口烟或是晚上的枪口火焰(或者其他比较暗的情况)-这些都将显示出敌人大概的位置，可以让你有效回击敌人。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\muzzle_ca.paa'/&gt;%1%2%3曳光弹。%4曳光弹是个最清楚不过的记号，就好似敌人正向你说"我在这里开火！"一样，通过曳光弹，我们能很容易追踪到射手的位置。请注意，并不是所有的武器都能发射曳光弹，而有些武器甚至是使用"幽黯型曳光弹"，这种曳光弹只能使用夜视仪来进行观察。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\tracers_ca.paa'/&gt;%1%2%3烟雾。%4假如敌人发射像是火箭推进榴弹(RPG)这种的重型武器，你将可轻易的观察到发射时所产生的大量烟雾。你也可能会看到敌人使用烟雾弹来隐蔽他们的行踪。然而请注意一点，敌人同样也可能使用烟雾来达到声东击西的效果。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\smoke_ca.paa'/&gt;%1%2%3死掉的敌人。%4这些尸体可能是因为其他因素而产生，像是友军的密接空中支援或是火炮打击。死掉的敌人能让你知道敌人之前的位置在哪，所属单位（像是特种部队，普通部队等等。），甚至敌人还在那个位置也说不定。</Chinesesimp>
+        <Chinesesimp>一旦双方已经开始交战，请随时注意以下几件事情：%1%1%2%3枪口火焰与枪口烟。%4你可能不是每次都能看清楚敌人在哪里，但是在早晨的枪口烟或是晚上的枪口火焰（或者其他比较暗的情况）-这些都将显示出敌人大概的位置，可以让你有效回击敌人。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\muzzle_ca.paa'/&gt;%1%2%3曳光弹。%4曳光弹是个最清楚不过的记号，就好似敌人正向你说"我在这里开火！"一样，通过曳光弹，我们能很容易追踪到射手的位置。请注意，并不是所有的武器都能发射曳光弹，而有些武器甚至是使用"幽黯型曳光弹"，这种曳光弹只能使用夜视仪来进行观察。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\tracers_ca.paa'/&gt;%1%2%3烟雾。%4假如敌人发射像是火箭推进榴弹（RPG）这种的重型武器，你将可轻易的观察到发射时所产生的大量烟雾。你也可能会看到敌人使用烟雾弹来隐蔽他们的行踪。然而请注意一点，敌人同样也可能使用烟雾来达到声东击西的效果。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\smoke_ca.paa'/&gt;%1%2%3死掉的敌人。%4这些尸体可能是因为其他因素而产生，像是友军的密接空中支援或是火炮打击。死掉的敌人能让你知道敌人之前的位置在哪，所属单位（像是特种部队，普通部队等等。），甚至敌人还在那个位置也说不定。</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_looking0">
         <Original>A02 What to look for</Original>
@@ -794,7 +794,7 @@
       <Key ID="str_a3_guide_awareness1">
         <Original>One of the most fundamental combat survival skills is that of situational awareness. This simply means that you are alert to your surrounding environment and can leverage your knowledge of the battlefield’s state to make tactical decisions and judgment calls. Basic Situational Awareness Guidelines:%1%1%2%3Scan for the enemy.%4 Whether you’re moving or halted, you should always be scanning for the enemy. Murphy’s Laws of Combat tell you that the moment you let your guard down and stop scanning is the moment the enemy will appear.%1%2%3Cover assigned areas.%4 Additionally, you should cover whatever area seems to need coverage. Adapt to the situation as needed, and be able to pick out areas that may be more dangerous, and warrant more observation, than others.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\cover1_ca.paa' /&gt; &lt;t %10&gt;(Covering sectors in the urban environment)&lt;/t&gt; %1%1%2%3Stay alert!%4 There is no “safe” time in a combat zone. If you let your guard down, either you will die from it, or, worse, you will get a teammate killed because of it.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\cover2_ca.paa' /&gt; &lt;t %10&gt;(Covering sectors in more open terrain)&lt;/t&gt; %1%1%2%3Be aware of “tunnel vision”.%4 Don't get fixated on a specific target, object, or area. Remember that for every enemy you see, there are probably others that you do not. Fixating on a single enemy at the expense of everything else is likely to get you flanked and killed.%1%2%3Check the map frequently.%4 Maintain awareness of friendly positions, suspected enemy locations, and more. The map can be used to mark enemy contacts as well as friendly positions.</Original>
         <Chinese>情境察覺是生存技巧中不可或缺的一項最重要的技能。這不只是指單純的對週遭環境的警戒，同時也指能將所學的知識正確地在戰場中發揮出來，來得到戰術優勢。以下是基礎情境察覺的準則:%1%1%2%3搜索敵人。%4不管你是在移動或停止，你都應當時時注意敵人的行蹤。戰鬥的墨菲定律告訴了我們，每當你放鬆警惕的時刻，往往就是敵人會出現的時機。%1%2%3掩護被指派的區域。%4你必須盡你所能的掩護被指派的區域。同時也要對那些看起來比較危險的地方多留意上幾分，確保防守的範圍面面俱到。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\cover1_ca.paa'/&gt;&lt;t%10&gt;(在城市的環境中進行掩護)&lt;/t&gt;%1%1%2%3保持警戒!%4在戰區是沒有一處可以稱得上"安全"的地方。假如你放鬆了，你可能將付出死的代價，更慘的是隊友可能因你的疏忽而蒙受損失。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\cover2_ca.paa'/&gt;&lt;t%10&gt;(在更開闊的環境中進行掩護)&lt;/t&gt;%1%1%2%3小心"隧道視野"。%4不要太專注於特殊的目標或區域。請記住，每當你看到一個敵人，你就必須假設其他你沒看到的地方還有別的敵人。太專注於一個目標將可能被兩側包夾，而慘遭滅團的結果。%1%2%3時常檢視地圖。%4時常確認友軍與敵人的位置。如果可以，最好在地圖上標記出敵人與友軍的現在位置。</Chinese>
-        <Chinesesimp>情境察觉是生存技巧中不可或缺的一项最重要的技能。这不只是指单纯的对周遭环境的警戒，同时也指能将所学的知识正确地在战场中发挥出来，来得到战术优势。以下是基础情境察觉的准则：%1%1%2%3搜索敌人。%4不管你是在移动或停止，你都应当时时注意敌人的行踪。战斗的墨菲定律告诉我们，每当你放松警惕的时刻，往往就是敌人会出现的时机。%1%2%3掩护被指派的区域。%4你必须尽你所能的掩护被指派的区域。同时也要对那些看起来比较危险的地方多留意上几分，确保防守的范围面面俱到。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\cover1_ca.paa'/&gt;&lt;t%10&gt;(在城市的环境中进行掩护)&lt;/t&gt;%1%1%2%3保持警戒！%4在战区是没有一处可以称得上"安全"的地方。假如你放松了，你可能将付出阵亡的代价，更恐怖的是队友可能因你的疏忽而蒙受损失。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\cover2_ca.paa'/&gt;&lt;t%10&gt;（在更开阔的环境中进行掩护）&lt;/t&gt;%1%1%2%3小心"隧道视野"。%4不要太专注于特殊的目标或区域。请记住，每当你看到一个敌人，你就必须假设其他你没看到的地方还有别的敌人。太专注于一个目标将可能被两侧包夹，而惨遭覆灭的结果。%1%2%3时常检视地图。%4时常确认友军与敌人的位置。如果可以，最好在地图上标记出敌人与友军的现在位置。</Chinesesimp>
+        <Chinesesimp>情境察觉是生存技巧中不可或缺的一项最重要的技能。这不只是指单纯的对周遭环境的警戒，同时也指能将所学的知识正确地在战场中发挥出来，来得到战术优势。以下是基础情境察觉的准则：%1%1%2%3搜索敌人。%4不管你是在移动或停止，你都应当时时注意敌人的行踪。战斗的墨菲定律告诉我们，每当你放松警惕的时刻，往往就是敌人会出现的时机。%1%2%3掩护被指派的区域。%4你必须尽你所能的掩护被指派的区域。同时也要对那些看起来比较危险的地方多留意上几分，确保防守的范围面面俱到。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\cover1_ca.paa'/&gt;&lt;t%10&gt;（在城市的环境中进行掩护）&lt;/t&gt;%1%1%2%3保持警戒！%4在战区是没有一处可以称得上"安全"的地方。假如你放松了，你可能将付出阵亡的代价，更恐怖的是队友可能因你的疏忽而蒙受损失。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\cover2_ca.paa'/&gt;&lt;t%10&gt;（在更开阔的环境中进行掩护）&lt;/t&gt;%1%1%2%3小心"隧道视野"。%4不要太专注于特殊的目标或区域。请记住，每当你看到一个敌人，你就必须假设其他你没看到的地方还有别的敌人。太专注于一个目标将可能被两侧包夹，而惨遭覆灭的结果。%1%2%3时常检视地图。%4时常确认友军与敌人的位置。如果可以，最好在地图上标记出敌人与友军的现在位置。</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_awareness0">
         <Original>A01 Situational Awareness</Original>
@@ -814,7 +814,7 @@
       <Key ID="str_a3_guide_ambush1">
         <Original>Ambushes are an extremely favorable way to engage the enemy. The combination of surprise and fierce, accurate fire can rip an enemy element to pieces before they have time to react.%1%1%3Key Elements of an Ambush%4%1%2%3Friendly Positioning.%4 The best ambushes have the friendly forces located in good cover and concealment, firing from an elevated position. This makes it the most difficult for the ambushed enemy to be able to effectively retaliate.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\ambush1_ca.paa' /&gt; &lt;t %10&gt;(Linear ambush)&lt;/t&gt; %1%1%2%3Location of the Kill Zone.%4 The kill zone is the area in which fire is focused at the initiation of the ambush. An ideal kill zone has very little cover or concealment, and no significant terrain features that might cause “dead zones” to exist. A kill zone should be well-covered by friendly lines of fire, and any potential exits from it should be able to be fired at/into without friendly forces shifting positions.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\ambush2_ca.paa' /&gt; &lt;t %10&gt;(L-shaped ambush)&lt;/t&gt; %1%1%2%3Proper Initiation of Fires.%4 The signal to start the ambush is usually given by the element leader. Once the order is given, all friendlies should begin firing a heavy and accurate volume of fire into the kill zone. Continue firing until all enemies are confirmed dead or the element leader gives a command to shift or cease fire. If a friendly accidentally fires before the element leader, the ambush is initiated whether it should have been or not.%1%2%3Using explosives.%4 You must also consider the use of explosives devices like satchel charges and claymore mines. These are usually not practical for a hasty ambush, but a vehicle ambush or deliberate ambush can benefit greatly from their usage.</Original>
         <Chinese>伏擊是種對敵人極為有效的一種打擊方式。一個良好的伏擊，必須具備驚嚇，猛烈，準確等等要素來在敵人來得及反應之前摧毀他們。%1%1%3伏擊的關鍵要素%4%1%2%3友軍位置。%4通常位置最建議挑選掩護與隱蔽性都良好的地點，最好還是高處，這可使被伏擊的敵人難以回擊你們的攻擊。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\ambush1_ca.paa'/&gt;&lt;t%10&gt;(直線伏擊)&lt;/t&gt;%1%1%2%3尋找殺戮地帶。%4殺戮地帶指的是埋伏區中最被容易集火的位置。最好選擇那些沒有掩護與隱蔽的平淡地形來當作"死亡禁區"。殺戮地帶最好能全面的被所有埋伏部隊瞄準且射擊，且區域的入口與出口也都可以照顧到。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\ambush2_ca.paa'/&gt;&lt;t%10&gt;(L形埋伏)&lt;/t&gt;%1%1%2%3於正確的時機開火。%4攻擊的時機通常交由小隊長來下達。一旦命令下達，所有單位必須傾盡所有火力射向殺戮地帶。持續開火直到敵人都確認陣亡，或是小隊長下令停火為止。假如在下令開火前有人不小心走火了，那就不管命令直接開火，不必等待命令了。%1%2%3使用炸藥。%4你也可以考慮使用炸藥包或地雷等等炸藥。這通常不適合臨時的伏擊行動，但如果是有事先良好的規劃，這將可對敵人的車隊造成最大限度的傷亡。</Chinese>
-        <Chinesesimp>伏击是种对敌人极为有效的一种打击方式。一个良好的伏击，必须具备惊吓，猛烈，准确等等要素来在敌人来得及反应之前摧毁他们。%1%1%3伏击的关键要素%4%1%2%3友军位置。%4通常位置最建议挑选掩护与隐蔽性都良好的地点，最好还是高处，这可使被伏击的敌人难以回击你们的攻击。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\ambush1_ca.paa'/&gt;&lt;t%10&gt;(直线伏击)&lt;/t&gt;%1%1%2%3寻找杀戮地带。%4杀戮地带指的是埋伏区中最被容易集火的位置。最好选择那些没有掩护与隐蔽的平淡地形来当作"死亡禁区"。杀戮地带最好能全面的被所有埋伏部队瞄准且射击，且区域的入口与出口也都可以照顾到。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\ambush2_ca.paa'/&gt;&lt;t%10&gt;（L形埋伏）&lt;/t&gt;%1%1%2%3于正确的时机开火。%4攻击的时机通常交由小队长来下达。一旦命令下达，所有单位必须倾尽所有火力射向杀戮地带。持续开火直到敌人都确认阵亡，或是小队长下令停火为止。假如在下令开火前有人不小心走火了，那就不管命令直接开火，不必等待命令了。%1%2%3使用炸药。%4你也可以考虑使用炸药包或地雷等等炸药。这通常不适合临时的伏击行动，但如果是有事先良好的规划，这将对敌人的车队造成巨大的伤亡。</Chinesesimp>
+        <Chinesesimp>伏击是种对敌人极为有效的一种打击方式。一个良好的伏击，必须具备惊吓，猛烈，准确等等要素来在敌人来得及反应之前摧毁他们。%1%1%3伏击的关键要素%4%1%2%3友军位置。%4通常位置最建议挑选掩护与隐蔽性都良好的地点，最好还是高处，这可使被伏击的敌人难以回击你们的攻击。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\ambush1_ca.paa'/&gt;&lt;t%10&gt;（直线伏击）&lt;/t&gt;%1%1%2%3寻找杀戮地带。%4杀戮地带指的是埋伏区中最被容易集火的位置。最好选择那些没有掩护与隐蔽的平淡地形来当作"死亡禁区"。杀戮地带最好能全面的被所有埋伏部队瞄准且射击，且区域的入口与出口也都可以照顾到。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\ambush2_ca.paa'/&gt;&lt;t%10&gt;（L形埋伏）&lt;/t&gt;%1%1%2%3于正确的时机开火。%4攻击的时机通常交由小队长来下达。一旦命令下达，所有单位必须倾尽所有火力射向杀戮地带。持续开火直到敌人都确认阵亡，或是小队长下令停火为止。假如在下令开火前有人不小心走火了，那就不管命令直接开火，不必等待命令了。%1%2%3使用炸药。%4你也可以考虑使用炸药包或地雷等等炸药。这通常不适合临时的伏击行动，但如果是有事先良好的规划，这将对敌人的车队造成巨大的伤亡。</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_ambush0">
         <Original>B06 Conducting an Ambush</Original>
@@ -872,7 +872,7 @@
       <Key ID="str_a3_rscdisplaywelcome_epb_pare_list4_title">
         <Original>LRPS Scope</Original>
         <Chinese>長距離精確瞄準鏡</Chinese>
-        <Chinesesimp>长距离精确瞄准镜</Chinesesimp>
+        <Chinesesimp>LRPS 瞄准镜</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epb_pare_list4">
         <Original>new long-range sniper scope</Original>
@@ -882,7 +882,7 @@
       <Key ID="str_a3_rscdisplaywelcome_epb_pare_list3_title">
         <Original>WY-55 Hellcat</Original>
         <Chinese>WY-55"潑婦"武裝直升機</Chinese>
-        <Chinesesimp>WY-55"泼妇"武装直升机</Chinesesimp>
+        <Chinesesimp>WY-55 "地狱猫"</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epb_pare_list3">
         <Original>maneuverable air transport and fire support for the AAF</Original>
@@ -891,8 +891,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epb_pare_list2_title">
         <Original>FV-720 Mora</Original>
-        <Chinese>FV-720"摩拉"步兵戰車</Chinese>
-        <Chinesesimp>FV-720"摩拉"步兵战车</Chinesesimp>
+        <Chinese>FV-720 "摩拉"步兵戰車</Chinese>
+        <Chinesesimp>FV-720 "摩拉"</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epb_pare_list2">
         <Original>the AAF's versatile Infantry Fighting Vehicle</Original>
@@ -902,7 +902,7 @@
       <Key ID="str_a3_rscdisplaywelcome_epb_pare_list1_title">
         <Original>MBT-52 Kuma</Original>
         <Chinese>MBT-52"庫瑪"主戰坦克</Chinese>
-        <Chinesesimp>MBT-52"库玛"主战坦克</Chinesesimp>
+        <Chinesesimp>MBT-52 "库玛"</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epb_pare_list1">
         <Original>fully new Main Battle Tank for the AAF</Original>

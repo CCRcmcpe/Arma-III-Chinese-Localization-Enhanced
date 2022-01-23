@@ -397,7 +397,7 @@
       <Key ID="str_a3_cfghints_commandbar0">
         <Original>The command bar displays information about subordinate units. Each unit under your command shows: %1%2ID: 1, 2, 3 ...%1%2Rank (&lt;img size='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\private_gs.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\sergeant_gs.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\corporal_gs.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\major_gs.paa' /&gt;...) %1%2Specialization (&lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\aa_ca.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\gl_ca.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\scuba_ca.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa' /&gt;)%1%2Vehicle occupation%1%2Vehicle role (&lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageDriver_ca.paa' /&gt; &lt;img size='1'  image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCargo_ca.paa' /&gt; &lt;img size='1'  image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCommander_ca.paa' /&gt; &lt;img size='1'  image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageGunner_ca.paa' /&gt;)%1%2Health Condition: Wounded &lt;img size='1' %12 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa' /&gt;, No Ammo &lt;img size='1' %13 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa' /&gt;%1%2Combat mode: Hold Fire &lt;img size='1' %11 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa' /&gt;%1%2Behavior: Stealth &lt;img size='1' %14 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa' /&gt;, Combat &lt;img size='1' %15 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa' /&gt;%1%2Current orders: 'Move'</Original>
         <Chinese>命令欄會顯示出下屬單位的基本狀態。每個受你掌控的單位都會顯示在上面:%1%2ID:1，2，3...%1%2軍階(&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\private_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\sergeant_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\corporal_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\major_gs.paa'/&gt;...)%1%2單位的專精項目(&lt;imgsize='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\aa_ca.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\gl_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\scuba_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt;)%1%2載具的類型%1%2載具的功能(&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageDriver_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCargo_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCommander_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageGunner_ca.paa'/&gt;)%1%2健康狀況:受傷&lt;imgsize='1'%12image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;，彈藥用盡&lt;imgsize='1'%13image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;%1%2作戰模式:停止射擊&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa'/&gt;%1%2行為:潛行&lt;imgsize='1'%14image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;，戰鬥&lt;imgsize='1'%15image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;%1%2當前命令:'移動'</Chinese>
-        <Chinesesimp>命令栏会显示出下属单位的基本状态。每个受你掌控的单位都会显示在上面：%1%2ID：1，2，3...%1%2军阶(&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\private_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\sergeant_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\corporal_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\major_gs.paa'/&gt;...)%1%2单位的专业项目(&lt;imgsize='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\aa_ca.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\gl_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\scuba_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt;)%1%2载具的类型%1%2载具的功能（&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageDriver_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCargo_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCommander_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageGunner_ca.paa'/&gt;）%1%2健康状况：受伤&lt;imgsize='1'%12image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;，弹药用尽&lt;imgsize='1'%13image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;%1%2作战模式：停止射击&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa'/&gt;%1%2行为：潜行&lt;imgsize='1'%14image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;，战斗&lt;imgsize='1'%15image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;%1%2当前命令：'移动'</Chinesesimp>
+        <Chinesesimp>命令栏会显示出下属单位的基本状态。每个受你掌控的单位都会显示在上面：%1%2ID：1，2，3...%1%2军阶（&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\private_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\sergeant_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\corporal_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\major_gs.paa'/&gt;...）%1%2单位的专业项目（&lt;imgsize='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\aa_ca.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\gl_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\scuba_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt;）%1%2载具的类型%1%2载具的功能（&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageDriver_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCargo_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCommander_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageGunner_ca.paa'/&gt;）%1%2健康状况：受伤&lt;imgsize='1'%12image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;，弹药用尽&lt;imgsize='1'%13image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;%1%2作战模式：停止射击&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa'/&gt;%1%2行为：潜行&lt;imgsize='1'%14image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;，战斗&lt;imgsize='1'%15image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;%1%2当前命令：'移动'</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_commandbar1">
         <Original>Command Bar</Original>
@@ -442,7 +442,7 @@
       <Key ID="str_a3_cfghints_orbat0">
         <Original>Units are marked according to their side.%1&lt;img size='1' %6 image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_unknown_ca.paa' /&gt; – BLUFOR (NATO, FIA)%1&lt;img size='1' %7 image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\o_unknown_ca.paa' /&gt; – OPFOR (CSAT)%1&lt;img size='1' %8 image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa' /&gt; – Independent (AAF)%1&lt;img size='1' %9 image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa' /&gt; – Neutral (Civilians)</Original>
         <Chinese>部隊會被標記出他們所屬的陣營。%1&lt;imgsize='1'%6image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_unknown_ca.paa'/&gt;–藍方(北約，自由獨立同盟)%1&lt;imgsize='1'%7image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\o_unknown_ca.paa'/&gt;–紅方(CSAT)%1&lt;imgsize='1'%8image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–中立方(阿爾蒂斯武裝力量)%1&lt;imgsize='1'%9image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–平民</Chinese>
-        <Chinesesimp>部队会被标记出他们所属的阵营。%1&lt;imgsize='1'%6image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_unknown_ca.paa'/&gt;–蓝方(北约，FIA)%1&lt;imgsize='1'%7image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\o_unknown_ca.paa'/&gt;–红方(广协)%1&lt;imgsize='1'%8image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–中立方（AAF）%1&lt;imgsize='1'%9image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–平民</Chinesesimp>
+        <Chinesesimp>部队会被标记出他们所属的阵营。%1&lt;imgsize='1'%6image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_unknown_ca.paa'/&gt;–蓝方（北约，FIA）%1&lt;imgsize='1'%7image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\o_unknown_ca.paa'/&gt;–红方（广协）%1&lt;imgsize='1'%8image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–中立方（AAF）%1&lt;imgsize='1'%9image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\n_unknown_ca.paa'/&gt;–平民</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_orbat1">
         <Original>Side Markers</Original>
@@ -517,7 +517,7 @@
       <Key ID="str_a3_cfghints_unittype0">
         <Original>In High Command, various unit types are indicated by an icon. The most common symbols are:%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_inf_ca.paa' /&gt; – Infantry%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_armor_ca.paa' /&gt; – Armor%1&lt;img size='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_motor_inf_ca.paa' /&gt; – Motorized Infantry%1&lt;img size='1' image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_mech_inf_ca.paa' /&gt; – Mechanized Infantry%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_UAV_ca.paa' /&gt; – UAV%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_artillery_ca.paa' /&gt; – Artillery%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_recon_ca.paa' /&gt; – Recon%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_air_ca.paa' /&gt; – Airplanes%1&lt;img size='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_plane_ca.paa' /&gt; – Helicopters%1Marks are further labeled by size:%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_0_ca.paa' /&gt; – Fireteam (2-4)%1&lt;img size=1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_1_ca.paa' /&gt; – Section (&gt; 4)%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_2_ca.paa' /&gt; – Squad (&gt; 12)%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_3_ca.paa' /&gt; – Platoon (&gt; 25)%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_4_ca.paa' /&gt; – Company (&gt; 60)</Original>
         <Chinese>在最高指揮模式下，不同部隊類型將由不同的圖標來表示。最常見的符號是:%1&lt;imgsize='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_inf_ca.paa'/&gt;–步兵%1&lt;imgsize='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_armor_ca.paa'/&gt;–裝甲%1&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_motor_inf_ca.paa'/&gt;–摩托化步兵%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_mech_inf_ca.paa'/&gt;–機械化步兵%1&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_UAV_ca.paa'/&gt;–無人載具%1&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_artillery_ca.paa'/&gt;–火砲%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_recon_ca.paa'/&gt;–偵察%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_air_ca.paa'/&gt;–飛機%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_plane_ca.paa'/&gt;–直升機%1而組別的大小則由以下標記來代表:%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_0_ca.paa'/&gt;–火力伍(2-4人)%1&lt;imgsize=1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_1_ca.paa'/&gt;–小隊(&gt;4人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_2_ca.paa'/&gt;–班(&gt;12人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_3_ca.paa'/&gt;–排(&gt;25人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_4_ca.paa'/&gt;–連(&gt;60人)</Chinese>
-        <Chinesesimp>在最高指挥模式下，不同部队类型将由不同的图标来表示。最常见的符号是：%1&lt;imgsize='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_inf_ca.paa'/&gt;–步兵%1&lt;imgsize='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_armor_ca.paa'/&gt;–装甲%1&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_motor_inf_ca.paa'/&gt;–摩托化步兵%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_mech_inf_ca.paa'/&gt;–机械化步兵%1&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_UAV_ca.paa'/&gt;–无人机%1&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_artillery_ca.paa'/&gt;–火炮%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_recon_ca.paa'/&gt;–侦察%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_air_ca.paa'/&gt;–飞机%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_plane_ca.paa'/&gt;–直升机%1而组别的大小则由以下标记来代表：%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_0_ca.paa'/&gt;–火力伍(2-4人)%1&lt;imgsize=1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_1_ca.paa'/&gt;–小队(&gt;4人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_2_ca.paa'/&gt;–班(&gt;12人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_3_ca.paa'/&gt;–排(&gt;25人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_4_ca.paa'/&gt;–连（&gt;60人）</Chinesesimp>
+        <Chinesesimp>在最高指挥模式下，不同部队类型将由不同的图标来表示。最常见的符号是：%1&lt;imgsize='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_inf_ca.paa'/&gt;–步兵%1&lt;imgsize='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_armor_ca.paa'/&gt;–装甲%1&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_motor_inf_ca.paa'/&gt;–摩托化步兵%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_mech_inf_ca.paa'/&gt;–机械化步兵%1&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_UAV_ca.paa'/&gt;–无人机%1&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_artillery_ca.paa'/&gt;–火炮%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_recon_ca.paa'/&gt;–侦察%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_air_ca.paa'/&gt;–飞机%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_plane_ca.paa'/&gt;–直升机%1而组别的大小则由以下标记来代表：%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_0_ca.paa'/&gt;–火力伍（2-4人）%1&lt;imgsize=1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_1_ca.paa'/&gt;–小队（&gt;4人）%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_2_ca.paa'/&gt;–班（&gt;12人）%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_3_ca.paa'/&gt;–排（&gt;25人）%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_4_ca.paa'/&gt;–连（&gt;60人）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_unittype1">
         <Original>Group Type Markers</Original>
@@ -1277,7 +1277,7 @@
       <Key ID="str_a3_rangefinder0">
         <Original>Use the rangefinder, hand-held or scope-integrated, to determine the distance to your target to engage it with better accuracy.%1%2Stadiametric RF - use reticle markings (mil-dots) to estimate the distance from the target.%1%2Digital (Laser) RF - Press %13 to measure the distance. %1Use %11 and %12 to adjust the weapon's zeroing accordingly.</Original>
         <Chinese>使用手持式或是瞄準鏡內建的測距儀來測量敵我間的距離，可以有效增加你的射擊精準度。%1%2瞄準鏡基線測距-使用瞄準鏡附的標線(密位點)來測量出敵人大致上的距離。%1%2數位式(雷射)測距儀-按下%13來量測距離。%1使用%11和%12來調整你武器的歸零距離到目標的距離上。</Chinese>
-        <Chinesesimp>使用手持式或是瞄准镜内建的测距仪来测量敌我间的距离，可以有效增加你的射击精准度。%1%2瞄准镜基线测距—使用瞄准镜附的标线(密位点)来测量出敌人大致上的距离。%1%2数位式（激光）测距仪—按下%13来量测距离。%1使用%11和%12来调整你武器的归零距离到目标的距离上。</Chinesesimp>
+        <Chinesesimp>使用手持式或是瞄准镜内建的测距仪来测量敌我间的距离，可以有效增加你的射击精准度。%1%2瞄准镜基线测距—使用瞄准镜附的标线（密位点）来测量出敌人大致上的距离。%1%2数位式（激光）测距仪—按下%13来量测距离。%1使用%11和%12来调整你武器的归零距离到目标的距离上。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Multiplayer_Text0">
         <Original>Text chat serves as one of the three forms of communicating with other players. It's displayed on the screen amongst the combat protocol.%1%2Open the text input with %11.%1%2Cycle the channels by pressing %3[UP]%4, %3[DOWN]%4.%1%2Send the message with %3[Enter]%4.</Original>
@@ -4230,7 +4230,7 @@
           <Key ID="str_a3_cfgmagazines_14rnd_80mm_rockets0">
             <Original>Skyfire</Original>
             <Chinese>"天火"火箭彈</Chinese>
-            <Chinesesimp>"天火"火箭弹</Chinesesimp>
+            <Chinesesimp>"天火"</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_20mm_g_belt0">
             <Original>20 mm Grenade Mag</Original>
@@ -4289,8 +4289,8 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag_smg_01_tracer_green0">
             <Original>.45 ACP 30Rnd Vermin Tracers (Green) Mag</Original>
-            <Chinese>.45ACP口徑30發"惡徒"曳光彈(綠色)彈匣</Chinese>
-            <Chinesesimp>.45ACP 口径30发"恶徒"曳光弹（绿色）弹匣</Chinesesimp>
+            <Chinese>.45 ACP口徑30發"惡徒"曳光彈(綠色)彈匣</Chinese>
+            <Chinesesimp>.45 ACP 30发 Vermin 曳光弹（绿色）弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_3rnd_smokeblue_grenade_shell0">
             <Original>3Rnd 3GL Smoke Rounds (Blue)</Original>
@@ -4365,7 +4365,7 @@
           <Key ID="str_a3_cfgmagazines_4rnd_gaa_missiles0">
             <Original>Zephyr</Original>
             <Chinese>"西風"長程空對空飛彈</Chinese>
-            <Chinesesimp>"西风"远程空空导弹</Chinesesimp>
+            <Chinesesimp>"西风"</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag_tracer_green0">
             <Original>12.7 mm AA MG Tracer (Green) Mag</Original>
@@ -4389,8 +4389,8 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag_smg_010">
             <Original>.45 ACP 30Rnd Vermin Mag</Original>
-            <Chinese>.45ACP口徑30發"惡徒"彈匣</Chinese>
-            <Chinesesimp>.45ACP 口径30发"恶徒"弹匣</Chinesesimp>
+            <Chinese>.45 ACP口徑30發"惡徒"彈匣</Chinese>
+            <Chinesesimp>.45 ACP 口径30发 Vermin 弹匣</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CfgMagazines_50Rnd_120mm_Mo_shells0">
             <Original>155 mm HE Shells</Original>
@@ -4455,7 +4455,7 @@
           <Key ID="str_a3_cfgmagazines_8rnd_lg_scalpel0">
             <Original>Scalpel E2</Original>
             <Chinese>"手術刀"E2反坦克飛彈</Chinese>
-            <Chinesesimp>"手术刀"E2反坦克导弹</Chinesesimp>
+            <Chinesesimp>"手术刀"E2</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_9x19_mp443_170">
             <Original>9 mm 17Rnd Mag</Original>
@@ -4525,7 +4525,7 @@
           <Key ID="str_a3_cfgmagazines_law0">
             <Original>RPG-42 Rocket</Original>
             <Chinese>RPG-42火箭彈</Chinese>
-            <Chinesesimp>RPG-42火箭弹</Chinesesimp>
+            <Chinesesimp>RPG-42 火箭弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_minigrenade0">
             <Original>RGN Grenade</Original>
@@ -4645,7 +4645,7 @@
           <Key ID="str_a3_cfgmagazines_2rnd_gaa_missiles0">
             <Original>Zephyr</Original>
             <Chinese>"西風"長程空對空飛彈</Chinese>
-            <Chinesesimp>"西风"远程空空导弹</Chinesesimp>
+            <Chinesesimp>"西风"</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_300rnd_20mm_shells0">
             <Original>20 mm HE Shells</Original>
@@ -4739,13 +4739,13 @@
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_30RND_9X21_MAG_SMG_01_TRACER_RED0">
             <Original>.45 ACP 30Rnd Vermin Tracers (Red) Mag</Original>
-            <Chinese>.45ACP口徑30發"惡徒"曳光彈(紅色)彈匣</Chinese>
-            <Chinesesimp>.45ACP 口径30发"恶徒"曳光弹（红色）弹匣</Chinesesimp>
+            <Chinese>.45 ACP口徑30發"惡徒"曳光彈(紅色)彈匣</Chinese>
+            <Chinesesimp>.45 ACP 口径30发 Vermin 曳光弹（红色）弹匣</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_30RND_9X21_MAG_SMG_01_TRACER_YELLOW0">
             <Original>.45 ACP 30Rnd Vermin Tracers (Yellow) Mag</Original>
-            <Chinese>.45ACP口徑30發"惡徒"曳光彈(黃色)彈匣</Chinese>
-            <Chinesesimp>.45ACP 口径30发"恶徒"曳光弹（黄色）弹匣</Chinesesimp>
+            <Chinese>.45 ACP口徑30發"惡徒"曳光彈(黃色)彈匣</Chinese>
+            <Chinesesimp>.45 ACP 口径30发 Vermin 曳光弹（黄色）弹匣</Chinesesimp>
           </Key>
         </Container>
         <Container name="DescriptionShort">
@@ -5006,8 +5006,8 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag_smg_01_tracer_green1">
             <Original>Caliber: .45 ACP Tracers - Green&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Vermin SMG</Original>
-            <Chinese>口徑:.45ACP口徑曳光彈-綠色&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
-            <Chinesesimp>口径：.45ACP 口径曳光弹—绿色&lt;br/&gt;发数：30&lt;br/&gt;使用于：VerminSMG</Chinesesimp>
+            <Chinese>口徑:.45 ACP口徑曳光彈-綠色&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
+            <Chinesesimp>口径：.45 ACP 口径曳光弹—绿色&lt;br/&gt;发数：30&lt;br/&gt;使用于：VerminSMG</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag2">
             <Original>Caliber: 9x21 mm&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Sting, Protector</Original>
@@ -5026,8 +5026,8 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag_smg_011">
             <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Vermin SMG</Original>
-            <Chinese>口徑:.45ACP&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
-            <Chinesesimp>口径：.45ACP&lt;br/&gt;发数：30&lt;br/&gt;使用于：VerminSMG</Chinesesimp>
+            <Chinese>口徑:.45 ACP&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
+            <Chinesesimp>口径：.45 ACP&lt;br/&gt;发数：30&lt;br/&gt;使用于：VerminSMG</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_3rnd_smokeblue_grenade_shell1">
             <Original>Type: Smoke Rounds - Blue&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 3GL</Original>
@@ -5086,8 +5086,8 @@
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_30RND_9X21_MAG_SMG_01_TRACER_RED1">
             <Original>Caliber: .45 ACP Tracers - Red&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Vermin SMG</Original>
-            <Chinese>口徑:.45ACP曳光彈-紅色&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
-            <Chinesesimp>口径：.45ACP 曳光弹—红色&lt;br/&gt;发数：30&lt;br/&gt;使用于：VerminSMG</Chinesesimp>
+            <Chinese>口徑:.45 ACP曳光彈-紅色&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
+            <Chinesesimp>口径：.45 ACP 曳光弹—红色&lt;br/&gt;发数：30&lt;br/&gt;使用于：VerminSMG</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_40rnd_20mm_g_belt1">
             <Original>Caliber: 20 mm&lt;br/&gt;Rounds: 40&lt;br /&gt;Used in: Grenade Launcher</Original>
@@ -5111,8 +5111,8 @@
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_30RND_9X21_MAG_SMG_01_TRACER_YELLOW1">
             <Original>Caliber: .45 ACP Tracers - Yellow&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Vermin SMG</Original>
-            <Chinese>口徑:.45ACP曳光彈-黃色&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
-            <Chinesesimp>口径：.45ACP 曳光弹—黄色&lt;br/&gt;发数：30&lt;br/&gt;使用于：VerminSMG</Chinesesimp>
+            <Chinese>口徑:.45 ACP曳光彈-黃色&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
+            <Chinesesimp>口径：.45 ACP 曳光弹—黄色&lt;br/&gt;发数：30&lt;br/&gt;使用于：VerminSMG</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_5rnd_127x108_mag1">
             <Original>Caliber: 12.7x108 mm Russian&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: GM6 Lynx</Original>
@@ -5197,7 +5197,7 @@
           <Key ID="str_a3_cfgmagazines_law1">
             <Original>Type: RPG-42 rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: RPG-42</Original>
             <Chinese>類型:RPG-42火箭彈&lt;br/&gt;發數:1&lt;br/&gt;使用於:RPG-42</Chinese>
-            <Chinesesimp>类型：RPG-42火箭弹&lt;br/&gt;发数：1&lt;br/&gt;使用于：RPG-42</Chinesesimp>
+            <Chinesesimp>类型：RPG-42 火箭弹&lt;br/&gt;发数：1&lt;br/&gt;使用于：RPG-42</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_minigrenade1">
             <Original>Type: Offensive Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
@@ -5909,7 +5909,7 @@
           <Key ID="str_a3_cfgmagazines_law2">
             <Original>Type: RPG-42 HE rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: RPG-42</Original>
             <Chinese>類型:RPG-42高爆火箭彈&lt;br/&gt;發數:1&lt;br/&gt;使用於:RPG-42</Chinese>
-            <Chinesesimp>类型：RPG-42高爆火箭弹&lt;br/&gt;发数：1&lt;br/&gt;使用于：RPG-42</Chinesesimp>
+            <Chinesesimp>类型：RPG-42 高爆火箭弹&lt;br/&gt;发数：1&lt;br/&gt;使用于：RPG-42</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_law1">
             <Original>Rocket Launcher</Original>
@@ -5971,7 +5971,7 @@
           <Key ID="str_cfgweapons_hgun_rook40_f0">
             <Original>Rook-40 9 mm</Original>
             <Chinese>"白嘴鴉-40 9公厘</Chinese>
-            <Chinesesimp>"白嘴鸦"-40 9 mm</Chinesesimp>
+            <Chinesesimp>Rook-40 9 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_srifle_lrr0">
             <Original>M320 LRR .408</Original>
@@ -5981,7 +5981,7 @@
           <Key ID="str_a3_cfgweapons_srifle_gm60">
             <Original>GM6 Lynx 12.7 mm</Original>
             <Chinese>GM6"山貓"12.7公厘</Chinese>
-            <Chinesesimp>GM6 "山猫" 12.7 mm</Chinesesimp>
+            <Chinesesimp>GM6 "猞猁" 12.7 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_rangefinder0">
             <Original>Rangefinder</Original>
@@ -6001,7 +6001,7 @@
           <Key ID="str_a3_cfgweapons_arifle_katiba_gl_f0">
             <Original>Katiba GL 6.5 mm</Original>
             <Chinese>"卡提巴"6.5公厘榴彈發射器型</Chinese>
-            <Chinesesimp>"卡提巴" 6.5 mm 榴弹发射器型</Chinesesimp>
+            <Chinesesimp>"卡提巴" GL 6.5 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_rpg32_aa_f0">
             <Original>RPG-42 HE Rocket</Original>
@@ -6011,37 +6011,37 @@
           <Key ID="STR_A3_cfgweapons_3gl0">
             <Original>3GL</Original>
             <Chinese>3GL</Chinese>
-            <Chinesesimp>3GL 榴弹发射器</Chinesesimp>
+            <Chinesesimp>3GL</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_lmg_mk2000">
             <Original>Mk200 6.5 mm</Original>
             <Chinese>Mk200 6.5公厘轻机枪</Chinese>
-            <Chinesesimp>Mk200 6.5 mm 轻机枪</Chinesesimp>
+            <Chinesesimp>Mk200 6.5 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_srifle_abr0">
             <Original>Mk18 ABR 7.62 mm</Original>
             <Chinese>Mk18 ABR 7.62公厘先進戰鬥步槍</Chinese>
-            <Chinesesimp>Mk18 ABR 7.62 mm 先进战斗步枪</Chinesesimp>
+            <Chinesesimp>Mk18 ABR 7.62 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_katiba_f0">
             <Original>Katiba 6.5 mm</Original>
             <Chinese>"卡提巴"6.5公厘自动步枪</Chinese>
-            <Chinesesimp>"卡提巴" 6.5 mm 自动步枪</Chinesesimp>
+            <Chinesesimp>"卡提巴" 6.5 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_nlaw0">
             <Original>PCML</Original>
             <Chinese>PCML</Chinese>
-            <Chinesesimp>PCML 火箭筒</Chinesesimp>
+            <Chinesesimp>PCML</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_katiba_c_f0">
             <Original>Katiba Carbine 6.5 mm</Original>
             <Chinese>"卡提巴"6.5公厘卡賓槍</Chinese>
-            <Chinesesimp>"卡提巴" 6.5 mm 卡宾枪</Chinesesimp>
+            <Chinesesimp>"卡提巴" 卡宾 6.5 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_law0">
             <Original>RPG-42 Alamut</Original>
             <Chinese>RPG-42"阿拉穆特"火箭筒</Chinese>
-            <Chinesesimp>RPG-42"阿拉穆特"火箭筒</Chinesesimp>
+            <Chinesesimp>RPG-42 "阿拉穆特"</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_sdar0">
             <Original>SDAR 5.56 mm</Original>
@@ -6051,64 +6051,64 @@
           <Key ID="str_a3_cfgweapons_hgun_p070">
             <Original>P07 9 mm</Original>
             <Chinese>P07 9公厘手槍</Chinese>
-            <Chinesesimp>P07 9 mm 手枪</Chinesesimp>
+            <Chinesesimp>P07 9 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_trg200">
             <Original>TRG-20 5.56 mm</Original>
             <Chinese>TRG-20 5.56公厘步槍</Chinese>
-            <Chinesesimp>TRG-20 5.56 mm 步枪</Chinesesimp>
+            <Chinesesimp>TRG-20 5.56 mm</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgweapons_eglm0">
             <Original>EGLM</Original>
             <Chinese>EGLM</Chinese>
-            <Chinesesimp>EGLM 榴弹发射器</Chinesesimp>
+            <Chinesesimp>EGLM</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_trg210">
             <Original>TRG-21 5.56 mm</Original>
             <Chinese>TRG-21 5.56公厘步槍</Chinese>
-            <Chinesesimp>TRG-21 5.56 mm 步枪</Chinesesimp>
+            <Chinesesimp>TRG-21 5.56 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_trg21_gl0">
             <Original>TRG-21 EGLM 5.56 mm</Original>
             <Chinese>TRG-21 EGLM 5.56公厘步槍</Chinese>
-            <Chinesesimp>TRG-21 EGLM 5.56 mm 步枪</Chinesesimp>
+            <Chinesesimp>TRG-21 EGLM 5.56 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_xmx0">
             <Original>MX 6.5 mm</Original>
             <Chinese>MX 6.5公厘步槍</Chinese>
-            <Chinesesimp>MX 6.5 mm 步枪</Chinesesimp>
+            <Chinesesimp>MX 6.5 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_xmx_gl0">
             <Original>MX 3GL 6.5 mm</Original>
             <Chinese>MX 3GL 6.5公厘步槍</Chinese>
-            <Chinesesimp>MX 3GL 6.5 mm 步枪</Chinesesimp>
+            <Chinesesimp>MX 3GL 6.5 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_xmc0">
             <Original>MXC 6.5 mm</Original>
             <Chinese>MXC 6.5公厘緊凑步槍</Chinese>
-            <Chinesesimp>MXC 6.5 mm 紧凑步枪</Chinesesimp>
+            <Chinesesimp>MXC 6.5 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_xm_lsw0">
             <Original>MX SW 6.5 mm</Original>
             <Chinese>MX SW 6.5公厘自動步槍</Chinese>
-            <Chinesesimp>MX SW 6.5 mm 自动步枪</Chinesesimp>
+            <Chinesesimp>MX SW 6.5 mm</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_xmm0">
             <Original>MXM 6.5 mm</Original>
             <Chinese>MXM 6.5公厘精確射手步槍</Chinese>
-            <Chinesesimp>MXM 6.5 mm 精确射手步枪</Chinesesimp>
+            <Chinesesimp>MXM 6.5 mm</Chinesesimp>
           </Key>
         </Container>
         <Container name="Library">
           <Key ID="str_a3_cfgweapons_srifle_lrr_library0">
             <Original>M320 Long Range Rifle is a .408 caliber sniper rifle developed in the United States. The M320 LRR is a bolt-action rifle valued for its accuracy up to 2000 m.</Original>
             <Chinese>M320長距離步槍是在美國開發的一個.408口徑狙擊步槍。M320是一種半自動步槍，估值其準確性可達2000公尺。</Chinese>
-            <Chinesesimp>M320长距离步枪是美国开发的一种.408口径狙击步枪。M320是一种栓动步枪，精确射程可达2000米。</Chinesesimp>
+            <Chinesesimp>M320 长距离步枪是美国开发的一种.408口径狙击步枪。M320是一种栓动步枪，精确射程可达2000米。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_srifle_gm6_library0">
             <Original>The Gepard GM6 Lynx is a semi-automatic anti-material rifle using Russian 12.7x108 mm ammo. Its purpose is to stop or disable targets such as light armored vehicles, light shelters and helicopters from 600–800 m range. Due to its weight and portability, it is good for parachute, airmobile and territorial troops. The barrel recoil technology brings the recoil of the GM6 below the recoil of other rifles in the same category. The weapon is highly accurate and effective up to a range of 1500 m.</Original>
             <Chinese>獵豹GM6"山貓"是一種半自動反物質的步槍，使用的是俄國12.7x108公厘子彈。它的目的是為了在600–800公尺的射程內阻止目標或者使目標癱瘓，例如輕型裝甲車，輕型掩蔽處以及直升機。因為它的重量和輕便性，這種步槍很適合傘兵，空軍機動部隊以及陸軍部隊。GM6的槍管後座力技術使得它的後坐力小於其他同類型的槍支。這個武器在1500公尺的射程內，具有高精確度和高效能。</Chinese>
-            <Chinesesimp>猎豹 GM6"山猫"是一种半自动反器材步枪，使用俄制12.7x108 mm 子弹。它的目的是为了在600–800米的射程上阻止或瘫痪目标，如轻型装甲车，轻型掩蔽处以及直升机。因为它的重量和轻便性，这种步枪很适合伞兵，空中机动部队以及地方部队。GM6的枪管后座力技术使得它的后坐力小于其他同类型的枪支。这种武器在1500米的射程内具有高精确度和高效能。</Chinesesimp>
+            <Chinesesimp>猎豹 GM6 "猞猁"是一种半自动反器材步枪，使用俄制12.7x108 mm 子弹。它的目的是为了在600–800米的射程上阻止或瘫痪目标，如轻型装甲车，轻型掩蔽处以及直升机。因为它的重量和轻便性，这种步枪很适合伞兵，空中机动部队以及地方部队。GM6的枪管后座力技术使得它的后坐力小于其他同类型的枪支。这种武器在1500米的射程内具有高精确度和高效能。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_rangefinder_library0">
             <Original>A rangefinder is a basic tool for spotting distances and targets. It has several active parts: one being the rangefinder itself on the right side where you can see the distance to the target. AZT displays the azimuth and the mode switches between the visible spectrum and night vision.</Original>
@@ -6138,12 +6138,12 @@
           <Key ID="str_a3_cfgweapons_hgun_rook40_library0">
             <Original>Rook-40 is a double action, short recoil operated, locked breech pistol. Its steel construction makes it a bit retro, but compared to contemporary lightweight polymer pistols, it feels sturdier. It fires 9x21 mm ammunition and comes with tritium-filled night sights.</Original>
             <Chinese>"白嘴鴉"-40是一把具有雙動操作，閉鎖槍機與短反衝運行的手槍。它的鋼製結構使得它有點復古，但跟現代的輕量化聚合物手槍相比，感覺更為堅固。它使用9x21公厘彈藥，並配上氚光夜間照門。</Chinese>
-            <Chinesesimp>"白嘴鸦"-40是一种双动操作，闭锁枪机，短后坐自动的手枪。它的钢制结构使得它有点复古，但跟现代的轻量化聚合物手枪相比，感觉更为坚固。它使用9x21 mm 弹药，并配有氚光夜间照门。</Chinesesimp>
+            <Chinesesimp>Rook-40 是一种双动操作，闭锁枪机，短后坐自动的手枪。它的钢制结构使得它有点复古，但跟现代的轻量化聚合物手枪相比，感觉更为坚固。它使用9x21 mm 弹药，并配有氚光夜间照门。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_law_library0">
             <Original>The RPG-42 Alamut is a lightweight, reloadable and recoilless anti-tank weapon fired from the shoulder. It's based on modern Russian rocket launchers and produced in the Middle East. The RPG-42 Rocket is best used against light-armored vehicles and defenses, though when used against a tank, it could damage its tracks.</Original>
             <Chinese>RPG-42"阿拉穆特"是一把輕量級，可重複裝填並且無后座力的肩扛反坦克武器。它的基礎是現代的俄羅斯火箭發射器，並在中東製造。RPG-42火箭筒最好用來對付輕型車輛或者是防禦工事，但當它面對坦克時，它通常只能損壞坦克的履帶。</Chinese>
-            <Chinesesimp>RPG-42"阿拉穆特"是一把轻量级，可重复装填并且无后座力的肩扛反坦克武器。它的基础是现代的俄罗斯火箭发射器，在中东制造。RPG-42火箭筒最好用来对付轻型车辆或者是防御工事，但当它面对坦克时，它通常也能损坏坦克的履带。</Chinesesimp>
+            <Chinesesimp>RPG-42 "阿拉穆特"是一把轻量级，可重复装填并且无后座力的肩扛反坦克武器。它的基础是现代的俄罗斯火箭发射器，在中东制造。RPG-42 火箭筒最好用来对付轻型车辆或者是防御工事，但当它面对坦克时，它通常也能损坏坦克的履带。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_nlaw_library0">
             <Original>The PCML (Person-Carried Missile Launcher) is a portable, short range, fire-and-forget anti-tank guided missile system. The PCML is a soft-launch system, allowing it to be used from within an enclosed room.</Original>
@@ -6428,7 +6428,7 @@
           <Key ID="str_a3_combat_fatigues_tee">
             <Original>Combat Fatigues (MTP) (Tee)</Original>
             <Chinese>戰鬥迷彩服(多地形迷彩)(短袖)</Chinese>
-            <Chinesesimp>战斗迷彩服(多地形迷彩)（短袖）</Chinesesimp>
+            <Chinesesimp>战斗迷彩服（多地形迷彩，短袖）</Chinesesimp>
           </Key>
           <Key ID="str_a3_common_clothes0">
             <Original>Commoner Clothes 1</Original>
@@ -6663,12 +6663,12 @@
         <Key ID="str_a3_gmg_40mm0">
           <Original>RCWS GMG 40 mm</Original>
           <Chinese>遙控砲塔40公厘榴彈機槍</Chinese>
-          <Chinesesimp>遥控武器站 榴弹发射器 40 mm</Chinesesimp>
+          <Chinesesimp>榴弹发射器遥控武器站 40 mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_hmg_1270">
           <Original>RCWS HMG 12.7 mm</Original>
           <Chinese>遙控砲塔12.7公厘重機槍</Chinese>
-          <Chinesesimp>遥控武器站 重机枪 12.7 mm</Chinesesimp>
+          <Chinesesimp>重机枪遥控武器站 12.7 mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_hmg_m20">
           <Original>M2 HMG .50</Original>
@@ -6703,7 +6703,7 @@
         <Key ID="str_a3_lmg_rcws0">
           <Original>RCWS LMG 6.5 mm</Original>
           <Chinese>遙控砲塔6.5公厘輕機槍</Chinese>
-          <Chinesesimp>遥控武器站 轻机枪 6.5 mm</Chinesesimp>
+          <Chinesesimp>轻机枪遥控武器站 6.5 mm</Chinesesimp>
         </Key>
         <Key ID="str_a3_lmg_rcws_manual0">
           <Original>MGun</Original>
@@ -6730,37 +6730,37 @@
         <Key ID="str_a3_cfgweapons_optic_sos1">
           <Original>Marksman Optical Sights&lt;br /&gt;Magnification: 2,5x–5x</Original>
           <Chinese>精準光學瞄準鏡&lt;br/&gt;倍率:2，5x–5x</Chinese>
-          <Chinesesimp>精准光学瞄准镜&lt;br/&gt;倍率：2，5x–5x</Chinesesimp>
+          <Chinesesimp>精确射手光学瞄准镜&lt;br/&gt;倍率：2，5x–5x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_holosight_smg0">
           <Original>Mk17 Holosight SMG</Original>
           <Chinese>Mk17內紅點瞄準鏡(衝鋒槍用)</Chinese>
-          <Chinesesimp>Mk17全息瞄准镜（冲锋枪用）</Chinesesimp>
+          <Chinesesimp>Mk17 全息瞄准镜（冲锋枪用）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_sos0">
           <Original>MOS</Original>
           <Chinese>精準光學瞄準鏡</Chinese>
-          <Chinesesimp>精准光学瞄准镜</Chinesesimp>
+          <Chinesesimp>MOS</Chinesesimp>
         </Key>
         <Key ID="STR_A3_cfgWeapons_optic_Holosight1">
           <Original>Mk17 Holosight&lt;br /&gt;Magnification: 1x</Original>
           <Chinese>Mk17內紅點瞄準鏡&lt;br/&gt;倍率:1x</Chinese>
-          <Chinesesimp>Mk17全息瞄准镜&lt;br/&gt;倍率：1x</Chinesesimp>
+          <Chinesesimp>Mk17 全息瞄准镜&lt;br/&gt;倍率：1x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_aco_smg0">
           <Original>ACO SMG (Red)</Original>
           <Chinese>先進準直瞄準鏡(衝鋒槍用)(紅色)</Chinese>
-          <Chinesesimp>先进准直瞄准镜(冲锋枪用)（红色）</Chinesesimp>
+          <Chinesesimp>ACO（冲锋枪用，红色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_holosight0">
           <Original>Mk17 Holosight</Original>
           <Chinese>Mk17內紅點瞄準鏡</Chinese>
-          <Chinesesimp>Mk17全息瞄准镜</Chinesesimp>
+          <Chinesesimp>Mk17 全息瞄准镜</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_aco_grn_smg0">
           <Original>ACO SMG (Green)</Original>
           <Chinese>先進準直瞄準鏡(衝鋒槍用)(綠色)</Chinese>
-          <Chinesesimp>先进准直瞄准镜(冲锋枪用)（绿色）</Chinesesimp>
+          <Chinesesimp>ACO（冲锋枪用，绿色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_hamr1">
           <Original>Rifle Combat Optics&lt;br /&gt;Magnification: 2x</Original>
@@ -6775,7 +6775,7 @@
         <Key ID="str_a3_cfgweapons_optic_hamr0">
           <Original>RCO</Original>
           <Chinese>步槍戰鬥光學瞄準鏡</Chinese>
-          <Chinesesimp>步枪战斗光学瞄准镜</Chinesesimp>
+          <Chinesesimp>RCO</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_b0">
           <Original>Sound Suppressor (7.62 mm)</Original>
@@ -6795,7 +6795,7 @@
         <Key ID="str_a3_cfgweapons_optic_arco0">
           <Original>ARCO</Original>
           <Chinese>先進步槍戰鬥光學瞄準鏡</Chinese>
-          <Chinesesimp>先进步枪战斗光学瞄准镜</Chinesesimp>
+          <Chinesesimp>ARCO</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_h_mg0">
           <Original>Sound Suppressor LMG (6.5 mm)</Original>
@@ -6810,7 +6810,7 @@
         <Key ID="str_a3_cfgweapons_optic_aco0">
           <Original>ACO (Red)</Original>
           <Chinese>先進準直瞄準鏡(紅色)</Chinese>
-          <Chinesesimp>先进准直瞄准镜（红色）</Chinesesimp>
+          <Chinesesimp>ACO（红色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_aco1">
           <Original>Advanced Collimator Optics&lt;br /&gt;Color: Red</Original>
@@ -6820,7 +6820,7 @@
         <Key ID="str_a3_cfgweapons_optic_aco_grn0">
           <Original>ACO (Green)</Original>
           <Chinese>先進準直瞄準鏡(綠色)</Chinese>
-          <Chinesesimp>先进准直瞄准镜（绿色）</Chinesesimp>
+          <Chinesesimp>ACO（绿色）</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_aco_grn1">
           <Original>Advanced Collimator Optics&lt;br /&gt;Color: Green</Original>
@@ -14775,8 +14775,8 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_heli_light_01_armed">
           <Original>AH-9 Pawnee</Original>
-          <Chinese>AH-9"波尼"武裝輕型直升機</Chinese>
-          <Chinesesimp>AH-9"波尼"武装轻型直升机</Chinesesimp>
+          <Chinese>AH-9 "波尼"武裝輕型直升機</Chinese>
+          <Chinesesimp>AH-9 "波尼"</Chinesesimp>
         </Key>
         <Key ID="Str_A3_cfgVehicles_boat_armed_01_minigun0">
           <Original>Speedboat Minigun</Original>
@@ -14806,12 +14806,12 @@
         <Key ID="str_a3_cfgvehicles_heli_light_01_base0">
           <Original>MH-9 Hummingbird</Original>
           <Chinese>MH-9"蜂鳥"無武裝輕型直升機</Chinese>
-          <Chinesesimp>MH-9"蜂鸟"轻型直升机</Chinesesimp>
+          <Chinesesimp>MH-9 "蜂鸟"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_heli_light_02_base_f0">
           <Original>PO-30 Orca</Original>
           <Chinese>PO-30"逆戟鯨"武裝直升機</Chinese>
-          <Chinesesimp>PO-30"逆戟鲸"通用直升机</Chinesesimp>
+          <Chinesesimp>PO-30 "虎鲸"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_quadbike_base_f0">
           <Original>Quad Bike</Original>
@@ -14846,14 +14846,14 @@
         <Key ID="str_a3_cfgvehicles_o_heli_light_02_unarmed_f0">
           <Original>PO-30 Orca (Unarmed)</Original>
           <Chinese>PO-30"逆戟鯨"無武裝直升機(無武裝)</Chinese>
-          <Chinesesimp>PO-30"逆戟鲸"通用直升机（无武装）</Chinesesimp>
+          <Chinesesimp>PO-30 "虎鲸"（无武装）</Chinesesimp>
         </Key>
       </Container>
       <Container name="Library">
         <Key ID="STR_A3_cfgvehicles_heli_light_02_lib">
           <Original>The PO-30 Orca is a transport and utility helicopter primarily developed for the Russian Air Force. The helicopter was intended to replace the Mi-8 and can be used for reconnaissance, transporting a full squad with combat gear and special operations. Armed variants of the PO-30 carry a Minigun and DAGR guided rockets.</Original>
           <Chinese>PO-30"逆戟鯨"是俄國空軍開發用來作運輸與多用途的直升機。它的主要的目的是要取代米-8和用作偵察，運輸整個班用的武器與特種作戰。武裝版的PO-30載有迷你砲機槍和直接攻擊導引火箭彈。</Chinese>
-          <Chinesesimp>PO-30"逆戟鲸"是为俄罗斯空军开发的运输与效用直升机。它的主要的目的是要取代米-8用作侦察，运输一个全副武装的班或执行特种作战任务。武装版的 PO-30载有转管机枪和直接攻击制导火箭弹。</Chinesesimp>
+          <Chinesesimp>PO-30 "虎鲸"是为俄罗斯空军开发的运输与效用直升机。它的主要的目的是要取代米-8用作侦察，运输一个全副武装的班或执行特种作战任务。武装版的 PO-30载有转管机枪和直接攻击制导火箭弹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_quadbike_base_f_library0">
           <Original>A quad bike is an all-terrain vehicle with low-pressure tires and handlebars for steering. The military uses quad bikes for reconnaissance and to access terrain difficult for heavier vehicles. </Original>
@@ -14862,8 +14862,8 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_heli_light_01_armory0">
           <Original>A light single-engine helicopter used in special operations by the US Army since the Vietnam War. It now exists in several variants used by both military and civilian transport. The AH-9 Pawnee variant is a light helicopter with the ability to carry anti-ground fixed forward-firing weapons such as unguided rockets and machine guns to provide direct air-support for the special operations forces. The MH-9 Hummingbird is mostly used as a special forces troop transport with two outboard benches.</Original>
-          <Chinese>一種輕型的單引擎直升機，在越戰時被美軍用於特種作戰。現存幾個變種，分別應用於軍事和民用運輸。AH-9"波尼"直升機是一種輕型直升機，可搭載反地面固定前射武器，如非導引火箭彈和機槍，為特種部隊提供空中火力支援。而MH-9"蜂鳥"則因其在靠近外側的位置有兩個外席，而常被當做特種部隊的運輸工具。</Chinese>
-          <Chinesesimp>一种轻型的单引擎直升机，在越战时被美军用于特种作战。现存几个变种，分别应用于军事和民用运输。AH-9"波尼"直升机是一种轻型直升机，可搭载反地面固定前射武器，如非制导火箭弹和机枪，为特种部队提供空中火力支援。而 MH-9"蜂鸟"轻型直升机则因其在靠近外侧的位置有两个外席，而常被当做特种部队的运输工具。</Chinesesimp>
+          <Chinese>一種輕型的單引擎直升機，在越戰時被美軍用於特種作戰。現存幾個變種，分別應用於軍事和民用運輸。AH-9 "波尼"直升機是一種輕型直升機，可搭載反地面固定前射武器，如非導引火箭彈和機槍，為特種部隊提供空中火力支援。而MH-9"蜂鳥"則因其在靠近外側的位置有兩個外席，而常被當做特種部隊的運輸工具。</Chinese>
+          <Chinesesimp>一种轻型的单引擎直升机，在越战时被美军用于特种作战。现存几个变种，分别应用于军事和民用运输。AH-9 "波尼"直升机是一种轻型直升机，可搭载反地面固定前射武器，如非制导火箭弹和机枪，为特种部队提供空中火力支援。而 MH-9 "蜂鸟"轻型直升机则因其在靠近外侧的位置有两个外席，而常被当做特种部队的运输工具。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_rubber_duck_base_library0">
           <Original>An inflatable boat, often nicknamed 'Rubber Duck', is a lightweight boat constructed from tubes containing pressurized gas. Inflatables typically come in lengths between 2 to 7 meters. Due to their speed, weight and portability, inflatable boats are used in diverse roles such as lifeguard and rescue boats and even more often in the military as a landing craft.</Original>
@@ -15074,12 +15074,12 @@
         <Key ID="str_a3_namesound_veh_ship_submarine_p">
           <Original>SDVs</Original>
           <Chinese>海豹運輸艇</Chinese>
-          <Chinesesimp>海豹运输艇</Chinesesimp>
+          <Chinesesimp>SDV</Chinesesimp>
         </Key>
         <Key ID="str_a3_namesound_veh_ship_submarine_s">
           <Original>SDV</Original>
           <Chinese>海豹運輸艇</Chinese>
-          <Chinesesimp>海豹运输艇</Chinesesimp>
+          <Chinesesimp>SDV</Chinesesimp>
         </Key>
         <Key ID="str_a3_namesound_veh_static_aa_p">
           <Original>static AAs</Original>
@@ -17808,7 +17808,7 @@
         <Key ID="str_a3_cfgvehicles_land_indpipe1_ground_f0">
           <Original>Industrial Pipe (Ground)</Original>
           <Chinese>工業管(接地))</Chinese>
-          <Chinesesimp>工业管（接地)）</Chinesesimp>
+          <Chinesesimp>工业管（接地））</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe1_uup_f0">
           <Original>Industrial Pipe (U, Up)</Original>

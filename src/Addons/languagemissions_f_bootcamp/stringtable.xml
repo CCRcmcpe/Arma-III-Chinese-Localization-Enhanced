@@ -1305,7 +1305,7 @@
           <Key ID="str_a3_boot_m02_bis_scope_title">
             <Original>Take the RCO</Original>
             <Chinese>拿取步槍戰鬥光學瞄準鏡</Chinese>
-            <Chinesesimp>拿取步枪战斗光学瞄准镜</Chinesesimp>
+            <Chinesesimp>拿取 RCO</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m02_bis_scopetargets_title">
             <Original>Shoot Distant Targets</Original>
@@ -1330,7 +1330,7 @@
           <Key ID="str_a3_boot_m02_bis_scope_desc">
             <Original>Take the RCO from %1the crate%2 and equip it on your rifle.</Original>
             <Chinese>從%1裝備箱%2中拿取步槍戰鬥光學瞄準鏡，並把它裝備到步槍上。</Chinese>
-            <Chinesesimp>从%1装备箱%2中拿取步枪战斗光学瞄准镜，并把它装备到步枪上。</Chinesesimp>
+            <Chinesesimp>从%1装备箱%2中拿取 RCO，并把它装备到步枪上。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m02_bis_return_title">
             <Original>Return</Original>
@@ -1687,7 +1687,7 @@
             <Key ID="str_a3_boot_m02_50_take_scope_ada_1">
               <Original>Sergeant, go ahead and grab the RCO from the crate.</Original>
               <Chinese>中士，請在你身旁的箱子中拿取一個步槍戰鬥光學瞄準鏡並裝上它。</Chinese>
-              <Chinesesimp>中士，请在你身旁的箱子中拿取一个步枪战斗光学瞄准镜并装上它。</Chinesesimp>
+              <Chinesesimp>中士，请在你身旁的箱子中拿取一个 RCO 并装上它。</Chinesesimp>
             </Key>
           </Container>
           <Container name="49_CSAT" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="49_CSAT" dubbingLanguage="english" namePrefix="boot_m02_49_csat" note="" participants="BOOT I Soldier B;BOOT B Adams;" situation="csat helicopters fly by in the distance">

@@ -4919,7 +4919,7 @@
           <Key ID="str_a3_oldman_184_eve_doctor_medicine_reminder_a_doctor_2">
             <Original>I made some calls. Apparently, IDAP lost a truckload of aid.</Original>
             <Chinese>我打了幾通電話，看來 IDAP 遺失了一卡車的補給。</Chinese>
-            <Chinesesimp>我打了几次电话。看来IDAP 损失了一卡车的救援物资。</Chinesesimp>
+            <Chinesesimp>我打了几次电话。看来 IDAP 损失了一卡车的救援物资。</Chinesesimp>
           </Key>
           <Key ID="str_a3_oldman_184_eve_doctor_medicine_reminder_a_doctor_3">
             <Original>Including, quirine and other drugs.</Original>
@@ -9793,7 +9793,7 @@
         <Key ID="str_a3_modules_moduleomqrf_f_first0">
           <Original>Old Man QRF (1)</Original>
           <Chinese>Old Man 快速反應部隊（1）</Chinese>
-          <Chinesesimp>Old Man 快速反应部队(1)</Chinesesimp>
+          <Chinesesimp>Old Man 快速反应部队（1）</Chinesesimp>
         </Key>
         <Key ID="str_a3_modules_moduleomtask_f_attributes_taskdescription0">
           <Original>Task Description</Original>
@@ -9823,7 +9823,7 @@
         <Key ID="str_a3_modules_moduleomqrf_f_second0">
           <Original>Old Man QRF (2)</Original>
           <Chinese>Old Man 快速反應部隊（2）</Chinese>
-          <Chinesesimp>Old Man 快速反应部队(2)</Chinesesimp>
+          <Chinesesimp>Old Man 快速反应部队（2）</Chinesesimp>
         </Key>
         <Key ID="str_a3_modules_moduleomtask_f_attributes_itemcount0">
           <Original>Item Count</Original>
@@ -9838,7 +9838,7 @@
         <Key ID="str_a3_modules_moduleomqrf_f_third0">
           <Original>Old Man QRF (3)</Original>
           <Chinese>Old Man 快速反應部隊（3）</Chinese>
-          <Chinesesimp>Old Man 快速反应部队(3)</Chinesesimp>
+          <Chinesesimp>Old Man 快速反应部队（3）</Chinesesimp>
         </Key>
         <Key ID="str_a3_modules_moduleomtask_f0">
           <Original>Old Man Deliver Task</Original>
@@ -12301,7 +12301,7 @@
         <Key ID="str_a3_missions_f_oldman_cfghints_oldmanupdate_detector1">
           <Original>&lt;t %5&gt;Hidden caches&lt;/t&gt; containing weapons and equipment can be located by using the geo-finder app on your phone (%11). The frequency of the beeps increases depending on your &lt;t %5&gt;direction&lt;/t&gt; and your &lt;t %5&gt;proximity&lt;/t&gt; to the cache.</Original>
           <Chinese>&lt;t %5&gt;隱藏點&lt;/t&gt;包含武器與器材，你可以用手機上的地理位置查找器來找到隱藏點（%11）。嗶嗶聲的頻率將會依據你與隱藏點的&lt;t %5&gt;方向&lt;/t&gt;和&lt;t %5&gt;距離&lt;/t&gt;而加快。</Chinese>
-          <Chinesesimp>可使用你手机上的地理位置查找应用找到藏有武器和装备的&lt;t %5&gt;秘密仓库&lt;/t&gt;(%11)。哔哔声的频率随着你的&lt;t %5&gt;方向&lt;/t&gt;和与秘密仓库的&lt;t %5&gt;接近程度&lt;/t&gt;而增加。</Chinesesimp>
+          <Chinesesimp>可使用你手机上的地理位置查找应用找到藏有武器和装备的&lt;t %5&gt;秘密仓库&lt;/t&gt;（%11）。哔哔声的频率随着你的&lt;t %5&gt;方向&lt;/t&gt;和与秘密仓库的&lt;t %5&gt;接近程度&lt;/t&gt;而增加。</Chinesesimp>
         </Key>
         <Key ID="str_a3_t_sq3_f_autonomousturrets_bis_sq3_balaferryoffice.sqf0">
           <Original>Reset UPS</Original>
@@ -12361,7 +12361,7 @@
         <Key ID="str_a3_missions_f_oldman_cfghints_oldmanupdate_relationship_relationship_subhint021">
           <Original>As a civilian, there are &lt;t %5&gt;restricted areas&lt;/t&gt; you are not allowed to enter:%1%2Military bases.%1%2Airports (without access pass).%1%2Police stations.%1%2Quarantined towns and villages.%1%2Insurgent camps (depending on &lt; t%5&gt;reputation&lt;/t&gt;).%1%2Some factories and harbors.</Original>
           <Chinese>身為平民，你不能進入特定的&lt;t %5&gt;受限區域&lt;/t&gt;：%1%2軍事基地；%1%2機場（沒有通行證時）；%1%2警察局；%1%2隔離城鎮與村莊；%1%2反抗軍營地（取決於你的&lt; t%5&gt;名聲&lt;/t&gt;）；%1%2特定工廠與港口。</Chinese>
-          <Chinesesimp>作为平民，你不得进入各种&lt;t %5&gt;禁区&lt;/t&gt;：%1%2军事基地；%1%2机场（无通行证）；%1%2警察局。%1%2被隔离的城镇和村庄；%1%2叛军营地（取决于&lt; t%5&gt;声誉&lt;/t&gt;)；%1%2某些工厂和港口。</Chinesesimp>
+          <Chinesesimp>作为平民，你不得进入各种&lt;t %5&gt;禁区&lt;/t&gt;：%1%2军事基地；%1%2机场（无通行证）；%1%2警察局。%1%2被隔离的城镇和村庄；%1%2叛军营地（取决于&lt; t%5&gt;声誉&lt;/t&gt;）；%1%2某些工厂和港口。</Chinesesimp>
         </Key>
         <Key ID="str_a3_missions_f_oldman_cfghints_oldmanupdate_sleepingbags0">
           <Original>Sleeping Bags</Original>
@@ -13051,7 +13051,7 @@
         <Key ID="str_a3_om_intel_cache_balavubay_text">
           <Original>Syndikat gunrunners have hidden stockpiles across Tanoa. One of them is located near Balavu, close to the &lt;marker name = 'BIS_BalavuBeachCache'&gt;beach&lt;/marker&gt;.</Original>
           <Chinese>Syndikat 軍火商在塔諾雅到處都有秘密倉庫。其中一個就在巴拉夫&lt;marker name = 'BIS_BalavuBeachCache'&gt;海灘&lt;/marker&gt;附近。</Chinese>
-          <Chinesesimp>辛迪加的军火商在塔诺亚各处都有秘密仓库。其中一个位于巴拉武附近，靠近 巴拉武&lt;marker name = 'BIS_BalavuBeachCache'&gt;海滩&lt;/marker&gt;。</Chinesesimp>
+          <Chinesesimp>辛迪加的军火商在塔诺亚各处都有秘密仓库。其中一个位于巴拉武附近，靠近巴拉武&lt;marker name = 'BIS_BalavuBeachCache'&gt;海滩&lt;/marker&gt;。</Chinesesimp>
         </Key>
         <Key ID="str_a3_om_intel_outbreakboise_text">
           <Original>Residents in the seaside village of &lt;marker name = '%1'&gt;Port-Boisé&lt;/marker&gt; have started getting sick. The area has been quarantined by CSAT.</Original>
@@ -13331,7 +13331,7 @@
         <Key ID="str_a3_om_intel_checkpointtanoukasouth_title">
           <Original>CSAT: Checkpoint (South Tanouka)</Original>
           <Chinese>CSAT：管制哨（南塔諾卡）</Chinese>
-          <Chinesesimp>广协：关卡（南他诺乌加)</Chinesesimp>
+          <Chinesesimp>广协：关卡（南他诺乌加）</Chinesesimp>
         </Key>
         <Key ID="str_a3_om_intel_cache_ovausforests_title">
           <Original>INSURGENTS: Cache (Ovau Jungle)</Original>
@@ -13351,7 +13351,7 @@
         <Key ID="str_a3_om_intel_checkpointtanoukanorth_title">
           <Original>CSAT: Checkpoint (North Tanouka)</Original>
           <Chinese>CSAT：管制哨（北塔諾卡）</Chinese>
-          <Chinesesimp>广协：关卡（北他诺乌加)</Chinesesimp>
+          <Chinesesimp>广协：关卡（北他诺乌加）</Chinesesimp>
         </Key>
         <Key ID="str_a3_om_intel_cache_redspringmine_title">
           <Original>INSURGENTS: Cache (Red Spring Mine)</Original>
@@ -13371,7 +13371,7 @@
         <Key ID="str_a3_om_intel_checkpointtanoukaeast_title">
           <Original>CSAT: Checkpoint (East Tanouka)</Original>
           <Chinese>CSAT：管制哨（東塔諾卡）</Chinese>
-          <Chinesesimp>广协：关卡（东他诺乌加)</Chinesesimp>
+          <Chinesesimp>广协：关卡（东他诺乌加）</Chinesesimp>
         </Key>
         <Key ID="str_a3_om_intel_cache_reginaisland_title">
           <Original>INSURGENTS: Cache (Regina Island)</Original>
@@ -13431,7 +13431,7 @@
         <Key ID="str_a3_om_intel_checkpointsnorthwest_title">
           <Original>CSAT: Checkpoints (North West)</Original>
           <Chinese>CSAT：管制哨（西北）</Chinese>
-          <Chinesesimp>广协：关卡（西北)</Chinesesimp>
+          <Chinesesimp>广协：关卡（西北）</Chinesesimp>
         </Key>
         <Key ID="str_a3_om_intel_cache_sawmill1_title">
           <Original>CTRG: Cache (Sawmill)</Original>
@@ -13516,7 +13516,7 @@
         <Key ID="str_a3_om_intel_checkpointlijnhaven_title">
           <Original>CSAT: Checkpoint (East Lijnhaven)</Original>
           <Chinese>CSAT：管制哨（東 Lijnhaven）</Chinese>
-          <Chinesesimp>广协：关卡（丽音赫文东部)</Chinesesimp>
+          <Chinesesimp>广协：关卡（丽音赫文东部）</Chinesesimp>
         </Key>
         <Key ID="str_a3_om_intel_checkpointbala_title">
           <Original>CSAT / GENDARMERIE: Checkpoints (Balavu)</Original>
@@ -13536,7 +13536,7 @@
         <Key ID="str_a3_om_intel_checkpointlijnhavennorth_title">
           <Original>CSAT: Checkpoint (North Lijnhaven)</Original>
           <Chinese>CSAT：管制哨（北 Lijnhaven）</Chinese>
-          <Chinesesimp>广协：关卡（丽音赫文北部)</Chinesesimp>
+          <Chinesesimp>广协：关卡（丽音赫文北部）</Chinesesimp>
         </Key>
         <Key ID="str_a3_om_intel_checkpointba_title">
           <Original>GENDARMERIE: Checkpoint (Ba)</Original>
@@ -14685,7 +14685,7 @@
       <Key ID="str_a3_om_system_moduleominit_missions">
         <Original>Array of mission names to load. For example: ['csatIsland', 'patrolAreas'].</Original>
         <Chinese>待載入的各種任務名稱列表。如：['csatIsland', 'patrolAreas']。</Chinese>
-        <Chinesesimp>待载入的任务名称列表。例如：['广协Island', 'patrolAreas']。</Chinesesimp>
+        <Chinesesimp>待载入的任务名称列表。例如：['广协 Island', 'patrolAreas']。</Chinesesimp>
       </Key>
       <Key ID="str_a3_om_system_moduleominit_csataiming">
         <Original>Global aimingAccuracy adjustment for OPFOR factions.</Original>

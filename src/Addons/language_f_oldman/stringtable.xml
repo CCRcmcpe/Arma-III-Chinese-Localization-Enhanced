@@ -10,7 +10,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_i_g_hmg_02_support_high_f0">
           <Original>Folded Tripod M2 HMG .50 (Raised) [FIA]</Original>
-          <Chinese>折起的三腳架 M2 重機槍 .50（立起）（FIA）</Chinese>
+          <Chinese>折起的三腳架 M2 重機槍 .50（立起，FIA）</Chinese>
           <Chinesesimp>折叠式三脚架 M2 重机枪 .50 （高）[FIA]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_g_hmg_02_support_f0">
@@ -20,7 +20,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_i_g_hmg_02_high_weapon_f0">
           <Original>Dismantled M2 HMG .50 (Raised) [FIA]</Original>
-          <Chinese>拆解後的 M2 重機槍 .50（立起）（FIA）</Chinese>
+          <Chinese>拆解後的 M2 重機槍 .50（立起，FIA）</Chinese>
           <Chinesesimp>拆解的 M2 重机枪 .50（高）[FIA]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_e_hmg_02_weapon_f0">
@@ -30,7 +30,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_i_e_hmg_02_support_high_f0">
           <Original>Folded Tripod M2 HMG .50 (Raised) [LDF]</Original>
-          <Chinese>折起的三腳架 M2 重機槍 .50（立起）（LDF）</Chinese>
+          <Chinese>折起的三腳架 M2 重機槍 .50（立起，LDF）</Chinese>
           <Chinesesimp>折叠式三脚架 M2 重机枪 .50（高）[LDF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_e_hmg_02_support_f0">
@@ -40,7 +40,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_i_e_hmg_02_high_weapon_f0">
           <Original>Dismantled M2 HMG .50 (Raised) [LDF]</Original>
-          <Chinese>拆解後的 M2 重機槍 .50（立起）（LDF）</Chinese>
+          <Chinese>拆解後的 M2 重機槍 .50（立起，LDF）</Chinese>
           <Chinesesimp>拆解的 M2 重机枪 .50（高）[LDF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_c_hmg_02_weapon_f0">
@@ -50,7 +50,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_i_c_hmg_02_support_high_f0">
           <Original>Folded Tripod M2 HMG .50 (Raised) [Syndikat]</Original>
-          <Chinese>折起的三腳架 M2 重機槍 .50（立起）（Syndikat）</Chinese>
+          <Chinese>折起的三腳架 M2 重機槍 .50（立起，Syndikat）</Chinese>
           <Chinesesimp>折叠式三脚架 M2 重机枪 .50（高）[辛迪加]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_c_hmg_02_support_f0">
@@ -60,22 +60,22 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_i_c_hmg_02_high_weapon_f0">
           <Original>Dismantled M2 HMG .50 (Raised) [Syndikat]</Original>
-          <Chinese>拆解後的 M2 重機槍 .50（立起）（Syndikat）</Chinese>
+          <Chinese>拆解後的 M2 重機槍 .50（立起，Syndikat）</Chinese>
           <Chinesesimp>拆解的 M2 重机枪 .50（高）[辛迪加]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_hmg_02_high_weapon_F0">
           <Original>Dismantled M2 HMG .50 (Raised) [AAF]</Original>
-          <Chinese>拆解後的 M2 重機槍 .50（立起）（AAF）</Chinese>
+          <Chinese>拆解後的 M2 重機槍 .50（立起，AAF）</Chinese>
           <Chinesesimp>拆解的 M2 重机枪 .50（高）[AAF]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_02_high_weapon_F0">
           <Original>Dismantled M2 HMG .50 (Raised) [NATO]</Original>
-          <Chinese>拆解後的 M2 重機槍 .50（立起）（NATO）</Chinese>
+          <Chinese>拆解後的 M2 重機槍 .50（立起，NATO）</Chinese>
           <Chinesesimp>拆解的 M2 重机枪 .50（高）[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_hmg_02_high_weapon_F0">
           <Original>Dismantled M2 HMG .50 (Raised) [CSAT]</Original>
-          <Chinese>拆解後的 M2 重機槍 .50（立起）（CSAT）</Chinese>
+          <Chinese>拆解後的 M2 重機槍 .50（立起，CSAT）</Chinese>
           <Chinesesimp>拆解的 M2 重机枪 .50（高）[广协]</Chinesesimp>
         </Key>
       </Container>
@@ -83,7 +83,7 @@
     <Container name="Characters_F">
       <Key ID="str_a3_cfgweapons_h_beret_csat_01_f0">
         <Original>Beret (Red) [CSAT]</Original>
-        <Chinese>貝雷帽（紅色）（CSAT）</Chinese>
+        <Chinese>貝雷帽（紅色，CSAT）</Chinese>
         <Chinesesimp>贝雷帽（红色）[广协]</Chinesesimp>
       </Key>
     </Container>
@@ -105,17 +105,17 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_land_mapboard_01_wall_syndikat_tanoa_f0">
         <Original>Whiteboard [Syndikat] (v3)</Original>
-        <Chinese>白板（Syndikat）（v3）</Chinese>
+        <Chinese>白板（Syndikat，v3）</Chinese>
         <Chinesesimp>白板 [辛迪加]（版本3）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_mapboard_01_tripod_syndikat_tanoa_f0">
         <Original>Whiteboard [Syndikat] (v2)</Original>
-        <Chinese>白板（Syndikat）（v2）</Chinese>
+        <Chinese>白板（Syndikat，v2）</Chinese>
         <Chinesesimp>白板 [辛迪加]（版本2）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_mapboard_01_map_syndikat_tanoa_f0">
         <Original>Whiteboard [Syndikat] (v1)</Original>
-        <Chinese>白板（Syndikat）（v1）</Chinese>
+        <Chinese>白板（Syndikat，v1）</Chinese>
         <Chinesesimp>白板 [辛迪加]（版本1）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_decal_scorchmark_01_small_f0">
@@ -357,27 +357,27 @@
       </Key>
       <Key ID="str_a3_item_csatoperatoraccescard_050">
         <Original>Access Card (v5) [CSAT]</Original>
-        <Chinese>門禁卡（v5）（CSAT）</Chinese>
+        <Chinese>門禁卡（v5，CSAT）</Chinese>
         <Chinesesimp>门禁卡（版本5）[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_item_csatoperatoraccescard_040">
         <Original>Access Card (v4) [CSAT]</Original>
-        <Chinese>門禁卡（v4）（CSAT）</Chinese>
+        <Chinese>門禁卡（v4，CSAT）</Chinese>
         <Chinesesimp>门禁卡（版本4）[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_item_csatoperatoraccescard_030">
         <Original>Access Card (v3) [CSAT]</Original>
-        <Chinese>門禁卡（v3）（CSAT）</Chinese>
+        <Chinese>門禁卡（v3，CSAT）</Chinese>
         <Chinesesimp>门禁卡（版本3）[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_item_csatoperatoraccescard_020">
         <Original>Access Card (v2) [CSAT]</Original>
-        <Chinese>門禁卡（v2）（CSAT）</Chinese>
+        <Chinese>門禁卡（v2，CSAT）</Chinese>
         <Chinesesimp>门禁卡（版本2）[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_item_csatoperatoraccescard_010">
         <Original>Access Card (v1) [CSAT]</Original>
-        <Chinese>門禁卡（v1）（CSAT）</Chinese>
+        <Chinese>門禁卡（v1，CSAT）</Chinese>
         <Chinesesimp>门禁卡（版本1）[广协]</Chinesesimp>
       </Key>
       <Key ID="str_a3_item_butane_canister0">
@@ -423,12 +423,12 @@
       <Key ID="str_a3_cfgvehicles_land_pcset_intel_02_f0">
         <Original>PC Set (Screen, Intel v2)</Original>
         <Chinese>PC 組（螢幕，情資 v2）</Chinese>
-        <Chinesesimp>个人电脑（屏幕，情报 版本2）</Chinesesimp>
+        <Chinesesimp>个人电脑（屏幕，情报，版本2）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_pcset_intel_01_f0">
         <Original>PC Set (Screen, Intel v1)</Original>
         <Chinese>PC 組（螢幕，情資 v1）</Chinese>
-        <Chinesesimp>个人电脑（屏幕，情报 版本1）</Chinesesimp>
+        <Chinesesimp>个人电脑（屏幕，情报，版本1）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_moneybills_01_stack_f0">
         <Original>Money (Stack)</Original>
@@ -453,17 +453,17 @@
       <Key ID="str_a3_cfgvehicles_land_laptop_intel_oldman_f0">
         <Original>Laptop (Open, Intel v3)</Original>
         <Chinese>筆電（開啟，情資 v3）</Chinese>
-        <Chinesesimp>笔记本电脑（打开，情报 版本3）</Chinesesimp>
+        <Chinesesimp>笔记本电脑（打开，情报，版本3）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_laptop_intel_02_f0">
         <Original>Laptop (Open, Intel v2)</Original>
         <Chinese>筆電（開啟，情資 v2）</Chinese>
-        <Chinesesimp>笔记本电脑（打开，情报 版本2）</Chinesesimp>
+        <Chinesesimp>笔记本电脑（打开，情报，版本2）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_laptop_intel_01_f0">
         <Original>Laptop (Open, Intel v1)</Original>
         <Chinese>筆電（開啟，情資 v1）</Chinese>
-        <Chinesesimp>笔记本电脑（打开，情报 版本1）</Chinesesimp>
+        <Chinesesimp>笔记本电脑（打开，情报，版本1）</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_key_01_f0">
         <Original>Keys</Original>

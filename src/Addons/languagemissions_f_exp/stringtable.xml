@@ -619,12 +619,12 @@
           <Key ID="str_a3_showcase_vtol_tsk_getin_title">
             <Original>Get in Y-32 Xi'an</Original>
             <Chinese>進入Y-32"西安"垂直起降機</Chinese>
-            <Chinesesimp>进入Y-32"西安"垂直起降机</Chinesesimp>
+            <Chinesesimp>进入Y-32 "西安"</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vtol_tsk_getin_desc">
             <Original>Get in your %2Y-32 Xi'an VTOL%1 and join your gunner.</Original>
             <Chinese>進入你的%2Y-32"西安"垂直起降機%1，你的砲手已經在等你了。</Chinese>
-            <Chinesesimp>进入你的%2Y-32"西安"垂直起降机%1，你的炮手已经在等你了。</Chinesesimp>
+            <Chinesesimp>进入你的%2Y-32 "西安"垂直起降机%1，你的炮手已经在等你了。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vtol_situation">
             <Original>Our units on Tanoa are in a fierce battle with NATO expeditionary forces. Although we have an advantage in the air, our opponent has committed a large number of superior ground vehicles, stalling our advance in places and forcing us to retreat in others. &lt;br /&gt;&lt;br /&gt;If we cannot outmaneuver the enemy or reduce the threat of their armored assets, this whole operation could end in a stalemate. Needless to say, we can't let that happen.</Original>
@@ -649,7 +649,7 @@
           <Key ID="str_a3_showcase_vtol_missionoverview">
             <Original>Use your Y-32 Xi'an VTOL to support friendly troops against NATO forces on Tanoa.</Original>
             <Chinese>使用你的Y-32"西安"垂直起降機支援友軍部隊對抗塔諾亞島上的北約部隊。</Chinese>
-            <Chinesesimp>使用你的Y-32"西安"垂直起降机支援友军部队对抗塔诺亚岛上的北约部队。</Chinesesimp>
+            <Chinesesimp>使用你的Y-32 "西安"垂直起降机支援友军部队对抗塔诺亚岛上的北约部队。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vtol_missionname">
             <Original>VTOL</Original>
@@ -659,7 +659,7 @@
           <Key ID="str_a3_showcase_vtol_mission">
             <Original>As a pilot of a Y-32 Xi'an VTOL, you'll be supporting our forces in battle. &lt;br /&gt;&lt;br /&gt;Do not actively engage the enemy with troops on board - their transportation to the combat zone is priority. Once we have boots on the ground, you are free to attack targets of opportunity or provide close air support upon request. &lt;br /&gt;&lt;br /&gt;Major NATO positions are marked on your map - avoid these areas, as they have solid AA protection. Although our adversary has no self-propelled anti-aircraft guns on Tanoa, they do have man-portable anti-air defense systems. &lt;br /&gt;&lt;br /&gt;In case of damage or shortage of fuel, land back at the airport and resupply at the maintenance area.</Original>
             <Chinese>作為一名Y-32"西安"垂直起降機的駕駛，你將在戰鬥中支援我方部隊。&lt;br/&gt;&lt;br/&gt;不要在你還在搭載人員時就與敵人積極交戰-運輸他們到戰區才是你的首要目標。當我們的步兵成功抵達目的地後，你就可以自由攻擊各個機會目標或是提供密接空中支援給有需要的部隊。&lt;br/&gt;&lt;br/&gt;北約部隊的主要位置都已經標記在地圖上-盡量避開這些地區，他們在那邊都有架設防空系統。儘管我們的敵人並沒有佈署自行防空高射炮在塔諾亞上，但他們有讓人員攜帶可攜式防空飛彈。&lt;br/&gt;&lt;br/&gt;假如有需要的話，你可以返回機場的維修補給站去進行維修，加油與補彈。</Chinese>
-            <Chinesesimp>作为一名Y-32"西安"垂直起降机的飞行员，你将在战斗中支援我方部队。&lt;br/&gt;&lt;br/&gt;不要在你还在搭载人员时就与敌人积极交战—运输他们到战区才是你的首要目标。当我们的步兵成功抵达目的地后，你就可以自由攻击各个机会目标或是提供近距离空中支援给有需要的部队。&lt;br/&gt;&lt;br/&gt;北约部队的主要位置都已经标记在地图上—尽量避开这些地区，他们在那边都有架设防空系统。尽管我们的敌人并没有在塔诺亚布署自行防空高射炮，但他们有便携式防空导弹。&lt;br/&gt;&lt;br/&gt;假如有需要的话，你可以返回机场的维修补给站去进行维修，加油与补弹。</Chinesesimp>
+            <Chinesesimp>作为一名Y-32 "西安"垂直起降机的飞行员，你将在战斗中支援我方部队。&lt;br/&gt;&lt;br/&gt;不要在你还在搭载人员时就与敌人积极交战—运输他们到战区才是你的首要目标。当我们的步兵成功抵达目的地后，你就可以自由攻击各个机会目标或是提供近距离空中支援给有需要的部队。&lt;br/&gt;&lt;br/&gt;北约部队的主要位置都已经标记在地图上—尽量避开这些地区，他们在那边都有架设防空系统。尽管我们的敌人并没有在塔诺亚布署自行防空高射炮，但他们有便携式防空导弹。&lt;br/&gt;&lt;br/&gt;假如有需要的话，你可以返回机场的维修补给站去进行维修，加油与补弹。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vtol_marker_medical">
             <Original>First aid station</Original>
@@ -684,7 +684,7 @@
           <Key ID="str_a3_showcase_vtol_execution">
             <Original>1. Get in your %2Y-32 Xi'an VTOL%1 &lt;br /&gt;2. Take off from the %3airport%1 &lt;br /&gt;3. Load Rhino 3 from %4Bala Airstrip%1 &lt;br /&gt;4. Drop Rhino 3 over %5Tuvanaka Island%1 &lt;br /&gt;5. Escort Dragonfly 7 with reinforcements from %3airport%1 to %6Lijnhaven%1 &lt;br /&gt;6. %7RTB%1 in case of no new orders</Original>
             <Chinese>1. 進入你的%2Y-32"西安"垂直起降機%1&lt;br/&gt;2. 從%3機場%1起飛&lt;br/&gt;3. 前往%4巴拉簡易機場%1搭載"犀牛3"&lt;br/&gt;4. 前往%5圖瓦納卡島%1空投"犀牛3"&lt;br/&gt;5. 護送"蜻蜓7"運送援軍從%3機場%1前往%6萊茵哈文%1&lt;br/&gt;6.當沒有任何任務以後就%7返回基地%1</Chinese>
-            <Chinesesimp>1. 进入你的%2Y-32"西安"垂直起降机%1&lt;br/&gt;2. 从%3机场%1起飞&lt;br/&gt;3. 前往%4巴拉简易机场%1搭载"犀牛3"&lt;br/&gt;4. 前往%5图瓦纳卡岛%1空投"犀牛3"&lt;br/&gt;5. 护送"蜻蜓7"运送援军从%3机场%1前往%6莱因哈文%1&lt;br/&gt;6.当没有任何任务以后就%7返回基地%1</Chinesesimp>
+            <Chinesesimp>1. 进入你的%2Y-32 "西安"垂直起降机%1&lt;br/&gt;2. 从%3机场%1起飞&lt;br/&gt;3. 前往%4巴拉简易机场%1搭载"犀牛3"&lt;br/&gt;4. 前往%5图瓦纳卡岛%1空投"犀牛3"&lt;br/&gt;5. 护送"蜻蜓7"运送援军从%3机场%1前往%6莱因哈文%1&lt;br/&gt;6.当没有任何任务以后就%7返回基地%1</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vtol_end_04">
             <Original>You successfully completed all major tasks and have greatly improved our strategic situation by destroying several enemy IFVs and an attack helicopter! Excellent work!</Original>
@@ -3382,7 +3382,7 @@
           <Key ID="str_a3_exp_m03_respawn_5">
             <Original>Prowler Position</Original>
             <Chinese>"徘徊者"輕型突擊車位置</Chinese>
-            <Chinesesimp>"徘徊者"轻型突击车位置</Chinesesimp>
+            <Chinesesimp>"徘徊者"位置</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m03_respawn_4">
             <Original>Jungle</Original>
@@ -3467,7 +3467,7 @@
           <Key ID="str_a3_exp_m03_briefing_signal_4">
             <Original>Angel 3-2 - V-44 X Blackfish on loan from the NATO Task Force.</Original>
             <Chinese>"天使3-2"-從北約特遣隊所借來的V-44X"黑魚"垂直起降機。</Chinese>
-            <Chinesesimp>"天使3-2"-从北约特遣队所借来的V-44X"黑鱼"垂直起降机。</Chinesesimp>
+            <Chinesesimp>"天使3-2"-从北约特遣队所借来的V-44X "黑鲸"垂直起降机。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m03_briefing_signal_3">
             <Original>Watchtower - CTRG Headquarters.</Original>
@@ -4104,7 +4104,7 @@
           <Key ID="str_a3_exp_m02_tasks_bis_exfil_description">
             <Original>Board the UH-80 Ghosthawk %2at the LZ%1 and exfil from the AO.</Original>
             <Chinese>在%2降落點%1搭乘UH-80"鬼鷹"運輸直升機並撤離戰場。</Chinese>
-            <Chinesesimp>在%2降落点%1搭乘 UH-80"幽灵鹰"运输直升机并撤离战场。</Chinesesimp>
+            <Chinesesimp>在%2降落点%1搭乘 UH-80 "幽灵鹰" 并撤离战场。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m02_tasks_bis_ambush_title">
             <Original>Ambush the Convoy</Original>
@@ -5800,7 +5800,7 @@
           <Key ID="str_a3_exp_m07_taskevactext">
             <Original>Move to the extraction point and board the UH-80 Ghosthawk.</Original>
             <Chinese>移動到撤離點並搭乘UH-80"鬼鷹"運輸直升機。</Chinese>
-            <Chinesesimp>移动到撤离点并搭乘 UH-80"幽灵鹰"运输直升机。</Chinesesimp>
+            <Chinesesimp>移动到撤离点并搭乘 UH-80 "幽灵鹰"。</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m07_taskdisarmtitle">
             <Original>Disarm the Eastwind Device</Original>
@@ -7726,7 +7726,7 @@
           <Key ID="str_a3_showcase_endgame_signal">
             <Original>%2Raider 1%1 - Your team.&lt;br /&gt;Raider 2 and 3 - Support elements.&lt;br /&gt;Angel 3-1 - UH-80 Ghosthawk.&lt;br /&gt;Watchtower - CTRG Headquarters.</Original>
             <Chinese>%2"突襲者1"%1-你的小隊。&lt;br/&gt;"突襲者2"和3-支援小組。&lt;br/&gt;"天使3-1"-UH-80"鬼鷹"運輸直升機。&lt;br/&gt;"守望塔"-戰研小組指揮官。</Chinese>
-            <Chinesesimp>%2"突袭者1"%1-你的小组。&lt;br/&gt;"突袭者2"和3-支援小组。&lt;br/&gt;"天使3-1"-UH-80"幽灵鹰"运输直升机。&lt;br/&gt;"守望塔"-战研大队指挥官。</Chinesesimp>
+            <Chinesesimp>%2"突袭者1"%1-你的小组。&lt;br/&gt;"突袭者2"和3-支援小组。&lt;br/&gt;"天使3-1"-UH-80 "幽灵鹰"。&lt;br/&gt;"守望塔"-战研大队指挥官。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_endgame_notificationraider">
             <Original>Raider 2 - Attack</Original>

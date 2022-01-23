@@ -1931,7 +1931,7 @@
           <Key ID="str_a3_to_c01m01_task_00_description">
             <Original>One of our patrols has failed to report in. Follow their original route and find out what happened:&lt;br/&gt;WP Iota:%2 092(9) 165(8)%1&lt;br/&gt;WP Kappa:%3 093(4) 168(2)%1&lt;br/&gt;WP Lambda:%4 096(9) 170(3)%1&lt;br/&gt;WP Mu:%5 094(9) 175(6)%1&lt;br/&gt;WP Nu:%6 102(7) 177(9)%1 &lt;br/&gt;WP Xi:%7 Orino%1&lt;br/&gt;WP Omicron:%8 RTB%1</Original>
             <Chinese>某支巡邏隊沒有回來報到:沿著他們的原定路線搜查，釐清究竟發生什麼事:&lt;br/&gt;"約塔"定位點:%2092(9)165(8)%1&lt;br/&gt;"卡帕"定位點:%3093(4)168(2)%1&lt;br/&gt;"拉米塔"定位點:%4096(9)170(3)%1&lt;br/&gt;"繆"定位點:%5094(9)175(6)%1&lt;br/&gt;"紐"定位點:%6102(7)177(9)%1&lt;br/&gt;"西"定位點:%7奧里諾%1&lt;br/&gt;"奧米克戎"定位點:%8返回基地%1</Chinese>
-            <Chinesesimp>我们的一支巡逻队未报告行踪。跟随他们的原行动路线，搞清发生了什么事：&lt;br/&gt;路径点"约塔"：%2092(9)165(8)%1&lt;br/&gt;路径点"卡帕"：%3093(4)168(2)%1&lt;br/&gt;路径点"拉米塔"：%4096(9)170(3)%1&lt;br/&gt;路径点"缪"：%5094(9)175(6)%1&lt;br/&gt;路径点"纽"：%6102(7)177（9）%1&lt;br/&gt;路径点"西"：%7奥里诺%1&lt;br/&gt;路径点"奥米克戎"：%8返回基地%1</Chinesesimp>
+            <Chinesesimp>我们的一支巡逻队未报告行踪。跟随他们的原行动路线，搞清发生了什么事：&lt;br/&gt;路径点"约塔"：%2092（9）165（8）%1&lt;br/&gt;路径点"卡帕"：%3093（4）168（2）%1&lt;br/&gt;路径点"拉米塔"：%4096（9）170（3）%1&lt;br/&gt;路径点"缪"：%5094（9）175（6）%1&lt;br/&gt;路径点"纽"：%6102（7）177（9）%1&lt;br/&gt;路径点"西"：%7奥里诺%1&lt;br/&gt;路径点"奥米克戎"：%8返回基地%1</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01m01_su_startmainassault">
             <Original>Begin Offensive</Original>
@@ -2006,7 +2006,7 @@
           <Key ID="str_a3_to_c01m01_diary_execution">
             <Original>1. Find %2Spartan%1.&lt;br/&gt;2. Conduct reconnaissance with your %3squad%1 and identify armor and defences.&lt;br/&gt;3. Designate targets (via 0-8-1) and transmit co-ordinates for artillery (via 0-8-2). On impact, we will commence our assault. Alternatively, you can give the signal for the offensive personally, by using your radio (via 0-8-3).&lt;br/&gt;4. Hold %4Orino%1, no matter what.</Original>
             <Chinese>1. 找到%2"斯巴達人"%1。&lt;br/&gt;2. 與%3分隊%1一同執行偵察任務，辨認敵方裝甲與守軍。&lt;br/&gt;3. 指定目標(按0-8-1)，將坐標傳給砲擊部隊(按0-8-2)。砲擊命中後攻擊就開始。也可以利用無線電(按0-8-3)單獨傳達攻擊信號。&lt;br/&gt;4. 無論發生什麼事，務必堅守%4奧里諾%1。</Chinese>
-            <Chinesesimp>1. 找到%2斯巴达人%1。&lt;br/&gt;2. 与你的%3小组%1进行侦察，识别装甲车和防御工事。&lt;br/&gt;3. 指定目标(按0-8-1)并传送火炮射击坐标(按0-8-2)。炮击后，我们将开始进攻。你也可以使用你的无线电（按0-8-3）来亲自发出进攻信号。&lt;br/&gt;4. 守住%4奥里诺%1，无论付出什么代价。</Chinesesimp>
+            <Chinesesimp>1. 找到%2斯巴达人%1。&lt;br/&gt;2. 与你的%3小组%1进行侦察，识别装甲车和防御工事。&lt;br/&gt;3. 指定目标（按0-8-1）并传送火炮射击坐标（按0-8-2）。炮击后，我们将开始进攻。你也可以使用你的无线电（按0-8-3）来亲自发出进攻信号。&lt;br/&gt;4. 守住%4奥里诺%1，无论付出什么代价。</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_c01m01_diary_attachments_description">
             <Original>Images of rebel forces&lt;br/&gt;&lt;img image='Images\Photo_A.paa' width='400' height='200'/&gt;&lt;img image='Images\Photo_B.paa' width='400' height='200'/&gt;</Original>
@@ -5550,7 +5550,7 @@
           <Key ID="str_a3_to_marker_pointcharleston">
             <Original>Point Charleston</Original>
             <Chinese>Charlie斯頓點</Chinese>
-            <Chinesesimp>Charlie 斯顿点</Chinesesimp>
+            <Chinesesimp>查尔斯顿点</Chinesesimp>
           </Key>
           <Key ID="str_a3_to_marker_pointborah">
             <Original>Point Borah</Original>
@@ -6204,7 +6204,7 @@
             <Key ID="str_a3_to_c02_m01_013_ta_inf_reinforcements_cleared_a_guardian_1">
               <Original>The fuel depot at Point Charlston's next. Lock it down. Out.</Original>
               <Chinese>下個目標是Charlie斯頓點的燃料儲藏庫。封鎖那區。結束通話。</Chinese>
-              <Chinesesimp>下一个目标是 Charlie 斯顿点的燃料仓库。夺取它。完毕。</Chinesesimp>
+              <Chinesesimp>下一个目标是查尔斯顿点的燃料仓库。夺取它。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="012_ta_inf_friendlies_arrived" audioFilePath="\a3\dubbing_f_tacops\to_c02_m01" dialogName="012_ta_inf_friendlies_arrived" dubbingLanguage="english" namePrefix="to_c02_m01_012_ta_inf_friendlies_arrived" note="" participants="TO_AlphaSpeaker;TO_foxtrot;" situation="player greets friendly reinforcements.">

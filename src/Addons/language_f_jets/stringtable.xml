@@ -25,7 +25,7 @@
       <Key ID="str_a3_hint_sensortypes_desc">
         <Original>Vehicle sensor suites often consist of several individual sensor types. Each sensor has different properties and indicators on the Sensor Display.%1%2Infrared (red) - detects heated targets.%1%2Visual (yellow) - detects any visible target, becomes less effective in the dark.%1%2Active Radar (cyan) - detects any target beyond visual range. Can be switched on/off.%1%2Passive Radar (green) - detects activated Radars at max. twice their own range.</Original>
         <Chinese>載具的傳感器通常會有多種類型來互相搭配。每個傳感器會以不同的符號顯示在傳感器畫面上。%1%2紅外線(紅色)-偵測發出熱源的目標。%1%2視覺(黃色)-用肉眼找到的目標會被標記成黃色，但此項能力會在夜間時降低。%1%2主動雷達(青綠色)-偵測超出視野距離的目標。雷達可以開啟或關閉。%1%2被動雷達(綠色)-可以偵測到兩倍搜索距離外已開啟雷達的目標。</Chinese>
-        <Chinesesimp>载具的传感器通常会有多种类型来互相搭配。每个传感器会以不同的符号显示在传感器画面上。%1%2红外(红色)-侦测发出热源的目标。%1%2视觉(黄色)-用肉眼找到的目标会被标记成黄色，但此项能力会在夜间时降低。%1%2主动雷达(青绿色)-侦测超出视野距离的目标。雷达可以开启或关闭。%1%2被动雷达（绿色）-可以侦测到两倍搜索距离外已开启雷达的目标。</Chinesesimp>
+        <Chinesesimp>载具的传感器通常会有多种类型来互相搭配。每个传感器会以不同的符号显示在传感器画面上。%1%2红外（红色）-侦测发出热源的目标。%1%2视觉（黄色）-用肉眼找到的目标会被标记成黄色，但此项能力会在夜间时降低。%1%2主动雷达（青绿色）-侦测超出视野距离的目标。雷达可以开启或关闭。%1%2被动雷达（绿色）-可以侦测到两倍搜索距离外已开启雷达的目标。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_sensors_title">
         <Original>Sensor Overhaul</Original>
@@ -50,7 +50,7 @@
       <Key ID="str_a3_hint_sensordisplay_desc">
         <Original>Sensor Display (SENS) shows synthesized target and threat information from all the vehicle's sensors from a top-down perspective.%1%2Dashed sectors indicate sensor ranges, flashing sectors indicate threats%1%2%11 Air%1%2%12 Ground%1%2%13 Footmobile%1%2%14 Friendly (same-side)%1%2%15 Ambiguous%1%2%16 Confirmed hostile%1%2%17 Incoming missile%1%2%18 Marked target%1%2%19 Assigned target%1%2%20 Threat sector %1%2%21 %22 Laser and IR strobe %1%2%23 Target with an active Radar </Original>
         <Chinese>傳感器畫面會顯示出戰場的俯視圖，並透過你載具所有的傳感器捕捉到敵人的資訊並顯示在上面。%1%2虛線的區域代表你傳感器的搜索範圍，閃爍的區域代表著有威脅%1%2%11空中單位%1%2%12地面單位%1%2%13步兵%1%2%14友軍(同陣營)%1%2%15不明單位%1%2%16已確認的敵軍%1%2%17來襲的飛彈%1%2%18已標記的目標%1%2%19已指定的目標%1%2%20危險區域%1%2%21%22雷射與紅外線頻閃器%1%2%23已開起雷達的目標</Chinese>
-        <Chinesesimp>传感器显示(SENS)会显示出战场的俯视图，并通过载具所有的传感器捕捉到敌人的信息并显示在上面。%1%2虚线的区域代表你传感器的搜索范围，闪烁的区域代表着有威胁%1%2%11空中单位%1%2%12地面单位%1%2%13步兵%1%2%14友军（同阵营）%1%2%15不明单位%1%2%16已确认的敌军%1%2%17来袭的导弹%1%2%18已标记的目标%1%2%19已指定的目标%1%2%20危险区域%1%2%21%22激光与红外线频闪器%1%2%23已开启雷达的目标</Chinesesimp>
+        <Chinesesimp>传感器显示（SENS）会显示出战场的俯视图，并通过载具所有的传感器捕捉到敌人的信息并显示在上面。%1%2虚线的区域代表你传感器的搜索范围，闪烁的区域代表着有威胁%1%2%11空中单位%1%2%12地面单位%1%2%13步兵%1%2%14友军（同阵营）%1%2%15不明单位%1%2%16已确认的敌军%1%2%17来袭的导弹%1%2%18已标记的目标%1%2%19已指定的目标%1%2%20危险区域%1%2%21%22激光与红外线频闪器%1%2%23已开启雷达的目标</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_panels_title">
         <Original>Left and Right Panels</Original>
@@ -155,7 +155,7 @@
       <Key ID="str_a3_hint_bombs_desc">
         <Original>A bomb is an airdropped explosive munition. After releasing, it follows a ballistic path. Where the bomb will land, if released at the given moment, is shown by a continuously-computed impact point (CCIP) in your HUD - a small crosshair or circle with a dot.%1%1Guided bombs can make corrections to this path to achieve better precision or to strike a moving target. At certain altitude a laser guided bomb (LGB) will automatically home in on the nearest laser spot (marked by your own targeting camera or friendly JTAC).%1 1. Press %11 to mark a lased spot.%1 2. Maneuver to bring the CCIP and marked laser together.%1 3. Release the bomb once the icons overlap or are reasonably close together.</Original>
         <Chinese>投擲炸彈前，您的HUD會顯示連續計算彈著點(CCIP)--一個小型的十字準心或一圓圈顯示當前炸彈的預期落點。當炸彈投出後便隨著拋物線下落直到顯示的落點上。%1%1導引型炸彈可以調整彈道路線，提升精準度、或是攻擊移動中的目標。到達適當高度後，雷射導引炸彈(LGB)會自動瞄準最近雷射標定地點，雷射標定可以由您的瞄準吊艙、或是友方的聯合終端攻擊管制員(JTAC)完成。%1 1. 按下%11來雷射標定一個地點。%1 2. 移動飛機使CCIP的十準心和標定點重疊。%1 3. 待兩者重疊、或足夠接近時投出炸彈。</Chinese>
-        <Chinesesimp>投掷炸弹前，您的 HUD 会显示连续计算弹着点(CCIP)——一个小型的十字准心或一圆圈显示当前炸弹的预期落点。当炸弹投出后便随着抛物线下落直到显示的落点上。%1%1制导型炸弹可以调整弹道路线，提升精准度、或是攻击移动中的目标。到达适当高度后，激光制导炸弹(LGB)会自动瞄准最近激光标定地点，激光标定可以由您的瞄准吊舱、或是友方的联合终端攻击管制员（JTAC）完成。%1 1. 按下%11来激光标记一个地点。%1 2. 移动飞机使 CCIP 的十准心和标记点重叠。%1 3. 待两者重叠、或足够接近时投出炸弹。</Chinesesimp>
+        <Chinesesimp>投掷炸弹前，您的 HUD 会显示连续计算弹着点（CCIP）——一个小型的十字准心或一圆圈显示当前炸弹的预期落点。当炸弹投出后便随着抛物线下落直到显示的落点上。%1%1制导型炸弹可以调整弹道路线，提升精准度、或是攻击移动中的目标。到达适当高度后，激光制导炸弹（LGB）会自动瞄准最近激光标定地点，激光标定可以由您的瞄准吊舱、或是友方的联合终端攻击管制员（JTAC）完成。%1 1. 按下%11来激光标记一个地点。%1 2. 移动飞机使 CCIP 的十准心和标记点重叠。%1 3. 待两者重叠、或足够接近时投出炸弹。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_airplanedamage_title">
         <Original>Extended Airplane Hitpoints</Original>
@@ -810,22 +810,22 @@
       <Key ID="STR_A3_Fighter_01_name">
         <Original>F/A-181 Black Wasp II</Original>
         <Chinese>F/A-181"黑蜂"2型戰鬥攻擊機</Chinese>
-        <Chinesesimp>F/A-181"黑蜂"2型战斗攻击机</Chinesesimp>
+        <Chinesesimp>F/A-181 "黑蜂二式"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Fighter_01_Stealth_name">
         <Original>F/A-181 Black Wasp II (Stealth)</Original>
         <Chinese>F/A-181"黑蜂"2型戰鬥攻擊機(匿蹤)</Chinese>
-        <Chinesesimp>F/A-181"黑蜂"2型战斗攻击机（隐身）</Chinesesimp>
+        <Chinesesimp>F/A-181 "黑蜂二式"（隐身）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Fighter_01_wreck_name">
         <Original>F/A-181 Black Wasp II wreck</Original>
         <Chinese>F/A-181"黑蜂"2型戰鬥攻擊機殘骸</Chinese>
-        <Chinesesimp>F/A-181"黑蜂"2型战斗攻击机残骸</Chinesesimp>
+        <Chinesesimp>F/A-181 "黑蜂二式"残骸</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Fighter_01_armory_description">
         <Original>The F/A-181 Black Wasp II is a fifth-generation, single-seat, twin-engine, all-weather tactical fighter aircraft. The aircraft was designed primarily as an air superiority fighter, but also has ground attack capabilities. This aircraft is fitted with required equipment for carrier operations. Additional external hardpoints allow this aircraft to carry a large variety of weapons configurations.</Original>
         <Chinese>F/A-181"黑蜂"2型戰鬥攻擊機是一臺第五代，單座，雙引擎，全天候的一臺戰術戰鬥攻擊機。此臺飛機主要設計方向為空優戰機，但同時也擁有對地打擊的能力。此臺飛機能夠搭載於航空母艦上。機翼上額外的武器掛點使其能有更多不同的武器配置。</Chinese>
-        <Chinesesimp>F/A-181"黑蜂"2型战斗攻击机是一种第五代单座双引发全天候战术战斗攻击机。此台飞机主要设计方向为空优战机，但同时也拥有对地打击的能力。此台飞机能够搭载于航空母舰上。机翼上额外的武器挂架使其能有更多不同的武器配置。</Chinesesimp>
+        <Chinesesimp>F/A-181 "黑蜂二式"是一种第五代单座双引发全天候战术战斗攻击机。此台飞机主要设计方向为空优战机，但同时也拥有对地打击的能力。此台飞机能够搭载于航空母舰上。机翼上额外的武器挂架使其能有更多不同的武器配置。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Fighter_01_pilot_displayName">
         <Original>Pilot</Original>
@@ -837,17 +837,17 @@
       <Key ID="STR_A3_Fighter_02_name">
         <Original>To-201 Shikra</Original>
         <Chinese>To-201"褐耳鷹"戰鬥機</Chinese>
-        <Chinesesimp>To-201"褐耳鹰"战斗攻击机</Chinesesimp>
+        <Chinesesimp>To-201 "褐耳鹰"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Fighter_02_Stealth_name">
         <Original>To-201 Shikra (Stealth)</Original>
         <Chinese>To-201"褐耳鷹"戰鬥機(匿蹤)</Chinese>
-        <Chinesesimp>To-201"褐耳鹰"战斗攻击机（隐身）</Chinesesimp>
+        <Chinesesimp>To-201 "褐耳鹰"（隐身）</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Fighter_02_wreck_name">
         <Original>To-201 Shikra wreck</Original>
         <Chinese>To-201"褐耳鷹"戰鬥機殘骸</Chinese>
-        <Chinesesimp>To-201"褐耳鹰"战斗攻击机残骸</Chinesesimp>
+        <Chinesesimp>To-201 "褐耳鹰"残骸</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Fighter_02_armory_description">
         <Original>The To-201 Shikra is a fifth-generation, single-seat, twin-engine, all-weather tactical fighter aircraft. The aircraft was designed by CSAT and Russian joint syndicate. Primarily it is designed to operate as an air superiority fighter, but also has ground attack capabilities. Additional external hardpoints allow this aircraft to carry large variety of weapons configurations. </Original>
@@ -864,17 +864,17 @@
       <Key ID="STR_A3_Fighter_04_name">
         <Original>A-149 Gryphon</Original>
         <Chinese>A-149"獅鷲"戰鬥機</Chinese>
-        <Chinesesimp>A-149"狮鹫"战斗攻击机</Chinesesimp>
+        <Chinesesimp>A-149 "狮鹫"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Fighter_04_wreck_name">
         <Original>A-149 Gryphon wreck</Original>
         <Chinese>A-149"獅鷲"戰鬥機殘骸</Chinese>
-        <Chinesesimp>A-149"狮鹫"战斗攻击机残骸</Chinesesimp>
+        <Chinesesimp>A-149 "狮鹫"残骸</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Fighter_04_armory_description">
         <Original>The A-149 Gryphon is a fourth-generation, single-seat, single-engine, and all-weather tactical fighter aircraft. The aircraft was designed as a multirole platform at affordable costs. This aircraft, despite its aging platform, has still been upgraded with the newest sensors and weapons systems.</Original>
         <Chinese>A-149"獅鷲"戰鬥機是一臺第四代，單座，單引擎，全天候的一臺戰術戰鬥機。該機的主要設計目標為便宜的多功能戰機。雖然這款飛機的平臺較為老舊，但他仍配備著新式的傳感器與武器系統。</Chinese>
-        <Chinesesimp>A-149"狮鹫"战斗攻击机是一种第四代单座单引发全天候战术战斗攻击机。该机的设计定位为廉价的多功能战机。虽然这款飞机的平台较为老旧，但它仍配备着新式的传感器与武器系统。</Chinesesimp>
+        <Chinesesimp>A-149 "狮鹫"是一种第四代单座单引发全天候战术战斗攻击机。该机的设计定位为廉价的多功能战机。虽然这款飞机的平台较为老旧，但它仍配备着新式的传感器与武器系统。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Fighter_04_pilot_displayName">
         <Original>Pilot</Original>
@@ -1132,7 +1132,7 @@
       <Key ID="STR_A3_CfgMods_Jets2">
         <Original>Fly the brand-new F/A-181 Black Wasp II, To-201 Shikra, A-149 Gryphon fighter aircraft, and master Air-to-Air combat. Learn to fly fast and agile air superiority fighters to dominate the skies over the battlefield and provide air support in the Arma 3 Jets DLC.</Original>
         <Chinese>來試飛全新的F/A-181"黑蜂"2型戰鬥攻擊機，To-201"褐耳鷹"戰鬥機，A-149"獅鷲"戰鬥機等戰鬥機，體驗全新的空中戰鬥系統。透過武裝突襲3戰機資料片，你將學習如何駕馭這些快速且靈敏的飛機，進而讓你稱霸空中並提供地面部隊強大的支援。</Chinese>
-        <Chinesesimp>来试飞全新的F/A-181"黑蜂"2型战斗攻击机，To-201"褐耳鹰"战斗攻击机，A-149"狮鹫"战斗攻击机等战斗机，体验全新的空中战斗系统。通过武装突袭3战机 DLC，你将学习如何驾驭这些快速且灵敏的飞机，进而让你称霸空中并提供地面部队强大的支援。</Chinesesimp>
+        <Chinesesimp>来试飞全新的F/A-181 "黑蜂二式"，To-201 "褐耳鹰"，A-149 "狮鹫"战斗攻击机等战斗机，体验全新的空中战斗系统。通过武装突袭3战机 DLC，你将学习如何驾驭这些快速且灵敏的飞机，进而让你称霸空中并提供地面部队强大的支援。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMods_Jets3">
         <Original>Arma 3 Jets</Original>

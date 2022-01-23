@@ -81,8 +81,8 @@
           </Key>
           <Key ID="str_a3_tanks_m02_signal">
             <Original>Ares - Your vehicle.&lt;br /&gt;Pantheon - HQ.&lt;br /&gt;Hades - %2Kuma MBT%1.&lt;br /&gt;Athena - 2 x %3AWC Nyx%1.&lt;br /&gt;Apollo - %4Infantry squad%1.</Original>
-            <Chinese>"阿瑞斯"-你的坐車。&lt;br/&gt;"萬神殿"-指揮部。&lt;br/&gt;"哈迪斯"-%2"庫瑪"主戰坦克%1。&lt;br/&gt;"雅典娜"-2輛%3AWC"夜神"%1。&lt;br/&gt;"阿波羅"-%4步兵班%1。</Chinese>
-            <Chinesesimp>"阿瑞斯"-你的座车。&lt;br/&gt;"万神殿"-指挥部。&lt;br/&gt;"哈迪斯"-%2"库玛"主战坦克%1。&lt;br/&gt;"雅典娜"-2辆%3AWC"夜神"%1。&lt;br/&gt;"阿波罗"-%4步兵班%1。</Chinesesimp>
+            <Chinese>"阿瑞斯"-你的坐車。&lt;br/&gt;"萬神殿"-指揮部。&lt;br/&gt;"哈迪斯"-%2"庫瑪"主戰坦克%1。&lt;br/&gt;"雅典娜"-2輛%3AWC "夜神"%1。&lt;br/&gt;"阿波羅"-%4步兵班%1。</Chinese>
+            <Chinesesimp>"阿瑞斯"-你的座车。&lt;br/&gt;"万神殿"-指挥部。&lt;br/&gt;"哈迪斯"-%2"库玛"主战坦克%1。&lt;br/&gt;"雅典娜"-2辆%3AWC "夜神"%1。&lt;br/&gt;"阿波罗"-%4步兵班%1。</Chinesesimp>
           </Key>
           <Key ID="str_a3_tanks_m02_overviewtext">
             <Original>As NATO forces advance on Pyrgos, the 1st Mechanized Regiment responds with a daring counter-offensive.</Original>
@@ -741,8 +741,8 @@
           </Key>
           <Key ID="str_a3_tanks_m03_signal">
             <Original>Ares - Your vehicle&lt;br /&gt;Pantheon - HQ&lt;br /&gt;Apollo, Zeus, Demeter - infantry squads&lt;br /&gt;Artemis - mechanized squad&lt;br /&gt;Hera - T-140 Angara MBT</Original>
-            <Chinese>"阿瑞斯"-你的車輛&lt;br/&gt;"萬神殿"-指揮部&lt;br/&gt;"阿波羅"，"宙斯"，"德墨忒爾"-步兵班&lt;br/&gt;"阿爾忒彌斯"-機械化班&lt;br/&gt;"赫拉"-T-140"安加拉"主戰坦克</Chinese>
-            <Chinesesimp>"阿瑞斯"-你的车辆&lt;br/&gt;"万神殿"-指挥部&lt;br/&gt;"阿波罗"，"宙斯"，"德墨忒尔"-步兵班&lt;br/&gt;"阿尔忒弥斯"-机械化班&lt;br/&gt;"赫拉"-T-140"安加拉"主战坦克</Chinesesimp>
+            <Chinese>"阿瑞斯"-你的車輛&lt;br/&gt;"萬神殿"-指揮部&lt;br/&gt;"阿波羅"，"宙斯"，"德墨忒爾"-步兵班&lt;br/&gt;"阿爾忒彌斯"-機械化班&lt;br/&gt;"赫拉"-T-140 "安加拉"主戰坦克</Chinese>
+            <Chinesesimp>"阿瑞斯"-你的车辆&lt;br/&gt;"万神殿"-指挥部&lt;br/&gt;"阿波罗"，"宙斯"，"德墨忒尔"-步兵班&lt;br/&gt;"阿尔忒弥斯"-机械化班&lt;br/&gt;"赫拉"-T-140 "安加拉"主战坦克</Chinesesimp>
           </Key>
           <Key ID="str_a3_tanks_m03_overviewtext">
             <Original>Hours before an expected ceasefire, the AAF make a stand against overwhelming odds.</Original>
@@ -1643,8 +1643,8 @@
           </Key>
           <Key ID="str_a3_tanks_m01_taskwieseldesc">
             <Original>Get in your %2AWC Nyx%1.</Original>
-            <Chinese>進入你的%2AWC"夜神"%1。</Chinese>
-            <Chinesesimp>进入你的%2AWC"夜神"%1。</Chinesesimp>
+            <Chinese>進入你的%2AWC "夜神"%1。</Chinese>
+            <Chinesesimp>进入你的%2AWC "夜神"%1。</Chinesesimp>
           </Key>
           <Key ID="str_a3_tanks_m01_taskvillagetitle">
             <Original>Clear the Village</Original>
@@ -1798,8 +1798,8 @@
           </Key>
           <Key ID="str_a3_tanks_m01_execution">
             <Original>1. Take the toolkit from the %2armory%1. &lt;br /&gt;2. Get in your %3AWC Nyx%1. &lt;br /&gt;3. Move to %4CP Sigma%1 and report in. &lt;br /&gt;4. Deliver the carburetor to %5OP Omega%1.</Original>
-            <Chinese>1. 從%2武器庫%1中拿取工具箱。&lt;br/&gt;2. 登上你的%3AWC"夜神"%1。&lt;br/&gt;3. 前往%4西格瑪檢查站%1報到。&lt;br/&gt;4. 把化油器送往%5歐米茄觀察哨%1。</Chinese>
-            <Chinesesimp>1. 从%2武器库%1中拿取工具箱。&lt;br/&gt;2. 登上你的%3AWC"夜神"%1。&lt;br/&gt;3. 前往%4西格玛检查站%1报到。&lt;br/&gt;4. 把化油器送往%5欧米茄观察哨%1。</Chinesesimp>
+            <Chinese>1. 從%2武器庫%1中拿取工具箱。&lt;br/&gt;2. 登上你的%3AWC "夜神"%1。&lt;br/&gt;3. 前往%4西格瑪檢查站%1報到。&lt;br/&gt;4. 把化油器送往%5歐米茄觀察哨%1。</Chinese>
+            <Chinesesimp>1. 从%2武器库%1中拿取工具箱。&lt;br/&gt;2. 登上你的%3AWC "夜神"%1。&lt;br/&gt;3. 前往%4西格玛检查站%1报到。&lt;br/&gt;4. 把化油器送往%5欧米茄观察哨%1。</Chinesesimp>
           </Key>
           <Key ID="str_a3_tanks_m01_diary">
             <Original>That pebble you gave me, on the beach near Edessa. &lt;br /&gt;&lt;br /&gt;You swore it could teach me everything worth learning in life. You said it was a perfect creature. Equal to itself, mindful of its limits. &lt;br /&gt;&lt;br /&gt;I remember you shrugging your shoulders, walking on, as I made a move to throw it back into the sea. Now I think I understand. Or at least, in part. &lt;br /&gt;&lt;br /&gt;The world will not change me.&lt;br /&gt;&lt;br /&gt;And things here? They demand a cold, resilient eye. Someone must bear witness. The violence, it's born of frustration. Our forces scour the forests and mountains, finding nothing. We are like an army, marching out against the wind - a great colossus, punching air. &lt;br /&gt;&lt;br /&gt;I don't see a war, not really. I see acts of madness. Meaningless dead, young martyrs; black with blood and white with lime, rolled on boot heels into early graves. Our enemy have a cause, while we have only orders. It seems in a clenched fist, your pebble's warmth is false. And I am glad. &lt;br /&gt;&lt;br /&gt;K.</Original>

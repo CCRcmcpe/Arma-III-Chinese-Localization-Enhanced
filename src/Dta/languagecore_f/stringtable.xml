@@ -6115,12 +6115,12 @@
         <Key ID="STR_A3_RscRespawnControls_LoadoutDisabled">
           <Original>&lt;t align='center' color='#a3ffffff'&gt;&lt;img image='#(argb,8,8,3)color(0,0,0,0)' size='0.8' /&gt;&lt;br /&gt;Loadout unspecified and will be chosen automatically.&lt;/t&gt;</Original>
           <Chinese>&lt;talign='center'color='#a3ffffff'&gt;&lt;imgimage='#(argb，8，8，3)color(0，0，0，0)'size='0.8'/&gt;&lt;br/&gt;裝備內容未知，系統將會自動分配裝備。&lt;/t&gt;</Chinese>
-          <Chinesesimp>&lt;talign='center'color='#a3ffffff'&gt;&lt;imgimage='#(argb，8，8，3)color（0，0，0，0）'size='0.8'/&gt;&lt;br/&gt;装备内容未知，系统将会自动分配装备。&lt;/t&gt;</Chinesesimp>
+          <Chinesesimp>&lt;talign='center'color='#a3ffffff'&gt;&lt;imgimage='#（argb，8，8，3）color（0，0，0，0）'size='0.8'/&gt;&lt;br/&gt;装备内容未知，系统将会自动分配装备。&lt;/t&gt;</Chinesesimp>
         </Key>
         <Key ID="STR_A3_RscRespawnControls_RoleDisabled">
           <Original>&lt;t align='center' color='#a3ffffff'&gt;&lt;img image='#(argb,8,8,3)color(0,0,0,0)' size='0.8' /&gt;&lt;br /&gt;Role unspecified and will be chosen automatically.&lt;/t&gt;</Original>
           <Chinese>&lt;talign='center'color='#a3ffffff'&gt;&lt;imgimage='#(argb，8，8，3)color(0，0，0，0)'size='0.8'/&gt;&lt;br/&gt;擔當角色未知，系統將會自動分配職位。&lt;/t&gt;</Chinese>
-          <Chinesesimp>&lt;talign='center'color='#a3ffffff'&gt;&lt;imgimage='#(argb，8，8，3)color（0，0，0，0）'size='0.8'/&gt;&lt;br/&gt;担当角色未知，系统将会自动分配职位。&lt;/t&gt;</Chinesesimp>
+          <Chinesesimp>&lt;talign='center'color='#a3ffffff'&gt;&lt;imgimage='#（argb，8，8，3）color（0，0，0，0）'size='0.8'/&gt;&lt;br/&gt;担当角色未知，系统将会自动分配职位。&lt;/t&gt;</Chinesesimp>
         </Key>
         <Key ID="STR_A3_RscRespawnControls_AutorespawnDisabled">
           <Original>Autorespawn disabled</Original>
@@ -6130,7 +6130,7 @@
         <Key ID="STR_A3_RscRespawnControls_LocDisabled">
           <Original>&lt;t align='center' color='#a3ffffff'&gt;&lt;img image='#(argb,8,8,3)color(0,0,0,0)' size='0.8' /&gt;&lt;br /&gt;Location will be chosen according to mission settings.&lt;/t&gt;</Original>
           <Chinese>&lt;talign='center'color='#a3ffffff'&gt;&lt;imgimage='#(argb，8，8，3)color(0，0，0，0)'size='0.8'/&gt;&lt;br/&gt;重生位置將會根據任務設定來選擇。&lt;/t&gt;</Chinese>
-          <Chinesesimp>&lt;talign='center'color='#a3ffffff'&gt;&lt;imgimage='#(argb，8，8，3)color（0，0，0，0）'size='0.8'/&gt;&lt;br/&gt;重生位置将会根据任务设定来选择。&lt;/t&gt;</Chinesesimp>
+          <Chinesesimp>&lt;talign='center'color='#a3ffffff'&gt;&lt;imgimage='#（argb，8，8，3）color（0，0，0，0）'size='0.8'/&gt;&lt;br/&gt;重生位置将会根据任务设定来选择。&lt;/t&gt;</Chinesesimp>
         </Key>
         <Key ID="STR_A3_RscRespawnControls_AutorespawnEnabled">
           <Original>Autorespawn enabled</Original>
@@ -10849,7 +10849,7 @@
         <Key ID="str_controls_tooltips_GUN_ELEV_AUTO">
           <Original>Measure target distance and speed. Adjust zeroing (if avail.). Adjust lead on target (if avail.).</Original>
           <Chinese>測量目標的距離與速度。自動調整歸零距離(如果有這功能的話)。自動調整準心至目標的前置量位置上(如果有這功能的話)。</Chinese>
-          <Chinesesimp>测量目标的距离与速度。自动调整归零距离(如果有这功能的话)。自动调整准心至目标的前置量位置上（如果有这功能的话）。</Chinesesimp>
+          <Chinesesimp>测量目标的距离与速度。自动调整归零距离（如果有这功能的话）。自动调整准心至目标的前置量位置上（如果有这功能的话）。</Chinesesimp>
         </Key>
         <Key ID="STR_CONTROLS_TOOLTIPS_CYCLE_WEAPON1">
           <Original>Cycles weapons and firing modes for Group 1</Original>
@@ -11384,7 +11384,7 @@
         <Key ID="str_controls_tooltips_LOCK_TURRET_VIEW">
           <Original>Lock the turret on an area or point object to the center of view</Original>
           <Chinese>鎖定目標瞄準鏡頭在指定的區域上(區域追蹤)或是目標身上(點追蹤)</Chinese>
-          <Chinesesimp>锁定目标瞄准镜头在指定的区域上(区域追踪)或是目标身上（点追踪）</Chinesesimp>
+          <Chinesesimp>锁定目标瞄准镜头在指定的区域上（区域追踪）或是目标身上（点追踪）</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_NAVIGATE_MENU">
           <Original>Toggles and navigates through the Command Menu</Original>
@@ -21470,7 +21470,7 @@
         <Key ID="str_usract_accelerate">
           <Original>Dive (Air)/Forward (Land)</Original>
           <Chinese>俯衝(空中)/前進(地面)</Chinese>
-          <Chinesesimp>俯冲(空中)/前进（地面）</Chinesesimp>
+          <Chinesesimp>俯冲（空中）/前进（地面）</Chinesesimp>
         </Key>
         <Key ID="str_ds_player_connecting">
           <Original>Player %s connecting.</Original>
@@ -28021,7 +28021,7 @@
           <Key ID="str_controls_mouse_no_object">
             <Original>Objects:\nLMB (dbl click):\n  new object\nLMB (drag):\n  select multiple\n</Original>
             <Chinese>物件:\n滑鼠左鍵(雙擊):\n新物件\n滑鼠左鍵(拖曳):\n選擇多名物件\n</Chinese>
-            <Chinesesimp>物件：\n鼠标左键(双击)：\n新物件\n鼠标左键（拖曳）：\n选择多名物件\n</Chinesesimp>
+            <Chinesesimp>物件：\n鼠标左键（双击）：\n新物件\n鼠标左键（拖曳）：\n选择多名物件\n</Chinesesimp>
           </Key>
           <Key ID="str_editor_menu_ctx_center_map">
             <Original>Center in map</Original>
@@ -28031,7 +28031,7 @@
           <Key ID="str_controls_mouse_selected_3d">
             <Original>Selected:\nRMB (shift+drag):\n  rotate selected\nRMB (alt+drag):\n  raise/lower selected\n</Original>
             <Chinese>選擇:\n滑鼠右鍵(shift+拖曳):\n旋轉物件\n滑鼠右鍵(alt+拖曳):\n升高/降低物件\n</Chinese>
-            <Chinesesimp>选择：\n鼠标右键(shift+拖曳)：\n旋转物件\n鼠标右键（alt+拖曳）：\n升高/降低物件\n</Chinesesimp>
+            <Chinesesimp>选择：\n鼠标右键（shift+拖曳）：\n旋转物件\n鼠标右键（alt+拖曳）：\n升高/降低物件\n</Chinesesimp>
           </Key>
           <Key ID="str_controls_mouse_selected_map">
             <Original>Selected:\nRMB (shift+drag):\n  rotate selected\n</Original>
@@ -28041,12 +28041,12 @@
           <Key ID="str_controls_mouse_selected_object_3d">
             <Original>Objects:\nLMB (dbl click):\n  edit object\nLMB (drag):\n  move object\n</Original>
             <Chinese>物件:\n滑鼠左鍵(雙擊):\n編輯物件\n滑鼠左鍵(拖曳):\n移動物件\n</Chinese>
-            <Chinesesimp>物件：\n鼠标左键(双击)：\n编辑物件\n鼠标左键（拖曳）：\n移动物件\n</Chinesesimp>
+            <Chinesesimp>物件：\n鼠标左键（双击）：\n编辑物件\n鼠标左键（拖曳）：\n移动物件\n</Chinesesimp>
           </Key>
           <Key ID="str_controls_mouse_selected_object_map">
             <Original>Objects:\nLMB (dbl click):\n  edit object\nLMB (drag):\n  move object\nLMB (shift+drag):\n  create link\n</Original>
             <Chinese>物件:\n滑鼠左鍵(雙擊):\n編輯物件\n滑鼠左鍵(拖曳):\n移動物件\n滑鼠左鍵(shift+拖曳):\n創造連接\n</Chinese>
-            <Chinesesimp>物件：\n鼠标左键(双击)：\n编辑物件\n鼠标左键(拖曳)：\n移动物件\n鼠标左键（shift+拖曳）：\n创造连接\n</Chinesesimp>
+            <Chinesesimp>物件：\n鼠标左键（双击）：\n编辑物件\n鼠标左键（拖曳）：\n移动物件\n鼠标左键（shift+拖曳）：\n创造连接\n</Chinesesimp>
           </Key>
           <Key ID="str_editor_prompt_save">
             <Original>Save current overlay?</Original>
@@ -28056,12 +28056,12 @@
           <Key ID="str_controls_mouse_unselected_object_3d">
             <Original>Objects:\nLMB:\n  select object\nLMB (dbl click):\n  edit object\nLMB (drag):\n  move object\n</Original>
             <Chinese>物件:\n滑鼠左鍵:\n選擇物件\n滑鼠左鍵(雙擊):\n編輯物件\n滑鼠左鍵(拖曳):\n移動物件\n</Chinese>
-            <Chinesesimp>物件：\n鼠标左键：\n选择物件\n鼠标左键(双击)：\n编辑物件\n鼠标左键（拖曳）：\n移动物件\n</Chinesesimp>
+            <Chinesesimp>物件：\n鼠标左键：\n选择物件\n鼠标左键（双击）：\n编辑物件\n鼠标左键（拖曳）：\n移动物件\n</Chinesesimp>
           </Key>
           <Key ID="str_controls_mouse_unselected_object_map">
             <Original>Objects:\nLMB:\n  select object\nLMB (dbl click):\n  edit object\nLMB (drag):\n  move object\nLMB (shift+drag):\n  create link\n</Original>
             <Chinese>物件:\n滑鼠左鍵:\n選擇物件\n滑鼠左鍵(雙擊):\n編輯物件\n滑鼠左鍵(拖曳):\n移動物件\n滑鼠左鍵(shift+拖曳):\n創造連接\n</Chinese>
-            <Chinesesimp>物件：\n鼠标左键：\n选择物件\n鼠标左键(双击)：\n编辑物件\n鼠标左键(拖曳)：\n移动物件\n鼠标左键（shift+拖曳）：\n创造连接\n</Chinesesimp>
+            <Chinesesimp>物件：\n鼠标左键：\n选择物件\n鼠标左键（双击）：\n编辑物件\n鼠标左键（拖曳）：\n移动物件\n鼠标左键（shift+拖曳）：\n创造连接\n</Chinesesimp>
           </Key>
           <Key ID="str_editor_prompt_overlay_saved">
             <Original>Overlay saved.</Original>

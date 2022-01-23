@@ -1026,7 +1026,7 @@
           <Key ID="str_a3_a_m05_marker_bis_sdv">
             <Original>Stashed SDV</Original>
             <Chinese>藏匿海豹運輸艇</Chinese>
-            <Chinesesimp>藏匿海豹运输艇</Chinesesimp>
+            <Chinesesimp>藏匿的 SDV</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m05_debriefing_a_hub01_1_description">
             <Original>You managed to clear the town and successfully neutralized a high-ranking enemy officer. Unfortunately, it was not our intended target, Goblin.&lt;br/&gt;&lt;br/&gt;While the loss of this commander won't go unnoticed among the AAF, it was not the decisive blow we were looking for. Instead, we may have just kicked the hornet's nest.</Original>
@@ -1036,7 +1036,7 @@
           <Key ID="str_a3_a_m05_briefing_situation_text">
             <Original>Recon reports indicate that the AAF will make a push south in the next few hours. It appears they're keen to lock down the area around %1Girna%2.%3Intel suggests that the highest-ranking officer on Stratis will himself be in the area. Neutralizing him will deal a serious blow to our enemy. Decapitating their command structure may even signal an end to this whole situation.%4We simply cannot let this opportunity pass us by.%5Now, we've come up with a plan of action. My team has a submersible stashed %6just off the west coast%7. That's why we asked for volunteers - those with diving experience.%8One of my men will use it to lead a small team and insert %9just north of Girna%10. Meanwhile, %11Bravo%12 will circle around and take up %13a position to the south%14. Once both teams are in place, we close the trap.</Original>
             <Chinese>偵察報告指出，阿爾蒂斯武裝力量將會在接下來的幾個小時向南推進。而且他們正封鎖%1吉爾納%2的四周。%3情報表明，該區將會出現敵軍在斯特拉蒂斯島上最高軍階的軍官。幹掉他將會帶給我們敵人一個重重的打擊。殺掉他們的指揮官可能還可以讓這整件事情結束也說不定。%4我們不能讓這機會流失。%5現在，我們制定出了一個計劃。我的小隊藏匿了一臺潛水艇在%6西海岸邊%7。這就是為什麼要徵求志願者-那些有潛水經驗的人。%8我的其中一個手下，上尉詹姆斯，將會帶領一小支隊伍潛入%9吉爾納的北方%10。同時，%11Bravo%12將會從%13南方的位置%14進行包圍。當兩隊都就定位的時候，我們就可以收網釣大魚了。</Chinese>
-            <Chinesesimp>侦察报告指出，AAF 将会在接下来的几个小时向南推进。而且他们正封锁%1格尔纳%2的四周。%3情报表明，该区将会出现敌军在斯特拉蒂斯岛上最高军衔的军官。干掉他将给敌人带来重大打击。杀掉他们的指挥官可能还能结束整个事件。%4我们不能错失良机。%5现在我们制定出了一个计划。我的小组在%6西海岸边%7藏匿了一台海豹运输艇。这就是为什么要征求志愿者—那些有潜水经验的人。%8我的其中一个手下詹姆斯上尉，将会带领一小支队伍潜入%9格尔纳的北方%10。同时，%11Bravo%12将会从%13南方的位置%14进行包围。当两队都就定位的时候，我们就可以收网钓大鱼了。</Chinesesimp>
+            <Chinesesimp>侦察报告指出，AAF 将会在接下来的几个小时向南推进。而且他们正封锁%1格尔纳%2的四周。%3情报表明，该区将会出现敌军在斯特拉蒂斯岛上最高军衔的军官。干掉他将给敌人带来重大打击。杀掉他们的指挥官可能还能结束整个事件。%4我们不能错失良机。%5现在我们制定出了一个计划。我的小组在%6西海岸边%7藏匿了一台 SDV。这就是为什么要征求志愿者—那些有潜水经验的人。%8我的其中一个手下詹姆斯上尉，将会带领一小支队伍潜入%9格尔纳的北方%10。同时，%11Bravo%12将会从%13南方的位置%14进行包围。当两队都就定位的时候，我们就可以收网钓大鱼了。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m05_briefing_signal_text">
             <Original>%1Swordfish%2 - Your squad.%3%4Bravo%5 - Supporting element.%6%7Falcon%8 - Camp Maxwell HQ.%9Charlie - Camp Maxwell defense.</Original>
@@ -1051,7 +1051,7 @@
           <Key ID="str_a3_a_m05_briefing_execution_text">
             <Original>1. Use %1the SDV%2 to insert at %3the bay%4.&lt;br/&gt;2. Move into %5position%6 above the town.&lt;br/&gt;3. Clear %7Girna%8 of all hostile forces.&lt;br/&gt;4. Neutralize and verify the HVT, codename: Goblin, located there.</Original>
             <Chinese>1. 使用%1海豹運輸艇%2滲透進%3海灣%4。&lt;br/&gt;2. 移動到小鎮北方的%5位置%6。&lt;br/&gt;3. 肅清%7吉爾納%8的敵軍部隊。&lt;br/&gt;4. 殲滅並確認高價值目標，其代號為:"哥布林"。</Chinese>
-            <Chinesesimp>1. 使用%1海豹运输艇%2渗透进%3海湾%4。&lt;br/&gt;2. 移动到小镇北方的%5位置%6。&lt;br/&gt;3. 肃清%7格尔纳%8的敌军部队。&lt;br/&gt;4. 歼灭并确认高价值目标，其代号为："哥布林"。</Chinesesimp>
+            <Chinesesimp>1. 使用%1SDV%2渗透进%3海湾%4。&lt;br/&gt;2. 移动到小镇北方的%5位置%6。&lt;br/&gt;3. 肃清%7格尔纳%8的敌军部队。&lt;br/&gt;4. 歼灭并确认高价值目标，其代号为："哥布林"。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m05_bis_truck_title">
             <Original>Get in the Truck</Original>
@@ -1106,7 +1106,7 @@
           <Key ID="str_a3_a_m05_bis_insert_desc">
             <Original>Using %1the SDV%2, insert with your team on %3the beach%4 north of %5Girna%6.</Original>
             <Chinese>使用%1海豹運輸艇%2，來讓你的小隊滲透到%5吉爾納%6北方的%3海灘%4。</Chinese>
-            <Chinesesimp>使用%1海豹运输艇%2将你的小组渗透到%5格尔纳%6北方的%3海滩%4。</Chinesesimp>
+            <Chinesesimp>使用%1SDV%2将你的小组渗透到%5格尔纳%6北方的%3海滩%4。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m05_bis_identify_title">
             <Original>Confirm the Kill</Original>
@@ -1152,7 +1152,7 @@
             <Key ID="str_a3_a_m05_x01_no_truck_del_2">
               <Original>Falcon, the others are moving out on foot. I'm going to double back for the SDV.</Original>
               <Chinese>"獵鷹"，其他人會用走的回去。我則要回去開海豹運輸艇了。</Chinese>
-              <Chinesesimp>"猎鹰"，其他人会用走的回去。我则赶回去开海豹运输艇了。</Chinesesimp>
+              <Chinesesimp>"猎鹰"，其他人会用走的回去。我则赶回去开 SDV 了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_m05_x01_no_truck_del_3">
               <Original>Meet you back at Maxwell, over.</Original>
@@ -1169,7 +1169,7 @@
             <Key ID="str_a3_a_m05_95_truck_del_1">
               <Original>Falcon, be advised, the others are commandeering a truck. I'm going to double back for the SDV</Original>
               <Chinese>"獵鷹"，請注意，其他人徵收了一臺卡車。我則要回去開海豹運輸艇了。</Chinese>
-              <Chinesesimp>"猎鹰"，请注意，其他人征用了一台卡车。我则要回去开海豹运输艇了。</Chinesesimp>
+              <Chinesesimp>"猎鹰"，请注意，其他人征用了一台卡车。我则要回去开 SDV 了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_a_m05_95_truck_del_2">
               <Original>Meet you guys back at Maxwell, over.</Original>
@@ -2118,8 +2118,8 @@
           </Key>
           <Key ID="str_a3_a_m02_bis_uav_desc">
             <Original>Equip both the backpack and UAV terminal, and deploy the Darter.</Original>
-            <Chinese>裝備背包與無人載具終端機，然後部屬"短刀"。</Chinese>
-            <Chinesesimp>装备背包与无人机终端，然后部署"短刀"。</Chinesesimp>
+            <Chinese>裝備背包與無人載具終端機，然後部屬"飞镖"。</Chinese>
+            <Chinesesimp>装备背包与无人机终端，然后部署"飞镖"。</Chinesesimp>
           </Key>
           <Key ID="str_a3_a_m02_bis_spotters_title">
             <Original>Eliminate the Spotters</Original>
@@ -2208,8 +2208,8 @@
           <Container name="x10_UAV_Destroyed" audioFilePath="\a3\dubbing_f_epa\a_m02" dialogName="x10_UAV_Destroyed" dubbingLanguage="english" namePrefix="a_m02_x10_uav_destroyed" note="" participants="EPA B Player;" situation="player reports the darter going down">
             <Key ID="str_a3_a_m02_x10_uav_destroyed_ker_0">
               <Original>Crap... the Darter's down.</Original>
-              <Chinese>該死..."短刀"壞了。</Chinese>
-              <Chinesesimp>该死..."短刀"坏了。</Chinesesimp>
+              <Chinese>該死..."飞镖"壞了。</Chinese>
+              <Chinesesimp>该死..."飞镖"坏了。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x05_Doc_Dead" audioFilePath="\a3\dubbing_f_epa\a_m02" dialogName="x05_Doc_Dead" dubbingLanguage="english" namePrefix="a_m02_x05_doc_dead" note="" participants="EPA B Alpha Lead;" situation="player's co acknowledges the doc's death">
@@ -2316,8 +2316,8 @@
             </Key>
             <Key ID="str_a3_a_m02_75_spotters_bra_3">
               <Original>If you can get to it, you can use the Darter to locate the spotters!</Original>
-              <Chinese>假如你們可以拿到他的裝備，你們就可以使用"短刀"來尋找觀測手的位置!</Chinese>
-              <Chinesesimp>假如你们可以拿到他的装备，你们就可以使用"短刀"来寻找观察员的位置！</Chinesesimp>
+              <Chinese>假如你們可以拿到他的裝備，你們就可以使用"飞镖"來尋找觀測手的位置!</Chinese>
+              <Chinesesimp>假如你们可以拿到他的装备，你们就可以使用"飞镖"来寻找观察员的位置！</Chinesesimp>
             </Key>
           </Container>
           <Container name="70_Mortar_Splashed" audioFilePath="\a3\dubbing_f_epa\a_m02" dialogName="70_Mortar_Splashed" dubbingLanguage="english" namePrefix="a_m02_70_mortar_splashed" note="" participants="EPA B Player;" situation="mortars hit for the first time">
@@ -6989,8 +6989,8 @@ It is strongly recommended that you avoid these areas.</Original>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_epa_pard_list3">
           <Original>.45 ACP sidearm and Yorris optic</Original>
-          <Chinese>.45ACP手槍和"約里斯"瞄準鏡</Chinese>
-          <Chinesesimp>.45ACP 手枪和"约里斯"瞄准镜</Chinesesimp>
+          <Chinese>.45 ACP手槍和"約里斯"瞄準鏡</Chinese>
+          <Chinesesimp>.45 ACP 手枪和"约里斯"瞄准镜</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_epa_pard_list2_title">
           <Original>4-Five pistol</Original>

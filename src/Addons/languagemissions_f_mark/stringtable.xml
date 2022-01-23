@@ -129,22 +129,22 @@
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_situation_text2">
             <Original>At 1815 hours this evening, a WY-55 Hellcat belonging to the AAF was %1shot down%2 on return from counter-insurgency operations in the northwest. Only the crew were present in the helicopter when it went down, but now they're trapped by the FIA who are closing in on their position.%3The AAF have requested NATO's assistance. As such, %4Kilo 1 and 2%5, and %6Romeo 1 and 2%7, are being deployed to conduct search and rescue on the AAF crew.%8A recon team, callsign Foxtrot, are already on station %9above the crash site%10, awaiting your arrival. They will assist you with dispatching the helicopter and locating the crew.</Original>
             <Chinese>在傍晚18:15時分，一架屬於阿爾蒂斯武裝力量的WY-55"潑婦"，在任務結束回程的路上被%1擊落%2。當時機上只有機組員，他們現在被自由獨立同盟困在墜毀點。%3阿爾蒂斯武裝力量已請求北約進行協助。因為如此，%4"基洛 1"和2%5，還有%6"羅密歐"1"和"2"%7，將被派往執行阿爾蒂斯武裝力量機組員的搜救任務。%8一個呼號叫Foxtrot的偵察小隊已經抵達%9墜毀點附近%10，正等待你們的抵達。他們將協助你們搜索直升機並定位機組員位置。</Chinese>
-            <Chinesesimp>在傍晚18：15时分，一架属于 AAF 的 WY-55 "泼妇"直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被 FIA 困在坠毁点。%3AAF 已请求北约进行协助。因为如此，%4"基洛 1"和2%5，还有%6"罗密欧 1"和"2"%7，将被派往执行 AAF 机组员的搜救任务。%8一个呼号叫 Foxtrot 的侦察小队已经抵达%9坠毁点附近%10，正等待你们的抵达。他们将协助你们搜索直升机并定位机组员位置。</Chinesesimp>
+            <Chinesesimp>在傍晚18：15时分，一架属于 AAF 的 WY-55 "地狱猫"，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被 FIA 困在坠毁点。%3AAF 已请求北约进行协助。因为如此，%4"基洛 1"和2%5，还有%6"罗密欧 1"和"2"%7，将被派往执行 AAF 机组员的搜救任务。%8一个呼号叫 Foxtrot 的侦察小队已经抵达%9坠毁点附近%10，正等待你们的抵达。他们将协助你们搜索直升机并定位机组员位置。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_situation_text1">
             <Original>At 1815 hours this evening, a WY-55 Hellcat belonging to the AAF was %1shot down%2 on return from counter-insurgency operations in the northwest. Only the crew were present in the helicopter when it went down, but now they're trapped by the FIA who are closing in on their position.%3The AAF have requested NATO's assistance. As such, %4Kilo 1 and 2%5, and %6Romeo 1 and 2%7, are being deployed to conduct search and rescue on the AAF crew.</Original>
             <Chinese>在傍晚18:15時分，一架屬於阿爾蒂斯武裝力量的WY-55"潑婦"，在任務結束回程的路上被%1擊落%2。當時機上只有機組員，他們現在被自由獨立同盟困在墜毀點。%3阿爾蒂斯武裝力量已請求北約進行協助。因為如此，%4Kilo1"和2%5，還有%6"羅密歐"1"和"2"%7，將被派往執行阿爾蒂斯武裝力量機組員的搜救任務。</Chinese>
-            <Chinesesimp>在傍晚18：15时分，一架属于 AAF 的 WY-55 "泼妇"直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被 FIA 困在坠毁点。%3AAF 已请求北约进行协助。因为如此，%4"基洛 1"和2%5，还有%6"罗密欧 1"和"2"%7，将被派往执行 AAF 机组员的搜救任务。</Chinesesimp>
+            <Chinesesimp>在傍晚18：15时分，一架属于 AAF 的 WY-55 "地狱猫"，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被 FIA 困在坠毁点。%3AAF 已请求北约进行协助。因为如此，%4"基洛 1"和2%5，还有%6"罗密欧 1"和"2"%7，将被派往执行 AAF 机组员的搜救任务。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_signal_text2">
             <Original>%1Kilo 1%2 - Lead element.%3%4Kilo 2%5 - Your team.%6%7Romeo%8 - Transport MH-9 Hummingbirds.%9Broadway - Headquarters.%10%11Foxtrot%12 - Recon element.%13Archangel - Inbound Greyhawk UAV.</Original>
             <Chinese>%1"基洛 1"%2-指揮小隊。%3%4"基洛 2"%5-你的小隊。%6%7"羅密歐"%8-MH-9"蜂鳥"運輸直升機。%9"百老匯"-指揮部。%10%11Foxtrot%12-偵察小隊。%13"大天使"-準備支援的"灰鷹"無人偵察機。</Chinese>
-            <Chinesesimp>%1"基洛 1"%2-指挥分队%3%4"基洛 2"%5-你的小组。%6%7Romeo%8-MH-9"蜂鸟"运输直升机。%9"百老汇"-指挥部。%10%11Foxtrot%12-侦察分队。%13"大天使"-准备支援的"灰鹰"无人机。</Chinesesimp>
+            <Chinesesimp>%1"基洛 1"%2-指挥分队%3%4"基洛 2"%5-你的小组。%6%7Romeo%8-MH-9 "蜂鸟"运输直升机。%9"百老汇"-指挥部。%10%11Foxtrot%12-侦察分队。%13"大天使"-准备支援的"灰鹰"无人机。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_signal_text1">
             <Original>%1Kilo 1%2 - Lead element.%3%4Kilo 2%5 - Your team.%6%7Romeo%8 - Transport MH-9 Hummingbirds.%9Broadway - Headquarters.%10Archangel - Inbound Greyhawk UAV.</Original>
             <Chinese>%1"基洛 1"%2-指揮小隊。%3%4"基洛 2"%5-你的小隊。%6%7"羅密歐"%8-MH-9"蜂鳥"運輸直升機。%9"百老匯"-指揮部。%10"大天使"-準備支援的"灰鷹"無人偵察機。</Chinese>
-            <Chinesesimp>%1"基洛 1"%2-指挥分队%3%4"基洛 2"%5-你的小组。%6%7Romeo%8-MH-9"蜂鸟"运输直升机。%9"百老汇"-指挥部%10"大天使"-准备支援的"灰鹰"无人机。</Chinesesimp>
+            <Chinesesimp>%1"基洛 1"%2-指挥分队%3%4"基洛 2"%5-你的小组。%6%7Romeo%8-MH-9 "蜂鸟"运输直升机。%9"百老汇"-指挥部%10"大天使"-准备支援的"灰鹰"无人机。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_mission_text">
             <Original>%1Romeo 1%2 and %3Romeo 2%4 will transport you to %5the crash site%6, where upon you will conduct search and rescue for the downed AAF helicopter's crew. Upon their safe extraction, you are to destroy the wreckage of the helicopter to prevent it from falling into the hands of the FIA.</Original>
@@ -219,7 +219,7 @@
           <Key ID="str_a3_showcase_firingfromvehicles_bis_extract_desc">
             <Original>Await UH-80 Ghost Hawk extraction, callsign Thunder.</Original>
             <Chinese>等待UH-80"鬼鷹"運輸直升機進行撤離，它的呼號是"雷電"。</Chinese>
-            <Chinesesimp>等待 UH-80"幽灵鹰"运输直升机进行撤离，它的呼号是"雷电"。</Chinesesimp>
+            <Chinesesimp>等待 UH-80 "幽灵鹰" 进行撤离，它的呼号是"雷电"。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_bis_destroy_title">
             <Original>Destroy the Helicopter</Original>
@@ -360,7 +360,7 @@
             <Key ID="str_a3_showcase_firingfromvehicles_30_bug_out_bhq_1">
               <Original>Kilo, be advised, UH-80 Ghost Hawk extraction on standby. Callsign Thunder. How copy?</Original>
               <Chinese>Kilo，請注意，UH-80"鬼鷹"運輸直升機已準備進行撤離任務。它的呼號是"雷電"。有收到嗎?</Chinese>
-              <Chinesesimp>Kilo，请注意，UH-80"幽灵鹰"运输直升机已准备进行撤离任务。它的呼号是"雷电"。有收到吗？</Chinesesimp>
+              <Chinesesimp>Kilo，请注意，UH-80 "幽灵鹰" 已准备进行撤离任务。它的呼号是"雷电"。有收到吗？</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_30_bug_out_hel_0">
               <Original>Kilo 1, the town's swarming with hostiles. They're definitely concentrated around the 3 points Broadway mentioned.</Original>

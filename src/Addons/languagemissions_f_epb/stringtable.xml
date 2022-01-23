@@ -1035,7 +1035,7 @@
             <Key ID="str_a3_b_hub_207_poi_crashed_helicopter_02_gua_0">
               <Original>You know, even the mighty Kajman has its weak spot...</Original>
               <Chinese>你知道嗎，就算是強如"鰐魚"這樣的載具，也是有其弱點的...</Chinese>
-              <Chinesesimp>你知道吗，哪怕是无敌的"鳄鱼"也是有弱点的...</Chinesesimp>
+              <Chinesesimp>你知道吗，哪怕是无敌的"凯门鳄"也是有弱点的...</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_hub_207_poi_crashed_helicopter_02_gua_1">
               <Original>Exactly. Some lucky bastard managed to hit an engine with .50 cal.</Original>
@@ -7393,7 +7393,7 @@
         <Key ID="STR_A3_POI_Crashed_Heli_01_Task_name">
           <Original>Hellcat Down</Original>
           <Chinese>"潑婦"墜落</Chinese>
-          <Chinesesimp>"泼妇"坠落</Chinesesimp>
+          <Chinesesimp>"地狱猫"坠落</Chinesesimp>
         </Key>
         <Key ID="STR_A3_POI_Crashed_Heli_01_Task_desc">
           <Original>One of our sympathizers has managed to sabotage an AAF helicopter. The control tower lost the contact with it in a remote area, some five kilometers west of the airfield. Try to find the wreck and verify this intel.</Original>

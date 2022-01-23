@@ -309,7 +309,7 @@
           <Key ID="str_a3_orange_aan_text_cluster_0">
             <Original>"one of our doctors was out on the frontline with medical supplies, despite the fighting", recalls MacDade. "He lost his life. Killed trying to save others. [...] By all accounts, the town just seemed to explode. Buildings were burning for days. [...] We did what we could - but there were so many wounded, so many we'd never be able to identify".</Original>
             <Chinese>"我們的一名醫生當時正不顧炮火帶著醫療補給在前線活動"，麥克達德回憶道，"他失去了生命。為救別人而死。(...)據大家說，鎮子就好像整個炸飛了。建築物燒了幾天，(...)我們已經竭盡全力，但傷者實在太多了，很多我們甚至無法辨識。"</Chinese>
-            <Chinesesimp>"我们的一名医生当时正不顾炮火带着医疗补给在前线活动"，麦克达德回忆道，"他失去了生命。为救别人而死。(...)据大家说，镇子就好像整个炸飞了。建筑物烧了几天，（...）我们已经竭尽全力，但伤者实在太多了，很多我们甚至无法辨识。"</Chinesesimp>
+            <Chinesesimp>"我们的一名医生当时正不顾炮火带着医疗补给在前线活动"，麦克达德回忆道，"他失去了生命。为救别人而死。（...）据大家说，镇子就好像整个炸飞了。建筑物烧了几天，（...）我们已经竭尽全力，但伤者实在太多了，很多我们甚至无法辨识。"</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_choice_4">
             <Original>Answering a question on who he felt was responsible for the suffering in the town, MacDade struggles to allocate blame, simply stating "I don't think it's quite so black and white. No one side can be held accountable for the bloodshed [...], no one action got us where we are now. I don't know, what can we do? Just double-down on our efforts. Heal the wounds.</Original>
@@ -359,7 +359,7 @@
           <Key ID="str_a3_orange_aan_text_7">
             <Original>Indeed, by Autumn 2034, Oreokastro had reverted to a state of conflict. Guerrillas took control of the town and setup defences to counter a government offensive: "[they] found themselves a new leader" MacDade explains. "For him, this was no time to surrender [...], he [rallied] the people - encouraged them to resist". </Original>
             <Chinese>當然，到2034年秋天，奧雷奧卡斯特羅進入了衝突狀態。游擊隊控制了城鎮並建立防禦準備抵擋政府進攻:"(他們)有了新的領導人，"麥克達德解釋道，"對他而言，現在不是投降的時間(...)，他(集結)了人們——鼓勵他們抵抗。"</Chinese>
-            <Chinesesimp>当然，到2034年秋天，奥雷奥卡斯特罗进入了冲突状态。游击队控制了城镇并建立防御准备抵挡政府进攻："(他们)有了新的领导人，"麦克达德解释道，"对他而言，现在不是投降的时间(...)，他（集结）了人们——鼓励他们抵抗。"</Chinesesimp>
+            <Chinesesimp>当然，到2034年秋天，奥雷奥卡斯特罗进入了冲突状态。游击队控制了城镇并建立防御准备抵挡政府进攻："（他们）有了新的领导人，"麦克达德解释道，"对他而言，现在不是投降的时间（...），他（集结）了人们——鼓励他们抵抗。"</Chinesesimp>
           </Key>
           <Key ID="str_a3_orange_aan_text_6">
             <Original>Under the Statute of the International Criminal Court, this sort of intentional action against peacekeeping missions is illegal. In fact, many now debate whether or not the civil war ever really ended, with some claiming the Jerusalem Ceasefire in 2030 was no more than a political whitewash.</Original>
@@ -1097,7 +1097,7 @@
         <Key ID="str_a3_orange_showcase_lawsofwar_diary_situation">
           <Original>As part of your standard infantry training in the Altis Armed Forces, you are attending an instruction session on the Laws of Armed Conflict (LOAC), or International Humanitarian Law (IHL) as your IDAP instructors will refer to it.&lt;br /&gt;&lt;br /&gt;Pay good attention! This topic matter is important to warfare, especially on the complex battlefields of today.</Original>
           <Chinese>作為你在阿爾蒂斯武裝力量標準步兵訓練中的一部分，你正在參加武裝衝突法則(LOAC)，或曰國際人道主義法(IHL)的訓練課程，你的國際發展援助工程組織的教員會提及它。&lt;br/&gt;&lt;br/&gt;認真聽講!這一話題的內容對戰爭十分重要，特別是在當今複雜的戰場形勢下。</Chinese>
-          <Chinesesimp>作为你在阿尔蒂斯武装部队标准步兵训练中的一部分，你正在参加武装冲突法则(LOAC)，或曰国际人道主义法（IHL）的训练课程，你的国际发展援助工程组织的教员会提及它。&lt;br/&gt;&lt;br/&gt;认真听讲！这一话题的内容对战争十分重要，特别是在当今复杂的战场形势下。</Chinesesimp>
+          <Chinesesimp>作为你在阿尔蒂斯武装部队标准步兵训练中的一部分，你正在参加武装冲突法则（LOAC），或曰国际人道主义法（IHL）的训练课程，你的国际发展援助工程组织的教员会提及它。&lt;br/&gt;&lt;br/&gt;认真听讲！这一话题的内容对战争十分重要，特别是在当今复杂的战场形势下。</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_showcase_lawsofwar_diary_signal">
           <Original>IDAP - International Development &amp;amp; Aid Project (civilian NGO)</Original>
@@ -7597,7 +7597,7 @@
         <Key ID="str_a3_orange_leaflets_cfgtaskdescriptions_bis_placemines_description1">
           <Original>There already are some anti-personnel (AP) and anti-tank (AT) mines there. Be careful when walking around them!</Original>
           <Chinese>那裡已經部署了反人員(AP)和反坦克(AT)地雷了。小心繞過他們!</Chinese>
-          <Chinesesimp>那里已经部署了反人员(AP)和反坦克（AT）地雷了。小心绕过他们！</Chinesesimp>
+          <Chinesesimp>那里已经部署了反人员（AP）和反坦克（AT）地雷了。小心绕过他们！</Chinesesimp>
         </Key>
         <Key ID="str_a3_orange_leaflets_cfgtaskdescriptions_bis_leaflet_title">
           <Original>Investigate Leaflet</Original>
